@@ -19,13 +19,13 @@ WITH_FUTURE_DATES = False
 ANALYTICS = ()   # pelicanconf-live.py will override this
 
 AUTHOR = u'Thomas Barclay'
-SITENAME = "Kepler &amp; K2"
-BANNER_SUBTITLE = "Science Center"
-SITEURL = "https://keplerscience.arc.nasa.gov"
+SITENAME = "TESS"
+BANNER_SUBTITLE = "Guest Investigator Program"
+SITEURL = "https://tessgi.gsfc.nasa.gov/"
 SITELOGO = 'images/NASA_logo_vector_lg.png'
 SITELOGO_SIZE = 32
 FAVICON = 'images/favicon.png'
-TIMEZONE = 'America/Los_Angeles'
+TIMEZONE = 'America/New_York'
 DEFAULT_LANG = u'en'
 
 PATH = 'content'
