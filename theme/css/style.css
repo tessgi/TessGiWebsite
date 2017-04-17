@@ -221,7 +221,7 @@ figure.floatcenter, .align-center {
     color: #fff;
     font-size: 40px;
     line-height: 1.33;
-    opacity: 0.8;
+    opacity: 0.5;
 }
 #banner .btn, #banner .intro {
     margin-left: 4px;
@@ -545,4 +545,23 @@ div.section {
     background-image: linear-gradient(to right, rgba(236,240,241,0.0001) 0, rgba(236,240,241,0.9) 100%);
     background-repeat: repeat-x;
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00ecf0f1', endColorstr='#80ecf0f1', GradientType=1);
+}
+
+
+
+/*** TESSIFICATION STARTS HERE
+(Changes to pelican-bootstrap below made by Tom for TESS) 
+***/
+
+#banner .intro {
+    color: #fff;
+    font-size: 40px;
+    line-height: 1.33;
+    opacity: 0.8;
+}
+
+.btn-default {
+    color: #ffffff;
+    background-color: #2780e3;
+    border-color: #2780e3;
 }
