@@ -41,7 +41,8 @@ IGNORE_FILES = [
 ]
 
 # Enable RSS feeds
-FEED_DOMAIN = "https://keplerscience.arc.nasa.gov"
+# FEED_DOMAIN = "https://keplerscience.arc.nasa.gov"
+FEED_DOMAIN = ""
 FEED_ALL_ATOM = "feeds/all.atom.xml"
 FEED_ALL_RSS = "feeds/all.rss.xml"
 # We don't need per-author or per-category or per-translation feeds
