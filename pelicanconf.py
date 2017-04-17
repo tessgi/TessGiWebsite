@@ -82,11 +82,11 @@ MENUITEMS = (
         ('News', 'archives.html'),
         ('Spacecraft', (
             ('Objectives', 'objectives.html'),
-            ('Telescope', 'the-kepler-space-telescope.html'),
+            ('Telescope', 'the-tess-space-telescope.html'),
             ('Science', 'science.html'),
             ('Publications', 'publications.html'),
-            ('Conferences', 'conferences.html'),
-            ('Users Panel', 'users-panel.html'),
+            # ('Conferences', 'conferences.html'),
+            # ('Users Panel', 'users-panel.html'),
             )
          ),
         ('Using TESS', (
