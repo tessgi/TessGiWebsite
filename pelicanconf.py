@@ -33,7 +33,7 @@ THEME = "themes/pelican-bootstrap3-kepler"
 BOOTSTRAP_THEME = 'flatly'
 BOOTSTRAP_FLUID = False
 
-BANNER = "images/kepler-k2-banner.jpg"
+BANNER = "images/tess-banner.jpg"
 HIDE_SITENAME = False
 
 IGNORE_FILES = [
