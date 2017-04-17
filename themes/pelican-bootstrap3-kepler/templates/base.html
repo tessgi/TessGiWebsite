@@ -17,12 +17,12 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <!--Custom meta data-->
 
-    <meta name="dc.title" content="NASA - Kepler/K2 Guest Observer Program" />
+    <meta name="dc.title" content="NASA - TESS Guest Investigator Program" />
     <meta name="dc.format" content="text/html" />
     <meta name="dc.date.modified" content="{{ DATE_MODIFIED }}" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Kepler Guest Observers" />
-    <meta name="dc.identifier" content="http://keplergo.arc.nasa.gov" />
+    <meta name="dc.identifier" content="http://tessgi.gsfc.nasa.gov" />
     <meta name="dc.audience" content="Astronomers, Astrophysicists, Scientists, Researchers" />
     <meta name="dc.subject.discipline" content="Astrophysics, Astronomy" />
     <meta name="orgcode" content="SSA">
@@ -77,7 +77,8 @@ in August 2015, using pelican-bootstrap and flatly.
     {% include 'includes/twitter_cards.html' %}
 
     <!-- Why use Helvetica Neue when you can have Lato? -->
-    <link href="{{ SITEURL }}/theme/css/lato.css" rel="stylesheet">
+    <!-- Why use Lato when you can have Nunito? -->
+    <link href="{{ SITEURL }}/theme/css/nunito.css" rel="stylesheet">
 
     <!-- Bootstrap -->
     {% if BOOTSTRAP_THEME %}
