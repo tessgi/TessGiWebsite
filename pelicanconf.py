@@ -30,7 +30,7 @@ DEFAULT_LANG = u'en'
 
 PATH = 'content'
 THEME = "themes/pelican-bootstrap3-kepler"
-BOOTSTRAP_THEME = 'flatly'
+BOOTSTRAP_THEME = 'cosmo'
 BOOTSTRAP_FLUID = False
 
 BANNER = "images/tess-banner.jpg"
@@ -96,8 +96,8 @@ MENUITEMS = (
             ('Data release notes', 'k2-data-release-notes.html'),
             ('Proposal preparation', 'k2-proposing-targets.html'),
             ('Discretionary time', 'k2-ddt.html'),
-            ('C9 Microlensing experiment', 'k2-c9.html'),
-            ('C16 Supernova experiment', 'supernova-experiment'),
+            # ('C9 Microlensing experiment', 'k2-c9.html'),
+            # ('C16 Supernova experiment', 'supernova-experiment'),
             )
          ),
         ('Data analysis', (
@@ -160,5 +160,8 @@ RELATIVE_URLS = True
 
 DISPLAY_PAGES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = False
+
+BOOTSTRAP_NAVBAR_INVERSE = True
+
 
 DATE_MODIFIED = datetime.datetime.now().strftime('%Y-%m-%d')

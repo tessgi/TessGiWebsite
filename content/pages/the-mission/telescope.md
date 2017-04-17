@@ -1,4 +1,4 @@
-Title: Characteristics of the Kepler space telescope
+Title: Characteristics of the TESS space telescope
 Save_as: the-tess-space-telescope.html
 
 [TOC]
