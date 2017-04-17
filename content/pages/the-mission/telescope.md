@@ -1,5 +1,5 @@
 Title: Characteristics of the Kepler space telescope
-Save_as: the-kepler-space-telescope.html
+Save_as: the-tess-space-telescope.html
 
 [TOC]
 
