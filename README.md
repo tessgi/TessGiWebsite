@@ -1,21 +1,22 @@
-# TESS Website [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.236317.svg)](https://doi.org/10.5281/zenodo.236317)
+# TESS Website 
+<!-- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.236317.svg)](https://doi.org/10.5281/zenodo.236317)
+ -->
+***The website for astronomers using NASA's TESS space telescope.***
 
-***The website for astronomers using NASA's Kepler/K2 space telescope.***
+Live URL: Nothing for now
 
-Live URL: http://keplerscience.arc.nasa.gov
-
-Test URL: http://tessfi.github.io/TessGiWebsite/
+Test URL: http://tessgi.github.io/TessGiWebsite/
 
 
 ## Quickstart
 
-Kepler/K2's Science Center Website can be edited
+TESS's Guest Investigator Program Website can be edited
 by modifying the text files in the `content` sub-directory of this repository,
 compiling them using `make html` (or `make devserver`),
 and sending them to the server using `make live`.
 The essential commands for Kepler/K2 staff are:
 ```
-$ git clone git@github.com:KeplerGO/KeplerScienceWebsite.git
+$ git clone https://github.com/tessgi/TessGiWebsite.git
 $ cd KeplerScienceWebsite
 $ make devserver
 $ firefox http://localhost:8000
@@ -37,10 +38,10 @@ In what follows these steps are explained in more detail.
 The first step to start editing the website is to clone the website's main git repository
 onto your local machine, e.g. using:
 ```
-git clone git@github.com:KeplerGO/KeplerScienceWebsite.git
+git clone https://github.com/tessgi/TessGiWebsite.git
 ```
 If you are going to make changes to the website,
-you will need to ask the Kepler GO Office
+you will need to ask the TESS GI Office
 to give your GitHub account write permissions to this repository.
 
 ### 2. Installing the dependencies
@@ -138,16 +139,18 @@ Note: `make quick` and `make devserver` both use agressive caching which allows 
 
 ## Authors
 
-Created by Thomas Barclay, Geert Barentsen, and Knicole Colón
-for the Kepler/K2 Guest Observer Office at NASA Ames.
+This site started off as the Kepler/K2 website, created by Thomas Barclay, Geert Barentsen, and Knicole Colónfor the Kepler/K2 Guest Observer Office at NASA Ames.
+
+The TESS GI website is developed and maintained by Thomas Barclay, Elisa Quintana and Josh Schlieder at NASA Goddard
 
 Created using the [Pelican package](getpelican.com) and the
 [pelican-bootstrap3 theme](https://github.com/DandyDev/pelican-bootstrap3).
 
 
 ## Citation
+coming at a later date
 
-You can cite the Kepler/K2 Science Website in your publications using its [DOI identifier](http://dx.doi.org/10.5281/zenodo.44393)
+<!-- You can cite the Kepler/K2 Science Website in your publications using its [DOI identifier](http://dx.doi.org/10.5281/zenodo.44393)
 or using the following BibTex code:
 ```
 @misc{tom_barclay_2016_44393,
@@ -160,4 +163,4 @@ or using the following BibTex code:
   doi          = {10.5281/zenodo.44393},
   url          = {http://dx.doi.org/10.5281/zenodo.44393}
 }
-```
+``` -->
