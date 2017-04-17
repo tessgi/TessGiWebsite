@@ -1,10 +1,10 @@
-# Kepler/K2 Science Website [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.236317.svg)](https://doi.org/10.5281/zenodo.236317)
+# TESS Website [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.236317.svg)](https://doi.org/10.5281/zenodo.236317)
 
 ***The website for astronomers using NASA's Kepler/K2 space telescope.***
 
 Live URL: http://keplerscience.arc.nasa.gov
 
-Test URL: http://keplergo.github.io/KeplerScienceWebsite/
+Test URL: http://tessfi.github.io/TessGiWebsite/
 
 
 ## Quickstart
