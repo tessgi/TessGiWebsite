@@ -115,9 +115,15 @@ KEY_INFORMATION = (
 
 # Defines the "important dates" box on the front page
 IMPORTANT_DATES = (
-            ('<b>7 Mar 2017</b>',
-             'K2 Campaign 12 raw data release',
-             'http://archive.stsci.edu/k2/trappist1/'),
+            ('<b>XX Jun 2017</b>',
+             'Release of Cycle 1 call for proposals',
+             'url'),
+            ('<b>XX Nov 2017</b>',
+             'Cycle 1 proposal submission deadline ',
+             'url'),
+            ('<b>20 Mar 2018</b>',
+             'Launch date',
+             'url'),
          )
 
 # Defines the "meetings" box on the front page
