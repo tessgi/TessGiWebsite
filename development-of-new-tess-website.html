@@ -15,12 +15,12 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <!--Custom meta data-->
 
-    <meta name="dc.title" content="NASA - Kepler/K2 Guest Observer Program" />
+    <meta name="dc.title" content="NASA - TESS Guest Investigator Program" />
     <meta name="dc.format" content="text/html" />
     <meta name="dc.date.modified" content="2017-04-17" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Kepler Guest Observers" />
-    <meta name="dc.identifier" content="http://keplergo.arc.nasa.gov" />
+    <meta name="dc.identifier" content="http://tessgi.gsfc.nasa.gov" />
     <meta name="dc.audience" content="Astronomers, Astrophysicists, Scientists, Researchers" />
     <meta name="dc.subject.discipline" content="Astrophysics, Astronomy" />
     <meta name="orgcode" content="SSA">
@@ -47,10 +47,11 @@ in August 2015, using pelican-bootstrap and flatly.
 
 
     <!-- Why use Helvetica Neue when you can have Lato? -->
-    <link href="./theme/css/lato.css" rel="stylesheet">
+    <!-- Why use Lato when you can have Nunito? -->
+    <link href="./theme/css/nunito.css" rel="stylesheet">
 
     <!-- Bootstrap -->
-        <link rel="stylesheet" href="./theme/css/bootstrap.flatly.min.css" type="text/css"/>
+        <link rel="stylesheet" href="./theme/css/bootstrap.cosmo.min.css" type="text/css"/>
     <link href="./theme/css/font-awesome.min.css" rel="stylesheet">
 
     <link href="./theme/css/exoplanet_archive_icons.css" rel="stylesheet">
@@ -66,15 +67,15 @@ in August 2015, using pelican-bootstrap and flatly.
 <body>
 
 <!-- Print a warning message that this is not the official site -->
-<div class="container container-wide" style="background-color: #e74c3c; color: white; padding: 1.5em; font-weight: bold;">
+<div class="container container-wide" style="background-color: #d35400; color: white; padding: 1.5em; font-weight: bold;">
   <div class="container">
    <i class="fa fa-warning fa-lg fa-margin"></i>
-    This is the development version of the Kepler/K2 science website.
-    For the live website, visit <a href="https://keplerscience.arc.nasa.gov/">keplerscience.arc.nasa.gov</a>
+    This is the development version of the TESS Guest Investigator Program website.
+    For the live website, visit <a href="https://heasarc.gsfc.nasa.gov/docs/tess/">https://heasarc.gsfc.nasa.gov/docs/tess</a>
   </div>
 </div>
 
-<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
 
   <div class="container">
         <div class="navbar-header">
@@ -94,11 +95,9 @@ in August 2015, using pelican-bootstrap and flatly.
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Spacecraft <b class="caret"></b></a>
                             <ul class="dropdown-menu">
                                 <li><a href="./objectives.html">Objectives</a></li>
-                                <li><a href="./the-kepler-space-telescope.html">Telescope</a></li>
+                                <li><a href="./the-tess-space-telescope.html">Telescope</a></li>
                                 <li><a href="./science.html">Science</a></li>
                                 <li><a href="./publications.html">Publications</a></li>
-                                <li><a href="./conferences.html">Conferences</a></li>
-                                <li><a href="./users-panel.html">Users Panel</a></li>
                             </ul>
                         </li>
                         <li class="dropdown">
@@ -110,8 +109,6 @@ in August 2015, using pelican-bootstrap and flatly.
                                 <li><a href="./k2-data-release-notes.html">Data release notes</a></li>
                                 <li><a href="./k2-proposing-targets.html">Proposal preparation</a></li>
                                 <li><a href="./k2-ddt.html">Discretionary time</a></li>
-                                <li><a href="./k2-c9.html">C9 Microlensing experiment</a></li>
-                                <li><a href="./supernova-experiment">C16 Supernova experiment</a></li>
                             </ul>
                         </li>
                         <li class="dropdown">
