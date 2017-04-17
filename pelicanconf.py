@@ -79,7 +79,7 @@ PLUGINS = ['extract_toc']
 # Defines the menu items in the top bar
 MENUITEMS = (
         ('News', 'archives.html'),
-        ('The missions', (
+        ('Spacecraft', (
             ('Objectives', 'objectives.html'),
             ('Telescope', 'the-kepler-space-telescope.html'),
             ('Science', 'science.html'),
@@ -88,7 +88,7 @@ MENUITEMS = (
             ('Users Panel', 'users-panel.html'),
             )
          ),
-        ('K2 observing', (
+        ('Using TESS', (
             ('Overview', 'k2-observing.html'),
             ('Campaign fields', 'k2-fields.html'),
             ('Targets &amp; programs', 'k2-approved-programs.html'),
@@ -111,9 +111,6 @@ MENUITEMS = (
 # Defines the "key information" box on the front page
 KEY_INFORMATION = (
             ('K2: Campaign fields', 'k2-fields.html'),
-            ('K2: Proposing targets', 'k2-proposing-targets.html'),
-            ('K2: Observed programs', 'k2-approved-programs.html'),
-            ('Kepler/K2: Data products', 'data-products.html'),
             )
 
 # Defines the "important dates" box on the front page
@@ -121,15 +118,6 @@ IMPORTANT_DATES = (
             ('<b>7 Mar 2017</b>',
              'K2 Campaign 12 raw data release',
              'http://archive.stsci.edu/k2/trappist1/'),
-            ('<b>27 Apr 2017</b>',
-             'K2 Campaign 11 calibrated data release (expected)',
-             'k2-fields.html'),
-            ('<b>15 May 2017</b>',
-             'Kepler & K2 SciCon US registration deadline',
-             'scicon4/'),
-            ('<b>25 May 2017</b>',
-             'K2 Campaign 15 DDT deadline',
-             'k2-ddt.html'),
          )
 
 # Defines the "meetings" box on the front page
