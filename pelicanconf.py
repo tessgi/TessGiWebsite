@@ -80,7 +80,7 @@ PLUGINS = ['extract_toc']
 # Defines the menu items in the top bar
 MENUITEMS = (
         ('News', 'archives.html'),
-        ('Spacecraft', (
+        ('Mission', (
             ('Objectives', 'objectives.html'),
             ('Telescope', 'the-tess-space-telescope.html'),
             ('Science', 'science.html'),
