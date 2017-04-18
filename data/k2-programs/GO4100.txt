@@ -1,0 +1,46 @@
+# Summary of K2 Program GO4100
+
+Title: A Kepler Galaxy Survey - Expanding the Temporal Baseline for Extragalactic Systems
+
+PI: Fanelli, Michael N. ()
+CoIs: Marcum, Pamela M
+
+Kepler's combination of high-photometric precision and near-continuous observing cadence provides a unique insight on variability in extragalactic systems, by opening up the time domain in previously unavailable detail.   Ground-base monitoring of short-term variations are strongly limited by weather and the diurnal cycle, while long-term monitoring is effected by seasonal observing windows.  Kepler permits monitoring of galaxies which is sensitive to both continuous variability, especially millimag-level variations from embedded active nuclei and random episodic events, such as supernovae and accretion events induced by tidal disruption of stars orbiting near a SMBH.  The primary objectives of this proposal are (a) to expand the baseline of time-domain observations of galactic systems with emphasis on galaxy types not well represented in the Kepler and previous K2 campaigns; (b) quantify the frequency of and amplitude of optical AGN signals in galaxy cores, both quasi-continuous and episodic, and (c) provide a direct measure of supernovae rates across galaxy types, focusing on starburst systems.  The reduced sensitivity expected in the K2 campaign still opens up parameter space not accessible from the ground for the topics described above.  Goal (b) and (c) are statistical in nature, in which the desire for very large samples to improve detection statistics must be balanced against overall target availability and competing science in each campaign.  Measuring the frequency of AGN signals informs on the widely accepted but unproven paradigm that all galaxies contain a central supermassive black hole whose mass scales roughly with the total galaxy mass. For goal (c) we will emphasis starburst systems to improve the odds of detecting the initial light from multiple Type II supernovae. We expect 200-400 targets to meet our criteria for Field 4 and 5 with more robust sampling in Field 5.
+
+# Targets requested by this program that have been observed (35)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+210349443, 54.49833, 12.206535, 15.184, GO4096_LC|GO4100_LC
+210372465, 54.612492, 12.811399, 17.473, GO4096_LC|GO4100_LC
+210400021, 61.829595, 13.466787, 15.258, GO4096_LC|GO4100_LC
+210403574, 55.39655, 13.550576, 15.472, GO4096_LC|GO4100_LC
+210415754, 53.938433, 13.823167, 16.168, GO4096_LC|GO4100_LC
+210438332, 55.95926, 14.295798, 16.081, GO4096_LC|GO4100_LC
+210453840, 58.817874, 14.59471, 14.678, GO4096_LC|GO4100_LC
+210472632, 55.362038, 14.938992, 16.963, GO4096_LC|GO4100_LC
+210476088, 55.170811, 15.001693, 16.161, GO4096_LC|GO4100_LC
+210480281, 55.355426, 15.074937, 17.462, GO4096_LC|GO4100_LC
+210483678, 53.636597, 15.133691, 15.299, GO4096_LC|GO4100_LC
+210488966, 63.43121, 15.224187, 15.034, GO4096_LC|GO4100_LC
+210497903, 58.596681, 15.378049, 15.008, GO4096_LC|GO4100_LC
+210503756, 55.057856, 15.475716, 14.578, GO4096_LC|GO4100_LC
+210514050, 54.925399, 15.645507, 15.761, GO4096_LC|GO4100_LC
+210519982, 54.750307, 15.74159, 15.396, GO4096_LC|GO4100_LC
+210524766, 54.806632, 15.819556, 14.596, GO4096_LC|GO4100_LC
+210528283, 53.246207, 15.874697, 16.762, GO4096_LC|GO4100_LC
+210532166, 54.820602, 15.93658, 17.316, GO4096_LC|GO4100_LC
+210534924, 54.802892, 15.980991, 17.301, GO4096_LC|GO4100_LC
+210664997, 59.013353, 17.874599, 15.296, GO4096_LC|GO4100_LC
+210701489, 58.730996, 18.384178, 16.174, GO4096_LC|GO4100_LC
+210718039, 56.283532, 18.625724, 15.147, GO4096_LC|GO4100_LC
+210731481, 57.611494, 18.827171, 15.107, GO4096_LC|GO4100_LC
+210749768, 58.403504, 19.105127, 14.963, GO4096_LC|GO4100_LC
+210768268, 54.572903, 19.386571, 14.919, GO4096_LC|GO4100_LC
+210836593, 61.099843, 20.427118, 16.871, GO4096_LC|GO4100_LC
+210910922, 60.663758, 21.560897, 14.972, GO4096_LC|GO4100_LC
+210931693, 60.627251, 21.890688, 14.944, GO4096_LC|GO4100_LC
+210948409, 60.93328, 22.159199, 14.83, GO4096_LC|GO4100_LC
+210953493, 61.33881, 22.240262, 15.409, GO4096_LC|GO4100_LC
+210982150, 64.006728, 22.696196, 15.318, GO4096_LC|GO4100_LC
+211005198, 57.541689, 23.057157, 15.009, GO4096_LC|GO4100_LC
+211008743, 60.419963, 23.112736, 14.805, GO4096_LC|GO4100_LC
+211009973, 60.52847, 23.132957, 14.783, GO4096_LC|GO4100_LC
