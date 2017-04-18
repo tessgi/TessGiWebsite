@@ -1,5 +1,5 @@
-Title: Old Science
-Save_as: old-science.html
+Title: Science
+Save_as: science.html
 
 [TOC]
 

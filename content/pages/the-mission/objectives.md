@@ -1,28 +1,16 @@
-Title: Old Mission objectives
-Save_as: old-objectives.html
+Title: Mission objectives
+Save_as: objectives.html
 
 [TOC]
 
-## Kepler
-**A search for Earth-like planets around Sun-like stars**
+## TESS
+**Discovering New Earths and Super-Earths in the Solar Neighborhood**
 
-The Kepler spacecraft launched in March 2009 and spent a little over
-four years monitoring more than 150,000 stars in the Cygnus-Lyra region with continuous 30-min
-or 1-min sampling.  The primary science objective of the Kepler
-mission was transit-driven exoplanet detection with an emphasis on
-terrestrial (R
-< 2.5 R<sub>Earth</sub>) planets located within the habitable zones of Sun-like
-stars.
+The Transiting Exoplanet Survey Satellite (TESS) is an Explorer-class planet finder. In the first-ever spaceborne all-sky transit survey, TESS will identify planets ranging from Earth-sized to gas giants, orbiting a wide range of stellar types and orbital distances. The principal goal of the TESS mission is to detect small planets with bright host stars in the solar neighborhood, so that detailed characterizations of the planets and their atmospheres can be performed.
 
-Kepler exceeded its nominal mission lifetime of three years
-and continued operating for an additional year as an extended
-mission. Between the nominal and extended missions, [Kepler has discovered thousands of transiting
-planets](science.html#science-from-kepler) and revealed that small
-planets are abundant in the Galaxy.  The ultimate goal of the Kepler
-mission is to measure the fraction of stars with Earth-size
-planets as well as the fraction of stars harboring Earth-size planets
-in the Habitable Zone, work which is still in progress by the Kepler
-Science Office. The community is also encouraged to exploit the mission's [unique data archive](data-products.html).
+TESS will monitor the brightnesses of more than 200,000 stars during a two year mission, searching for temporary drops in brightness caused by planetary transits. Transits occur when a planet's orbit carries it directly in front of its parent star as viewed from Earth. TESS is expected to catalog more than 1,500 transiting exoplanet candidates, including a sample of ∼500 Earth-sized and ‘Super Earth’ planets, with radii less than twice that of the Earth. TESS will detect small rock-and-ice planets orbiting a diverse range of stellar types and covering a wide span of orbital periods, including rocky worlds in the habitable zones of their host stars.
+
+
 
 <br/>
 

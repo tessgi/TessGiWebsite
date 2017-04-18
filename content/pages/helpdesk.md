@@ -1,4 +1,4 @@
-Title: Kepler/K2 Helpdesk
+Title: TESS Helpdesk
 Save_as: helpdesk.html
 
 ### Guest Observer Office
@@ -28,22 +28,23 @@ Save_as: helpdesk.html
 
 ### E-mail
 
-You can contact the Guest Observer Office at [keplergo@mail.arc.nasa.gov](mailto:keplergo@mail.arc.nasa.gov) for advice and information on:
+You can contact the Guest Investigator Office at [tessgi@bigbang.gsfc.nasa.gov](mailto:tessgi@bigbang.gsfc.nasa.gov) for advice and information on:
 
-* the Kepler or K2 missions;
+* the TESS mission;
+* proposing to observe with TESS
 * instrument characteristics;
 * data and calibration issues;
 * data analysis software.
 
 Your contact information will be used to answer your query and will not be used for commercial purposes or given away except as required by law. For more information, consult the [NASA Privacy Policy](http://www.nasa.gov/about/highlights/HP_Privacy.html).
 
-### Twitter
+<!-- ### Twitter
 
 You can also tweet your questions to <a href="https://twitter.com/KeplerGO">@KeplerGO</a>, 
 or search for hashtag <a href="https://twitter.com/search?q=k2mission">#K2Mission</a>
-on Twitter.
+on Twitter. -->
 
-### FAQ
+<!-- ### FAQ
 
 The FAQ archives at MAST for
 [Kepler](http://archive.stsci.edu/mast_faq.php?mission=KEPLER) and
@@ -51,4 +52,4 @@ The FAQ archives at MAST for
 questions about the missions as well as how to retrieve and analyze
 the data.  The FAQ archives on the original Kepler/K2 website can be accessed
 [here for Kepler](/FAQ.shtml) and
-[here for K2](/K2/FAQ.shtml). 
+[here for K2](/K2/FAQ.shtml).  -->
