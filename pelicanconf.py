@@ -20,7 +20,7 @@ ANALYTICS = ()   # pelicanconf-live.py will override this
 
 AUTHOR = u'Thomas Barclay'
 SITENAME = "TESS"
-BANNER_SUBTITLE = "Guest Investigator Program"
+BANNER_SUBTITLE = "Community Science Center"
 SITEURL = "https://tessgi.gsfc.nasa.gov"
 SITELOGO = 'images/NASA_logo_vector_lg.png'
 SITELOGO_SIZE = 32
