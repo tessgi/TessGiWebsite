@@ -14,41 +14,17 @@ TESS will monitor the brightnesses of more than 200,000 stars during a two year 
 
 <br/>
 
-<img class="img-responsive" style="max-width:60%;" src="images/Kepler_ExoDISC.jpg">
-*Image Credit: NASA Ames/W. Stenzel*
+<img class="img-responsive" style="max-width:60%;" src="images/mission/tess_mit_image.jpg">
+*Image Credit: MIT*
 
 <br/>
 
-## K2
-**Extending Kepler's power to the ecliptic**
-
-The loss of a second of the four reaction wheels on board the Kepler 
-spacecraft in May 2013 brought an end to Kepler's four plus year science 
-mission to continuously monitor more than 150,000 stars to search for
-transiting exoplanets.  Developed over the months following this failure, 
-the [K2 mission](http://adsabs.harvard.edu/abs/2014PASP..126..398H) represents a new concept for spacecraft operations 
-that enables continued scientific observations 
-with the Kepler space telescope. K2 became fully operational in June
-2014 and is expected to continue operating until 2017 or 2018.
-
-The K2 mission entails a series of sequential observing
-<a href="k2-fields.html">"Campaigns"</a> 
-of fields distributed around the ecliptic plane 
-and offers a photometric precision <a
-href="k2-observing.html#fine-point-photometric-precision">approaching that 
-of the original Kepler mission</a>. Operating in the ecliptic plane minimizes the torque exerted 
-on the spacecraft by solar wind pressure, 
-reducing pointing drift to the point where spacecraft attitude 
-can effectively be controlled through a combination of thrusters 
-and the two remaining reaction wheels. Each campaign is therefore limited by Sun angle constraints 
-to a duration of approximately 80 days. 
 
 **Scientific motivations**
 
-K2 is an entirely community-driven mission.
-All K2 targets are proposed by the community through the
-[Guest Observer program](k2-proposing-targets.html).  The scientific potential spans a wide range of astrophysics.
-It is anticipated that K2 will:
+A select set of TESS targets will be proposed by the community through the
+[Guest Observer program](tess-proposing-targets.html).  The scientific potential spans a wide range of astrophysics.
+It is anticipated that TESS will:
 
 * Provide a yield of **hot planets around bright stars** for follow-up transit 
 spectroscopy to facilitate rapid advances in the characterization of exoplanet atmospheres.
@@ -72,8 +48,7 @@ of ecliptic targets along with other space-based hardware or ground-based telesc
 
 **Potential targets**
 
-The K2 mission
-welcomes all proposals including, but not exclusive to, exoplanet,
+The TESS mission welcomes all proposals including, but not exclusive to, exoplanet,
 stellar, extragalactic, and solar system science. The following is a
 list of potential targets:
 
