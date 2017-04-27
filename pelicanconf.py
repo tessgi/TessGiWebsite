@@ -90,20 +90,20 @@ MENUITEMS = (
             )
          ),
         ('Using TESS', (
-            ('Overview', 'k2-observing.html'),
-            ('Campaign fields', 'k2-fields.html'),
-            ('Targets &amp; programs', 'k2-approved-programs.html'),
-            ('Data release notes', 'k2-data-release-notes.html'),
-            ('Proposal preparation', 'k2-proposing-targets.html'),
-            ('Discretionary time', 'k2-ddt.html'),
+            ('Overview', 'observing.html'),
+            ('Proposal preparation', 'proposing-targets.html'),
+            # ('Campaign fields', 'k2-fields.html'),
+            # ('Targets &amp; programs', 'k2-approved-programs.html'),
+            # ('Data release notes', 'k2-data-release-notes.html'),
+            ('Discretionary targets', 'ddt.html'),
             # ('C9 Microlensing experiment', 'k2-c9.html'),
             # ('C16 Supernova experiment', 'supernova-experiment'),
             )
          ),
         ('Data analysis', (
-            ('Data products', 'data-products.html'),
-            ('Pipeline', 'pipeline.html'),
-            ('Software', 'software.html'),
+            ('Data archive', 'data-products.html'),
+            ('Follow-up Program', 'followup.html'),
+            ('Analysis software', 'software.html'),
             ('Community products', 'community-products.html'),
             )
          ),
