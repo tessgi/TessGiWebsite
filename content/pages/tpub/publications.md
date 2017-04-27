@@ -182,9 +182,9 @@ within the last 90 days.
 
 -->
 
-## Most-active authors
+<!-- ## Most-active authors
 
 The entries in the publication database have been authored and co-authored
 by a total of 194 unique author names.
-Here we list the most-active authors, defined as those with six or more first-author publications in our database.
+Here we list the most-active authors, defined as those with six or more first-author publications in our database. -->
 
