@@ -1,18 +1,17 @@
-Title: K2 Director's Discretionary Target (DDT) program
-Save_as: k2-ddt.html
+Title: TESS Director's Discretionary Target (DDT) program
+Save_as: ddt.html
 
+We anticipate that a small percentage of the available TESS resources in each sector may be allocated as Director's Discretionary Targets (DDTs). The primary utilization of DDT programs is in support of community-proposed requests that are based on exceptional, time-critical observing opportunities that cannot be accommodated with the regular proposal cycle. Other DDT usages include innovative observations that extend the scientific capabilities of TESS, and extraordinary events and opportunities that necessitate observations be obtained with TESS for the benefit of the astronomical community. Note that all DDT observations are publicly available immediately, and no funding is available to the proposer for DDT observations. 
 
-A small percentage of the available K2 pixels in each campaign may be allocated by the K2 Guest Observer (GO) Office Director as Director's Discretionary Targets (DDTs).  The primary utilization of DDT programs is in support of community-proposed requests that are based on exceptional, time-critical observing opportunities that cannot be accommodated with the regular cycle of Calls for Proposals for K2. Other DDT usages include innovative observations that extend the scientific capabilities of K2, and extraordinary events and opportunities that necessitate -- in the view of the GO Office Director -- observations to be obtained with K2 for the benefit of the astronomical community.  Note that all DDT observations are publicly available immediately, and no funding is available to the proposer for DDT observations. 
-
-The purpose of the DDT program for K2 is therefore to facilitate observations that address emerging scientific topics or areas missed in the proposal review process and:
+The purpose of the DDT program for TESS is therefore to facilitate observations that address emerging scientific topics or areas missed in the proposal review process and:
 
 * respond to targets of opportunity, e.g. newly discovered exoplanets or supernovae;
-* yield high-impact science from K2;
-* enhance existing GO programs with additional critical data.
+* yield high-impact science from TESS;
+* enhance existing GI programs with additional critical data.
 
-We expect to observe several hundred targets through the DDT program, which amounts to a few per cent of the total targets allocated. The exact number of DDTs to be observed largely depends on the number of short versus long cadence DDTs approved. 
+More details of the DDT program will appear here when the program is launched. In the mean-time please contact [tessgi@bigbang.gsfc.nasa.gov](mailto:tessgi@bigbang.gsfc.nasa.gov) with comments and concerns.
 
-## Proposal Information
+<!-- ## Proposal Information
 
 A DDT request should consist of <2 pages of text including all
 figures, tables, and references, no smaller than 13-point font, and
@@ -45,5 +44,5 @@ to [keplergo@mail.arc.nasa.gov](keplergo@mail.arc.nasa.gov) by 23:59 PT (Pacific
 * **May 25, 2017 for Campaign 15**
 * **September 7, 2017 for Campaign 16**
 
-The fixed locations and observing windows of Campaigns 14, 15, and 16 are provided [at the field information page](k2-fields.html). 
+The fixed locations and observing windows of Campaigns 14, 15, and 16 are provided [at the field information page](k2-fields.html).  -->
  
