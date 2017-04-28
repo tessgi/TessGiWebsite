@@ -1,5 +1,5 @@
 Title: K2 observing
-Save_as: k2-observing.html
+Save_as: observing-technical.html
 
 [TOC]
 

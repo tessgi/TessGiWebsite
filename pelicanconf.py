@@ -82,7 +82,7 @@ MENUITEMS = (
         ('News', 'archives.html'),
         ('Mission', (
             ('Objectives', 'objectives.html'),
-            ('Telescope', 'the-tess-space-telescope.html'),
+            ('Telescope', 'telescope.html'),
             ('Operations', 'operations.html'),
             ('Science', 'science.html'),
             ('Publications', 'publications.html'),
@@ -92,7 +92,7 @@ MENUITEMS = (
          ),
         ('Using TESS', (
             ('Status', 'status.html'),
-            ('Technical details', 'observing.html'),
+            ('Technical details', 'observing-technical.html'),
             ('Proposal preparation', 'proposing-targets.html'),
             # ('Campaign fields', 'k2-fields.html'),
             # ('Targets &amp; programs', 'k2-approved-programs.html'),
