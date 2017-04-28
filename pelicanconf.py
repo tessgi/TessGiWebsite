@@ -82,7 +82,8 @@ MENUITEMS = (
         ('News', 'archives.html'),
         ('Mission', (
             ('Objectives', 'objectives.html'),
-            ('Telescope', 'the-tess-space-telescope.html'),
+            ('Telescope', 'telescope.html'),
+            ('Operations', 'operations.html'),
             ('Science', 'science.html'),
             ('Publications', 'publications.html'),
             # ('Conferences', 'conferences.html'),
@@ -90,40 +91,46 @@ MENUITEMS = (
             )
          ),
         ('Using TESS', (
-            ('Overview', 'k2-observing.html'),
-            ('Campaign fields', 'k2-fields.html'),
-            ('Targets &amp; programs', 'k2-approved-programs.html'),
-            ('Data release notes', 'k2-data-release-notes.html'),
-            ('Proposal preparation', 'k2-proposing-targets.html'),
-            ('Discretionary time', 'k2-ddt.html'),
+            ('Status', 'status.html'),
+            ('Technical details', 'observing-technical.html'),
+            ('Proposal preparation', 'proposing-targets.html'),
+            # ('Campaign fields', 'k2-fields.html'),
+            # ('Targets &amp; programs', 'k2-approved-programs.html'),
+            # ('Data release notes', 'k2-data-release-notes.html'),
+            ('Proposal tools', 'proposal-tools.html'),
+            ('Discretionary targets', 'ddt.html'),
+            ('FAQ', 'faq.html'),
             # ('C9 Microlensing experiment', 'k2-c9.html'),
             # ('C16 Supernova experiment', 'supernova-experiment'),
             )
          ),
         ('Data analysis', (
-            ('Data products', 'data-products.html'),
-            ('Pipeline', 'pipeline.html'),
-            ('Software', 'software.html'),
-            ('Community products', 'community-products.html'),
+            ('Data access', 'data-products.html'),
+            ('Simulated data', 'simulated-data.html'),
+            ('Follow-up program', 'followup.html'),
+            ('Analysis software', 'software.html'),
+            ('Documentation', 'documentation.html'),
             )
          ),
         )
 
 # Defines the "key information" box on the front page
 KEY_INFORMATION = (
-            ('K2: Campaign fields', 'k2-fields.html'),
+            ('Proposal preparation', 'proposing-targets.html'),
+            ('Observatory guidebook', 'documentation.html'),
+            ('Frequently asked questions', 'faq.html')
             )
 
 # Defines the "important dates" box on the front page
 IMPORTANT_DATES = (
-            ('<b>XX Jun 2017</b>',
+            ('<b>30 Jun 2017 tbc</b>',
              'Release of Cycle 1 call for proposals',
              'url'),
-            ('<b>XX Nov 2017</b>',
+            ('<b>01 Oct 2017 tbc</b>',
              'Cycle 1 proposal submission deadline ',
              'url'),
             ('<b>20 Mar 2018</b>',
-             'Launch date',
+             'Planned Mission launch date',
              'url'),
          )
 
@@ -134,21 +141,22 @@ MEETINGS = (
              'https://aas.org/meetings/aas230'),
             ('<b>19–23 Jun 2017</b><br>'
              'Kepler & K2 SciCon IV',
-             'scicon4/'),
+             'https://keplerscience.arc.nasa.gov/scicon4/'),
+            ('<b>16-21 Jul 2017</b><br>'
+             'Tessting Stellar Astrophysics, TASC3 KASC10 Workshop',
+             'http://www.tasc3kasc10.com/'),
             )
 
 # Defines the "related websites" listing in the footer of all pages
 RELATEDSITES = (
-            ("Kepler/K2 News and Media Resources",
-             'http://www.nasa.gov/mission_pages/kepler/main/index.html'),
-            ('Kepler/K2 Education Resources',
-             'http://kepler.arc.nasa.gov'),
-            ('Kepler/K2 @ Ball Aerospace',
-             'http://www.ballaerospace.com/page.jsp?page=72'),
-            ('Kepler Data Archive @ MAST',
-             'http://archive.stsci.edu/kepler'),
-            ('K2 Data Archive @ MAST',
-             'http://archive.stsci.edu/k2'),
+            ('News, Media, and Education Resources',
+             'https://tess.gsfc.nasa.gov/'),
+            ('TESS @ MIT',
+             'http://space.mit.edu/TESS/TESS/TESS_Overview.html'),
+            # ('TESS @ Orbital ATK',
+            #  'http://www.ballaerospace.com/page.jsp?page=72'),
+            ('TESS @ MAST',
+             'http://archive.stsci.edu/tess'),
             ('NASA Exoplanet Archive @ IPAC',
              'http://exoplanetarchive.ipac.caltech.edu'),
             )
