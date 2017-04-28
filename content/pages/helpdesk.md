@@ -5,7 +5,7 @@ Save_as: helpdesk.html
 
 <div class="row">
     <div class="col-sm-3 text-center">
-        <img src="images/faces/geert.jpg" class="img-circle"><br>
+        <img src="images/faces/padi.jpg" class="img-circle"><br>
         Dr Padi Boyd<br>
         Director
     </div>
@@ -15,9 +15,9 @@ Save_as: helpdesk.html
         Deputy Director
     </div>
     <div class="col-sm-3 text-center">
-        <img src="images/faces/knicole.jpg" class="img-circle"><br>
+        <img src="images/faces/elisa.jpg" class="img-circle"><br>
         Dr Elisa Quintana<br>
-        Job Title
+        Support Scientist
     </div>
     <div class="col-sm-3 text-center">
         <img src="images/faces/knicole.jpg" class="img-circle"><br>
@@ -31,7 +31,7 @@ Save_as: helpdesk.html
 You can contact the TESS Community Science Center at [tessgi@bigbang.gsfc.nasa.gov](mailto:tessgi@bigbang.gsfc.nasa.gov) for advice and information on:
 
 * the TESS mission;
-* proposing to observe with TESS
+* proposing to observe with TESS;
 * instrument characteristics;
 * data and calibration issues;
 * data analysis software.
