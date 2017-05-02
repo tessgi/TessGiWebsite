@@ -20,7 +20,7 @@ Save_as: helpdesk.html
         Support Scientist
     </div>
     <div class="col-sm-3 text-center">
-        <img src="images/faces/knicole.jpg" class="img-circle"><br>
+        <img src="images/faces/josh.jpg" class="img-circle"><br>
         Dr Josh Schlieder<br>
         Job Title
     </div>
@@ -38,11 +38,9 @@ You can contact the TESS Community Science Center at [tessgi@bigbang.gsfc.nasa.g
 
 Your contact information will be used to answer your query and will not be used for commercial purposes or given away except as required by law. For more information, consult the [NASA Privacy Policy](http://www.nasa.gov/about/highlights/HP_Privacy.html).
 
-<!-- ### Twitter
+### Twitter
 
-You can also tweet your questions to <a href="https://twitter.com/KeplerGO">@KeplerGO</a>, 
-or search for hashtag <a href="https://twitter.com/search?q=k2mission">#K2Mission</a>
-on Twitter. -->
+You can also tweet your questions to <a href="https://twitter.com/TESScsc">@TESScsc</a> on Twitter.
 
 <!-- ### FAQ
 
