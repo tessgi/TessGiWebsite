@@ -116,11 +116,13 @@ MENUITEMS = (
 
 # Defines the "key information" box on the front page
 KEY_INFORMATION = (
-            ('Proposal preparation', 'proposing-targets.html'),
-            ('Observatory guidebook', 'documentation.html'),
-            ('Frequently asked questions', 'faq.html')
-            ('Volunteer to serve on a review panel', 'https://goo.gl/forms/p4ZqiTQSEHjbM6nz2')
-            )
+    ('Proposal preparation', 'proposing-targets.html'),
+    ('Observatory guidebook', 'documentation.html'),
+    ('Frequently asked questions', 'faq.html')
+    ('Volunteer to serve on a review panel',
+        'https://goo.gl/forms/p4ZqiTQSEHjbM6nz2'),
+    ('Simulated data', 'data-products.html#simulated-data'),
+)
 
 # Defines the "important dates" box on the front page
 IMPORTANT_DATES = (
