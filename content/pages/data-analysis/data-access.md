@@ -1,31 +1,23 @@
-Title: Kepler and K2 data products
-Save_as: data-products.html
+Title: Accessing TESS data products
+Save_as: data-access.html
 
 [TOC]
 
-There are two archives for *official* Kepler and K2 data products -
-the [Exoplanet Archive](http://exoplanetarchive.ipac.caltech.edu/)
+The *official* archive for TESS mission data products is the
+[Mikulski Archive for Space Telescopes (MAST)](https://archive.stsci.edu/tess)
 which is hosted at the
-[NASA Exoplanet Science Institute (NExScI)](http://nexsci.caltech.edu/)
-and the
-[Mikulski Archive for Space Telescopes (MAST)](https://archive.stsci.edu/)
-which is hosted at the
-[Space Telescope Science Institute (STScI)](http://www.stsci.edu/). The
-Exoplanet Archive primarily hosts data related to the Kepler and K2 mission planet searches while the MAST is responsible for hosting time series data and spacecraft calibration products for Kepler and K2. 
+[Space Telescope Science Institute (STScI)](http://www.stsci.edu/). 
 
-In the following sections we list the main products from Kepler and
-K2, and we describe a few of the products in some detail.  For tools
+In the following sections we list the main products from TESS, and we describe a few of the products in some detail.  For tools
 and tips on
 inspecting and analyzing Kepler or K2 data, [users should check out this page](software.html).
 
 ## Documentation
 
-We encourage users of Kepler and/or K2 data to read through the
-documentation associated with the Kepler and K2 data products.
-There is documentation specific to the [Kepler data products](https://archive.stsci.edu/kepler/data_products.html) and to the
-[K2 data products](https://archive.stsci.edu/k2/data_products.html).
-Users of K2 data should note that much of the Kepler documentation is
-also relevant to K2.  Additional documentation can be found
+We encourage users of TESS data to read through the
+documentation associated with theTESS data products.
+There is documentation specific to the [TESS data products](https://archive.stsci.edu/kepler/data_products.html) and to the
+[K2 data products](https://archive.stsci.edu/k2/data_products.html). Additional documentation can be found
 [here](https://archive.stsci.edu/kepler/documents.html) or can be downloaded directly by following the links
 below.
 

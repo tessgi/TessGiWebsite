@@ -122,19 +122,19 @@ KEY_INFORMATION = (
     ('Volunteer to serve on a review panel',
         'https://goo.gl/forms/p4ZqiTQSEHjbM6nz2'),
     ('Simulated data', 'data-products.html#simulated-data'),
-)
+) # make the simulated data link work!
 
 # Defines the "important dates" box on the front page
 IMPORTANT_DATES = (
             ('<b>30 Jun 2017 tbc</b>',
              'Release of Cycle 1 call for proposals',
-             'url'),
+             'k2-proposing-targets.html'), # link to a new item?
             ('<b>01 Oct 2017 tbc</b>',
              'Cycle 1 proposal submission deadline ',
-             'url'),
+             'k2-proposing-targets.html'), # link to a new item?
             ('<b>20 Mar 2018</b>',
-             'Planned Mission launch date',
-             'url'),
+             'Planned mission launch date',
+             'operations.html'), # link to a news item?
          )
 
 # Defines the "meetings" box on the front page
