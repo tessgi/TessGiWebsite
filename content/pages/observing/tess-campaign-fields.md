@@ -2,7 +2,7 @@ Title: TESS Campaign fields
 Save_as: tess-fields.html
 
 [TOC]
-
+<!-- 
 Each K2 Campaign has a duration of approximately 80 days 
 and remains fixed upon a single boresight position. 
 This page details the previous, current, and future K2 Campaign fields.
@@ -486,3 +486,4 @@ where it can be used to query remote databases given a K2 footprint.
 
 The MOC files, one for each Campaign, can be downloaded from
 [a GitHub repository](https://github.com/KeplerGO/K2FootprintFiles/tree/master/moc).
+ -->
