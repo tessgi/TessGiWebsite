@@ -7,7 +7,7 @@ in August 2015, using pelican-bootstrap and flatly.
 >
 
 <head>
-    <title>Kepler and K2 data products - TESS Community Science Center</title>
+    <title>Accessing TESS data products - TESS Community Science Center</title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
@@ -17,7 +17,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - TESS Guest Investigator Program" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2017-05-02" />
+    <meta name="dc.date.modified" content="2017-05-03" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Kepler Guest Observers" />
     <meta name="dc.identifier" content="http://tessgi.gsfc.nasa.gov" />
@@ -31,16 +31,16 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <link href="./images/favicon.png" rel="icon">
 
-<link rel="canonical" href="./pages/kepler-and-k2-data-products.html">
+<link rel="canonical" href="./pages/accessing-tess-data-products.html">
 
         <meta name="author" content="Thomas Barclay" />
-        <meta name="description" content="There are two archives for official Kepler and K2 data products - the Exoplanet Archive which is hosted at the NASA Exoplanet Science Institute (NExScI) and the Mikulski Archive for Space Telescopes (MAST) which is hosted at the Space Telescope Science Institute (STScI). The Exoplanet Archive primarily hosts data related to ..." />
+        <meta name="description" content="The official archive for TESS mission data products is the Mikulski Archive for Space Telescopes (MAST) which is hosted at the Space Telescope Science Institute (STScI). In the following sections we list the main products from TESS, and we describe a few of the products in some detail. For tools ..." />
 
     <meta property="og:site_name" content="TESS" />
     <meta property="og:type" content="article"/>
-    <meta property="og:title" content="Kepler and K2 data products"/>
-    <meta property="og:url" content="./pages/kepler-and-k2-data-products.html"/>
-    <meta property="og:description" content="There are two archives for official Kepler and K2 data products - the Exoplanet Archive which is hosted at the NASA Exoplanet Science Institute (NExScI) and the Mikulski Archive for Space Telescopes (MAST) which is hosted at the Space Telescope Science Institute (STScI). The Exoplanet Archive primarily hosts data related to ..." />
+    <meta property="og:title" content="Accessing TESS data products"/>
+    <meta property="og:url" content="./pages/accessing-tess-data-products.html"/>
+    <meta property="og:description" content="The official archive for TESS mission data products is the Mikulski Archive for Space Telescopes (MAST) which is hosted at the Space Telescope Science Institute (STScI). In the following sections we list the main products from TESS, and we describe a few of the products in some detail. For tools ..." />
 
 
     <!-- Why use Helvetica Neue when you can have Lato? -->
@@ -64,6 +64,13 @@ in August 2015, using pelican-bootstrap and flatly.
 <body>
 
 <!-- Print a warning message that this is not the official site -->
+<div class="container container-wide" style="background-color: #d35400; color: white; padding: 1.5em; font-weight: bold;">
+  <div class="container">
+   <i class="fa fa-warning fa-lg fa-margin"></i>
+    This is the development version of the TESS Guest Investigator Program website.
+    For the live website, visit <a href="https://heasarc.gsfc.nasa.gov/docs/tess/">https://heasarc.gsfc.nasa.gov/docs/tess</a>
+  </div>
+</div>
 
 <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
 
@@ -105,8 +112,7 @@ in August 2015, using pelican-bootstrap and flatly.
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Data analysis <b class="caret"></b></a>
                             <ul class="dropdown-menu">
-                                <li><a href="./data-products.html">Data access</a></li>
-                                <li><a href="./simulated-data.html">Simulated data</a></li>
+                                <li><a href="./data-access.html">Data access</a></li>
                                 <li><a href="./followup.html">Follow-up program</a></li>
                                 <li><a href="./software.html">Analysis software</a></li>
                                 <li><a href="./documentation.html">Documentation</a></li>
@@ -133,29 +139,21 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <div class="col-sm-9" data-spy="scroll" data-target="#sidebarCol">
         <section id="content" class="body">
-            <h1 class="entry-title">Kepler and K2 data products</h1>
+            <h1 class="entry-title">Accessing TESS data products</h1>
             <div class="entry-content">
                 
-<p>There are two archives for <em>official</em> Kepler and K2 data products -
-the <a href="http://exoplanetarchive.ipac.caltech.edu/">Exoplanet Archive</a>
+<p>The <em>official</em> archive for TESS mission data products is the
+<a href="https://archive.stsci.edu/tess">Mikulski Archive for Space Telescopes (MAST)</a>
 which is hosted at the
-<a href="http://nexsci.caltech.edu/">NASA Exoplanet Science Institute (NExScI)</a>
-and the
-<a href="https://archive.stsci.edu/">Mikulski Archive for Space Telescopes (MAST)</a>
-which is hosted at the
-<a href="http://www.stsci.edu/">Space Telescope Science Institute (STScI)</a>. The
-Exoplanet Archive primarily hosts data related to the Kepler and K2 mission planet searches while the MAST is responsible for hosting time series data and spacecraft calibration products for Kepler and K2. </p>
-<p>In the following sections we list the main products from Kepler and
-K2, and we describe a few of the products in some detail.  For tools
+<a href="http://www.stsci.edu/">Space Telescope Science Institute (STScI)</a>. </p>
+<p>In the following sections we list the main products from TESS, and we describe a few of the products in some detail.  For tools
 and tips on
 inspecting and analyzing Kepler or K2 data, <a href="software.html">users should check out this page</a>.</p>
 <h2 id="documentation">Documentation</h2>
-<p>We encourage users of Kepler and/or K2 data to read through the
-documentation associated with the Kepler and K2 data products.
-There is documentation specific to the <a href="https://archive.stsci.edu/kepler/data_products.html">Kepler data products</a> and to the
-<a href="https://archive.stsci.edu/k2/data_products.html">K2 data products</a>.
-Users of K2 data should note that much of the Kepler documentation is
-also relevant to K2.  Additional documentation can be found
+<p>We encourage users of TESS data to read through the
+documentation associated with theTESS data products.
+There is documentation specific to the <a href="https://archive.stsci.edu/kepler/data_products.html">TESS data products</a> and to the
+<a href="https://archive.stsci.edu/k2/data_products.html">K2 data products</a>. Additional documentation can be found
 <a href="https://archive.stsci.edu/kepler/documents.html">here</a> or can be downloaded directly by following the links
 below.</p>
 <ul>
