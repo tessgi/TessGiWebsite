@@ -105,8 +105,7 @@ MENUITEMS = (
             )
          ),
         ('Data analysis', (
-            ('Data access', 'data-products.html'),
-            ('Simulated data', 'simulated-data.html'),
+            ('Data access', 'data-access.html'),
             ('Follow-up program', 'followup.html'),
             ('Analysis software', 'software.html'),
             ('Documentation', 'documentation.html'),
