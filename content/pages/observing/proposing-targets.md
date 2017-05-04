@@ -5,7 +5,12 @@ Save_as: proposing-targets.html
 
 ## Guest Investigator program
 
-The TESS primary mission duration is two year. The first year is spent in the southern hemisphere and is corresponds to TESS Guest Investigator Program Cycle 1, the second year observed the northern hemisphere and it Cycle 2. During the primrary mission, the majority of the 2-minute cadence targets observed will be taken from the [TESS Candidate Target list (CTL)](observing-technical.html#candidate-target-list). In each Cycle 1 around 10,000 2-minute cadnence target slots will be assigned to the Guest Invesitgator Program.
+The TESS Guest Investigator program is intended to enable science investigations outside of the [core mission science goals](science.html). The program enables teams to proposal the collection of new 2-minute cadence targets, and provides funding to US investigators to analyse 2-minute cadence and full-frame image data.
+
+The TESS primary mission duration is two years. The first year is spent in the southern hemisphere and is corresponds to TESS Guest Investigator Program Cycle 1, the second year observed the northern hemisphere and it Cycle 2. During the primrary mission, the majority of the 2-minute cadence targets observed will be taken from the [TESS Candidate Target list (CTL)](observing-technical.html#candidate-target-list). In each Cycle 1 around 10,000 2-minute cadnence target slots will be assigned to the Guest Invesitgator Program.
+
+Consistent with Explorer Program policy, there will be no proprietary data rights to observations conducted with TESS. All data will be made freely available through the MAST archive as soon as they are received and processed. 
+
 
 ### Permitted science areas
 
@@ -18,50 +23,48 @@ galactic and extragalactic astrophysics, and solar system science.
 
 The **only** science topic that Guest Investigators are not permitted to propose is work which directly reproduces the [primary science of the mission](science.html). Explicitly, this restriction is limited to investigations whose aim is to detect planets smaller than 4 earth-radii orbiting stars that are on the [Candidate Target List](observing-technical.html#candidate-target-list).
 
-All science proposals must be compelling and carefully justified
+The proposed TESS Guest Investigation must clearly enhance the science return of the TESS mission. The scientific justification of the proposal should focus on a compelling TESS science investigation, that requires TESS data to succeed. The proposal may include limited theoretical components, unique ground-based follow-up, software development and/or data simulation that strengthens the proposal. However, at least 70% of the work effort should be focused on utilizing TESS data products. 
+
+Proposals may utilized either the 2-minute cadence, the full-frame image data, or both. All science proposals must be compelling and carefully justified
 scientifically and technically. 
-Proposers should particularly note that short (1-minute) cadence resources 
-and bright (Kp < 9) targets are expensive in pixels and onboard storage 
-and have historically been in high demand. 
-Proposals for short cadence or bright targets must have a very strong scientific and technical
-justification.
 
 Proposers must take into account the difference between science 
-that can be achieved exclusively using archived K2 and Kepler data 
-and science that requires new observations by K2. 
-The K2 GO program is specific to the case of science 
-requiring new observations. 
-Funding for archival science is instead provided through the Astrophysics Data Analysis Program ([ADAP; ROSES-2016](https://nspires.nasaprs.com/external/solicitations/summary.do?method=init&solId={C8318766-786D-1262-D3C9-9C888D2873CE}&path=closedPast)). 
-This includes all Kepler data and archived data from K2 Campaigns. All
-proposals to the K2 GO calls therefore must justify 
+that can be achieved exclusively using full-frame image data 
+and science that requires new observations at 2-minute cadence. 
+
+The TESS GI program is specific to the case of science 
+requiring new observations. Funding for archival science is instead provided through the Astrophysics Data Analysis Program ([ADAP](https://nspires.nasaprs.com/external/solicitations/summary.do?method=init&solId={9B644CB9-C0A8-8F23-DE92-FA3837D2F0BD}&path=init)). 
+All proposals to TESS calls therefore must justify 
 the need for new observational data within their program. 
 However, we welcome proposals that build upon data already collected 
 and programs requiring more data to enhance or complete investigations.
 
+Any software developed with TESS GI funds must add value to the TESS science community, be free and open source, with the source code made publicly available. Any ground-based follow-up data collected through TESS GI funding support must be made publicly available in a timely fashion on a public data archive such as MAST. Any supporting exoplanet data should be archived through the NASA Exoplanet Science Institute (NExScI)--- NASA’s repository for supporting exoplanet data. Proposals must clearly describe the plans to make any new software or supporting data publicly available.
+
+
 
 ### Evaluation criteria
 
-Proposals submitted in response to GO calls will be evaluated 
+Proposals submitted in response to GI calls will be evaluated 
 with respect to the criteria specified 
 in Section C.2 of the [NASA Guidebook for Proposers](http://www.hq.nasa.gov/office/procurement/nraguidebook/), which are intrinsic merit,
-relevance to the GO solicitation, 
+relevance to the GI solicitation, 
 and the realism/reasonableness of the proposed work effort and resources. 
 In addition to the factors for intrinsic merit 
 given in the NASA Guidebook for Proposers, 
 intrinsic merit includes the following factors:
 
- * The suitability of using the K2 observatory and data products for the proposed investigation;
- * The legacy value of the data collected;
- * The degree to which the investigation uses K2’s unique capabilities;
- * The feasibility of accomplishing the objectives 
-of the proposed investigation with the requested observations, 
-including the degree to which the proposal satisfies 
-K2’s observational constraints; and
- * The feasibility and suitability of the proposed analysis techniques.
-
+* The suitability of using the TESS survey and data products for the proposed investigation; 
+* The extent to which the investigation complements and enhances the anticipated science return from the TESS mission; 
+* The degree to which the proposed investigation places demands upon mission resources; and
+* The degree to which the proposed investigation capitalizes on the unique capabilities of TESS. 
+ 
 All proposals are peer-reviewed and ranked by a panel of professional volunteers, followed by ratification from NASA Headquarters. The members of the peer-review panel will not be disclosed. The deliberations of the panel will be disclosed to PIs only after ratification by the selecting official.
 
 ### Availability of funds
+
+It is anticipated that up to $2.5M in Cycle 1 will be available through this solicitation for the support of approximately ~40 Guest Investigations of one-year duration each. Note that additional unfunded Guest Investigation targets may be selected and observed, if target resources permit. TESS 2-minute cadence observations are open to all scientists at U.S. or non-U.S. institutions. TESS GI funding is open to all individuals who are identified as Principal Investigators and employed at U.S. institutions, including TESS science team members. Scientists participating in the TESS mission, including members of the Follow-up Team who are not funded by the Project, are eligible for support under this GI Program. TESS science team members who already receive support from the Project must provide a compelling justification for the award of additional funds under the GI Program. 
+
 
 There are typically two categories of K2 GO proposals.
 They are:
@@ -74,26 +77,23 @@ Large proposals must also include the development and dissemination
 of a value-added community resource product that the proposal will provide at the end of the period of performance of the grant and how that product will be made available to the community.
 
 Funding for selected programs typically starts upon availability 
-of Campaign data to the public archive 
-at [MAST](http://archive.stsci.edu/k2/). 
-Note that there is no exclusive use period associated with any K2 GO data. 
+of data to the public archive 
+at [MAST](http://archive.stsci.edu/tess/). 
+Note that there is no exclusive use period associated with any TESS data. 
+
 
 
 ### Eligibility
 
-Application to the K2 GO program is typically open to all investigators,
-including those from outside the U.S. 
-under NASA’s no-exchange-of-funds policy. 
+Application to the TESS GI program is typically open to all investigators,
+including those from outside the U.S. under NASA’s no-exchange-of-funds policy. 
 
 Investigators who are not affiliated with a U.S. institution 
 are not eligible for funding through this program,
 but may submit proposals that will be reviewed and ranked 
 along with eligible proposals for the purpose of allocating targets.
 
-Co-Investigators (Co-Is) affiliated with a U.S. institution 
-are eligible to receive funding under a proposal led by a foreign PI. 
-In this scenario, only a single Co-Investigator per proposal will be considered as a lead PI for funding purposes, 
-and proposals should identify a lead Co-Investigator within the U.S.
+Funding through the NASA TESS GI Program is available only to scientists at U.S. institutions who are identified as the Principal Investigators (PIs). U.S. based Co-Investigators (Co-Is) on foreign-led proposals do not qualify for funding. Funding for accepted target proposals will be initiated only after the relevant observations have begun. Proposers from non-U.S. institutions are strongly encouraged to include a letter of commitment promising financial support.
 
 In accordance with Public Law 113--76, Division B, Title V, Section 532, NASA cannot support bilateral participation, collaboration, or coordination with China or any Chinese-owned company or entity, whether funded or performed under a no-exchange-of-funds arrangement. See Section III(c) of the ROSES-2016 NRA for more information on these restrictions. 
 
@@ -529,4 +529,4 @@ mandatory for US investigators. When completing the proposal, there are a few ob
 A small part of the pixel budget may be allocated by the project as Director's Discretionary Targets (DDT),
 which is intended to facilitate observations that address
 scientific topics missed in the proposal review process.
-More information and deadlines are available from the [DDT program page](k2-ddt.html).
+More information and deadlines are available from the [DDT program page](ddt.html).

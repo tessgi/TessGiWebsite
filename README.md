@@ -124,6 +124,12 @@ We want to maintain a consistent style across the website. Rules include
 1. We refer to ourselves as the TESS Community Science Center, or TESS Comm Sci Center.
 1. We do not use two spaces after a period.
 1. We always use the Oxford comma (i.e. titles are written in sentence case, we use one space after a period, and we use an Oxford comma.)
+1. Capitalization: 
+    * TESS Guest Investigator program
+    * full-frame image
+    * TESS Community Science Center
+    * Candidate Target List
+    * TESS Input Catalog
 
 
 

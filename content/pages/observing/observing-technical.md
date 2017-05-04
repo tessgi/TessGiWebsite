@@ -9,9 +9,9 @@ description of the mission concept can be found in
 
 ## Overview
 
-The Kepler spacecraft hosts a 0.95-m aperture Schmidt telescope in an
-Earth-trailing heliocentric orbit, which insures a thermally stable environment and provides the ability to remain on a single pointing for the
-duration of each Campaign. 
+The TESS spacecraft hosts a 4 10-cm aperture cameras in an
+eccentric high-earth orbit in a 2-to-1 resonance with the Moon. This insures a thermally stable environment, provides the ability to remain on a single pointing for the
+duration of each Sector, and allows for high data rates during perigee. 
 Pointing is maintained by a combination of two reaction wheels and thrusters, 
 reacting to motion data provided by fine guidance sensors 
 (fine-point observing) or star trackers (coarse-point observing). 
@@ -50,70 +50,10 @@ is between 20% and 62% with a median value of 45%.
 
 ### Sectors
 
-K2 observations entail a series of sequential observing
-["Campaigns"](k2-fields.html) of fields distributed around the
-ecliptic plane. Each ecliptic Campaign is limited by Sun angle
-constraints to a duration of approximately 80 days as illustrated in
-the image below ([Howell et al. 2014](http://adsabs.harvard.edu/abs/2014PASP..126..398H)). 
-Therefore, four to five K2 Campaigns can be performed 
-during each 372-day orbit of the spacecraft.
 
-<a href="http://www.nasa.gov/kepler/keplers-second-light-how-k2-will-work"><img class="img-responsive" style="max-width:90%;" src="images/k2_explained_25nov_story.jpg"></a>
-*Image Credit: NASA Ames/W. Stenzel*
-
-<br/>
-
-K2 is a community-driven mission. All K2 targets are proposed by the community through the
-[Guest Observer program](k2-proposing-targets.html). The K2 mission
-welcomes all proposals including, but not exclusive to, exoplanet,
-stellar, extragalactic and solar system science.  Since K2 offers a photometric precision [approaching that of the original Kepler mission](k2-observing.html#fine-point-photometric-precision), a variety of scientific goals can be readily
-achieved with K2's continuous, high-precision photometry of fields
-that span different parts of the galaxy (as illustrated in the image
-below).
-
-<br/>
-
-<img class="img-responsive" style="max-width:75%;" src="images/k2_graphic_sm.jpeg">
-*Image Credit: NASA Ames/W. Stenzel*
-
-<br/>
 
 ### Data yield
 
-Constraints imposed by onboard storage and communications 
-dictate that at most 6% of the data from the full focal plane 
-are saved and downloaded. 
-Instead, data for specific, predetermined targets are saved 
-and transmitted as subimages with a typical area of 160 pixels, 
-depending on source brightness. 
-The brighter a target, the more pixels required to capture it. 
-Pixel apertures can be tailored further to accommodate 
-extended or very bright, saturated objects. The Kepler Science Center derives pixel masks for those targets 
-successfully justified by proposers and uploads these targets 
-to the spacecraft before each Campaign. 
-
-It is expected that on the order of 10,000 to 20,000 long cadence targets and 50 to 100 short cadence targets will be available per Campaign.  The number of observed targets in each Campaign varies based on the density of the field and on how many extended or bright objects are observed.  Such objects require larger aperture sizes and decrease the total number of targets available.  These targets must be justified carefully.
-
-Data distribution and archival services are performed 
-by the Space Telescope Science Institute’s 
-<a href="https://archive.stsci.edu/k2">MAST archive</a>. 
-Final data products available to observers 
-include original and calibrated pixel values 
-and light curves for each individual target (starting in Campaign 3). 
-The calibration corrects for bias level, smear, galactic cosmic rays, 
-flat fielding, dark current, background, and instrument noise. 
-Simple aperture photometry is used to generate long cadence light curves (starting in Campaign 3). 
-
-Data is delivered in Flexible Image Transport System (FITS) format. 
-A thorough understanding of the noise sources and systematic errors of K2 
-is needed by observers in order to generate their own light curves 
-from the original (uncalibrated or calibrated) pixel data 
-or interpret structure found in archived light curves.
-
-There is no exclusive use period associated with any K2 data.
-
-A comprehensive list of data products for K2 is given
-[here](data-products.html#k2-product-overview).
 
 
 
