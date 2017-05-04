@@ -22,7 +22,7 @@ Save_as: helpdesk.html
     <div class="col-sm-3 text-center">
         <img src="images/faces/josh.jpg" class="img-circle"><br>
         Dr Josh Schlieder<br>
-        Job Title
+        Support Scientist
     </div>
 </div>
 
