@@ -118,7 +118,7 @@ This is done by typing `make github`.
 Note that it may take up to 5-10 minutes for changes to become visible after
 `make github` completed.
 
-## Style Guide
+## Style guide
 We want to maintain a consistent style across the website. Rules include
 1. Titles should be written in sentence case, not title case (i.e. This is a title, not This is a Title)
 1. We refer to ourselves as the TESS Community Science Center, or TESS Comm Sci Center.
