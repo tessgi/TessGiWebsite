@@ -1,26 +1,22 @@
-Title: K2 proposal preparation
-Save_as: k2-proposing-targets.html
+Title: Proposal preparation
+Save_as: proposing-targets.html
 
 [TOC]
 
-There are no guaranteed, or predetermined, targets for any of 
-<a href="k2-fields.html">the fields where K2 is pointing</a>.
-All targets are proposed by the community 
-through the Guest Observer (GO) program. 
-This page details the program and its aims.
+## Guest Investigator program
 
-
-## Guest Observer program
-
+The TESS primary mission duration is two year. The first year is spent in the southern hemisphere and is corresponds to TESS Guest Investigator Program Cycle 1, the second year observed the northern hemisphere and it Cycle 2. During the primrary mission, the majority of the 2-minute cadence targets observed will be taken from the [TESS Candidate Target list (CTL)](observing-technical.html#candidate-target-list). In each Cycle 1 around 10,000 2-minute cadnence target slots will be assigned to the Guest Invesitgator Program.
 
 ### Permitted science areas
 
-The K2 GO program welcomes proposals addressing compelling scientific questions 
-in **any area of astrophysics and planetary science** 
+We welcome proposals addressing compelling scientific questions 
+in almost any area of astrophysics and planetary science
 providing the required observations are amenable 
 to the operational characteristics and constraints of the mission. The science motivation may include, but is not limited to, 
-exoplanet detection, stellar astrophysics, 
+exoplanet characterization, stellar astrophysics, 
 galactic and extragalactic astrophysics, and solar system science. 
+
+The **only** science topic that Guest Investigators are not permitted to propose is work which directly reproduces the [primary science of the mission](science.html). Explicitly, this restriction is limited to investigations whose aim is to detect planets smaller than 4 earth-radii orbiting stars that are on the [Candidate Target List](observing-technical.html#candidate-target-list).
 
 All science proposals must be compelling and carefully justified
 scientifically and technically. 
