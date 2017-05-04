@@ -113,16 +113,18 @@ $ git push
 ```
 
 Finally, you can now send the new HTML-compiled version of the website
-to the [production webserver](http://keplerscience.arc.nasa.gov).
-This is done by typing `make live`.
+to the [dev webserver](http://keplerscience.arc.nasa.gov).
+This is done by typing `make github`.
 Note that it may take up to 5-10 minutes for changes to become visible after
-`make live` completed, and occasionally you may need to ask the GO Office
-to restart the task that keeps the webserver in sync.
+`make github` completed.
 
-If you are not quite ready to make your changes live,
-but would to make them available at a test URL,
-you can type `make github` which will deploy the website
-at the [Test URL](http://keplergo.github.io/KeplerScienceWebsite/).
+## Style Guide
+We want to maintain a consistent style across the website. Rules include
+1. Titles should be written in sentence case, not title case (i.e. This is a title, not This is a Title)
+1. We refer to ourselves as the TESS Community Science Center, or TESS Comm Sci Center.
+1. We do not use two spaces after a period.
+1. We always use the Oxford comma (i.e. titles are written in sentence case, we use one space after a period, and we use an Oxford comma.)
+
 
 
 ## Makefile tasks
@@ -131,15 +133,14 @@ The Makefile provides the following useful commands:
 * `make html` to compile *all pages* and store them under `output/`.
 * `make quick` to compile *only pages that have changed*.  This is faster than `make html` but will cause the front and news pages to be incomplete.
 * `make devserver` to start a development webserver on your local machine at `http://localhost:8000`, which will auto-compile a page when you make a change. This too causes the frontpage to be empty unless you call `make html`.
-* `make live` to send the compiled HTML files to the [production server](http://keplerscience.arc.nasa.gov) (this is done indirectly by updating the `live` branch).
-* `make github` to send the compiled HTML files to the [development server](http://keplergo.github.io/KeplerScienceWebsite/).
+* `make github` to send the compiled HTML files to the [development server](http://tessgi.github.io/TessGiWebsite/).
 
 Note: `make quick` and `make devserver` both use agressive caching which allows the website to be built quickly, but causes the listing of news items to be missing from the front page (`output/index.html`).  You need to call `make html` if you care about a preview of the front page. Calling `make github` or `make live` automatically triggers `make html`.
 
 
 ## Authors
 
-This site started off as the Kepler/K2 website, created by Thomas Barclay, Geert Barentsen, and Knicole Colónfor the Kepler/K2 Guest Observer Office at NASA Ames.
+This site started off as the Kepler/K2 website, created by Thomas Barclay, Geert Barentsen, and Knicole Colón for the Kepler/K2 Guest Observer Office at NASA Ames.
 
 The TESS GI website is developed and maintained by Thomas Barclay, Elisa Quintana and Josh Schlieder at NASA Goddard
 
