@@ -71,16 +71,9 @@ mission and instrument teams.
 
 It is anticipated that up to $2.5M in Cycle 1 will be available through this solicitation for the support of approximately ~40 Guest Investigations of one-year duration each. Note that additional unfunded Guest Investigation targets may be selected and observed, if target resources permit. TESS 2-minute cadence observations are open to all scientists at U.S. or non-U.S. institutions. TESS GI funding is open to all individuals who are identified as Principal Investigators and employed at U.S. institutions, including TESS science team members. Scientists participating in the TESS mission, including members of the Follow-up Team who are not funded by the Project, are eligible for support under this GI Program. TESS science team members who already receive support from the Project must provide a compelling justification for the award of additional funds under the GI Program. 
 
-
-There are typically two categories of K2 GO proposals.
-They are:
-
- * Small proposals—proposals requesting fewer than 1000 targets, 
-with a budget capped at $50,000.
- * Large proposals—proposals requesting 1000 or more targets, 
-with a budget capped at $150,000. 
-Large proposals must also include the development and dissemination 
-of a value-added community resource product that the proposal will provide at the end of the period of performance of the grant and how that product will be made available to the community.
+There are typically two categories of TESS GI proposals, investigators are free to select the catagory that best reflects their scope of their proposed work.
+ * Small proposals - proposals of limited scope and are capped at a budget of $50,000. Funding will be allocated via a formula.
+ * Large proposals - proposal of wide-ranging scope and science yield. Large proposals must deliver a clear benefit for the broader scientific community
 
 Funding for selected programs typically starts upon availability 
 of data to the public archive 
@@ -105,199 +98,26 @@ In accordance with Public Law 113--76, Division B, Title V, Section 532, NASA ca
 
 ## Target selection
 
+### TESS Input Catalog
+When a target is in the TESS Input Catalog (TIC), investigators must include the TIC identification number. The latest version of the TIC is [available from the MAST](data-access.html).
+
 ### Tools
 
-Pointed observations away from the single stare position of any given field 
-cannot be accommodated by K2; Campaign targets are limited to the objects 
-available in <a href="k2-fields.html">the fixed field of view</a>. 
-
-Small gaps between the 42 detector CCDs as well as the three dead modules result in additional loss 
-of available objects that would otherwise be within the field of view. 
-A <a href="http://archive.stsci.edu/k2/epic/search.php">documented target search tool at MAST</a> determines if an object of a particular coordinate 
-lies close to the observable field of view. 
-
-The target search tool accesses the Ecliptic Plane Input Catalog (EPIC), 
-which provides physical data, coordinates, magnitudes, and colors, 
-for sources close to K2 silicon. 
-The EPIC is complete only to m<sub>V</sub> ~ 17; 
-specifications of the catalog are [documented here](http://archive.stsci.edu/k2/epic.pdf). 
-
-It is the proposer’s responsibility to identify targets 
-that are faint or missing from the EPIC. 
-K2 collection of valid data relies on the delivery 
-of accurate celestial positions and magnitudes of each target. 
-Proposals must state the origin for this information, 
-especially if it does not come from the EPIC.  Extended targets or
-targets with high proper motion should also be noted by the proposer.
-
-Determining whether or not desired targets fall on active regions 
-of the focal plane is also the responsibility of the proposer. 
-The Kepler & K2 Science Center provides a tool called
-[K2fov](software.html#k2fov)
-to identify which targets fall upon active silicon. 
-Only those targets within the active fields of view should be proposed.
-
-Note that all investigators *must* update their version of 
-K2fov to the latest version (v6.2) to take the final field positions of Campaigns 14-15-16 into account. 
-K2fov can be updated from the command line using pip:
-
-    pip install K2fov --upgrade
-
-The version number of your K2fov installation may be verified
-using the following command:
-
-    python -c "import K2fov; print(K2fov.__version__)"
-
-This must return "6.2.0" or higher. If the number is lower,
-or if you see an error message, then your installation of K2fov is outdated
-and must be upgraded.
-Not upgrading K2fov will lead to unobservable targets being selected!
 
 
 ### Target table
 
-All proposals for targets are required to include a target table 
-in a pre-defined format to specify desired observing modes 
-and other needed parameters. 
 
-The target tables generally provide all the information required by
-the Kepler & K2 Science Center to incorporate GO sources within the observing list. Table fields are described below with an example. If a proposal includes targets within multiple campaign fields, then a separate target table should be prepared for each field.
-
-An example of a valid target table is shown in the image below. <a
-href="data/K2/K2-2-propnum-PI.xls">The corresponding .xls file can be downloaded here.</a>
-
-<a href="images/template-target-table.png"><img
-src="images/template-target-table.png" class="img-responsive"
-alt="Template Target Table"></a>
-
-A definition of each column is included in the below table.
-
-<table class="table table-striped table-hover" style="max-width:70em;">
-  <thead>
-    <tr>
-      <th>Attribute</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-
-<tdata>
-
-<tr>
-    <td style="min-width: 10em;">Object </td>
-    <td>The Ecliptic Plane Input Catalog (EPIC) ID number. This
-    attribute can be determined by using the <a
-href="http://archive.stsci.edu/k2/epic/search.php">K2 EPIC Target
-    Search</a> page. The EPIC ID is coupled to celestial coordinates and magnitudes. If the proposed target does not have an EPIC ID number please use a unique identifier, common or catalog name for this source, and supply the J2000 celestial coordinates in the Right Ascension and Declination columns of your target table.</td>
-</tr>
-
-<tr>
-    <td>Right Ascension </td>
-    <td>Right Ascension (J2000) of the center of the desired aperture. Celestial coordinates are only required if the target is not listed in the <a
-href="http://archive.stsci.edu/k2/epic/search.php">K2 EPIC Target
-    Search</a> page. Adhere to decimal degree format. </td>
-</tr>
-
-<tr>
-    <td>Declination </td>
-    <td>Declination (J2000) of the center of the desired aperture. Celestial coordinates are only required if the target is not listed in the <a
-href="http://archive.stsci.edu/k2/epic/search.php">K2 EPIC Target
-    Search</a> page. Adhere to decimal degree format. </td>
-	</tr>
-
-<tr>
-    <td>Kp </td>
-    <td>The apparent magnitude of the target in the Kepler
-    bandpass. The combination of celestial coordinates and magnitude
-    are the primary data required by the Kepler & K2 Science Center to calculate target pixel masks. The Kepler magnitude for most sources can be obtained from the <a
-href="http://archive.stsci.edu/k2/epic/search.php">K2 EPIC Target
-    Search</a> page. If no Kepler bandpass magnitude is provided in the EPIC, <a
-href="/the-kepler-space-telescope.html#flux-calibration">it
-    can be estimated</a>. If the magnitude entered here is brighter than the EPIC magnitude, then the user-supplied magnitude will be adopted. For highly-variable stars, list the brightest predicted magnitude.
- </td>
-</tr>
-
-<tr>
-    <td>Cadence Mode </td>
-    <td>The observing mode requested. Long cadence (30-minute) mode or Short cadence (1-minute) mode. </td>
-	</tr>
-
-<tr>
-    <td>&delta;RA </td>
-    <td>Proper motion of the target in units of arcsec per year. This information is optional and should only be provided if the proposer disagrees with the proper motion provided in the EPIC. </td>
-	</tr>
-
-<tr>
-    <td>&delta;Dec </td>
-    <td>Proper motion of the target in units of arcsec per year. This information is optional and should only be provided if the proposer disagrees with the proper motion provided in the EPIC. </td>
-</tr>
-
-<tr>
-    <td>Extent </td>
-    <td>The radius of the semi-major axis of an extended target such as a galaxy. To reiterate, this is the radius, NOT the diameter i.e. the furthest distance that structure extends from the target coordinates provided. This column should be ignored if all targets are point sources. </td>
-	</tr>
-
-<tr>
-    <td>Comments </td>
-    <td>If a target is non-standard, provide a brief description of non-standard table entries including: (a) user-supplied magnitude; (b) user-supplied coordinates; (c) extended sources; (d) the amplitude of highly variable stars, (e) high proper motion stars; (f) custom mask requests. Comments should be expanded upon within the text of the science justification of the proposal. </td>
-	</tr>
-	
-</tdata>
-</table>
-
-A blank template target table for insertion into the proposal 
-can be [downloaded here](data/K2/K2-Cnn-propnum-PINAME.xls). 
-
-Each campaign target table must appear in two places:
-
-1.  Embedded within the body of your uploaded proposal package to NSPIRES.
-2.  As a separate electronic file submitted directly to the Kepler & K2 Guest Observer Office.
-
-Instructions on how to provide both versions of the table are detailed below: 
-
-1.  Download the template file written in Microsoft Excel format: <a
-href="data/K2/K2-Cnn-propnum-PINAME.xls">K2-Cnn-propnum-PINAME.xls</a>
-2.  Populate the table using either Microsoft Excel or the freeware [OpenOffice](http://www.openoffice.org/) package. Insert additional table rows if needed, one per proposed target.
-3.  Copy / paste or encapsulate the table into the submission package between the science justification / technical management section and the PI's biography.
-4.  Rename the Excel spreadsheet according the format
-    K2-Ccampaign-no-propid-PIname.xls, where propid is the proposal ID
-    number assigned to the proposal by NSPIRES at the time of
-    submission and PIname is the surname of the PI. A separate target
-    table should be created for each campaign.  An example would be K2-C04-0097-SMITH.xls
-5.  Attach the renamed spreadsheet to an email and send it to the GO
-    Office at **keplergo@mail.arc.nasa.gov** before the proposal deadline.
 
 **Special instructions for moving targets**<br/>
 
-If you plan to submit a proposal for a Solar System (moving) target, we recommend that you adhere to the following guidelines:<br/>
-
-1. Only include a single row in your target table for each moving target.  You are not required to include coordinates as long as you provide the name or number of the object exactly as it is known in JPL Horizons. 
-2. State (a) the minimum and (b) the ideal number of days during which each target needs to be observed to meet the goals of your scientific investigation. 
-3. Provide a rough estimate of the pixel cost corresponding to both the minimum and ideal observing durations for each target.  Please get in touch with us at **keplergo@mail.arc.nasa.gov** if you require assistance with this.
 
 ## Solicitations
 
-**The most recent call for K2 GO Cycle 5 proposals, which included <a href="k2-fields.html">Campaigns 14, 15,
-and 16</a>,
-[was released and made available at NSPIRES](https://nspires.nasaprs.com/external/solicitations/summary.do?method=init&solId={D68A4380-B327-7C96-04CF-02B0FC940DBF}&path=open). The
-call is now closed. Details relevant to that call are below.  Stay
-tuned for a call for GO Cycle 6.**
-
-We
-are requesting the community propose targets to observe
-during only these three campaigns. Based on recent estimates of the remaining fuel on the Kepler
- spacecraft, it is anticipated that Campaign 17 and beyond will be conducted
- at risk.  In order to maximize the
- science return from the K2 mission, we changed the position of the field for C16.
- C16 will now involve the Kepler spacecraft observing in the forward-facing direction, and a significant fraction of pixels will
- be dedicated to supernova science.  Proposals covering all other
- areas of astrophysics and planetary science are still encouraged for
- C16.  In particular, we strongly encourage programs that can
- benefit from simultaneous observations from
- Earth. [The final field positions are posted here](k2-fields.html).
 
 ### FAQs  
 
-* **What are the proposal deadlines?**<br/>
+<!-- * **What are the proposal deadlines?**<br/>
 The deadlines for GO Cycle 5 have passed.  Stay tuned for a call
 for GO Cycle 6.
   
@@ -362,12 +182,12 @@ to account for the recent changes to Campaign 16. <br/>
 * **How do I propose a moving target?**<br/>
  The proposal process is the same for a Solar System or moving target
  as it is for other targets. However, proposers should take note of
- recommendations when creating the [target table for moving targets](k2-proposing-targets.html#target-table).
+ recommendations when creating the [target table for moving targets](k2-proposing-targets.html#target-table). -->
 
 
 ### Submission process
 
-K2 proposal submission is a 2-step process. Both steps are
+<!-- K2 proposal submission is a 2-step process. Both steps are
 mandatory. To propose for Campaigns 14, 15 and 16, investigators are
 required to submit Step 1 through the NSPIRES website by <font color='black'>23:59 EST
 November 3, 2016</font> and are required to submit Step 2 to the NSPIRES
@@ -527,7 +347,7 @@ instructions. All non-US proposals should use the "Kepler Guest
 Observer Office" as your affiliation within NSPIRES. This is simply a
 fudge, albeit a required fudge, so that non-US PIs spend no more
 effort than this over the institutional endorsements that are
-mandatory for US investigators. When completing the proposal, there are a few obscure boxes on the standard form that need your attention. The organization name is "Kepler Guest Observer Office", doing business as the "Kepler Guest Observer Office". The DUNS number is "999999954" and the cage code is "ZZZ54". These details will make sense to you when you see the Step 2 proposal form. 
+mandatory for US investigators. When completing the proposal, there are a few obscure boxes on the standard form that need your attention. The organization name is "Kepler Guest Observer Office", doing business as the "Kepler Guest Observer Office". The DUNS number is "999999954" and the cage code is "ZZZ54". These details will make sense to you when you see the Step 2 proposal form. --> 
 
 
 ### Director's Discretionary Time
