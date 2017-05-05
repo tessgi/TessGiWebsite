@@ -61,6 +61,12 @@ intrinsic merit includes the following factors:
  
 All proposals are peer-reviewed and ranked by a panel of professional volunteers, followed by ratification from NASA Headquarters. The members of the peer-review panel will not be disclosed. The deliberations of the panel will be disclosed to PIs only after ratification by the selecting official.
 
+NASA recognizes and supports the benefits of having diverse and inclusive
+scientific, engineering, and technology communities and fully expects that such values
+will be reflected in the composition of all panels and teams including peer review panels
+(science, engineering, and technology), proposal teams, science definition teams, and
+mission and instrument teams.
+
 ### Availability of funds
 
 It is anticipated that up to $2.5M in Cycle 1 will be available through this solicitation for the support of approximately ~40 Guest Investigations of one-year duration each. Note that additional unfunded Guest Investigation targets may be selected and observed, if target resources permit. TESS 2-minute cadence observations are open to all scientists at U.S. or non-U.S. institutions. TESS GI funding is open to all individuals who are identified as Principal Investigators and employed at U.S. institutions, including TESS science team members. Scientists participating in the TESS mission, including members of the Follow-up Team who are not funded by the Project, are eligible for support under this GI Program. TESS science team members who already receive support from the Project must provide a compelling justification for the award of additional funds under the GI Program. 
