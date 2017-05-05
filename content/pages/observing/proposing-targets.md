@@ -108,7 +108,7 @@ We have developed software to determine whether any target can be observed by TE
 ### Target table
 
 
-### Moving Targets
+### Moving targets
 
 
 ### Target of Opportunity Observations
@@ -190,7 +190,22 @@ to account for the recent changes to Campaign 16. <br/>
 
 
 ### Submission process
-TESS proposal submission is a 2-step process.
+The TESS GI program uses a two-phase proposal process. A Phase-1 proposal shall comprise the science/technical justification; proposals requesting funds need to include a budget narrative, describing in sufficient detail how the proposed funds will be used to achieve the goals outlined in the proposal. Only proposers whose Phase-1 proposals are accepted will be invited to submit budget proposals in Phase-2. It is not necessary for the PI of the Phase-2 proposal to be the science PI. Proposal content, including the list of investigators, must remain consistent between Phase-1 and Phase-2 proposals. All proposal materials will be submitted electronically. 
+
+* All Proposers must submit their Phase-1 proposals electronically through the [Astrophysics Research Knowledgebase (ARK)/ Remote Proposal System (RPS) website](http://heasarc.gsfc.nasa.gov/ark/rps/);
+
+* Target tables for all observation proposals are to be submitted through ARK/RPS; 
+
+* The Scientific/Technical/Management section of proposals is limited to four pages for small proposal and six pages for large proposals. No table of contents in the body of the proposal is required. No supporting material (e.g., curriculum vitae (CV), pending/current support) is required or permitted; 
+
+* Optional Latex and MS Word templates for the Scientific/Technical/Management are available
+
+• _The Scientific/Technical/Management section must be uploaded to the RPS website as a PDF file.
+
+All proposal materials must be submitted electronically by 4:30 p.m. Eastern time on the due date for this program given in Section 3 in order to be included in the proposal review for this cycle of the TESS Guest Investigator program. Note that the 4:30 p.m. deadline supersedes the deadline stated in the Guidebook for Proposers and in the ROSES Summary of Solicitation. 
+
+NASA uses a single, uniform set of instructions for the submission of ROSES proposals. These instructions are given in the NASA Guidebook for Proposers (http://www.hq.nasa.gov/office/procurement/nraguidebook/). TESS GI Proposers should follow these instructions, except where they are overridden by the instructions given in the ROSES Summary of Solicitation or in this Appendix. 
+
 
 <!-- K2 proposal submission is a 2-step process. Both steps are
 mandatory. To propose for Campaigns 14, 15 and 16, investigators are
@@ -355,7 +370,9 @@ effort than this over the institutional endorsements that are
 mandatory for US investigators. When completing the proposal, there are a few obscure boxes on the standard form that need your attention. The organization name is "Kepler Guest Observer Office", doing business as the "Kepler Guest Observer Office". The DUNS number is "999999954" and the cage code is "ZZZ54". These details will make sense to you when you see the Step 2 proposal form. --> 
 
 
-### Director's Discretionary Time
+### Proposal templates
+
+### Director's Discretionary Targets
 
 A small part of the pixel budget may be allocated by the project as Director's Discretionary Targets (DDT),
 which is intended to facilitate observations that address
