@@ -23,14 +23,8 @@ galactic and extragalactic astrophysics, and solar system science.
 
 The **only** science topic that Guest Investigators are not permitted to propose is work which directly reproduces the [primary science of the mission](science.html). Explicitly, this restriction is limited to investigations whose aim is to detect planets smaller than 4 earth-radii orbiting stars that are on the [Candidate Target List](observing-technical.html#candidate-target-list).
 
-The proposed TESS Guest Investigation must clearly enhance the science return of the TESS mission. The scientific justification of the proposal should focus on a compelling TESS science investigation, that requires TESS data to succeed. The proposal may include limited theoretical components, unique ground-based follow-up, software development and/or data simulation that strengthens the proposal. However, at least 70% of the work effort should be focused on utilizing TESS data products. 
-
 Proposals may utilized either the 2-minute cadence, the full-frame image data, or both. All science proposals must be compelling and carefully justified
 scientifically and technically. 
-
-Proposers must take into account the difference between science 
-that can be achieved exclusively using full-frame image data 
-and science that requires new observations at 2-minute cadence. 
 
 The TESS GI program is specific to the case of science 
 requiring new observations. Funding for archival science is instead provided through the Astrophysics Data Analysis Program ([ADAP](https://nspires.nasaprs.com/external/solicitations/summary.do?method=init&solId={9B644CB9-C0A8-8F23-DE92-FA3837D2F0BD}&path=init)). 
@@ -58,6 +52,12 @@ intrinsic merit includes the following factors:
 * The extent to which the investigation complements and enhances the anticipated science return from the TESS mission; 
 * The degree to which the proposed investigation places demands upon mission resources; and
 * The degree to which the proposed investigation capitalizes on the unique capabilities of TESS. 
+
+The proposed TESS Guest Investigation must clearly enhance the science return of the TESS mission. The scientific justification of the proposal should focus on a compelling TESS science investigation, that requires TESS data to succeed. The proposal may include limited theoretical components, unique ground-based follow-up, software development and/or data simulation that strengthens the proposal. However, at least 70% of the work effort should be focused on utilizing TESS data products. 
+
+Proposers must take into account the difference between science 
+that can be achieved exclusively using full-frame image data 
+and science that requires new observations at 2-minute cadence. 
  
 All proposals are peer-reviewed and ranked by a panel of professional volunteers, followed by ratification from NASA Headquarters. The members of the peer-review panel will not be disclosed. The deliberations of the panel will be disclosed to PIs only after ratification by the selecting official.
 
@@ -77,7 +77,7 @@ There are typically two categories of TESS GI proposals, investigators are free 
 
 Funding for selected programs typically starts upon availability 
 of data to the public archive 
-at [MAST](http://archive.stsci.edu/tess/). 
+at [MAST](data-access.html). 
 Note that there is no exclusive use period associated with any TESS data. 
 
 
@@ -99,17 +99,21 @@ In accordance with Public Law 113--76, Division B, Title V, Section 532, NASA ca
 ## Target selection
 
 ### TESS Input Catalog
-When a target is in the TESS Input Catalog (TIC), investigators must include the TIC identification number. The latest version of the TIC is [available from the MAST](data-access.html).
+When a target is in the TESS Input Catalog (TIC), investigators must include the TIC identification number. The latest version of the TIC is [available from the MAST](data-access.html). For targets not in the TIC, PIs must provide the coordinates of the source and a TESS magnitude. Software for [estimating TESS magnitudes is available](proposal-tools.html).
 
-### Tools
-
+## Observability of targets
+We have developed software to determine whether any target can be observed by TESS and for how many sectors. Details are provided on our [proposal tools page](proposal-tools.html)
 
 
 ### Target table
 
 
+### Moving Targets
 
-**Special instructions for moving targets**<br/>
+
+### Target of Opportunity Observations
+Target of Opportunity Observations (TOOs) are rapidly evolving phenomena whose occurrence is not predictable. TOO’s can only be triggered every 13.7 days and proposals requesting TOO must describe the circumstances in which a TOO is “triggered” in the scientific justification and on the target form. TOO proposals must also include an estimated duration of the event, as well as an estimated probability for triggering the observations; the latter will be used in the accounting of total allocated targets. TOOs remain active only for the observing cycle in effect; TOOs not carried out during the Cycle 1 may be re-proposed for subsequent cycles. In the case of TOOs, observations would commence at the next upload event following the trigger event. The impact to science of such a potential delay must be addressed in proposals requesting TOO observations. 
+
 
 
 ## Solicitations
@@ -186,6 +190,7 @@ to account for the recent changes to Campaign 16. <br/>
 
 
 ### Submission process
+TESS proposal submission is a 2-step process.
 
 <!-- K2 proposal submission is a 2-step process. Both steps are
 mandatory. To propose for Campaigns 14, 15 and 16, investigators are
