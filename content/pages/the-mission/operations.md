@@ -47,6 +47,16 @@ The TESS observing sector is shown below.
 
 ### TESS Mission orbit
 
+TESS observes from unique High Earth Orbit (HEO):
+
+Unobstructed view for continuous light curves
+
+Two 13.7 day orbits per observation sector
+
+Stable 2:1 resonance with Moon's orbit
+
+Thermally stable and low-radiation
+
 The TESS Mission orbit is shown below.
 
 <br/>
