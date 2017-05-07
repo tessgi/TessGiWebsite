@@ -12,10 +12,12 @@ TESS is scheduled to launch no earlier than March 2018 and will be placed in a h
 
 
 <br/>
-<img class="img-responsive" style="max-width:70%;" src="images/mission/tess_lava_planet_rotated.jpg">
+<img class="img-responsive" style="max-width:80%;" src="images/mission/tess_lava_planet_rotated.jpg">
 *Image Credit: NASA*
 <br/>
 
+
+** **
 
 
 **From Kepler to TESS**
