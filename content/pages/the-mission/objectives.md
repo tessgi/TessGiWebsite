@@ -17,7 +17,9 @@ TESS is scheduled to launch no earlier than March 2018 and will be placed in a h
 <br/>
 
 
+
 **From Kepler to TESS**
+
 NASA's Kepler Mission (2009-2013) was a statistical transit survey designed to determine the frequency of Earth-size planets around other stars.  Kepler revealed thousands of exoplanets orbiting stars in its 115 square degree field-of view, which covered around 0.25 percent of the sky. While Kepler revolutionized the field of exoplanets and taught us that Earth-to-Neptune-sized planets are common, the bulk of the stars in the Kepler field lie at distances of hundreds to thousands of parsecs, making it difficult to obtain ground-based follow-up observations for many systems.
 
 The TESS Mission is designed to survey over 90% of the sky (an area of sky 400 times larger than covered by Kepler) to search for planets around stars that are nearby (within ~200 parsec). TESS stars will be 30-100 times brighter than those surveyed by the Kepler satellite. Planets detected around these stars will therefore be far easier to characterize with follow-up observations, resulting in refined measurements of the planet masses, sizes, densities, and atmospheric properties.
