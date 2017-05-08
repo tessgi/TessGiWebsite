@@ -50,6 +50,9 @@ is between 20% and 62% with a median value of 45%.
 
 ### Sectors
 
+<br/>
+<img class="img-responsive" style="max-width:67%;" src="images/mission/tess_sky_coverage.png">
+<br/>
 
 
 ### Data yield
@@ -59,6 +62,9 @@ is between 20% and 62% with a median value of 45%.
 
 ## Photometric performance
 
+<br/>
+<img class="img-responsive" style="max-width:67%;" src="images/mission/tess_photometric_performance.png">
+<br/>
 
 
 ### Typical noise levels
