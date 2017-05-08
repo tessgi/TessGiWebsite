@@ -26,3 +26,10 @@ The TESS observatory consists of a payload and spacecraft. The payload is compri
 <img class="img-responsive" style="max-width:67%;" src="images/mission/tess_camerabaffle_BertaThompsonpresentation.png">
 
 <br/>
+
+
+### Photometric Performance
+
+
+
+

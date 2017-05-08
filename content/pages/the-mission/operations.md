@@ -3,65 +3,46 @@ Save_as: operations.html
 
 [TOC]
 
-## Overview
-The Transiting Exoplanet Survey Satellite (TESS) is a NASA Astrophysics Explorer mission designed to perform an all-sky survey to detect transiting planets around the closest brightest stars. TESS  is scheduled for launch via a SpaceX Falcon 9 no earlier than March 20, 2018 and will be placed in a highly-elliptical 13.7 day orbit around the Earth.  In its 2-year mission, TESS will monitor ~200,000 main-sequence dwarf stars with four wide-field optical CCD cameras to detect periodic drops in brightness caused by planetary transits. Photometry of these pre-selected targets will be recorded every 2 min. TESS will also obtain full-frame images (FFIs) of the entire, four camera field-of-view (24o x 96o) at a cadence of 30 min to facilitate additional science.
+## Launch and Orbit
 
-### Field of view
+TESS  is scheduled for launch via a SpaceX Falcon 9 from Cape Canaveral no earlier than March 20, 2018.  
 
-TESS will tile the sky with 26 observation sectors that will cover over 90% of the sky.
-
-At least 27 days staring at each 24° × 96° sector
-
-Brightest 200,000 stars at 1-minute cadence
-
-Full frame images with 30-minute cadence
-
-Map Southern hemisphere in first year
-
-Map Northern hemisphere in second year
-
-Sectors overlap at ecliptic poles for sensitivity to smaller and longer period planets in JWST Continuous Viewing Zone (CVZ)
-
-<br/>
-
-<img class="img-responsive" style="max-width:67%;" src="images/mission/tess_2yearskycoverage.png">
-
-<br/>
-
-The field of view for the four TESS cameras is shown below.
-
-<br/>
-
-<img class="img-responsive" style="max-width:67%;" src="images/mission/tess_cameraFOVschematic_Winnpresentation.png">
-
-<br/>
-
-The TESS observing sector is shown below.
-
-<br/>
-
-<img class="img-responsive" style="max-width:67%;" src="images/mission/tess_observingsectorschematic_Winnpresentation.png">
-
-<br/>
-
-
-### TESS Mission orbit
-
-TESS observes from unique High Earth Orbit (HEO):
-
-Unobstructed view for continuous light curves
-
-Two 13.7 day orbits per observation sector
-
-Stable 2:1 resonance with Moon's orbit
-
-Thermally stable and low-radiation
-
-The TESS Mission orbit is shown below.
+TESS will observe from a unique High Earth Orbit (HEO) that will provide an unobstructed view of its field to obtain continuous light curves and a more stable platform for precise photometry than the low-Earth orbit. The TESS orbit is elliptical, with nominal perigee and apogee of 17 and 59 Earth radii, respectively, and a 13.7-day period in 2:1 resonance with the Moon’s orbit. The orbit is above Earth’s radiation belts providing a low-radiation environment.
 
 <br/>
 
 <img class="img-responsive" style="max-width:67%;" src="images/mission/tess_orbit_Winnpresentation.png">
+Maneuvers and scenario for achieving the TESS mission orbit. PLEP is the post lunar encounter perigee and PLEA is the post lunar encounter apogee. (Ricker et al. 2015)
+
+<br/>
+
+
+## Observing Strategy and Field of view
+
+TESS is equipped with four CCD cameras that have adjacent field-of-views to produce a 4 x 1 array, or 'observing sector', yielding a combined field-of-view of 96 x 24 degrees
+
+<br/>
+<img class="img-responsive" style="max-width:67%;" src="images/mission/tess_observingsectorschematic_Winnpresentation.png">
+<br/>
+
+<br/>
+<img class="img-responsive" style="max-width:67%;" src="images/mission/tess_cameraFOVschematic_Winnpresentation.png">
+<br/>
+
+TESS will observe the southern and northern ecliptic hemispheres for 1 year each in its 2 year prime mission, beginning in the south. Each hemisphere will be observed with 13 partially overlapping sectors, each covering ecliptic latitudes from 6 degrees to the ecliptic pole. Each  sector will be observed for two orbits (27.4 days) moving eastward until the hemisphere has been tiled by 13 sectors. The 26 observing sectors in the two year mission will cover over 90% of the sky. The sectors overlap at higher latitudes, with over 350 days of continuous coverage in the Continuous Viewing Zone (CVZ) at the ecliptic poles, which corresponds to the region accessible to NASA's upcoming James Webb Space Telescope.
 
 
 <br/>
+<img class="img-responsive" style="max-width:67%;" src="images/mission/tess_2yearskycoverage.png">
+<br/>
+
+## Time Sampling
+
+TESS will collect brightness measurements of about 200,000 preselected stars every 2 minutes.
+
+TESS will also collect data for every pixel in Full Frame Images (FFIs) at 30 minute cadence.
+
+
+
+
+

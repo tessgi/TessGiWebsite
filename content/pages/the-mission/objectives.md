@@ -3,7 +3,7 @@ Save_as: objectives.html
 
 [TOC]
 
-## TESS Overview
+## TESS overview
 **Discovering New Earths and Super-Earths in the Solar Neighborhood**
 
 The Transiting Exoplanet Survey Satellite (TESS) is a NASA-sponsored Astrophysics Explorer-class mission that will perform an all-sky survey to search for planets transiting nearby stars. The primary goal of TESS is to discover planets smaller than Neptune that transit stars bright enough to enable follow-up spectroscopic observations that can provide planet masses and atmospheric compositions.
@@ -17,7 +17,6 @@ TESS is scheduled to launch no earlier than March 2018 and will be placed in a h
 <br/>
 
 
-** **
 
 
 **From Kepler to TESS**
