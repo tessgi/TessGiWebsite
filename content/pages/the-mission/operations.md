@@ -17,7 +17,7 @@ Maneuvers and scenario for achieving the TESS mission orbit. PLEP is the post lu
 <br/>
 
 
-## Observing Strategy and Field of view
+## Field of View
 
 TESS is equipped with four CCD cameras that have adjacent field-of-views to produce a 4 x 1 array, or 'observing sector', yielding a combined field-of-view of 96 x 24 degrees
 
@@ -28,6 +28,8 @@ TESS is equipped with four CCD cameras that have adjacent field-of-views to prod
 <br/>
 <img class="img-responsive" style="max-width:67%;" src="images/mission/tess_cameraFOVschematic_Winnpresentation.png">
 <br/>
+
+## Observing Strategy
 
 TESS will observe the southern and northern ecliptic hemispheres for 1 year each in its 2 year prime mission, beginning in the south. Each hemisphere will be observed with 13 partially overlapping sectors, each covering ecliptic latitudes from 6 degrees to the ecliptic pole. Each  sector will be observed for two orbits (27.4 days) moving eastward until the hemisphere has been tiled by 13 sectors. The 26 observing sectors in the two year mission will cover over 90% of the sky. The sectors overlap at higher latitudes, with over 350 days of continuous coverage in the Continuous Viewing Zone (CVZ) at the ecliptic poles, which corresponds to the region accessible to NASA's upcoming James Webb Space Telescope.
 
