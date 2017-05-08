@@ -40,9 +40,7 @@ TESS will observe the southern and northern ecliptic hemispheres for 1 year each
 
 ## Time Sampling
 
-TESS will collect brightness measurements of about 200,000 preselected stars every 2 minutes.
-
-TESS will also collect data for every pixel in Full Frame Images (FFIs) at 30 minute cadence.
+TESS will collect brightness measurements of about 200,000 preselected stars ('postage stamps') every 2 minutes, and Full Frame Images (FFIs) (all pixels) at 30 minute cadence. The TESS cameras have an exposure time of 2 seconds, and the images are stacked for each 2 or 30 minute cadence.
 
 
 
