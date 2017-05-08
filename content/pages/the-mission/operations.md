@@ -9,6 +9,8 @@ TESS  is scheduled for launch via a SpaceX Falcon 9 from Cape Canaveral no earli
 
 TESS will observe from a unique High Earth Orbit (HEO) that will provide an unobstructed view of its field to obtain continuous light curves and a more stable platform for precise photometry than the low-Earth orbit. The TESS orbit is elliptical, with nominal perigee and apogee of 17 and 59 Earth radii, respectively, and a 13.7-day period in 2:1 resonance with the Moon’s orbit. The orbit is above Earth’s radiation belts providing a low-radiation environment.
 
+TESS data are returned to Earth during each orbital perigee using the Deep Space Network.
+
 <br/>
 
 <img class="img-responsive" style="max-width:67%;" src="images/mission/tess_orbit_Winnpresentation.png">

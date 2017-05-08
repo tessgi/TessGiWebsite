@@ -9,7 +9,7 @@ description of the mission concept can be found in
 
 ## Overview
 
-The TESS spacecraft hosts a 4 10-cm aperture cameras in an
+The TESS spacecraft hosts 4 10-cm aperture cameras in an
 eccentric high-earth orbit in a 2-to-1 resonance with the Moon. This insures a thermally stable environment, provides the ability to remain on a single pointing for the
 duration of each Sector, and allows for high data rates during perigee. 
 Pointing is maintained by a combination of two reaction wheels and thrusters, 
