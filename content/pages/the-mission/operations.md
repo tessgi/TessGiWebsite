@@ -12,7 +12,7 @@ TESS will observe from a unique High Earth Orbit (HEO) that will provide an unob
 <br/>
 
 <img class="img-responsive" style="max-width:67%;" src="images/mission/tess_orbit_Winnpresentation.png">
-Maneuvers and scenario for achieving the TESS mission orbit. PLEP is the post lunar encounter perigee and PLEA is the post lunar encounter apogee. (Ricker et al. 2015)
+Maneuvers for achieving the TESS mission orbit (shown in light blue). (Ricker et al. 2015)
 
 <br/>
 
