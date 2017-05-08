@@ -53,7 +53,7 @@ is between 20% and 62% with a median value of 45%.
 <br/>
 <img class="img-responsive" style="max-width:67%;" src="images/giprogram/tess_sky_coverage.png">
 <br/>
-
+ Fraction of sky coverage for different time baselines that TESS will have over the 2-year prime mission.
 
 ### Data yield
 
@@ -65,6 +65,7 @@ is between 20% and 62% with a median value of 45%.
 <br/>
 <img class="img-responsive" style="max-width:67%;" src="images/giprogram/tess_photometric_performance.png">
 <br/>
+Noise model for TESS photometry. Top: Expected standard deviation of measurements of relative flux, as a function of apparent magnitude, based on 1 hr of data. For the brightest stars, the precision is limited by the systematic noise floor of 60 ppm. For the faintest stars, the precision is limited by noise from the zodiacal light (shown here for an ecliptic latitude of 30°). Over the range of apparent magnitudes IC > 8–13, the photon-counting noise from the star is the dominant source of uncertainty. (Sullivan et al. 2015)
 
 
 ### Typical noise levels
