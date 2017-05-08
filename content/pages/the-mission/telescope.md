@@ -13,9 +13,6 @@ TESS is equipped with four refractive cameras, each with a 2000x2000 pixel CCD t
 <img class="img-responsive" style="max-width:67%;" src="images/mission/tess_spacecraft_cameras.jpg">
 <br/>
 
-<br/>
-<img class="img-responsive" style="max-width:67%;" src="images/mission/tess_camera_stats.png">
-<br/>
 
 ### Bandpass
 
@@ -35,7 +32,7 @@ TESS will observe a much larger number of M dwarfs compared to the Kepler missio
 
 
 <br/>
-<img class="img-responsive" style="max-width:67%;" src="images/mission/tess_vs_kepler_bandpass.png">
+<img class="img-responsive" style="max-width:55%;" src="images/mission/tess_vs_kepler_bandpass.png">
 <br/>
 *Image Credit: Zach Berta-Thompson with data from Sullivan at al. (2015)*
 
