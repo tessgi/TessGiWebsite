@@ -28,7 +28,6 @@ These considerations led to the choice of a 600 to 1000 nm bandpass. The red end
 <br/>
 <img class="img-responsive" style="max-width:60%;" src="images/mission/tess_bandpass.png">
 *The TESS spectral response function (black line), defined as the product of the long- pass filter transmission curve and the detector quantum efficiency curve. Also plotted, for comparison, are the Johnson–Cousins V, R C , and I C filter curves and the Sloan Digital Sky Survey z filter curve. Each of the functions has been scaled to have a maximum value of unity. Image Credit: Ricker et al. (2015)*
-<hr>
 <br/>
 
 
@@ -38,6 +37,6 @@ TESS will observe a much larger number of M dwarfs compared to the Kepler missio
 <br/>
 <img class="img-responsive" style="max-width:67%;" src="images/mission/tess_vs_kepler_bandpass.png">
 <br/>
-
+*Image Credit: Zach Berta-Thompson with data from Sullivan at al. (2015)*
 
 
