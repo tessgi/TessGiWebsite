@@ -17,7 +17,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - TESS Guest Investigator Program" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2017-05-05" />
+    <meta name="dc.date.modified" content="2017-05-09" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Kepler Guest Observers" />
     <meta name="dc.identifier" content="http://tessgi.gsfc.nasa.gov" />
@@ -92,9 +92,9 @@ in August 2015, using pelican-bootstrap and flatly.
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Mission <b class="caret"></b></a>
                             <ul class="dropdown-menu">
                                 <li><a href="./objectives.html">Objectives</a></li>
-                                <li><a href="./telescope.html">Telescope</a></li>
+                                <li><a href="./the-tess-space-telescope.html">Telescope</a></li>
                                 <li><a href="./operations.html">Operations</a></li>
-                                <li><a href="./science.html">Science</a></li>
+                                <li><a href="./primary-science.html">Science</a></li>
                                 <li><a href="./publications.html">Publications</a></li>
                             </ul>
                         </li>
@@ -154,12 +154,8 @@ to the operational characteristics and constraints of the mission. The science m
 exoplanet characterization, stellar astrophysics, 
 galactic and extragalactic astrophysics, and solar system science. </p>
 <p>The <strong>only</strong> science topic that Guest Investigators are not permitted to propose is work which directly reproduces the <a href="science.html">primary science of the mission</a>. Explicitly, this restriction is limited to investigations whose aim is to detect planets smaller than 4 earth-radii orbiting stars that are on the <a href="observing-technical.html#candidate-target-list">Candidate Target List</a>.</p>
-<p>The proposed TESS Guest Investigation must clearly enhance the science return of the TESS mission. The scientific justification of the proposal should focus on a compelling TESS science investigation, that requires TESS data to succeed. The proposal may include limited theoretical components, unique ground-based follow-up, software development and/or data simulation that strengthens the proposal. However, at least 70% of the work effort should be focused on utilizing TESS data products. </p>
 <p>Proposals may utilized either the 2-minute cadence, the full-frame image data, or both. All science proposals must be compelling and carefully justified
 scientifically and technically. </p>
-<p>Proposers must take into account the difference between science 
-that can be achieved exclusively using full-frame image data 
-and science that requires new observations at 2-minute cadence. </p>
 <p>The TESS GI program is specific to the case of science 
 requiring new observations. Funding for archival science is instead provided through the Astrophysics Data Analysis Program (<a href="https://nspires.nasaprs.com/external/solicitations/summary.do?method=init&amp;solId={9B644CB9-C0A8-8F23-DE92-FA3837D2F0BD}&amp;path=init">ADAP</a>). 
 All proposals to TESS calls therefore must justify 
@@ -182,6 +178,10 @@ intrinsic merit includes the following factors:</p>
 <li>The degree to which the proposed investigation places demands upon mission resources; and</li>
 <li>The degree to which the proposed investigation capitalizes on the unique capabilities of TESS. </li>
 </ul>
+<p>The proposed TESS Guest Investigation must clearly enhance the science return of the TESS mission. The scientific justification of the proposal should focus on a compelling TESS science investigation, that requires TESS data to succeed. The proposal may include limited theoretical components, unique ground-based follow-up, software development and/or data simulation that strengthens the proposal. However, at least 70% of the work effort should be focused on utilizing TESS data products. </p>
+<p>Proposers must take into account the difference between science 
+that can be achieved exclusively using full-frame image data 
+and science that requires new observations at 2-minute cadence. </p>
 <p>All proposals are peer-reviewed and ranked by a panel of professional volunteers, followed by ratification from NASA Headquarters. The members of the peer-review panel will not be disclosed. The deliberations of the panel will be disclosed to PIs only after ratification by the selecting official.</p>
 <p>NASA recognizes and supports the benefits of having diverse and inclusive
 scientific, engineering, and technology communities and fully expects that such values
@@ -195,7 +195,7 @@ mission and instrument teams.</p>
  * Large proposals - proposal of wide-ranging scope and science yield. Large proposals must deliver a clear benefit for the broader scientific community</p>
 <p>Funding for selected programs typically starts upon availability 
 of data to the public archive 
-at <a href="http://archive.stsci.edu/tess/">MAST</a>. 
+at <a href="data-access.html">MAST</a>. 
 Note that there is no exclusive use period associated with any TESS data. </p>
 <h3 id="eligibility">Eligibility</h3>
 <p>Application to the TESS GI program is typically open to all investigators,
@@ -208,10 +208,13 @@ along with eligible proposals for the purpose of allocating targets.</p>
 <p>In accordance with Public Law 113--76, Division B, Title V, Section 532, NASA cannot support bilateral participation, collaboration, or coordination with China or any Chinese-owned company or entity, whether funded or performed under a no-exchange-of-funds arrangement. See Section III(c) of the ROSES-2016 NRA for more information on these restrictions. </p>
 <h2 id="target-selection">Target selection</h2>
 <h3 id="tess-input-catalog">TESS Input Catalog</h3>
-<p>When a target is in the TESS Input Catalog (TIC), investigators must include the TIC identification number. The latest version of the TIC is <a href="data-access.html">available from the MAST</a>.</p>
-<h3 id="tools">Tools</h3>
+<p>When a target is in the TESS Input Catalog (TIC), investigators must include the TIC identification number. The latest version of the TIC is <a href="data-access.html">available from the MAST</a>. For targets not in the TIC, PIs must provide the coordinates of the source and a TESS magnitude. Software for <a href="proposal-tools.html">estimating TESS magnitudes is available</a>.</p>
+<h2 id="observability-of-targets">Observability of targets</h2>
+<p>We have developed software to determine whether any target can be observed by TESS and for how many sectors. Details are provided on our <a href="proposal-tools.html">proposal tools page</a></p>
 <h3 id="target-table">Target table</h3>
-<p><strong>Special instructions for moving targets</strong><br/></p>
+<h3 id="moving-targets">Moving targets</h3>
+<h3 id="target-of-opportunity-observations">Target of Opportunity Observations</h3>
+<p>Target of Opportunity Observations (TOOs) are rapidly evolving phenomena whose occurrence is not predictable. TOO’s can only be triggered every 13.7 days and proposals requesting TOO must describe the circumstances in which a TOO is “triggered” in the scientific justification and on the target form. TOO proposals must also include an estimated duration of the event, as well as an estimated probability for triggering the observations; the latter will be used in the accounting of total allocated targets. TOOs remain active only for the observing cycle in effect; TOOs not carried out during the Cycle 1 may be re-proposed for subsequent cycles. In the case of TOOs, observations would commence at the next upload event following the trigger event. The impact to science of such a potential delay must be addressed in proposals requesting TOO observations. </p>
 <h2 id="solicitations">Solicitations</h2>
 <h3 id="faqs">FAQs</h3>
 <!-- * **What are the proposal deadlines?**<br/>
@@ -281,6 +284,24 @@ to account for the recent changes to Campaign 16. <br/>
  as it is for other targets. However, proposers should take note of
  recommendations when creating the [target table for moving targets](k2-proposing-targets.html#target-table). -->
 <h3 id="submission-process">Submission process</h3>
+<p>The TESS GI program uses a two-phase proposal process. A Phase-1 proposal shall comprise the science/technical justification; proposals requesting funds need to include a budget narrative, describing in sufficient detail how the proposed funds will be used to achieve the goals outlined in the proposal. Only proposers whose Phase-1 proposals are accepted will be invited to submit budget proposals in Phase-2. It is not necessary for the PI of the Phase-2 proposal to be the science PI. Proposal content, including the list of investigators, must remain consistent between Phase-1 and Phase-2 proposals. All proposal materials will be submitted electronically. </p>
+<ul>
+<li>
+<p>All Proposers must submit their Phase-1 proposals electronically through the <a href="http://heasarc.gsfc.nasa.gov/ark/rps/">Astrophysics Research Knowledgebase (ARK)/ Remote Proposal System (RPS) website</a>;</p>
+</li>
+<li>
+<p>Target tables for all observation proposals are to be submitted through ARK/RPS; </p>
+</li>
+<li>
+<p>The Scientific/Technical/Management section of proposals is limited to four pages for small proposal and six pages for large proposals. No table of contents in the body of the proposal is required. No supporting material (e.g., curriculum vitae (CV), pending/current support) is required or permitted; </p>
+</li>
+<li>
+<p>Optional Latex and MS Word templates for the Scientific/Technical/Management are available</p>
+</li>
+</ul>
+<p>• _The Scientific/Technical/Management section must be uploaded to the RPS website as a PDF file.</p>
+<p>All proposal materials must be submitted electronically by 4:30 p.m. Eastern time on the due date for this program given in Section 3 in order to be included in the proposal review for this cycle of the TESS Guest Investigator program. Note that the 4:30 p.m. deadline supersedes the deadline stated in the Guidebook for Proposers and in the ROSES Summary of Solicitation. </p>
+<p>NASA uses a single, uniform set of instructions for the submission of ROSES proposals. These instructions are given in the NASA Guidebook for Proposers (http://www.hq.nasa.gov/office/procurement/nraguidebook/). TESS GI Proposers should follow these instructions, except where they are overridden by the instructions given in the ROSES Summary of Solicitation or in this Appendix. </p>
 <!-- K2 proposal submission is a 2-step process. Both steps are
 mandatory. To propose for Campaigns 14, 15 and 16, investigators are
 required to submit Step 1 through the NSPIRES website by <font color='black'>23:59 EST
@@ -442,7 +463,8 @@ Observer Office" as your affiliation within NSPIRES. This is simply a
 fudge, albeit a required fudge, so that non-US PIs spend no more
 effort than this over the institutional endorsements that are
 mandatory for US investigators. When completing the proposal, there are a few obscure boxes on the standard form that need your attention. The organization name is "Kepler Guest Observer Office", doing business as the "Kepler Guest Observer Office". The DUNS number is "999999954" and the cage code is "ZZZ54". These details will make sense to you when you see the Step 2 proposal form. -->
-<h3 id="directors-discretionary-time">Director's Discretionary Time</h3>
+<h3 id="proposal-templates">Proposal templates</h3>
+<h3 id="directors-discretionary-targets">Director's Discretionary Targets</h3>
 <p>A small part of the pixel budget may be allocated by the project as Director's Discretionary Targets (DDT),
 which is intended to facilitate observations that address
 scientific topics missed in the proposal review process.
@@ -464,14 +486,19 @@ More information and deadlines are available from the <a href="ddt.html">DDT pro
 </li>
 <li><a href="#target-selection">Target selection</a><ul>
 <li><a href="#tess-input-catalog">TESS Input Catalog</a></li>
-<li><a href="#tools">Tools</a></li>
+</ul>
+</li>
+<li><a href="#observability-of-targets">Observability of targets</a><ul>
 <li><a href="#target-table">Target table</a></li>
+<li><a href="#moving-targets">Moving targets</a></li>
+<li><a href="#target-of-opportunity-observations">Target of Opportunity Observations</a></li>
 </ul>
 </li>
 <li><a href="#solicitations">Solicitations</a><ul>
 <li><a href="#faqs">FAQs</a></li>
 <li><a href="#submission-process">Submission process</a></li>
-<li><a href="#directors-discretionary-time">Director's Discretionary Time</a></li>
+<li><a href="#proposal-templates">Proposal templates</a></li>
+<li><a href="#directors-discretionary-targets">Director's Discretionary Targets</a></li>
 </ul>
 </li>
 </ul>
