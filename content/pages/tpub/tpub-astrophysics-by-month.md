@@ -4,16 +4,20 @@ Save_as: tpub-astrophysics-by-month.html
 [TOC]
 
 
+2017-04
+-------
+
+1. [ON THE STATISTICAL PROPERTIES OF THE LOWER MAIN SEQUENCE](http://adsabs.harvard.edu/abs/2017ApJ...839..116A)  
+Angelou, George C., Bellinger, Earl P., Hekker, Saskia, et al.    
+2017, refereed ([2017ApJ...839..116A](http://adsabs.harvard.edu/abs/2017ApJ...839..116A))  
+
+
 2017-03
 -------
 
 1. [CEPHEIDS WITH THE EYES OF PHOTOMETRIC SPACE TELESCOPES](http://adsabs.harvard.edu/abs/2017arXiv170302421M)  
 Molnár, L., Pál, A., Plachy, E.    
 2017, pre-print ([2017arXiv170302421M](http://adsabs.harvard.edu/abs/2017arXiv170302421M))  
-
-2. [ON THE STATISTICAL PROPERTIES OF THE LOWER MAIN SEQUENCE](http://adsabs.harvard.edu/abs/2017arXiv170310165A)  
-Angelou, George C., Bellinger, Earl P., Hekker, Saskia, et al.    
-2017, pre-print ([2017arXiv170310165A](http://adsabs.harvard.edu/abs/2017arXiv170310165A))  
 
 
 2016-12

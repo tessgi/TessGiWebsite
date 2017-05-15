@@ -1,6 +1,8 @@
 Title: Status
 Save_as: status.html
 
+
+
 <img class="img-responsive" style="max-width:60%;" src="images/giprogram/timeline.jpg" alt="TESS CSC timeline">
 
 The TESS mission is in development and is due to launch in March 2018. The cameras and instrument are built and are being integrated at MIT. They are going through thermal and vibration testing currently.

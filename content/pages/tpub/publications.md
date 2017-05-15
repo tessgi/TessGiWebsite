@@ -18,7 +18,7 @@ directorate.*
 The Guest Investigator office curates a list of scientific publications
 pertaining to TESS.
 The database contains 32 publications,
-of which 20 are peer-reviewed.
+of which 22 are peer-reviewed.
 It demonstrates the important impact of TESS data
 on astronomical research.
 
@@ -34,7 +34,7 @@ Or seach by topic:
 If you spot an error in the database, such as a missing entry,
 please get in touch or open an issue in the <a href="https://github.com/tessgi/tpub">GitHub repository</a> of the database.
 
-Last update: 17 Apr 2017.
+Last update: 15 May 2017.
 
 <hr/>
 
@@ -65,7 +65,7 @@ pertain to other areas of astrophysics
 ## Most-cited publications
 
 TESS publications have cumulatively been cited
-346 times.
+354 times.
 The list below shows the most-cited publications,
 based on the citation count obtained from NASA ADS.
 
@@ -73,27 +73,27 @@ based on the citation count obtained from NASA ADS.
 1. TRANSITING EXOPLANET SURVEY SATELLITE (TESS)  
 Ricker, George R., Winn, Joshua N., Vanderspek, Roland, et al.    
 [2015JATIS...1a4003R](http://adsabs.harvard.edu/abs/2015JATIS...1a4003R)
-<span class="badge">128 citations</span>
+<span class="badge">131 citations</span>
 
 2. THE TRANSITING EXOPLANET SURVEY SATELLITE: SIMULATIONS OF PLANET DETECTIONS AND ASTROPHYSICAL FALSE POSITIVES  
 Sullivan, Peter W., Winn, Joshua N., Berta-Thompson, Zachory K., et al.    
 [2015ApJ...809...77S](http://adsabs.harvard.edu/abs/2015ApJ...809...77S)
-<span class="badge">57 citations</span>
+<span class="badge">58 citations</span>
 
 3. CHARACTERIZING TRANSITING PLANET ATMOSPHERES THROUGH 2025  
 Cowan, N. B., Greene, T., Angerhausen, D., et al.    
 [2015PASP..127..311C](http://adsabs.harvard.edu/abs/2015PASP..127..311C)
-<span class="badge">23 citations</span>
+<span class="badge">26 citations</span>
 
 4. UNDERSTANDING THE EFFECTS OF STELLAR MULTIPLICITY ON THE DERIVED PLANET RADII FROM TRANSIT SURVEYS: IMPLICATIONS FOR KEPLER, K2, AND TESS  
 Ciardi, David R., Beichman, Charles A., Horch, Elliott P., et al.    
 [2015ApJ...805...16C](http://adsabs.harvard.edu/abs/2015ApJ...805...16C)
-<span class="badge">19 citations</span>
+<span class="badge">20 citations</span>
 
 5. THE TRANSITING EXOPLANET SURVEY SATELLITE MISSION  
 Ricker, G. R.    
 [2014JAVSO..42..234R](http://adsabs.harvard.edu/abs/2014JAVSO..42..234R)
-<span class="badge">18 citations</span>
+<span class="badge">19 citations</span>
 
 6. THE K2-TESS STELLAR PROPERTIES CATALOG  
 Stassun, Keivan G., Pepper, Joshua A., Oelkers, Ryan, et al.    
@@ -143,7 +143,7 @@ Price, Ellen M., Rogers, Leslie A.
 15. COMBINING PHOTOMETRY FROM KEPLER AND TESS TO IMPROVE SHORT-PERIOD EXOPLANET CHARACTERIZATION  
 Placek, Ben, Knuth, Kevin H., Angerhausen, Daniel    
 [2016PASP..128g4503P](http://adsabs.harvard.edu/abs/2016PASP..128g4503P)
-<span class="badge">4 citations</span>
+<span class="badge">3 citations</span>
 
 16. THE EB FACTORY PROJECT. II. VALIDATION WITH THE KEPLER FIELD IN PREPARATION FOR K2 AND TESS  
 Parvizi, Mahmoud, Paegert, Martin, Stassun, Keivan G.    
@@ -165,9 +165,9 @@ Molnár, L., Pál, A., Plachy, E.
 [2017arXiv170302421M](http://adsabs.harvard.edu/abs/2017arXiv170302421M)
 <span class="badge">1 citations</span>
 
-20. FOLLOW-UP AND CHARACTERIZATION OF THE TESS EXOPLANETS WITH SOPHIE, SPIROU, AND JWST  
-Crouzet, N., Bonfils, X., Delfosse, X., et al.    
-[2017arXiv170103539C](http://adsabs.harvard.edu/abs/2017arXiv170103539C)
+20. ON THE STATISTICAL PROPERTIES OF THE LOWER MAIN SEQUENCE  
+Angelou, George C., Bellinger, Earl P., Hekker, Saskia, et al.    
+[2017ApJ...839..116A](http://adsabs.harvard.edu/abs/2017ApJ...839..116A)
 <span class="badge">0 citations</span>
 <hr/>
 
@@ -182,9 +182,9 @@ within the last 90 days.
 
 -->
 
-<!-- ## Most-active authors
+## Most-active authors
 
 The entries in the publication database have been authored and co-authored
 by a total of 194 unique author names.
-Here we list the most-active authors, defined as those with six or more first-author publications in our database. -->
+Here we list the most-active authors, defined as those with six or more first-author publications in our database.
 

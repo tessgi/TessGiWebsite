@@ -91,9 +91,9 @@ MENUITEMS = (
             )
          ),
         ('Using TESS', (
+            ('Guest Investigator Program', 'proposing-targets.html'),
             ('Status', 'status.html'),
             ('Technical details', 'observing-technical.html'),
-            ('Proposal preparation', 'proposing-targets.html'),
             # ('Campaign fields', 'k2-fields.html'),
             # ('Targets &amp; programs', 'k2-approved-programs.html'),
             # ('Data release notes', 'k2-data-release-notes.html'),
@@ -115,12 +115,12 @@ MENUITEMS = (
 
 # Defines the "key information" box on the front page
 KEY_INFORMATION = (
-    ('Proposal preparation', 'proposing-targets.html'),
+    ('Status', 'status.html'),
     ('Observatory guidebook', 'documentation.html'),
     ('Frequently asked questions', 'faq.html'),
     ('Volunteer to serve on a review panel',
         'https://goo.gl/forms/p4ZqiTQSEHjbM6nz2'),
-    ('Simulated data', 'data-products.html#simulated-data'),
+    ('Simulated data', 'data-access.html#simulated-data'),
 ) # make the simulated data link work!
 
 # Defines the "important dates" box on the front page

@@ -1,9 +1,8 @@
-Title: Proposal preparation
+Title: Guest Investigator Program
 Save_as: proposing-targets.html
 
 [TOC]
 
-## Guest Investigator program
 
 The TESS Guest Investigator program is intended to enable science investigations outside of the [core mission science goals](science.html). The program enables teams to proposal the collection of new 2-minute cadence targets, and provides funding to US investigators to analyse 2-minute cadence and full-frame image data.
 
