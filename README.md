@@ -17,7 +17,7 @@ and sending them to the server using `make live`.
 The essential commands for Kepler/K2 staff are:
 ```
 $ git clone https://github.com/tessgi/TessGiWebsite.git
-$ cd KeplerScienceWebsite
+$ cd TessGiWebsite
 $ make devserver
 $ firefox http://localhost:8000
 
