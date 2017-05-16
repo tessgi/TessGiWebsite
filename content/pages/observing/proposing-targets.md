@@ -371,6 +371,12 @@ mandatory for US investigators. When completing the proposal, there are a few ob
 
 ### Proposal templates
 
+We have made available templates to aid users in writing GI proposal. Use of these templates is not required.
+
+* [MS Word]()
+* [Apple Pages]()
+* [Latex]()
+
 ### Director's Discretionary Targets
 
 A small part of the pixel budget may be allocated by the project as Director's Discretionary Targets (DDT),

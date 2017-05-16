@@ -113,7 +113,6 @@ The image is a Kepler TPF for now.
 ### Collateral data
 
 
-
 ## Auxiliary data products
 
 
@@ -127,7 +126,15 @@ within their light curve data, the CBVs can be employed in performing
 a manual photometric correction, more tailored towards the users
 science. 
 
-### Pixel response functions (PRFs)
+### Point Spread Functions (PSFs)
 
 
-### Simualted Data
+### Simulated Data
+During development of space mission, the ground-segment goes through several tests known as Ground System Interface Test (GSIT). To aid potential TESS users in the development of tools and to assess the feasibility of investigations, the mission is planning to make available data from the GSIT-2 test. This will be available from the [MAST](https://archive.stsci.edu/tess). The anticipated date for this being made available is late-June.
+
+
+
+
+
+
+

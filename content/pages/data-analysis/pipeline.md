@@ -1,4 +1,4 @@
-Title: Kepler and K2 data processing pipeline
+Title: TESS data processing pipeline
 Save_as: pipeline.html
 
 [TOC]

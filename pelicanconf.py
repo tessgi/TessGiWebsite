@@ -108,6 +108,7 @@ MENUITEMS = (
             ('Data access', 'data-access.html'),
             ('Follow-up program', 'followup.html'),
             ('Analysis software', 'software.html'),
+            ('Pipeline', 'pipeline.html'),
             ('Documentation', 'documentation.html'),
             )
          ),
@@ -140,7 +141,7 @@ IMPORTANT_DATES = (
 MEETINGS = (
             ('<b>4–8 Jun 2017</b><br>'
              'AAS 230th Meeting',
-             'https://aas.org/meetings/aas230'),
+             'tess-community-science-center-team-at-aas-230.html'),
             ('<b>19–23 Jun 2017</b><br>'
              'Kepler & K2 SciCon IV',
              'https://keplerscience.arc.nasa.gov/scicon4/'),
