@@ -7,7 +7,7 @@ in August 2015, using pelican-bootstrap and flatly.
 >
 
 <head>
-    <title>Authors - TESS</title>
+    <title>Follow-up Observing Program - TESS Community Science Center</title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
@@ -31,15 +31,16 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <link href="./images/favicon.png" rel="icon">
 
+<link rel="canonical" href="./pages/follow-up-observing-program.html">
 
         <meta name="author" content="Thomas Barclay" />
+        <meta name="description" content="Something about all the mission observing data and where it will be stored. CFOP and ExoFOP" />
 
-    <!-- Open Graph tags -->
-        <meta property="og:site_name" content="TESS" />
-        <meta property="og:type" content="website"/>
-        <meta property="og:title" content="TESS"/>
-        <meta property="og:url" content="."/>
-        <meta property="og:description" content="TESS"/>
+    <meta property="og:site_name" content="TESS" />
+    <meta property="og:type" content="article"/>
+    <meta property="og:title" content="Follow-up Observing Program"/>
+    <meta property="og:url" content="./pages/follow-up-observing-program.html"/>
+    <meta property="og:description" content="Something about all the mission observing data and where it will be stored. CFOP and ExoFOP" />
 
 
     <!-- Why use Helvetica Neue when you can have Lato? -->
@@ -137,8 +138,28 @@ in August 2015, using pelican-bootstrap and flatly.
     <div class="row">
         <div class="col-lg-12">
 
-    <h1>Authors on TESS</h1>
-        <li><a href="./author/tom-barclay.html">Tom Barclay</a> (5)</li>
+    <div class="col-sm-9" data-spy="scroll" data-target="#sidebarCol">
+        <section id="content" class="body">
+            <h1 class="entry-title">Follow-up Observing Program</h1>
+            <div class="entry-content">
+                
+<p>Something about all the mission observing data and where it will be stored.</p>
+<h2 id="cfop-and-exofop">CFOP and ExoFOP</h2>
+<h2 id="_1"></h2>
+            </div>
+        </section>
+    </div>
+
+        <nav class="col-sm-3 visible-sm visible-md visible-lg bs-docs-sidebar" id="sidebarCol">
+            <div class="nav nav-stacked fixed" id="mytoc">
+            <div class="toc">
+<ul>
+<li><a href="#cfop-and-exofop">CFOP and ExoFOP</a></li>
+<li><a href="#_1"></a></li>
+</ul>
+</div>
+            </div>
+        </nav>
         </div>
     </div>
 </div>
@@ -195,5 +216,24 @@ in August 2015, using pelican-bootstrap and flatly.
 <!-- Analytics scripts -->
 
 
+        <script>
+          $('#mytoc').affix({
+                offset: {
+                  top: 50
+                }
+          });
+          $('body').scrollspy({
+              target: '#sidebarCol',
+              offset: 100
+          });
+
+          // Fix for issue #32:
+          function refreshScrollspy() {
+                $('[data-spy="scroll"]').each(function() {
+                    $(this).scrollspy('refresh');
+                });
+          }
+          $("img").bind('load', refreshScrollspy);
+        </script>
 </body>
 </html>

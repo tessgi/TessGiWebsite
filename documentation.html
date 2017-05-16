@@ -17,7 +17,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - TESS Guest Investigator Program" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2017-05-09" />
+    <meta name="dc.date.modified" content="2017-05-16" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Kepler Guest Observers" />
     <meta name="dc.identifier" content="http://tessgi.gsfc.nasa.gov" />
@@ -34,12 +34,13 @@ in August 2015, using pelican-bootstrap and flatly.
 <link rel="canonical" href="./pages/documentation.html">
 
         <meta name="author" content="Thomas Barclay" />
+        <meta name="description" content="A number of documents have been created to describe the TESS mission. We recommend that users start with the TESS Observatory Guide." />
 
     <meta property="og:site_name" content="TESS" />
     <meta property="og:type" content="article"/>
     <meta property="og:title" content="Documentation"/>
     <meta property="og:url" content="./pages/documentation.html"/>
-    <meta property="og:description" content="" />
+    <meta property="og:description" content="A number of documents have been created to describe the TESS mission. We recommend that users start with the TESS Observatory Guide." />
 
 
     <!-- Why use Helvetica Neue when you can have Lato? -->
@@ -100,9 +101,9 @@ in August 2015, using pelican-bootstrap and flatly.
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Using TESS <b class="caret"></b></a>
                             <ul class="dropdown-menu">
+                                <li><a href="./proposing-targets.html">Guest Investigator Program</a></li>
                                 <li><a href="./status.html">Status</a></li>
                                 <li><a href="./observing-technical.html">Technical details</a></li>
-                                <li><a href="./proposing-targets.html">Proposal preparation</a></li>
                                 <li><a href="./proposal-tools.html">Proposal tools</a></li>
                                 <li><a href="./ddt.html">Discretionary targets</a></li>
                                 <li><a href="./faq.html">FAQ</a></li>
@@ -114,6 +115,7 @@ in August 2015, using pelican-bootstrap and flatly.
                                 <li><a href="./data-access.html">Data access</a></li>
                                 <li><a href="./followup.html">Follow-up program</a></li>
                                 <li><a href="./software.html">Analysis software</a></li>
+                                <li><a href="./pipeline.html">Pipeline</a></li>
                                 <li><a href="./documentation.html">Documentation</a></li>
                             </ul>
                         </li>
@@ -136,15 +138,23 @@ in August 2015, using pelican-bootstrap and flatly.
     <div class="row">
         <div class="col-lg-12">
 
-    <div class="col-sm-12">
+    <div class="col-sm-9" data-spy="scroll" data-target="#sidebarCol">
         <section id="content" class="body">
             <h1 class="entry-title">Documentation</h1>
             <div class="entry-content">
                 
+<p>A number of documents have been created to describe the TESS mission. We recommend that users start with the <a href="">TESS Observatory Guide</a>.</p>
             </div>
         </section>
     </div>
 
+        <nav class="col-sm-3 visible-sm visible-md visible-lg bs-docs-sidebar" id="sidebarCol">
+            <div class="nav nav-stacked fixed" id="mytoc">
+            <div class="toc">
+<ul></ul>
+</div>
+            </div>
+        </nav>
         </div>
     </div>
 </div>
@@ -180,7 +190,7 @@ in August 2015, using pelican-bootstrap and flatly.
       <!-- NASA logo and notices -->
       <div class="row" style="margin-top:2em;">
          <div class="col-md-10"> <a href="http://www.nasa.gov/"><img src="./images/NASA_logo_vector_lg.png" width="30" alt="NASA Logo"></a> 
-         Last modified: Fri 28 April 2017
+         Last modified: Mon 15 May 2017
             &middot; Editor: Thomas Barclay &middot; NASA Official: Patricia T Boyd 
             &middot; <a href="http://www.nasa.gov/about/highlights/HP_Privacy.html">Privacy Policy and Important Notices</a><p></p>         </div>
          <div class="col-md-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
@@ -201,5 +211,24 @@ in August 2015, using pelican-bootstrap and flatly.
 <!-- Analytics scripts -->
 
 
+        <script>
+          $('#mytoc').affix({
+                offset: {
+                  top: 50
+                }
+          });
+          $('body').scrollspy({
+              target: '#sidebarCol',
+              offset: 100
+          });
+
+          // Fix for issue #32:
+          function refreshScrollspy() {
+                $('[data-spy="scroll"]').each(function() {
+                    $(this).scrollspy('refresh');
+                });
+          }
+          $("img").bind('load', refreshScrollspy);
+        </script>
 </body>
 </html>
