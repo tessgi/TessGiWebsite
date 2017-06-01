@@ -376,6 +376,7 @@ We have made available templates to aid users in writing GI proposal. Use of the
 * [MS Word]()
 * [Apple Pages]()
 * [Latex]()
+* [Google Docs]()
 
 ### Director's Discretionary Targets
 

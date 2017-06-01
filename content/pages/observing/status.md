@@ -13,7 +13,7 @@ Launch will be atop a SpaceX Falcon 9 from Cape Canaveral Air Force Station, Flo
 
 ## Mission timeline overview
 
-<a href="images/mission/tess_observingsectorschematic_Winnpresentation"><img src="images/mission/tess_observingsectorschematic_Winnpresentation" class="img-responsive" alt="TESS sectors"></a>
+<a href="images/mission/tess_observingsectorschematic_Winnpresentation.jpg"><img src="images/mission/tess_observingsectorschematic_Winnpresentation.jpg" class="img-responsive" alt="TESS sectors"></a>
 
 TESS will observe a series of sectors, where a sector is one 27-day long observation. Each year of the mission will consist of 13 sectors. Year 1 will target the southern hemisphere and year 2 will target the northern hemisphere. The location of each sector will not be known until launch. The dates below are from our nominal plan.
 
