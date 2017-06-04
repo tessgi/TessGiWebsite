@@ -3,11 +3,11 @@ Save_as: faq.html
 
 
 
-#### **How many TESS 2-minute target slots will be available to TESS Guest Investigators?**
+#### How many TESS 2-minute target slots will be available to TESS Guest Investigators?
 
 About 5% of TESS targets (~25,000) will be available to the GI program during the course of the 2-year baseline mission.
 
-#### **Will funds also be available?**
+#### Will funds also be available?
 
 Yes. TESS Guest Investigators at US Institutions may apply for funding to support their TESS Investigations.
 
