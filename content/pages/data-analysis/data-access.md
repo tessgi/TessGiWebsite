@@ -65,6 +65,12 @@ through MAST:
 * False positive working group tables -->
 * Observed targets by quarter
 
+
+<br/>
+<img class="img-responsive" style="min-width:50%;" src="images/data/tess_mast.png">
+<br/>
+
+
 <!-- The
 [Kepler mission page at NExScI](http://exoplanetarchive.ipac.caltech.edu/docs/KeplerMission.html)
 contains the following products and also details the instructions for
