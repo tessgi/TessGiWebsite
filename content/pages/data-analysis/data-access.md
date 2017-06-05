@@ -67,7 +67,7 @@ through MAST:
 
 
 <br/>
-<img class="img-responsive" style="min-width:50%;" src="images/data/tess_mast.png">
+<img class="img-responsive" style="min-width:50%;" src="images/data/tess_mast_products.png">
 <br/>
 
 
