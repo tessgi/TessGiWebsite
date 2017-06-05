@@ -6,7 +6,7 @@ Save_as: proposing-targets.html
 
 The TESS Guest Investigator program is intended to enable science investigations outside of the [core mission science goals](science.html). The program enables teams to proposal the collection of new 2-minute cadence targets, and provides funding to US investigators to analyse 2-minute cadence and full-frame image data.
 
-The TESS primary mission duration is two years. The first year is spent in the southern hemisphere and is corresponds to TESS Guest Investigator Program Cycle 1, the second year observed the northern hemisphere and it Cycle 2. During the primrary mission, the majority of the 2-minute cadence targets observed will be taken from the [TESS Candidate Target list (CTL)](observing-technical.html#candidate-target-list). In each Cycle 1 around 10,000 2-minute cadnence target slots will be assigned to the Guest Invesitgator Program.
+The TESS primary mission duration is two years. The first year is spent in the southern hemisphere and is corresponds to TESS Guest Investigator Program Cycle 1, the second year observed the northern hemisphere and it Cycle 2. During the primrary mission, the majority of the 2-minute cadence targets observed will be taken from the [TESS Candidate Target list (CTL)](observing-technical.html#candidate-target-list). In each Cycle 1 around 10,000 2-minute cadnence target slots will be assigned to the Guest Investigator Program.
 
 Consistent with Explorer Program policy, there will be no proprietary data rights to observations conducted with TESS. All data will be made freely available through the MAST archive as soon as they are received and processed. 
 
@@ -98,7 +98,10 @@ In accordance with Public Law 113--76, Division B, Title V, Section 532, NASA ca
 ## Target selection
 
 ### TESS Input Catalog
-When a target is in the TESS Input Catalog (TIC), investigators must include the TIC identification number. The latest version of the TIC is [available from the MAST](data-access.html). For targets not in the TIC, PIs must provide the coordinates of the source and a TESS magnitude. Software for [estimating TESS magnitudes is available](proposal-tools.html).
+
+The TESS Input Catalog (TIC) is a catalog of approximately half a billion objects generated to assist in planning and executing observations and data reduction. The TIC includes detailed information about the characteristics of more than 2 million stars that have been identified as potential targets for the TESS Planet Search. The TIC also includes basic information for optically luminous persistent astronomical objects that may influence the photometry of TESS targets.
+
+Guest Investigators must include the TIC identification number when selecting targets if there is an entry in the TIC. The latest version of the TIC is [available from the MAST](data-access.html). For targets not in the TIC, PIs must provide the coordinates of the source and a TESS magnitude. Software for [estimating TESS magnitudes is available](proposal-tools.html).
 
 ## Observability of targets
 We have developed software to determine whether any target can be observed by TESS and for how many sectors. Details are provided on our [proposal tools page](proposal-tools.html)

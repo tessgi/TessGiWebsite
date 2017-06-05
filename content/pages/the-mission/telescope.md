@@ -5,7 +5,7 @@ Save_as: the-tess-space-telescope.html
 
 The TESS observatory consists of a payload and spacecraft. The payload is comprised of four identical wide field-of-view CCD cameras and their associated hoods, mount, sun shield and a Data Handling Unit (DHU). The payload is coupled to the spacecraft, an Orbital Sciences LEOStar-2/750 satellite bus. The spacecraft provides power (via two deployable solar arrays), attitude control, data storage, and communications/transmission. 
 
-## TESS Cameras
+## TESS cameras
 
 TESS is equipped with four refractive cameras, each with a 2000x2000 pixel CCD that provides a 24x24 degree field-of-view. The combined field-of-view from all four cameras yields a 24x96 degree observing sector. 
 
