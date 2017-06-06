@@ -24,6 +24,11 @@ Save_as: helpdesk.html
         Dr Josh Schlieder<br>
         Support Scientist
     </div>
+    <div class="col-sm-3 text-center">
+        <img src="images/faces/tessie.png" class="img-circle"><br>
+        Tessie<br>
+        Support Dog
+    </div>
 </div>
 
 ### E-mail
