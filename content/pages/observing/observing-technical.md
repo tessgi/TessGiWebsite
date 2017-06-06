@@ -85,12 +85,15 @@ Noise model for TESS photometry. Top: Expected standard deviation of measurement
 ### Point-spread function
 
 
+
 ## TESS Input Catalog
 
 
 ### Candidate Target List
 
 
+### Crowding
+Because the TESS pixels are large (21”), the TESS photometry for many targets will be contaminated by nearby objects. One of the goals of the TIC is to provide the information needed to estimate the contamination in the TESS band. This cannot be determined accurately ahead of time because it will depend on the pixels selected for the aperture photometry of each target and the exact position of the target in the aperture. However, it is possible for the TIC to provide some guidance concerning the level of expected contamination, for example by providing the number of known objects and their total brightness in the TESS band for some suitable standard aperture and photometer Pixel Response Function (PRF). 
 
 ## Learn more
 
