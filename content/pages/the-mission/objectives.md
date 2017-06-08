@@ -19,7 +19,7 @@ TESS is scheduled to launch no earlier than March 2018 and will be placed in a h
 
 
 
-##From Kepler to TESS
+###From Kepler to TESS
 
 NASA's Kepler Mission (2009-2013) was a statistical transit survey designed to determine the frequency of Earth-size planets around other stars.  Kepler revealed thousands of exoplanets orbiting stars in its 115 square degree field-of view, which covered around 0.25 percent of the sky. While Kepler revolutionized the field of exoplanets and taught us that Earth-to-Neptune-sized planets are common, the bulk of the stars in the Kepler field lie at distances of hundreds to thousands of parsecs, making it difficult to obtain ground-based follow-up observations for many systems.
 
@@ -29,9 +29,12 @@ The TESS Mission is designed to survey over 90% of the sky (an area of sky 400 t
 
 ## TESS Guest Investigator Program
 
-The TESS Mission will have a robust [Guest Investigator Program](tess-proposing-targets.html) (GI program) that will be managed by the TESS Community Science Center at NASA Goddard Space Flight Center. Under the GI program, the astrophysics community may propose new 2 minute cadence targets and investigations using the 30 minute cadence FFI data. TESS GI calls for proposals will occur once per year and be announced within the NASA ROSES solicitation. About 10,000 targets will be available for each GI program cycle.
+The TESS Mission will have a robust [Guest Investigator Program](tess-proposing-targets.html) (GI program) that will be managed by the TESS Science Support Center at NASA Goddard Space Flight Center. Under the GI program, the astrophysics community may propose new 2 minute cadence targets and investigations using the 30 minute cadence FFI data. TESS GI calls for proposals will occur once per year and be announced within the NASA ROSES solicitation. About 10,000 targets will be available for each GI program cycle.
 
 The TESS mission welcomes proposals including, but not exclusive to, exoplanet, stellar, extragalactic, and solar system science. For specific guidelines on proposing targets through the GI program, visit our [Proposal Preparation](proposing-targets.html) page.
+
+
+### Potential science
 
 The following is a list of potential targets:
 

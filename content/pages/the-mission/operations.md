@@ -53,7 +53,13 @@ Within each 96 x 24 degree sector TESS will observe 15,000 target stars on a 2 m
 <img class="img-responsive" style="max-width:67%;" src="images/mission/tess_2yearskycoverage.png">
 <br/>
 
+## Launch
 
+Falcon 9 is a two-stage rocket designed and manufactured by SpaceX for the reliable and safe transport of satellites and the Dragon spacecraft into orbit. As the first rocket completely developed in the 21st century, Falcon 9 was designed from the ground up for maximum reliability. Falcon 9's simple two-stage configuration minimizes the number of separation events — and with nine first-stage engines, it can safely complete its mission even in the event of an engine shutdown.
+
+Falcon 9 made history in 2012 when it delivered Dragon into the correct orbit for rendezvous with the International Space Station, making SpaceX the first commercial company ever to visit the station. Since then SpaceX has made multiple flights to the space station, both delivering and returning cargo for NASA. Falcon 9, along with the Dragon spacecraft, was designed from the outset to deliver humans into space and under an agreement with NASA, SpaceX is actively working toward that goal.
+
+TESS will be launched at Cape Canaveral Air Force Station, Florida, with a planned date of no earlier than March 2018.
 
 ## Science data flow 
 The flow of data from the spacecraft to its final archive involves participation from multiple institutions that make up the TESS project team, as described below.
