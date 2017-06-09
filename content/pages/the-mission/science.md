@@ -26,7 +26,7 @@ TESS will observe over 90% of the sky over the 2 year prime mission. TESS will o
 <br/>
 <img class="img-responsive" style="max-width:67%;" src="images/mission/tess_search_space.png">
 <br/>
-
+*Image Credit: Zach Berta-Thompson*
 
 ## Types of stars monitored
 

@@ -62,15 +62,31 @@ is between 20% and 62% with a median value of 45%.
 
 ## Photometric performance
 
-<br/>
-<img class="img-responsive" style="max-width:67%;" src="images/giprogram/tess_photometric_performance.png">
-<br/>
-Noise model for TESS photometry. Top: Expected standard deviation of measurements of relative flux, as a function of apparent magnitude, based on 1 hr of data. For the brightest stars, the precision is limited by the systematic noise floor of 60 ppm. For the faintest stars, the precision is limited by noise from the zodiacal light (shown here for an ecliptic latitude of 30°). Over the range of apparent magnitudes IC > 8–13, the photon-counting noise from the star is the dominant source of uncertainty. (Sullivan et al. 2015)
+
 
 
 ### Typical noise levels
 
+A noise model for TESS photometry (figure below) shows the expected standard deviation of measurements of relative flux, as a function of apparent magnitude, based on 1 hr of data (Sullivan et al. 2015). For the brightest stars, the precision is limited by the systematic noise floor of 60 ppm. For the faintest stars, the precision is limited by noise from the zodiacal light (shown here for an ecliptic latitude of 30°). Over the range of apparent magnitudes > 8–13, the photon-counting noise from the star is the dominant source of uncertainty.
 
+<br/>
+<img class="img-responsive" style="max-width:67%;" src="images/giprogram/tess_photometric_performance.png">
+<br/>
+
+
+The photometric precision for a 10th magnitude star is estimated to be about 200 ppm, so TESS will be sensitive to super-Earths around bright stars.
+
+<br/>
+<img class="img-responsive" style="max-width:67%;" src="images/giprogram/tess_noise_200ppm.png">
+<br/>
+*Image Credit: Zach Berta-Thompson with data from Sullivan at al. (2015)*
+
+For fainter stars, such as a 16th magnitude star, the photometric precision drops to about 1%, which is sufficient for many astrophysical studies such as supernovae and stellar variability.
+
+<br/>
+<img class="img-responsive" style="max-width:67%;" src="images/giprogram/tess_noise_1percent.png">
+<br/>
+*Image Credit: Zach Berta-Thompson with data from Sullivan at al. (2015)*
 
 
 

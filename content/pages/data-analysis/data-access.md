@@ -65,7 +65,7 @@ through MAST:
 * False positive working group tables -->
 * Observed targets by quarter
 
-
+The file types are presented in the table below.
 <br/>
 <img class="img-responsive" style="min-width:50%;" src="images/data/tess_mast_products.png">
 <br/>
@@ -93,14 +93,14 @@ A variety of data products from TESS will be archived at MAST for guest investig
 A Full Frame Image (FFI) is a collection of science and collateral pixels observed simultaneously.  A single FFI is the full set of all science and collateral pixels across all CCDs of a given camera.  FFIs will be taken every 30 minutes during science operations, and there will be 1296 FFIs per data set. Each calibrated FFI will be exported as a FITs file. The Cosmic Ray Mitigated (CRM) FFIs are the same as FFIs except they will be collected with the onboard cosmic ray mitigation enabled. 
 
 There are 16 CCDs on the spacecraft, each of which is supported by 4 output channels; each output channel digitizes science pixels over 2048 rows x 512 columns, plus appropriate collateral pixels.
+
 <br/>
-<img class="img-responsive" style="max-width:60%;" src="images/data/tess_ccd.png">
+<img class="img-responsive" style="max-width:67%;" src="images/data/tess_ccd.png">
 <br/>
 
 Focal plane array (FPA) FITS image dimensions. 
-
 <br/>
-<img class="img-responsive" style="max-width:60%;" src="images/data/tess_fpa.png">
+<img class="img-responsive" style="max-width:67%;" src="images/data/tess_fpa.png">
 <br/>
 <br/>
 <img class="img-responsive" style="max-width:80%;" src="images/data/board_drawing_three.png">
@@ -114,7 +114,7 @@ In the binary table, the pixel values are encoded as images. Each element in the
 A sample image from a Kepler mission target pixel file:
 
 <br/>
-<img class="img-responsive" style="max-width:80%;" src="images/data/TPF-FV3.jpg">
+<img class="img-responsive" style="max-width:67%;" src="images/data/TPF-FV3.jpg">
 <br/>
 
 
