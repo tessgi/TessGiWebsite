@@ -16,10 +16,16 @@ TESS is scheduled to launch no earlier than March 2018 and will be placed in a h
 *The TESS Mission will discovering new Earths and super-Earths in the solar seighborhood. Image Credit: NASA*
 <br/>
 
+<!-- <<<<<<< Updated upstream
+=======
+<img class="img-responsive" style="max-width:60%;" src="images/TESSLavaPlanet.jpg">
+*Image Credit: TBD*
+>>>>>>> Stashed changes -->
 
 
 
-###From Kepler to TESS
+
+### From Kepler to TESS
 
 NASA's Kepler Mission (2009-2013) was a statistical transit survey designed to determine the frequency of Earth-size planets around other stars.  Kepler revealed thousands of exoplanets orbiting stars in its 115 square degree field-of view, which covered around 0.25 percent of the sky. While Kepler revolutionized the field of exoplanets and taught us that Earth-to-Neptune-sized planets are common, the bulk of the stars in the Kepler field lie at distances of hundreds to thousands of parsecs, making it difficult to obtain ground-based follow-up observations for many systems.
 
