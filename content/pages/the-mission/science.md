@@ -3,27 +3,52 @@ Save_as: primary-science.html
 
 [TOC]
 
-<img class="img-responsive" style="max-width:60%;" src="images/mission/tess_new.jpg">
+TESS will search for planets outside of our solar system with a primary goal of finding nearby planets that are amenable to characterization with ground-based follow-up surveys. The mission uses the transit method, the same method used by the Kepler Mission. TESS will survey 200,000 of the brightest stars near the Sun, primarily stars with spectral types ranging from F5 to M5, to search for transiting exoplanets. TESS will cover a sky area 400 times larger than that monitored by Kepler.
+
+In addition to its search for exoplanets, TESS will allow scientists from the wider community to request targets for astrophysics research on approximately 10,000 additional objects during the mission through its Guest Investigator program.
+
+ Additional follow-up with ground- and space-based missions, including NASA’s James Webb Space Telescope, will also allow astronomers to study the atmospheres of many of these planets. The TESS legacy will be a catalog of the nearest and brightest main-sequence stars hosting transiting exoplanets. 
+
+
+## The transit method
+
+The transit method of detecting exoplanets involves monitoring the brightness of many stars to look for periodic dips that could reveal planets crossing in front of the stars, blocking a fraction of their light, as viewed from the spacecraft. Transit photometry, which is the method used by the Kepler Mission, allows a very precise measure of a planet's orbital period, the depth of the folded transit light curve (shown below) can reveal the planet's size compared to the star's size, and the width can reveal the duration of the transit.
+
+<br/>
+<img class="img-responsive" style="max-width:67%;" src="images/mission/transit_white.png">
+<br/>
 *Image Credit: NASA*
-<hr>
 
-## Science from TESS 
+## Sky coverage
 
- The TESS legacy will be a catalog of the nearest and brightest main-sequence stars hosting transit- ing exoplanets
+TESS will observe over 90% of the sky over the 2 year prime mission. TESS will observe many more nearby, bright stars compared to the Kepler Mission.
 
-
-
-
+<br/>
+<img class="img-responsive" style="max-width:67%;" src="images/mission/tess_search_space.png">
+<br/>
+*Image Credit: Zach Berta-Thompson*
 
 ## Types of stars monitored
 
-[main-sequence dwarfs with spectral types F5 to M5. Evolved stars and early-type dwarfs are large, inhibiting the detection of small planets. Dwarfs with spectral types earlier than F5 also rotate rapidly, broadening their spectral lines and preventing precise radial-velocity (PRV) monitoring
+The stars TESS will study are 30 to 100 times brighter than those the Kepler mission and K2 follow-up surveyed, which will enable far easier follow-up observations with both ground-based and space-based telescopes. 
 
+<br/>
+<img class="img-responsive" style="max-width:67%;" src="images/mission/tess_bright_stars.png">
+<br/>
 
-spectral sequence, M dwarfs are especially attractive targets. They are abundant: about three- quarters of the stars in the solar neighborhood are M0–M5 dwarfs. They are relatively unexplored for transiting planets, because they constituted only a small minority of the Kepler target list. Furthermore, the transit signal of a small planet is easier to detect for an M dwarf than it would be for a larger star of the same apparent magnitude, facilitating both planetdiscovery and follow-up observations with JWST and other telescopes.
-However, stars with spectral types later than M5 are rarer and optically faint. They could be observed advantageously at near- infrared wavelengths, but this would greatly increase the mis- sion’s cost, complexity, and risk. Furthermore, planets transiting the very latest-type stars can be detected with ground-based instruments, as demonstrated by the MEarth survey.10 For these reasons, the F5–M5 range of spectral types was considered to be most important for TESS.]
-
-
-brightest stars are nearly evenly distributed over the entire sky, this desire led in the direction of an all-sky survey.
 
 ## Period sensitivity
+
+The orbital periods that TESS will be sensitive to will depend on the fraction of overlap among the sectors, which depends on the ecliptic latitude. Closer to the ecliptic, a FOV will have at most 27 days of coverage, meaning planet orbital periods will need to be shorter than this duration. Detecting 3 transits is ideal to constrain the orbit, but many 2-transit planet candidates will be found, necessitating additional follow-up to measure additional transits. At higher latitudes, the overlap of sectors will enable 351 of coverage per year.
+
+
+
+<br/>
+<img class="img-responsive" style="max-width:67%;" src="images/mission/tess_2yearskycoverage.png">
+<br/>
+
+
+
+
+
+

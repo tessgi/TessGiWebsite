@@ -13,7 +13,7 @@ and tips on
 inspecting and analyzing TESS data, [users should check out this page](software.html).
 
 We encourage users of TESS data to read through the
-(documentation associated with the TESS data products)[documentation.html]. The first port of call for the TESS user is the [TESS Observatory Handbook](link!!). 
+[documentation associated with the TESS data products](documentation.html). The first port of call for the TESS user is the [TESS Observatory Handbook](link!!). 
 
 
 
@@ -48,7 +48,8 @@ through MAST:
 * Simulated Data files
 * Artifact removal pixel files
 * Background pixel files
-* Collateral files
+* Auxiliary data for calibration
+* Collateral data files
 * Reverse clock files
 * Ancillary engineering files
 * Latest SPICE kernels (bsp and tsc binary files) -->
@@ -63,6 +64,12 @@ through MAST:
 * Kepler/GALEX cross match catalog
 * False positive working group tables -->
 * Observed targets by quarter
+
+The file types are presented in the table below.
+<br/>
+<img class="img-responsive" style="min-width:50%;" src="images/data/tess_mast_products.png">
+<br/>
+
 
 <!-- The
 [Kepler mission page at NExScI](http://exoplanetarchive.ipac.caltech.edu/docs/KeplerMission.html)
@@ -80,50 +87,75 @@ Kepler data:
 
 ## Main data products
 
-A few of the data products from TESS are described
-below. For a comprehensive list of available products.
+A variety of data products from TESS will be archived at MAST for guest investigators. 
 
 ### Full frame images (FFIs)
+A Full Frame Image (FFI) is a collection of science and collateral pixels observed simultaneously.  A single FFI is the full set of all science and collateral pixels across all CCDs of a given camera.  FFIs will be taken every 30 minutes during science operations, and there will be 1296 FFIs per data set. Each calibrated FFI will be exported as a FITs file. The Cosmic Ray Mitigated (CRM) FFIs are the same as FFIs except they will be collected with the onboard cosmic ray mitigation enabled. 
 
-Describe...
-
-<br/>
-
-<img class="img-responsive" style="min-width:97%;" src="images/mission/tess_observingsectorschematic_Winnpresentation.jpg">
+There are 16 CCDs on the spacecraft, each of which is supported by 4 output channels; each output channel digitizes science pixels over 2048 rows x 512 columns, plus appropriate collateral pixels.
 
 <br/>
+<img class="img-responsive" style="max-width:67%;" src="images/data/tess_ccd.png">
+<br/>
+
+Focal plane array (FPA) FITS image dimensions. 
+<br/>
+<img class="img-responsive" style="max-width:67%;" src="images/data/tess_fpa.png">
+<br/>
+<br/>
+<img class="img-responsive" style="max-width:80%;" src="images/data/board_drawing_three.png">
+<br/>
+
 
 ### Target pixel files (TPFs)
-Describe...
+For each 2 minute cadence target, TESS only acquires the pixels contained within a predefined mask. These pixels are used to create the data found in the light curve files. Each target pixel file packages these pixels as a time series of images in a binary FITS table. The intent of these files is to provide the data necessary to perform photometry on the raw or calibrated data when needed (or desired) to understand (or improve) the automated results of the TESS pipeline.
+In the binary table, the pixel values are encoded as images. Each element in the binary table contains the pixels from a single cadence. 
 
-The image is a Kepler TPF for now.
+A sample image from a Kepler mission target pixel file:
 
 <br/>
-
-<img class="img-responsive" style="min-width:97%;" src="images/data/TPF-FV3.jpg">
-
+<img class="img-responsive" style="max-width:67%;" src="images/data/TPF-FV3.jpg">
 <br/>
 
 
 
 ### Light curve files
-
-
+Light curve files contain flux time series data and are produced for each target using simple aperture photometry. The flux and uncertainties are provided at each cadence, with NaNs filling in any missing data values. The light curves are packaged as FITS binary table files and are used to search for transiting planets and other astrophysical phenomena.
 
 ### Collateral data
 
+Collateral data includes pixels from leading and trailing virtual columns, leading and trailing masked rows, and trailing virtual rows (in units of ADC counts). Additional collateral data includes auxiliary instrument models which describe the calibration effects. Pixel calibration is performed on both the cadence pixels and Full Frame Image (FFI) pixels, and calibrated science pixel values, in photoelectrons, along with their uncertainties are archived at the MAST. 
 
 ## Auxiliary data products
 
+Black level metric: the mean correction estimated from the virtual black pixel values. There is one metric value per cadence for each CCD readout. 
+
+Smear: the correction for shutterless operation. The smear will be less critical for TESS than was needed for Kepler due to the use of frame-transfer in TESS. 
+
+
+Auxiliary data consists of focal plane characterization files, engineering data and telemetry data
+used to calibrate the images and determine the status of the spacecraft.
+
+Gain model: The linear approximation to the CCD digitizer performance, in units of photoelectrons per digitizer count. Each TESS CCD has its own gain model. Each CCD’s gain model contains separate values for each of the 4 readouts on the CCD.
+
+Flat Field Model: A model which describes the pixel-to-pixel variation in response to photons. This allows the variations in individual pixel response to be removed in calibration. The flat field model is 2048 x 2048 for each of 16 CCDs.
+
+Linearity: A model which describes the deviations from linearity of the CCD digitizers. Each CCD has its own linearity model with separate values for each of the 4 readouts on the CCD.
+ The linearity model is used in conjunction with the gain model of each CCD to convert from a measured number of counts to a flux in photoelectrons.
+
+Read noise model: an estimate of the variation in pixel values which is caused by the digitization process itself. This is separate from the noise due to Poisson variation in the number of photons collected from a target (known as "shot noise"). The read noise model is used in the calibration process to estimate the uncertainty in pixel values, which is incorporated into the uncertainty propagation process. Each CCD has its own read noise model with separate values for each of the 4 readouts on the CCD.
+
+2-d black model: the expected readout of a given CCD, in counts, which is observed when no light is incident upon the detector. The 2-d black model is subtracted from the raw pixel values as part of the calibration process. The 2-d black model also incorporates the expected black values of collateral pixels. Each CCD has a separate 2-d black model. The size of the 2-d black model is 2078 x 2136 for each of 16 CCDs.
+
+Dark current metric: the mean dark current calculated from the virtual row pixel values. There is one metric value per cadence for each readout.
 
 ### Cotrending basis vectors (CBVs)
-
-CBVs will be provided for each operational sector of the mission. These are derived by
+Co-trending basis vectors (CBVs) represent the set of systematic trends present in the ensemble flux data. CBVs will be provided for each operational sector of the mission. These are derived by
 the TESS pipeline from a Principle Component Analysis and used to
-mitigate for systematic artifacts within the the target light
+mitigate systematic artifacts within the the target light
 curves. If TESS users see residual systematic problems
 within their light curve data, the CBVs can be employed in performing
-a manual photometric correction, more tailored towards the users
+a manual photometric correction, more tailored towards the user's
 science. 
 
 ### Point Spread Functions (PSFs)

@@ -3,19 +3,21 @@ Save_as: status.html
 
 [TOC]
 
-<img class="img-responsive" style="max-width:60%;" src="images/giprogram/timeline.jpg" alt="TESS CSC timeline">
+<img class="img-responsive" style="max-width:67%;" src="images/giprogram/timeline.jpg" alt="TESS CSC timeline">
 
-The TESS mission is in development and is due to launch in March 2018. The cameras and instrument are built and are being integrated at MIT. They are going through thermal and vibration testing currently.
+The TESS mission is in development and is due to launch in March 2018. The cameras and instrument are built and are being integrated at MIT and are currently going through thermal and vibration testing. The spacecraft is being built by Orbital ATK and has gone through thermal and vibration testing. In August the instrument and spacecraft vehicle will be integrated and will go through testing at Orbital ATK's facility in Dulles, Virginia.
 
-The spacecraft has been built by Orbital ATK and has gone through thermal and vibration testing. In August the instrument and spacecraft vehicle will be integrated and go through testing at Orbital's facility in Dulles, Virginia.
+The first Guest Investigator Cycle 1 call for proposals will be announced approximately 9 months prior to launch (currently set for early July 2017). The proposals will be due 3 months later. 
 
-Launch will be atop a SpaceX Falcon 9 from Cape Canaveral Air Force Station, Florida.
 
 ## Mission timeline overview
 
-<a href="images/mission/tess_observingsectorschematic_Winnpresentation.jpg"><img src="images/mission/tess_observingsectorschematic_Winnpresentation.jpg" class="img-responsive" alt="TESS sectors"></a>
+TESS will observe a series of sectors, where a sector is one 27-day long observation. Each year of the mission will consist of 13 sectors. Year 1 will target the southern hemisphere and year 2 will target the northern hemisphere. The location of each sector will not be known until launch. The dates in the table below are from our nominal plan.
 
-TESS will observe a series of sectors, where a sector is one 27-day long observation. Each year of the mission will consist of 13 sectors. Year 1 will target the southern hemisphere and year 2 will target the northern hemisphere. The location of each sector will not be known until launch. The dates below are from our nominal plan.
+<br/>
+<img class="img-responsive" style="max-width:67%;" src="images/mission/tess_observingsectorschematic_Winnpresentation.png">
+<br/>
+
 
 <div class="panel panel-primary">
   <div class="panel-heading">

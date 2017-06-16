@@ -1,47 +1,50 @@
 Title: TESS Guest Investigator Program Frequently Asked Questions
 Save_as: faq.html
 
-Q: How many TESS 2-minute target slots will be available to TESS Guest Investigators?
 
-A: About 5% of TESS targets (~25,000) will be available to the GI program during the course of the 2-year baseline mission.
+<br/>
+<img class="img-responsive" style="max-width:67%;" src="images/mission/exoplanetlots.jpg">
+*Image Credit: NASA*
+<br/>
 
-Q: Will funds also be available?
+#### **How many TESS 2-minute target slots will be available to TESS Guest Investigators?**
 
-A: Yes. TESS Guest Investigators at US Institutions may apply for funding to support their TESS Investigations.
+About 5% of TESS targets (~25,000) will be available to the GI program during the course of the 2-year baseline mission.
 
-Q: What if I have an interesting and timely TESS target that needs to be observed quickly, once TESS is launched?
+#### **Will funds also be available?**
 
-A: About 10% of the GI targets will be reserved for rapid turn-around, Director's Discretionary Time (DDT). If your target can't wait for the next GI proposal cycle, then DDT is the route for you.
+Yes. TESS Guest Investigators at US Institutions may apply for funding to support their TESS Investigations.
 
-Q: When will the Call for proposals be released?
+#### **What if I have an interesting and timely TESS target that needs to be observed quickly, once TESS is launched?**
 
-A: About one year prior to launch. The call will come out about 2-3 months prior to the deadline for proposals. A peer review will be held 2-3 months following this deadline, with targets and funds announced soon thereafter. The schedule is driven by the date when GI targets need to be incorporated into the TESS Target Input Catalog (TIC). The Call for Proposals will be an amendement to NASA's Research Opportunities in Space and Earth Sciences (ROSES-2016)
+ About 10% of the GI targets will be reserved for rapid turn-around, Director's Discretionary Time (DDT). If your target can't wait for the next GI proposal cycle, then DDT is the route for you.
 
-Q: Will there be any proprietary time period for GI targets?
+#### **When will the Call for Proposals be released?**
 
-A: No. All GI data will become immediately public when it arrives in the TESS archive at STScI/MAST.
+ About one year prior to launch. The call will come out about 2-3 months prior to the deadline for proposals. A peer review will be held 2-3 months following this deadline, with targets and funds announced soon thereafter. The schedule is driven by the date when GI targets need to be incorporated into the TESS Target Input Catalog (TIC). The Call for Proposals will be an amendment to NASA's Research Opportunities in Space and Earth Sciences (ROSES).
 
-Q: Are there any restrictions on the types of targets that can be proposed through the TESS GI Program?
+#### **Will there be any proprietary time period for GI targets?**
 
-A: No. Similar to Kepler and K2, the TESS GI Program will consider all scientifically compelling astrophysical targets, from solar system objects, to transiting exoplanets, to stellar variability, to normal and active galaxies. If you can think of a compelling science justification, and the proposed observations are technically feasible, it will be considered.
+ No. All GI data will become immediately public when it arrives in the TESS archive at STScI/MAST.
 
-Q: What if I can do my science with TESS full frame images, and don't need to propose for targets?
+#### **Are there any restrictions on the types of targets that can be proposed through the TESS GI Program?**
 
-A: These proposals will request funding only, and will be allowed under the TESS GI Program.
+ No. Similar to Kepler and K2, the TESS GI Program will consider all scientifically compelling astrophysical targets, from solar system objects, to transiting exoplanets, to stellar variability, to normal and active galaxies. If you can think of a compelling science justification, and the proposed observations are technically feasible, it will be considered.
 
-Q: How will my TESS GI targets be processed?
+#### **What if I can do my science with TESS full frame images, and don't need to propose for targets?**
 
-A: TESS data processing takes place at the Science Processing Operation Center (SPOC), designed and operated at NASA Ames Research Center. The SPOC is developing the image processing and transit photometry software, leveraging the highly successful Kepler Mission's Science Operations Center (SOC) pipeline software. More information on the Kepler software can be found [here](http://kepler.nasa.gov/science/ForScientists/papersAndDocumentation/SOCpapers)
+ These proposals will request funding only, and will be allowed under the TESS GI Program.
 
-Q: What software tools will be available?
+#### **How will my TESS GI targets be processed?**
 
-A: Shortly before the call for proposals is released, the GI Program Office will make software available for planning observations. Analysis software will be developed and made available as needs are foreseen and/or arise.
+ TESS data processing takes place at the Science Processing Operation Center (SPOC), designed and operated at NASA Ames Research Center. The SPOC is developing the image processing and transit photometry software, leveraging the Kepler Mission's Science Operations Center (SOC) pipeline software. More information on the Kepler software can be found [here](http://kepler.nasa.gov/science/ForScientists/papersAndDocumentation/SOCpapers)
 
-Q: Where can I send my suggestion for an idea I'd like to see incorporated into the TESS GI Program, or a software tool I'd like to suggest be developed?
+#### **What software tools will be available?**
 
-A: We love feedback! Please communicate with us using our Feedback form.
+ Shortly before the call for proposals is released, the GI Program Office will make software available for planning observations. Analysis software will be developed and made available as needs are foreseen and/or arise.
 
-Q: How do I sign up for information and updates about the TESS GI Program?
+#### **Where can I send my suggestion for an idea I'd like to see incorporated into the TESS GI Program, or a software tool I'd like to suggest be developed?**
 
-A: You can signup for our [mailing list](https://lists.nasa.gov/mailman/listinfo/tessnews). In addition to timely updates about the schedule and status of the TESS Guest Investigator Program, we will use the TESS mailing list to distribute important updates about data processing, availability, and other proposal opportunities related to TESS. So sign up, and stay in the loop!
+ We love feedback! Please contact our helpdesk[tessgi@bigbang.gsfc.nasa.gov]
+
  
