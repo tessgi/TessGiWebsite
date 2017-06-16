@@ -277,7 +277,7 @@ TESS will observe a series of sectors, where a sector is one 27-day long observa
       <td><a href="#s013">s013</a></td>
       <td>2019&nbsp;Apr&nbsp;08</td>
       <td>2019&nbsp;May&nbsp;05</td>
-      <td></td>
+      <td>2019&nbsp;Sep&nbsp;17</td>
       <td></td>
       <td></td>
       <td class="text-center">

@@ -1,7 +1,7 @@
 Title: TESS Helpdesk
 Save_as: helpdesk.html
 
-### TESS Community Science Center Team
+### TESS Science Support Center Team
 
 <div class="row">
     <div class="col-sm-3 text-center">
@@ -28,7 +28,7 @@ Save_as: helpdesk.html
 
 ### E-mail
 
-You can contact the TESS Community Science Center at [tessgi@bigbang.gsfc.nasa.gov](mailto:tessgi@bigbang.gsfc.nasa.gov) for advice and information on:
+You can contact the TESS Science Support Center at [tessgi@bigbang.gsfc.nasa.gov](mailto:tessgi@bigbang.gsfc.nasa.gov) for advice and information on:
 
 * the TESS mission;
 * proposing to observe with TESS;
