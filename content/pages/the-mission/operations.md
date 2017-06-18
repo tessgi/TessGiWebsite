@@ -39,7 +39,7 @@ TESS will collect brightness measurements of about 200,000 preselected stars ('p
 <br/>
 <img class="img-responsive" style="max-width:95%;" src="images/mission/tess_onboard_formats.png">
 <br/>
-
+*Schematic of TESS time sampling, data processing, and storage.*
 
 ## Observing strategy
 

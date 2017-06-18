@@ -17,7 +17,7 @@ The transit method of detecting exoplanets involves monitoring the brightness of
 <br/>
 <img class="img-responsive" style="max-width:67%;" src="images/mission/transit_white.png">
 <br/>
-*Image Credit: NASA*
+* The transit method of detecting exoplanets involves monitoring the brightness of stars to identify periodic drops caused by planets crossing in front and blocking a fraction of their light as viewed by the spacecraft. Image credit: NASA*
 
 ## Sky coverage
 

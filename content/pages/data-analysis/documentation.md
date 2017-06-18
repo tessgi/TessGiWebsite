@@ -8,7 +8,7 @@ Save_as: documentation.html
 A number of documents have been created to describe the TESS mission. We recommend that users start with the [TESS Observatory Guide](). This guide serves two purposes. The first is to provide a comprehensive description of the TESS observatory design, operations, and capabilities. The second is to provide potential Guest Investigator (GI) proposers detailed information regarding the TESS GI program. This includes descriptions of GI program procedures, services, and tools. 
 
 
-## TESS Project Papers
+## TESS project papers
 
 A description of the TESS observatory and science mission: [Ricker et al., 2015, JATIS, 1, 014003](http://adsabs.harvard.edu/abs/2015JATIS...1a4003R)
  
