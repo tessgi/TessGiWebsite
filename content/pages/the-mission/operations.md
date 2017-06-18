@@ -5,18 +5,16 @@ Save_as: operations.html
 
 ## Launch and orbit
 
-TESS  is scheduled for launch via a SpaceX Falcon 9 from Cape Canaveral no earlier than March 20, 2018.  
+TESS  is scheduled for launch from the Cape Canaveral Air Force Station aboard a SpaceX Falcon 9. The Falcon 9 is a 2 stage, liquid oxygen and kerosene fueled rocket. The first stage is reusable and has 9 Merlin 1D engines, the second stage has a single Merlin engine. The system is designed for safe and efficient transport of satellites, cargo, and eventually crew, to low-earth orbit. TESS is the first NASA Astrophysics satellite mission to be launched under a contract with SpaceX. The current launch window is no-earlier-than March 20, 2018 and not-later-than June 2018.
 
-TESS will observe from a unique High Earth Orbit (HEO) that will provide an unobstructed view of its field to obtain continuous light curves and a more stable platform for precise photometry than the low-Earth orbit. The TESS orbit is elliptical, with nominal perigee and apogee of 17 and 59 Earth radii, respectively, and a 13.7-day period in 2:1 resonance with the Moon’s orbit. The orbit is above Earth’s radiation belts providing a low-radiation environment.
-
-TESS data are returned to Earth during each orbital perigee using the Deep Space Network.
+TESS will observe from a unique elliptical high earth orbit (HEO) that will provide an unobstructed view of its field to obtain continuous light curves and a more stable platform for precise photometry than the low-Earth orbit. The launch will carry the observatory to parking orbit inclined by 28.5 degrees. The high earth orbit is achieved through a series of propulsion system burns and a lunar flyby. Two burns raise the orbit apogee to 400,000 km, one at perigee of the first phasing orbit and another at perigee of the second phasing orbit. Another small adjustment is made is made a third perigee before a lunar gravitational assist raises the ecliptic inclination to ~40 degrees. The final apogee and 13.7 day orbital period are achieved through a final period-adjustment maneuver after the lunar flyby. Final orbit is achieved around 60 days after launch and science operations begin shortly afterward.
 
 <br/>
-
-<img class="img-responsive" style="max-width:67%;" src="images/mission/tess_orbit_Winnpresentation.png">
-*Maneuvers for achieving the TESS mission orbit (shown in light blue). (Ricker et al. 2015)*
-
+<img class="img-responsive" style="max-width:67%;" src="images/mission/tess_orbit_Winnpresentation.jpg">
+* Schematic of maneuvers and encounters leading to the final TESS orbit (light blue). The observatory orbits with a period of 13.7 days in a 2:1 resonance with the Moon. PLEA and PLEP are the post-lunar-encounter-apogee and -perigee, respectively. Image Credit: Ricker et al. 2015*
 <br/>
+
+The final orbit is elliptical with a period of 13.7 days and nominal perigee and apogee of 17 Earth radii and 59 Earth radii, respectively. The orbit places the spacecraft in a 2:1 resonance with the Moon and is inclined with respect to the Ecliptic plane. This avoids lengthy eclipses of the Earth and Moon through the FOV. The large apogee and perigee keep the spacecraft above the Earth’s radiation belts and provide a nearly constant thermal environment for the stable -75 degrees C operation of the CCDs. The orbit is operationally stable due to the Moon leading or lagging the apogee by about 90 degrees, effectively averaging out lunar perturbations. The period and semi-major axis are relatively stable, with long term inclination and eccentricity exchanges over periods of 8-12 years. There are additional short term perturbations caused by the Sun with a period of 6 months. The TESS high earth orbit is stable for decades or longer and requires no propulsion for station-keeping. TESS data are returned to Earth during each orbital perigee using the Deep Space Network.
 
 
 ## Field of view
@@ -24,7 +22,7 @@ TESS data are returned to Earth during each orbital perigee using the Deep Space
 TESS is equipped with four CCD cameras that have adjacent field-of-views to produce a 4 x 1 array, or 'observing sector', yielding a combined field-of-view of 96 x 24 degrees
 
 <br/>
-<img class="img-responsive" style="max-width:67%;" src="images/mission/tess_observingsectorschematic_Winnpresentation.png">
+<img class="img-responsive" style="max-width:67%;" src="images/mission/tess_observingsectorschematic_Winnpresentation.jpg">
 <br/>
 
 <br/>
@@ -53,13 +51,6 @@ Within each 96 x 24 degree sector TESS will observe 15,000 target stars on a 2 m
 <img class="img-responsive" style="max-width:67%;" src="images/mission/tess_2yearskycoverage.png">
 <br/>
 
-## Launch
-
-Falcon 9 is a two-stage rocket designed and manufactured by SpaceX for the reliable and safe transport of satellites and the Dragon spacecraft into orbit. As the first rocket completely developed in the 21st century, Falcon 9 was designed from the ground up for maximum reliability. Falcon 9's simple two-stage configuration minimizes the number of separation events — and with nine first-stage engines, it can safely complete its mission even in the event of an engine shutdown.
-
-Falcon 9 made history in 2012 when it delivered Dragon into the correct orbit for rendezvous with the International Space Station, making SpaceX the first commercial company ever to visit the station. Since then SpaceX has made multiple flights to the space station, both delivering and returning cargo for NASA. Falcon 9, along with the Dragon spacecraft, was designed from the outset to deliver humans into space and under an agreement with NASA, SpaceX is actively working toward that goal.
-
-TESS will be launched at Cape Canaveral Air Force Station, Florida, with a planned date of no earlier than March 2018.
 
 ## Science data flow 
 The flow of data from the spacecraft to its final archive involves participation from multiple institutions that make up the TESS project team, as described below.
