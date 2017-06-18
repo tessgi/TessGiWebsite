@@ -128,10 +128,10 @@ KEY_INFORMATION = (
 IMPORTANT_DATES = (
             ('<b>30 Jun 2017</b>',
              'Release of Cycle 1 call for proposals',
-             'k2-proposing-targets.html'), # link to a new item?
+             'proposing-investigations.html'), # link to a new item?
             ('<b>28 Sep 2017</b>',
              'Cycle 1 proposal submission deadline ',
-             'k2-proposing-targets.html'), # link to a new item?
+             'proposing-investigations.html'), # link to a new item?
             ('<b>20 Mar 2018</b>',
              'Planned mission launch date',
              'operations.html'), # link to a news item?
