@@ -37,9 +37,9 @@ TESS is a NASA Astrophysics Explorer mission led by the Massachusetts Institute 
 
 ## TESS Guest Investigator Program
 
-The TESS Mission will have a robust [Guest Investigator Program](tess-proposing-targets.html) (GI program) that will be managed by the TESS Science Support Center at NASA Goddard Space Flight Center. Under the GI program, the astrophysics community may propose new 2 minute cadence targets and investigations using the 30 minute cadence FFI data. TESS GI calls for proposals will occur once per year and be announced within the NASA ROSES solicitation. About 10,000 targets will be available for each GI program cycle.
+The TESS Mission will have a robust [Guest Investigator Program](proposing-investigations.html) (GI program) that will be managed by the TESS Science Support Center at NASA Goddard Space Flight Center. Under the GI program, the astrophysics community may propose new 2 minute cadence targets and investigations using the 30 minute cadence FFI data. TESS GI calls for proposals will occur once per year and be announced within the NASA ROSES solicitation. About 10,000 targets will be available for each GI program cycle.
 
-The TESS mission welcomes proposals including, but not exclusive to, exoplanet, stellar, extragalactic, and solar system science. For specific guidelines on proposing targets through the GI program, visit our [Proposal Preparation](proposing-targets.html) page.
+The TESS mission welcomes proposals including, but not exclusive to, exoplanet, stellar, extragalactic, and solar system science. For specific guidelines on proposing targets through the GI program, visit our [Proposal Preparation](proposing-investigations.html) page.
 
 
 ### Potential science

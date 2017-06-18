@@ -26,7 +26,7 @@ approaching the quality achieved for the Kepler mission.
 
 ### Capabilities
 
-Science observations are taken at one of two timing settings: long (30-min) or short (1-min) cadence. When in fine-point observing, [K2 is capable of achieving a benchmark photometric precision](k2-observing.html#fine-point-photometric-precision) on an m<sub>V</sub> = 12 G2V star of better than 170 parts-per-million (ppm) in 30 minutes of integration, i.e., one long cadence exposure. 
+<!-- Science observations are taken at one of two timing settings: long (30-min) or short (1-min) cadence. When in fine-point observing, [K2 is capable of achieving a benchmark photometric precision](k2-observing.html#fine-point-photometric-precision) on an m<sub>V</sub> = 12 G2V star of better than 170 parts-per-million (ppm) in 30 minutes of integration, i.e., one long cadence exposure. 
 This corresponds to ~30 ppm over a 6.5-hour transit 
 of an Earth-sized body around that star.
 
@@ -46,7 +46,7 @@ The detector has a pixel scale of 3.98 arcseconds.
 Image quality varies with position in the focal plane, 
 with the 95% encircled energy diameter ranging from 3.1 to 7.5 pixels with a median value of 4.2 pixels. 
 The percentage of point-source flux concentrated in the center pixel 
-is between 20% and 62% with a median value of 45%.
+is between 20% and 62% with a median value of 45%. -->
 
 ### Sectors
 
@@ -113,14 +113,14 @@ Because the TESS pixels are large (21”), the TESS photometry for many targets 
 
 ## Learn more
 
-<ul>
+<!-- <ul>
   <li>
     <a href="k2-fields.html">Campaign fields &raquo;</a>
   </li>
     <li>
-    <a href="k2-proposing-targets.html">Proposing targets &raquo;</a>
+    <a href="proposing.html">Proposing targets &raquo;</a>
   </li>
   <li>
     <a href="k2-approved-programs.html">Approved observing programs &raquo;</a>
   </li>
-</ul>
+</ul> -->

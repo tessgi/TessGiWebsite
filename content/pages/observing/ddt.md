@@ -21,7 +21,7 @@ All DDT requests must include:
 * a strong scientific justification;
 * a description of the long-term legacy value of the program;
 * a justification for why the request was not submitted during the previous Call for Proposals;
-* a separate target table (does not count toward the 2-page limit; the required format as well as a [template for the target table can be found here](/k2-proposing-targets.html#target-table)).
+* a separate target table (does not count toward the 2-page limit; the required format as well as a [template for the target table can be found here]().
 
 Beause e-mail may occasionally get lost, you should expect to receive a notification of receipt after submitting your proposal.
 

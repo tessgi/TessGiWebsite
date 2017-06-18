@@ -1,15 +1,16 @@
 Title: Guest Investigator Program
-Save_as: proposing-targets.html
+Save_as: proposing-investigations.html
 
 [TOC]
 
 
-The TESS Guest Investigator program is intended to enable science investigations outside of the [core mission science goals](science.html). The program enables teams to proposal the collection of new 2-minute cadence targets, and provides funding to US investigators to analyse 2-minute cadence and full-frame image data.
+The TESS Guest Investigator program is intended to enable the community to participate in science investigations using TESS, outside of the [core mission science goals](science.html). The program enables teams to proposal the collection of new 2-minute cadence targets, and provides funding to US investigators to analyse 2-minute cadence and full-frame image data.
 
 The TESS primary mission duration is two years. The first year is spent in the southern hemisphere and is corresponds to TESS Guest Investigator Program Cycle 1, the second year observed the northern hemisphere and it Cycle 2. During the primrary mission, the majority of the 2-minute cadence targets observed will be taken from the [TESS Candidate Target list (CTL)](observing-technical.html#candidate-target-list). In each Cycle 1 around 10,000 2-minute cadnence target slots will be assigned to the Guest Investigator Program.
 
-Consistent with Explorer Program policy, there will be no proprietary data rights to observations conducted with TESS. All data will be made freely available through the MAST archive as soon as they are received and processed. 
+There will be no exclusive-use data rights to observations collected by  TESS. All data will be made available through the MAST public archive once data processing and validation is complete. 
 
+**Proposals are due at 4.30pm Eastern Time on September 28, 2017.**
 
 ### Permitted science areas
 
@@ -20,21 +21,19 @@ to the operational characteristics and constraints of the mission. The science m
 exoplanet characterization, stellar astrophysics, 
 galactic and extragalactic astrophysics, and solar system science. 
 
-The **only** science topic that Guest Investigators are not permitted to propose is work which directly reproduces the [primary science of the mission](science.html). Explicitly, this restriction is limited to investigations whose aim is to detect planets smaller than 4 earth-radii orbiting stars that are on the [Candidate Target List](observing-technical.html#candidate-target-list).
+The primary purpose of the TESS Guest Investigator Program is to enhance and maximize the science return from TESS. The program facilitates and supports both 2-minute cadence observations with TESS and research undertaken with the FFIs. Any area of astrophysics may be proposed. However proposals to detect planet transits within the 2-minute cadence data of  the one hundred thousand (100,000) top-prioritized, southern hemisphere [Candidate Target List](observing-technical.html#candidate-target-list) (version 5.0) targets are not solicited, and will be considered non-compliant. No restrictions are imposed on science using the full-frame image data. Proposals for exoplanet detection and characterization using full frame image data are encouraged.  
 
 Proposals may utilized either the 2-minute cadence, the full-frame image data, or both. All science proposals must be compelling and carefully justified
 scientifically and technically. 
 
-The TESS GI program is specific to the case of science 
-requiring new observations. Funding for archival science is instead provided through the Astrophysics Data Analysis Program ([ADAP](https://nspires.nasaprs.com/external/solicitations/summary.do?method=init&solId={9B644CB9-C0A8-8F23-DE92-FA3837D2F0BD}&path=init)). 
-All proposals to TESS calls therefore must justify 
-the need for new observational data within their program. 
-However, we welcome proposals that build upon data already collected 
-and programs requiring more data to enhance or complete investigations.
+ 
+The scientific justification of a GI proposal should focus on a compelling science investigation, that requires the collection of new TESS data to succeed. The proposed TESS Guest Investigation must clearly enhance the science return of the TESS mission. The proposal may include limited theoretical components, limited ground-based follow-up, software development and/or data simulation that strengthens the proposal. At least 70% of the work effort should be focused on exploiting TESS data products. Proposed investigations that are otherwise dominated in effort by theory, ground-based observing, or archival data analysis will be non-compliant. The ROSES solicitation provides alternative opportunities to exploit or support the TESS mission in these areas:
+ 
+* Investigations dominated by theoretical effort should respond to the Appendix D.4 Astrophysics Theory Program (ATP) solicitation, or Appendix E.3 the Exoplanet Research Program (XRP).
+* Investigations dominated by archival data analysis effort should respond to the Appendix D.2 Astrophysics Data Archive Program (ADAP) solicitation.
+* Investigations dominated by ground-based data collection and/or analysis efforts should respond to the Appendix E.3 the Exoplanet Research Program (XRP), or the NSF Astronomy and Astrophysics Research Grants Program (AAG).
 
-Any software developed with TESS GI funds must add value to the TESS science community, be free and open source, with the source code made publicly available. Any ground-based follow-up data collected through TESS GI funding support must be made publicly available in a timely fashion on a public data archive such as MAST. Any supporting exoplanet data should be archived through the NASA Exoplanet Science Institute (NExScI)--- NASA’s repository for supporting exoplanet data. Proposals must clearly describe the plans to make any new software or supporting data publicly available.
-
-
+Proposals must clearly describe the plans to make any new software or supporting data publicly available. Software developed with TESS GI funds must add value to the TESS science community, be free and open source. Exoplanet-related ground-based follow-up data collected through TESS GI funding support must be made publicly available in a timely fashion at  the NASA Exoplanet Science Institute (NExScI) [ExoFOP service](https://exofop.ipac.caltech.edu) - NASA’s repository for supporting exoplanet data. Supporting data for non-exoplanet science should be archived through a public data archive service such as the [Mikulski Archive at Space Telescope](http://archive.stsci.edu/hlsp/) (MAST) higher level data product service. 
 
 ### Evaluation criteria
 
@@ -68,11 +67,11 @@ mission and instrument teams.
 
 ### Availability of funds
 
-It is anticipated that up to $2.5M in Cycle 1 will be available through this solicitation for the support of approximately ~40 Guest Investigations of one-year duration each. Note that additional unfunded Guest Investigation targets may be selected and observed, if target resources permit. TESS 2-minute cadence observations are open to all scientists at U.S. or non-U.S. institutions. TESS GI funding is open to all individuals who are identified as Principal Investigators and employed at U.S. institutions, including TESS science team members. Scientists participating in the TESS mission, including members of the Follow-up Team who are not funded by the Project, are eligible for support under this GI Program. TESS science team members who already receive support from the Project must provide a compelling justification for the award of additional funds under the GI Program. 
+It is anticipated that up to $2.5M in Cycle 1 will be available through this solicitation for the support of approximately 30 Guest Investigations of one-year duration each. Note that additional unfunded Guest Investigation targets may be selected and observed, if target resources permit. TESS 2-minute cadence observations are open to all scientists at U.S. or non-U.S. institutions. TESS GI funding is open to all individuals who are identified as Principal Investigators and employed at U.S. institutions, including TESS science team members. Scientists participating in the TESS mission, including members of the Follow-up Team who are not funded by the Project, are eligible for support under this GI Program. TESS science team members who already receive support from the Project must provide a compelling justification for the award of additional funds under the GI Program. 
 
 There are typically two categories of TESS GI proposals, investigators are free to select the catagory that best reflects their scope of their proposed work.
- * Small proposals - proposals of limited scope and are capped at a budget of $50,000. Funding will be allocated via a formula.
- * Large proposals - proposal of wide-ranging scope and science yield. Large proposals must deliver a clear benefit for the broader scientific community
+ * Small proposals - proposals of limited scope and have budgets of around $50,000. 
+ * Large proposals - proposal of wide-ranging scope and science yield. Large proposals must deliver a clear benefit for the broader scientific community have budgets of approximately $200,000
 
 Funding for selected programs typically starts upon availability 
 of data to the public archive 
@@ -114,7 +113,7 @@ We have developed software to determine whether any target can be observed by TE
 
 
 ### Target of Opportunity Observations
-Target of Opportunity Observations (TOOs) are rapidly evolving phenomena whose occurrence is not predictable. TOO’s can only be triggered every 13.7 days and proposals requesting TOO must describe the circumstances in which a TOO is “triggered” in the scientific justification and on the target form. TOO proposals must also include an estimated duration of the event, as well as an estimated probability for triggering the observations; the latter will be used in the accounting of total allocated targets. TOOs remain active only for the observing cycle in effect; TOOs not carried out during the Cycle 1 may be re-proposed for subsequent cycles. In the case of TOOs, observations would commence at the next upload event following the trigger event. The impact to science of such a potential delay must be addressed in proposals requesting TOO observations. 
+Target of Opportunity Observations (TOOs) of rapidly evolving phenomena whose occurrence is not predictable at the time of the proposal deadline. Due to TESS mission constraints, TOO-triggered target definitions can only be uploaded to the spacecraft during uplinks that occur once every 13.7 days. Details regarding the circumstances in which a TOO is “triggered” must be included in the scientific justification and on the target form. TOO proposals must also include an estimated duration of the event, as well as an estimated probability for triggering the observations; the latter will be used in the accounting of total allocated targets. TOOs remain active during Cycle 1; TOOs not carried out during the cycle may be re-proposed to subsequent solicitations. TOO observations would commence after the spacecraft upload following the trigger event, which could be as long as 2 months after the event. The impact to science of such a potential delay must be addressed in proposals requesting TOO observations. 
 
 
 
@@ -188,7 +187,7 @@ to account for the recent changes to Campaign 16. <br/>
 * **How do I propose a moving target?**<br/>
  The proposal process is the same for a Solar System or moving target
  as it is for other targets. However, proposers should take note of
- recommendations when creating the [target table for moving targets](k2-proposing-targets.html#target-table). -->
+ recommendations when creating the [target table for moving targets](#target-table). -->
 
 
 ### Submission process
@@ -198,7 +197,7 @@ The TESS GI program uses a two-phase proposal process. A Phase-1 proposal shall 
 
 * Target tables for all observation proposals are to be submitted through ARK/RPS; 
 
-* The Scientific/Technical/Management section of proposals is limited to four pages for small proposal and six pages for large proposals. No table of contents in the body of the proposal is required. No supporting material (e.g., curriculum vitae (CV), pending/current support) is required or permitted; 
+* The Scientific/Technical/Management section of proposals is limited to four pages. No table of contents in the body of the proposal is required. No supporting material (e.g., curriculum vitae (CV), pending/current support) is required or permitted; 
 
 * Optional Latex and MS Word templates for the Scientific/Technical/Management are available
 

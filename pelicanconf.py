@@ -91,7 +91,7 @@ MENUITEMS = (
             )
          ),
         ('Using TESS', (
-            ('Guest Investigator Program', 'proposing-targets.html'),
+            ('Guest Investigator Program', 'proposing-investigations.html'),
             ('Status', 'status.html'),
             ('Technical details', 'observing-technical.html'),
             # ('Campaign fields', 'k2-fields.html'),
