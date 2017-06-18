@@ -4,11 +4,11 @@ Save_as: documentation.html
 [TOC]
 
 
-# TESS Obseratory Guide
+## TESS Obseratory Guide
 A number of documents have been created to describe the TESS mission. We recommend that users start with the [TESS Observatory Guide](). This guide serves two purposes. The first is to provide a comprehensive description of the TESS observatory design, operations, and capabilities. The second is to provide potential Guest Investigator (GI) proposers detailed information regarding the TESS GI program. This includes descriptions of GI program procedures, services, and tools. 
 
 
-# TESS Project Papers
+## TESS Project Papers
 
 A description of the TESS observatory and science mission: [Ricker et al., 2015, JATIS, 1, 014003](http://adsabs.harvard.edu/abs/2015JATIS...1a4003R)
  
@@ -20,7 +20,7 @@ TESS Input Catalog and Candidate Target List description: [Stassun et al., 2017,
 A full list of TESS-related articles can be found under [Publications](publications.html)
 
 
-# Data processing pipeline
+## Data processing pipeline
 
 Users of TESS are encouraged to review the following papers to understand the processing of TESS data before it is archived at the Mikulski Archive for Space Telescopes (MAST).
 
@@ -34,7 +34,7 @@ The SPOC pipeline is leveraged from the [Kepler Science Processing Pipeline](htt
 
 
 
-# Additional Links
+## Additional Links
 
 [NASA TESS homepage](https://tess.gsfc.nasa.gov/)
  
