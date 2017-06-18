@@ -12,6 +12,14 @@ Gaidos, E., Kitzmann, D., Heng, K.
 2017, refereed ([2017MNRAS.468.3418G](http://adsabs.harvard.edu/abs/2017MNRAS.468.3418G))  
 
 
+2017-06
+-------
+
+1. [THE TESS INPUT CATALOG AND CANDIDATE TARGET LIST](http://adsabs.harvard.edu/abs/2017arXiv170600495S)  
+Stassun, Keivan G., Oelkers, Ryan J., Pepper, Joshua, et al.    
+2017, pre-print ([2017arXiv170600495S](http://adsabs.harvard.edu/abs/2017arXiv170600495S))  
+
+
 2017-04
 -------
 

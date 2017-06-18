@@ -11,27 +11,31 @@ Save_as: tpub.html
 Gaidos, E., Kitzmann, D., Heng, K.    
 2017, refereed ([2017MNRAS.468.3418G](http://adsabs.harvard.edu/abs/2017MNRAS.468.3418G))  
 
-2. [ON THE STATISTICAL PROPERTIES OF THE LOWER MAIN SEQUENCE](http://adsabs.harvard.edu/abs/2017ApJ...839..116A)  
+2. [THE TESS INPUT CATALOG AND CANDIDATE TARGET LIST](http://adsabs.harvard.edu/abs/2017arXiv170600495S)  
+Stassun, Keivan G., Oelkers, Ryan J., Pepper, Joshua, et al.    
+2017, pre-print ([2017arXiv170600495S](http://adsabs.harvard.edu/abs/2017arXiv170600495S))  
+
+3. [ON THE STATISTICAL PROPERTIES OF THE LOWER MAIN SEQUENCE](http://adsabs.harvard.edu/abs/2017ApJ...839..116A)  
 Angelou, George C., Bellinger, Earl P., Hekker, Saskia, et al.    
 2017, refereed ([2017ApJ...839..116A](http://adsabs.harvard.edu/abs/2017ApJ...839..116A))  
 
-3. [TEE, AN ESTIMATOR FOR THE PRECISION OF ECLIPSE AND TRANSIT MINIMUM TIMES](http://adsabs.harvard.edu/abs/2017A&A...599A..93D)  
+4. [TEE, AN ESTIMATOR FOR THE PRECISION OF ECLIPSE AND TRANSIT MINIMUM TIMES](http://adsabs.harvard.edu/abs/2017A&A...599A..93D)  
 Deeg, H. J., Tingley, B.    
 2017, refereed ([2017A&A...599A..93D](http://adsabs.harvard.edu/abs/2017A&A...599A..93D))  
 
-4. [LIMB AND GRAVITY-DARKENING COEFFICIENTS FOR THE TESS SATELLITE AT SEVERAL METALLICITIES, SURFACE GRAVITIES, AND MICROTURBULENT VELOCITIES](http://adsabs.harvard.edu/abs/2017A&A...600A..30C)  
+5. [LIMB AND GRAVITY-DARKENING COEFFICIENTS FOR THE TESS SATELLITE AT SEVERAL METALLICITIES, SURFACE GRAVITIES, AND MICROTURBULENT VELOCITIES](http://adsabs.harvard.edu/abs/2017A&A...600A..30C)  
 Claret, A.    
 2017, refereed ([2017A&A...600A..30C](http://adsabs.harvard.edu/abs/2017A&A...600A..30C))  
 
-5. [TRANSIT CLAIRVOYANCE: ENHANCING TESS FOLLOW-UP USING ARTIFICIAL NEURAL NETWORKS](http://adsabs.harvard.edu/abs/2017MNRAS.465.3495K)  
+6. [TRANSIT CLAIRVOYANCE: ENHANCING TESS FOLLOW-UP USING ARTIFICIAL NEURAL NETWORKS](http://adsabs.harvard.edu/abs/2017MNRAS.465.3495K)  
 Kipping, David M., Lam, Christopher    
 2017, refereed ([2017MNRAS.465.3495K](http://adsabs.harvard.edu/abs/2017MNRAS.465.3495K))  
 
-6. [CEPHEIDS WITH THE EYES OF PHOTOMETRIC SPACE TELESCOPES](http://adsabs.harvard.edu/abs/2017arXiv170302421M)  
+7. [CEPHEIDS WITH THE EYES OF PHOTOMETRIC SPACE TELESCOPES](http://adsabs.harvard.edu/abs/2017arXiv170302421M)  
 Molnár, L., Pál, A., Plachy, E.    
 2017, pre-print ([2017arXiv170302421M](http://adsabs.harvard.edu/abs/2017arXiv170302421M))  
 
-7. [FOLLOW-UP AND CHARACTERIZATION OF THE TESS EXOPLANETS WITH SOPHIE, SPIROU, AND JWST](http://adsabs.harvard.edu/abs/2017arXiv170103539C)  
+8. [FOLLOW-UP AND CHARACTERIZATION OF THE TESS EXOPLANETS WITH SOPHIE, SPIROU, AND JWST](http://adsabs.harvard.edu/abs/2017arXiv170103539C)  
 Crouzet, N., Bonfils, X., Delfosse, X., et al.    
 2017, pre-print ([2017arXiv170103539C](http://adsabs.harvard.edu/abs/2017arXiv170103539C))  
 
