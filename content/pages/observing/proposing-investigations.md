@@ -96,9 +96,24 @@ In accordance with Public Law 113--76, Division B, Title V, Section 532, NASA ca
 
 ## Target selection
 
-### TESS Input Catalog
+### TESS Input Catalog (TIC)
 
-The TESS Input Catalog (TIC) is a catalog of approximately half a billion objects generated to assist in planning and executing observations and data reduction. The TIC includes detailed information about the characteristics of more than 2 million stars that have been identified as potential targets for the TESS Planet Search. The TIC also includes basic information for optically luminous persistent astronomical objects that may influence the photometry of TESS targets.
+To meet the primary mission goals, an all-sky catalog was generated to act as a basis for target selection. The TESS Target Selection Working Group (TSWG) was tasked with the creation and maintenance of the catalog with the aim of compiling every optically luminous, persistent object in the sky down to the limits of available wide-field photometric catalogs including both point sources and extended sources. This enables the selection of optimal targets to search for small transiting planets and allows flux contamination to be calculated in an optimal aperture for each target (critical due to the ~21” TESS pixels). The resulting catalog is the source from which the >200,000 primary mission targets will be selected and is known as the TESS Input Catalog (TIC).
+
+The TIC was assembled by merging three base catalogs and many auxiliary catalogs to create a full list of point sources, extended sources, and other special objects of interest that could be observed by TESS. The resulting full list of TIC objects is used as input to a set of algorithms to determine the effective physical parameters and prioritization of each. The final TIC contains data for ~596 million objects, including 470 million point sources, 125 million extended sources, and 1 million special objects. A visual overview of the input catalogs and methodology used to construct the TIC is shown in the schematic below.
+
+
+<br/>
+<img class="img-responsive" style="max-width:80%;" src="images/giprogram/tess_tic_flowchart.png">
+*Overview of the photometric catalogs used to construct the TESS Input Catalog (TIC). Yellow arrows depict the order that catalogs are crossmatched and or merged. The final TIC (TIC 5 as of 2017-06-04) is represented by the green box at the upper right. Image Credit: Stassun et al. 2017.*
+<br/>
+
+### Candidate Target List (CTL)
+A subset of TIC objects was isolated to select the >200,000 targets for TESS 2 min cadence observations in service of the mission’s primary science requirements. This list is known as the Candidate Target List (CTL). The CTL was constructed by applying strict cuts to the ~470 million point sources in the TIC that included cuts in magnitude, reduced proper motion, and lack of calculated parameters (T eff,  radius, and contamination ratio). The resulting list is ranked by priority; a function of sky position, stellar radius, brightness, and contamination, to provide a list of the ~20 million top ranked stars. The CTL currently contains both dwarf and subgiant stars (giants have been removed). Once parallaxes from the second Gaia Data Release (DR2) are available, dwarfs and subgiants can be differentiated.
+
+A complete description of the input and methods used to construct the TIC and CTL are provided in the TIC paper prepared by the TSWG team (Stassun et al. 2017, available [here](http://adsabs.harvard.edu/abs/2017arXiv170600495S)). The current full versions of the TIC and CTL are hosted publicly at the Mikulski Archive for Space Telescopes (MAST, available [here](https://archive.stsci.edu/tess/)) and a high priority subset of the CTL is available via the Filtergraph data visualization system (available [here](http://filtergraph.vanderbilt.edu/tess_ctl)). Subsequent versions of the TIC and CTL containing additional data (e.g. Gaia) will be generated and made available leading up to the TESS launch.
+
+
 
 Guest Investigators must include the TIC identification number when selecting targets if there is an entry in the TIC. For targets not in the TIC, GIs must provide the coordinates of the source and a TESS magnitude. Software for [estimating TESS magnitudes is available](proposal-tools.html). The latest version of the TIC is [available from the MAST](http://archive.stsci.edu/tess/all_products.html) and described further in the [Data Access](data-access.html) page. Documentation for the TIC can be found on [arXiv](https://arxiv.org/abs/1706.00495). There will be several deliveries of preliminary versions of the TIC prior to launch to allow testing. A formal delivery of the TIC will occur a few months before launch. 
 

@@ -54,14 +54,16 @@ The TESS Data Handling Unit (DHU) provides the hardware, software, and firmware 
 
 
 ### Bandpass
-TESS will observe a large number of M dwarfs for several reasons. Planets are easier to detect around these small stars (the planets induce larger transit signals). Most nearby stars are M dwarfs. Because M dwarfs are cool and red, the TESS bandpass will be more sensitive to red wavelengths. These considerations led to the choice of a 600 to 1000 nm bandpass. The width of 400 nm was the largest practical choice for the optical design.
+TESS will observe a large number of M dwarfs for several reasons. Planets are easier to detect around these small stars (the planets induce larger transit signals). Most nearby stars are M dwarfs. Because M dwarfs are cool and red, the TESS bandpass will be more sensitive to red wavelengths. 
 
+The TESS detector bandpass spans from 600 - 1000 nm and is centered on the traditional Cousins I-band (I_C, 𝜆_c  = 786.5 nm). This wide, red-optical bandpass is preferred to reduce photon-counting noise and increase sensitivity to small planets transiting cool, red stars. The long wavelength end represents the red-limit of the CCD detectors and is set by their quantum efficiency.
+
+The short wavelength end is set by a long-pass filter coating on one of the camera lenses. In contrast to  Kepler, the TESS bandpass is comparably wide but covers redder wavelengths, reflecting the differing target priorities of the two missions (Sun-like stars for Kepler; small, cool stars for TESS). The width of 400 nm was the largest practical choice for the optical design.
 
 <br/>
 <img class="img-responsive" style="max-width:67%;" src="images/mission/tess_bandpass.png">
-*The TESS spectral response function (black line), defined as the product of the long- pass filter transmission curve and the detector quantum efficiency curve. Also plotted, for comparison, are the Johnson–Cousins V, R C , and I C filter curves and the Sloan Digital Sky Survey z filter curve. Each of the functions has been scaled to have a maximum value of unity. Image Credit: Ricker et al. (2015)*
+*The TESS spectral response function (black line), defined as the product of the long-pass filter transmission curve and the detector quantum efficiency curve. Also plotted, for comparison, are the Johnson–Cousins V, R C , and I_C filter curves and the Sloan Digital Sky Survey z filter curve. Each of the functions has been scaled to have a maximum value of unity. Image Credit: Ricker et al. (2015)*
 <br/>
-
 
 
 
