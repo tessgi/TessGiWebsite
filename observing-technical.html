@@ -101,7 +101,7 @@ in August 2015, using pelican-bootstrap and flatly.
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Using TESS <b class="caret"></b></a>
                             <ul class="dropdown-menu">
-                                <li><a href="./proposing-targets.html">Guest Investigator Program</a></li>
+                                <li><a href="./proposing-investigations.html">Guest Investigator Program</a></li>
                                 <li><a href="./status.html">Status</a></li>
                                 <li><a href="./observing-technical.html">Technical details</a></li>
                                 <li><a href="./proposal-tools.html">Proposal tools</a></li>
@@ -184,31 +184,33 @@ The percentage of point-source flux concentrated in the center pixel
 is between 20% and 62% with a median value of 45%. -->
 <h3 id="sectors">Sectors</h3>
 <p><br/>
-<img class="img-responsive" src="images/giprogram/tess_sky_coverage.png" style="max-width:67%;"/>
+<img class="img-responsive" src="images/giprogram/tess_sky_coverage.png" style="max-width:67%;">
 <br/>
- Fraction of sky coverage for different time baselines that TESS will have over the 2-year prime mission.</p>
+ Fraction of sky coverage for different time baselines that TESS will have over the 2-year prime mission.</img></p>
 <h3 id="data-yield">Data yield</h3>
 <h2 id="photometric-performance">Photometric performance</h2>
 <h3 id="typical-noise-levels">Typical noise levels</h3>
 <p>A noise model for TESS photometry (figure below) shows the expected standard deviation of measurements of relative flux, as a function of apparent magnitude, based on 1 hr of data (Sullivan et al. 2015). For the brightest stars, the precision is limited by the systematic noise floor of 60 ppm. For the faintest stars, the precision is limited by noise from the zodiacal light (shown here for an ecliptic latitude of 30°). Over the range of apparent magnitudes &gt; 8–13, the photon-counting noise from the star is the dominant source of uncertainty.</p>
 <p><br/>
-<img class="img-responsive" src="images/giprogram/tess_photometric_performance.png" style="max-width:67%;"/>
-<br/></p>
+<img class="img-responsive" src="images/giprogram/tess_photometric_performance.png" style="max-width:67%;">
+<br/></img></p>
 <p>The photometric precision for a 10th magnitude star is estimated to be about 200 ppm, so TESS will be sensitive to super-Earths around bright stars.</p>
 <p><br/>
-<img class="img-responsive" src="images/giprogram/tess_noise_200ppm.png" style="max-width:67%;"/>
+<img class="img-responsive" src="images/giprogram/tess_noise_200ppm.png" style="max-width:67%;">
 <br/>
-<em>Image Credit: Zach Berta-Thompson with data from Sullivan at al. (2015)</em></p>
+<em>Image Credit: Zach Berta-Thompson with data from Sullivan at al. (2015)</em></img></p>
 <p>For fainter stars, such as a 16th magnitude star, the photometric precision drops to about 1%, which is sufficient for many astrophysical studies such as supernovae and stellar variability.</p>
 <p><br/>
-<img class="img-responsive" src="images/giprogram/tess_noise_1percent.png" style="max-width:67%;"/>
+<img class="img-responsive" src="images/giprogram/tess_noise_1percent.png" style="max-width:67%;">
 <br/>
-<em>Image Credit: Zach Berta-Thompson with data from Sullivan at al. (2015)</em></p>
+<em>Image Credit: Zach Berta-Thompson with data from Sullivan at al. (2015)</em></img></p>
+<p>Saturation is anticipated in the central pixel at I_C = 7.5. This, however, does not represent the bright limit for precise photometry. Excess charge from saturated pixels is conserved and spread across adjacent pixels in a CCD column until the excess reaches a CCD boundary. This leads to “bleed trails” extending above and below a saturated pixel, similar to what is seen for bright stars in Kepler/K2 photometry. Precision photometry can still be achieved by creating a photometric aperture that is large enough to encompass all excess charge and the TESS bright limit is anticipated to be I_C ≅ 4.</p>
 <h3 id="solar-pressure-induced-drift">Solar pressure-induced drift</h3>
 <h3 id="fine-point-pointing-precision">Fine-point pointing precision</h3>
 <h3 id="point-spread-function">Point-spread function</h3>
-<h2 id="tess-input-catalog">TESS Input Catalog</h2>
-<h3 id="candidate-target-list">Candidate Target List</h3>
+<h2 id="target-selection">Target selection</h2>
+<p>The TESS Input Catalog (TIC) is a catalog of approximately half a billion objects generated to assist in planning and executing observations and data reduction. The TIC includes detailed information about the characteristics of more than 2 million stars that have been identified as potential targets for the TESS Planet Search. The TIC also includes basic information for optically luminous persistent astronomical objects that may influence the photometry of TESS targets. More information on the TIC can be found <a href="proposing-investigations.html#target-selection">here</a></p>
+<p>The Candidate Target List (CTL) is a subset of TIC objects isolated to select the &gt;200,000 targets for 2 min cadence observations in service of the mission’s primary science requirements. More information on the CTL can be found <a href="proposing-investigations.html#candidate-target-list-ctl">here</a></p>
 <h3 id="crowding">Crowding</h3>
 <p>Because the TESS pixels are large (21”), the TESS photometry for many targets will be contaminated by nearby objects. One of the goals of the TIC is to provide the information needed to estimate the contamination in the TESS band. This cannot be determined accurately ahead of time because it will depend on the pixels selected for the aperture photometry of each target and the exact position of the target in the aperture. However, it is possible for the TIC to provide some guidance concerning the level of expected contamination, for example by providing the number of known objects and their total brightness in the TESS band for some suitable standard aperture and photometer Pixel Response Function (PRF). </p>
 <h2 id="learn-more">Learn more</h2>
@@ -244,8 +246,7 @@ is between 20% and 62% with a median value of 45%. -->
 <li><a href="#point-spread-function">Point-spread function</a></li>
 </ul>
 </li>
-<li><a href="#tess-input-catalog">TESS Input Catalog</a><ul>
-<li><a href="#candidate-target-list">Candidate Target List</a></li>
+<li><a href="#target-selection">Target selection</a><ul>
 <li><a href="#crowding">Crowding</a></li>
 </ul>
 </li>
