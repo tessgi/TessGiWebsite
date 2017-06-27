@@ -33,7 +33,7 @@ THEME = "themes/pelican-bootstrap3-kepler"
 BOOTSTRAP_THEME = 'cosmo'
 BOOTSTRAP_FLUID = False
 
-BANNER = "images/tess-banner-inverted.jpg"
+BANNER = "images/tess-banner-inverted_v2.jpg"
 HIDE_SITENAME = False
 
 IGNORE_FILES = [
