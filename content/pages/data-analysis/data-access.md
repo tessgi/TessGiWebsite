@@ -90,13 +90,16 @@ Kepler data:
 A variety of data products from TESS will be archived at MAST for guest investigators. 
 
 ### Full frame images (FFIs)
-A Full Frame Image (FFI) is a collection of science and collateral pixels observed simultaneously.  A single FFI is the full set of all science and collateral pixels across all CCDs of a given camera.  FFIs will be taken every 30 minutes during science operations, and there will be 1296 FFIs per data set. Each calibrated FFI will be exported as a FITs file. The Cosmic Ray Mitigated (CRM) FFIs are the same as FFIs except they will be collected with the onboard cosmic ray mitigation enabled. 
+A Full Frame Image (FFI) is a collection of science and collateral pixels observed simultaneously.  A single FFI is the full set of all science and collateral pixels across all CCDs of a given camera.  FFIs will be taken every 30 minutes during science operations.
 
-There are 16 CCDs on the spacecraft, each of which is supported by 4 output channels; each output channel digitizes science pixels over 2048 rows x 512 columns, plus appropriate collateral pixels.
+There are 16 CCDs on the spacecraft, each of which is supported by 4 output channels. TESS FFI files are in FITS format and contain all pixels on a single CCD in a sequence of 30 minute cadence observations for one observing sector (two orbits, 27.4 days). Thus, a full TESS observing sector consists of 16 FFIs, one for each CCD in each camera. FFI data will be provided in three types: uncalibrated, calibrated, and uncertainty. Uncalibrated FFI data will be provided in one file with two Header/Data Units (HDUs): a primary header and the CCD image header and data. The calibrated image and its uncertainty will be provided in a separate file with several HDUs: a primary header, the CCD calibrated image header and data, the CCD uncertainty image header and data, and the cosmic ray corrections binary table header and data. Cosmic Ray Mitigated (CRM) FFIs are the same as FFIs except they will be collected with the onboard cosmic ray mitigation enabled. 
+
+
 
 <br/>
 <img class="img-responsive" style="max-width:67%;" src="images/data/tess_ccd.png">
 <br/>
+
 
 
 <br/>
@@ -105,7 +108,7 @@ There are 16 CCDs on the spacecraft, each of which is supported by 4 output chan
 
 
 ### Target pixel files (TPFs)
-The target pixel files are the rawest form of target-specific data that will be available at MAST. For each 2 minute cadence target, TESS only acquires the pixels contained within a predefined mask. These pixels are used to create the data found in the light curve files. Each target pixel file packages these pixels as a time series of images in a binary FITS table. The intent of these files is to provide the data necessary to perform photometry on the raw or calibrated data when needed (or desired) to understand (or improve) the automated results of the TESS pipeline.
+The target pixel files are the rawest form of target-specific data that will be available at MAST. For each 2 minute cadence target in an observing sector, TESS only acquires the pixels contained within a predefined mask. These pixels are used to create the data found in the light curve files. Each target pixel file packages these pixels as a time series of images in a binary FITS table. The intent of these files is to provide the data necessary to perform photometry on the raw or calibrated data when needed (or desired) to understand (or improve) the automated results of the TESS pipeline.
 In the binary table, the pixel values are encoded as images. Each element in the binary table contains the pixels from a single cadence. 
 
 A sample image from a Kepler mission target pixel file:
@@ -114,10 +117,13 @@ A sample image from a Kepler mission target pixel file:
 <img class="img-responsive" style="max-width:67%;" src="images/data/TPF-FV3.jpg">
 <br/>
 
+If a target is observed in more than one sector, multiple TPFs will be created for that target but they may be made available in separate deliveries to the MAST. The images in the TPF will have dimensions equal to the bounding box of the pixels that were collected for that target. Depending on the location of the target on a CCD, a TPF may therefore contain pixels that do not contain stored data. TPFs will have several HDUs: a primary header, a binary table of images header and data, the aperture mask image header and data and, and the cosmic ray correction binary table header and data. The aperture mask image provided with each TPF file indicates the pixels that were collected for the target and which of those pixels were used for photometry.
 
 
 ### Light curve files
-Light curve files contain flux time series data and are produced for each target using simple aperture photometry. The flux and uncertainties are provided at each cadence, with NaNs filling in any missing data values. The light curves are packaged as FITS binary table files and are used to search for transiting planets and other astrophysical phenomena.
+Light curve files contain flux time series data and are produced for each target using simple aperture photometry and are used to search for transiting planets and other astrophysical phenomena. The flux and uncertainties are provided at each cadence, with NaNs filling in any missing data values. TESS light curves are FITS format files that contain the output of the photometric extraction and subsequent systematics removal (cotrending) performed by the SPOC algorithms. A single light curve file contains the data for one target for on observing sector. Identical to the case for TPFs, if a target was observed in more than one TESS sector, multiple light curve files will be created but they may be made available on the MAST in separate deliveries. Light curve files will also consist of several HUDs: a primary header, the light curve photometry binary table header and data, the aperture mask image header and data. The aperture mask image provided with each light curve is the same as that provided with the corresponding target TPF file.
+
+
 
 ### Collateral data
 
