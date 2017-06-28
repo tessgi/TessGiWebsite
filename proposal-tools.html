@@ -34,13 +34,13 @@ in August 2015, using pelican-bootstrap and flatly.
 <link rel="canonical" href="./pages/proposal-tools.html">
 
         <meta name="author" content="Thomas Barclay" />
-        <meta name="description" content="TVGuide TICGen" />
+        <meta name="description" content="We have developed two pieces of softare to aid in the developement of proposals. TVGuide helps with determining whether are target is observable in Cycle 1, and ticgen is used to calculate the brightness of a target in the TESS bandpass. TVGuide TVGuide is a Python package that allows users …" />
 
     <meta property="og:site_name" content="TESS" />
     <meta property="og:type" content="article"/>
     <meta property="og:title" content="Proposal Tools"/>
     <meta property="og:url" content="./pages/proposal-tools.html"/>
-    <meta property="og:description" content="TVGuide TICGen" />
+    <meta property="og:description" content="We have developed two pieces of softare to aid in the developement of proposals. TVGuide helps with determining whether are target is observable in Cycle 1, and ticgen is used to calculate the brightness of a target in the TESS bandpass. TVGuide TVGuide is a Python package that allows users …" />
 
 
     <!-- Why use Helvetica Neue when you can have Lato? -->
@@ -138,16 +138,61 @@ in August 2015, using pelican-bootstrap and flatly.
     <div class="row">
         <div class="col-lg-12">
 
-    <div class="col-sm-12">
+    <div class="col-sm-9" data-spy="scroll" data-target="#sidebarCol">
         <section id="content" class="body">
             <h1 class="entry-title">Proposal Tools</h1>
             <div class="entry-content">
-                <h2 id="tvguide">TVGuide</h2>
-<h2 id="ticgen">TICGen</h2>
+                
+<p>We have developed two pieces of softare to aid in the developement of proposals. <a href="#tvguide">TVGuide</a> helps with determining whether are target is observable in Cycle 1, and <a href="#ticgen">ticgen</a> is used to calculate the brightness of a target in the TESS bandpass. </p>
+<h2 id="tvguide">TVGuide</h2>
+<p>TVGuide is a Python package that allows users to check whether a target potentially falls within the field of view of TESS.</p>
+<p>In particular, the package adds the tvguide and tvguide-csv tools to the command line, which allow the visibility of targets to be checked during Cycle 1.</p>
+<p>The code and documentation is hosted on <a href="https://github.com/tessgi/tvguide">Github</a> and only briefly summarized here.</p>
+<h3 id="installation">Installation</h3>
+<p>Users will need to have a working version of Python 2 or 3 installed.
+If this requirement is met, tvguide can be installed using pip:</p>
+<pre><code>pip install tvguide
+</code></pre>
+<p>If you have a previous version installed, please make sure you upgrade to the latest version using:</p>
+<pre><code>pip install tvguide --upgrade
+</code></pre>
+<p>It is important to upgrade frequently to ensure that you are using the most up to date TESS field parameters.</p>
+<h3 id="usage">Usage</h3>
+<p>Installing tvguide will automatically add a command line tool to your path called <em>tvguide</em>, which takes a target as input and writes a new list that indicates the observability of the target, i.e. whether or not might fall on one of the detectors of the spacecraft's focal plane.</p>
+<p>For example, </p>
+<pre><code>tvguide 219.9009 -60.8356
+
+Success! The target may be observable by TESS during Cycle 1.
+We can observe this source for:
+maximum: 2 sectors
+minimum: 0 sectors
+median:  1 sectors
+average: 1.16 sectors
+</code></pre>
+<p>You can also run on a file with targets currently implemented is using RA and Dec.</p>
+<pre><code>tvguide-csv inputfilename.csv
+</code></pre>
+<p>This will return a file with the two original columns plus a third column giving the minimum number of sectors that thid target will be observed by with TESS.</p>
+<h2 id="ticgen">ticgen</h2>
+<p>Will be added shortly.</p>
             </div>
         </section>
     </div>
 
+        <nav class="col-sm-3 visible-sm visible-md visible-lg bs-docs-sidebar" id="sidebarCol">
+            <div class="nav nav-stacked fixed" id="mytoc">
+            <div class="toc">
+<ul>
+<li><a href="#tvguide">TVGuide</a><ul>
+<li><a href="#installation">Installation</a></li>
+<li><a href="#usage">Usage</a></li>
+</ul>
+</li>
+<li><a href="#ticgen">ticgen</a></li>
+</ul>
+</div>
+            </div>
+        </nav>
         </div>
     </div>
 </div>
@@ -204,5 +249,24 @@ in August 2015, using pelican-bootstrap and flatly.
 <!-- Analytics scripts -->
 
 
+        <script>
+          $('#mytoc').affix({
+                offset: {
+                  top: 50
+                }
+          });
+          $('body').scrollspy({
+              target: '#sidebarCol',
+              offset: 100
+          });
+
+          // Fix for issue #32:
+          function refreshScrollspy() {
+                $('[data-spy="scroll"]').each(function() {
+                    $(this).scrollspy('refresh');
+                });
+          }
+          $("img").bind('load', refreshScrollspy);
+        </script>
 </body>
 </html>
