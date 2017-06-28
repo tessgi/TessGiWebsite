@@ -7,7 +7,7 @@ in August 2015, using pelican-bootstrap and flatly.
 >
 
 <head>
-    <title>Kepler &amp; K2 Science Center</title>
+    <title>TESS Science Support Center</title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
@@ -15,12 +15,12 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <!--Custom meta data-->
 
-    <meta name="dc.title" content="NASA - Kepler/K2 Guest Observer Program" />
+    <meta name="dc.title" content="NASA - TESS Guest Investigator Program" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2017-04-13" />
+    <meta name="dc.date.modified" content="2017-06-27" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Kepler Guest Observers" />
-    <meta name="dc.identifier" content="http://keplergo.arc.nasa.gov" />
+    <meta name="dc.identifier" content="http://tessgi.gsfc.nasa.gov" />
     <meta name="dc.audience" content="Astronomers, Astrophysicists, Scientists, Researchers" />
     <meta name="dc.subject.discipline" content="Astrophysics, Astronomy" />
     <meta name="orgcode" content="SSA">
@@ -35,18 +35,19 @@ in August 2015, using pelican-bootstrap and flatly.
         <meta name="author" content="Thomas Barclay" />
 
     <!-- Open Graph tags -->
-        <meta property="og:site_name" content="Kepler &amp; K2" />
+        <meta property="og:site_name" content="TESS" />
         <meta property="og:type" content="website"/>
-        <meta property="og:title" content="Kepler &amp; K2"/>
+        <meta property="og:title" content="TESS"/>
         <meta property="og:url" content="."/>
-        <meta property="og:description" content="Kepler &amp; K2"/>
+        <meta property="og:description" content="TESS"/>
 
 
     <!-- Why use Helvetica Neue when you can have Lato? -->
-    <link href="./theme/css/lato.css" rel="stylesheet">
+    <!-- Why use Lato when you can have Nunito? -->
+    <link href="./theme/css/nunito.css" rel="stylesheet">
 
     <!-- Bootstrap -->
-        <link rel="stylesheet" href="./theme/css/bootstrap.flatly.min.css" type="text/css"/>
+        <link rel="stylesheet" href="./theme/css/bootstrap.cosmo.min.css" type="text/css"/>
     <link href="./theme/css/font-awesome.min.css" rel="stylesheet">
 
     <link href="./theme/css/exoplanet_archive_icons.css" rel="stylesheet">
@@ -55,15 +56,15 @@ in August 2015, using pelican-bootstrap and flatly.
     <link href="./theme/css/pygments/native.css" rel="stylesheet">
     <link rel="stylesheet" href="./theme/css/style.css" type="text/css"/>
 
-    <link href="./feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Kepler &amp; K2 ATOM Feed"/>
-    <link href="./feeds/all.rss.xml" type="application/rss+xml" rel="alternate" title="Kepler &amp; K2 RSS Feed"/>
+    <link href="./feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="TESS ATOM Feed"/>
+    <link href="./feeds/all.rss.xml" type="application/rss+xml" rel="alternate" title="TESS RSS Feed"/>
 
 </head>
 <body>
 
 <!-- Print a warning message that this is not the official site -->
 
-<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
 
   <div class="container">
         <div class="navbar-header">
@@ -74,42 +75,40 @@ in August 2015, using pelican-bootstrap and flatly.
                 <span class="icon-bar"></span>
             </button>
             <a href="./" class="navbar-brand">
-<img src="./images/NASA_logo_vector_lg.png" width="32"/> Kepler &amp; K2            </a>
+<img src="./images/NASA_logo_vector_lg.png" width="32"/> TESS            </a>
         </div>
         <div class="collapse navbar-collapse navbar-ex1-collapse">
             <ul class="nav navbar-nav">
                         <li><a href="./archives.html">News</a></li>
                         <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">The missions <b class="caret"></b></a>
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Mission <b class="caret"></b></a>
                             <ul class="dropdown-menu">
                                 <li><a href="./objectives.html">Objectives</a></li>
-                                <li><a href="./the-kepler-space-telescope.html">Telescope</a></li>
-                                <li><a href="./science.html">Science</a></li>
+                                <li><a href="./the-tess-space-telescope.html">Telescope</a></li>
+                                <li><a href="./operations.html">Operations</a></li>
+                                <li><a href="./primary-science.html">Science</a></li>
                                 <li><a href="./publications.html">Publications</a></li>
-                                <li><a href="./conferences.html">Conferences</a></li>
-                                <li><a href="./users-panel.html">Users Panel</a></li>
                             </ul>
                         </li>
                         <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">K2 observing <b class="caret"></b></a>
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Using TESS <b class="caret"></b></a>
                             <ul class="dropdown-menu">
-                                <li><a href="./k2-observing.html">Overview</a></li>
-                                <li><a href="./k2-fields.html">Campaign fields</a></li>
-                                <li><a href="./k2-approved-programs.html">Targets &amp; programs</a></li>
-                                <li><a href="./k2-data-release-notes.html">Data release notes</a></li>
-                                <li><a href="./k2-proposing-targets.html">Proposal preparation</a></li>
-                                <li><a href="./k2-ddt.html">Discretionary time</a></li>
-                                <li><a href="./k2-c9.html">C9 Microlensing experiment</a></li>
-                                <li><a href="./supernova-experiment">C16 Supernova experiment</a></li>
+                                <li><a href="./proposing-investigations.html">Guest Investigator Program</a></li>
+                                <li><a href="./status.html">Status</a></li>
+                                <li><a href="./observing-technical.html">Technical details</a></li>
+                                <li><a href="./proposal-tools.html">Proposal tools</a></li>
+                                <li><a href="./ddt.html">Discretionary targets</a></li>
+                                <li><a href="./faq.html">FAQ</a></li>
                             </ul>
                         </li>
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Data analysis <b class="caret"></b></a>
                             <ul class="dropdown-menu">
-                                <li><a href="./data-products.html">Data products</a></li>
+                                <li><a href="./data-access.html">Data access</a></li>
+                                <li><a href="./followup.html">Follow-up program</a></li>
+                                <li><a href="./software.html">Analysis software</a></li>
                                 <li><a href="./pipeline.html">Pipeline</a></li>
-                                <li><a href="./software.html">Software</a></li>
-                                <li><a href="./community-products.html">Community products</a></li>
+                                <li><a href="./documentation.html">Documentation</a></li>
                             </ul>
                         </li>
             </ul>
@@ -127,15 +126,15 @@ in August 2015, using pelican-bootstrap and flatly.
 <!-- Banner -->
 <style>
 	#banner{
-	    background-image:url("./images/kepler-k2-banner.jpg");
+	    background-image:url("./images/tess-banner-inverted_v2.jpg");
 	}
 </style>
 
 <div id="banner">
 	<div class="container">
 		<div class="copy">
-			<h1>Kepler &amp; K2</h1>
-				<p class="intro">Science Center</p>
+			<h1>TESS</h1>
+				<p class="intro">Science Support Center</p>
 		</div>
 	</div>
 </div><!-- End Banner -->
@@ -146,11 +145,11 @@ in August 2015, using pelican-bootstrap and flatly.
       <div class="row">
         <div class="col-md-4">
           <h2>
-            <i class="fa fa-lg fa-margin mission-icon-kepler"></i>
-            <a href="objectives.html">The missions</a>
+            <i class="fa fa-lg fa-margin exoplanet-icon-transit-borderless"></i>
+            <a href="objectives.html">TESS mission</a>
           </h2>
           <p>
-            Kepler &amp; K2 provide long-baseline, high-precision photometry for exoplanet and astrophysics research.
+            The Transiting Exoplanet Survey Satellite (TESS) is a two-year survey that will discover exoplanets in orbit around the bright stars.  
           </p>
           <p>
             <a class="btn btn-primary" href="objectives.html">More &raquo;</a>
@@ -159,22 +158,22 @@ in August 2015, using pelican-bootstrap and flatly.
         <div class="col-md-4">
           <h2>
             <i class="fa fa-lg fa-margin exoplanet-icon-light-curve-borderless"></i>
-            <a href="k2-observing.html">K2 observing</a>
+            <a href="proposing-investigations.html">Proposing science</a>
           </h2>
           <p>
-            K2 is a community-driven mission: targets and funding are awarded through open calls for proposals.
+            The TESS Guest Investigator Program is an annual call where scientists can propose observations and for resources.
           </p>
-          <p><a class="btn btn-primary" href="k2-observing.html">More &raquo;</a></p>
+          <p><a class="btn btn-primary" href="proposing-investigations.html">More &raquo;</a></p>
         </div>
         <div class="col-md-4">
           <h2>
             <i class="fa fa-lg fa-margin exoplanet-icon-planet-multi-borderless"></i>
-            <a href="data-products.html">Data analysis</a>
+            <a href="data-access.html">Data access</a>
           </h2>
           <p>
-            Pixel data, lightcurves, and analysis software are publicly available with no proprietary period.
+            Access simulated data, read documentation and use data analysis software.
           </p>
-          <p><a class="btn btn-primary" href="data-products.html">More &raquo;</a></p>
+          <p><a class="btn btn-primary" href="data-access.html">More &raquo;</a></p>
         </div>
       </div>
 </div>
@@ -187,162 +186,64 @@ in August 2015, using pelican-bootstrap and flatly.
 
 <h2 style="padding-bottom:0.3em;">News for scientists</h2>
             <article>
-                <div><b><a href="./request-for-input-on-the-campaign-17-and-18-field-placement.html">Request for input on the Campaign 17 and 18 field placement</a></b>
+                <div><b><a href="./tess-science-support-center-at-kepscicon.html">TESS Science Support Center at KepSciCon</a></b>
                 </div>
-                <span class="categories-timestamp"><time datetime="2017-03-26T17:00:00-07:00">26 Mar 2017</time></span>  
-                <div class="summary entry-content" style="padding-top: 0.5em; "><p>The fields for K2 Campaigns 17 and beyond have not yet been set.
-Although these future Campaigns are at risk of not being executed
-due to Kepler running low on fuel,
-there is a significant chance that the spacecraft will continue to function
-well into 2018 and the project must …</p>
-                    <a class="btn btn-default btn-xs" href="./request-for-input-on-the-campaign-17-and-18-field-placement.html">More &raquo;</a>
+                <span class="categories-timestamp"><time datetime="2017-06-16T10:00:00-04:00">16 Jun 2017</time></span>  
+                <div class="summary entry-content" style="padding-top: 0.5em; "><p>We will be hosting a breakout session at the Kepler Science Conference, at NASA Ames, CA.
+The session will be at 1.30pm on Wednesday Jun 21 and will focus on allowing the community to talk directly to the TESS Science Support Center team, and additionally talk to the folks …</p>
+                    <a class="btn btn-default btn-xs" href="./tess-science-support-center-at-kepscicon.html">More &raquo;</a>
                 </div>
             </article>
             <hr/>
             <article>
-                <div><b><a href="./kepler-dr-25-koi-catalog-now-available.html">Kepler DR 25 KOI Catalog now available</a></b>
+                <div><b><a href="./tess-community-science-center-team-at-aas-230.html">TESS Community Science Center team at AAS 230</a></b>
                 </div>
-                <span class="categories-timestamp"><time datetime="2017-03-26T15:00:00-07:00">26 Mar 2017</time></span>  
-                <div class="summary entry-content" style="padding-top: 0.5em; "><p>The latest version of the Kepler Objects of Interest (KOI) Catalog, version DR25, is <a href="http://exoplanetarchive.ipac.caltech.edu/docs/exonews_archive.html#23March2017">now available in the NASA Exoplanet Archive</a>.</p>
-<p>The catalog details all the transit-like features
-across the full data set of the original Kepler mission,
-i.e. Quarters 1 through 17,
-as found by the Kepler pipeline …</p>
-                    <a class="btn btn-default btn-xs" href="./kepler-dr-25-koi-catalog-now-available.html">More &raquo;</a>
+                <span class="categories-timestamp"><time datetime="2017-05-15T10:01:00-04:00">15 May 2017</time></span>  
+                <div class="summary entry-content" style="padding-top: 0.5em; "><p>The <a href="https://aas.org/meetings/aas230">230th American Astronomical Society</a> is just around the corner. Team members from TESS's Community Science Center will be there to represent the mission. Come find us at at our booth where we will be joined by NExScI, Kepler/K2 and the Exoplanet Program Office. We will be available to …</p>
+                    <a class="btn btn-default btn-xs" href="./tess-community-science-center-team-at-aas-230.html">More &raquo;</a>
                 </div>
             </article>
             <hr/>
             <article>
-                <div><b><a href="./raw-data-for-k2-campaign-12-and-trappist-1-now-available.html">Raw data for K2 Campaign 12 and TRAPPIST-1 now available</a></b>
+                <div><b><a href="./volunteer-to-review-proposals.html">Volunteer to review proposals</a></b>
                 </div>
-                <span class="categories-timestamp"><time datetime="2017-03-08T06:00:00-08:00">08 Mar 2017</time></span>  
-                <div class="summary entry-content" style="padding-top: 0.5em; "><p>The raw, uncalibrated data files for <a href="k2-approved-programs.html#campaign-12">K2 Campaign 12</a>
-are now available for download from the
-<a href="https://archive.stsci.edu/k2/trappist1/">data archive at MAST</a>.</p>
-<p>The raw files are made public straight away to aid astronomers
-in preparing proposals due this month to use ground-based telescopes
-to further investigate TRAPPIST-1.
-These are <em>not</em> the project's …</p>
-                    <a class="btn btn-default btn-xs" href="./raw-data-for-k2-campaign-12-and-trappist-1-now-available.html">More &raquo;</a>
+                <span class="categories-timestamp"><time datetime="2017-04-28T10:00:00-04:00">28 Apr 2017</time></span>  
+                <div class="summary entry-content" style="padding-top: 0.5em; "><p>The TESS Community Science Center is responsible for organizing the review of proposals submitted to the TESS Guest Investigator program. Our first cycle deadline is anticipated to be in early approximately October, with the in-person peer review likely taking place in early December. We are currently looking for volunteers with …</p>
+                    <a class="btn btn-default btn-xs" href="./volunteer-to-review-proposals.html">More &raquo;</a>
                 </div>
             </article>
             <hr/>
             <article>
-                <div><b><a href="./funding-available-for-exoplanet-research-through-nasas-xrp.html">Funding available for exoplanet research through NASA's XRP</a></b>
+                <div><b><a href="./tell-us-about-the-software-tool-and-data-products-you-would-like.html">Tell us about the software tool and data products you would like</a></b>
                 </div>
-                <span class="categories-timestamp"><time datetime="2017-03-06T19:00:00-08:00">06 Mar 2017</time></span>  
-                <div class="summary entry-content" style="padding-top: 0.5em; "><p>Our US-based Kepler/K2 community is being alerted to the open call
-for proposals to be submitted to NASA's
-<a href="https://nspires.nasaprs.com/external/solicitations/summary.do?method=init&amp;solId=%7B43CC37DF-3D91-E61A-2E57-63949390CE2C%7D&amp;path=open">Exoplanet Research Program (XRP)</a>.
-Investigations are expected to directly support the goal
-of understanding exoplanetary systems, by doing one or more of the following:</p>
-<ul>
-<li>detect exoplanets and/or confirm exoplanet candidates …</li></ul>
-                    <a class="btn btn-default btn-xs" href="./funding-available-for-exoplanet-research-through-nasas-xrp.html">More &raquo;</a>
+                <span class="categories-timestamp"><time datetime="2017-04-21T14:01:00-04:00">21 Apr 2017</time></span>  
+                <div class="summary entry-content" style="padding-top: 0.5em; "><p>The TESS Community Science Cneter at NASA Goddard are currently collecting input from the scientific community on what you would like to see developed. We have some plans but we are seeking more input. What do you need to achieve your science goals? Get in touch at <a href="mailto:tessgi@bigbang.gsfc.nasa.gov">tessgi@bigbang.gsfc …</a></p>
+                    <a class="btn btn-default btn-xs" href="./tell-us-about-the-software-tool-and-data-products-you-would-like.html">More &raquo;</a>
                 </div>
             </article>
             <hr/>
             <article>
-                <div><b><a href="./k2-campaign-16-preliminary-target-list-available.html">K2 Campaign 16 preliminary target list available</a></b>
+                <div><b><a href="./space-hardware-development-and-going-well.html">Space hardware development and going well</a></b>
                 </div>
-                <span class="categories-timestamp"><time datetime="2017-02-27T09:00:00-08:00">27 Feb 2017</time></span>  
-                <div class="summary entry-content" style="padding-top: 0.5em; "><p>A limitation that K2 users have faced in previous Campaigns is that
-simultaneous observations from the ground
-were only possible during challenging twilight conditions,
-owing to K2's strategy to observe in the backward-facing
-direction along its velocity vector.</p>
-<p><strong>This will change in Campaign 16 (Dec 2017 - Feb 2018),
-when K2 …</strong></p>
-                    <a class="btn btn-default btn-xs" href="./k2-campaign-16-preliminary-target-list-available.html">More &raquo;</a>
+                <span class="categories-timestamp"><time datetime="2017-04-17T10:01:00-04:00">17 Apr 2017</time></span>  
+                <div class="summary entry-content" style="padding-top: 0.5em; "><p>The TESS hardware development is progressing well. All four camera are currently being tested and performing excellently. </p>
+<p>TESS is a NASA Explorer class mission.</p>
+                    <a class="btn btn-default btn-xs" href="./space-hardware-development-and-going-well.html">More &raquo;</a>
                 </div>
             </article>
             <hr/>
             <article>
-                <div><b><a href="./k2-campaign-13-science-program-now-available.html">K2 Campaign 13 science program now available</a></b>
+                <div><b><a href="./development-of-new-tess-website.html">Development of new TESS website</a></b>
                 </div>
-                <span class="categories-timestamp"><time datetime="2017-02-20T16:00:00-08:00">20 Feb 2017</time></span>  
-                <div class="summary entry-content" style="padding-top: 0.5em; "><p>The science program and target lists for K2 Campaign 13
-have now been posted on the
-<a href="k2-approved-programs.html#campaign-13">approved targets &amp; programs page</a>.</p>
-<p>Campaign 13 is scheduled to run from March 8th through May 27th, 2017,
-and will be observing towards the constellation of Taurus
-in the Galactic Anti-Center direction.</p>
-<p>The target list …</p>
-                    <a class="btn btn-default btn-xs" href="./k2-campaign-13-science-program-now-available.html">More &raquo;</a>
-                </div>
-            </article>
-            <hr/>
-            <article>
-                <div><b><a href="./funding-available-for-kepler-k2-data-analysis-through-adap.html">Funding available for Kepler & K2 data analysis through ADAP</a></b>
-                </div>
-                <span class="categories-timestamp"><time datetime="2017-02-14T22:00:00-08:00">14 Feb 2017</time></span>  
-                <div class="summary entry-content" style="padding-top: 0.5em; "><p>The Kepler/K2 community is being alerted to the open call for proposals
-to be submitted to the <a href="https://nspires.nasaprs.com/external/solicitations/summary.do?method=init&amp;solId={9B644CB9-C0A8-8F23-DE92-FA3837D2F0BD}&amp;path=open">Astrophysics Data Analysis Program (ADAP)</a>, which provides financial support for US-based investigations
-whose primary purpose is the analysis of NASA space astrophysics data
-that are archived in the public domain at the …</p>
-                    <a class="btn btn-default btn-xs" href="./funding-available-for-kepler-k2-data-analysis-through-adap.html">More &raquo;</a>
-                </div>
-            </article>
-            <hr/>
-            <article>
-                <div><b><a href="./k2-campaigns-14-15-and-16-directors-discretionary-targets-program.html">K2 Campaigns 14, 15 and 16 Director's Discretionary Targets program</a></b>
-                </div>
-                <span class="categories-timestamp"><time datetime="2017-02-01T15:30:00-08:00">01 Feb 2017</time></span>  
-                <div class="summary entry-content" style="padding-top: 0.5em; "><p>A small percentage of the available K2 pixels in each campaign may be
-allocated by the K2 Guest Observer (GO) Office Director as Director's
-Discretionary Targets (DDTs). The primary utilization of DDT programs
-is in support of community-proposed requests that are based on
-exceptional, time-critical observing opportunities that cannot be …</p>
-                    <a class="btn btn-default btn-xs" href="./k2-campaigns-14-15-and-16-directors-discretionary-targets-program.html">More &raquo;</a>
-                </div>
-            </article>
-            <hr/>
-            <article>
-                <div><b><a href="./we-are-hiring-job-opportunities-available-at-the-keplerk2-science-center.html">We are hiring! Job opportunities available at the Kepler/K2 Science Center</a></b>
-                </div>
-                <span class="categories-timestamp"><time datetime="2017-01-31T10:00:00-08:00">31 Jan 2017</time></span>  
-                <div class="summary entry-content" style="padding-top: 0.5em; "><p>The Kepler/K2 Science Center is seeking to fill multiple staff positions within the Kepler and K2 Guest Observer (GO) Office at NASA’s Ames Research Center.</p>
-                    <a class="btn btn-default btn-xs" href="./we-are-hiring-job-opportunities-available-at-the-keplerk2-science-center.html">More &raquo;</a>
-                </div>
-            </article>
-            <hr/>
-            <article>
-                <div><b><a href="./first-announcement-kepler-k2-scicon-iv-june-19-23-2017.html">First Announcement: Kepler & K2 SciCon IV, June 19-23, 2017</a></b>
-                </div>
-                <span class="categories-timestamp"><time datetime="2017-01-30T09:30:00-08:00">30 Jan 2017</time></span>  
-                <div class="summary entry-content" style="padding-top: 0.5em; "><p>To celebrate the legacy and latest science results of Kepler/K2 we invite the community to the 4th Kepler &amp; K2 Science Conference, hosted at NASA’s Ames Research Center in Moffett Field, CA.</p>
-                    <a class="btn btn-default btn-xs" href="./first-announcement-kepler-k2-scicon-iv-june-19-23-2017.html">More &raquo;</a>
+                <span class="categories-timestamp"><time datetime="2017-04-17T10:00:00-04:00">17 Apr 2017</time></span>  
+                <div class="summary entry-content" style="padding-top: 0.5em; "><p>The Transiting Exoplanet Survey Satellite are transitioning to a news website. This is that website. Lots more content coming soon.</p>
+                    <a class="btn btn-default btn-xs" href="./development-of-new-tess-website.html">More &raquo;</a>
                 </div>
             </article>
             <hr/>
 
  <a class="btn btn-primary" href="archives.html">News archive &raquo;</a>
-  <!--         <ul class="pagination">
-                <li class="prev disabled"><a href="#">&laquo;</a></li>
-                    <li class="active"><a
-                            href="./index.html">1</a></li>
-                    <li class=""><a
-                            href="./index2.html">2</a></li>
-                    <li class=""><a
-                            href="./index3.html">3</a></li>
-                    <li class=""><a
-                            href="./index4.html">4</a></li>
-                    <li class=""><a
-                            href="./index5.html">5</a></li>
-                    <li class=""><a
-                            href="./index6.html">6</a></li>
-                    <li class=""><a
-                            href="./index7.html">7</a></li>
-                    <li class=""><a
-                            href="./index8.html">8</a></li>
-                    <li class=""><a
-                            href="./index9.html">9</a></li>
-                    <li class=""><a
-                            href="./index10.html">10</a></li>
-                <li class="next"><a
-                        href="./index2.html">&raquo;</a></li>
-        </ul>
- -->
+  <!--  -->
 </div>
 
 
@@ -351,20 +252,20 @@ exceptional, time-critical observing opportunities that cannot be …</p>
 <div class="col-md-4" style="padding-top:1.5em;">
 
 <!-- We are hiring! -->
-<div class="panel panel-default">
+<!-- <div class="panel panel-default">
   <div class="panel-body" style="padding:0;">
     <a href='we-are-hiring-job-opportunities-available-at-the-keplerk2-science-center.html'>
     <img src="images/we-are-hiring-banner.jpg" class='img-responsive'/></a>
   </div>
-</div>
+</div> -->
 
 <!-- Kepler/K2 SciCon 2017 -->
-<div class="panel panel-default">
+<!-- <div class="panel panel-default">
   <div class="panel-body" style="padding:0;">
     <a href='/scicon4'>
     <img src="images/scicon2017-banner.jpg" class='img-responsive'/></a>
   </div>
-</div>
+</div> -->
 
 <!-- Key information panel -->
 <div class="panel panel-default">
@@ -374,23 +275,28 @@ exceptional, time-critical observing opportunities that cannot be …</p>
   <div class="panel-body entry-content">
     <ul class="list-group">
       <li class="list-group-item">
-          <a href="k2-fields.html">
-              K2: Campaign fields &raquo;
+          <a href="status.html">
+              Status &raquo;
           </a>
       </li>
       <li class="list-group-item">
-          <a href="k2-proposing-targets.html">
-              K2: Proposing targets &raquo;
+          <a href="documentation.html">
+              Observatory guidebook &raquo;
           </a>
       </li>
       <li class="list-group-item">
-          <a href="k2-approved-programs.html">
-              K2: Observed programs &raquo;
+          <a href="faq.html">
+              Frequently asked questions &raquo;
           </a>
       </li>
       <li class="list-group-item">
-          <a href="data-products.html">
-              Kepler/K2: Data products &raquo;
+          <a href="https://goo.gl/forms/p4ZqiTQSEHjbM6nz2">
+              Volunteer to serve on a review panel &raquo;
+          </a>
+      </li>
+      <li class="list-group-item">
+          <a href="data-access.html#simulated-data">
+              Simulated data &raquo;
           </a>
       </li>
     </ul>
@@ -405,27 +311,21 @@ exceptional, time-critical observing opportunities that cannot be …</p>
   <div class="panel-body">
     <ul class="list-group">
       <li class="list-group-item">
-          <b>7 Mar 2017</b><br>
-          <a href="http://archive.stsci.edu/k2/trappist1/">
-              K2 Campaign 12 raw data release
+          <b>30 Jun 2017</b><br>
+          <a href="proposing-investigations.html">
+              Release of Cycle 1 call for proposals
           </a>
       </li>
       <li class="list-group-item">
-          <b>27 Apr 2017</b><br>
-          <a href="k2-fields.html">
-              K2 Campaign 11 calibrated data release (expected)
+          <b>28 Sep 2017</b><br>
+          <a href="proposing-investigations.html">
+              Cycle 1 proposal submission deadline 
           </a>
       </li>
       <li class="list-group-item">
-          <b>15 May 2017</b><br>
-          <a href="scicon4/">
-              Kepler & K2 SciCon US registration deadline
-          </a>
-      </li>
-      <li class="list-group-item">
-          <b>25 May 2017</b><br>
-          <a href="k2-ddt.html">
-              K2 Campaign 15 DDT deadline
+          <b>20 Mar 2018</b><br>
+          <a href="operations.html">
+              Planned mission launch date
           </a>
       </li>
     </ul>
@@ -440,13 +340,18 @@ exceptional, time-critical observing opportunities that cannot be …</p>
   <div class="panel-body">
     <ul class="list-group">
       <li class="list-group-item">
-          <a href="https://aas.org/meetings/aas230">
+          <a href="tess-community-science-center-team-at-aas-230.html">
               <b>4–8 Jun 2017</b><br>AAS 230th Meeting
           </a>
       </li>
       <li class="list-group-item">
-          <a href="scicon4/">
+          <a href="https://keplerscience.arc.nasa.gov/scicon4/">
               <b>19–23 Jun 2017</b><br>Kepler & K2 SciCon IV
+          </a>
+      </li>
+      <li class="list-group-item">
+          <a href="http://www.tasc3kasc10.com/">
+              <b>16-21 Jul 2017</b><br>Tessting Stellar Astrophysics, TASC3 KASC10 Workshop
           </a>
       </li>
 
@@ -458,38 +363,30 @@ exceptional, time-critical observing opportunities that cannot be …</p>
 </div>
 
 <!-- Dashboard -->
-<div class="panel panel-default">
+<!-- <div class="panel panel-default">
   <div class="panel-heading">
     <h4 class="panel-title"><i class="fa fa-dashboard fa-lg"></i><span class="icon-label">Science dashboard</span></h4>
   </div>
   <div class="panel-body entry-content">
     <ul class="list-group">
       <li class="list-group-item">
-          <b>Kepler</b><br>
           Candidate planets: <span id="kepler_candidates_count"></span><br>
           Confirmed planets: <span id="kepler_confirmed_count"></span><br>
           Papers: <span id="kepler_count"></span>
-      </li>
-      <li class="list-group-item">
-          <b>K2</b><br>
-          Candidate planets: <span id="k2_candidates_count"></span><br>
-          Confirmed planets: <span id="k2_confirmed_count"></span><br>
-          Papers: <span id="k2_count"></span>
-      </li>
+      </li> -->
       <!--
       <li class="list-group-item">
         <a href="/dashboard">View more stats &raquo;</a>
-      </li>
-      -->
+      </li> -->
+<!--
     </ul>
   </div>
-</div>
+</div> -->
 
 <!-- Twitter panel -->
 <div>
   <!-- Code provided by Twitter: -->  
-  <a class="twitter-timeline"  href="https://twitter.com/KeplerGO" data-widget-id="660626331810447360">Tweets by @KeplerGO</a>
-  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+  <a class="twitter-timeline" data-width="360" data-height="400" href="https://twitter.com/NASA_TESS">Tweets by NASA_TESS</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 
 <!-- Special-purpose panel -->
@@ -522,24 +419,16 @@ exceptional, time-critical observing opportunities that cannot be …</p>
       <div class="row">
         <div class="col-xs-12">
           <h5><i class="fa fa-external-link"></i><span class="icon-label">Related websites:</span></h5>
-          <a href="http://www.nasa.gov/mission_pages/kepler/main/index.html" target="_blank">
-                  Kepler/K2 News and Media Resources
+          <a href="https://tess.gsfc.nasa.gov/" target="_blank">
+                  News, Media, and Education Resources
               </a>
           <br/>
-          <a href="http://kepler.arc.nasa.gov" target="_blank">
-                  Kepler/K2 Education Resources
+          <a href="http://space.mit.edu/TESS/TESS/TESS_Overview.html" target="_blank">
+                  TESS @ MIT
               </a>
           <br/>
-          <a href="http://www.ballaerospace.com/page.jsp?page=72" target="_blank">
-                  Kepler/K2 @ Ball Aerospace
-              </a>
-          <br/>
-          <a href="http://archive.stsci.edu/kepler" target="_blank">
-                  Kepler Data Archive @ MAST
-              </a>
-          <br/>
-          <a href="http://archive.stsci.edu/k2" target="_blank">
-                  K2 Data Archive @ MAST
+          <a href="http://archive.stsci.edu/tess" target="_blank">
+                  TESS @ MAST
               </a>
           <br/>
           <a href="http://exoplanetarchive.ipac.caltech.edu" target="_blank">
@@ -552,8 +441,8 @@ exceptional, time-critical observing opportunities that cannot be …</p>
       <!-- NASA logo and notices -->
       <div class="row" style="margin-top:2em;">
          <div class="col-md-10"> <a href="http://www.nasa.gov/"><img src="./images/NASA_logo_vector_lg.png" width="30" alt="NASA Logo"></a> 
-         Last modified: Sun 26 March 2017
-            &middot; Editor: Thomas Barclay &middot; NASA Official: Jessie Dotson 
+         Last modified: Fri 16 June 2017
+            &middot; Editor: Thomas Barclay &middot; NASA Official: Patricia T Boyd 
             &middot; <a href="http://www.nasa.gov/about/highlights/HP_Privacy.html">Privacy Policy and Important Notices</a><p></p>         </div>
          <div class="col-md-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
       </div>
