@@ -95,12 +95,12 @@ live: html-live
 	ghp-import -m "Generate live site" -b $(GITHUB_LIVE_BRANCH) $(OUTPUTDIR)
 	git push origin $(GITHUB_LIVE_BRANCH)
 
-kpub:
-	cd content/pages/kpub; \
-	kpub --save
-	cd content/images/kpub; \
-	kpub-plot
-	git add content/pages/kpub/* content/images/kpub/*
+tpub:
+	cd content/pages/tpub; \
+	tpub --save
+	cd content/images/tpub; \
+	tpub-plot
+	git add content/pages/tpub/* content/images/tpub/*
 	git commit -m "Publication stats update"
 
 .PHONY: html html-dev html-live help clean regenerate serve devserver ssh_upload rsync_upload github live kpub

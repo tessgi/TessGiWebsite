@@ -12,7 +12,9 @@ The first Guest Investigator Cycle 1 call for proposals was announced on June 30
 
 ## Mission timeline overview
 
-TESS will observe a series of sectors, where a sector is one 27.4-day long observation. Each year of the mission will consist of 13 sectors. Year 1 will target the southern hemisphere and year 2 will target the northern hemisphere. The location of each sector will not be known until launch. <!-- The dates in the table below are from our nominal plan.
+TESS will observe a series of sectors, where a sector is one 27.4-day long observation. Each year of the mission will consist of 13 sectors. Year 1 will target the southern hemisphere and year 2 will target the northern hemisphere. The location of each sector will not be known until launch. 
+
+<!-- The dates in the table below are from our nominal plan.
 
 <br/>
 <img class="img-responsive" style="max-width:67%;" src="images/mission/tess_observingsectorschematic_Winnpresentation.png">
