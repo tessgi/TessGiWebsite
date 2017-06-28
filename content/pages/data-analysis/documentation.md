@@ -4,7 +4,7 @@ Save_as: documentation.html
 [TOC]
 
 
-## TESS Obseratory Guide
+## TESS Observatory Guide
 A number of documents have been created to describe the TESS mission. We recommend that users start with the [TESS Observatory Guide](). This guide serves two purposes. The first is to provide a comprehensive description of the TESS observatory design, operations, and capabilities. The second is to provide potential Guest Investigator (GI) proposers detailed information regarding the TESS GI program. This includes descriptions of GI program procedures, services, and tools. 
 
 
@@ -38,7 +38,7 @@ The SPOC pipeline is leveraged from the [Kepler Science Processing Pipeline](htt
 
 [NASA TESS homepage](https://tess.gsfc.nasa.gov/)
  
-[MIT TESS website](http://space.mit.edu/TESS/TESS/TESS_Overview.html)
+[MIT TESS website](http://tess.mit.edu/)
  
 [TESS GI Program website](https://heasarc.gsfc.nasa.gov/docs/tess/)
  
