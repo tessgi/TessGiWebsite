@@ -7,7 +7,7 @@ in August 2015, using pelican-bootstrap and flatly.
 >
 
 <head>
-    <title>Proposal Tools - TESS Science Support Center</title>
+    <title>TESS Guest Investigator Cycle 1 released - TESS</title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
@@ -31,16 +31,19 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <link href="./images/favicon.png" rel="icon">
 
-<link rel="canonical" href="./pages/proposal-tools.html">
+<link rel="canonical" href="./tess-guest-investigator-cycle-1-released.html">
 
-        <meta name="author" content="Thomas Barclay" />
-        <meta name="description" content="We have developed two pieces of softare to aid in the developement of proposals. TVGuide helps with determining whether are target is observable in Cycle 1, and ticgen is used to calculate the brightness of a target in the TESS bandpass. TVGuide TVGuide is a Python package that allows users …" />
+        <meta name="author" content="Tom Barclay" />
+        <meta name="description" content="The Cycle 1 proposal call was released today. The TESS Guest Investigator (GI) Program solicits proposals for the acquisition and analysis of scientific data from the Transiting Exoplanet Survey Satellite (TESS) mission, a NASA Explorer mission currently scheduled for launch no later than June 2018. In a 2-year, near all-sky …" />
 
-    <meta property="og:site_name" content="TESS" />
-    <meta property="og:type" content="article"/>
-    <meta property="og:title" content="Proposal Tools"/>
-    <meta property="og:url" content="./pages/proposal-tools.html"/>
-    <meta property="og:description" content="We have developed two pieces of softare to aid in the developement of proposals. TVGuide helps with determining whether are target is observable in Cycle 1, and ticgen is used to calculate the brightness of a target in the TESS bandpass. TVGuide TVGuide is a Python package that allows users …" />
+        <meta property="og:site_name" content="TESS" />
+        <meta property="og:type" content="article"/>
+        <meta property="og:title" content="TESS Guest Investigator Cycle 1 released"/>
+        <meta property="og:url" content="./tess-guest-investigator-cycle-1-released.html"/>
+        <meta property="og:description" content="The Cycle 1 proposal call was released today. The TESS Guest Investigator (GI) Program solicits proposals for the acquisition and analysis of scientific data from the Transiting Exoplanet Survey Satellite (TESS) mission, a NASA Explorer mission currently scheduled for launch no later than June 2018. In a 2-year, near all-sky …"/>
+        <meta property="article:published_time" content="2017-06-28" />
+            <meta property="article:section" content="news" />
+            <meta property="article:author" content="Tom Barclay" />
 
 
     <!-- Why use Helvetica Neue when you can have Lato? -->
@@ -138,61 +141,40 @@ in August 2015, using pelican-bootstrap and flatly.
     <div class="row">
         <div class="col-lg-12">
 
-    <div class="col-sm-9" data-spy="scroll" data-target="#sidebarCol">
-        <section id="content" class="body">
-            <h1 class="entry-title">Proposal Tools</h1>
+    <section id="content">
+        <article>
+            <header >
+                <h1>
+                    <a href="./tess-guest-investigator-cycle-1-released.html"
+                       rel="bookmark"
+                       title="Permalink to TESS Guest Investigator Cycle 1 released">
+                        TESS Guest Investigator Cycle 1 released
+                    </a>
+                </h1>
+            </header>
             <div class="entry-content">
-                
-<p>We have developed two pieces of softare to aid in the developement of proposals. <a href="#tvguide">TVGuide</a> helps with determining whether are target is observable in Cycle 1, and <a href="#ticgen">ticgen</a> is used to calculate the brightness of a target in the TESS bandpass. </p>
-<h2 id="tvguide">TVGuide</h2>
-<p>TVGuide is a Python package that allows users to check whether a target potentially falls within the field of view of TESS.</p>
-<p>In particular, the package adds the tvguide and tvguide-csv tools to the command line, which allow the visibility of targets to be checked during Cycle 1.</p>
-<p>The code and documentation is hosted on <a href="https://github.com/tessgi/tvguide">Github</a> and only briefly summarized here.</p>
-<h3 id="installation">Installation</h3>
-<p>Users will need to have a working version of Python 2 or 3 installed.
-If this requirement is met, tvguide can be installed using pip:</p>
-<pre><code>pip install tvguide
-</code></pre>
-<p>If you have a previous version installed, please make sure you upgrade to the latest version using:</p>
-<pre><code>pip install tvguide --upgrade
-</code></pre>
-<p>It is important to upgrade frequently to ensure that you are using the most up to date TESS field parameters.</p>
-<h3 id="usage">Usage</h3>
-<p>Installing tvguide will automatically add a command line tool to your path called <em>tvguide</em>, which takes a target as input and writes a new list that indicates the observability of the target, i.e. whether or not might fall on one of the detectors of the spacecraft's focal plane.</p>
-<p>For example, </p>
-<pre><code>tvguide 219.9009 -60.8356
+<p style="margin-bottom: 1.5em;">
+    <span class="published categories-timestamp">
+        News article posted on
+        <time datetime="2017-06-28T10:00:00-04:00"> 28 Jun 2017</time>
+    
 
-Success! The target may be observable by TESS during Cycle 1.
-We can observe this source for:
-maximum: 2 sectors
-minimum: 0 sectors
-median:  1 sectors
-average: 1.16 sectors
-</code></pre>
-<p>You can also run on a file with targets currently implemented is using RA and Dec.</p>
-<pre><code>tvguide-csv inputfilename.csv
-</code></pre>
-<p>This will return a file with the two original columns plus two additional columns giving the minimum number and maximum of sectors that the target will be observed by with TESS.</p>
-<h2 id="ticgen">ticgen</h2>
-<p>Will be added shortly.</p>
-            </div>
-        </section>
-    </div>
 
-        <nav class="col-sm-3 visible-sm visible-md visible-lg bs-docs-sidebar" id="sidebarCol">
-            <div class="nav nav-stacked fixed" id="mytoc">
-            <div class="toc">
-<ul>
-<li><a href="#tvguide">TVGuide</a><ul>
-<li><a href="#installation">Installation</a></li>
-<li><a href="#usage">Usage</a></li>
-</ul>
-</li>
-<li><a href="#ticgen">ticgen</a></li>
-</ul>
-</div>
+            by <a href="./author/tom-barclay.html">Tom Barclay</a>
+
+
+
+    
+
+    </span>
+</p><!-- /.post-info -->                <p>The <a href="https://nspires.nasaprs.com/external/solicitations/summary.do?method=init&amp;solId={7136D288-E4F8-8657-F280-6A4318467883}&amp;path=open">Cycle 1 proposal call</a> was released today. The <a href="proposing-investigations.html">TESS Guest Investigator (GI) Program</a> solicits proposals for the acquisition and analysis of scientific data from the Transiting Exoplanet Survey Satellite (TESS) mission, a NASA Explorer mission currently scheduled for launch no later than June 2018. In a 2-year, near all-sky survey, TESS will monitor the brightness of nearby, bright F, G, K, and M stars in order to photometrically search for transiting planets smaller than Neptune. TESS will monitor the brightness of more than 200,000 stars spread over the celestial sphere with a photometric sensitivity sufficient to permit detection of transiting planets with a radius less than 2.5 Earth radii. The mission’s high-precision, continuous baseline photometric capability is also well suited for variability and asteroseismology research and analyses of both Galactic and extragalactic astrophysical sources.</p>
+<p>Observations associated with the TESS Guest Investigator (GI) Cycle 1 solicitation will begin immediately following the successful ~60-day scientific commissioning of the spacecraft. Proposals submitted to this program should be for new science investigations of the southern ecliptic hemisphere.</p>
+<p><strong>Phase-1 proposals are due by 4:30 pm Eastern time on September 29, 2017</strong></p>
             </div>
-        </nav>
+            <!-- /.entry-content -->
+        </article>
+    </section>
+
         </div>
     </div>
 </div>
@@ -249,24 +231,5 @@ average: 1.16 sectors
 <!-- Analytics scripts -->
 
 
-        <script>
-          $('#mytoc').affix({
-                offset: {
-                  top: 50
-                }
-          });
-          $('body').scrollspy({
-              target: '#sidebarCol',
-              offset: 100
-          });
-
-          // Fix for issue #32:
-          function refreshScrollspy() {
-                $('[data-spy="scroll"]').each(function() {
-                    $(this).scrollspy('refresh');
-                });
-          }
-          $("img").bind('load', refreshScrollspy);
-        </script>
 </body>
 </html>
