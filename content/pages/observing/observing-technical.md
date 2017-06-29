@@ -5,7 +5,7 @@ Save_as: observing-technical.html
 
 The TESS mission provides the community with an opportunity to make ground-breaking discoveries in the field of exoplanets, astrophysics and planetary science. A
 description of the mission concept can be found in
-[Ricker et al. 2014](http://adsabs.harvard.edu/abs/2015JATIS...1a4003R) and the [TESS Observatory Guide](link-to-guidebook.something). 
+[Ricker et al. 2014](http://adsabs.harvard.edu/abs/2015JATIS...1a4003R) and the [TESS Observatory Guide](docs/TESS_observatory_guide_v1.0.pdf). 
 
 ## Overview
 
@@ -90,7 +90,7 @@ For fainter stars, such as a 16th magnitude star, the photometric precision drop
 
 Saturation is anticipated in the central pixel at I_C = 7.5. This, however, does not represent the bright limit for precise photometry. Excess charge from saturated pixels is conserved and spread across adjacent pixels in a CCD column until the excess reaches a CCD boundary. This leads to “bleed trails” extending above and below a saturated pixel, similar to what is seen for bright stars in Kepler/K2 photometry. Precision photometry can still be achieved by creating a photometric aperture that is large enough to encompass all excess charge and the TESS bright limit is anticipated to be I_C ≅ 4.
 
-### Solar pressure-induced drift
+<!-- ### Solar pressure-induced drift
 
 
 
@@ -99,7 +99,7 @@ Saturation is anticipated in the central pixel at I_C = 7.5. This, however, does
 
 
 ### Point-spread function
-
+ -->
 
 
 ## Target selection
