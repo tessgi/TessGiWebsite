@@ -22,13 +22,11 @@ A full list of TESS-related articles can be found under [Publications](publicati
 
 ## Data processing papers
 
-Users of TESS are encouraged to review the following papers to understand the processing of TESS data before it is archived at the Mikulski Archive for Space Telescopes (MAST).
+The TESS Science Processing Operations Center (SPOC) at NASA Ames Research Center is developing a TESS data processing pipeline that will generate calibrated pixels and light curves, search for periodic transit events, and generate validation products for the transit-like features in the light curves. All TESS SPOC data products will be archived to the Mikulski Archive for Space Telescopes (MAST).
 
- 
-[The TESS Science Processing Operations Center (SPOC)](http://adsabs.harvard.edu/abs/2016SPIE.9913E..3EJ) at NASA Ames Research Center is developing a TESS data processing pipeline. The SPOC will generate calibrated pixels and light curves and will, search for periodic transit events, and generate validation products for the transit-like features in the light curves. All TESS SPOC data products will be archived to the MAST.
+A description of the SPOC pipeline can be found here: [Jenkins et al. 2016](http://adsabs.harvard.edu/abs/2016SPIE.9913E..3EJ). A PDF version of the article can be downloaded [here](docs/jenkinsSPIE2016-copyright.pdf) provided acknowledgement of the full SPIE citation: Jenkins et al. 2016. "The TESS science processing operations center", Proc. SPIE 9913, Software and Cyberinfrastructure for Astronomy IV, 99133E (August 8, 2016); [doi:10.1117/12.2233418](http://dx.doi.org/10.1117/12.2233418) 
 
-
-The SPOC pipeline is leveraged from the [Kepler Science Processing Pipeline](http://adsabs.harvard.edu/abs/2010ApJ...713L..87J)
+The SPOC pipeline is based on the Kepler Science Processing Pipeline which is documented [here](http://adsabs.harvard.edu/abs/2010ApJ...713L..87J), and references therein.
 
 
 
