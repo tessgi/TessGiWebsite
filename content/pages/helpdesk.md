@@ -38,9 +38,9 @@ You can contact the TESS Science Support Center at [tessgi@bigbang.gsfc.nasa.gov
 
 Your contact information will be used to answer your query and will not be used for commercial purposes or given away except as required by law. For more information, consult the [NASA Privacy Policy](http://www.nasa.gov/about/highlights/HP_Privacy.html).
 
-### Twitter
+<!-- ### Twitter
 
-You can also tweet your questions to <a href="https://twitter.com/TESScsc">@TESScsc</a> on Twitter.
+You can also tweet your questions to <a href="https://twitter.com/TESScsc">@TESScsc</a> on Twitter. -->
 
 <!-- ### FAQ
 

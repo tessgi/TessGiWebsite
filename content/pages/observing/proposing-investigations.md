@@ -126,11 +126,18 @@ We have developed software to determine whether any target can be observed by TE
 The TESS GI program office requires that if a target is in the TIC, GI proposers must provide only the following columns from the TIC in comma separated value (csv) format:
 
 * TIC ID (if available)
-* Right Ascension
-* Declination
-* Proper motion in Right Ascension
-* Proper motion in Declination 
+* Right Ascension (decimal degrees)
+* Declination (decimal degrees)
+* Proper motion in Right Ascension (mas/yr)
+* Proper motion in Declination  (mas/yr)
 * TESS mag
+
+additional columns that should be included if necessary are
+
+* Common name of target
+* Extended flag
+* Special handling flag
+* Remarks
 
 Proposal tools and tips to help create target tables can be found on our [proposal tools page](proposal-tools.html) 
 
@@ -138,7 +145,7 @@ Template target tables with the format we require will be **coming soon**.
 
 
 ### Moving targets
-Moving aperture targets should be flagged as requiring special attention at proposal submission. Specify in the comments of the target list that this is a moving target. The proposal should discuss in the science case both the minimum and ideal acceptable duration of observations of the target. We will work with the proposal team to generate a delivery format for their targets of interest. Note that this is only necessary if 2-minute cadence data is requested.
+Moving aperture targets should be flagged as requiring special attention at proposal submission. Specify in the comments of the target list that this is a moving target. The proposal should discuss in the science case both the minimum and ideal acceptable duration of observations of the target. We will work with the proposal team to generate a delivery format for their targets of interest. Note that this is only necessary if 2-minute cadence data is requested. 
 
 ### Target of Opportunity Observations
 Target of Opportunity Observations (TOOs) of rapidly evolving phenomena whose occurrence is not predictable at the time of the proposal deadline. Due to TESS mission constraints, TOO-triggered target definitions can only be uploaded to the spacecraft during uplinks that occur once every 13.7 days. Details regarding the circumstances in which a TOO is “triggered” must be included in the scientific justification and on the target form. TOO proposals must also include an estimated duration of the event, as well as an estimated probability for triggering the observations; the latter will be used in the accounting of total allocated targets. TOOs remain active during Cycle 1; TOOs not carried out during the cycle may be re-proposed to subsequent solicitations. TOO observations would commence after the spacecraft upload following the trigger event, which could be as long as 2 months after the event. The impact to science of such a potential delay must be addressed in proposals requesting TOO observations. 
