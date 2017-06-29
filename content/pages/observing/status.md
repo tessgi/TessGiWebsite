@@ -3,7 +3,7 @@ Save_as: status.html
 
 [TOC]
 
-<img class="img-responsive" style="max-width:67%;" src="images/giprogram/timeline.jpg" alt="TESS CSC timeline">
+<!-- <img class="img-responsive" style="max-width:67%;" src="images/giprogram/timeline.jpg" alt="TESS CSC timeline"> -->
 
 The TESS mission is in development and is due to launch in March 2018. The cameras and instrument have been built, integrated and have gone through thermal and vibration testing. The spacecraft is being built by Orbital ATK and has gone through thermal and vibration testing. The instrument and spacecraft vehicle are being integrated and will go through testing at Orbital ATK's facility in Dulles, Virginia.
 

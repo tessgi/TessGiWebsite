@@ -5,7 +5,7 @@ Save_as: documentation.html
 
 
 ## TESS Observatory Guide
-A number of documents have been created to describe the TESS mission. We recommend that users start with the [TESS Observatory Guide](docs/TESS_observatory_guide_v1.0.pdf). This guide serves two purposes. The first is to provide a comprehensive description of the TESS observatory design, operations, and capabilities. The second is to provide potential Guest Investigator (GI) proposers detailed information regarding the TESS GI program. This includes descriptions of GI program procedures, services, and tools. 
+A number of documents have been created to describe the TESS mission. We recommend that users start with the **[TESS Observatory Guide](docs/TESS_observatory_guide_v1.0.pdf)**. This guide serves two purposes. The first is to provide a comprehensive description of the TESS observatory design, operations, and capabilities. The second is to provide potential Guest Investigator (GI) proposers detailed information regarding the TESS GI program. This includes descriptions of GI program procedures, services, and tools. 
 
 
 ## TESS project papers
@@ -32,19 +32,19 @@ The SPOC pipeline is based on the Kepler Science Processing Pipeline which is do
 
 
 
-## Additional Links
+<!-- ## Additional Links
 
 [NASA TESS homepage](https://tess.gsfc.nasa.gov/)
- 
+
 [MIT TESS website](http://tess.mit.edu/)
- 
+
 [TESS GI Program website](https://heasarc.gsfc.nasa.gov/docs/tess/)
- 
-[TESS GI Program ROSES Solicitation](https://nspires.nasaprs.com/external/)   (TBD)
- 
+
+[TESS GI Program ROSES Solicitation](https://nspires.nasaprs.com/external/solicitations/summary.do?method=init&solId={7136D288-E4F8-8657-F280-6A4318467883}&path=open)   (TBD)
+
 [TESS GI RPS page](https://heasarc.gsfc.nasa.gov/ark/tess/)  (TBD)
- 
-[TESS public data access](https://archive.stsci.edu/tess/)
+
+[TESS public data access at MAST](https://archive.stsci.edu/tess/) -->
  
 
 
