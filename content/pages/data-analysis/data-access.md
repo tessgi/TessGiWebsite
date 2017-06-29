@@ -39,10 +39,10 @@ on TESS products. The following TESS data products and catalogs will be availabl
 through MAST:
 
 **Data products at MAST**
-
+<!-- 
 * Two-minute cadence target pixel files
 * Two-minute cadence light curves
-<!-- * Data validation time series files
+* Data validation time series files
 * Full frame images (calibrated and uncertainty files)
 * Cotrending basis vectors files
 * Simulated Data files
@@ -52,19 +52,19 @@ through MAST:
 * Collateral data files
 * Reverse clock files
 * Ancillary engineering files
-* Latest SPICE kernels (bsp and tsc binary files) -->
+* Latest SPICE kernels (bsp and tsc binary files)
 
 **Catalogs at MAST**
 
 * TESS Input Catalog (TIC)
 * Candidate Target List (CTL)
-<!-- * Revised stellar parameters of Kepler targets (Q1-Q16)
+* Revised stellar parameters of Kepler targets (Q1-Q16)
 * Revised stellar parameters of Kepler targets (Q1-Q17)
 * Kepler Objects of Interest (KOI)
 * Kepler/GALEX cross match catalog
-* False positive working group tables -->
+* False positive working group tables
 * Observed targets by quarter
-
+ -->
 The file types are presented in the table below.
 <br/>
 <img class="img-responsive" style="min-width:50%;" src="images/data/tess_mast_products.png">
@@ -153,10 +153,10 @@ Auxiliary data consists of focal plane characterization files, engineering and t
 Co-trending basis vectors (CBVs) represent the set of systematic trends present in the ensemble flux data. CBVs will be provided for each operational sector of the mission. These are derived by the TESS pipeline from a Principle Component Analysis and used to mitigate systematic artifacts within the the target light curves. If TESS users see residual systematic problems within their light curve data, the CBVs can be employed in performing a manual photometric correction, more tailored towards the user's science. 
 
 ### Point Spread Functions (PSFs)
-
+PDf models will be available at the MAST. The timeframe for this is somewhat uncertain.
 
 ### Simulated Data
-During development of space mission, the ground-segment goes through several tests known as Ground System Interface Test (GSIT). To aid potential TESS users in the development of tools and to assess the feasibility of investigations, the mission is planning to make available data from the GSIT-2 test. This will be available from the [MAST](https://archive.stsci.edu/tess). The anticipated date for this being made available is late-June.
+During development of space mission, the ground-segment goes through several tests known as Ground System Interface Test (GSIT). To aid potential TESS users in the development of tools and to assess the feasibility of investigations, the mission is planning to make available data from the GSIT-2 test. This will be available from the [MAST](https://archive.stsci.edu/tess). The anticipated date for this being made available is July 2017.
 
 
 
