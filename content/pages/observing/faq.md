@@ -9,19 +9,19 @@ Save_as: faq.html
 
 #### **How many TESS 2-minute target slots will be available to TESS Guest Investigators?**
 
-About 5% of TESS targets (~25,000) will be available to the GI program during the course of the 2-year baseline mission.
+At least 20,000 targets will be available to the GI program during the course of the 2-year baseline mission. This number may be higher depending on the demand.
 
 #### **Will funds also be available?**
 
-Yes. TESS Guest Investigators at US Institutions may apply for funding to support their TESS Investigations.
+Yes. TESS Guest Investigators at US Institutions may apply for funding to support their TESS Investigations. There are two levels of funding: small programs receive approximately $50,000 and large programs receive $200,000
 
 #### **What if I have an interesting and timely TESS target that needs to be observed quickly, once TESS is launched?**
 
- About 10% of the GI targets will be reserved for rapid turn-around, Director's Discretionary Time (DDT). If your target can't wait for the next GI proposal cycle, then DDT is the route for you.
+Target of opportunity proposals are solicited for rapidly evolving phenomena whose occurrence is not predictable at the time of the TESS proposal deadline. These proposals would commence after the spacecraft upload following the trigger event, which could be as long as 2 months
+after the event. The impact to science of such a potential delay must be addressed in
+proposals requesting ToO observations. These proposals are submitted during the regular cycle and are eligible for funding.
 
-#### **When will the Call for Proposals be released?**
-
- About one year prior to launch. The call will come out about 2-3 months prior to the deadline for proposals. A peer review will be held 2-3 months following this deadline, with targets and funds announced soon thereafter. The schedule is driven by the date when GI targets need to be incorporated into the TESS Target Input Catalog (TIC). The Call for Proposals will be an amendment to NASA's Research Opportunities in Space and Earth Sciences (ROSES).
+Additionally, about 10% of the GI targets will be reserved for rapid turn-around, Director's Discretionary Time (DDT). If your target can't wait for the next GI proposal cycle, then DDT is the route for you.
 
 #### **Will there be any proprietary time period for GI targets?**
 
@@ -29,7 +29,10 @@ Yes. TESS Guest Investigators at US Institutions may apply for funding to suppor
 
 #### **Are there any restrictions on the types of targets that can be proposed through the TESS GI Program?**
 
- No. Similar to Kepler and K2, the TESS GI Program will consider all scientifically compelling astrophysical targets, from solar system objects, to transiting exoplanets, to stellar variability, to normal and active galaxies. If you can think of a compelling science justification, and the proposed observations are technically feasible, it will be considered.
+Proposals to detect planet transits within the 2-minute cadence data of the one hundred thousand (100,000) top-prioritized, southern hemisphere CTL (version 5.0) targets are not solicited, and will be considered non-compliant. No restrictions are imposed on science using the full frame image data. Proposals for exoplanet detection and characterization using full frame image data are encouraged.
+
+#### **WHAAATTTT, but the final target lists are not yet set!!!**
+To write a call that enables a broad range of science without overlapping what NASA has already paid for is challenging. While we know that the CLT version 5.0 is not the final version, it is the best that was available at the time the proposal call needed to be released. We do not anticipate wholesale changes to the CLT in future versions.
 
 #### **What if I can do my science with TESS full frame images, and don't need to propose for targets?**
 
@@ -37,7 +40,7 @@ Yes. TESS Guest Investigators at US Institutions may apply for funding to suppor
 
 #### **How will my TESS GI targets be processed?**
 
- TESS data processing takes place at the Science Processing Operation Center (SPOC), designed and operated at NASA Ames Research Center. The SPOC is developing the image processing and transit photometry software, leveraging the Kepler Mission's Science Operations Center (SOC) pipeline software. More information on the Kepler software can be found [here](http://kepler.nasa.gov/science/ForScientists/papersAndDocumentation/SOCpapers)
+ TESS data processing takes place at the Science Processing Operation Center (SPOC), designed and operated at NASA Ames Research Center. The SPOC is developing the image processing and transit photometry software, leveraging the Kepler Mission's Science Operations Center (SOC) pipeline software. More information on the Kepler software can be found [here](http://kepler.nasa.gov/science/ForScientists/papersAndDocumentation/SOCpapers).
 
 #### **What software tools will be available?**
 
@@ -45,6 +48,7 @@ Yes. TESS Guest Investigators at US Institutions may apply for funding to suppor
 
 #### **Where can I send my suggestion for an idea I'd like to see incorporated into the TESS GI Program, or a software tool I'd like to suggest be developed?**
 
- We love feedback! Please contact our helpdesk[tessgi@bigbang.gsfc.nasa.gov]
+ We love feedback! Please contact our [helpdesk](tessgi@bigbang.gsfc.nasa.gov).
+
 
  

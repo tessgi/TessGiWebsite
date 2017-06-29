@@ -116,20 +116,20 @@ MENUITEMS = (
 
 # Defines the "key information" box on the front page
 KEY_INFORMATION = (
-    ('Status', 'status.html'),
+    # ('Status', 'status.html'),
     ('Observatory guidebook', 'documentation.html'),
     ('Frequently asked questions', 'faq.html'),
     ('Volunteer to serve on a review panel',
         'https://goo.gl/forms/p4ZqiTQSEHjbM6nz2'),
-    ('Simulated data', 'data-access.html#simulated-data'),
+    # ('Simulated data', 'data-access.html#simulated-data'),
 ) # make the simulated data link work!
 
 # Defines the "important dates" box on the front page
 IMPORTANT_DATES = (
-            ('<b>30 Jun 2017</b>',
+            ('<b>28 Jun 2017</b>',
              'Release of Cycle 1 call for proposals',
              'proposing-investigations.html'), # link to a new item?
-            ('<b>28 Sep 2017</b>',
+            ('<b>29 Sep 2017</b>',
              'Cycle 1 proposal submission deadline ',
              'proposing-investigations.html'), # link to a new item?
             ('<b>20 Mar 2018</b>',
@@ -139,12 +139,12 @@ IMPORTANT_DATES = (
 
 # Defines the "meetings" box on the front page
 MEETINGS = (
-            ('<b>4–8 Jun 2017</b><br>'
-             'AAS 230th Meeting',
-             'tess-community-science-center-team-at-aas-230.html'),
-            ('<b>19–23 Jun 2017</b><br>'
-             'Kepler & K2 SciCon IV',
-             'https://keplerscience.arc.nasa.gov/scicon4/'),
+            # ('<b>4–8 Jun 2017</b><br>'
+            #  'AAS 230th Meeting',
+            #  'tess-community-science-center-team-at-aas-230.html'),
+            # ('<b>19–23 Jun 2017</b><br>'
+            #  'Kepler & K2 SciCon IV',
+            #  'https://keplerscience.arc.nasa.gov/scicon4/'),
             ('<b>16-21 Jul 2017</b><br>'
              'Tessting Stellar Astrophysics, TASC3 KASC10 Workshop',
              'http://www.tasc3kasc10.com/'),
@@ -155,7 +155,7 @@ RELATEDSITES = (
             ('News, Media, and Education Resources',
              'https://tess.gsfc.nasa.gov/'),
             ('TESS @ MIT',
-             'http://space.mit.edu/TESS/TESS/TESS_Overview.html'),
+             'http://tess.mit.edu'),
             # ('TESS @ Orbital ATK',
             #  'http://www.ballaerospace.com/page.jsp?page=72'),
             ('TESS @ MAST',

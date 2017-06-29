@@ -44,7 +44,7 @@ You can also run on a file with targets currently implemented is using RA and De
 
     tvguide-csv inputfilename.csv
 
-This will return a file with the two original columns plus a third column giving the minimum number of sectors that thid target will be observed by with TESS.
+This will return a file with the two original columns plus two additional columns giving the minimum number and maximum of sectors that the target will be observed by with TESS.
 
 
 ## ticgen

@@ -4,13 +4,13 @@ Save_as: proposing-investigations.html
 [TOC]
 
 
-The TESS Guest Investigator program is intended to enable the community to participate in science investigations using TESS, outside of the [core mission science goals](science.html). The program enables teams to proposal the collection of new 2-minute cadence targets, and provides funding to US investigators to analyse 2-minute cadence and full-frame image data.
+The TESS Guest Investigator program is intended to enable the community to participate in science investigations using TESS, outside of the [core mission science goals](science.html). The program enables teams to proposal the collection of new 2-minute cadence targets, and provides funding to US investigators to analyze 2-minute cadence and full-frame image data.
 
-The TESS primary mission duration is two years. The first year is spent in the southern hemisphere and is corresponds to TESS Guest Investigator Program Cycle 1, the second year observed the northern hemisphere and it Cycle 2. During the primrary mission, the majority of the 2-minute cadence targets observed will be taken from the [TESS Candidate Target list (CTL)](observing-technical.html#candidate-target-list). In each Cycle 1 around 10,000 2-minute cadnence target slots will be assigned to the Guest Investigator Program.
+The TESS primary mission duration is two years. The first year is spent in the southern hemisphere and is corresponds to TESS Guest Investigator Program Cycle 1, the second year observed the northern hemisphere and it Cycle 2. During the primary mission, the majority of the 2-minute cadence targets observed will be taken from the [TESS Candidate Target list (CTL)](#candidate-target-list-ctl). In each Cycle 1 around 10,000 2-minute cadence target slots will be assigned to the Guest Investigator Program.
 
 There will be no exclusive-use data rights to observations collected by  TESS. All data will be made available through the MAST public archive once data processing and validation is complete. 
 
-**Proposals are due at 4.30pm Eastern Time on September 28, 2017.**
+**Proposals are due at 4.30pm Eastern Time on September 29, 2017.**
 
 ### Permitted science areas
 
@@ -27,7 +27,7 @@ Proposals may utilized either the 2-minute cadence, the full-frame image data, o
 scientifically and technically. 
 
  
-The scientific justification of a GI proposal should focus on a compelling science investigation, that requires the collection of new TESS data to succeed. The proposed TESS Guest Investigation must clearly enhance the science return of the TESS mission. The proposal may include limited theoretical components, limited ground-based follow-up, software development and/or data simulation that strengthens the proposal. At least 70% of the work effort should be focused on exploiting TESS data products. Proposed investigations that are otherwise dominated in effort by theory, ground-based observing, or archival data analysis will be non-compliant. The ROSES solicitation provides alternative opportunities to exploit or support the TESS mission in these areas:
+The scientific justification of a GI proposal should focus on a compelling science investigation, that requires the collection of new TESS data to succeed. The proposed TESS Guest Investigation must clearly enhance the science return of the TESS mission. The proposal may include limited theoretical components, limited ground-based follow-up, software development and/or data simulation that strengthens the proposal. At least 70% of the work effort should be focused on exploiting TESS data products. Proposed investigations that are otherwise dominated in effort by theory, ground-based observing, or archival data analysis will be non-compliant. The [ROSES solicitation](https://nspires.nasaprs.com/external/solicitations/summary.do?method=init&solId={7136D288-E4F8-8657-F280-6A4318467883}&path=open) provides alternative opportunities to exploit or support the TESS mission in these areas:
  
 * Investigations dominated by theoretical effort should respond to the Appendix D.4 Astrophysics Theory Program (ATP) solicitation, or Appendix E.3 the Exoplanet Research Program (XRP).
 * Investigations dominated by archival data analysis effort should respond to the Appendix D.2 Astrophysics Data Archive Program (ADAP) solicitation.
@@ -37,7 +37,7 @@ Proposals must clearly describe the plans to make any new software or supporting
 
 ### Evaluation criteria
 
-Proposals submitted in response to GI calls will be evaluated 
+Proposals submitted in response to [the Cycle 1 GI call](https://nspires.nasaprs.com/external/solicitations/summary.do?method=init&solId={7136D288-E4F8-8657-F280-6A4318467883}&path=open) will be evaluated 
 with respect to the criteria specified 
 in Section C.2 of the [NASA Guidebook for Proposers](http://www.hq.nasa.gov/office/procurement/nraguidebook/), which are intrinsic merit,
 relevance to the GI solicitation, 
@@ -133,9 +133,9 @@ Target of Opportunity Observations (TOOs) of rapidly evolving phenomena whose oc
 
 
 ## Solicitations
+The proposal solicitation is available from the [NSPIRES website](https://nspires.nasaprs.com/external/solicitations/summary.do?method=init&solId={7136D288-E4F8-8657-F280-6A4318467883}&path=open).
 
-
-### FAQs  
+<!-- ### FAQs   -->
 
 <!-- * **What are the proposal deadlines?**<br/>
 The deadlines for GO Cycle 5 have passed.  Stay tuned for a call
@@ -216,7 +216,7 @@ The TESS GI program uses a two-phase proposal process. A Phase-1 proposal shall 
 
 * Optional Latex and MS Word templates for the Scientific/Technical/Management are available
 
-• _The Scientific/Technical/Management section must be uploaded to the RPS website as a PDF file.
+* The Scientific/Technical/Management section must be uploaded to the RPS website as a PDF file.
 
 All proposal materials must be submitted electronically by 4:30 p.m. Eastern time on the due date for this program given in Section 3 in order to be included in the proposal review for this cycle of the TESS Guest Investigator program. Note that the 4:30 p.m. deadline supersedes the deadline stated in the Guidebook for Proposers and in the ROSES Summary of Solicitation. 
 
