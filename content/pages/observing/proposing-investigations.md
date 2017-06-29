@@ -122,7 +122,7 @@ We have developed software to determine whether any target can be observed by TE
 
 
 ### Target table
-
+Template target tables and the format we require will be **coming soon**.
 
 ### Moving targets
 Moving aperture targets should be flagged as requiring special attention at proposal submission. Specify in the comments of the target list that this is a moving target. The proposal should discuss in the science case both the minimum and ideal acceptable duration of observations of the target. We will work with the proposal team to generate a delivery format for their targets of interest. Note that this is only necessary if 2-minute cadence data is requested.
@@ -388,12 +388,12 @@ mandatory for US investigators. When completing the proposal, there are a few ob
 
 ### Proposal templates
 
-We have made available templates to aid users in writing GI proposal. Use of these templates is not required.
+We will make available templates to aid users in writing GI proposal. Use of these templates is not required. **They are coming soon**.
 
-* [MS Word]()
+<!-- * [MS Word]()
 * [Apple Pages]()
 * [Latex]()
-* [Google Docs]()
+* [Google Docs]() -->
 
 ### Director's Discretionary Targets
 
