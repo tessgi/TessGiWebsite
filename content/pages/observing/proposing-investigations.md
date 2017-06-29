@@ -122,7 +122,20 @@ We have developed software to determine whether any target can be observed by TE
 
 
 ### Target table
-Template target tables and the format we require will be **coming soon**.
+
+The TESS GI program office requires that if a target is in the TIC, GI proposers must provide only the following columns from the TIC in comma separated value (csv) format:
+
+* TIC ID (if available)
+* Right Ascension
+* Declination
+* Proper motion in Right Ascension
+* Proper motion in Declination 
+* TESS mag
+
+Proposal tools and tips to help create target tables can be found on our [proposal tools page](proposal-tools.html) 
+
+Template target tables with the format we require will be **coming soon**.
+
 
 ### Moving targets
 Moving aperture targets should be flagged as requiring special attention at proposal submission. Specify in the comments of the target list that this is a moving target. The proposal should discuss in the science case both the minimum and ideal acceptable duration of observations of the target. We will work with the proposal team to generate a delivery format for their targets of interest. Note that this is only necessary if 2-minute cadence data is requested.
