@@ -31,8 +31,13 @@ Additionally, about 10% of the GI targets will be reserved for rapid turn-around
 
 Proposals to detect planet transits within the 2-minute cadence data of the one hundred thousand (100,000) top-prioritized, southern hemisphere CTL (version 5.0) targets are not solicited, and will be considered non-compliant. No restrictions are imposed on science using the full frame image data. Proposals for exoplanet detection and characterization using full frame image data are encouraged.
 
-#### **WHAAATTTT, but the final target lists are not yet set!!!**
-To write a call that enables a broad range of science without overlapping what NASA has already paid for is challenging. While we know that the CLT version 5.0 is not the final version, it is the best that was available at the time the proposal call needed to be released. We do not anticipate wholesale changes to the CLT in future versions.
+#### **But the final target lists are not yet set**
+The CTL is not finalized (in fact is will likely evolve even after launch). However, to have target lists ready for launch we needed to move forward with language in the call for proposals. The language there is a compromise designed keep the scope of the core science limited thereby enabling GI proposals that are related to transiting exoplanets without duplicating funded work of the science team.
+
+The CTL up at MAST is v5. This is the version that will be used when evaluating GI Cycle 1 proposals. This version has a column called priority which is what we will use to evaluate what is in the top 100,000 targets in the southern ecliptic hemisphere. The CTL  v5 at MAST is the version against which proposals will be assessed.
+
+#### **Where can I find the list of these 100,000 targets**
+Search the CTL at MAST for targets below ecliptic latitude of 0.0 and sort by priority. To aid this we have made a [file available](data/core-science-targets.csv) that contains the list of the top 100,000 priority targets in the southern ecliptic hemisphere.
 
 #### **What if I can do my science with TESS full frame images, and don't need to propose for targets?**
 

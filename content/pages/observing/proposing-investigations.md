@@ -21,12 +21,11 @@ to the operational characteristics and constraints of the mission. The science m
 exoplanet characterization, stellar astrophysics, 
 galactic and extragalactic astrophysics, and solar system science. 
 
-The primary purpose of the TESS Guest Investigator Program is to enhance and maximize the science return from TESS. The program facilitates and supports both 2-minute cadence observations with TESS and research undertaken with the FFIs. Any area of astrophysics may be proposed. However proposals to detect planet transits within the 2-minute cadence data of  the one hundred thousand (100,000) top-prioritized, southern hemisphere [Candidate Target List](observing-technical.html#candidate-target-list) (version 5.0) targets are not solicited, and will be considered non-compliant. No restrictions are imposed on science using the full-frame image data. Proposals for exoplanet detection and characterization using full frame image data are encouraged.  
+The primary purpose of the TESS Guest Investigator Program is to enhance and maximize the science return from TESS. The program facilitates and supports both 2-minute cadence observations with TESS and research undertaken with the FFIs. Any area of astrophysics may be proposed. However proposals to detect planet transits within the 2-minute cadence data of  the one hundred thousand (100,000) top-prioritized, southern hemisphere [Candidate Target List](observing-technical.html#candidate-target-list) (version 5.0) targets are not solicited, and will be considered non-compliant. No restrictions are imposed on science using the full-frame image data. Proposals for exoplanet detection and characterization using full frame image data are encouraged.  To aid in proposal preparation, we have made a [comma-separated variable file available](data/core-science-targets.csv) that contains this list of top-prioritized targets.
 
 Proposals may utilized either the 2-minute cadence, the full-frame image data, or both. All science proposals must be compelling and carefully justified
 scientifically and technically. 
 
- 
 The scientific justification of a GI proposal should focus on a compelling science investigation, that requires the collection of new TESS data to succeed. The proposed TESS Guest Investigation must clearly enhance the science return of the TESS mission. The proposal may include limited theoretical components, limited ground-based follow-up, software development and/or data simulation that strengthens the proposal. At least 70% of the work effort should be focused on exploiting TESS data products. Proposed investigations that are otherwise dominated in effort by theory, ground-based observing, or archival data analysis will be non-compliant. The [ROSES solicitation](https://nspires.nasaprs.com/external/solicitations/summary.do?method=init&solId={7136D288-E4F8-8657-F280-6A4318467883}&path=open) provides alternative opportunities to exploit or support the TESS mission in these areas:
  
 * Investigations dominated by theoretical effort should respond to the Appendix D.4 Astrophysics Theory Program (ATP) solicitation, or Appendix E.3 the Exoplanet Research Program (XRP).
@@ -113,9 +112,10 @@ A subset of TIC objects was isolated to select the >200,000 targets for TESS 2 m
 
 A complete description of the input and methods used to construct the TIC and CTL are provided in the TIC paper prepared by the TSWG team (Stassun et al. 2017, available [here](http://adsabs.harvard.edu/abs/2017arXiv170600495S)). The current full versions of the TIC and CTL are hosted publicly at the Mikulski Archive for Space Telescopes (MAST, available [here](https://archive.stsci.edu/tess/)) and a high priority subset of the CTL is available via the Filtergraph data visualization system (available [here](http://filtergraph.vanderbilt.edu/tess_ctl)). Subsequent versions of the TIC and CTL containing additional data (e.g. Gaia) will be generated and made available leading up to the TESS launch.
 
-
-
 Guest Investigators must include the TIC identification number when selecting targets if there is an entry in the TIC. For targets not in the TIC, GIs must provide the coordinates of the source and a TESS magnitude. Software for [estimating TESS magnitudes is available](proposal-tools.html). The latest version of the TIC is [available from the MAST](http://archive.stsci.edu/tess/all_products.html) and described further in the [Data Access](data-access.html) page. Documentation for the TIC can be found on [arXiv](https://arxiv.org/abs/1706.00495). There will be several deliveries of preliminary versions of the TIC prior to launch to allow testing. A formal delivery of the TIC will occur a few months before launch. 
+
+### Core science targets
+To aid in proposal preparation we have made a [comma-separated variable file](data/core-science-targets.csv) available that contains the list of the top 100,000 priority targets in the southern ecliptic hemisphere.
 
 ## Observability of targets
 We have developed software to determine whether any target can be observed by TESS and for how many sectors. Details are provided on our [proposal tools page](proposal-tools.html)
@@ -125,7 +125,7 @@ We have developed software to determine whether any target can be observed by TE
 
 
 ### Moving targets
-
+Moving aperture targets should be flagged as requiring special attention at proposal submission. Specify in the comments of the target list that this is a moving target. The proposal should discuss in the science case both the minimum and ideal acceptable duration of observations of the target. We will work with the proposal team to generate a delivery format for their targets of interest. Note that this is only necessary if 2-minute cadence data is requested.
 
 ### Target of Opportunity Observations
 Target of Opportunity Observations (TOOs) of rapidly evolving phenomena whose occurrence is not predictable at the time of the proposal deadline. Due to TESS mission constraints, TOO-triggered target definitions can only be uploaded to the spacecraft during uplinks that occur once every 13.7 days. Details regarding the circumstances in which a TOO is “triggered” must be included in the scientific justification and on the target form. TOO proposals must also include an estimated duration of the event, as well as an estimated probability for triggering the observations; the latter will be used in the accounting of total allocated targets. TOOs remain active during Cycle 1; TOOs not carried out during the cycle may be re-proposed to subsequent solicitations. TOO observations would commence after the spacecraft upload following the trigger event, which could be as long as 2 months after the event. The impact to science of such a potential delay must be addressed in proposals requesting TOO observations. 

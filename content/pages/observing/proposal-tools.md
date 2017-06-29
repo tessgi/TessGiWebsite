@@ -50,3 +50,7 @@ This will return a file with the two original columns plus two additional column
 ## ticgen
 Will be added shortly.
 
+## Core science targets
+This isn't software, but to aid in proposal preparation we have [made a csv file available](data/core-science-targets.csv) that contains the top 100,000 priority targets in the southern ecliptic hemisphere.
+
+
