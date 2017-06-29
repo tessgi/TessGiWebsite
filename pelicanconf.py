@@ -66,7 +66,7 @@ else:
 
 
 # Which static data dirs should be uploaded as part of the website?
-STATIC_PATHS = (['images', 'data'])
+STATIC_PATHS = (['images', 'data', 'docs'])
 
 # Directories that contain html files we want to exclude
 # because they are sub-pages included through rst includes
