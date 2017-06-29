@@ -3,12 +3,14 @@ Save_as: proposal-tools.html
 
 [TOC]
 
+We have developed two pieces of softare to aid in the development of proposals. [TVGuide](#tvguide) helps with determining whether are target is observable in Cycle 1, and [ticgen](#ticgen) is used to calculate the brightness of a target in the TESS bandpass. In addition resources have been created by various other team to aid in writing proposals.
+
 ## Target list creation
 The first stop for TESS GI proposers when preparing their proposals should be the [STScI/MAST TESS pages](https://archive.stsci.edu/tess/). Here, proposers can follow tutorials to learn how to access the [Target Input Catalog](proposing-investigations.html#tess-input-catalog-tic) (TIC) and [Candidate Target List](proposing-investigations.html#candidate-target-list-ctl) (CTL), crossmatch their targets with these catalogs, and create output files with relevant target information required for the GI call. MAST has provided a [custom tutorial](https://archive.stsci.edu/tess/tutorials/goddard_format.html) to show GI proposers how to select and output the [required columns](proposing-investigations.html#target-table) for their target lists. Please follow this tutorial to provide a compliant target list.
 
-Filtergraph
+## Filtergraph
+Description coming soon...
 
-We have developed two pieces of softare to aid in the development of proposals. [TVGuide](#tvguide) helps with determining whether are target is observable in Cycle 1, and [ticgen](#ticgen) is used to calculate the brightness of a target in the TESS bandpass. 
 
 ## TVGuide
 TVGuide is a Python package that allows users to check whether a target potentially falls within the field of view of TESS.

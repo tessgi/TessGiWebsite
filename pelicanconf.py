@@ -160,6 +160,8 @@ RELATEDSITES = (
             #  'http://www.ballaerospace.com/page.jsp?page=72'),
             ('TESS @ MAST',
              'http://archive.stsci.edu/tess'),
+            ('High Energy Astrophysics Science Archive Research Center',
+             'https://heasarc.gsfc.nasa.gov/'),
             ('NASA Exoplanet Archive @ IPAC',
              'http://exoplanetarchive.ipac.caltech.edu'),
             )
