@@ -20,7 +20,7 @@ TESS Input Catalog and Candidate Target List description: [Stassun et al., 2017,
 A full list of TESS-related articles can be found under [Publications](publications.html)
 
 
-## Data processing pipeline
+## Data processing papers
 
 Users of TESS are encouraged to review the following papers to understand the processing of TESS data before it is archived at the Mikulski Archive for Space Telescopes (MAST).
 
