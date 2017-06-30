@@ -17,7 +17,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - TESS Guest Investigator Program" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2017-06-29" />
+    <meta name="dc.date.modified" content="2017-06-30" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Kepler Guest Observers" />
     <meta name="dc.identifier" content="http://tessgi.gsfc.nasa.gov" />
@@ -34,13 +34,13 @@ in August 2015, using pelican-bootstrap and flatly.
 <link rel="canonical" href="./pages/proposal-tools.html">
 
         <meta name="author" content="Thomas Barclay" />
-        <meta name="description" content="We have developed two pieces of softare to aid in the development of proposals. TVGuide helps with determining whether are target is observable in Cycle 1, and ticgen is used to calculate the brightness of a target in the TESS bandpass. In addition resources have been created by various other …" />
+        <meta name="description" content="We have developed two pieces of softare to aid in the development of proposals. TVGuide helps with determining whether are target is observable in Cycle 1, and ticgen is used to calculate the brightness of a target in the TESS bandpass. In addition, resources have been created by various other …" />
 
     <meta property="og:site_name" content="TESS" />
     <meta property="og:type" content="article"/>
     <meta property="og:title" content="Proposal Tools"/>
     <meta property="og:url" content="./pages/proposal-tools.html"/>
-    <meta property="og:description" content="We have developed two pieces of softare to aid in the development of proposals. TVGuide helps with determining whether are target is observable in Cycle 1, and ticgen is used to calculate the brightness of a target in the TESS bandpass. In addition resources have been created by various other …" />
+    <meta property="og:description" content="We have developed two pieces of softare to aid in the development of proposals. TVGuide helps with determining whether are target is observable in Cycle 1, and ticgen is used to calculate the brightness of a target in the TESS bandpass. In addition, resources have been created by various other …" />
 
 
     <!-- Why use Helvetica Neue when you can have Lato? -->
@@ -136,11 +136,24 @@ in August 2015, using pelican-bootstrap and flatly.
             <h1 class="entry-title">Proposal Tools</h1>
             <div class="entry-content">
                 
-<p>We have developed two pieces of softare to aid in the development of proposals. <a href="#tvguide">TVGuide</a> helps with determining whether are target is observable in Cycle 1, and <a href="#ticgen">ticgen</a> is used to calculate the brightness of a target in the TESS bandpass. In addition resources have been created by various other team to aid in writing proposals.</p>
+<p>We have developed two pieces of softare to aid in the development of proposals. <a href="#tvguide">TVGuide</a> helps with determining whether are target is observable in Cycle 1, and <a href="#ticgen">ticgen</a> is used to calculate the brightness of a target in the TESS bandpass. In addition, resources have been created by various other team to aid in writing proposals.</p>
 <h2 id="target-list-creation">Target list creation</h2>
-<p>The first stop for TESS GI proposers when preparing their proposals should be the <a href="https://archive.stsci.edu/tess/">STScI/MAST TESS pages</a>. Here, proposers can follow tutorials to learn how to access the <a href="proposing-investigations.html#tess-input-catalog-tic">Target Input Catalog</a> (TIC) and <a href="proposing-investigations.html#candidate-target-list-ctl">Candidate Target List</a> (CTL), crossmatch their targets with these catalogs, and create output files with relevant target information required for the GI call. MAST has provided a <a href="https://archive.stsci.edu/tess/tutorials/goddard_format.html">custom tutorial</a> to show GI proposers how to select and output the <a href="proposing-investigations.html#target-table">required columns</a> for their target lists. Please follow this tutorial to provide a compliant target list.</p>
+<p>The first stop for TESS GI proposers when preparing their proposals should be the <a href="https://archive.stsci.edu/tess/">STScI/MAST TESS pages</a>. Here, proposers can follow tutorials to learn how to access the Target Input Catalog (TIC) and Candidate Target List (CTL), crossmatch their targets with these catalogs, and create output files with relevant target information required for the GI call. The TESS GI program office requires that if a target is in the TIC, GI proposers must provide only the following columns from the TIC in comma separated value (csv) format:
+1. TIC ID (if available)
+2. Right Ascension (decimal degrees)
+3. Declination (decimal degrees)
+4. Proper motion in Right Ascension (mas yr-1)
+5. Proper motion in Declination (mas yr-1) 
+6. TESS mag</p>
+<p>Since adherence to this format is critical for target list uploads to the <a href="https://heasarc.gsfc.nasa.gov/ark/rps/">Remote Proposal System</a> (RPS) website, the MAST has provided a <a href="https://archive.stsci.edu/tess/tutorials/goddard_format.html">custom tutorial</a> to show GI proposers how to select and output these columns for their target lists. Please follow this tutorial to provide a compliant target list. </p>
 <h2 id="filtergraph">Filtergraph</h2>
-<p>Description coming soon...</p>
+<p>The Target Selection Working Group (TSWG) has also provided a tool for GI proposers to view and manipulate a high-priority subset of the current CTL in the <a href="https://filtergraph.com/tess_ctl">Filtergraph data visualization system</a> (Burger et al. 2013). Filtergraph is an online tool to upload data files, visualize the data in various formats (i.e. scatter plots, histograms, heat maps, etc.), manipulate these visualizations by filtering the data, and save figures in standard image output formats. </p>
+<p>The following figure provides an example of a CTL visualization that can be made using Filtergraph. The figure displays all stars in CTL-5 in Dec vs. RA and color-coded by T mag. Features inherent to the CTL are immediately noticeable, such as the lower density of targets in the Galactic plane (due to high background contamination) and the higher density of targets in the ecliptic poles where TESS will have the longest continuous observation baseline and be more sensitive to transiting planets. 
+<br/>
+<img class="img-responsive" src="images/giprogram/filtergraph.png" style="max-width:67%;">
+<em> CTL-5 visualization generated using TIC/CTL Filtergraph portal. The figure shows the distribution of stars in the CTL-5 in equatorial coordinates. The color bar represents the targets’ TESS magnitudes. There are fewer stars in the Galactic plane due to background contamination. The two elliptical regions of higher target density are the ecliptic poles, where TESS will observe continuously for nearly a year. Image Credit: <a href="https://filtergraph.com/">Filtergraph</a></em>
+<br/></img></p>
+<p>Additional premade figures are available on the CTL Filtergraph page, including CTL TESS mag and effective temperature histograms. Users may also create their own Filtergraph account and upload their own target lists for visualization following the instructions and tutorials on the main <a href="https://filtergraph.com/">Filtergraph</a> webpage. </p>
 <h2 id="tvguide">TVGuide</h2>
 <p>TVGuide is a Python package that allows users to check whether a target potentially falls within the field of view of TESS.</p>
 <p>In particular, the package adds the tvguide and tvguide-csv tools to the command line, which allow the visibility of targets to be checked during Cycle 1.</p>
@@ -203,6 +216,19 @@ average: 1.16 sectors
   <footer>
 
      <div class="container">
+
+      <!-- Partner logos -->  
+      <div class="row">
+        <div class="col-md-10"> 
+          <a href="http://space.mit.edu/"><img src="./images/partners/logo-mit-kavli.png" width="160" alt="MIT Kavli Logo"></a> &nbsp;&nbsp;&nbsp;
+         <a href="http://www.nasa.gov/"><img src="./images/NASA_logo_vector_lg.png" width="60" alt="NASA Logo"></a> &nbsp;&nbsp;&nbsp;
+         <a href="https://www.ll.mit.edu/"><img src="./images/partners/lincoln-laboratory.png" width="50" alt="Lincoln Labs Logo"></a> &nbsp;&nbsp;&nbsp;
+         <a href="https://www.orbitalatk.com/"><img src="./images/partners/orbital_ATK_logo-blue-web-h80px.png" width="120" alt="Orbital ATK Logo"></a> &nbsp;&nbsp;&nbsp;
+         <a href="https://www.cfa.harvard.edu/"><img src="./images/partners/si-logo.png" width="50" alt="Smithsonian Logo"></a> &nbsp;&nbsp;&nbsp;
+         <a href="http://www.stsci.edu/"><img src="./images/partners/stsci_logo.png" width="80" alt="STScI Logo"></a> 
+        </div>
+      </div>
+
       
       <!-- Related websites -->  
       <div class="row">
@@ -234,7 +260,7 @@ average: 1.16 sectors
       <!-- NASA logo and notices -->
       <div class="row" style="margin-top:2em;">
          <div class="col-md-10"> <a href="http://www.nasa.gov/"><img src="./images/NASA_logo_vector_lg.png" width="30" alt="NASA Logo"></a> 
-         Last modified: Wed 28 June 2017
+         Last modified: Thu 29 June 2017
             &middot; Editor: Thomas Barclay &middot; NASA Official: Patricia T Boyd 
             &middot; <a href="http://www.nasa.gov/about/highlights/HP_Privacy.html">Privacy Policy and Important Notices</a><p></p>         </div>
          <div class="col-md-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>

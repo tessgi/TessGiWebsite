@@ -17,7 +17,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - TESS Guest Investigator Program" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2017-06-29" />
+    <meta name="dc.date.modified" content="2017-06-30" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Kepler Guest Observers" />
     <meta name="dc.identifier" content="http://tessgi.gsfc.nasa.gov" />
@@ -34,13 +34,13 @@ in August 2015, using pelican-bootstrap and flatly.
 <link rel="canonical" href="./pages/tess-data-processing-pipeline.html">
 
         <meta name="author" content="Thomas Barclay" />
-        <meta name="description" content="The TESS data processing pipeline is developed at NASA Ames Research Center and builds on the legacy of the Kepler science processing pipeline. Pipeline overview Pipeline components" />
+        <meta name="description" content="The TESS data processing pipeline is currently being developed by the Science Processing Operations Center (SPOC) at NASA Ames Research Center and builds on the legacy of the Kepler data processing pipeline. A brief overview is presented below, and more details can be found in the SPOC paper available in …" />
 
     <meta property="og:site_name" content="TESS" />
     <meta property="og:type" content="article"/>
     <meta property="og:title" content="TESS data processing pipeline"/>
     <meta property="og:url" content="./pages/tess-data-processing-pipeline.html"/>
-    <meta property="og:description" content="The TESS data processing pipeline is developed at NASA Ames Research Center and builds on the legacy of the Kepler science processing pipeline. Pipeline overview Pipeline components" />
+    <meta property="og:description" content="The TESS data processing pipeline is currently being developed by the Science Processing Operations Center (SPOC) at NASA Ames Research Center and builds on the legacy of the Kepler data processing pipeline. A brief overview is presented below, and more details can be found in the SPOC paper available in …" />
 
 
     <!-- Why use Helvetica Neue when you can have Lato? -->
@@ -136,9 +136,21 @@ in August 2015, using pelican-bootstrap and flatly.
             <h1 class="entry-title">TESS data processing pipeline</h1>
             <div class="entry-content">
                 
-<p>The TESS data processing pipeline is developed at NASA Ames Research Center and builds on the legacy of the Kepler science processing pipeline.</p>
-<h3 id="pipeline-overview">Pipeline overview</h3>
-<h3 id="pipeline-components">Pipeline components</h3>
+<p>The TESS data processing pipeline is currently being developed by the Science Processing Operations Center (SPOC) at NASA Ames Research Center and builds on the legacy of the Kepler data processing pipeline. A brief overview is presented below, and more details can be found in the SPOC paper available in the <a href="documentation.html">documentation</a> page.</p>
+<h2 id="pipeline-overview">Pipeline overview</h2>
+<p>The SPOC will receive raw data via the Payload Operations Center (POC) at MIT. The SPOC pipeline processes the raw pixels, extracts photometry and astrometry for each target star, identifies and removes systematic errors, flags transiting planet signatures, and performs a suite of diagnostic tests. Many software modules developed for Kepler have significant overlap with what is needed to process TESS data. </p>
+<p>One of the primary differences between TESS and Kepler pipeline processing is the volume of data that TESS will produce over the course of the 2 year nominal mission. TESS science data have a nominal cadence of 2 min compared to 29.4 min for Kepler. The Full Frame Images (FFIs), which will be calibrated by the SPOC, are collected at 30 min cadence compared to Kepler's monthly FFIs. Furthermore, there will be a faster turn-around time for processing the science data (27.4 days for TESS vs. 120 days for Kepler), a higher on-board storage capacity for TESS (385 GB vs. 17 GB), and a much higher data rate since  TESS’ orbit is closer to Earth. All of these factors introduce new challenges to pipeline processing, which (like Kepler) will be processed on the NASA Advanced Supercomputing (NAS) Division’s Pleiades supercomputer.</p>
+<h2 id="pipeline-products">Pipeline products</h2>
+<p>The SPOC pipeline products include:</p>
+<ul>
+<li>Target Pixel files (raw and calibrated pixel data)</li>
+<li>Target Light Curve files (photometric analysis and systematic error-corrected time series data)</li>
+<li>FFI files (raw, calibrated, and uncertainty images of the CCDs)</li>
+<li>Collateral Pixel files (raw and calibrated collateral pixel data)</li>
+<li>Data validation products</li>
+<li>Ancillary files that include pipeline meta-data and co-trending basis vectors (CBVs)</li>
+</ul>
+<p>SPOC products will be archived to the Mikulski Archive for Space Telescopes (MAST). There is no proprietary data period for any TESS data products.</p>
             </div>
         </section>
     </div>
@@ -148,7 +160,7 @@ in August 2015, using pelican-bootstrap and flatly.
             <div class="toc">
 <ul>
 <li><a href="#pipeline-overview">Pipeline overview</a></li>
-<li><a href="#pipeline-components">Pipeline components</a></li>
+<li><a href="#pipeline-products">Pipeline products</a></li>
 </ul>
 </div>
             </div>
@@ -161,6 +173,19 @@ in August 2015, using pelican-bootstrap and flatly.
   <footer>
 
      <div class="container">
+
+      <!-- Partner logos -->  
+      <div class="row">
+        <div class="col-md-10"> 
+          <a href="http://space.mit.edu/"><img src="./images/partners/logo-mit-kavli.png" width="160" alt="MIT Kavli Logo"></a> &nbsp;&nbsp;&nbsp;
+         <a href="http://www.nasa.gov/"><img src="./images/NASA_logo_vector_lg.png" width="60" alt="NASA Logo"></a> &nbsp;&nbsp;&nbsp;
+         <a href="https://www.ll.mit.edu/"><img src="./images/partners/lincoln-laboratory.png" width="50" alt="Lincoln Labs Logo"></a> &nbsp;&nbsp;&nbsp;
+         <a href="https://www.orbitalatk.com/"><img src="./images/partners/orbital_ATK_logo-blue-web-h80px.png" width="120" alt="Orbital ATK Logo"></a> &nbsp;&nbsp;&nbsp;
+         <a href="https://www.cfa.harvard.edu/"><img src="./images/partners/si-logo.png" width="50" alt="Smithsonian Logo"></a> &nbsp;&nbsp;&nbsp;
+         <a href="http://www.stsci.edu/"><img src="./images/partners/stsci_logo.png" width="80" alt="STScI Logo"></a> 
+        </div>
+      </div>
+
       
       <!-- Related websites -->  
       <div class="row">
@@ -192,7 +217,7 @@ in August 2015, using pelican-bootstrap and flatly.
       <!-- NASA logo and notices -->
       <div class="row" style="margin-top:2em;">
          <div class="col-md-10"> <a href="http://www.nasa.gov/"><img src="./images/NASA_logo_vector_lg.png" width="30" alt="NASA Logo"></a> 
-         Last modified: Wed 28 June 2017
+         Last modified: Thu 29 June 2017
             &middot; Editor: Thomas Barclay &middot; NASA Official: Patricia T Boyd 
             &middot; <a href="http://www.nasa.gov/about/highlights/HP_Privacy.html">Privacy Policy and Important Notices</a><p></p>         </div>
          <div class="col-md-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
