@@ -109,7 +109,7 @@ Because the TESS pixels are large (21”), the TESS photometry for many targets 
 ## Target selection
 The TESS Input Catalog (TIC) is a catalog of approximately half a billion objects generated to assist in planning and executing observations and data reduction. The TIC includes detailed information about the characteristics of more than 2 million stars that have been identified as potential targets for the TESS Planet Search. The TIC also includes basic information for optically luminous persistent astronomical objects that may influence the photometry of TESS targets. More information on the TIC can be found [here](proposing-investigations.html#target-selection)
 
-The Candidate Target List (CTL) is a subset of TIC objects isolated to select the >200,000 targets for 2 min cadence observations in service of the mission’s primary science requirements. More information on the CTL can be found [here](proposing-investigations.html#candidate-target-list-ctl)
+The Candidate Target List (CTL) is a subset of TIC objects isolated to select the >200,000 targets for 2 min cadence observations in service of the mission's primary science requirements. More information on the CTL can be found [here](proposing-investigations.html#candidate-target-list-ctl)
 
 <!-- 
 ### Data yield

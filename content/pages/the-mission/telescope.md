@@ -9,7 +9,7 @@ The TESS observatory consists of the spacecraft and the payload. The TESS payloa
 <br/>
 <img class="img-responsive" style="max-width:67%;" src="images/mission/tess_spacecraft_cameras.jpg">
 <br/>
-*Artist’s conception of the  TESS  spacecraft and payload. Image Credit: MIT*
+*Artist's conception of the  TESS  spacecraft and payload. Image Credit: MIT*
 
 ## TESS cameras
 
@@ -33,7 +33,7 @@ The lens assembly is a custom design housing seven lenses mounted into two separ
 
 ### CCD detector assembly
 
-The detector assembly in each camera consists of a focal plane CCD array and associated electronics. Each CCD array contains four back-illuminated MIT/Lincoln Laboratory CCID-80 devices. The deep-depletion, frame-transfer CCDs consist of a 2048 x 2048 imaging array and a 2048 x 2048 frame-store region (for rapid shutterless readout ≈ 4 ms) with 15 x 15 𝜇m pixels. The four CCDs in each array are separated by 2mm and create an effective 4096 x 4096 pixel detector that is operated at -75 degrees C to reduce dark current. The detectors are read out at 625 kHz with <10  e- read noise. The detector electronics consist of two compact double-sided printed circuit boards seated beneath the CCD focal plane. The electronics transmit digitized data over a serial LVDS link to the Data Handling Unit. The four TESS cameras are bolted to a common plate such that their FOV’s are aligned to form a total simultaneous FOV of 24x96 degrees.
+The detector assembly in each camera consists of a focal plane CCD array and associated electronics. Each CCD array contains four back-illuminated MIT/Lincoln Laboratory CCID-80 devices. The deep-depletion, frame-transfer CCDs consist of a 2048 x 2048 imaging array and a 2048 x 2048 frame-store region (for rapid shutterless readout ≈ 4 ms) with 15 x 15 𝜇m pixels. The four CCDs in each array are separated by 2mm and create an effective 4096 x 4096 pixel detector that is operated at -75 degrees C to reduce dark current. The detectors are read out at 625 kHz with <10  e- read noise. The detector electronics consist of two compact double-sided printed circuit boards seated beneath the CCD focal plane. The electronics transmit digitized data over a serial LVDS link to the Data Handling Unit. The four TESS cameras are bolted to a common plate such that their FOV's are aligned to form a total simultaneous FOV of 24x96 degrees.
 
 
 

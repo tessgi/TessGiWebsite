@@ -25,7 +25,7 @@ The Target Selection Working Group (TSWG) has also provided a tool for GI propos
 The following figure provides an example of a CTL visualization that can be made using Filtergraph. The figure displays all stars in CTL-5 in Dec vs. RA and color-coded by T mag. Features inherent to the CTL are immediately noticeable, such as the lower density of targets in the Galactic plane (due to high background contamination) and the higher density of targets in the ecliptic poles where TESS will have the longest continuous observation baseline and be more sensitive to transiting planets. 
 <br/>
 <img class="img-responsive" style="max-width:67%;" src="images/giprogram/filtergraph.png">
-* CTL-5 visualization generated using TIC/CTL Filtergraph portal. The figure shows the distribution of stars in the CTL-5 in equatorial coordinates. The color bar represents the targets’ TESS magnitudes. There are fewer stars in the Galactic plane due to background contamination. The two elliptical regions of higher target density are the ecliptic poles, where TESS will observe continuously for nearly a year. Image Credit: [Filtergraph](https://filtergraph.com/)*
+* CTL-5 visualization generated using TIC/CTL Filtergraph portal. The figure shows the distribution of stars in the CTL-5 in equatorial coordinates. The color bar represents the targets' TESS magnitudes. There are fewer stars in the Galactic plane due to background contamination. The two elliptical regions of higher target density are the ecliptic poles, where TESS will observe continuously for nearly a year. Image Credit: [Filtergraph](https://filtergraph.com/)*
 <br/>
 
 

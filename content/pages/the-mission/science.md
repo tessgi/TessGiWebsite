@@ -12,7 +12,7 @@ TESS will search for planets outside of our solar system with a primary goal of 
 3. Determine the masses for at least 50 planets with radii <4 Earth radii. 
 
 
-TESS will survey stars with spectral types ranging from F5 to M5 to search for transiting exoplanets. Additional follow-up with ground- and space-based missions, including NASA’s James Webb Space Telescope, will allow astronomers to study the atmospheres of many of these planets.  The TESS legacy will be a catalog of the nearest and brightest main-sequence stars hosting transiting exoplanets. 
+TESS will survey stars with spectral types ranging from F5 to M5 to search for transiting exoplanets. Additional follow-up with ground- and space-based missions, including NASA's James Webb Space Telescope, will allow astronomers to study the atmospheres of many of these planets.  The TESS legacy will be a catalog of the nearest and brightest main-sequence stars hosting transiting exoplanets. 
 
 In addition to its search for exoplanets, TESS will allow scientists from the wider community to request targets for astrophysics research on approximately 10,000 additional objects during the mission through its Guest Investigator program.
 

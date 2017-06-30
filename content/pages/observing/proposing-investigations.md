@@ -32,7 +32,7 @@ The scientific justification of a GI proposal should focus on a compelling scien
 * Investigations dominated by archival data analysis effort should respond to the Appendix D.2 Astrophysics Data Archive Program (ADAP) solicitation.
 * Investigations dominated by ground-based data collection and/or analysis efforts should respond to the Appendix E.3 the Exoplanet Research Program (XRP), or the NSF Astronomy and Astrophysics Research Grants Program (AAG).
 
-Proposals must clearly describe the plans to make any new software or supporting data publicly available. Software developed with TESS GI funds must add value to the TESS science community, be free and open source. Exoplanet-related ground-based follow-up data collected through TESS GI funding support must be made publicly available in a timely fashion at  the NASA Exoplanet Science Institute (NExScI) [ExoFOP service](https://exofop.ipac.caltech.edu) - NASA’s repository for supporting exoplanet data. Supporting data for non-exoplanet science should be archived through a public data archive service such as the [Mikulski Archive at Space Telescope](http://archive.stsci.edu/hlsp/) (MAST) higher level data product service. 
+Proposals must clearly describe the plans to make any new software or supporting data publicly available. Software developed with TESS GI funds must add value to the TESS science community, be free and open source. Exoplanet-related ground-based follow-up data collected through TESS GI funding support must be made publicly available in a timely fashion at  the NASA Exoplanet Science Institute (NExScI) [ExoFOP service](https://exofop.ipac.caltech.edu) - NASA's repository for supporting exoplanet data. Supporting data for non-exoplanet science should be archived through a public data archive service such as the [Mikulski Archive at Space Telescope](http://archive.stsci.edu/hlsp/) (MAST) higher level data product service. 
 
 ### Evaluation criteria
 
@@ -82,7 +82,7 @@ Note that there is no exclusive use period associated with any TESS data.
 ### Eligibility
 
 Application to the TESS GI program is typically open to all investigators,
-including those from outside the U.S. under NASA’s no-exchange-of-funds policy. 
+including those from outside the U.S. under NASA's no-exchange-of-funds policy. 
 
 Investigators who are not affiliated with a U.S. institution 
 are not eligible for funding through this program,
@@ -108,7 +108,7 @@ The TIC was assembled by merging three base catalogs and many auxiliary catalogs
 <br/>
 
 ### Candidate Target List (CTL)
-A subset of TIC objects was isolated to select the >200,000 targets for TESS 2 min cadence observations in service of the mission’s primary science requirements. This list is known as the Candidate Target List (CTL). The CTL was constructed by applying strict cuts to the ~470 million point sources in the TIC that included cuts in magnitude, reduced proper motion, and lack of calculated parameters (T eff,  radius, and contamination ratio). The resulting list is ranked by priority; a function of sky position, stellar radius, brightness, and contamination, to provide a list of the ~20 million top ranked stars. The CTL currently contains both dwarf and subgiant stars (giants have been removed). Once parallaxes from the second Gaia Data Release (DR2) are available, dwarfs and subgiants can be differentiated.
+A subset of TIC objects was isolated to select the >200,000 targets for TESS 2 min cadence observations in service of the mission's primary science requirements. This list is known as the Candidate Target List (CTL). The CTL was constructed by applying strict cuts to the ~470 million point sources in the TIC that included cuts in magnitude, reduced proper motion, and lack of calculated parameters (T eff,  radius, and contamination ratio). The resulting list is ranked by priority; a function of sky position, stellar radius, brightness, and contamination, to provide a list of the ~20 million top ranked stars. The CTL currently contains both dwarf and subgiant stars (giants have been removed). Once parallaxes from the second Gaia Data Release (DR2) are available, dwarfs and subgiants can be differentiated.
 
 A complete description of the input and methods used to construct the TIC and CTL are provided in the TIC paper prepared by the TSWG team (Stassun et al. 2017, available [here](http://adsabs.harvard.edu/abs/2017arXiv170600495S)). The current full versions of the TIC and CTL are hosted publicly at the Mikulski Archive for Space Telescopes (MAST, available [here](https://archive.stsci.edu/tess/)) and a high priority subset of the CTL is available via the Filtergraph data visualization system (available [here](http://filtergraph.vanderbilt.edu/tess_ctl)). Subsequent versions of the TIC and CTL containing additional data (e.g. Gaia) will be generated and made available leading up to the TESS launch.
 

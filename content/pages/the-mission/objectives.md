@@ -33,7 +33,7 @@ The TESS Mission is designed to survey over 90% of the sky (an area of sky 400 t
 
 ## TESS Mission Organization
 
-The TESS mission is led by the Massachusetts Institute of Technology (MIT), which is responsible for the overall direction of the mission. The TESS Science Office (TSO) is a partnership between MIT’s Physics Department and Kavli Institute for Astrophysics and Space Research and the Smithsonian Astrophysical Observatory. The TESS Science Office analyzes the science data and organizes the co-investigators, collaborators, and working groups. The MIT Lincoln Laboratory leads the science camera development and construction. 
+The TESS mission is led by the Massachusetts Institute of Technology (MIT), which is responsible for the overall direction of the mission. The TESS Science Office (TSO) is a partnership between MIT's Physics Department and Kavli Institute for Astrophysics and Space Research and the Smithsonian Astrophysical Observatory. The TESS Science Office analyzes the science data and organizes the co-investigators, collaborators, and working groups. The MIT Lincoln Laboratory leads the science camera development and construction. 
 
 NASA's Goddard Space Flight Center (GSFC) provides project management, systems engineering, and safety and mission assurance. The TESS Science Support Center (TSSC) at GSFC operates the Guest Investigator Program and supports the science community proposing for new science with TESS.
 

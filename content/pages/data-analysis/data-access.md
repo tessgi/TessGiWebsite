@@ -39,6 +39,7 @@ on TESS products. The following TESS data products and catalogs will be availabl
 through MAST:
 
 **Data products at MAST**
+
 <!-- 
 * Two-minute cadence target pixel files
 * Two-minute cadence light curves
@@ -64,6 +65,7 @@ through MAST:
 * Kepler/GALEX cross match catalog
 * False positive working group tables
 * Observed targets by quarter
+
  -->
 The file types are presented in the table below.
 <br/>
@@ -90,7 +92,7 @@ Kepler data:
 A variety of data products from TESS will be archived at MAST for guest investigators. 
 
 ### Full frame images (FFIs)
-A Full Frame Image (FFI) is a collection of science and collateral pixels observed simultaneously.  A single FFI is the full set of all science and collateral pixels across all CCDs of a given camera.  FFIs will be taken every 30 minutes during science operations.
+A Full Frame Image (FFI) is a collection of science and [collateral](#collateral-data) pixels observed simultaneously.  A single FFI is the full set of all science and collateral pixels across all CCDs of a given camera.  FFIs will be taken every 30 minutes during science operations.
 
 There are 16 CCDs on the spacecraft, each of which is supported by 4 output channels. TESS FFI files are in FITS format and contain all pixels on a single CCD in a sequence of 30 minute cadence observations for one observing sector (two orbits, 27.4 days). Thus, a full TESS observing sector consists of 16 FFIs, one for each CCD in each camera. FFI data will be provided in three types: uncalibrated, calibrated, and uncertainty. Uncalibrated FFI data will be provided in one file with two Header/Data Units (HDUs): a primary header and the CCD image header and data. The calibrated image and its uncertainty will be provided in a separate file with several HDUs: a primary header, the CCD calibrated image header and data, the CCD uncertainty image header and data, and the cosmic ray corrections binary table header and data. Cosmic Ray Mitigated (CRM) FFIs are the same as FFIs except they will be collected with the onboard cosmic ray mitigation enabled. 
 
@@ -136,7 +138,7 @@ Auxiliary data consists of focal plane characterization files, engineering and t
 
 *Smear*: the correction for shutterless operation. The smear will be less critical for TESS than was needed for Kepler due to the use of frame-transfer in TESS. 
 
-*Gain model*: The linear approximation to the CCD digitizer performance, in units of photoelectrons per digitizer count. Each TESS CCD has its own gain model. Each CCD’s gain model contains separate values for each of the 4 readouts on the CCD.
+*Gain model*: The linear approximation to the CCD digitizer performance, in units of photoelectrons per digitizer count. Each TESS CCD has its own gain model. Each CCD's gain model contains separate values for each of the 4 readouts on the CCD.
 
 *Flat field*: A model which describes the pixel-to-pixel variation in response to photons. This allows the variations in individual pixel response to be removed in calibration. The flat field model is 2048 x 2048 for each of 16 CCDs.
 
