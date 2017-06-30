@@ -26,7 +26,7 @@ Save_as: helpdesk.html
     </div>
     <div class="col-sm-3 text-center">
         <img src="images/faces/koji.jpg" class="img-circle"><br>
-        Koji Mukai<br>
+        Dr Koji Mukai<br>
         Support Scientist
     </div>
 </div>
