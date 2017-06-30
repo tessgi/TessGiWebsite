@@ -21,7 +21,7 @@ ANALYTICS = ()   # pelicanconf-live.py will override this
 AUTHOR = u'Thomas Barclay'
 SITENAME = "TESS"
 BANNER_SUBTITLE = "Science Support Center"
-SITEURL = "https://heasarc.gsfc.nasa.gov/docs/tess/"
+SITEURL = "https://heasarc.gsfc.nasa.gov/docs/tess"
 SITELOGO = 'images/NASA_logo_vector_lg.png'
 SITELOGO_SIZE = 32
 FAVICON = 'images/favicon.png'
@@ -155,7 +155,7 @@ RELATEDSITES = (
             ('News, Media, and Education Resources',
              'https://tess.gsfc.nasa.gov/'),
             ('TESS @ MIT',
-             'http://tess.mit.edu'),
+             'http://space.mit.edu'), #links to kavli site for now
             # ('TESS @ Orbital ATK',
             #  'http://www.ballaerospace.com/page.jsp?page=72'),
             ('TESS @ MAST',
