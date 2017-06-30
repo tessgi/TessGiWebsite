@@ -7,7 +7,7 @@ The TESS mission provides the community with an opportunity to make ground-break
 
 
 A description of the overall mission can be found in
-[Ricker et al. 2014](http://adsabs.harvard.edu/abs/2015JATIS...1a4003R). Brief descriptions of the mission operations, including the TESS orbit, field-of-view, time-sampling, and observing strategy, can be found in the [Operations](operations.html) page. Details on all aspects of the mission, developed for GI proposers, are in the [TESS Observatory Guide](docs/TESS_observatory_guide_v1.0.pdf). 
+[Ricker et al. 2014](http://adsabs.harvard.edu/abs/2015JATIS...1a4003R). Brief descriptions of the mission operations, including the TESS orbit, field-of-view, time-sampling, and observing strategy, can be found in the [Operations](operations.html) page. Details on all aspects of the mission, developed for GI proposers, are in the [TESS Observatory Guide](docs/TESS_observatory_guide_v1.1.pdf). 
 
 
 <!-- ## Overview

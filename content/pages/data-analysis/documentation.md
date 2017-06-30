@@ -7,7 +7,7 @@ Save_as: documentation.html
 <table class="table table-striped table-hover" style="max-width:55em;">
 
   <tr>
-    <td style="width: 35em;"><a href='docs/TESS_observatory_guide_v1.0.pdf'>TESS Observatory Guide</a></td>
+    <td style="width: 35em;"><a href='docs/TESS_observatory_guide_v1.1.pdf'>TESS Observatory Guide</a></td>
     <td>Schlieder et al., 2017 (v1.1)</td>
   </tr>
 
@@ -36,7 +36,7 @@ Save_as: documentation.html
 
 
 ## TESS Observatory Guide
-A number of documents have been created to describe the TESS mission. We recommend that users start with the **[TESS Observatory Guide](docs/TESS_observatory_guide_v1.0.pdf)**. This guide serves two purposes. The first is to provide a comprehensive description of the TESS observatory design, operations, and capabilities. The second is to provide potential Guest Investigator (GI) proposers detailed information regarding the TESS GI program. This includes descriptions of GI program procedures, services, and tools. 
+A number of documents have been created to describe the TESS mission. We recommend that users start with the **[TESS Observatory Guide](docs/TESS_observatory_guide_v1.1.pdf)**. This guide serves two purposes. The first is to provide a comprehensive description of the TESS observatory design, operations, and capabilities. The second is to provide potential Guest Investigator (GI) proposers detailed information regarding the TESS GI program. This includes descriptions of GI program procedures, services, and tools. 
 
 
 ## TESS project papers
