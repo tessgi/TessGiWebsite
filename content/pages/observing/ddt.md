@@ -1,7 +1,7 @@
 Title: TESS Director's Discretionary Target (DDT) program
 Save_as: ddt.html
 
-We anticipate that a small percentage of the available TESS resources in each sector may be allocated as Director's Discretionary Targets (DDTs). The primary utilization of DDT programs is in support of community-proposed requests that are based on exceptional, time-critical observing opportunities that cannot be accommodated with the regular proposal cycle. Other DDT usages include innovative observations that extend the scientific capabilities of TESS, and extraordinary events and opportunities that necessitate observations be obtained with TESS for the benefit of the astronomical community. Note that all DDT observations are publicly available immediately, and no funding is available to the proposer for DDT observations. 
+We anticipate that a small percentage of the available TESS resources in each sector may be allocated as Director's Discretionary Targets (DDTs). The primary utilization of DDT programs is in support of community-proposed requests that are based on exceptional, time-critical observing opportunities that cannot be accommodated with the regular proposal cycle. Other DDT usages include innovative observations that extend the scientific capabilities of TESS, and extraordinary events and opportunities that necessitate observations be obtained with TESS for the benefit of the astronomical community. Note that all DDT observations are publicly available immediately, and we anticipate that no funding will be allocated for DDT observations. 
 
 The purpose of the DDT program for TESS is therefore to facilitate observations that address emerging scientific topics or areas missed in the proposal review process and:
 
@@ -9,7 +9,7 @@ The purpose of the DDT program for TESS is therefore to facilitate observations 
 * yield high-impact science from TESS;
 * enhance existing GI programs with additional critical data.
 
-More details of the DDT program will appear here when the program is launched. In the mean-time please contact [tessgi@bigbang.gsfc.nasa.gov](mailto:tessgi@bigbang.gsfc.nasa.gov) with comments and concerns.
+More details of the DDT program will appear here when the program is launched. We anticipate that this will be in time for selection of targets for Sector 3 observations. In the mean-time please contact [tessgi@bigbang.gsfc.nasa.gov](mailto:tessgi@bigbang.gsfc.nasa.gov) with comments and concerns. 
 
 <!-- ## Proposal Information
 

@@ -4,11 +4,11 @@ Save_as: proposing-investigations.html
 [TOC]
 
 
-The TESS Guest Investigator program is intended to enable the community to participate in science investigations using TESS, outside of the [core mission science goals](science.html). The program enables teams to proposal the collection of new 2-minute cadence targets, and provides funding to US investigators to analyze 2-minute cadence and full-frame image data.
+The TESS Guest Investigator program is intended to enable the community to participate in science investigations using TESS, outside of the [core mission science goals](science.html). The program enables teams to propose the collection of new 2-minute cadence targets, and provides funding to US investigators to analyze 2-minute cadence and full-frame image data.
 
-The TESS primary mission duration is two years. The first year is spent in the southern hemisphere and is corresponds to TESS Guest Investigator Program Cycle 1, the second year observed the northern hemisphere and it Cycle 2. During the primary mission, the majority of the 2-minute cadence targets observed will be taken from the [TESS Candidate Target list (CTL)](#candidate-target-list-ctl). In each Cycle 1 around 10,000 2-minute cadence target slots will be assigned to the Guest Investigator Program.
+The TESS primary mission duration is two years. The first year is spent in the southern ecliptic hemisphere and is corresponds to TESS Guest Investigator Program Cycle 1, the second year observed the northern ecliptic hemisphere and it Cycle 2. During the primary mission, the majority of the 2-minute cadence targets observed will be taken from the [TESS Candidate Target list (CTL)](#candidate-target-list-ctl). In each cycle around 10,000 2-minute cadence target slots will be assigned to the Guest Investigator Program.
 
-There will be no exclusive-use data rights to observations collected by  TESS. All data will be made available through the MAST public archive once data processing and validation is complete. 
+There will be no exclusive-use data rights to observations collected by TESS. All data will be made available through the MAST public archive once data processing and validation is complete. 
 
 **Proposals are due at 4.30pm Eastern Time on September 29, 2017.**
 
@@ -145,7 +145,7 @@ Template target tables with the format we require will be **coming soon**.
 
 
 ### Moving targets
-Moving aperture targets should be flagged as requiring special attention at proposal submission. Specify in the comments of the target list that this is a moving target. The proposal should discuss in the science case both the minimum and ideal acceptable duration of observations of the target. We will work with the proposal team to generate a delivery format for their targets of interest. Note that this is only necessary if 2-minute cadence data is requested. 
+Moving aperture targets should be flagged as requiring special handling at proposal submission. Specify in the comments of the target list that this is a moving target. The proposal should discuss in the science case both the minimum and ideal acceptable duration of observations of the target. We will work with the proposal team to generate a delivery format for their targets of interest. Note that this is only necessary if 2-minute cadence data is requested. 
 
 ### Target of Opportunity Observations
 Target of Opportunity Observations (TOOs) of rapidly evolving phenomena whose occurrence is not predictable at the time of the proposal deadline. Due to TESS mission constraints, TOO-triggered target definitions can only be uploaded to the spacecraft during uplinks that occur once every 13.7 days. Details regarding the circumstances in which a TOO is “triggered” must be included in the scientific justification and on the target form. TOO proposals must also include an estimated duration of the event, as well as an estimated probability for triggering the observations; the latter will be used in the accounting of total allocated targets. TOOs remain active during Cycle 1; TOOs not carried out during the cycle may be re-proposed to subsequent solicitations. TOO observations would commence after the spacecraft upload following the trigger event, which could be as long as 2 months after the event. The impact to science of such a potential delay must be addressed in proposals requesting TOO observations. 
