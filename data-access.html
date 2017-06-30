@@ -170,37 +170,38 @@ below.
 <p>The <a href="https://archive.stsci.edu/tess/">TESS mission page at MAST</a> contains the latest news and updates
 on TESS products. The following TESS data products and catalogs will be available
 through MAST:</p>
-<p><strong>Data products at MAST</strong>
-&lt;!-- 
-<em> Two-minute cadence target pixel files
-</em> Two-minute cadence light curves
-<em> Data validation time series files
-</em> Full frame images (calibrated and uncertainty files)
-<em> Cotrending basis vectors files
-</em> Simulated Data files
-<em> Artifact removal pixel files
-</em> Background pixel files
-<em> Auxiliary data for calibration
-</em> Collateral data files
-<em> Reverse clock files
-</em> Ancillary engineering files
-* Latest SPICE kernels (bsp and tsc binary files)</p>
-<p><strong>Catalogs at MAST</strong></p>
-<ul>
-<li>TESS Input Catalog (TIC)</li>
-<li>Candidate Target List (CTL)</li>
-<li>Revised stellar parameters of Kepler targets (Q1-Q16)</li>
-<li>Revised stellar parameters of Kepler targets (Q1-Q17)</li>
-<li>Kepler Objects of Interest (KOI)</li>
-<li>Kepler/GALEX cross match catalog</li>
-<li>False positive working group tables</li>
-<li>Observed targets by quarter
- --&gt;
-The file types are presented in the table below.
+<p><strong>Data products at MAST</strong></p>
+<!-- 
+* Two-minute cadence target pixel files
+* Two-minute cadence light curves
+* Data validation time series files
+* Full frame images (calibrated and uncertainty files)
+* Cotrending basis vectors files
+* Simulated Data files
+* Artifact removal pixel files
+* Background pixel files
+* Auxiliary data for calibration
+* Collateral data files
+* Reverse clock files
+* Ancillary engineering files
+* Latest SPICE kernels (bsp and tsc binary files)
+
+**Catalogs at MAST**
+
+* TESS Input Catalog (TIC)
+* Candidate Target List (CTL)
+* Revised stellar parameters of Kepler targets (Q1-Q16)
+* Revised stellar parameters of Kepler targets (Q1-Q17)
+* Kepler Objects of Interest (KOI)
+* Kepler/GALEX cross match catalog
+* False positive working group tables
+* Observed targets by quarter
+
+ -->
+<p>The file types are presented in the table below.
 <br/>
 <img class="img-responsive" src="images/data/tess_mast_products.png" style="min-width:50%;"/>
-<br/></li>
-</ul>
+<br/></p>
 <!-- The
 [Kepler mission page at NExScI](http://exoplanetarchive.ipac.caltech.edu/docs/KeplerMission.html)
 contains the following products and also details the instructions for
@@ -216,7 +217,7 @@ Kepler data:
 <h2 id="main-data-products">Main data products</h2>
 <p>A variety of data products from TESS will be archived at MAST for guest investigators. </p>
 <h3 id="full-frame-images-ffis">Full frame images (FFIs)</h3>
-<p>A Full Frame Image (FFI) is a collection of science and collateral pixels observed simultaneously.  A single FFI is the full set of all science and collateral pixels across all CCDs of a given camera.  FFIs will be taken every 30 minutes during science operations.</p>
+<p>A Full Frame Image (FFI) is a collection of science and <a href="#collateral-data">collateral</a> pixels observed simultaneously.  A single FFI is the full set of all science and collateral pixels across all CCDs of a given camera.  FFIs will be taken every 30 minutes during science operations.</p>
 <p>There are 16 CCDs on the spacecraft, each of which is supported by 4 output channels. TESS FFI files are in FITS format and contain all pixels on a single CCD in a sequence of 30 minute cadence observations for one observing sector (two orbits, 27.4 days). Thus, a full TESS observing sector consists of 16 FFIs, one for each CCD in each camera. FFI data will be provided in three types: uncalibrated, calibrated, and uncertainty. Uncalibrated FFI data will be provided in one file with two Header/Data Units (HDUs): a primary header and the CCD image header and data. The calibrated image and its uncertainty will be provided in a separate file with several HDUs: a primary header, the CCD calibrated image header and data, the CCD uncertainty image header and data, and the cosmic ray corrections binary table header and data. Cosmic Ray Mitigated (CRM) FFIs are the same as FFIs except they will be collected with the onboard cosmic ray mitigation enabled. </p>
 <p><br/>
 <img class="img-responsive" src="images/data/tess_ccd.png" style="max-width:67%;"/>
@@ -240,7 +241,7 @@ In the binary table, the pixel values are encoded as images. Each element in the
 <p>Auxiliary data consists of focal plane characterization files, engineering and telemetry data used to calibrate the images and determine the status of the spacecraft.</p>
 <p><em>Black level</em>: the mean correction estimated from the virtual black pixel values. There is one metric value per cadence for each CCD readout. </p>
 <p><em>Smear</em>: the correction for shutterless operation. The smear will be less critical for TESS than was needed for Kepler due to the use of frame-transfer in TESS. </p>
-<p><em>Gain model</em>: The linear approximation to the CCD digitizer performance, in units of photoelectrons per digitizer count. Each TESS CCD has its own gain model. Each CCD’s gain model contains separate values for each of the 4 readouts on the CCD.</p>
+<p><em>Gain model</em>: The linear approximation to the CCD digitizer performance, in units of photoelectrons per digitizer count. Each TESS CCD has its own gain model. Each CCD's gain model contains separate values for each of the 4 readouts on the CCD.</p>
 <p><em>Flat field</em>: A model which describes the pixel-to-pixel variation in response to photons. This allows the variations in individual pixel response to be removed in calibration. The flat field model is 2048 x 2048 for each of 16 CCDs.</p>
 <p><em>Linearity</em>: A model which describes the deviations from linearity of the CCD digitizers. Each CCD has its own linearity model with separate values for each of the 4 readouts on the CCD.
  The linearity model is used in conjunction with the gain model of each CCD to convert from a measured number of counts to a flux in photoelectrons.</p>
@@ -309,7 +310,7 @@ In the binary table, the pixel values are encoded as images. Each element in the
                   News, Media, and Education Resources
               </a>
           <br/>
-          <a href="http://tess.mit.edu" target="_blank">
+          <a href="http://space.mit.edu" target="_blank">
                   TESS @ MIT
               </a>
           <br/>
