@@ -116,7 +116,7 @@ MENUITEMS = (
 
 # Defines the "key information" box on the front page
 KEY_INFORMATION = (
-    # ('Status', 'status.html'),
+    ('Contact us', 'helpdesk.html'),
     ('Observatory guidebook', 'documentation.html'),
     ('Frequently asked questions', 'faq.html'),
     ('Volunteer to serve on a review panel',
@@ -126,7 +126,7 @@ KEY_INFORMATION = (
 
 # Defines the "important dates" box on the front page
 IMPORTANT_DATES = (
-            ('<b>28 Jun 2017</b>',
+            ('<b>29 Jun 2017</b>',
              'Release of Cycle 1 call for proposals',
              'proposing-investigations.html'), # link to a new item?
             ('<b>29 Sep 2017</b>',
