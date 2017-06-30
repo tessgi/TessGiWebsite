@@ -19,9 +19,14 @@ Save_as: helpdesk.html
         Dr Elisa Quintana<br>
         Support Scientist
     </div>
-    <div class="col-sm-3 text-center">
+    <div class="col-sm-5 text-center">
         <img src="images/faces/josh.jpg" class="img-circle"><br>
         Dr Josh Schlieder<br>
+        Support Scientist
+    </div>
+    <div class="col-sm-3 text-center">
+        <img src="images/faces/koji.jpg" class="img-circle"><br>
+        Koji Mukai<br>
         Support Scientist
     </div>
 </div>
