@@ -7,6 +7,7 @@ We have developed two pieces of softare to aid in the development of proposals. 
 
 ## Target list creation
 The first stop for TESS GI proposers when preparing their proposals should be the [STScI/MAST TESS pages](https://archive.stsci.edu/tess/). Here, proposers can follow tutorials to learn how to access the Target Input Catalog (TIC) and Candidate Target List (CTL), crossmatch their targets with these catalogs, and create output files with relevant target information required for the GI call. The TESS GI program office requires that if a target is in the TIC, GI proposers must provide only the following columns from the TIC in comma separated value (csv) format:
+
 1. TIC ID (if available)
 2. Right Ascension (decimal degrees)
 3. Declination (decimal degrees)
