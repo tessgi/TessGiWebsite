@@ -59,7 +59,7 @@
                 <div><b><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></b>
                 </div>
                 <span class="categories-timestamp"><time datetime="{{ article.date.isoformat() }}">{{ article.date.strftime("%d %b %Y") }}</time></span>  
-                <div class="summary entry-content" style="padding-top: 0.5em; ">{{ article.summary }}
+                <div class="summary entry-content" style="padding-top: 0.5em; ">{{ article.summary|replace("…","...")}}
                     {% include 'includes/comment_count.html' %}
                     <a class="btn btn-default btn-xs" href="{{ SITEURL }}/{{ article.url }}">More &raquo;</a>
                 </div>
