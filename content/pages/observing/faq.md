@@ -36,12 +36,17 @@ The CTL is not finalized (in fact is will likely evolve even after launch). Howe
 
 The CTL up at MAST is v5. This is the version that will be used when evaluating GI Cycle 1 proposals. This version has a column called priority which is what we will use to evaluate what is in the top 100,000 targets in the southern ecliptic hemisphere. The CTL  v5 at MAST is the version against which proposals will be assessed.
 
-#### **Where can I find the list of these 100,000 targets**
+#### **Where can I find the list of these 100,000 targets?**
 Search the CTL at MAST for targets below ecliptic latitude of 0.0 and sort by priority. To aid this we have made a [file available](data/core-science-targets.csv) that contains the list of the top 100,000 priority targets in the southern ecliptic hemisphere.
 
 #### **What if I can do my science with TESS full frame images, and don't need to propose for targets?**
 
  These proposals will request funding only, and will be allowed under the TESS GI Program.
+
+#### **I have heard that the CTL contains "special lists" of targets. What does that mean, and can my GI proposal include targets that are in those lists?**
+
+All targets in the CTL are included in the full TIC, from which the CTL is drawn. The CTL includes additional observed or calculated stellar properties relevant for transit detection, such as stellar radius. The methods employed to determine these stellar properties are designed for typical main sequence and subgiant stars of type F to M, and might not work reliably for certain other kinds of stars (e.g., white dwarfs). Therefore, the Science Office has assembled "specially curated lists" of specific stars of interest for planet detection, in which the stellar parameters were determined using alternate methods than those used for the bulk of the CTL. More information is available in the [TIC paper](http://adsabs.harvard.edu/abs/2017arXiv170600495S).
+
 
 #### **How will my TESS GI targets be processed?**
 
