@@ -42,7 +42,7 @@ IGNORE_FILES = [
 
 # Enable RSS feeds
 # FEED_DOMAIN = "https://keplerscience.arc.nasa.gov"
-FEED_DOMAIN = ""
+FEED_DOMAIN = "https://heasarc.gsfc.nasa.gov/docs/tess"
 FEED_ALL_ATOM = "feeds/all.atom.xml"
 FEED_ALL_RSS = "feeds/all.rss.xml"
 # We don't need per-author or per-category or per-translation feeds
@@ -70,7 +70,7 @@ STATIC_PATHS = (['images', 'data', 'docs'])
 
 # Directories that contain html files we want to exclude
 # because they are sub-pages included through rst includes
-PAGE_EXCLUDES = ['pages/k2-observing/approved-programs']
+# PAGE_EXCLUDES = ['pages/k2-observing/approved-programs']
 
 # The fancy table of contents sidebar requires a plugin
 PLUGIN_PATHS = [os.path.join(os.path.dirname(os.path.realpath(__file__)),
