@@ -140,9 +140,12 @@ additional columns that should be included if necessary are
 * Special handling flag
 * Remarks
 
-Proposal tools and tips to help create target tables can be found on our [proposal tools page](proposal-tools.html) 
+Proposal tools and tips to help create target tables can be found on our [proposal tools page](proposal-tools.html). We encourage users to follow [this custom tutorial](https://archive.stsci.edu/tess/tutorials/goddard_format.html) provided by the MAST.
 
-Template target tables with the format we require will be **coming soon**.
+We have provided two examples target tables with the format we require.
+
+* [A sample of stars around Alpha Cen](data/MAST_TIC_Proxima_Cen.csv)
+* [The whole of globular cluster Omega Cen](data/omega_cen_target_table.csv)
 
 
 ### Moving targets

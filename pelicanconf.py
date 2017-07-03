@@ -121,6 +121,8 @@ KEY_INFORMATION = (
     ('Frequently asked questions', 'faq.html'),
     ('Volunteer to serve on a review panel',
         'https://goo.gl/forms/p4ZqiTQSEHjbM6nz2'),
+    # ('Cycle 1 Proposal submission',
+    #     '[https://heasarc.gsfc.nasa.gov/ark/rps/'),
     # ('Simulated data', 'data-access.html#simulated-data'),
 ) # make the simulated data link work!
 
