@@ -19,17 +19,17 @@ on astronomical research.
 
 You can access the full publication list:
 
- * <a href="tpub.html">TESS publications &raquo;</a>
+ * [TESS publications &raquo;](tpub.html)
 
 Or seach by topic:
 
- * <a href="tpub-exoplanets.html">Exoplanet publications &raquo;</a>
- * <a href="tpub-astrophysics.html">Astrophysics publications &raquo;</a>
+ * [Exoplanet publications &raquo;](tpub-exoplanets.html)
+ * [Astrophysics publications &raquo;](tpub-astrophysics.html)
 
 If you spot an error in the database, such as a missing entry,
 please get in touch or open an issue in the <a href="https://github.com/tessgi/tpub">GitHub repository</a> of the database.
 
-Last update: 28 Jun 2017.
+Last update: 03 Jul 2017.
 
 <hr/>
 
@@ -177,9 +177,10 @@ within the last 90 days.
 
 -->
 
-## Most-active authors
+<!-- ## Most-active authors
 
 The entries in the publication database have been authored and co-authored
 by a total of 199 unique author names.
 Here we list the most-active authors, defined as those with six or more first-author publications in our database.
 
+-->
