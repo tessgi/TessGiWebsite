@@ -58,7 +58,7 @@ All targets in the CTL are included in the full TIC, from which the CTL is drawn
 
 #### **Where can I send my suggestion for an idea I'd like to see incorporated into the TESS GI Program, or a software tool I'd like to suggest be developed?**
 
- We love feedback! Please contact our [helpdesk](mailto:tessgi@bigbang.gsfc.nasa.gov).
+ We love feedback! Please contact our [helpdesk](https://heasarc.gsfc.nasa.gov/cgi-bin/Feedback).
 
 
  
