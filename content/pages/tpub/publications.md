@@ -114,56 +114,6 @@ Batalha, Natasha, Kalirai, Jason, Lunine, Jonathan, et al.
 Davies, G. R., Miglio, A.    
 [2016AN....337..774D](http://adsabs.harvard.edu/abs/2016AN....337..774D)
 <span class="badge">11 citations</span>
-
-11. THE ASTEROSEISMIC POTENTIAL OF TESS: EXOPLANET-HOST STARS  
-Campante, T. L., Schofield, M., Kuszlewicz, J. S., et al.    
-[2016ApJ...830..138C](http://adsabs.harvard.edu/abs/2016ApJ...830..138C)
-<span class="badge">10 citations</span>
-
-12. PLANET PACKING IN CIRCUMBINARY SYSTEMS  
-Kratter, Kaitlin M., Shannon, Andrew    
-[2014MNRAS.437.3727K](http://adsabs.harvard.edu/abs/2014MNRAS.437.3727K)
-<span class="badge">9 citations</span>
-
-13. SPACEINN HARE-AND-HOUNDS EXERCISE: ESTIMATION OF STELLAR PROPERTIES USING SPACE-BASED ASTEROSEISMIC DATA  
-Reese, D. R., Chaplin, W. J., Davies, G. R., et al.    
-[2016A&A...592A..14R](http://adsabs.harvard.edu/abs/2016A&A...592A..14R)
-<span class="badge">7 citations</span>
-
-14. TRANSIT LIGHT CURVES WITH FINITE INTEGRATION TIME: FISHER INFORMATION ANALYSIS  
-Price, Ellen M., Rogers, Leslie A.    
-[2014ApJ...794...92P](http://adsabs.harvard.edu/abs/2014ApJ...794...92P)
-<span class="badge">5 citations</span>
-
-15. THE EB FACTORY PROJECT. II. VALIDATION WITH THE KEPLER FIELD IN PREPARATION FOR K2 AND TESS  
-Parvizi, Mahmoud, Paegert, Martin, Stassun, Keivan G.    
-[2014AJ....148..125P](http://adsabs.harvard.edu/abs/2014AJ....148..125P)
-<span class="badge">3 citations</span>
-
-16. COMBINING PHOTOMETRY FROM KEPLER AND TESS TO IMPROVE SHORT-PERIOD EXOPLANET CHARACTERIZATION  
-Placek, Ben, Knuth, Kevin H., Angerhausen, Daniel    
-[2016PASP..128g4503P](http://adsabs.harvard.edu/abs/2016PASP..128g4503P)
-<span class="badge">3 citations</span>
-
-17. COMPARATIVE HABITABILITY OF TRANSITING EXOPLANETS  
-Barnes, Rory, Meadows, Victoria S., Evans, Nicole    
-[2015ApJ...814...91B](http://adsabs.harvard.edu/abs/2015ApJ...814...91B)
-<span class="badge">2 citations</span>
-
-18. TRANSIT CLAIRVOYANCE: ENHANCING TESS FOLLOW-UP USING ARTIFICIAL NEURAL NETWORKS  
-Kipping, David M., Lam, Christopher    
-[2017MNRAS.465.3495K](http://adsabs.harvard.edu/abs/2017MNRAS.465.3495K)
-<span class="badge">1 citations</span>
-
-19. CEPHEIDS WITH THE EYES OF PHOTOMETRIC SPACE TELESCOPES  
-Molnár, L., Pál, A., Plachy, E.    
-[2017arXiv170302421M](http://adsabs.harvard.edu/abs/2017arXiv170302421M)
-<span class="badge">1 citations</span>
-
-20. A HIGH EARTH, LUNAR RESONANT ORBIT FOR LOWER COST SPACE SCIENCE MISSIONS  
-Gangestad, Joseph W., Henning, Gregory A., Persinger, Randy R., et al.    
-[2013arXiv1306.5333G](http://adsabs.harvard.edu/abs/2013arXiv1306.5333G)
-<span class="badge">1 citations</span>
 <hr/>
 
 <!-- 
