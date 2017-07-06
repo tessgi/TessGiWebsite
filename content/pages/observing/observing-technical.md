@@ -57,7 +57,7 @@ is between 20% and 62% with a median value of 45%. -->
 
 ### Typical noise levels
 
-A noise model for TESS photometry (figure below) shows the expected standard deviation of measurements of relative flux, as a function of apparent magnitude, based on 1 hr of data (Sullivan et al. 2015). For the brightest stars, the precision is limited by the systematic noise floor of 60 ppm. For the faintest stars, the precision is limited by noise from the zodiacal light (shown here for an ecliptic latitude of 30°). Over the range of apparent magnitudes > 8–13, the photon-counting noise from the star is the dominant source of uncertainty.
+A noise model for TESS photometry (figure below) shows the expected standard deviation of measurements of relative flux, as a function of apparent magnitude, based on 1 hr of data (Sullivan et al. 2015). For the brightest stars, the precision is limited by the systematic noise floor of 60 ppm. For the faintest stars, the precision is limited by noise from the zodiacal light (shown here for an ecliptic latitude of 30 deg). Over the range of apparent magnitudes 8–13, the photon-counting noise from the star is the dominant source of uncertainty.
 
 <br/>
 <img class="img-responsive" style="max-width:67%;" src="images/giprogram/tess_photometric_performance.png">
@@ -79,7 +79,7 @@ For fainter stars, such as a 16th magnitude star, the photometric precision drop
 *Image Credit: Zach Berta-Thompson with data from Sullivan at al. (2015)*
 
 ### Saturation
-Saturation is anticipated in the central pixel at I_C = 7.5. This, however, does not represent the bright limit for precise photometry. Excess charge from saturated pixels is conserved and spread across adjacent pixels in a CCD column until the excess reaches a CCD boundary. This leads to “bleed trails” extending above and below a saturated pixel, similar to what is seen for bright stars in Kepler/K2 photometry. Precision photometry can still be achieved by creating a photometric aperture that is large enough to encompass all excess charge and the TESS bright limit is anticipated to be I_C ≅ 4.
+Saturation is anticipated in the central pixel at I_C = 7.5. This, however, does not represent the bright limit for precise photometry. Excess charge from saturated pixels is conserved and spread across adjacent pixels in a CCD column until the excess reaches a CCD boundary. This leads to "bleed trails" extending above and below a saturated pixel, similar to what is seen for bright stars in Kepler/K2 photometry. Precision photometry can still be achieved by creating a photometric aperture that is large enough to encompass all excess charge and the TESS bright limit is anticipated to be I_C=4.
 
 <!-- ### Solar pressure-induced drift
 
@@ -94,7 +94,7 @@ Saturation is anticipated in the central pixel at I_C = 7.5. This, however, does
 
 
 ### Crowding
-Because the TESS pixels are large (21”), the TESS photometry for many targets will be contaminated by nearby objects. One of the goals of the TIC is to provide the information needed to estimate the contamination in the TESS band. This cannot be determined accurately ahead of time because it will depend on the pixels selected for the aperture photometry of each target and the exact position of the target in the aperture. However, it is possible for the TIC to provide some guidance concerning the level of expected contamination, for example by providing the number of known objects and their total brightness in the TESS band for some suitable standard aperture and photometer Pixel Response Function (PRF). 
+Because the TESS pixels are large (21 arcsec), the TESS photometry for many targets will be contaminated by nearby objects. One of the goals of the TIC is to provide the information needed to estimate the contamination in the TESS band. This cannot be determined accurately ahead of time because it will depend on the pixels selected for the aperture photometry of each target and the exact position of the target in the aperture. However, it is possible for the TIC to provide some guidance concerning the level of expected contamination, for example by providing the number of known objects and their total brightness in the TESS band for some suitable standard aperture and photometer Pixel Response Function (PRF). 
 
 
 ### Sky coverage
