@@ -117,7 +117,7 @@ MENUITEMS = (
 # Defines the "key information" box on the front page
 KEY_INFORMATION = (
     ('Contact us', 'helpdesk.html'),
-    ('Observatory guidebook', 'documentation.html'),
+    ('Observatory Guide', 'documentation.html'),
     ('Frequently asked questions', 'faq.html'),
     ('Volunteer to serve on a review panel',
         'https://goo.gl/forms/p4ZqiTQSEHjbM6nz2'),
