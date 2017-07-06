@@ -23,13 +23,13 @@ You can access the full publication list:
 
 Or seach by topic:
 
- * [Exoplanet publications &raquo;](tpub-exoplanets.html)
- * [Astrophysics publications &raquo;](tpub-astrophysics.html)
+ * [Exoplanet publications&nbsp&raquo;](tpub-exoplanets.html)
+ * [Astrophysics publications&nbsp&raquo;](tpub-astrophysics.html)
 
 If you spot an error in the database, such as a missing entry,
 please get in touch or open an issue in the <a href="https://github.com/tessgi/tpub">GitHub repository</a> of the database.
 
-Last update: 05 Jul 2017.
+Last update: 06 Jul 2017.
 
 <hr/>
 
