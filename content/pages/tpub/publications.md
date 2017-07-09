@@ -29,7 +29,7 @@ Or seach by topic:
 If you spot an error in the database, such as a missing entry,
 please get in touch or open an issue in the <a href="https://github.com/tessgi/tpub">GitHub repository</a> of the database.
 
-Last update: 06 Jul 2017.
+Last update: 09 Jul 2017.
 
 <hr/>
 
@@ -60,7 +60,7 @@ pertain to other areas of astrophysics
 ## Most-cited publications
 
 TESS publications have cumulatively been cited
-383 times.
+398 times.
 The list below shows the most-cited publications,
 based on the citation count obtained from NASA ADS.
 
@@ -68,12 +68,12 @@ based on the citation count obtained from NASA ADS.
 1. TRANSITING EXOPLANET SURVEY SATELLITE (TESS)  
 Ricker, George R., Winn, Joshua N., Vanderspek, Roland, et al.    
 [2015JATIS...1a4003R](http://adsabs.harvard.edu/abs/2015JATIS...1a4003R)
-<span class="badge">140 citations</span>
+<span class="badge">146 citations</span>
 
 2. THE TRANSITING EXOPLANET SURVEY SATELLITE: SIMULATIONS OF PLANET DETECTIONS AND ASTROPHYSICAL FALSE POSITIVES  
 Sullivan, Peter W., Winn, Joshua N., Berta-Thompson, Zachory K., et al.    
 [2015ApJ...809...77S](http://adsabs.harvard.edu/abs/2015ApJ...809...77S)
-<span class="badge">63 citations</span>
+<span class="badge">68 citations</span>
 
 3. CHARACTERIZING TRANSITING PLANET ATMOSPHERES THROUGH 2025  
 Cowan, N. B., Greene, T., Angerhausen, D., et al.    
@@ -90,15 +90,15 @@ Ricker, G. R.
 [2014JAVSO..42..234R](http://adsabs.harvard.edu/abs/2014JAVSO..42..234R)
 <span class="badge">19 citations</span>
 
-6. THE K2-TESS STELLAR PROPERTIES CATALOG  
+6. A SURVEY FOR VERY SHORT-PERIOD PLANETS IN THE KEPLER DATA  
+Jackson, Brian, Stark, Christopher C., Adams, Elisabeth R., et al.    
+[2013ApJ...779..165J](http://adsabs.harvard.edu/abs/2013ApJ...779..165J)
+<span class="badge">16 citations</span>
+
+7. THE K2-TESS STELLAR PROPERTIES CATALOG  
 Stassun, Keivan G., Pepper, Joshua A., Oelkers, Ryan, et al.    
 [2014arXiv1410.6379S](http://adsabs.harvard.edu/abs/2014arXiv1410.6379S)
 <span class="badge">16 citations</span>
-
-7. A SURVEY FOR VERY SHORT-PERIOD PLANETS IN THE KEPLER DATA  
-Jackson, Brian, Stark, Christopher C., Adams, Elisabeth R., et al.    
-[2013ApJ...779..165J](http://adsabs.harvard.edu/abs/2013ApJ...779..165J)
-<span class="badge">14 citations</span>
 
 8. RADIAL VELOCITY PROSPECTS CURRENT AND FUTURE: A WHITE PAPER REPORT PREPARED BY THE STUDY ANALYSIS GROUP 8 FOR THE EXOPLANET PROGRAM ANALYSIS GROUP (EXOPAG)  
 Plavchan, Peter, Latham, Dave, Gaudi, Scott, et al.    
