@@ -147,9 +147,15 @@ MEETINGS = (
             # ('<b>19–23 Jun 2017</b><br>'
             #  'Kepler & K2 SciCon IV',
             #  'https://keplerscience.arc.nasa.gov/scicon4/'),
-            ('<b>16-21 Jul 2017</b><br>'
+            ('<b>16-21 July 2017</b><br>'
              'Tessting Stellar Astrophysics, TASC3 KASC10 Workshop',
              'http://www.tasc3kasc10.com/'),
+            ('<b>17-21 July 2017</b><br>'
+             'Transiting Exoplanets',
+             'https://wasp-planets.net/conference/'),
+            ('<b>15–20 October 2017</b><br>'
+             '49th Meeting of the AAS Division for Planetary Sciences',
+             'https://aas.org/meetings/dps49'),
             )
 
 # Defines the "related websites" listing in the footer of all pages
