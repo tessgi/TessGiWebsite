@@ -13,7 +13,7 @@ At least 20,000 targets will be available to the GI program during the course of
 
 #### **Will funds also be available?**
 
-Yes. TESS Guest Investigators at US Institutions may apply for funding to support their TESS Investigations. There are two levels of funding: small programs receive approximately $50,000 and large programs receive $200,000
+Yes. TESS Guest Investigators at US Institutions may apply for funding to support their TESS Investigations. There are two levels of funding: small programs and large programs. We anticipate that a small program award will be $50,000 and a typical large program award will be around $200,000.
 
 #### **What if I have an interesting and timely TESS target that needs to be observed quickly, once TESS is launched?**
 
