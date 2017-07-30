@@ -13,7 +13,7 @@ and tips on
 inspecting and analyzing TESS data, [users should check out this page](software.html).
 
 We encourage users of TESS data to read through the
-[documentation associated with the TESS data products](documentation.html). The first port of call for the TESS user is the [TESS Observatory Handbook](link!!). 
+[documentation associated with the TESS data products](documentation.html). The first port of call for the TESS user is the [TESS Observatory Handbook](docs/TESS_observatory_guide_v1.1.pdf). 
 
 
 
