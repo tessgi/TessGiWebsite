@@ -155,7 +155,7 @@ Auxiliary data consists of focal plane characterization files, engineering and t
 Co-trending basis vectors (CBVs) represent the set of systematic trends present in the ensemble flux data. CBVs will be provided for each operational sector of the mission. These are derived by the TESS pipeline from a Principle Component Analysis and used to mitigate systematic artifacts within the the target light curves. If TESS users see residual systematic problems within their light curve data, the CBVs can be employed in performing a manual photometric correction, more tailored towards the user's science. 
 
 ### Point Spread Functions (PSFs)
-PDf models will be available at the MAST. The timeframe for this is somewhat uncertain.
+PSF models will be available at the MAST. The timeframe for this is somewhat uncertain.
 
 ### Simulated Data
 During development of space mission, the ground-segment goes through several tests known as Ground System Interface Test (GSIT). To aid potential TESS users in the development of tools and to assess the feasibility of investigations, the mission is planning to make available data from the GSIT-2 test. This will be available from the [MAST](https://archive.stsci.edu/tess). The anticipated date for this being made available is July 2017.
