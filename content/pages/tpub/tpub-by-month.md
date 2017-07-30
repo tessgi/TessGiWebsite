@@ -11,6 +11,10 @@ Save_as: tpub-by-month.html
 Gaidos, E., Kitzmann, D., Heng, K.    
 2017, refereed ([2017MNRAS.468.3418G](http://adsabs.harvard.edu/abs/2017MNRAS.468.3418G))  
 
+2. [THE TESS-HERMES SURVEY DATA RELEASE 1: HIGH-RESOLUTION SPECTROSCOPY OF THE TESS SOUTHERN CONTINUOUS VIEWING ZONE](http://adsabs.harvard.edu/abs/2017arXiv170705753S)  
+Sharma, Sanjib, Stello, Dennis, Buder, Sven, et al.    
+2017, pre-print ([2017arXiv170705753S](http://adsabs.harvard.edu/abs/2017arXiv170705753S))  
+
 
 2017-06
 -------
@@ -106,6 +110,10 @@ Reese, D. R., Chaplin, W. J., Davies, G. R., et al.
 2. [COMBINING PHOTOMETRY FROM KEPLER AND TESS TO IMPROVE SHORT-PERIOD EXOPLANET CHARACTERIZATION](http://adsabs.harvard.edu/abs/2016PASP..128g4503P)  
 Placek, Ben, Knuth, Kevin H., Angerhausen, Daniel    
 2016, refereed ([2016PASP..128g4503P](http://adsabs.harvard.edu/abs/2016PASP..128g4503P))  
+
+3. [THE TRANSITING EXOPLANET SURVEY SATELLITE](http://adsabs.harvard.edu/abs/2016SPIE.9904E..2BR)  
+Ricker, G. R., Vanderspek, R., Winn, J., et al.    
+2016, not refereed ([2016SPIE.9904E..2BR](http://adsabs.harvard.edu/abs/2016SPIE.9904E..2BR))  
 
 
 2015-12

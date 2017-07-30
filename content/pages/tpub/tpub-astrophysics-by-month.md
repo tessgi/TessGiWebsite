@@ -4,6 +4,14 @@ Save_as: tpub-astrophysics-by-month.html
 [TOC]
 
 
+2017-07
+-------
+
+1. [THE TESS-HERMES SURVEY DATA RELEASE 1: HIGH-RESOLUTION SPECTROSCOPY OF THE TESS SOUTHERN CONTINUOUS VIEWING ZONE](http://adsabs.harvard.edu/abs/2017arXiv170705753S)  
+Sharma, Sanjib, Stello, Dennis, Buder, Sven, et al.    
+2017, pre-print ([2017arXiv170705753S](http://adsabs.harvard.edu/abs/2017arXiv170705753S))  
+
+
 2017-06
 -------
 

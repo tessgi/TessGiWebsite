@@ -39,6 +39,10 @@ Quinn, Samuel N., White, Russel J.
 Placek, Ben, Knuth, Kevin H., Angerhausen, Daniel    
 2016, refereed ([2016PASP..128g4503P](http://adsabs.harvard.edu/abs/2016PASP..128g4503P))  
 
+3. [THE TRANSITING EXOPLANET SURVEY SATELLITE](http://adsabs.harvard.edu/abs/2016SPIE.9904E..2BR)  
+Ricker, G. R., Vanderspek, R., Winn, J., et al.    
+2016, not refereed ([2016SPIE.9904E..2BR](http://adsabs.harvard.edu/abs/2016SPIE.9904E..2BR))  
+
 
 2015
 ----
