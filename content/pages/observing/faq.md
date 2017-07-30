@@ -21,7 +21,7 @@ Target of opportunity proposals are solicited for rapidly evolving phenomena who
 after the event. The impact to science of such a potential delay must be addressed in
 proposals requesting ToO observations. These proposals are submitted during the regular cycle and are eligible for funding.
 
-Additionally, about 10% of the GI targets will be reserved for rapid turn-around, Director's Discretionary Time (DDT). If your target can't wait for the next GI proposal cycle, then DDT is the route for you.
+Additionally, a fraction of the GI targets will be reserved for rapid turn-around, Director's Discretionary Time (DDT). If your target can't wait for the next GI proposal cycle, then DDT is the route for you.
 
 #### **Will there be any proprietary time period for GI targets?**
 
