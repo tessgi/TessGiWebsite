@@ -13,7 +13,7 @@ At least 20,000 targets will be available to the GI program during the course of
 
 #### **Will funds also be available?**
 
-Yes. TESS Guest Investigators at US Institutions may apply for funding to support their TESS Investigations. There are two levels of funding: small programs receive approximately $50,000 and large programs receive $200,000
+Yes. TESS Guest Investigators at US Institutions may apply for funding to support their TESS Investigations. There are two levels of funding: small programs and large programs. We anticipate that a small program award will be $50,000 and a typical large program award will be around $200,000.
 
 #### **What if I have an interesting and timely TESS target that needs to be observed quickly, once TESS is launched?**
 
@@ -21,7 +21,7 @@ Target of opportunity proposals are solicited for rapidly evolving phenomena who
 after the event. The impact to science of such a potential delay must be addressed in
 proposals requesting ToO observations. These proposals are submitted during the regular cycle and are eligible for funding.
 
-Additionally, about 10% of the GI targets will be reserved for rapid turn-around, Director's Discretionary Time (DDT). If your target can't wait for the next GI proposal cycle, then DDT is the route for you.
+Additionally, a fraction of the GI targets will be reserved for rapid turn-around, [Director's Discretionary Time (DDT)](ddt.html). If your target can't wait for the next GI proposal cycle, then DDT is the route for you.
 
 #### **Will there be any proprietary time period for GI targets?**
 
