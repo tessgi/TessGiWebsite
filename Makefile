@@ -103,4 +103,4 @@ tpub:
 	git add content/pages/tpub/* content/images/tpub/*
 	git commit -m "Publication stats update"
 
-.PHONY: html html-dev html-live help clean regenerate serve devserver ssh_upload rsync_upload github live kpub
+.PHONY: html html-dev html-live help clean regenerate serve devserver ssh_upload rsync_upload github live kpub quinn
