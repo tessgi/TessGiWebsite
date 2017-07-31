@@ -236,9 +236,9 @@ The TESS GI program uses a two-phase proposal process. A Phase-1 proposal shall 
 
 * Target tables for all observation proposals are to be submitted through ARK/RPS; 
 
-* The Scientific/Technical/Management section of proposals is limited to four pages. No table of contents in the body of the proposal is required. No supporting material (e.g., curriculum vitae (CV), pending/current support) is required or permitted; 
+* The Scientific/Technical/Management section of proposals is limited to four pages, this includes references. No table of contents in the body of the proposal is required. No supporting material (e.g., curriculum vitae (CV), pending/current support) is required or permitted; 
 
-* Optional Latex and MS Word templates for the Scientific/Technical/Management are available
+* An optional [MS Word template for the Scientific/Technical/Management is available](docs/tessgi_template.docx)
 
 * The Scientific/Technical/Management section must be uploaded to the RPS website as a PDF file.
 
@@ -412,7 +412,7 @@ mandatory for US investigators. When completing the proposal, there are a few ob
 
 ### Proposal templates
 
-We will make available templates to aid users in writing GI proposal. Use of these templates is not required. **They are coming soon**.
+We have made available an [MS word template](docs/tessgi_template.docx) to aid users in writing GI proposal. Use of this templates is not required. 
 
 <!-- * [MS Word]()
 * [Apple Pages]()
