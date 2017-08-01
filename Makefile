@@ -95,12 +95,10 @@ live: html-live
 	ghp-import -m "Generate live site" -b $(GITHUB_LIVE_BRANCH) $(OUTPUTDIR)
 	git push origin $(GITHUB_LIVE_BRANCH)
 
-quinn: 
+quinn: live
+	git push quinn live
 	git push quinn master
-	html-dev
-	git push quinn $(GITHUB_PAGES_BRANCH)
-	html-live
-	git push quinn $(GITHUB_LIVE_BRANCH)
+
 
 
 tpub:
