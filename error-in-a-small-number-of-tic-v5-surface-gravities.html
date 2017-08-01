@@ -7,7 +7,7 @@ in August 2015, using pelican-bootstrap and flatly.
 >
 
 <head>
-    <title>TESS to fly with slightly out of focus cameras - TESS</title>
+    <title>Error in a small number of TIC v5 surface gravities - TESS</title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
@@ -31,16 +31,16 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <link href="./images/favicon.png" rel="icon">
 
-<link rel="canonical" href="./tess-to-fly-with-slightly-out-of-focus-cameras.html">
+<link rel="canonical" href="./error-in-a-small-number-of-tic-v5-surface-gravities.html">
 
         <meta name="author" content="Tom Barclay" />
-        <meta name="description" content="Recent tests at MIT have shown the cameras on TESS are slightly out of focus when placed in the cold temperatures of space where it will be operating. After a thorough engineering evaluation, NASA have concluded TESS can fully accomplish its science mission with the cameras as they are, and …" />
+        <meta name="description" content="The surface gravities reported in column 67 of the TESS Input Catalog version 5 (TIC-5), do not accurately represent the expected surface gravities using the reported values for mass (column 73) and radii (column 71). This only affects stars where the stellar properties were calculated using available parallax information (the …" />
 
         <meta property="og:site_name" content="TESS" />
         <meta property="og:type" content="article"/>
-        <meta property="og:title" content="TESS to fly with slightly out of focus cameras"/>
-        <meta property="og:url" content="./tess-to-fly-with-slightly-out-of-focus-cameras.html"/>
-        <meta property="og:description" content="Recent tests at MIT have shown the cameras on TESS are slightly out of focus when placed in the cold temperatures of space where it will be operating. After a thorough engineering evaluation, NASA have concluded TESS can fully accomplish its science mission with the cameras as they are, and …"/>
+        <meta property="og:title" content="Error in a small number of TIC v5 surface gravities"/>
+        <meta property="og:url" content="./error-in-a-small-number-of-tic-v5-surface-gravities.html"/>
+        <meta property="og:description" content="The surface gravities reported in column 67 of the TESS Input Catalog version 5 (TIC-5), do not accurately represent the expected surface gravities using the reported values for mass (column 73) and radii (column 71). This only affects stars where the stellar properties were calculated using available parallax information (the …"/>
         <meta property="article:published_time" content="2017-08-01" />
             <meta property="article:section" content="news" />
             <meta property="article:author" content="Tom Barclay" />
@@ -67,6 +67,13 @@ in August 2015, using pelican-bootstrap and flatly.
 <body>
 
 <!-- Print a warning message that this is not the official site -->
+<div class="container container-wide" style="background-color: #d35400; color: white; padding: 1.5em; font-weight: bold;">
+  <div class="container">
+   <i class="fa fa-warning fa-lg fa-margin"></i>
+    This is the development version of the TESS Science Support Center website.
+    For the live website, visit <a href="https://heasarc.gsfc.nasa.gov/docs/tess/">https://heasarc.gsfc.nasa.gov/docs/tess</a>
+  </div>
+</div>
 
 <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
 
@@ -138,10 +145,10 @@ in August 2015, using pelican-bootstrap and flatly.
         <article>
             <header >
                 <h1>
-                    <a href="./tess-to-fly-with-slightly-out-of-focus-cameras.html"
+                    <a href="./error-in-a-small-number-of-tic-v5-surface-gravities.html"
                        rel="bookmark"
-                       title="Permalink to TESS to fly with slightly out of focus cameras">
-                        TESS to fly with slightly out of focus cameras
+                       title="Permalink to Error in a small number of TIC v5 surface gravities">
+                        Error in a small number of TIC v5 surface gravities
                     </a>
                 </h1>
             </header>
@@ -149,7 +156,7 @@ in August 2015, using pelican-bootstrap and flatly.
 <p style="margin-bottom: 1.5em;">
     <span class="published categories-timestamp">
         News article posted on
-        <time datetime="2017-08-01T10:00:00-04:00"> 01 Aug 2017</time>
+        <time datetime="2017-08-01T14:00:00-04:00"> 01 Aug 2017</time>
     
 
 
@@ -160,7 +167,9 @@ in August 2015, using pelican-bootstrap and flatly.
     
 
     </span>
-</p><!-- /.post-info -->                <p>Recent tests at MIT have shown the cameras on TESS are slightly out of focus when placed in the cold temperatures of space where it will be operating. After a thorough engineering evaluation, NASA have concluded TESS can fully accomplish its science mission with the cameras as they are, and we will proceed with current integration activities. Information on the impact that this will have on photometric precision will be forthcoming. The largest impact will be to faint stars and the impact relatively minimal for most stars brighter than about 13th magnitude.</p>
+</p><!-- /.post-info -->                <p>The surface gravities reported in column 67 of the TESS Input Catalog version 5 (TIC-5), do not accurately represent the expected surface gravities using the reported values for mass (column 73) and radii (column 71). This only affects stars where the stellar properties were calculated using available parallax information (the stellar properties flag is set to "plx" in column 64 and no other quantities in the TIC are affected. TIC users can either calculate the surface gravity using the provided mass and radius values, or use a <a href="http://archive.stsci.edu/missions/tess/catalogs/tic_v5/tic5_logg_fix.csv">provided data file</a> to access the appropriately calculated values. This fix will be built in to the next version of the TIC, version 6.</p>
+<p>Additionally, for TIC v5, numerical columns with values of exactly 0 are actually null values. Starting in TIC v6, these will be properly set to null, but due to a translation error they have been assigned values of exactly 0 in TIC v5 at MAST.</p>
+<p>Up to date TIC information is available from the <a href="http://archive.stsci.edu/tess/tic_doc.html">MAST TIC documentation page</a>.</p>
             </div>
             <!-- /.entry-content -->
         </article>
@@ -237,8 +246,6 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <script src="./theme/js/bodypadding.js"></script>
 <!-- Analytics scripts -->
-<script language="javascript" id="_fed_an_ua_tag" src="//dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=NASA"></script>
-<script language="javascript" id="_fed_an_ua_tag" src="//dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=NASA&subagency=GSFC&dclink=true"></script>
 
 
 </body>
