@@ -3,14 +3,13 @@ Save_as: proposing-investigations.html
 
 [TOC]
 
-
 The TESS Guest Investigator program is intended to enable the community to participate in science investigations using TESS, outside of the [core mission science goals](primary-science.html). The program enables teams to propose the collection of new 2-minute cadence targets, and provides funding to US investigators to analyze 2-minute cadence and full-frame image data.
 
 The TESS primary mission duration is two years. The first year is spent in the southern ecliptic hemisphere and is corresponds to TESS Guest Investigator Program Cycle 1, the second year observed the northern ecliptic hemisphere and it Cycle 2. During the primary mission, the majority of the 2-minute cadence targets observed will be taken from the [TESS Candidate Target list (CTL)](#candidate-target-list-ctl). In each cycle around 10,000 2-minute cadence target slots will be assigned to the Guest Investigator Program.
 
 There will be no exclusive-use data rights to observations collected by TESS. All data will be made available through the MAST public archive once data processing and validation is complete. 
 
-**Proposals are due at 4.30pm Eastern Time on September 29, 2017.**
+**Proposals are due at 4.30pm Eastern Time on September 29, 2017.** Proposal must be submitted via the [Research Proposal System](https://heasarc.gsfc.nasa.gov/ark/rps/).
 
 ### Permitted science areas
 
@@ -232,13 +231,15 @@ to account for the recent changes to Campaign 16. <br/>
 ### Submission process
 The TESS GI program uses a two-phase proposal process. A Phase-1 proposal shall comprise the science/technical justification; proposals requesting funds need to include a budget narrative, describing in sufficient detail how the proposed funds will be used to achieve the goals outlined in the proposal. Only proposers whose Phase-1 proposals are accepted will be invited to submit budget proposals in Phase-2. It is not necessary for the PI of the Phase-2 proposal to be the science PI. Proposal content, including the list of investigators, must remain consistent between Phase-1 and Phase-2 proposals. All proposal materials will be submitted electronically. 
 
-* All Proposers must submit their Phase-1 proposals electronically through the [Astrophysics Research Knowledgebase (ARK)/ Remote Proposal System (RPS) website](http://heasarc.gsfc.nasa.gov/ark/rps/);
+* All Proposers must submit their Phase-1 proposals electronically through the [Astrophysics Research Knowledgebase (ARK)/ Remote Proposal System (RPS) website](http://heasarc.gsfc.nasa.gov/ark/rps/). If you haven’t used ARK/RPS before, get an account now (it’s easy, but don’t wait till the last minute);
 
-* Target tables for all observation proposals are to be submitted through ARK/RPS; 
+* You must "verify" the form, and pass the checks, before you can submit your proposal.
 
-* The Scientific/Technical/Management section of proposals is limited to four pages, this includes references. No table of contents in the body of the proposal is required. No supporting material (e.g., curriculum vitae (CV), pending/current support) is required or permitted; 
+* Target tables for 2-min cadence observation proposals are to be submitted through ARK/RPS. There are two different ways to provide your target list: Into the RPS target form itself, or as a separate CSV file upload - the latter will only become possible after you submit your RPS form.
 
-* An optional [MS Word template for the Scientific/Technical/Management is available](docs/tessgi_template.docx)
+* The Scientific/Technical/Management section of proposals is limited to four pages, this includes references. No table of contents in the body of the proposal is required. No supporting material (e.g., curriculum vitae (CV), pending/current support) is required or permitted. An fifth page can be used for a target table only.
+
+* An optional [MS Word template for the Scientific/Technical/Management is available](docs/tessgi_template.docx).
 
 * The Scientific/Technical/Management section must be uploaded to the RPS website as a PDF file.
 
@@ -412,12 +413,11 @@ mandatory for US investigators. When completing the proposal, there are a few ob
 
 ### Proposal templates
 
-We have made available an [MS word template](docs/tessgi_template.docx) to aid users in writing GI proposal. Use of this templates is not required. 
+We have made available proposal templates to aid users in writing GI proposals to aid users in writing GI proposal. Use of these templates is not required. 
 
-<!-- * [MS Word]()
-* [Apple Pages]()
-* [Latex]()
-* [Google Docs]() -->
+* [MS Word](docs/tessgi_template.docx)
+* [Latex](docs/tessgi_template.tex)
+* [PDF](docs/tessgi_template.pdf)
 
 ### Director's Discretionary Targets
 
