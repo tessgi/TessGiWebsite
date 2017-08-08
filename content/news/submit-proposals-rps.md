@@ -14,6 +14,6 @@ A few things to note are:
 
 * You can discard/modify submitted proposals up until the deadline.
 
-* If you’re asking fo 2-min data, note that there are two different ways to provide your target list: Into the RPS target form itself, or as a separate CSV file upload - the latter will only become possible after you submit your RPS form.
+* If you’re asking for 2-min data, note that there are two different ways to provide your target list: Into the RPS target form itself, or as a separate CSV file upload - the latter will only become possible after you submit your RPS form.
 
 Good luck!
