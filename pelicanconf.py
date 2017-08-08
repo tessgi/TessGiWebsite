@@ -116,6 +116,7 @@ MENUITEMS = (
 
 # Defines the "key information" box on the front page
 KEY_INFORMATION = (
+    ('Proposal submission page', 'https://heasarc.gsfc.nasa.gov/ark/rps/'),
     ('Contact us', 'helpdesk.html'),
     ('Observatory Guide', 'documentation.html'),
     ('Frequently asked questions', 'faq.html'),
