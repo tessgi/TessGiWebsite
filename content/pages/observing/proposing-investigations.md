@@ -65,12 +65,12 @@ mission and instrument teams.
 
 ### Availability of funds
 
-It is anticipated that up to $2.5M in Cycle 1 will be available through this solicitation for the support of approximately 30 Guest Investigations. Note that additional unfunded Guest Investigation targets may be selected and observed, if target resources permit. TESS 2-minute cadence observations are open to all scientists at U.S. or non-U.S. institutions. TESS GI funding is open to all individuals who are identified as Principal Investigators and employed at U.S. institutions, including TESS science team members. Scientists participating in the TESS mission, including members of the Follow-up Team who are not funded by the Project, are eligible for support under this GI Program. TESS science team members who already receive support from the Project must provide a compelling justification for the award of additional funds under the GI Program. 
+It is anticipated that up to $2.5M in Cycle 1 will be available through this solicitation for the support of approximately 30 Guest Investigations. Note that additional unfunded Guest Investigation targets may be selected and observed, if target resources permit. TESS 2-minute cadence observations are open to all scientists at U.S. or non-U.S. institutions. TESS GI funding is open to all individuals who are identified as Principal Investigators and employed at U.S. institutions. Scientists participating in the TESS mission, including members of the Follow-up Team, are permitted to propose to the GI program and are subject to the same program rules as the rest of the science community. 
 
-There are typically two categories of TESS GI proposals, investigators are free to select the catagory that best reflects their scope of their proposed work.
+There are typically two categories of TESS GI proposals, investigators are free to select the catagory that best reflects their scope of their proposed work. The dollar amounts assigned to each proposal catagory are typical award amounts and not upper limits.
 
- * Small proposals - proposals of limited scope and have budgets of around $50,000. 
- * Large proposals - proposal of wide-ranging scope and science yield. Large proposals must deliver a clear benefit for the broader scientific community have budgets of approximately $200,000
+ * Small proposals - proposals of limited scope and have typical budgets of a approximately $50,000. 
+ * Large proposals - proposal of wide-ranging scope and science yield. Large proposals must deliver a clear benefit for the broader scientific community have typical budgets of approximately $200,000
 
 Funding for selected programs typically starts upon availability 
 of data to the public archive 
