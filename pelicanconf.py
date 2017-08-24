@@ -154,15 +154,24 @@ MEETINGS = (
             # ('<b>17-21 July 2017</b><br>'
             #  'Transiting Exoplanets',
             #  'https://wasp-planets.net/conference/'),
-            ('<b>15-20 October 2017</b><br>'
-             '49th Meeting of the AAS Division for Planetary Sciences',
-             'https://aas.org/meetings/dps49'),
             ('<b>9-12 October 2017</b><br>'
              'Know Thy Star, Know Thy Planet - Assessing the Impact of Stellar Characterization on Our Understanding of Exoplanets',
              'http://nexsci.caltech.edu/conferences/2017/knowthystar/'),
+            ('<b>15-20 October 2017</b><br>'
+             '49th Meeting of the AAS Division for Planetary Sciences',
+             'https://aas.org/meetings/dps49'),
+            ('<b>26-27 October 2017</b><br>'
+             'BDEXOCON-2017: Brown Dwarf to Exoplanet Connection',
+             'https://bdexocon.wordpress.com/'),
             ('<b>13-17 November 2017</b><br>'
              'IAUS 339: Southern Horizons in Time­-Domain Astronomy',
-             'http://iaus339.ast.uct.ac.za'),
+             'https://www.hou.usra.edu/meetings/habitableworlds2017/'),
+            ('<b>13-17 November 2017</b><br>'
+             'Habitable Worlds 2017:  A System Science Workshop',
+             'http://nexsci.caltech.edu/conferences/2017/knowthystar/'),
+            ('<b>8-12 January 2018</b><br>'
+             '231st Meeting of the American Astronomical Society',
+             'https://aas.org/meetings/aas231'),
             )
 
 
