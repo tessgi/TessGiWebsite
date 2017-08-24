@@ -157,7 +157,14 @@ MEETINGS = (
             ('<b>15-20 October 2017</b><br>'
              '49th Meeting of the AAS Division for Planetary Sciences',
              'https://aas.org/meetings/dps49'),
+            ('<b>9-12 October 2017</b><br>'
+             'Know Thy Star, Know Thy Planet - Assessing the Impact of Stellar Characterization on Our Understanding of Exoplanets',
+             'http://nexsci.caltech.edu/conferences/2017/knowthystar/'),
+            ('<b>13-17 November 2017</b><br>'
+             'IAUS 339: Southern Horizons in Time­-Domain Astronomy',
+             'http://iaus339.ast.uct.ac.za'),
             )
+
 
 # Defines the "related websites" listing in the footer of all pages
 RELATEDSITES = (
