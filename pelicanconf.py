@@ -164,7 +164,7 @@ RELATEDSITES = (
             ('News, Media, and Education Resources',
              'https://tess.gsfc.nasa.gov/'),
             ('TESS @ MIT',
-             'http://space.mit.edu'), #links to kavli site for now
+             'http://tess.mit.edu/'), 
             # ('TESS @ Orbital ATK',
             #  'http://www.ballaerospace.com/page.jsp?page=72'),
             ('TESS @ MAST',
