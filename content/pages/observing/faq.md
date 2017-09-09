@@ -37,7 +37,7 @@ The CTL is not finalized (in fact is will likely evolve even after launch). Howe
 The CTL up at MAST is v5. This is the version that will be used when evaluating GI Cycle 1 proposals. This version has a column called priority which is what we will use to evaluate what is in the top 100,000 targets in the southern ecliptic hemisphere. The CTL  v5 at MAST is the version against which proposals will be assessed.
 
 #### **Where can I find the list of these 100,000 targets?**
-Search the CTL at MAST for targets below ecliptic latitude of 0.0 and sort by priority. To aid this we have made a [file available](data/core-science-targets.csv) that contains the list of the top 100,000 priority targets in the southern ecliptic hemisphere.
+Search the CTL at MAST for targets below ecliptic latitude of -6.0 and sort by priority. To aid this we have made a [file available](data/core-science-targets-v2.csv) that contains the list of the top 100,000 priority targets in the southern ecliptic hemisphere.
 
 #### **What if I can do my science with TESS full frame images, and don't need to propose for targets?**
 
