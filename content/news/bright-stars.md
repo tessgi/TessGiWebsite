@@ -1,4 +1,4 @@
-Title: TESS to Observe Bright Stars at 2-min Cadence
+Title: TESS to observe bright stars at 2-min cadence
 Date: 2017-09-09 10:00
 Author: Tom Barclay
 
