@@ -4,6 +4,14 @@ Save_as: tpub-astrophysics-by-month.html
 [TOC]
 
 
+2017-08
+-------
+
+1. [MULTI-BAND PHOTOMETRY AND SPECTROSCOPY OF AN ALL-SKY SAMPLE OF BRIGHT WHITE DWARFS](http://adsabs.harvard.edu/abs/2017arXiv170809394R)  
+Raddi, R., Gentile Fusillo, N. P., Pala, A. F., et al.    
+2017, pre-print ([2017arXiv170809394R](http://adsabs.harvard.edu/abs/2017arXiv170809394R))  
+
+
 2017-07
 -------
 

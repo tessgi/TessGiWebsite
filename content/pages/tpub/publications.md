@@ -12,7 +12,7 @@ the TESS mission is provided by the NASA Explorer Program.*
 
 The TESS Science Support Center curates a list of scientific publications
 pertaining to TESS.
-The database contains 37 publications,
+The database contains 38 publications,
 of which 22 are peer-reviewed.
 It demonstrates the important impact of TESS data
 on astronomical research.
@@ -29,7 +29,7 @@ Or seach by topic:
 If you spot an error in the database, such as a missing entry,
 please get in touch or open an issue in the <a href="https://github.com/tessgi/tpub">GitHub repository</a> of the database.
 
-Last update: 24 Aug 2017.
+Last update: 10 Sep 2017.
 
 <hr/>
 
@@ -47,10 +47,10 @@ of year.
 Both TESS data have been used for scientific applications
 that reach far beyond exoplanet research.
 While 22 works relate to exoplanets
-(59%),
-a total of 15
+(58%),
+a total of 16
 pertain to other areas of astrophysics
-(41%).
+(42%).
 
 
 ![Publications by subject](images/tpub/tpub-piechart.png)
@@ -60,7 +60,7 @@ pertain to other areas of astrophysics
 ## Most-cited publications
 
 TESS publications have cumulatively been cited
-413 times.
+434 times.
 The list below shows the most-cited publications,
 based on the citation count obtained from NASA ADS.
 
@@ -68,22 +68,22 @@ based on the citation count obtained from NASA ADS.
 1. TRANSITING EXOPLANET SURVEY SATELLITE (TESS)  
 Ricker, George R., Winn, Joshua N., Vanderspek, Roland, et al.    
 [2015JATIS...1a4003R](http://adsabs.harvard.edu/abs/2015JATIS...1a4003R)
-<span class="badge">151 citations</span>
+<span class="badge">159 citations</span>
 
 2. THE TRANSITING EXOPLANET SURVEY SATELLITE: SIMULATIONS OF PLANET DETECTIONS AND ASTROPHYSICAL FALSE POSITIVES  
 Sullivan, Peter W., Winn, Joshua N., Berta-Thompson, Zachory K., et al.    
 [2015ApJ...809...77S](http://adsabs.harvard.edu/abs/2015ApJ...809...77S)
-<span class="badge">70 citations</span>
+<span class="badge">74 citations</span>
 
 3. CHARACTERIZING TRANSITING PLANET ATMOSPHERES THROUGH 2025  
 Cowan, N. B., Greene, T., Angerhausen, D., et al.    
 [2015PASP..127..311C](http://adsabs.harvard.edu/abs/2015PASP..127..311C)
-<span class="badge">32 citations</span>
+<span class="badge">35 citations</span>
 
 4. UNDERSTANDING THE EFFECTS OF STELLAR MULTIPLICITY ON THE DERIVED PLANET RADII FROM TRANSIT SURVEYS: IMPLICATIONS FOR KEPLER, K2, AND TESS  
 Ciardi, David R., Beichman, Charles A., Horch, Elliott P., et al.    
 [2015ApJ...805...16C](http://adsabs.harvard.edu/abs/2015ApJ...805...16C)
-<span class="badge">24 citations</span>
+<span class="badge">26 citations</span>
 
 5. THE TRANSITING EXOPLANET SURVEY SATELLITE MISSION  
 Ricker, G. R.    
@@ -130,7 +130,7 @@ within the last 90 days.
 <!-- ## Most-active authors
 
 The entries in the publication database have been authored and co-authored
-by a total of 223 unique author names.
+by a total of 237 unique author names.
 Here we list the most-active authors, defined as those with six or more first-author publications in our database.
 
 -->
