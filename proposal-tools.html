@@ -17,7 +17,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - TESS Guest Investigator Program" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2017-09-09" />
+    <meta name="dc.date.modified" content="2017-09-10" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Kepler Guest Observers" />
     <meta name="dc.identifier" content="http://tessgi.gsfc.nasa.gov" />
@@ -193,7 +193,63 @@ average: 1.16 sectors
 </code></pre>
 <p>This will return a file with the two original columns plus two additional columns giving the minimum number and maximum of sectors that the target will be observed by with TESS.</p>
 <h2 id="ticgen">ticgen</h2>
-<p>Will be added shortly.</p>
+<p>TVGuide is a Python package that allows users calculate a TESS magnitude from various other bandpasses, and calculate a 1-sigma noise level</p>
+<p>In particular, the package adds the ticgen and ticgen-csv tools to the command line.</p>
+<p>The code and documentation is hosted on <a href="https://github.com/tessgi/ticgen">Github</a> and only briefly summarized here.</p>
+<h3 id="installation_1">Installation</h3>
+<p>Users will need to have a working version of Python 2 or 3 installed.
+If this requirement is met, tvguide can be installed using pip:</p>
+<pre><code>pip install ticgen
+</code></pre>
+<p>If you have a previous version installed, please make sure you upgrade to the latest version using:</p>
+<pre><code>pip install ticgen --upgrade
+</code></pre>
+<p>It is important to upgrade frequently to ensure that you are using the most up to date TESS field parameters.</p>
+<h3 id="usage_1">Usage</h3>
+<p>Installing ticgen will automatically add a command line tool to your path called <em>ticgen</em>, which takes a magnitudes as input.</p>
+<p>For example, </p>
+<pre><code>$ ticgen -V 7.5 -J 12.0 -Ks 11.5
+
+TESS mag = 10.09, calculated using V/J/Ks.
+1-sigma scatter in 60 min = 212 ppm.
+</code></pre>
+<p>You can provide any combination of these mangitudes</p>
+<ul>
+<li>-T TMAG, --Tmag TMAG TESS magnitude of the source</li>
+<li>-J JMAG, --Jmag JMAG J magnitude of the source</li>
+<li>-K KSMAG, --Ksmag KSMAG Ks magnitude of the source</li>
+<li>-V VMAG, --Vmag VMAG V magnitude of the source</li>
+<li>-G GMAG, --Gmag GMAG Gaia magnitude of the source</li>
+<li>-H HMAG, --Hmag HMAG H magnitude of the source</li>
+<li>-B BMAG, --Bmag BMAG B magnitude of the source</li>
+<li>--Bphmag BPHMAG B photgraphic magnitude of the source</li>
+</ul>
+<p>You can also specify the integration time in minutes. 
+* -i INTEGRATION, --integration INTEGRATION
+This will be used to calculate the noise. This assumes noise scales with the inverse square-root of the integration time. (default: 60)</p>
+<pre><code>$ ticgen --Tmag 18.0 --integration 1440
+
+TESS mag = 18.00, calculated using Tmag was provided.
+1-sigma scatter in 1440 min = 51045 ppm.
+</code></pre>
+<p>You can also run on a comma-seperated variable file with magnitudes.
+The header of the file must contain one or more of Tmag, Vmag, Jmag, Bmag, Bphmag, Ksmag, Hmag, and Gmag. Not all the magnitues need to be included in the file and the columns can be in any order.</p>
+<p>A new csv file will be created with two columns: TESS mag and 1-sigma noise level in parts-per-million.</p>
+<p>Here is an example of an acceptable file</p>
+<pre><code>Tmag,Vmag,Jmag,Bmag,Bphmag,Ksmag,Hmag,Gmag
+12.0,,,,,,,
+,11.5,8.1,,,6.7,,
+,,,,,,16.0,
+,,12.0,12.0,,8.6,,
+</code></pre>
+<p>and this would output</p>
+<pre><code># Tmag, 1-sigma noise (ppm)
+    12.000,    595.007
+     9.850,    188.867
+    16.700,  32331.695
+    12.872,   1030.614
+</code></pre>
+<p>This code is build using the algorithms from the TESS Input Catalog publication from <a href="https://arxiv.org/abs/1706.00495">Stassun et al. (2017)</a>.</p>
 <h2 id="core-science-targets">Core science targets</h2>
 <p>This isn't software, but to aid in proposal preparation we have <a href="data/core-science-targets-v2.csv">made a csv file available</a> that contains the top 100,000 priority targets in the southern ecliptic hemisphere.</p>
             </div>
@@ -211,7 +267,11 @@ average: 1.16 sectors
 <li><a href="#usage">Usage</a></li>
 </ul>
 </li>
-<li><a href="#ticgen">ticgen</a></li>
+<li><a href="#ticgen">ticgen</a><ul>
+<li><a href="#installation_1">Installation</a></li>
+<li><a href="#usage_1">Usage</a></li>
+</ul>
+</li>
 <li><a href="#core-science-targets">Core science targets</a></li>
 </ul>
 </div>
