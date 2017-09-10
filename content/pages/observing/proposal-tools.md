@@ -75,7 +75,80 @@ This will return a file with the two original columns plus two additional column
 
 
 ## ticgen
-Will be added shortly.
+TVGuide is a Python package that allows users calculate a TESS magnitude from various other bandpasses, and calculate a 1-sigma noise level
+
+In particular, the package adds the ticgen and ticgen-csv tools to the command line.
+
+The code and documentation is hosted on [Github](https://github.com/tessgi/ticgen) and only briefly summarized here.
+
+### Installation
+
+Users will need to have a working version of Python 2 or 3 installed.
+If this requirement is met, tvguide can be installed using pip:
+
+    pip install ticgen
+
+If you have a previous version installed, please make sure you upgrade to the latest version using:
+
+    pip install ticgen --upgrade
+
+It is important to upgrade frequently to ensure that you are using the most up to date TESS field parameters.
+
+### Usage
+
+Installing ticgen will automatically add a command line tool to your path called *ticgen*, which takes a magnitudes as input.
+
+For example, 
+
+    $ ticgen -V 7.5 -J 12.0 -Ks 11.5
+
+    TESS mag = 10.09, calculated using V/J/Ks.
+    1-sigma scatter in 60 min = 212 ppm.
+
+You can provide any combination of these mangitudes
+
+* -T TMAG, --Tmag TMAG TESS magnitude of the source
+* -J JMAG, --Jmag JMAG J magnitude of the source
+* -K KSMAG, --Ksmag KSMAG Ks magnitude of the source
+* -V VMAG, --Vmag VMAG V magnitude of the source
+* -G GMAG, --Gmag GMAG Gaia magnitude of the source
+* -H HMAG, --Hmag HMAG H magnitude of the source
+* -B BMAG, --Bmag BMAG B magnitude of the source
+* --Bphmag BPHMAG B photgraphic magnitude of the source
+
+
+
+You can also specify the integration time in minutes. 
+* -i INTEGRATION, --integration INTEGRATION
+This will be used to calculate the noise. This assumes noise scales with the inverse square-root of the integration time. (default: 60)
+
+    $ ticgen --Tmag 18.0 --integration 1440
+
+    TESS mag = 18.00, calculated using Tmag was provided.
+    1-sigma scatter in 1440 min = 51045 ppm.
+
+You can also run on a comma-seperated variable file with magnitudes.
+The header of the file must contain one or more of Tmag, Vmag, Jmag, Bmag, Bphmag, Ksmag, Hmag, and Gmag. Not all the magnitues need to be included in the file and the columns can be in any order.
+
+A new csv file will be created with two columns: TESS mag and 1-sigma noise level in parts-per-million.
+
+Here is an example of an acceptable file
+
+    Tmag,Vmag,Jmag,Bmag,Bphmag,Ksmag,Hmag,Gmag
+    12.0,,,,,,,
+    ,11.5,8.1,,,6.7,,
+    ,,,,,,16.0,
+    ,,12.0,12.0,,8.6,,
+
+and this would output
+
+    # Tmag, 1-sigma noise (ppm)
+        12.000,    595.007
+         9.850,    188.867
+        16.700,  32331.695
+        12.872,   1030.614
+
+This code is build using the algorithms from the TESS Input Catalog publication from [Stassun et al. (2017)](https://arxiv.org/abs/1706.00495).
 
 ## Core science targets
 This isn't software, but to aid in proposal preparation we have [made a csv file available](data/core-science-targets-v2.csv) that contains the top 100,000 priority targets in the southern ecliptic hemisphere.
