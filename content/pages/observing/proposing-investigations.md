@@ -69,8 +69,8 @@ It is anticipated that up to $2.5M in Cycle 1 will be available through this sol
 
 There are typically two categories of TESS GI proposals, investigators are free to select the catagory that best reflects their scope of their proposed work. The dollar amounts assigned to each proposal catagory are typical award amounts and not upper limits.
 
- * Small proposals - proposals of limited scope and have typical budgets of a approximately $50,000. 
- * Large proposals - proposal of wide-ranging scope and science yield. Large proposals must deliver a clear benefit for the broader scientific community have typical budgets of approximately $200,000
+ * Small proposals - proposals of limited scope that have typical budgets of approximately $50,000. 
+ * Large proposals - proposal of wide-ranging scope and science yield. Large proposals must deliver a clear benefit for the broader scientific community and have typical budgets of approximately $200,000
 
 Funding for selected programs typically starts upon availability 
 of data to the public archive 
