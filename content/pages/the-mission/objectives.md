@@ -13,7 +13,7 @@ TESS is scheduled to launch no earlier than March 2018 and will be placed in a h
 
 <br/>
 <img class="img-responsive" style="max-width:80%;" src="images/mission/tess_lava_planet_rotated.jpg">
-*The TESS Mission will discovering new Earths and super-Earths in the solar seighborhood. Image Credit: NASA*
+*The TESS Mission will discover new Earths and super-Earths in the solar neighborhood. Image Credit: NASA*
 <br/>
 
 <!-- <<<<<<< Updated upstream
