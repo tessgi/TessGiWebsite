@@ -158,7 +158,7 @@ Co-trending basis vectors (CBVs) represent the set of systematic trends present 
 PSF models will be available at the MAST. The timeframe for this is somewhat uncertain.
 
 ### Simulated Data
-During development of space mission, the ground-segment goes through several tests known as Ground System Interface Test (GSIT). To aid potential TESS users in the development of tools and to assess the feasibility of investigations, the mission is planning to make available data from the GSIT-2 test. This will be available from the [MAST](https://archive.stsci.edu/tess). The anticipated date for this being made available is July 2017.
+During development of space mission, the ground-segment goes through several tests known as Ground System Interface Test (GSIT). To aid potential TESS users in the development of tools and to assess the feasibility of investigations, the mission is planning to make available data from the GSIT-3 test. This will be available from the [MAST](https://archive.stsci.edu/tess). The anticipated date for this being made available is late 2017.
 
 
 

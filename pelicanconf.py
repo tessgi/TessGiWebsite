@@ -121,8 +121,8 @@ KEY_INFORMATION = (
     ('Contact us', 'helpdesk.html'),
     ('Observatory Guide', 'documentation.html'),
     ('Frequently asked questions', 'faq.html'),
-    ('Volunteer to serve on a review panel',
-        'https://goo.gl/forms/p4ZqiTQSEHjbM6nz2'),
+    # ('Volunteer to serve on a review panel',
+    #     'https://goo.gl/forms/p4ZqiTQSEHjbM6nz2'),
     # ('Cycle 1 Proposal submission',
     #     '[https://heasarc.gsfc.nasa.gov/ark/rps/'),
     # ('Simulated data', 'data-access.html#simulated-data'),
@@ -130,9 +130,6 @@ KEY_INFORMATION = (
 
 # Defines the "important dates" box on the front page
 IMPORTANT_DATES = (
-            ('<b>29 Jun 2017</b>',
-             'Release of Cycle 1 call for proposals',
-             'proposing-investigations.html'), # link to a new item?
             ('<b>29 Sep 2017</b>',
              'Cycle 1 proposal submission deadline ',
              'proposing-investigations.html'), # link to a new item?
