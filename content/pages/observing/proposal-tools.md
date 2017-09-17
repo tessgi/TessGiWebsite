@@ -34,7 +34,7 @@ The following figure provides an example of a CTL visualization that can be made
 Additional premade figures are available on the CTL Filtergraph page, including CTL TESS mag and effective temperature histograms. Users may also create their own Filtergraph account and upload their own target lists for visualization following the instructions and tutorials on the main [Filtergraph](https://filtergraph.com/) webpage. 
 
 ## Web TESS Target Tool
-The Web TESS Target Tool provided by the TESS Science Support Center assists the community in planning and proposing. The website implements the functionality of both [tvguide](#tvguide) and [ticgen](#ticgen) in a handy online tool.
+The [Web TESS Target Tool](https://heasarc.gsfc.nasa.gov/cgi-bin/tess/webtess/wtm.py) provided by the TESS Science Support Center assists the community in planning and proposing. The website implements the functionality of both [tvguide](#tvguide) and [ticgen](#ticgen) in a handy online tool.
 
 We recommend users start by using the webtool before experimenting with the command line tools.
 
