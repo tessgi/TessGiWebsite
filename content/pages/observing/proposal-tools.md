@@ -160,5 +160,10 @@ This code is build using the algorithms from the TESS Input Catalog publication 
 This isn't software, but to aid in proposal preparation we have [made a csv file available](data/core-science-targets-v2.csv) that contains the top 100,000 priority targets in the southern ecliptic hemisphere.
 
 
+# Proposal templates
+We have made available proposal templates to aid users in writing GI proposals. Use of these templates is not required. 
 
+* [MS Word](docs/tessgi_template.docx)
+* [Latex](docs/tessgi_template.tex)
+* [PDF](docs/tessgi_template.pdf)
 
