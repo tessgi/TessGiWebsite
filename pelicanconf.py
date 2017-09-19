@@ -19,7 +19,7 @@ WITH_FUTURE_DATES = False
 ANALYTICS = ()   # pelicanconf-live.py will override this
 
 AUTHOR = u'Thomas Barclay'
-SITENAME = "NASA - TESS Science Support Center"
+SITENAME = "TESS"
 BANNER_SUBTITLE = "Science Support Center"
 SITEURL = "https://heasarc.gsfc.nasa.gov/docs/tess"
 FULLURL = "https://heasarc.gsfc.nasa.gov/docs/tess"
