@@ -22,6 +22,7 @@ AUTHOR = u'Thomas Barclay'
 SITENAME = "NASA - TESS Science Support Center"
 BANNER_SUBTITLE = "Science Support Center"
 SITEURL = "https://heasarc.gsfc.nasa.gov/docs/tess"
+FULLURL = "https://heasarc.gsfc.nasa.gov/docs/tess"
 SITELOGO = 'images/NASA_logo_vector_lg.png'
 SITELOGO_SIZE = 32
 FAVICON = 'images/favicon.png'
