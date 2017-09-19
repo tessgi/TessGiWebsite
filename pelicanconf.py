@@ -19,7 +19,7 @@ WITH_FUTURE_DATES = False
 ANALYTICS = ()   # pelicanconf-live.py will override this
 
 AUTHOR = u'Thomas Barclay'
-SITENAME = "TESS"
+SITENAME = "NASA - TESS Science Support Center"
 BANNER_SUBTITLE = "Science Support Center"
 SITEURL = "https://heasarc.gsfc.nasa.gov/docs/tess"
 SITELOGO = 'images/NASA_logo_vector_lg.png'
@@ -54,7 +54,7 @@ AUTHOR_FEED_RSS = None
 DISPLAY_BREADCRUMBS = False
 OPEN_GRAPH_IMAGE = "images/logo-for-twitter.jpeg"
 TWITTER_CARDS = True
-TWITTER_USERNAME = "@NASA_TESS"
+TWITTER_USERNAME = "NASA_TESS"
 
 HIDE_SIDEBAR = True
 
