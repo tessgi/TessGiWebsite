@@ -52,7 +52,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 DISPLAY_BREADCRUMBS = False
-OPEN_GRAPH_IMAGE = "images/logo-for-twitter.png"
+OPEN_GRAPH_IMAGE = "images/logo-for-twitter.jpeg"
 TWITTER_CARDS = True
 TWITTER_USERNAME = "@NASA_TESS"
 
