@@ -133,7 +133,7 @@ KEY_INFORMATION = (
 
 # Defines the "important dates" box on the front page
 IMPORTANT_DATES = (
-            ('<b>29 Sep 2017</b>',
+            ('<b>6 Oct 2017</b>',
              'Cycle 1 proposal submission deadline ',
              'proposing-investigations.html'), # link to a new item?
             ('<b>20 Mar 2018</b>',

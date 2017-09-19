@@ -9,7 +9,7 @@ The TESS primary mission duration is two years. The first year is spent in the s
 
 There will be no exclusive-use data rights to observations collected by TESS. All data will be made available through the MAST public archive once data processing and validation is complete. 
 
-**Proposals are due at 4.30pm Eastern Time on September 29, 2017.** Proposal must be submitted via the [Research Proposal System](https://heasarc.gsfc.nasa.gov/ark/rps/).
+**Proposals are due at 4.30pm Eastern Time on October 6, 2017.** Proposal must be submitted via the [Research Proposal System](https://heasarc.gsfc.nasa.gov/ark/rps/).
 
 ### Permitted science areas
 
