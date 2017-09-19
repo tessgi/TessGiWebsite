@@ -165,7 +165,7 @@ MEETINGS = (
              'BDEXOCON-2017: Brown Dwarf to Exoplanet Connection',
              'https://bdexocon.wordpress.com/'),
             ('<b>13-17 November 2017</b><br>'
-             'IAUS 339: Southern Horizons in Time­-Domain Astronomy',
+             'IAUS 339: Southern Horizons in Time­ Domain Astronomy',
              'https://www.hou.usra.edu/meetings/habitableworlds2017/'),
             ('<b>13-17 November 2017</b><br>'
              'Habitable Worlds 2017:  A System Science Workshop',
