@@ -4,6 +4,14 @@ Save_as: tpub-by-month.html
 [TOC]
 
 
+2017-09
+-------
+
+1. [CEPHEIDS WITH THE EYES OF PHOTOMETRIC SPACE TELESCOPES](http://adsabs.harvard.edu/abs/2017EPJWC.15202004M)  
+Molnár, László, Pál, András, Plachy, Emese    
+2017, not refereed ([2017EPJWC.15202004M](http://adsabs.harvard.edu/abs/2017EPJWC.15202004M))  
+
+
 2017-08
 -------
 
