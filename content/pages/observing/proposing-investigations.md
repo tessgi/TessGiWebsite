@@ -9,7 +9,7 @@ The TESS primary mission duration is two years. The first year is spent in the s
 
 There will be no exclusive-use data rights to observations collected by TESS. All data will be made available through the MAST public archive once data processing and validation is complete. 
 
-**Proposals are due at 4.30pm Eastern Time on October 6, 2017.** Proposal must be submitted via the [Research Proposal System](https://heasarc.gsfc.nasa.gov/ark/rps/).
+**Proposals are due at 4.30pm Eastern Time on October 6, 2017.** Proposal must be submitted via the [Research Proposal System (RPS)](https://heasarc.gsfc.nasa.gov/ark/rps/).
 
 ### Permitted science areas
 
@@ -231,7 +231,7 @@ to account for the recent changes to Campaign 16. <br/>
 ### Submission process
 The TESS GI program uses a two-phase proposal process. A Phase-1 proposal shall comprise the science/technical justification; proposals requesting funds need to include a budget narrative, describing in sufficient detail how the proposed funds will be used to achieve the goals outlined in the proposal. Only proposers whose Phase-1 proposals are accepted will be invited to submit budget proposals in Phase-2. It is not necessary for the PI of the Phase-2 proposal to be the science PI. Proposal content, including the list of investigators, must remain consistent between Phase-1 and Phase-2 proposals. All proposal materials will be submitted electronically. 
 
-* All Proposers must submit their Phase-1 proposals electronically through the [Astrophysics Research Knowledgebase (ARK)/ Remote Proposal System (RPS) website](http://heasarc.gsfc.nasa.gov/ark/rps/). If you haven’t used ARK/RPS before, get an account now (it’s easy, but don’t wait till the last minute);
+* All Proposers must submit their Phase-1 proposals electronically through the [Astrophysics Research Knowledgebase (ARK)/ Remote Proposal System (RPS) website](http://heasarc.gsfc.nasa.gov/ark/rps/). If you haven't used ARK/RPS before, get an account now (it's easy, but don't wait till the last minute); please refer to [the ARK/RPS instructions for TESS](http://heasarc.gsfc.nasa.gov/ark/tess/help.html).
 
 * You must "verify" the form, and pass the checks, before you can submit your proposal.
 
@@ -241,7 +241,7 @@ The TESS GI program uses a two-phase proposal process. A Phase-1 proposal shall 
 
 * An optional [MS Word template for the Scientific/Technical/Management is available](docs/tessgi_template.docx).
 
-* The Scientific/Technical/Management section must be uploaded to the RPS website as a PDF file.
+* The Scientific/Technical/Management section must be uploaded to the RPS website as a PDF file *after* you have submitted your RPS proposal form.
 
 All proposal materials must be submitted electronically by 4:30 p.m. Eastern time on the due date for this program given in Section 3 in order to be included in the proposal review for this cycle of the TESS Guest Investigator program. Note that the 4:30 p.m. deadline supersedes the deadline stated in the Guidebook for Proposers and in the ROSES Summary of Solicitation. 
 
