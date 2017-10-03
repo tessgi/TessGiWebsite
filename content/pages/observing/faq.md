@@ -15,6 +15,9 @@ At least 20,000 targets will be available to the GI program during the course of
 
 Yes. TESS Guest Investigators at US Institutions may apply for funding to support their TESS Investigations. There are two levels of funding: small programs and large programs. We anticipate that a small program award will be $50,000 and a typical large program award will be around $200,000.
 
+### ** Will Proposals asking for FFI-only data be funded**
+Yes! Additionally, proposals asking for 2-min cadence data will be funded. However, we will not relegate 2-min cadence proposals to FFI-only proposals. 
+
 #### **What if I have an interesting and timely TESS target that needs to be observed quickly, once TESS is launched?**
 
 Target of opportunity proposals are solicited for rapidly evolving phenomena whose occurrence is not predictable at the time of the TESS proposal deadline. These proposals would commence after the spacecraft upload following the trigger event, which could be as long as 2 months
