@@ -120,8 +120,8 @@ MENUITEMS = (
 
 # Defines the "key information" box on the front page
 KEY_INFORMATION = (
-    ('Proposal submission page', 'https://heasarc.gsfc.nasa.gov/ark/rps/'),
-    ('Web TESS Target Tool', 'https://heasarc.gsfc.nasa.gov/cgi-bin/tess/webtess/wtm.py'),
+    # ('Proposal submission page', 'https://heasarc.gsfc.nasa.gov/ark/rps/'),
+    # ('Web TESS Target Tool', 'https://heasarc.gsfc.nasa.gov/cgi-bin/tess/webtess/wtm.py'),
     ('Contact us', 'helpdesk.html'),
     ('Observatory Guide', 'documentation.html'),
     ('Frequently asked questions', 'faq.html'),
@@ -134,9 +134,9 @@ KEY_INFORMATION = (
 
 # Defines the "important dates" box on the front page
 IMPORTANT_DATES = (
-            ('<b>6 Oct 2017</b>',
-             'Cycle 1 proposal submission deadline ',
-             'proposing-investigations.html'), # link to a new item?
+            # ('<b>6 Oct 2017</b>',
+            #  'Cycle 1 proposal submission deadline ',
+            #  'proposing-investigations.html'), # link to a new item?
             ('<b>20 Mar 2018</b>',
              'Planned mission launch date',
              'operations.html'), # link to a news item?
