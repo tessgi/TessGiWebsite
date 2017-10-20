@@ -4,6 +4,22 @@ Save_as: tpub-by-month.html
 [TOC]
 
 
+2017-12
+-------
+
+1. [MULTIBAND PHOTOMETRY AND SPECTROSCOPY OF AN ALL-SKY SAMPLE OF BRIGHT WHITE DWARFS](http://adsabs.harvard.edu/abs/2017MNRAS.472.4173R)  
+Raddi, R., Gentile Fusillo, N. P., Pala, A. F., et al.    
+2017, refereed ([2017MNRAS.472.4173R](http://adsabs.harvard.edu/abs/2017MNRAS.472.4173R))  
+
+
+2017-10
+-------
+
+1. [EMPIRICAL, ACCURATE MASSES AND RADII OF SINGLE STARS WITH TESS AND GAIA](http://adsabs.harvard.edu/abs/2017arXiv171001460S)  
+Stassun, Keivan G., Corsaro, Enrico, Pepper, Joshua, et al.    
+2017, pre-print ([2017arXiv171001460S](http://adsabs.harvard.edu/abs/2017arXiv171001460S))  
+
+
 2017-09
 -------
 
@@ -11,13 +27,13 @@ Save_as: tpub-by-month.html
 Molnár, László, Pál, András, Plachy, Emese    
 2017, not refereed ([2017EPJWC.15202004M](http://adsabs.harvard.edu/abs/2017EPJWC.15202004M))  
 
+2. [OUT-OF-TRANSIT REFRACTED LIGHT IN THE ATMOSPHERES OF TRANSITING AND NON-TRANSITING EXOPLANETS](http://adsabs.harvard.edu/abs/2017arXiv170906991D)  
+Dalba, Paul A.    
+2017, pre-print ([2017arXiv170906991D](http://adsabs.harvard.edu/abs/2017arXiv170906991D))  
 
-2017-08
--------
-
-1. [MULTI-BAND PHOTOMETRY AND SPECTROSCOPY OF AN ALL-SKY SAMPLE OF BRIGHT WHITE DWARFS](http://adsabs.harvard.edu/abs/2017arXiv170809394R)  
-Raddi, R., Gentile Fusillo, N. P., Pala, A. F., et al.    
-2017, pre-print ([2017arXiv170809394R](http://adsabs.harvard.edu/abs/2017arXiv170809394R))  
+3. [A CATALOG OF COOL DWARF TARGETS FOR THE TRANSITING EXOPLANET SURVEY SATELLITE](http://adsabs.harvard.edu/abs/2017arXiv171000193M)  
+Muirhead, Philip S., Dressing, Courtney, Mann, Andrew W., et al.    
+2017, pre-print ([2017arXiv171000193M](http://adsabs.harvard.edu/abs/2017arXiv171000193M))  
 
 
 2017-07
@@ -74,10 +90,6 @@ Deeg, H. J., Tingley, B.
 2. [TRANSIT CLAIRVOYANCE: ENHANCING TESS FOLLOW-UP USING ARTIFICIAL NEURAL NETWORKS](http://adsabs.harvard.edu/abs/2017MNRAS.465.3495K)  
 Kipping, David M., Lam, Christopher    
 2017, refereed ([2017MNRAS.465.3495K](http://adsabs.harvard.edu/abs/2017MNRAS.465.3495K))  
-
-3. [CEPHEIDS WITH THE EYES OF PHOTOMETRIC SPACE TELESCOPES](http://adsabs.harvard.edu/abs/2017arXiv170302421M)  
-Molnár, L., Pál, A., Plachy, E.    
-2017, pre-print ([2017arXiv170302421M](http://adsabs.harvard.edu/abs/2017arXiv170302421M))  
 
 
 2017-01

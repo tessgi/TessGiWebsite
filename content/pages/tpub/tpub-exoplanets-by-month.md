@@ -4,6 +4,14 @@ Save_as: tpub-exoplanets-by-month.html
 [TOC]
 
 
+2017-09
+-------
+
+1. [OUT-OF-TRANSIT REFRACTED LIGHT IN THE ATMOSPHERES OF TRANSITING AND NON-TRANSITING EXOPLANETS](http://adsabs.harvard.edu/abs/2017arXiv170906991D)  
+Dalba, Paul A.    
+2017, pre-print ([2017arXiv170906991D](http://adsabs.harvard.edu/abs/2017arXiv170906991D))  
+
+
 2017-07
 -------
 
