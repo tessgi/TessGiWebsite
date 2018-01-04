@@ -14,11 +14,14 @@ NASA's TESS and K2 missions will be hosting an evening splinter session on Tuesd
 
 ### Hyperwall Talks at the NASA booth
 
-* Diana Dragomir (MIT)
-* Michael Fasnaugh (MIT)
-* Stephen Rinehart (GSFC)
+#### Tuesday, January 09, 2018
+* 5:15-5:30 PM, Finding New Worlds with the Transiting Exoplanet Survey Satellite, Diana Dragomir (MIT)
 
-(times TBC)
+#### Wednesday, January 10, 2018
+* 9:35-9:50 AM, TESS Mission Overview, Michael Fasnaugh (MIT)
+
+#### Thursday, January 11, 2018
+* 9:45-10:00 AM, TESS Guest Investigator Program, Stephen Rinehart (NASA GSFC)
 
 ### An incomplete list of TESS related talks and posters
 
