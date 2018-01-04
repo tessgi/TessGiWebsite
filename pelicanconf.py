@@ -156,26 +156,31 @@ MEETINGS = (
             # ('<b>17-21 July 2017</b><br>'
             #  'Transiting Exoplanets',
             #  'https://wasp-planets.net/conference/'),
-            ('<b>9-12 October 2017</b><br>'
-             'Know Thy Star, Know Thy Planet - Assessing the Impact of Stellar Characterization on Our Understanding of Exoplanets',
-             'http://nexsci.caltech.edu/conferences/2017/knowthystar/'),
-            ('<b>15-20 October 2017</b><br>'
-             '49th Meeting of the AAS Division for Planetary Sciences',
-             'https://aas.org/meetings/dps49'),
-            ('<b>26-27 October 2017</b><br>'
-             'BDEXOCON-2017: Brown Dwarf to Exoplanet Connection',
-             'https://bdexocon.wordpress.com/'),
-            ('<b>13-17 November 2017</b><br>'
-             'IAUS 339: Southern Horizons in Time­ Domain Astronomy',
-             'https://www.hou.usra.edu/meetings/habitableworlds2017/'),
-            ('<b>13-17 November 2017</b><br>'
-             'Habitable Worlds 2017:  A System Science Workshop',
-             'http://nexsci.caltech.edu/conferences/2017/knowthystar/'),
+            # ('<b>9-12 October 2017</b><br>'
+            #  'Know Thy Star, Know Thy Planet - Assessing the Impact of Stellar Characterization on Our Understanding of Exoplanets',
+            #  'http://nexsci.caltech.edu/conferences/2017/knowthystar/'),
+            # ('<b>15-20 October 2017</b><br>'
+            #  '49th Meeting of the AAS Division for Planetary Sciences',
+            #  'https://aas.org/meetings/dps49'),
+            # ('<b>26-27 October 2017</b><br>'
+            #  'BDEXOCON-2017: Brown Dwarf to Exoplanet Connection',
+            #  'https://bdexocon.wordpress.com/'),
+            # ('<b>13-17 November 2017</b><br>'
+            #  'IAUS 339: Southern Horizons in Time­ Domain Astronomy',
+            #  'https://www.hou.usra.edu/meetings/habitableworlds2017/'),
+            # ('<b>13-17 November 2017</b><br>'
+            #  'Habitable Worlds 2017:  A System Science Workshop',
+            #  'http://nexsci.caltech.edu/conferences/2017/knowthystar/'),
             ('<b>8-12 January 2018</b><br>'
              '231st Meeting of the American Astronomical Society',
              'https://aas.org/meetings/aas231'),
+            ('<b>5-9 March 2018</b><br>'
+             'Preparing for TESS',
+             'http://tess.ninja/'),
+            ('<b>5-9 March 2018</b><br>'
+             'Preparing for TESS',
+             'http://tess.ninja/'),
             )
-
 
 # Defines the "related websites" listing in the footer of all pages
 RELATEDSITES = (
