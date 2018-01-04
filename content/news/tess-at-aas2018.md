@@ -20,5 +20,7 @@ NASA's TESS and K2 missions will be hosting an evening splinter session on Tuesd
 
 (times TBC)
 
-#### An incomplete list of TESS related talks
+#### An incomplete list of TESS related talks and posters
 
+##### Tuesday, January 09, 2018
+###### 2:00 PM-3:30 PM, National Harbor 11 (Gaylord at National Harbor), 128. Extrasolar Planets II
