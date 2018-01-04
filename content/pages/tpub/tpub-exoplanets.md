@@ -7,9 +7,9 @@ Save_as: tpub-exoplanets.html
 2017
 ----
 
-1. [OUT-OF-TRANSIT REFRACTED LIGHT IN THE ATMOSPHERES OF TRANSITING AND NON-TRANSITING EXOPLANETS](http://adsabs.harvard.edu/abs/2017arXiv170906991D)  
-Dalba, Paul A.    
-2017, pre-print ([2017arXiv170906991D](http://adsabs.harvard.edu/abs/2017arXiv170906991D))  
+1. [SIMULATED JWST/NIRISS TRANSIT SPECTROSCOPY OF ANTICIPATED TESS PLANETS COMPARED TO SELECT DISCOVERIES FROM SPACE-BASED AND GROUND-BASED SURVEYS](http://adsabs.harvard.edu/abs/2017arXiv171102098L)  
+Louie, Dana R., Deming, Drake, Albert, Loic, et al.    
+2017, pre-print ([2017arXiv171102098L](http://adsabs.harvard.edu/abs/2017arXiv171102098L))  
 
 2. [EXOPLANET CHARACTERIZATION BY MULTI-OBSERVATORY TRANSIT PHOTOMETRY WITH TESS AND CHEOPS](http://adsabs.harvard.edu/abs/2017MNRAS.468.3418G)  
 Gaidos, E., Kitzmann, D., Heng, K.    

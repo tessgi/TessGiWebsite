@@ -4,6 +4,14 @@ Save_as: tpub-by-month.html
 [TOC]
 
 
+2018-01
+-------
+
+1. [THE TESS─HERMES SURVEY DATA RELEASE 1: HIGH-RESOLUTION SPECTROSCOPY OF THE TESS SOUTHERN CONTINUOUS VIEWING ZONE](http://adsabs.harvard.edu/abs/2018MNRAS.473.2004S)  
+Sharma, Sanjib, Stello, Dennis, Buder, Sven, et al.    
+2018, refereed ([2018MNRAS.473.2004S](http://adsabs.harvard.edu/abs/2018MNRAS.473.2004S))  
+
+
 2017-12
 -------
 
@@ -12,10 +20,34 @@ Raddi, R., Gentile Fusillo, N. P., Pala, A. F., et al.
 2017, refereed ([2017MNRAS.472.4173R](http://adsabs.harvard.edu/abs/2017MNRAS.472.4173R))  
 
 
+2017-11
+-------
+
+1. [SIMULATED JWST/NIRISS TRANSIT SPECTROSCOPY OF ANTICIPATED TESS PLANETS COMPARED TO SELECT DISCOVERIES FROM SPACE-BASED AND GROUND-BASED SURVEYS](http://adsabs.harvard.edu/abs/2017arXiv171102098L)  
+Louie, Dana R., Deming, Drake, Albert, Loic, et al.    
+2017, pre-print ([2017arXiv171102098L](http://adsabs.harvard.edu/abs/2017arXiv171102098L))  
+
+2. [VARIABILITY PROPERTIES OF 4 MILLION SOURCES IN THE $TESS$ INPUT CATALOG OBSERVED WITH THE KILODEGREE EXTREMELY LITTLE TELESCOPE SURVEY](http://adsabs.harvard.edu/abs/2017arXiv171103608O)  
+Oelkers, Ryan J., Rodriguez, Joseph E., Stassun, Keivan G., et al.    
+2017, pre-print ([2017arXiv171103608O](http://adsabs.harvard.edu/abs/2017arXiv171103608O))  
+
+
 2017-10
 -------
 
-1. [EMPIRICAL, ACCURATE MASSES AND RADII OF SINGLE STARS WITH TESS AND GAIA](http://adsabs.harvard.edu/abs/2017arXiv171001460S)  
+1. [DATA PREPARATION FOR ASTEROSEISMOLOGY WITH TESS](http://adsabs.harvard.edu/abs/2017EPJWC.16001005L)  
+Lund, Mikkel N., Handberg, Rasmus, Kjeldsen, Hans, et al.    
+2017, not refereed ([2017EPJWC.16001005L](http://adsabs.harvard.edu/abs/2017EPJWC.16001005L))  
+
+2. [ON THE DETECTABILITY OF SOLAR-LIKE OSCILLATIONS WITH THE NASA TESS MISSION](http://adsabs.harvard.edu/abs/2017EPJWC.16001006C)  
+Campante, Tiago L.    
+2017, not refereed ([2017EPJWC.16001006C](http://adsabs.harvard.edu/abs/2017EPJWC.16001006C))  
+
+3. [GALACTIC ARCHAEOLOGY WITH TESS: PROSPECTS FOR TESTING THE STAR FORMATION HISTORY IN THE SOLAR NEIGHBOURHOOD](http://adsabs.harvard.edu/abs/2017EPJWC.16005006T)  
+Thomas, Alexandra, Stevenson, Emma, Gittins, Fabian W. R., et al.    
+2017, not refereed ([2017EPJWC.16005006T](http://adsabs.harvard.edu/abs/2017EPJWC.16005006T))  
+
+4. [EMPIRICAL, ACCURATE MASSES AND RADII OF SINGLE STARS WITH TESS AND GAIA](http://adsabs.harvard.edu/abs/2017arXiv171001460S)  
 Stassun, Keivan G., Corsaro, Enrico, Pepper, Joshua, et al.    
 2017, pre-print ([2017arXiv171001460S](http://adsabs.harvard.edu/abs/2017arXiv171001460S))  
 
@@ -27,11 +59,7 @@ Stassun, Keivan G., Corsaro, Enrico, Pepper, Joshua, et al.
 Molnár, László, Pál, András, Plachy, Emese    
 2017, not refereed ([2017EPJWC.15202004M](http://adsabs.harvard.edu/abs/2017EPJWC.15202004M))  
 
-2. [OUT-OF-TRANSIT REFRACTED LIGHT IN THE ATMOSPHERES OF TRANSITING AND NON-TRANSITING EXOPLANETS](http://adsabs.harvard.edu/abs/2017arXiv170906991D)  
-Dalba, Paul A.    
-2017, pre-print ([2017arXiv170906991D](http://adsabs.harvard.edu/abs/2017arXiv170906991D))  
-
-3. [A CATALOG OF COOL DWARF TARGETS FOR THE TRANSITING EXOPLANET SURVEY SATELLITE](http://adsabs.harvard.edu/abs/2017arXiv171000193M)  
+2. [A CATALOG OF COOL DWARF TARGETS FOR THE TRANSITING EXOPLANET SURVEY SATELLITE](http://adsabs.harvard.edu/abs/2017arXiv171000193M)  
 Muirhead, Philip S., Dressing, Courtney, Mann, Andrew W., et al.    
 2017, pre-print ([2017arXiv171000193M](http://adsabs.harvard.edu/abs/2017arXiv171000193M))  
 
@@ -43,11 +71,7 @@ Muirhead, Philip S., Dressing, Courtney, Mann, Andrew W., et al.
 Gaidos, E., Kitzmann, D., Heng, K.    
 2017, refereed ([2017MNRAS.468.3418G](http://adsabs.harvard.edu/abs/2017MNRAS.468.3418G))  
 
-2. [THE TESS-HERMES SURVEY DATA RELEASE 1: HIGH-RESOLUTION SPECTROSCOPY OF THE TESS SOUTHERN CONTINUOUS VIEWING ZONE](http://adsabs.harvard.edu/abs/2017arXiv170705753S)  
-Sharma, Sanjib, Stello, Dennis, Buder, Sven, et al.    
-2017, pre-print ([2017arXiv170705753S](http://adsabs.harvard.edu/abs/2017arXiv170705753S))  
-
-3. [TRENDS IN ATMOSPHERIC PROPERTIES OF NEPTUNE-SIZE EXOPLANETS](http://adsabs.harvard.edu/abs/2017arXiv170800016C)  
+2. [TRENDS IN ATMOSPHERIC PROPERTIES OF NEPTUNE-SIZE EXOPLANETS](http://adsabs.harvard.edu/abs/2017arXiv170800016C)  
 Crossfield, Ian J. M., Kreidberg, Laura    
 2017, pre-print ([2017arXiv170800016C](http://adsabs.harvard.edu/abs/2017arXiv170800016C))  
 
@@ -118,18 +142,6 @@ Nascimbeni, V., Piotto, G., Ortolani, S., et al.
 1. [THE ASTEROSEISMIC POTENTIAL OF TESS: EXOPLANET-HOST STARS](http://adsabs.harvard.edu/abs/2016ApJ...830..138C)  
 Campante, T. L., Schofield, M., Kuszlewicz, J. S., et al.    
 2016, refereed ([2016ApJ...830..138C](http://adsabs.harvard.edu/abs/2016ApJ...830..138C))  
-
-2. [DATA PREPARATION FOR ASTEROSEISMOLOGY WITH TESS](http://adsabs.harvard.edu/abs/2016arXiv161002702L)  
-Lund, Mikkel N., Handberg, Rasmus, Kjeldsen, Hans, et al.    
-2016, pre-print ([2016arXiv161002702L](http://adsabs.harvard.edu/abs/2016arXiv161002702L))  
-
-3. [ON THE DETECTABILITY OF SOLAR-LIKE OSCILLATIONS WITH THE NASA TESS MISSION](http://adsabs.harvard.edu/abs/2016arXiv161006460C)  
-Campante, Tiago L.    
-2016, pre-print ([2016arXiv161006460C](http://adsabs.harvard.edu/abs/2016arXiv161006460C))  
-
-4. [GALACTIC ARCHAEOLOGY WITH TESS: PROSPECTS FOR TESTING THE STAR FORMATION HISTORY IN THE SOLAR NEIGHBOURHOOD](http://adsabs.harvard.edu/abs/2016arXiv161008862T)  
-Thomas, Alexandra, Stevenson, Emma, Gittins, Fabian W. R., et al.    
-2016, pre-print ([2016arXiv161008862T](http://adsabs.harvard.edu/abs/2016arXiv161008862T))  
 
 
 2016-09
