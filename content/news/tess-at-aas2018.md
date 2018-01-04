@@ -32,7 +32,7 @@ NASA's TESS and K2 missions will be hosting an evening splinter session on Tuesd
 ##### Wednesday, January 10, 2018
 ###### 5:30 PM-6:30 PM, Prince Georges Exhibit Hall (Gaylord at National Harbor), 246. Extrasolar Planets: Detection Poster Session
 * 246.05. Transit Precovery: Determining Ephemerides for Long-Period TESS Detections with KELT Photometry X. Yao; J. Pepper
-* Prospects for Ground-Based Detection and Follow-up of TESS-Discovered Exoplanets M. Varakian; D. Deming
+* 246.23. Prospects for Ground-Based Detection and Follow-up of TESS-Discovered Exoplanets M. Varakian; D. Deming
 * 246.31. High-Resolution Spectroscopy at the Wyoming Infrared Observatory: Setting TESS Science on FHiRE H. Jang-Condell; M.J. Pierce; C.A. Pilachowski; H. Kobulnicky; J.N. McLane
 
 ##### Thursday, January 11, 2018
