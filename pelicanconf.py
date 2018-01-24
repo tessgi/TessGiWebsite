@@ -74,7 +74,7 @@ STATIC_PATHS = (['images', 'data', 'docs'])
 
 # Directories that contain html files we want to exclude
 # because they are sub-pages included through rst includes
-# PAGE_EXCLUDES = ['pages/k2-observing/approved-programs']
+PAGE_EXCLUDES = ['pages/observing/approved-programs']
 
 # The fancy table of contents sidebar requires a plugin
 PLUGIN_PATHS = [os.path.join(os.path.dirname(os.path.realpath(__file__)),
@@ -99,7 +99,7 @@ MENUITEMS = (
             ('Status', 'status.html'),
             ('Technical details', 'observing-technical.html'),
             # ('Campaign fields', 'k2-fields.html'),
-            # ('Targets &amp; programs', 'k2-approved-programs.html'),
+            ('Programs &amp; targets', 'approved-programs.html'),
             # ('Data release notes', 'k2-data-release-notes.html'),
             ('Proposal tools', 'proposal-tools.html'),
             ('Discretionary targets', 'ddt.html'),
