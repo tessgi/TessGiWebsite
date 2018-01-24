@@ -99,7 +99,7 @@ MENUITEMS = (
             ('Status', 'status.html'),
             ('Technical details', 'observing-technical.html'),
             # ('Campaign fields', 'k2-fields.html'),
-            ('Programs &amp; targets', 'approved-programs.html'),
+            ('Approved programs', 'approved-programs.html'),
             # ('Data release notes', 'k2-data-release-notes.html'),
             ('Proposal tools', 'proposal-tools.html'),
             ('Discretionary targets', 'ddt.html'),
@@ -177,9 +177,9 @@ MEETINGS = (
             ('<b>5-9 March 2018</b><br>'
              'Preparing for TESS',
              'http://tess.ninja/'),
-            ('<b>5-9 March 2018</b><br>'
-             'Preparing for TESS',
-             'http://tess.ninja/'),
+            # ('<b>5-9 March 2018</b><br>'
+            #  'Preparing for TESS',
+            #  'http://tess.ninja/'),
             )
 
 # Defines the "related websites" listing in the footer of all pages
