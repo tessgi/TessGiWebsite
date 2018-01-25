@@ -1,4 +1,4 @@
-TESS approved targets & programs
+Approved Guest Investigator programs
 ################################
 :save_as: approved-programs.html
 
