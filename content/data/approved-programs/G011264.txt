@@ -1,0 +1,9 @@
+# TESS Program G011264
+            
+Title: Superflare Rates In GKM Stars With Tess
+
+PI: Davenport, James - Western Washington University
+
+Type: Small
+
+Summary: Flares have become a key observable signature of stellar magnetic activity in photometric surveys. The occurrence rates for these events have been found to correlate with other measures of magnetic activity, such as X-ray or UV emission, which decline as the star ages. Active stars can produce superflares, up to 1000x larger than those on the Sun, which may affect planet habitability. Further, frequent small flares can hinder transiting exoplanet detection. We propose to create a census of superflares for active GKM stars in the solar neighborhood using TESS. This program has the potential of discovering thousands of new flare stars across a range of spectral types, and will be key for characterizing the habitability of nearby exoplanets                                                     

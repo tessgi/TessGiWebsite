@@ -1,0 +1,9 @@
+# TESS Program G011299
+            
+Title: Evolving Magnetic Lives Of Young Suns
+
+PI: Airapetian, Vladimir - NASA/GSFC & Adnet
+
+Type: Small
+
+Summary: We propose TESS 2-min and 30-min cadence observations of a carefully selected sample of young solar analogs to focus on a single question with fundamental importance to search for life: What is the level of stellar activity in young sun-like stars and how does it impact habitability on rocky planets in the solar neighborhood? We propose to address this question by observationally characterizing and constraining magnetic activity in solar-type stars at various phases of their evolution. The proposed TESS observations are part of a large multi-wavelength, multi-observatory campaign where the complete data set will allow us theoretically reconstruct space weather properties including coronal XUV and electromechanical fluxes from winds in solar analogs with ages spanning between 0.13 to 2.5 Gy
