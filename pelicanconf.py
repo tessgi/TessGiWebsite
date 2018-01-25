@@ -177,6 +177,24 @@ MEETINGS = (
             ('<b>5-9 March 2018</b><br>'
              'Preparing for TESS',
              'http://tess.ninja/'),
+            ('<b>3-7 June 2018</b><br>'
+             '232nd Meeting of the American Astronomical Society',
+             'https://aas.org/meetings/aas232'),            
+            ('<b>2-6 July 2018</b><br>'
+             'Exoplanets II',
+             'https://www.exoplanetscience2.org'),
+            ('<b>8-13 July 2018</b><br>'
+             'TASC4/KASC11',
+             'https://tasoc.dk'),
+            ('<b>14-22 July 2018</b><br>'
+             'COSPAR',
+             'http://cospar2018.org'),
+            ('<b>20-31 August 2018</b><br>'
+             'International Astronomical Union',
+             'https://astronomy2018.univie.ac.at'),             
+            ('<b>15 April 2019 - 28 June 2019</b><br>'
+             'Better Stars, Better Planets: Exploiting the Stellar-Exoplanetary Synergy',
+             'https://www.kitp.ucsb.edu/activities/exostar19'),
             # ('<b>5-9 March 2018</b><br>'
             #  'Preparing for TESS',
             #  'http://tess.ninja/'),
