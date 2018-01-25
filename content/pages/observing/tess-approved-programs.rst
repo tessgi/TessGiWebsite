@@ -1,5 +1,5 @@
 Approved Guest Investigator programs
-################################
+####################################
 :save_as: approved-programs.html
 
 This page details the programs for execution by TESS
