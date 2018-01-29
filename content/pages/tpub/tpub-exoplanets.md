@@ -4,6 +4,14 @@ Save_as: tpub-exoplanets.html
 [TOC]
 
 
+2018
+----
+
+1. [PREDICTED NUMBER, MULTIPLICITY, AND ORBITAL DYNAMICS OF TESS M DWARF EXOPLANETS](http://adsabs.harvard.edu/abs/2018arXiv180104949B)  
+Ballard, Sarah    
+2018, pre-print ([2018arXiv180104949B](http://adsabs.harvard.edu/abs/2018arXiv180104949B))  
+
+
 2017
 ----
 
@@ -15,27 +23,23 @@ Louie, Dana R., Deming, Drake, Albert, Loic, et al.
 Gaidos, E., Kitzmann, D., Heng, K.    
 2017, refereed ([2017MNRAS.468.3418G](http://adsabs.harvard.edu/abs/2017MNRAS.468.3418G))  
 
-3. [TRENDS IN ATMOSPHERIC PROPERTIES OF NEPTUNE-SIZE EXOPLANETS](http://adsabs.harvard.edu/abs/2017arXiv170800016C)  
-Crossfield, Ian J. M., Kreidberg, Laura    
-2017, pre-print ([2017arXiv170800016C](http://adsabs.harvard.edu/abs/2017arXiv170800016C))  
-
-4. [PLANET DETECTION SIMULATIONS FOR SEVERAL POSSIBLE TESS EXTENDED MISSIONS](http://adsabs.harvard.edu/abs/2017arXiv170508891B)  
+3. [PLANET DETECTION SIMULATIONS FOR SEVERAL POSSIBLE TESS EXTENDED MISSIONS](http://adsabs.harvard.edu/abs/2017arXiv170508891B)  
 Bouma, L. G., Winn, Joshua N., Kosiarek, Jacobi, et al.    
 2017, pre-print ([2017arXiv170508891B](http://adsabs.harvard.edu/abs/2017arXiv170508891B))  
 
-5. [LIMB AND GRAVITY-DARKENING COEFFICIENTS FOR THE TESS SATELLITE AT SEVERAL METALLICITIES, SURFACE GRAVITIES, AND MICROTURBULENT VELOCITIES](http://adsabs.harvard.edu/abs/2017A&A...600A..30C)  
+4. [LIMB AND GRAVITY-DARKENING COEFFICIENTS FOR THE TESS SATELLITE AT SEVERAL METALLICITIES, SURFACE GRAVITIES, AND MICROTURBULENT VELOCITIES](http://adsabs.harvard.edu/abs/2017A&A...600A..30C)  
 Claret, A.    
 2017, refereed ([2017A&A...600A..30C](http://adsabs.harvard.edu/abs/2017A&A...600A..30C))  
 
-6. [TEE, AN ESTIMATOR FOR THE PRECISION OF ECLIPSE AND TRANSIT MINIMUM TIMES](http://adsabs.harvard.edu/abs/2017A&A...599A..93D)  
+5. [TEE, AN ESTIMATOR FOR THE PRECISION OF ECLIPSE AND TRANSIT MINIMUM TIMES](http://adsabs.harvard.edu/abs/2017A&A...599A..93D)  
 Deeg, H. J., Tingley, B.    
 2017, refereed ([2017A&A...599A..93D](http://adsabs.harvard.edu/abs/2017A&A...599A..93D))  
 
-7. [TRANSIT CLAIRVOYANCE: ENHANCING TESS FOLLOW-UP USING ARTIFICIAL NEURAL NETWORKS](http://adsabs.harvard.edu/abs/2017MNRAS.465.3495K)  
+6. [TRANSIT CLAIRVOYANCE: ENHANCING TESS FOLLOW-UP USING ARTIFICIAL NEURAL NETWORKS](http://adsabs.harvard.edu/abs/2017MNRAS.465.3495K)  
 Kipping, David M., Lam, Christopher    
 2017, refereed ([2017MNRAS.465.3495K](http://adsabs.harvard.edu/abs/2017MNRAS.465.3495K))  
 
-8. [FOLLOW-UP AND CHARACTERIZATION OF THE TESS EXOPLANETS WITH SOPHIE, SPIROU, AND JWST](http://adsabs.harvard.edu/abs/2017arXiv170103539C)  
+7. [FOLLOW-UP AND CHARACTERIZATION OF THE TESS EXOPLANETS WITH SOPHIE, SPIROU, AND JWST](http://adsabs.harvard.edu/abs/2017arXiv170103539C)  
 Crouzet, N., Bonfils, X., Delfosse, X., et al.    
 2017, pre-print ([2017arXiv170103539C](http://adsabs.harvard.edu/abs/2017arXiv170103539C))  
 

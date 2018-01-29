@@ -13,7 +13,7 @@ the TESS mission is provided by the NASA Explorer Program.*
 The TESS Science Support Center curates a list of scientific publications
 pertaining to TESS.
 The database contains 42 publications,
-of which 24 are peer-reviewed.
+of which 26 are peer-reviewed.
 It demonstrates the important impact of TESS data
 on astronomical research.
 
@@ -29,7 +29,7 @@ Or seach by topic:
 If you spot an error in the database, such as a missing entry,
 please get in touch or open an issue in the <a href="https://github.com/tessgi/tpub">GitHub repository</a> of the database.
 
-Last update: 04 Jan 2018.
+Last update: 29 Jan 2018.
 
 <hr/>
 
@@ -60,7 +60,7 @@ pertain to other areas of astrophysics
 ## Most-cited publications
 
 TESS publications have cumulatively been cited
-523 times.
+563 times.
 The list below shows the most-cited publications,
 based on the citation count obtained from NASA ADS.
 
@@ -68,32 +68,32 @@ based on the citation count obtained from NASA ADS.
 1. TRANSITING EXOPLANET SURVEY SATELLITE (TESS)  
 Ricker, George R., Winn, Joshua N., Vanderspek, Roland, et al.    
 [2015JATIS...1a4003R](http://adsabs.harvard.edu/abs/2015JATIS...1a4003R)
-<span class="badge">186 citations</span>
+<span class="badge">196 citations</span>
 
 2. THE TRANSITING EXOPLANET SURVEY SATELLITE: SIMULATIONS OF PLANET DETECTIONS AND ASTROPHYSICAL FALSE POSITIVES  
 Sullivan, Peter W., Winn, Joshua N., Berta-Thompson, Zachory K., et al.    
 [2015ApJ...809...77S](http://adsabs.harvard.edu/abs/2015ApJ...809...77S)
-<span class="badge">82 citations</span>
+<span class="badge">86 citations</span>
 
 3. CHARACTERIZING TRANSITING PLANET ATMOSPHERES THROUGH 2025  
 Cowan, N. B., Greene, T., Angerhausen, D., et al.    
 [2015PASP..127..311C](http://adsabs.harvard.edu/abs/2015PASP..127..311C)
-<span class="badge">38 citations</span>
+<span class="badge">39 citations</span>
 
 4. UNDERSTANDING THE EFFECTS OF STELLAR MULTIPLICITY ON THE DERIVED PLANET RADII FROM TRANSIT SURVEYS: IMPLICATIONS FOR KEPLER, K2, AND TESS  
 Ciardi, David R., Beichman, Charles A., Horch, Elliott P., et al.    
 [2015ApJ...805...16C](http://adsabs.harvard.edu/abs/2015ApJ...805...16C)
-<span class="badge">31 citations</span>
+<span class="badge">36 citations</span>
 
 5. THE TRANSITING EXOPLANET SURVEY SATELLITE MISSION  
 Ricker, G. R.    
 [2014JAVSO..42..234R](http://adsabs.harvard.edu/abs/2014JAVSO..42..234R)
-<span class="badge">23 citations</span>
+<span class="badge">24 citations</span>
 
 6. THE ASTEROSEISMIC POTENTIAL OF TESS: EXOPLANET-HOST STARS  
 Campante, T. L., Schofield, M., Kuszlewicz, J. S., et al.    
 [2016ApJ...830..138C](http://adsabs.harvard.edu/abs/2016ApJ...830..138C)
-<span class="badge">21 citations</span>
+<span class="badge">23 citations</span>
 
 7. THE K2-TESS STELLAR PROPERTIES CATALOG  
 Stassun, Keivan G., Pepper, Joshua A., Oelkers, Ryan, et al.    
@@ -108,7 +108,7 @@ Jackson, Brian, Stark, Christopher C., Adams, Elisabeth R., et al.
 9. RADIAL VELOCITY PROSPECTS CURRENT AND FUTURE: A WHITE PAPER REPORT PREPARED BY THE STUDY ANALYSIS GROUP 8 FOR THE EXOPLANET PROGRAM ANALYSIS GROUP (EXOPAG)  
 Plavchan, Peter, Latham, Dave, Gaudi, Scott, et al.    
 [2015arXiv150301770P](http://adsabs.harvard.edu/abs/2015arXiv150301770P)
-<span class="badge">15 citations</span>
+<span class="badge">16 citations</span>
 
 10. ASTEROSEISMOLOGY OF RED GIANTS: FROM ANALYSING LIGHT CURVES TO ESTIMATING AGES  
 Davies, G. R., Miglio, A.    

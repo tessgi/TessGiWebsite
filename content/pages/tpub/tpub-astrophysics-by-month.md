@@ -7,7 +7,15 @@ Save_as: tpub-astrophysics-by-month.html
 2018-01
 -------
 
-1. [THE TESS─HERMES SURVEY DATA RELEASE 1: HIGH-RESOLUTION SPECTROSCOPY OF THE TESS SOUTHERN CONTINUOUS VIEWING ZONE](http://adsabs.harvard.edu/abs/2018MNRAS.473.2004S)  
+1. [EMPIRICAL ACCURATE MASSES AND RADII OF SINGLE STARS WITH TESS AND GAIA](http://adsabs.harvard.edu/abs/2018AJ....155...22S)  
+Stassun, Keivan G., Corsaro, Enrico, Pepper, Joshua A., et al.    
+2018, refereed ([2018AJ....155...22S](http://adsabs.harvard.edu/abs/2018AJ....155...22S))  
+
+2. [VARIABILITY PROPERTIES OF FOUR MILLION SOURCES IN THE TESS INPUT CATALOG OBSERVED WITH THE KILODEGREE EXTREMELY LITTLE TELESCOPE SURVEY](http://adsabs.harvard.edu/abs/2018AJ....155...39O)  
+Oelkers, Ryan J., Rodriguez, Joseph E., Stassun, Keivan G., et al.    
+2018, refereed ([2018AJ....155...39O](http://adsabs.harvard.edu/abs/2018AJ....155...39O))  
+
+3. [THE TESS-HERMES SURVEY DATA RELEASE 1: HIGH-RESOLUTION SPECTROSCOPY OF THE TESS SOUTHERN CONTINUOUS VIEWING ZONE](http://adsabs.harvard.edu/abs/2018MNRAS.473.2004S)  
 Sharma, Sanjib, Stello, Dennis, Buder, Sven, et al.    
 2018, refereed ([2018MNRAS.473.2004S](http://adsabs.harvard.edu/abs/2018MNRAS.473.2004S))  
 
@@ -18,14 +26,6 @@ Sharma, Sanjib, Stello, Dennis, Buder, Sven, et al.
 1. [MULTIBAND PHOTOMETRY AND SPECTROSCOPY OF AN ALL-SKY SAMPLE OF BRIGHT WHITE DWARFS](http://adsabs.harvard.edu/abs/2017MNRAS.472.4173R)  
 Raddi, R., Gentile Fusillo, N. P., Pala, A. F., et al.    
 2017, refereed ([2017MNRAS.472.4173R](http://adsabs.harvard.edu/abs/2017MNRAS.472.4173R))  
-
-
-2017-11
--------
-
-1. [VARIABILITY PROPERTIES OF 4 MILLION SOURCES IN THE $TESS$ INPUT CATALOG OBSERVED WITH THE KILODEGREE EXTREMELY LITTLE TELESCOPE SURVEY](http://adsabs.harvard.edu/abs/2017arXiv171103608O)  
-Oelkers, Ryan J., Rodriguez, Joseph E., Stassun, Keivan G., et al.    
-2017, pre-print ([2017arXiv171103608O](http://adsabs.harvard.edu/abs/2017arXiv171103608O))  
 
 
 2017-10
@@ -42,10 +42,6 @@ Campante, Tiago L.
 3. [GALACTIC ARCHAEOLOGY WITH TESS: PROSPECTS FOR TESTING THE STAR FORMATION HISTORY IN THE SOLAR NEIGHBOURHOOD](http://adsabs.harvard.edu/abs/2017EPJWC.16005006T)  
 Thomas, Alexandra, Stevenson, Emma, Gittins, Fabian W. R., et al.    
 2017, not refereed ([2017EPJWC.16005006T](http://adsabs.harvard.edu/abs/2017EPJWC.16005006T))  
-
-4. [EMPIRICAL, ACCURATE MASSES AND RADII OF SINGLE STARS WITH TESS AND GAIA](http://adsabs.harvard.edu/abs/2017arXiv171001460S)  
-Stassun, Keivan G., Corsaro, Enrico, Pepper, Joshua, et al.    
-2017, pre-print ([2017arXiv171001460S](http://adsabs.harvard.edu/abs/2017arXiv171001460S))  
 
 
 2017-09

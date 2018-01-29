@@ -4,6 +4,14 @@ Save_as: tpub-exoplanets-by-month.html
 [TOC]
 
 
+2018-01
+-------
+
+1. [PREDICTED NUMBER, MULTIPLICITY, AND ORBITAL DYNAMICS OF TESS M DWARF EXOPLANETS](http://adsabs.harvard.edu/abs/2018arXiv180104949B)  
+Ballard, Sarah    
+2018, pre-print ([2018arXiv180104949B](http://adsabs.harvard.edu/abs/2018arXiv180104949B))  
+
+
 2017-11
 -------
 
@@ -18,10 +26,6 @@ Louie, Dana R., Deming, Drake, Albert, Loic, et al.
 1. [EXOPLANET CHARACTERIZATION BY MULTI-OBSERVATORY TRANSIT PHOTOMETRY WITH TESS AND CHEOPS](http://adsabs.harvard.edu/abs/2017MNRAS.468.3418G)  
 Gaidos, E., Kitzmann, D., Heng, K.    
 2017, refereed ([2017MNRAS.468.3418G](http://adsabs.harvard.edu/abs/2017MNRAS.468.3418G))  
-
-2. [TRENDS IN ATMOSPHERIC PROPERTIES OF NEPTUNE-SIZE EXOPLANETS](http://adsabs.harvard.edu/abs/2017arXiv170800016C)  
-Crossfield, Ian J. M., Kreidberg, Laura    
-2017, pre-print ([2017arXiv170800016C](http://adsabs.harvard.edu/abs/2017arXiv170800016C))  
 
 
 2017-05

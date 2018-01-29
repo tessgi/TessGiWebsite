@@ -7,7 +7,15 @@ Save_as: tpub-astrophysics.html
 2018
 ----
 
-1. [THE TESS─HERMES SURVEY DATA RELEASE 1: HIGH-RESOLUTION SPECTROSCOPY OF THE TESS SOUTHERN CONTINUOUS VIEWING ZONE](http://adsabs.harvard.edu/abs/2018MNRAS.473.2004S)  
+1. [EMPIRICAL ACCURATE MASSES AND RADII OF SINGLE STARS WITH TESS AND GAIA](http://adsabs.harvard.edu/abs/2018AJ....155...22S)  
+Stassun, Keivan G., Corsaro, Enrico, Pepper, Joshua A., et al.    
+2018, refereed ([2018AJ....155...22S](http://adsabs.harvard.edu/abs/2018AJ....155...22S))  
+
+2. [VARIABILITY PROPERTIES OF FOUR MILLION SOURCES IN THE TESS INPUT CATALOG OBSERVED WITH THE KILODEGREE EXTREMELY LITTLE TELESCOPE SURVEY](http://adsabs.harvard.edu/abs/2018AJ....155...39O)  
+Oelkers, Ryan J., Rodriguez, Joseph E., Stassun, Keivan G., et al.    
+2018, refereed ([2018AJ....155...39O](http://adsabs.harvard.edu/abs/2018AJ....155...39O))  
+
+3. [THE TESS-HERMES SURVEY DATA RELEASE 1: HIGH-RESOLUTION SPECTROSCOPY OF THE TESS SOUTHERN CONTINUOUS VIEWING ZONE](http://adsabs.harvard.edu/abs/2018MNRAS.473.2004S)  
 Sharma, Sanjib, Stello, Dennis, Buder, Sven, et al.    
 2018, refereed ([2018MNRAS.473.2004S](http://adsabs.harvard.edu/abs/2018MNRAS.473.2004S))  
 
@@ -19,39 +27,31 @@ Sharma, Sanjib, Stello, Dennis, Buder, Sven, et al.
 Raddi, R., Gentile Fusillo, N. P., Pala, A. F., et al.    
 2017, refereed ([2017MNRAS.472.4173R](http://adsabs.harvard.edu/abs/2017MNRAS.472.4173R))  
 
-2. [VARIABILITY PROPERTIES OF 4 MILLION SOURCES IN THE $TESS$ INPUT CATALOG OBSERVED WITH THE KILODEGREE EXTREMELY LITTLE TELESCOPE SURVEY](http://adsabs.harvard.edu/abs/2017arXiv171103608O)  
-Oelkers, Ryan J., Rodriguez, Joseph E., Stassun, Keivan G., et al.    
-2017, pre-print ([2017arXiv171103608O](http://adsabs.harvard.edu/abs/2017arXiv171103608O))  
-
-3. [DATA PREPARATION FOR ASTEROSEISMOLOGY WITH TESS](http://adsabs.harvard.edu/abs/2017EPJWC.16001005L)  
+2. [DATA PREPARATION FOR ASTEROSEISMOLOGY WITH TESS](http://adsabs.harvard.edu/abs/2017EPJWC.16001005L)  
 Lund, Mikkel N., Handberg, Rasmus, Kjeldsen, Hans, et al.    
 2017, not refereed ([2017EPJWC.16001005L](http://adsabs.harvard.edu/abs/2017EPJWC.16001005L))  
 
-4. [ON THE DETECTABILITY OF SOLAR-LIKE OSCILLATIONS WITH THE NASA TESS MISSION](http://adsabs.harvard.edu/abs/2017EPJWC.16001006C)  
+3. [ON THE DETECTABILITY OF SOLAR-LIKE OSCILLATIONS WITH THE NASA TESS MISSION](http://adsabs.harvard.edu/abs/2017EPJWC.16001006C)  
 Campante, Tiago L.    
 2017, not refereed ([2017EPJWC.16001006C](http://adsabs.harvard.edu/abs/2017EPJWC.16001006C))  
 
-5. [GALACTIC ARCHAEOLOGY WITH TESS: PROSPECTS FOR TESTING THE STAR FORMATION HISTORY IN THE SOLAR NEIGHBOURHOOD](http://adsabs.harvard.edu/abs/2017EPJWC.16005006T)  
+4. [GALACTIC ARCHAEOLOGY WITH TESS: PROSPECTS FOR TESTING THE STAR FORMATION HISTORY IN THE SOLAR NEIGHBOURHOOD](http://adsabs.harvard.edu/abs/2017EPJWC.16005006T)  
 Thomas, Alexandra, Stevenson, Emma, Gittins, Fabian W. R., et al.    
 2017, not refereed ([2017EPJWC.16005006T](http://adsabs.harvard.edu/abs/2017EPJWC.16005006T))  
 
-6. [EMPIRICAL, ACCURATE MASSES AND RADII OF SINGLE STARS WITH TESS AND GAIA](http://adsabs.harvard.edu/abs/2017arXiv171001460S)  
-Stassun, Keivan G., Corsaro, Enrico, Pepper, Joshua, et al.    
-2017, pre-print ([2017arXiv171001460S](http://adsabs.harvard.edu/abs/2017arXiv171001460S))  
-
-7. [CEPHEIDS WITH THE EYES OF PHOTOMETRIC SPACE TELESCOPES](http://adsabs.harvard.edu/abs/2017EPJWC.15202004M)  
+5. [CEPHEIDS WITH THE EYES OF PHOTOMETRIC SPACE TELESCOPES](http://adsabs.harvard.edu/abs/2017EPJWC.15202004M)  
 Molnár, László, Pál, András, Plachy, Emese    
 2017, not refereed ([2017EPJWC.15202004M](http://adsabs.harvard.edu/abs/2017EPJWC.15202004M))  
 
-8. [A CATALOG OF COOL DWARF TARGETS FOR THE TRANSITING EXOPLANET SURVEY SATELLITE](http://adsabs.harvard.edu/abs/2017arXiv171000193M)  
+6. [A CATALOG OF COOL DWARF TARGETS FOR THE TRANSITING EXOPLANET SURVEY SATELLITE](http://adsabs.harvard.edu/abs/2017arXiv171000193M)  
 Muirhead, Philip S., Dressing, Courtney, Mann, Andrew W., et al.    
 2017, pre-print ([2017arXiv171000193M](http://adsabs.harvard.edu/abs/2017arXiv171000193M))  
 
-9. [THE TESS INPUT CATALOG AND CANDIDATE TARGET LIST](http://adsabs.harvard.edu/abs/2017arXiv170600495S)  
+7. [THE TESS INPUT CATALOG AND CANDIDATE TARGET LIST](http://adsabs.harvard.edu/abs/2017arXiv170600495S)  
 Stassun, Keivan G., Oelkers, Ryan J., Pepper, Joshua, et al.    
 2017, pre-print ([2017arXiv170600495S](http://adsabs.harvard.edu/abs/2017arXiv170600495S))  
 
-10. [ON THE STATISTICAL PROPERTIES OF THE LOWER MAIN SEQUENCE](http://adsabs.harvard.edu/abs/2017ApJ...839..116A)  
+8. [ON THE STATISTICAL PROPERTIES OF THE LOWER MAIN SEQUENCE](http://adsabs.harvard.edu/abs/2017ApJ...839..116A)  
 Angelou, George C., Bellinger, Earl P., Hekker, Saskia, et al.    
 2017, refereed ([2017ApJ...839..116A](http://adsabs.harvard.edu/abs/2017ApJ...839..116A))  
 
