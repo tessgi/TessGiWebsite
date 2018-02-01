@@ -1,0 +1,9 @@
+# TESS Program G011047
+            
+Title: Investigating The Evolution Of Helium
+
+PI: Basu, Sarbani - Yale University
+
+Type: Large
+
+Summary: We propose to investigate the evolution of helium in the local solar neighborhood, in particular the (Delta Y/Delta Z) relation, using asteroseismic data of stars in the TESS Continuous Viewing Zone (CVZ). The helium abundance is one of the most poorly constrained inputs needed to construct stellar models, but it strongly affects a star's structure and subsequent evolution. Helium cannot be detected in the photosphere of most stars. Asteroseismology allows us to determine the helium abundance in the outer convection-zone of stars indirectly by modelling stellar oscillation frequencies, and directly by looking at the acoustic glitch signal of helium ionization. Stars in the TESS CVZ will allow us to study the (Delta Y/Delta Z) relation. Our target list has 188 stars in the southern CVZ.    
