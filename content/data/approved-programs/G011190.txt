@@ -1,0 +1,9 @@
+# TESS Program G011190
+            
+Title: Planets Around Early-Type Stars: A TESS Search For Transiting Planets Around Lambda Bootis Stars
+
+PI: Endl, Michael - University Of Texas At Austin
+
+Type: Small
+
+Summary: The occurrence rates of planets orbiting early-type stars are important for our understanding of planet formation and subsequent evolution. We propose to use TESS to observe all known lambda Bootis stars to test the hypothesis that their peculiar chemical abundance patterns are a direct consequence of the presence of giant planetary companions. Lambda Bootis stars are A-type stars that were found to exhibit an under-abundance of Fe-peak elements while their abundances of lighter elements are normal. One possible scenario to explain these abundance patterns is that young lambda Bootis stars selectively accrete material from the circumstellar disk which is dynamically separated by the presence of a massive planetary companion. Our proposed study will test this hypothesis.                    
