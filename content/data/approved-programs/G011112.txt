@@ -1,0 +1,9 @@
+# TESS Program G011112
+            
+Title: A TESS Legacy Project: High-Precision Light Curves Of The Known Transiting Planetary Systems
+
+PI: Southworth, John - Keele University
+
+Type: Small
+
+Summary: TESS will follow in the footsteps of Kepler to become the world's pre-eminent mission for finding new planetary systems. Its high-quality photometry will also enable detailed studies of currently known transiting systems. We propose to obtain light curves of all 149 suitable systems in order to: (1) measure precise masses, radii and densities; (2) study orbital obliquity from starspot crossing events; (3) search for orbital decay, additional non-transiting planets, and moons from transit timing and transit duration variations; (4) identify rings around giant planets; (5) search for intrinsic variability in the planet host stars. These observations will form a dataset of unique quality and long-term legacy value; four of the five science goals can only be done using short cadence data.     

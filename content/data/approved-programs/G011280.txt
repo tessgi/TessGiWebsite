@@ -1,0 +1,9 @@
+# TESS Program G011280
+            
+Title: Planet Formation At 10-20 Myr After Formation
+
+PI: Rizzuto, Aaron - University Of Texas At Austin
+
+Type: Large
+
+Summary: Exoplanets undergo the most dramatic changes in their orbital, radius and atmospheric properties in the first few 100 Myr after formation. The most crucial sample for evaluating model of exoplanet evolution (such as migration) are the youngest planets (<50 Myr). We propose short cadence and FFI analysis of all members of the 10-20 Myr old Sco-Cen association, the home of the vast majority of young stars in the nearest 200 pc volume. We will implement PSF fitting for FFI data, apply our young star specific transit-search pipeline to both SC and LC data to identify transiting planets for follow-up, and perform injection-recovery tests to measure occurrence rates at very young ages. In total, we propose to observe 1722 targets with T<13 for 2min cadence.                                       
