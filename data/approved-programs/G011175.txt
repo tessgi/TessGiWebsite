@@ -1,0 +1,9 @@
+# TESS Program G011175
+            
+Title: Searching For Infant Exoplanets In Young Moving Groups
+
+PI: Mann, Andrew - Columbia University
+
+Type: Small
+
+Summary: Planets and their host stars evolve with time, and the first few hundred million years are the most formative. By identifying planets at these ages, we can directly measure how exoplanets change over their lifetimes. K2 has significantly expanded this field by observing stars in nearby young clusters and star forming regions. However the sample of known young planets still remains small, and most orbit faint stars, hindering detailed follow-up. Here we propose to search for exoplanets around stars in nearby young moving groups, using both short-cadence and full-frame images from TESS. With this, we will dramatically expand the number of known infant (<200 Myr) planets, including those orbiting stars bright enough for detailed mass measurements and atmospheric characterization.             

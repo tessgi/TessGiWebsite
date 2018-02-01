@@ -1,0 +1,9 @@
+# TESS Program G011155
+            
+Title: Halo Photometry Of Naked-Eye Stars With Tess
+
+PI: Huber, Daniel - University Of Hawaii (Manoa)
+
+Type: Small
+
+Summary: The most powerful tests of stellar structure and evolution come from the brightest stars in the sky, for which complementary techniques can be combined. So far, naked-eye stars (V<6) have been rarely observed with high-precision photometry from space due to the large number of pixels required to capture saturated pixel columns. Here we propose adapt a low-pixel-cost technique, which our team pioneered for the K2 Mission, to produce high-precision 2-minute cadence light curves of all naked eye stars observable by TESS. The software tools and data products will enable numerous science applications, including tests of asteroseismic scaling relations for red giants, the detection of transiting planets orbiting naked-eye stars, pulsations in massive stars, and studies of interacting binaries.  

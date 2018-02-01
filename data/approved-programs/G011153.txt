@@ -1,0 +1,9 @@
+# TESS Program G011153
+            
+Title: Exploring The Variability Of Ultracool Dwarfs With Tess
+
+PI: Pineda, J. Sebastian - University Of Colorado
+
+Type: Small
+
+Summary: We propose to conduct the first systematic and statistically robust study of variability in very-low mass stars and brown dwarfs, enabled by the TESS mission's long-term continuous photometric monitoring, red sensitive passband and broad sky coverage. We will examine the light-curves of hundreds of spectroscopically verified ultracool dwarfs to characterize brightness modulations, measure rotation periods and determine flare rates, including a sample of 2 min cadence targets to study flare profiles and short duration variability. This study will fundamentally probe the nature of the atmospheric, structural, and rotational changes at the end of the stellar main sequence, and how these physical processes manifest as broadband variability through magnetic activity and weather.                

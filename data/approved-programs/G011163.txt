@@ -1,0 +1,9 @@
+# TESS Program G011163
+            
+Title: Revisiting The Past: B Star Asteroseismology With Tess
+
+PI: Buzasi, Derek - Florida Gulf Coast University
+
+Type: Small
+
+Summary: Massive stars play an outsized role in the evolution of the universe through their roles in chemical enrichment and as Type II supernova progenitors. In this proposal, we plan to use TESS to perform asteroseismology on 26 B stars, primarily SPB and Beta Cep stars. All of our targets have previously been observed using high precision photometry from space with the WIRE satellite, and the combination of TESS+WIRE data of these stars will provide long timebase datasets inaccessible in any other way for this sample of stars. We will perform forward seismic modeling and compare results to our measured oscillation frequencies, constraining our models with known spectroscopic parameters. In addition, we will be able to observe stellar evolution occurring in real time with some of our targets.    

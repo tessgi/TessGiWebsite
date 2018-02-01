@@ -1,0 +1,9 @@
+# TESS Program G011180
+            
+Title: Differential Planet Occurrence Rates For Cool Dwarfs
+
+PI: Dressing, Courtney - University Of California (Berkeley)
+
+Type: Large
+
+Summary: We propose to use TESS data to investigate planetary systems orbiting cool dwarfs spanning a range of masses, metallicities, and ages. TESS will survey 13 times more cool dwarfs than Kepler and K2 combined, thereby enabling sophisticated analyses of how the prevalence and properties of planets depend on host star characteristics. Using our planet detection pipeline, we expect to detect roughly 90 Earth-sized planets, 360 Super-Earths, and 1460 Sub-Neptunes in the Full-Frame Images of nearly 1 million cool dwarfs. Many of these worlds will be individually interesting as targets for future mass measurement or atmospheric characterization, and planet occurrence calculations using the full planet sample will reveal new insights into the formation and evolution of planetary systems.            

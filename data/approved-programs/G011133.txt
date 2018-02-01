@@ -1,0 +1,9 @@
+# TESS Program G011133
+            
+Title: Subgiants As Precision Tests Of Angular Momentum Evolution
+
+PI: Pinsonneault, Marc - Ohio State University
+
+Type: Small
+
+Summary: With space asteroseismology we can measure the internal rotation of evolved stars. Subgiant stars are especially valuable because we can also measure their surface rotation, which is difficult or impossible for more evolved stars. Prior studies have given us strong evidence for cores rotating faster than their surfaces, but only for small subgiant samples. We request observations of 50 high-priority subgiant stars in the southern continuous viewing zone. A one year time series will yield high quality data capable of measuring internal rotation, and we have arranged complementary ground-based data to fully characterize these important targets. This powerful sample will permit tests of gyrochronlogy and stellar angular momentum evolution theory, and it has other broad applications.          
