@@ -171,9 +171,9 @@ MEETINGS = (
             # ('<b>13-17 November 2017</b><br>'
             #  'Habitable Worlds 2017:  A System Science Workshop',
             #  'http://nexsci.caltech.edu/conferences/2017/knowthystar/'),
-            ('<b>8-12 January 2018</b><br>'
-             '231st Meeting of the American Astronomical Society',
-             'https://aas.org/meetings/aas231'),
+            # ('<b>8-12 January 2018</b><br>'
+            #  '231st Meeting of the American Astronomical Society',
+            #  'https://aas.org/meetings/aas231'),
             ('<b>5-9 March 2018</b><br>'
              'Preparing for TESS',
              'http://tess.ninja/'),
