@@ -137,7 +137,7 @@ IMPORTANT_DATES = (
             # ('<b>6 Oct 2017</b>',
             #  'Cycle 1 proposal submission deadline ',
             #  'proposing-investigations.html'), # link to a new item?
-            ('<b>20 Mar 2018</b>',
+            ('<b>Spring 2018</b>',
              'Planned mission launch date',
              'operations.html'), # link to a news item?
          )
