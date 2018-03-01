@@ -7,7 +7,7 @@ in August 2015, using pelican-bootstrap and flatly.
 >
 
 <head>
-    <title>TESS to observe bright stars at 2-min cadence - TESS</title>
+    <title>TESS simulated data available - TESS</title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
@@ -37,19 +37,19 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <link href="./images/favicon.png" rel="icon">
 
-<link rel="canonical" href="./tess-to-observe-bright-stars-at-2-min-cadence.html">
+<link rel="canonical" href="./tess-simulated-data-available.html">
 
-        <meta name="author" content="Tom Barclay" />
-        <meta name="description" content="The TESS team has been working together to plan how to merge lists of targets are that are to be observed at two-minute cadence. As a result of these discussions the mission is committing to observing at two-minute cadence all stars that fall into the TESS field of view that …" />
+        <meta name="author" content="Elisa Quintana" />
+        <meta name="description" content="TESS simulated data is now available to the public at the MAST&#39;s TESS data page. There you will find information on the data products, how the data products were created, and how to access the data. The simulated data, called ETE-6 (End-To-End 6) was created by TESS team members from …" />
 
         <meta property="og:site_name" content="TESS" />
         <meta property="og:type" content="article"/>
-        <meta property="og:title" content="TESS to observe bright stars at 2-min cadence"/>
-        <meta property="og:url" content="./tess-to-observe-bright-stars-at-2-min-cadence.html"/>
-        <meta property="og:description" content="The TESS team has been working together to plan how to merge lists of targets are that are to be observed at two-minute cadence. As a result of these discussions the mission is committing to observing at two-minute cadence all stars that fall into the TESS field of view that …"/>
-        <meta property="article:published_time" content="2017-09-09" />
+        <meta property="og:title" content="TESS simulated data available"/>
+        <meta property="og:url" content="./tess-simulated-data-available.html"/>
+        <meta property="og:description" content="TESS simulated data is now available to the public at the MAST&#39;s TESS data page. There you will find information on the data products, how the data products were created, and how to access the data. The simulated data, called ETE-6 (End-To-End 6) was created by TESS team members from …"/>
+        <meta property="article:published_time" content="2018-03-01" />
             <meta property="article:section" content="news" />
-            <meta property="article:author" content="Tom Barclay" />
+            <meta property="article:author" content="Elisa Quintana" />
             <meta property="og:image"
                   content="./images/logo-for-twitter.jpeg"/>
 
@@ -147,10 +147,10 @@ in August 2015, using pelican-bootstrap and flatly.
         <article>
             <header >
                 <h1>
-                    <a href="./tess-to-observe-bright-stars-at-2-min-cadence.html"
+                    <a href="./tess-simulated-data-available.html"
                        rel="bookmark"
-                       title="Permalink to TESS to observe bright stars at 2-min cadence">
-                        TESS to observe bright stars at 2-min cadence
+                       title="Permalink to TESS simulated data available">
+                        TESS simulated data available
                     </a>
                 </h1>
             </header>
@@ -158,19 +158,32 @@ in August 2015, using pelican-bootstrap and flatly.
 <p style="margin-bottom: 1.5em;">
     <span class="published categories-timestamp">
         News article posted on
-        <time datetime="2017-09-09T10:00:00-04:00"> 09 Sep 2017</time>
+        <time datetime="2018-03-01T02:01:00-05:00"> 01 Mar 2018</time>
     
 
 
-            by <a href="./author/tom-barclay.html">Tom Barclay</a>
+            by <a href="./author/elisa-quintana.html">Elisa Quintana</a>
 
 
 
     
 
     </span>
-</p><!-- /.post-info -->                <p>The TESS team has been working together to plan how to merge lists of targets are that are to be observed at two-minute cadence. As a result of these discussions the mission is committing to observing at two-minute cadence all stars that fall into the TESS field of view that are (a) brighter than 6th magnitude in the TESS bandpass, and (b) but are not too bright that their saturation bleed cannot be captured fully with a pixel mask. For Cycle-1 this accounts for approximately 6,000 stars.</p>
-<p>We have made a slight modification to the <a href="data/core-science-targets-v2.csv">list of targets</a> that should not be included in TESS Cycle 1 GI proposals to search for transiting exoplanets using two-minute cadence data. This list now includes these 6,000 bright stars. This change is unlikely to significantly impact any proposals because these the majority of these bright stars are large (M-giants, B-stars, etc.). This makes detecting transiting planets challenging, and the detectability is unlikely to be improved with two-minute cadence over the full-frame image data.</p>
+</p><!-- /.post-info -->                <p>TESS simulated data is now available to the public at the <a href="http://archive.stsci.edu/tess/ete-6.html">MAST's TESS data page</a>. There you will find information on the data products, how the data products were created, and how to access the data.</p>
+<p>The simulated data, called ETE-6 (End-To-End 6) was created by TESS team members from NASA Ames and MIT to test the TESS ground system. This synthetic data contains 1 sector (slightly longer than two orbits) of TESS data and is meant to reflect what the archival data products will look like when produced for actual flight data.</p>
+<p>ETE-6 includes samples of the following data products:
+Uncalibrated FFI's
+Calibrated FFI's 
+Extracted Light Curves (The simulated 2-min cadence data consist of 20,610 cadences)
+Target Pixel Files
+Data Validation Files 
+Cotrending Basis Vectors 
+Collateral Target Pixel Files
+Models (Huffman tables, Mean Black table, flat-field, read-noise, linearity, gain, etc.) </p>
+<p>The data inlude injected signals to mimic transiting planets, eclipsing binaries, and stellar variability in 15,000 target stars selected for 2-minute cadence observations. Note these injected signals were designed to test the sensitivity of the NASA Ames planet search pipeline and does not represent what is expected in the actual data.</p>
+<p>A <a href="https://archive.stsci.edu/missions/tess/ete-6/ETE-6_README.pdf">README</a> file is available at MAST and contains information on how these products were created and their caveats. More detailed information on the data products can be found in the <a href="https://archive.stsci.edu/missions/tess/doc/EXP-TESS-ARC-ICD-TM-0014.pdf">TESS Science Data Products Description</a>.</p>
+<p>These data will allow the astronomical community to develop software and tools, and follow-up observation strategies, in anticipation for actual data, which is expected to be delivered to the MAST within 6 months of the start of science operations.</p>
+<p>More information on TESS can be found at the <a href="https://archive.stsci.edu/tess/">MAST TESS homepage</a>.</p>
             </div>
             <!-- /.entry-content -->
         </article>
@@ -228,7 +241,7 @@ in August 2015, using pelican-bootstrap and flatly.
       <!-- NASA logo and notices -->
       <div class="row" style="margin-top:2em;">
          <div class="col-md-10"> <a href="http://www.nasa.gov/"><img src="./images/NASA_logo_vector_lg.png" width="30" alt="NASA Logo"></a> 
-         Last modified: Sat 09 September 2017
+         Last modified: Thu 01 March 2018
             &middot; Editor: Thomas Barclay &middot; NASA Official: Patricia T Boyd 
             &middot; <a href="http://www.nasa.gov/about/highlights/HP_Privacy.html">Privacy Policy and Important Notices</a><p></p>         </div>
          <div class="col-md-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
