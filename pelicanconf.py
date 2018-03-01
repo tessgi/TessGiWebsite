@@ -137,8 +137,8 @@ IMPORTANT_DATES = (
             # ('<b>6 Oct 2017</b>',
             #  'Cycle 1 proposal submission deadline ',
             #  'proposing-investigations.html'), # link to a new item?
-            ('<b>Spring 2018</b>',
-             'Planned mission launch date',
+            ('<b>April 16 2018</b>',
+             'Anticipated launch date',
              'operations.html'), # link to a news item?
          )
 
@@ -171,9 +171,9 @@ MEETINGS = (
             # ('<b>13-17 November 2017</b><br>'
             #  'Habitable Worlds 2017:  A System Science Workshop',
             #  'http://nexsci.caltech.edu/conferences/2017/knowthystar/'),
-            ('<b>8-12 January 2018</b><br>'
-             '231st Meeting of the American Astronomical Society',
-             'https://aas.org/meetings/aas231'),
+            # ('<b>8-12 January 2018</b><br>'
+            #  '231st Meeting of the American Astronomical Society',
+            #  'https://aas.org/meetings/aas231'),
             ('<b>5-9 March 2018</b><br>'
              'Preparing for TESS',
              'http://tess.ninja/'),

@@ -27,6 +27,11 @@ Save_as: documentation.html
   </tr>
 
    <tr>
+    <td style="width: 35em;"><a href='https://archive.stsci.edu/missions/tess/doc/EXP-TESS-ARC-ICD-TM-0014.pdf'>TESS Science Data Products Description Document</a></td>
+    <td>Mansouri-Samani et al., 2016</td>
+  </tr>
+
+   <tr>
     <td style="width: 35em;"><a href='docs/jenkinsSPIE2016-copyright.pdf'>TESS Science Processing Operations Center (SPOC) pipeline</a></td>
     <td>Jenkins et al., 2016</td>
   </tr>
@@ -58,6 +63,8 @@ The TESS Science Processing Operations Center (SPOC) at NASA Ames Research Cente
 A description of the SPOC pipeline can be found here: [Jenkins et al., 2016](http://adsabs.harvard.edu/abs/2016SPIE.9913E..3EJ). A PDF version of the article can be downloaded [here](docs/jenkinsSPIE2016-copyright.pdf) provided acknowledgement of the full SPIE citation: Jenkins et al. 2016. "The TESS science processing operations center", Proc. SPIE 9913, Software and Cyberinfrastructure for Astronomy IV, 99133E (August 8, 2016); [doi:10.1117/12.2233418](http://dx.doi.org/10.1117/12.2233418) 
 
 The SPOC pipeline is based on the Kepler Science Processing Pipeline which is documented [here](http://adsabs.harvard.edu/abs/2010ApJ...713L..87J), and references therein.
+
+The [TESS Science Data Products Description Document](https://archive.stsci.edu/missions/tess/doc/EXP-TESS-ARC-ICD-TM-0014.pdf) describes data product formats. Files are produced primarily by the TESS Science Processing Operations Center (SPOC) at NASA Ames Research Center.
 
 
 
