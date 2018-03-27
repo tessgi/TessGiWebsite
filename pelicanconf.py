@@ -116,6 +116,8 @@ MENUITEMS = (
             ('Documentation', 'documentation.html'),
             )
          ),
+        ('Education & Outreach', 'https://tess.gsfc.nasa.gov/'),
+        ('HEASARC', 'https://heasarc.gsfc.nasa.gov/'),
         )
 
 # Defines the "key information" box on the front page
