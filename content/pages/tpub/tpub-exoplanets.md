@@ -7,7 +7,19 @@ Save_as: tpub-exoplanets.html
 2018
 ----
 
-1. [PREDICTED NUMBER, MULTIPLICITY, AND ORBITAL DYNAMICS OF TESS M DWARF EXOPLANETS](http://adsabs.harvard.edu/abs/2018arXiv180104949B)  
+1. [SIMULATED JWST/NIRISS TRANSIT SPECTROSCOPY OF ANTICIPATED TESS PLANETS COMPARED TO SELECT DISCOVERIES FROM SPACE-BASED AND GROUND-BASED SURVEYS](http://adsabs.harvard.edu/abs/2018PASP..130d4401L)  
+Louie, Dana R., Deming, Drake, Albert, Loic, et al.    
+2018, refereed ([2018PASP..130d4401L](http://adsabs.harvard.edu/abs/2018PASP..130d4401L))  
+
+2. [NEW MISSIONS AIM TO MAKE A SHORT LIST OF EXO-EARTHS](http://adsabs.harvard.edu/abs/2018Sci...359.1453C)  
+Clery, Daniel    
+2018, refereed ([2018Sci...359.1453C](http://adsabs.harvard.edu/abs/2018Sci...359.1453C))  
+
+3. [THE KELT FOLLOW-UP NETWORK AND TRANSIT FALSE POSITIVE CATALOG: PRE-VETTED FALSE POSITIVES FOR TESS](http://adsabs.harvard.edu/abs/2018arXiv180301869C)  
+Collins, Karen A., Collins, Kevin I., Pepper, Joshua, et al.    
+2018, pre-print ([2018arXiv180301869C](http://adsabs.harvard.edu/abs/2018arXiv180301869C))  
+
+4. [PREDICTED NUMBER, MULTIPLICITY, AND ORBITAL DYNAMICS OF TESS M DWARF EXOPLANETS](http://adsabs.harvard.edu/abs/2018arXiv180104949B)  
 Ballard, Sarah    
 2018, pre-print ([2018arXiv180104949B](http://adsabs.harvard.edu/abs/2018arXiv180104949B))  
 
@@ -15,31 +27,27 @@ Ballard, Sarah
 2017
 ----
 
-1. [SIMULATED JWST/NIRISS TRANSIT SPECTROSCOPY OF ANTICIPATED TESS PLANETS COMPARED TO SELECT DISCOVERIES FROM SPACE-BASED AND GROUND-BASED SURVEYS](http://adsabs.harvard.edu/abs/2017arXiv171102098L)  
-Louie, Dana R., Deming, Drake, Albert, Loic, et al.    
-2017, pre-print ([2017arXiv171102098L](http://adsabs.harvard.edu/abs/2017arXiv171102098L))  
-
-2. [EXOPLANET CHARACTERIZATION BY MULTI-OBSERVATORY TRANSIT PHOTOMETRY WITH TESS AND CHEOPS](http://adsabs.harvard.edu/abs/2017MNRAS.468.3418G)  
+1. [EXOPLANET CHARACTERIZATION BY MULTI-OBSERVATORY TRANSIT PHOTOMETRY WITH TESS AND CHEOPS](http://adsabs.harvard.edu/abs/2017MNRAS.468.3418G)  
 Gaidos, E., Kitzmann, D., Heng, K.    
 2017, refereed ([2017MNRAS.468.3418G](http://adsabs.harvard.edu/abs/2017MNRAS.468.3418G))  
 
-3. [PLANET DETECTION SIMULATIONS FOR SEVERAL POSSIBLE TESS EXTENDED MISSIONS](http://adsabs.harvard.edu/abs/2017arXiv170508891B)  
+2. [PLANET DETECTION SIMULATIONS FOR SEVERAL POSSIBLE TESS EXTENDED MISSIONS](http://adsabs.harvard.edu/abs/2017arXiv170508891B)  
 Bouma, L. G., Winn, Joshua N., Kosiarek, Jacobi, et al.    
 2017, pre-print ([2017arXiv170508891B](http://adsabs.harvard.edu/abs/2017arXiv170508891B))  
 
-4. [LIMB AND GRAVITY-DARKENING COEFFICIENTS FOR THE TESS SATELLITE AT SEVERAL METALLICITIES, SURFACE GRAVITIES, AND MICROTURBULENT VELOCITIES](http://adsabs.harvard.edu/abs/2017A&A...600A..30C)  
+3. [LIMB AND GRAVITY-DARKENING COEFFICIENTS FOR THE TESS SATELLITE AT SEVERAL METALLICITIES, SURFACE GRAVITIES, AND MICROTURBULENT VELOCITIES](http://adsabs.harvard.edu/abs/2017A&A...600A..30C)  
 Claret, A.    
 2017, refereed ([2017A&A...600A..30C](http://adsabs.harvard.edu/abs/2017A&A...600A..30C))  
 
-5. [TEE, AN ESTIMATOR FOR THE PRECISION OF ECLIPSE AND TRANSIT MINIMUM TIMES](http://adsabs.harvard.edu/abs/2017A&A...599A..93D)  
+4. [TEE, AN ESTIMATOR FOR THE PRECISION OF ECLIPSE AND TRANSIT MINIMUM TIMES](http://adsabs.harvard.edu/abs/2017A&A...599A..93D)  
 Deeg, H. J., Tingley, B.    
 2017, refereed ([2017A&A...599A..93D](http://adsabs.harvard.edu/abs/2017A&A...599A..93D))  
 
-6. [TRANSIT CLAIRVOYANCE: ENHANCING TESS FOLLOW-UP USING ARTIFICIAL NEURAL NETWORKS](http://adsabs.harvard.edu/abs/2017MNRAS.465.3495K)  
+5. [TRANSIT CLAIRVOYANCE: ENHANCING TESS FOLLOW-UP USING ARTIFICIAL NEURAL NETWORKS](http://adsabs.harvard.edu/abs/2017MNRAS.465.3495K)  
 Kipping, David M., Lam, Christopher    
 2017, refereed ([2017MNRAS.465.3495K](http://adsabs.harvard.edu/abs/2017MNRAS.465.3495K))  
 
-7. [FOLLOW-UP AND CHARACTERIZATION OF THE TESS EXOPLANETS WITH SOPHIE, SPIROU, AND JWST](http://adsabs.harvard.edu/abs/2017arXiv170103539C)  
+6. [FOLLOW-UP AND CHARACTERIZATION OF THE TESS EXOPLANETS WITH SOPHIE, SPIROU, AND JWST](http://adsabs.harvard.edu/abs/2017arXiv170103539C)  
 Crouzet, N., Bonfils, X., Delfosse, X., et al.    
 2017, pre-print ([2017arXiv170103539C](http://adsabs.harvard.edu/abs/2017arXiv170103539C))  
 

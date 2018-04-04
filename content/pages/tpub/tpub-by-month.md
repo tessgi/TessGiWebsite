@@ -4,6 +4,30 @@ Save_as: tpub-by-month.html
 [TOC]
 
 
+2018-04
+-------
+
+1. [SIMULATED JWST/NIRISS TRANSIT SPECTROSCOPY OF ANTICIPATED TESS PLANETS COMPARED TO SELECT DISCOVERIES FROM SPACE-BASED AND GROUND-BASED SURVEYS](http://adsabs.harvard.edu/abs/2018PASP..130d4401L)  
+Louie, Dana R., Deming, Drake, Albert, Loic, et al.    
+2018, refereed ([2018PASP..130d4401L](http://adsabs.harvard.edu/abs/2018PASP..130d4401L))  
+
+
+2018-03
+-------
+
+1. [NEW MISSIONS AIM TO MAKE A SHORT LIST OF EXO-EARTHS](http://adsabs.harvard.edu/abs/2018Sci...359.1453C)  
+Clery, Daniel    
+2018, refereed ([2018Sci...359.1453C](http://adsabs.harvard.edu/abs/2018Sci...359.1453C))  
+
+2. [THE KELT FOLLOW-UP NETWORK AND TRANSIT FALSE POSITIVE CATALOG: PRE-VETTED FALSE POSITIVES FOR TESS](http://adsabs.harvard.edu/abs/2018arXiv180301869C)  
+Collins, Karen A., Collins, Kevin I., Pepper, Joshua, et al.    
+2018, pre-print ([2018arXiv180301869C](http://adsabs.harvard.edu/abs/2018arXiv180301869C))  
+
+3. [PRECISION LIGHT CURVES FROM TESS FULL-FRAME IMAGES: A DIFFERENCE IMAGING APPROACH](http://adsabs.harvard.edu/abs/2018arXiv180302316O)  
+Oelkers, Ryan J., Stassun, Keivan G.    
+2018, pre-print ([2018arXiv180302316O](http://adsabs.harvard.edu/abs/2018arXiv180302316O))  
+
+
 2018-01
 -------
 
@@ -30,14 +54,6 @@ Ballard, Sarah
 1. [MULTIBAND PHOTOMETRY AND SPECTROSCOPY OF AN ALL-SKY SAMPLE OF BRIGHT WHITE DWARFS](http://adsabs.harvard.edu/abs/2017MNRAS.472.4173R)  
 Raddi, R., Gentile Fusillo, N. P., Pala, A. F., et al.    
 2017, refereed ([2017MNRAS.472.4173R](http://adsabs.harvard.edu/abs/2017MNRAS.472.4173R))  
-
-
-2017-11
--------
-
-1. [SIMULATED JWST/NIRISS TRANSIT SPECTROSCOPY OF ANTICIPATED TESS PLANETS COMPARED TO SELECT DISCOVERIES FROM SPACE-BASED AND GROUND-BASED SURVEYS](http://adsabs.harvard.edu/abs/2017arXiv171102098L)  
-Louie, Dana R., Deming, Drake, Albert, Loic, et al.    
-2017, pre-print ([2017arXiv171102098L](http://adsabs.harvard.edu/abs/2017arXiv171102098L))  
 
 
 2017-10

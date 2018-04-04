@@ -7,15 +7,19 @@ Save_as: tpub-astrophysics.html
 2018
 ----
 
-1. [EMPIRICAL ACCURATE MASSES AND RADII OF SINGLE STARS WITH TESS AND GAIA](http://adsabs.harvard.edu/abs/2018AJ....155...22S)  
+1. [PRECISION LIGHT CURVES FROM TESS FULL-FRAME IMAGES: A DIFFERENCE IMAGING APPROACH](http://adsabs.harvard.edu/abs/2018arXiv180302316O)  
+Oelkers, Ryan J., Stassun, Keivan G.    
+2018, pre-print ([2018arXiv180302316O](http://adsabs.harvard.edu/abs/2018arXiv180302316O))  
+
+2. [EMPIRICAL ACCURATE MASSES AND RADII OF SINGLE STARS WITH TESS AND GAIA](http://adsabs.harvard.edu/abs/2018AJ....155...22S)  
 Stassun, Keivan G., Corsaro, Enrico, Pepper, Joshua A., et al.    
 2018, refereed ([2018AJ....155...22S](http://adsabs.harvard.edu/abs/2018AJ....155...22S))  
 
-2. [VARIABILITY PROPERTIES OF FOUR MILLION SOURCES IN THE TESS INPUT CATALOG OBSERVED WITH THE KILODEGREE EXTREMELY LITTLE TELESCOPE SURVEY](http://adsabs.harvard.edu/abs/2018AJ....155...39O)  
+3. [VARIABILITY PROPERTIES OF FOUR MILLION SOURCES IN THE TESS INPUT CATALOG OBSERVED WITH THE KILODEGREE EXTREMELY LITTLE TELESCOPE SURVEY](http://adsabs.harvard.edu/abs/2018AJ....155...39O)  
 Oelkers, Ryan J., Rodriguez, Joseph E., Stassun, Keivan G., et al.    
 2018, refereed ([2018AJ....155...39O](http://adsabs.harvard.edu/abs/2018AJ....155...39O))  
 
-3. [THE TESS-HERMES SURVEY DATA RELEASE 1: HIGH-RESOLUTION SPECTROSCOPY OF THE TESS SOUTHERN CONTINUOUS VIEWING ZONE](http://adsabs.harvard.edu/abs/2018MNRAS.473.2004S)  
+4. [THE TESS-HERMES SURVEY DATA RELEASE 1: HIGH-RESOLUTION SPECTROSCOPY OF THE TESS SOUTHERN CONTINUOUS VIEWING ZONE](http://adsabs.harvard.edu/abs/2018MNRAS.473.2004S)  
 Sharma, Sanjib, Stello, Dennis, Buder, Sven, et al.    
 2018, refereed ([2018MNRAS.473.2004S](http://adsabs.harvard.edu/abs/2018MNRAS.473.2004S))  
 

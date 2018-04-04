@@ -4,6 +4,14 @@ Save_as: tpub-astrophysics-by-month.html
 [TOC]
 
 
+2018-03
+-------
+
+1. [PRECISION LIGHT CURVES FROM TESS FULL-FRAME IMAGES: A DIFFERENCE IMAGING APPROACH](http://adsabs.harvard.edu/abs/2018arXiv180302316O)  
+Oelkers, Ryan J., Stassun, Keivan G.    
+2018, pre-print ([2018arXiv180302316O](http://adsabs.harvard.edu/abs/2018arXiv180302316O))  
+
+
 2018-01
 -------
 
