@@ -5,14 +5,28 @@ Save_as: status.html
 
 <!-- <img class="img-responsive" style="max-width:67%;" src="images/giprogram/timeline.jpg" alt="TESS CSC timeline"> -->
 
-The TESS mission is in development and is due to launch in March 2018. The cameras and instrument have been built, integrated and have gone through thermal and vibration testing. The spacecraft is being built by Orbital ATK and has gone through thermal and vibration testing. The instrument and spacecraft vehicle have been integrated and have gone through testing at Orbital ATK's facility in Dulles, Virginia.
+TESS launched April 18 at 6:51 p.m. EDT from Cape Canaveral Air Force Station in Florida atop a SpaceX Falcon 9 rocket. 
 
-The first Guest Investigator Cycle 1 call for proposals was announced on June 30, approximately 9 months prior to launch. Selections were announced in January 2018;
+TESS will undergo a 60 day commissioning plan before collecting science data. Stay tuned for the position of Sector 1, which is TBD until TESS reaches its final orbit.
 
 
-## Mission timeline overview
 
-TESS will observe a series of sectors, where a sector is one 27.4-day long observation. Each year of the mission will consist of 13 sectors. Year 1 will target the southern hemisphere and year 2 will target the northern hemisphere. The location of each sector will not be known until launch. 
+<br/>
+<img class="img-responsive" style="max-width:67%;" src="images/tess-launch.jpg">TESS launched successfully on April 18, 2018. TESS will begin collecting science data after a 60 day commissioning period.
+*Image Credit: NASA/Kim Shiflett*
+<br/>
+
+<br/>
+<img class="img-responsive" style="max-width:67%;" src="images/tess-launch-separation.jpg">A camera mounted on the Falcon 9 second stage shows the TESS spacecraft separating from the vehicle. At 7:53 p.m., the twin solar arrays that will power the spacecraft successfully deployed.
+*Image Credit: NASA TV*
+<br/>
+
+
+
+
+Once TESS begins its science mission, it will observe one [sector](https://heasarc.gsfc.nasa.gov/docs/tess/operations.html#field-of-view) at a time, starting in the southern hemisphere. TESS will continue to [tile the sky](https://heasarc.gsfc.nasa.gov/docs/tess/operations.html#observing-strategy) with 27.4 day-long sectors during its 2 year prime mission. 
+
+Selections for Guest Investigator Cycle 1 were announced in January 2018. For GI Cycle 2, the spacecraft will survey the northern ecliptic hemisphere, and the anticipated deadline will be Nov or Dec 2018.
 
 <!-- The dates in the table below are from our nominal plan.
 

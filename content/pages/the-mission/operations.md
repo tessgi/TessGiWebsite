@@ -5,7 +5,9 @@ Save_as: operations.html
 
 ## Launch and orbit
 
-TESS  is scheduled for launch from the Cape Canaveral Air Force Station aboard a SpaceX Falcon 9. The Falcon 9 is a 2 stage, liquid oxygen and kerosene fueled rocket. The first stage is reusable and has 9 Merlin 1D engines, the second stage has a single Merlin engine. The system is designed for safe and efficient transport of satellites, cargo, and eventually crew, to low-earth orbit. TESS is the first NASA Astrophysics satellite mission to be launched under a contract with SpaceX. The current launch window is no-earlier-than March 20, 2018 and not-later-than June 2018.
+TESS launched successfully on April 18 from Cape Canaveral Air Force Station aboard a SpaceX Falcon 9 rocket.
+
+The Falcon 9 is a 2 stage, liquid oxygen and kerosene fueled rocket. The first stage is reusable and has 9 Merlin 1D engines, the second stage has a single Merlin engine. The system is designed for safe and efficient transport of satellites, cargo, and eventually crew, to low-earth orbit. TESS is the first NASA Astrophysics satellite mission to be launched under a contract with SpaceX. 
 
 TESS will observe from a unique elliptical high Earth orbit (HEO) that will provide an unobstructed view of its field to obtain continuous light curves and a more stable platform for precise photometry than the low Earth orbit. The launch will carry the observatory to parking orbit inclined by 28.5 degrees. The high Earth orbit is achieved through a series of propulsion system burns and a lunar flyby. Two burns raise the orbit apogee to 400,000 km, one at perigee of the first phasing orbit and another at perigee of the second phasing orbit. Another small adjustment is made before a lunar gravitational assist raises the ecliptic inclination to ~40 degrees. The final apogee and 13.7 day orbital period are achieved through a final period-adjustment maneuver after the lunar flyby. Final orbit is achieved around 60 days after launch and science operations begin shortly afterward.
 

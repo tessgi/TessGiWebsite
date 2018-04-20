@@ -5,10 +5,10 @@ Save_as: objectives.html
 
 
 The Transiting Exoplanet Survey Satellite (TESS) is a NASA-sponsored Astrophysics Explorer-class mission that will perform an all-sky survey to search for planets transiting nearby stars. The primary goal of TESS is to discover planets smaller than Neptune that transit stars bright enough to enable follow-up spectroscopic observations that can provide planet masses and atmospheric compositions.
-
+ 
 ## Overview
 
-TESS is scheduled to launch no earlier than March 2018 and will be placed in a highly-elliptical 13.7 day orbit around the Earth.  In its 2-year prime mission, TESS will monitor about 200,000 main-sequence dwarf stars with four wide-field optical CCD cameras to detect periodic drops in brightness caused by planetary transits. Photometry of these pre-selected targets will be recorded every 2 minutes. TESS will also obtain full-frame images (FFIs) of the entire, four camera field-of-view (24 x 96 degrees) at a cadence of 30 minutes to facilitate additional science.
+TESS launched on April 18 and after a series of maneuvers will be placed in a highly-elliptical 13.7 day orbit around the Earth.  In its 2-year prime mission, TESS will monitor about 200,000 main-sequence dwarf stars with four wide-field optical CCD cameras to detect periodic drops in brightness caused by planetary transits. Photometry of these pre-selected targets will be recorded every 2 minutes. TESS will also obtain full-frame images (FFIs) of the entire, four camera field-of-view (24 x 96 degrees) at a cadence of 30 minutes to facilitate additional science.
 
 
 <br/>
