@@ -195,7 +195,7 @@ MEETINGS = (
              'COSPAR',
              'http://cospar2018.org'),
             ('<b>29 July - 3 Aug 2018</b><br>'
-             'Cool Stars 20',
+             'Cool Stars 20', 
              'http://coolstars20.cfa.harvard.edu'),
             ('<b>20-31 August 2018</b><br>'
              'International Astronomical Union',
