@@ -139,9 +139,12 @@ IMPORTANT_DATES = (
             # ('<b>6 Oct 2017</b>',
             #  'Cycle 1 proposal submission deadline ',
             #  'proposing-investigations.html'), # link to a new item?
-            ('<b>April 16 2018</b>',
-             'Anticipated launch date',
+            ('<b>April 18 2018</b>',
+             'TESS launch',
              'operations.html'), # link to a news item?
+            ('<b>TBD 2018</b>',
+             'TESS GI Cycle 2 Call for Proposals',
+             'proposing-investigations.html'), # link to a news item?
          )
 
 # Defines the "meetings" box on the front page
@@ -176,9 +179,9 @@ MEETINGS = (
             # ('<b>8-12 January 2018</b><br>'
             #  '231st Meeting of the American Astronomical Society',
             #  'https://aas.org/meetings/aas231'),
-            ('<b>5-9 March 2018</b><br>'
-             'Preparing for TESS',
-             'http://tess.ninja/'),
+            #('<b>5-9 March 2018</b><br>'
+            # 'Preparing for TESS',
+            # 'http://tess.ninja/'),
             ('<b>3-7 June 2018</b><br>'
              '232nd Meeting of the American Astronomical Society',
              'https://aas.org/meetings/aas232'),            
@@ -191,6 +194,9 @@ MEETINGS = (
             ('<b>14-22 July 2018</b><br>'
              'COSPAR',
              'http://cospar2018.org'),
+            ('<b>29 July - 3 Aug 2018</b><br>'
+             'Cool Stars 20',
+             'http://coolstars20.cfa.harvard.edu'),
             ('<b>20-31 August 2018</b><br>'
              'International Astronomical Union',
              'https://astronomy2018.univie.ac.at'),             
