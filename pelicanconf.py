@@ -139,9 +139,12 @@ IMPORTANT_DATES = (
             # ('<b>6 Oct 2017</b>',
             #  'Cycle 1 proposal submission deadline ',
             #  'proposing-investigations.html'), # link to a new item?
-            ('<b>April 16 2018</b>',
-             'Anticipated launch date',
+            ('<b>April 18 2018</b>',
+             'TESS launch',
              'operations.html'), # link to a news item?
+            ('<b>TBD 2018</b>',
+             'TESS GI Cycle 2 Call for Proposals',
+             'proposing-investigations.html'), # link to a news item?
          )
 
 # Defines the "meetings" box on the front page
