@@ -143,7 +143,7 @@ IMPORTANT_DATES = (
              'TESS launch',
              'operations.html'), # link to a news item?
             ('<b>December 2018</b>',
-             'TESS GI Cycle 2 Call for Proposals',
+             'TESS GI Cycle 2 proposal deadline',
              'proposing-investigations.html'), # link to a news item?
          )
 
