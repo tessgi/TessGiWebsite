@@ -142,7 +142,7 @@ IMPORTANT_DATES = (
             ('<b>April 18 2018</b>',
              'TESS launch',
              'operations.html'), # link to a news item?
-            ('<b>TBD 2018</b>',
+            ('<b>December 2018</b>',
              'TESS GI Cycle 2 Call for Proposals',
              'proposing-investigations.html'), # link to a news item?
          )
