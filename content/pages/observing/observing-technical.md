@@ -141,7 +141,7 @@ Due to the observing strategy of the TESS mission, the TSSC notes that GI propos
 
 * Camera 1 is always closest to the ecliptic plane and will be contaminated by stray light from the Earth and Moon during some observing sectors. The level of contamination and which sectors will be most affected is dependent on the launch date and the final inclination of the TESS orbit. These parameters will not be known until after commissioning and calibration.
 
-* Some cameras during some observing sectors will cover portions of the Galactic plane and suffer from increased background contamination. The exact cameras and sectors are dependent on the TESS launch date.
+* Some cameras during some observing sectors cover portions of the Galactic plane and suffer from increased background contamination.
 
 * A primary science target will nominally be observed nearly continuously for 27.4 days in a given TESS observing sector. However, mission requirements only require a minimum of 20 days of observations out of the 27.4 possible per sector.  This requirement accounts for all sources of observing inefficiency, including repointing for data downlink and interruptions due to the Earth and/or Moon in a camera FOV. 
 

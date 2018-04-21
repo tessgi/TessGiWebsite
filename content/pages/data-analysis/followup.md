@@ -17,7 +17,7 @@ The TFOP is organized into five sub-groups: Seeing Limited Photometry, Recon Spe
 
 ExoFOP hosts a dedicated page for TESS, [ExoFOP-TESS](https://exofop.ipac.caltech.edu/tess/), with a format similar to the Kepler/K2 pages. [ExoFOP-TESS](https://exofop.ipac.caltech.edu/tess/) currently contains overview pages for each of the 10.8 million stars in the [TESS Candidate Target list (CTL)](proposing-investigations.html#candidate-target-list-ctl). These pages contain data from the TESS Input Catalog (TIC) Version 5, including coordinates, magnitudes, stellar parameters, and planet parameters (if available). 
 
-After launch, ExoFOP-TESS will include:
+ExoFOP-TESS will include:
 
 * Summaries of TESS-observed targets
 * Overview of individual targets
