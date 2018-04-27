@@ -1,12 +1,11 @@
-#TESS Instrument Response Function
+# TESS Instrument Response Function
 #Source: The Transiting Exoplanet Survey Satellite, Ricker et al. 2014 (https://arxiv.org/abs/1406.0151)
-#Author: Tom Barclay (NASA GSFC)
-#version: 1.0
-#date: 2018/04/027
-#feedback: tessgi@bigbang.gsfc.nasa.gov
-
-#lambda Transmission
-#(nm)   
+# Author: Tom Barclay (NASA GSFC)
+# version: 1.0
+# date: 2018/04/027
+# feedback: tessgi@bigbang.gsfc.nasa.gov
+ 
+# Wavelength (nm), lambda Transmission
 454.05007363770244, 0
 463.7702503681885, 0
 472.6067746686303, 0
