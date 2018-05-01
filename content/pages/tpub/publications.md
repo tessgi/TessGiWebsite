@@ -12,8 +12,8 @@ the TESS mission is provided by the NASA Explorer Program.*
 
 The TESS Science Support Center curates a list of scientific publications
 pertaining to TESS.
-The database contains 45 publications,
-of which 28 are peer-reviewed.
+The database contains 50 publications,
+of which 30 are peer-reviewed.
 It demonstrates the important impact of TESS data
 on astronomical research.
 
@@ -29,7 +29,7 @@ Or seach by topic:
 If you spot an error in the database, such as a missing entry,
 please get in touch or open an issue in the <a href="https://github.com/tessgi/tpub">GitHub repository</a> of the database.
 
-Last update: 04 Apr 2018.
+Last update: 01 May 2018.
 
 <hr/>
 
@@ -46,11 +46,11 @@ of year.
 
 Both TESS data have been used for scientific applications
 that reach far beyond exoplanet research.
-While 25 works relate to exoplanets
-(56%),
-a total of 20
+While 27 works relate to exoplanets
+(54%),
+a total of 23
 pertain to other areas of astrophysics
-(44%).
+(46%).
 
 
 ![Publications by subject](images/tpub/tpub-piechart.png)
@@ -60,7 +60,7 @@ pertain to other areas of astrophysics
 ## Most-cited publications
 
 TESS publications have cumulatively been cited
-628 times.
+687 times.
 The list below shows the most-cited publications,
 based on the citation count obtained from NASA ADS.
 
@@ -68,12 +68,12 @@ based on the citation count obtained from NASA ADS.
 1. TRANSITING EXOPLANET SURVEY SATELLITE (TESS)  
 Ricker, George R., Winn, Joshua N., Vanderspek, Roland, et al.    
 [2015JATIS...1a4003R](http://adsabs.harvard.edu/abs/2015JATIS...1a4003R)
-<span class="badge">215 citations</span>
+<span class="badge">233 citations</span>
 
 2. THE TRANSITING EXOPLANET SURVEY SATELLITE: SIMULATIONS OF PLANET DETECTIONS AND ASTROPHYSICAL FALSE POSITIVES  
 Sullivan, Peter W., Winn, Joshua N., Berta-Thompson, Zachory K., et al.    
 [2015ApJ...809...77S](http://adsabs.harvard.edu/abs/2015ApJ...809...77S)
-<span class="badge">103 citations</span>
+<span class="badge">112 citations</span>
 
 3. CHARACTERIZING TRANSITING PLANET ATMOSPHERES THROUGH 2025  
 Cowan, N. B., Greene, T., Angerhausen, D., et al.    
@@ -83,22 +83,22 @@ Cowan, N. B., Greene, T., Angerhausen, D., et al.
 4. UNDERSTANDING THE EFFECTS OF STELLAR MULTIPLICITY ON THE DERIVED PLANET RADII FROM TRANSIT SURVEYS: IMPLICATIONS FOR KEPLER, K2, AND TESS  
 Ciardi, David R., Beichman, Charles A., Horch, Elliott P., et al.    
 [2015ApJ...805...16C](http://adsabs.harvard.edu/abs/2015ApJ...805...16C)
-<span class="badge">37 citations</span>
+<span class="badge">41 citations</span>
 
-5. THE TRANSITING EXOPLANET SURVEY SATELLITE MISSION  
+5. THE ASTEROSEISMIC POTENTIAL OF TESS: EXOPLANET-HOST STARS  
+Campante, T. L., Schofield, M., Kuszlewicz, J. S., et al.    
+[2016ApJ...830..138C](http://adsabs.harvard.edu/abs/2016ApJ...830..138C)
+<span class="badge">26 citations</span>
+
+6. THE TRANSITING EXOPLANET SURVEY SATELLITE MISSION  
 Ricker, G. R.    
 [2014JAVSO..42..234R](http://adsabs.harvard.edu/abs/2014JAVSO..42..234R)
 <span class="badge">25 citations</span>
 
-6. THE ASTEROSEISMIC POTENTIAL OF TESS: EXOPLANET-HOST STARS  
-Campante, T. L., Schofield, M., Kuszlewicz, J. S., et al.    
-[2016ApJ...830..138C](http://adsabs.harvard.edu/abs/2016ApJ...830..138C)
-<span class="badge">24 citations</span>
-
 7. A SURVEY FOR VERY SHORT-PERIOD PLANETS IN THE KEPLER DATA  
 Jackson, Brian, Stark, Christopher C., Adams, Elisabeth R., et al.    
 [2013ApJ...779..165J](http://adsabs.harvard.edu/abs/2013ApJ...779..165J)
-<span class="badge">19 citations</span>
+<span class="badge">20 citations</span>
 
 8. THE K2-TESS STELLAR PROPERTIES CATALOG  
 Stassun, Keivan G., Pepper, Joshua A., Oelkers, Ryan, et al.    
@@ -130,7 +130,7 @@ within the last 90 days.
 <!-- ## Most-active authors
 
 The entries in the publication database have been authored and co-authored
-by a total of 340 unique author names.
+by a total of 357 unique author names.
 Here we list the most-active authors, defined as those with six or more first-author publications in our database.
 
 -->

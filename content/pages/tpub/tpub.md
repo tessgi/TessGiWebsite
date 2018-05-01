@@ -7,35 +7,59 @@ Save_as: tpub.html
 2018
 ----
 
-1. [SIMULATED JWST/NIRISS TRANSIT SPECTROSCOPY OF ANTICIPATED TESS PLANETS COMPARED TO SELECT DISCOVERIES FROM SPACE-BASED AND GROUND-BASED SURVEYS](http://adsabs.harvard.edu/abs/2018PASP..130d4401L)  
+1. [A CATALOG OF COOL DWARF TARGETS FOR THE TRANSITING EXOPLANET SURVEY SATELLITE](http://adsabs.harvard.edu/abs/2018AJ....155..180M)  
+Muirhead, Philip S., Dressing, Courtney D., Mann, Andrew W., et al.    
+2018, refereed ([2018AJ....155..180M](http://adsabs.harvard.edu/abs/2018AJ....155..180M))  
+
+2. [STRATEGIES FOR CONSTRAINING THE ATMOSPHERES OF TEMPERATE TERRESTRIAL PLANETS WITH JWST](http://adsabs.harvard.edu/abs/2018ApJ...856L..34B)  
+Batalha, Natasha E., Lewis, Nikole K., Line, Michael R., et al.    
+2018, refereed ([2018ApJ...856L..34B](http://adsabs.harvard.edu/abs/2018ApJ...856L..34B))  
+
+3. [SIMULATED JWST/NIRISS TRANSIT SPECTROSCOPY OF ANTICIPATED TESS PLANETS COMPARED TO SELECT DISCOVERIES FROM SPACE-BASED AND GROUND-BASED SURVEYS](http://adsabs.harvard.edu/abs/2018PASP..130d4401L)  
 Louie, Dana R., Deming, Drake, Albert, Loic, et al.    
 2018, refereed ([2018PASP..130d4401L](http://adsabs.harvard.edu/abs/2018PASP..130d4401L))  
 
-2. [NEW MISSIONS AIM TO MAKE A SHORT LIST OF EXO-EARTHS](http://adsabs.harvard.edu/abs/2018Sci...359.1453C)  
+4. [A REVISED EXOPLANET YIELD FROM THE TRANSITING EXOPLANET SURVEY SATELLITE (TESS)](http://adsabs.harvard.edu/abs/2018arXiv180405050B)  
+Barclay, Thomas, Pepper, Joshua, Quintana, Elisa V.    
+2018, pre-print ([2018arXiv180405050B](http://adsabs.harvard.edu/abs/2018arXiv180405050B))  
+
+5. [THE GALAH AND TESS-HERMES SURVEYS: HIGH-RESOLUTION SPECTROSCOPY OF LUMINOUS SUPERGIANTS IN THE MAGELLANIC CLOUDS AND BRIDGE](http://adsabs.harvard.edu/abs/2018arXiv180405900S)  
+Simpson, Jeffrey D., Stello, Dennis, Sharma, Sanjib, et al.    
+2018, pre-print ([2018arXiv180405900S](http://adsabs.harvard.edu/abs/2018arXiv180405900S))  
+
+6. [THE PHOTOMETRIC SELECTION OF M-DWARFS USING GAIA, WISE AND 2MASS PHOTOMETRY](http://adsabs.harvard.edu/abs/2018arXiv180406982B)  
+Bentley, J., Tinney, C., Sharma, S., et al.    
+2018, pre-print ([2018arXiv180406982B](http://adsabs.harvard.edu/abs/2018arXiv180406982B))  
+
+7. [A NEW METHOD TO COMPUTE LIMB-DARKENING COEFFICIENTS FOR STELLAR ATMOSPHERE MODELS WITH SPHERICAL SYMMETRY: THE SPACE MISSIONS TESS, KEPLER, COROT, AND MOST](http://adsabs.harvard.edu/abs/2018arXiv180410135C)  
+Claret, Antonio    
+2018, pre-print ([2018arXiv180410135C](http://adsabs.harvard.edu/abs/2018arXiv180410135C))  
+
+8. [NEW MISSIONS AIM TO MAKE A SHORT LIST OF EXO-EARTHS](http://adsabs.harvard.edu/abs/2018Sci...359.1453C)  
 Clery, Daniel    
 2018, refereed ([2018Sci...359.1453C](http://adsabs.harvard.edu/abs/2018Sci...359.1453C))  
 
-3. [THE KELT FOLLOW-UP NETWORK AND TRANSIT FALSE POSITIVE CATALOG: PRE-VETTED FALSE POSITIVES FOR TESS](http://adsabs.harvard.edu/abs/2018arXiv180301869C)  
+9. [THE KELT FOLLOW-UP NETWORK AND TRANSIT FALSE POSITIVE CATALOG: PRE-VETTED FALSE POSITIVES FOR TESS](http://adsabs.harvard.edu/abs/2018arXiv180301869C)  
 Collins, Karen A., Collins, Kevin I., Pepper, Joshua, et al.    
 2018, pre-print ([2018arXiv180301869C](http://adsabs.harvard.edu/abs/2018arXiv180301869C))  
 
-4. [PRECISION LIGHT CURVES FROM TESS FULL-FRAME IMAGES: A DIFFERENCE IMAGING APPROACH](http://adsabs.harvard.edu/abs/2018arXiv180302316O)  
+10. [PRECISION LIGHT CURVES FROM TESS FULL-FRAME IMAGES: A DIFFERENCE IMAGING APPROACH](http://adsabs.harvard.edu/abs/2018arXiv180302316O)  
 Oelkers, Ryan J., Stassun, Keivan G.    
 2018, pre-print ([2018arXiv180302316O](http://adsabs.harvard.edu/abs/2018arXiv180302316O))  
 
-5. [EMPIRICAL ACCURATE MASSES AND RADII OF SINGLE STARS WITH TESS AND GAIA](http://adsabs.harvard.edu/abs/2018AJ....155...22S)  
+11. [EMPIRICAL ACCURATE MASSES AND RADII OF SINGLE STARS WITH TESS AND GAIA](http://adsabs.harvard.edu/abs/2018AJ....155...22S)  
 Stassun, Keivan G., Corsaro, Enrico, Pepper, Joshua A., et al.    
 2018, refereed ([2018AJ....155...22S](http://adsabs.harvard.edu/abs/2018AJ....155...22S))  
 
-6. [VARIABILITY PROPERTIES OF FOUR MILLION SOURCES IN THE TESS INPUT CATALOG OBSERVED WITH THE KILODEGREE EXTREMELY LITTLE TELESCOPE SURVEY](http://adsabs.harvard.edu/abs/2018AJ....155...39O)  
+12. [VARIABILITY PROPERTIES OF FOUR MILLION SOURCES IN THE TESS INPUT CATALOG OBSERVED WITH THE KILODEGREE EXTREMELY LITTLE TELESCOPE SURVEY](http://adsabs.harvard.edu/abs/2018AJ....155...39O)  
 Oelkers, Ryan J., Rodriguez, Joseph E., Stassun, Keivan G., et al.    
 2018, refereed ([2018AJ....155...39O](http://adsabs.harvard.edu/abs/2018AJ....155...39O))  
 
-7. [THE TESS-HERMES SURVEY DATA RELEASE 1: HIGH-RESOLUTION SPECTROSCOPY OF THE TESS SOUTHERN CONTINUOUS VIEWING ZONE](http://adsabs.harvard.edu/abs/2018MNRAS.473.2004S)  
+13. [THE TESS-HERMES SURVEY DATA RELEASE 1: HIGH-RESOLUTION SPECTROSCOPY OF THE TESS SOUTHERN CONTINUOUS VIEWING ZONE](http://adsabs.harvard.edu/abs/2018MNRAS.473.2004S)  
 Sharma, Sanjib, Stello, Dennis, Buder, Sven, et al.    
 2018, refereed ([2018MNRAS.473.2004S](http://adsabs.harvard.edu/abs/2018MNRAS.473.2004S))  
 
-8. [PREDICTED NUMBER, MULTIPLICITY, AND ORBITAL DYNAMICS OF TESS M DWARF EXOPLANETS](http://adsabs.harvard.edu/abs/2018arXiv180104949B)  
+14. [PREDICTED NUMBER, MULTIPLICITY, AND ORBITAL DYNAMICS OF TESS M DWARF EXOPLANETS](http://adsabs.harvard.edu/abs/2018arXiv180104949B)  
 Ballard, Sarah    
 2018, pre-print ([2018arXiv180104949B](http://adsabs.harvard.edu/abs/2018arXiv180104949B))  
 
@@ -63,39 +87,35 @@ Thomas, Alexandra, Stevenson, Emma, Gittins, Fabian W. R., et al.
 Molnár, László, Pál, András, Plachy, Emese    
 2017, not refereed ([2017EPJWC.15202004M](http://adsabs.harvard.edu/abs/2017EPJWC.15202004M))  
 
-6. [A CATALOG OF COOL DWARF TARGETS FOR THE TRANSITING EXOPLANET SURVEY SATELLITE](http://adsabs.harvard.edu/abs/2017arXiv171000193M)  
-Muirhead, Philip S., Dressing, Courtney, Mann, Andrew W., et al.    
-2017, pre-print ([2017arXiv171000193M](http://adsabs.harvard.edu/abs/2017arXiv171000193M))  
-
-7. [EXOPLANET CHARACTERIZATION BY MULTI-OBSERVATORY TRANSIT PHOTOMETRY WITH TESS AND CHEOPS](http://adsabs.harvard.edu/abs/2017MNRAS.468.3418G)  
+6. [EXOPLANET CHARACTERIZATION BY MULTI-OBSERVATORY TRANSIT PHOTOMETRY WITH TESS AND CHEOPS](http://adsabs.harvard.edu/abs/2017MNRAS.468.3418G)  
 Gaidos, E., Kitzmann, D., Heng, K.    
 2017, refereed ([2017MNRAS.468.3418G](http://adsabs.harvard.edu/abs/2017MNRAS.468.3418G))  
 
-8. [THE TESS INPUT CATALOG AND CANDIDATE TARGET LIST](http://adsabs.harvard.edu/abs/2017arXiv170600495S)  
+7. [THE TESS INPUT CATALOG AND CANDIDATE TARGET LIST](http://adsabs.harvard.edu/abs/2017arXiv170600495S)  
 Stassun, Keivan G., Oelkers, Ryan J., Pepper, Joshua, et al.    
 2017, pre-print ([2017arXiv170600495S](http://adsabs.harvard.edu/abs/2017arXiv170600495S))  
 
-9. [PLANET DETECTION SIMULATIONS FOR SEVERAL POSSIBLE TESS EXTENDED MISSIONS](http://adsabs.harvard.edu/abs/2017arXiv170508891B)  
+8. [PLANET DETECTION SIMULATIONS FOR SEVERAL POSSIBLE TESS EXTENDED MISSIONS](http://adsabs.harvard.edu/abs/2017arXiv170508891B)  
 Bouma, L. G., Winn, Joshua N., Kosiarek, Jacobi, et al.    
 2017, pre-print ([2017arXiv170508891B](http://adsabs.harvard.edu/abs/2017arXiv170508891B))  
 
-10. [LIMB AND GRAVITY-DARKENING COEFFICIENTS FOR THE TESS SATELLITE AT SEVERAL METALLICITIES, SURFACE GRAVITIES, AND MICROTURBULENT VELOCITIES](http://adsabs.harvard.edu/abs/2017A&A...600A..30C)  
+9. [LIMB AND GRAVITY-DARKENING COEFFICIENTS FOR THE TESS SATELLITE AT SEVERAL METALLICITIES, SURFACE GRAVITIES, AND MICROTURBULENT VELOCITIES](http://adsabs.harvard.edu/abs/2017A&A...600A..30C)  
 Claret, A.    
 2017, refereed ([2017A&A...600A..30C](http://adsabs.harvard.edu/abs/2017A&A...600A..30C))  
 
-11. [ON THE STATISTICAL PROPERTIES OF THE LOWER MAIN SEQUENCE](http://adsabs.harvard.edu/abs/2017ApJ...839..116A)  
+10. [ON THE STATISTICAL PROPERTIES OF THE LOWER MAIN SEQUENCE](http://adsabs.harvard.edu/abs/2017ApJ...839..116A)  
 Angelou, George C., Bellinger, Earl P., Hekker, Saskia, et al.    
 2017, refereed ([2017ApJ...839..116A](http://adsabs.harvard.edu/abs/2017ApJ...839..116A))  
 
-12. [TEE, AN ESTIMATOR FOR THE PRECISION OF ECLIPSE AND TRANSIT MINIMUM TIMES](http://adsabs.harvard.edu/abs/2017A&A...599A..93D)  
+11. [TEE, AN ESTIMATOR FOR THE PRECISION OF ECLIPSE AND TRANSIT MINIMUM TIMES](http://adsabs.harvard.edu/abs/2017A&A...599A..93D)  
 Deeg, H. J., Tingley, B.    
 2017, refereed ([2017A&A...599A..93D](http://adsabs.harvard.edu/abs/2017A&A...599A..93D))  
 
-13. [TRANSIT CLAIRVOYANCE: ENHANCING TESS FOLLOW-UP USING ARTIFICIAL NEURAL NETWORKS](http://adsabs.harvard.edu/abs/2017MNRAS.465.3495K)  
+12. [TRANSIT CLAIRVOYANCE: ENHANCING TESS FOLLOW-UP USING ARTIFICIAL NEURAL NETWORKS](http://adsabs.harvard.edu/abs/2017MNRAS.465.3495K)  
 Kipping, David M., Lam, Christopher    
 2017, refereed ([2017MNRAS.465.3495K](http://adsabs.harvard.edu/abs/2017MNRAS.465.3495K))  
 
-14. [FOLLOW-UP AND CHARACTERIZATION OF THE TESS EXOPLANETS WITH SOPHIE, SPIROU, AND JWST](http://adsabs.harvard.edu/abs/2017arXiv170103539C)  
+13. [FOLLOW-UP AND CHARACTERIZATION OF THE TESS EXOPLANETS WITH SOPHIE, SPIROU, AND JWST](http://adsabs.harvard.edu/abs/2017arXiv170103539C)  
 Crouzet, N., Bonfils, X., Delfosse, X., et al.    
 2017, pre-print ([2017arXiv170103539C](http://adsabs.harvard.edu/abs/2017arXiv170103539C))  
 
