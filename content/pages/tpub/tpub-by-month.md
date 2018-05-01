@@ -251,10 +251,6 @@ Ciardi, David R., Beichman, Charles A., Horch, Elliott P., et al.
 Cowan, N. B., Greene, T., Angerhausen, D., et al.    
 2015, refereed ([2015PASP..127..311C](http://adsabs.harvard.edu/abs/2015PASP..127..311C))  
 
-2. [RADIAL VELOCITY PROSPECTS CURRENT AND FUTURE: A WHITE PAPER REPORT PREPARED BY THE STUDY ANALYSIS GROUP 8 FOR THE EXOPLANET PROGRAM ANALYSIS GROUP (EXOPAG)](http://adsabs.harvard.edu/abs/2015arXiv150301770P)  
-Plavchan, Peter, Latham, Dave, Gaudi, Scott, et al.    
-2015, pre-print ([2015arXiv150301770P](http://adsabs.harvard.edu/abs/2015arXiv150301770P))  
-
 
 2015-01
 -------
@@ -270,10 +266,6 @@ Ricker, George R., Winn, Joshua N., Vanderspek, Roland, et al.
 1. [THE EB FACTORY PROJECT. II. VALIDATION WITH THE KEPLER FIELD IN PREPARATION FOR K2 AND TESS](http://adsabs.harvard.edu/abs/2014AJ....148..125P)  
 Parvizi, Mahmoud, Paegert, Martin, Stassun, Keivan G.    
 2014, refereed ([2014AJ....148..125P](http://adsabs.harvard.edu/abs/2014AJ....148..125P))  
-
-2. [ORBITAL MOTION DURING GRAVITATIONAL LENSING EVENTS](http://adsabs.harvard.edu/abs/2014arXiv1412.7675D)  
-Di Stefano, Rosanne, Esin, Ann    
-2014, pre-print ([2014arXiv1412.7675D](http://adsabs.harvard.edu/abs/2014arXiv1412.7675D))  
 
 
 2014-10
@@ -294,22 +286,6 @@ Stassun, Keivan G., Pepper, Joshua A., Oelkers, Ryan, et al.
 1. [THE TRANSITING EXOPLANET SURVEY SATELLITE MISSION](http://adsabs.harvard.edu/abs/2014JAVSO..42..234R)  
 Ricker, G. R.    
 2014, refereed ([2014JAVSO..42..234R](http://adsabs.harvard.edu/abs/2014JAVSO..42..234R))  
-
-
-2014-02
--------
-
-1. [PLANET PACKING IN CIRCUMBINARY SYSTEMS](http://adsabs.harvard.edu/abs/2014MNRAS.437.3727K)  
-Kratter, Kaitlin M., Shannon, Andrew    
-2014, refereed ([2014MNRAS.437.3727K](http://adsabs.harvard.edu/abs/2014MNRAS.437.3727K))  
-
-
-2013-12
--------
-
-1. [A SURVEY FOR VERY SHORT-PERIOD PLANETS IN THE KEPLER DATA](http://adsabs.harvard.edu/abs/2013ApJ...779..165J)  
-Jackson, Brian, Stark, Christopher C., Adams, Elisabeth R., et al.    
-2013, refereed ([2013ApJ...779..165J](http://adsabs.harvard.edu/abs/2013ApJ...779..165J))  
 
 
 2013-06

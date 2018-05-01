@@ -99,11 +99,7 @@ Ciardi, David R., Beichman, Charles A., Horch, Elliott P., et al.
 Cowan, N. B., Greene, T., Angerhausen, D., et al.    
 2015, refereed ([2015PASP..127..311C](http://adsabs.harvard.edu/abs/2015PASP..127..311C))  
 
-6. [RADIAL VELOCITY PROSPECTS CURRENT AND FUTURE: A WHITE PAPER REPORT PREPARED BY THE STUDY ANALYSIS GROUP 8 FOR THE EXOPLANET PROGRAM ANALYSIS GROUP (EXOPAG)](http://adsabs.harvard.edu/abs/2015arXiv150301770P)  
-Plavchan, Peter, Latham, Dave, Gaudi, Scott, et al.    
-2015, pre-print ([2015arXiv150301770P](http://adsabs.harvard.edu/abs/2015arXiv150301770P))  
-
-7. [TRANSITING EXOPLANET SURVEY SATELLITE (TESS)](http://adsabs.harvard.edu/abs/2015JATIS...1a4003R)  
+6. [TRANSITING EXOPLANET SURVEY SATELLITE (TESS)](http://adsabs.harvard.edu/abs/2015JATIS...1a4003R)  
 Ricker, George R., Winn, Joshua N., Vanderspek, Roland, et al.    
 2015, refereed ([2015JATIS...1a4003R](http://adsabs.harvard.edu/abs/2015JATIS...1a4003R))  
 
@@ -111,26 +107,10 @@ Ricker, George R., Winn, Joshua N., Vanderspek, Roland, et al.
 2014
 ----
 
-1. [ORBITAL MOTION DURING GRAVITATIONAL LENSING EVENTS](http://adsabs.harvard.edu/abs/2014arXiv1412.7675D)  
-Di Stefano, Rosanne, Esin, Ann    
-2014, pre-print ([2014arXiv1412.7675D](http://adsabs.harvard.edu/abs/2014arXiv1412.7675D))  
-
-2. [TRANSIT LIGHT CURVES WITH FINITE INTEGRATION TIME: FISHER INFORMATION ANALYSIS](http://adsabs.harvard.edu/abs/2014ApJ...794...92P)  
+1. [TRANSIT LIGHT CURVES WITH FINITE INTEGRATION TIME: FISHER INFORMATION ANALYSIS](http://adsabs.harvard.edu/abs/2014ApJ...794...92P)  
 Price, Ellen M., Rogers, Leslie A.    
 2014, refereed ([2014ApJ...794...92P](http://adsabs.harvard.edu/abs/2014ApJ...794...92P))  
 
-3. [THE TRANSITING EXOPLANET SURVEY SATELLITE MISSION](http://adsabs.harvard.edu/abs/2014JAVSO..42..234R)  
+2. [THE TRANSITING EXOPLANET SURVEY SATELLITE MISSION](http://adsabs.harvard.edu/abs/2014JAVSO..42..234R)  
 Ricker, G. R.    
 2014, refereed ([2014JAVSO..42..234R](http://adsabs.harvard.edu/abs/2014JAVSO..42..234R))  
-
-4. [PLANET PACKING IN CIRCUMBINARY SYSTEMS](http://adsabs.harvard.edu/abs/2014MNRAS.437.3727K)  
-Kratter, Kaitlin M., Shannon, Andrew    
-2014, refereed ([2014MNRAS.437.3727K](http://adsabs.harvard.edu/abs/2014MNRAS.437.3727K))  
-
-
-2013
-----
-
-1. [A SURVEY FOR VERY SHORT-PERIOD PLANETS IN THE KEPLER DATA](http://adsabs.harvard.edu/abs/2013ApJ...779..165J)  
-Jackson, Brian, Stark, Christopher C., Adams, Elisabeth R., et al.    
-2013, refereed ([2013ApJ...779..165J](http://adsabs.harvard.edu/abs/2013ApJ...779..165J))  
