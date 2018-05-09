@@ -37,8 +37,8 @@ Save_as: documentation.html
   </tr>
 
   <tr>
-    <td style="width: 35em;"><a href='https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20160010502.pdf'>TESS Orbital Trajectory Design</a></td>
-    <td>Dichmann et al., 2016</td>
+    <td style="width: 35em;"><a href='https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20140007518.pdf'>TESS Orbital Trajectory Design</a>, <a href='https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20160010502.pdf'>and enhancements</a></td>
+    <td>Dichmann et al., 2014, 2016</td>
   </tr>
 
 </table>
