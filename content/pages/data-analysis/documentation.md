@@ -26,16 +26,20 @@ Save_as: documentation.html
     <td>Stassun et al., 2017</td>
   </tr>
 
-   <tr>
+  <tr>
     <td style="width: 35em;"><a href='https://archive.stsci.edu/missions/tess/doc/EXP-TESS-ARC-ICD-TM-0014.pdf'>TESS Science Data Products Description Document</a></td>
     <td>Mansouri-Samani et al., 2016</td>
   </tr>
 
-   <tr>
+  <tr>
     <td style="width: 35em;"><a href='docs/jenkinsSPIE2016-copyright.pdf'>TESS Science Processing Operations Center (SPOC) pipeline</a></td>
     <td>Jenkins et al., 2016</td>
   </tr>
- 
+
+  <tr>
+    <td style="width: 35em;"><a href='https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20160010502.pdf'>TESS Orbital Trajectory Design</a></td>
+    <td>Dichmann et al., 2016</td>
+  </tr>
 
 </table>
 
