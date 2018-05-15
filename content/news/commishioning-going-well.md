@@ -1,5 +1,5 @@
 Title: TESS commissioning nominal and on track for lunar encounter
-Date: 2018-05-09 10:00
+Date: 2018-05-15 10:00
 Author: Joshua Schlieder
 
 TESS commissioning has been nominal. The space craft has undergone several phasing orbit burns and turn on and checkout of key subsystems. Since launch on April 18, TESS has reached many mission milestones that include:
