@@ -7,9 +7,17 @@ Save_as: tpub-exoplanets-by-month.html
 2018-04
 -------
 
-1. [SIMULATED JWST/NIRISS TRANSIT SPECTROSCOPY OF ANTICIPATED TESS PLANETS COMPARED TO SELECT DISCOVERIES FROM SPACE-BASED AND GROUND-BASED SURVEYS](http://adsabs.harvard.edu/abs/2018PASP..130d4401L)  
+1. [STRATEGIES FOR CONSTRAINING THE ATMOSPHERES OF TEMPERATE TERRESTRIAL PLANETS WITH JWST](http://adsabs.harvard.edu/abs/2018ApJ...856L..34B)  
+Batalha, Natasha E., Lewis, Nikole K., Line, Michael R., et al.    
+2018, refereed ([2018ApJ...856L..34B](http://adsabs.harvard.edu/abs/2018ApJ...856L..34B))  
+
+2. [SIMULATED JWST/NIRISS TRANSIT SPECTROSCOPY OF ANTICIPATED TESS PLANETS COMPARED TO SELECT DISCOVERIES FROM SPACE-BASED AND GROUND-BASED SURVEYS](http://adsabs.harvard.edu/abs/2018PASP..130d4401L)  
 Louie, Dana R., Deming, Drake, Albert, Loic, et al.    
 2018, refereed ([2018PASP..130d4401L](http://adsabs.harvard.edu/abs/2018PASP..130d4401L))  
+
+3. [A REVISED EXOPLANET YIELD FROM THE TRANSITING EXOPLANET SURVEY SATELLITE (TESS)](http://adsabs.harvard.edu/abs/2018arXiv180405050B)  
+Barclay, Thomas, Pepper, Joshua, Quintana, Elisa V.    
+2018, pre-print ([2018arXiv180405050B](http://adsabs.harvard.edu/abs/2018arXiv180405050B))  
 
 
 2018-03
@@ -135,10 +143,6 @@ Ciardi, David R., Beichman, Charles A., Horch, Elliott P., et al.
 Cowan, N. B., Greene, T., Angerhausen, D., et al.    
 2015, refereed ([2015PASP..127..311C](http://adsabs.harvard.edu/abs/2015PASP..127..311C))  
 
-2. [RADIAL VELOCITY PROSPECTS CURRENT AND FUTURE: A WHITE PAPER REPORT PREPARED BY THE STUDY ANALYSIS GROUP 8 FOR THE EXOPLANET PROGRAM ANALYSIS GROUP (EXOPAG)](http://adsabs.harvard.edu/abs/2015arXiv150301770P)  
-Plavchan, Peter, Latham, Dave, Gaudi, Scott, et al.    
-2015, pre-print ([2015arXiv150301770P](http://adsabs.harvard.edu/abs/2015arXiv150301770P))  
-
 
 2015-01
 -------
@@ -146,14 +150,6 @@ Plavchan, Peter, Latham, Dave, Gaudi, Scott, et al.
 1. [TRANSITING EXOPLANET SURVEY SATELLITE (TESS)](http://adsabs.harvard.edu/abs/2015JATIS...1a4003R)  
 Ricker, George R., Winn, Joshua N., Vanderspek, Roland, et al.    
 2015, refereed ([2015JATIS...1a4003R](http://adsabs.harvard.edu/abs/2015JATIS...1a4003R))  
-
-
-2014-12
--------
-
-1. [ORBITAL MOTION DURING GRAVITATIONAL LENSING EVENTS](http://adsabs.harvard.edu/abs/2014arXiv1412.7675D)  
-Di Stefano, Rosanne, Esin, Ann    
-2014, pre-print ([2014arXiv1412.7675D](http://adsabs.harvard.edu/abs/2014arXiv1412.7675D))  
 
 
 2014-10
@@ -170,19 +166,3 @@ Price, Ellen M., Rogers, Leslie A.
 1. [THE TRANSITING EXOPLANET SURVEY SATELLITE MISSION](http://adsabs.harvard.edu/abs/2014JAVSO..42..234R)  
 Ricker, G. R.    
 2014, refereed ([2014JAVSO..42..234R](http://adsabs.harvard.edu/abs/2014JAVSO..42..234R))  
-
-
-2014-02
--------
-
-1. [PLANET PACKING IN CIRCUMBINARY SYSTEMS](http://adsabs.harvard.edu/abs/2014MNRAS.437.3727K)  
-Kratter, Kaitlin M., Shannon, Andrew    
-2014, refereed ([2014MNRAS.437.3727K](http://adsabs.harvard.edu/abs/2014MNRAS.437.3727K))  
-
-
-2013-12
--------
-
-1. [A SURVEY FOR VERY SHORT-PERIOD PLANETS IN THE KEPLER DATA](http://adsabs.harvard.edu/abs/2013ApJ...779..165J)  
-Jackson, Brian, Stark, Christopher C., Adams, Elisabeth R., et al.    
-2013, refereed ([2013ApJ...779..165J](http://adsabs.harvard.edu/abs/2013ApJ...779..165J))  
