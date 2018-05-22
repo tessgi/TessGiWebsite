@@ -1,4 +1,4 @@
-Title: TESS arrives at Kennedy Space Center, and updated launch date
+Title: TESS arrives at Kennedy Space Center and updated launch date
 Date: 2018-02-15 2:01
 Author: Elisa Quintana
 

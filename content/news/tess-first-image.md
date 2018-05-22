@@ -1,4 +1,4 @@
-Title: TESS arrives at Kennedy Space Center, and updated launch date
+Title: TESS successfully completes lunar flyby
 Date: 2018-05-21 2:01
 Author: Elisa Quintana
 
