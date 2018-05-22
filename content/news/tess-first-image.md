@@ -9,7 +9,7 @@ As part of commissioning, the TESS science team took a 2-second test exposure us
 <br/>
 <img class="img-responsive" style="max-width:67%;" src="images/tess-test-image.png">
 <br/>
-Note a science-quality image, taken when the instrument is in fine-pointing and the cameras are operating at a nominal temperature for science data collection, is expected to be released in June.
+A science-quality image, taken when the instrument is in fine-pointing and the cameras are operating at a nominal temperature for science data collection, is expected to be released in June.
 
 The [TESS cameras](https://heasarc.gsfc.nasa.gov/docs/tess/the-tess-space-telescope.html#tess-cameras) were developed and built by MIT Lincoln Laboratory.
 
