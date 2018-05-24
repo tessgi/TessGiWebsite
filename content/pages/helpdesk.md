@@ -33,7 +33,7 @@ Save_as: helpdesk.html
 
 ### E-mail
 
-You can contact the TESS Science Support Center at [tessgi@bigbang.gsfc.nasa.gov](mailto:tessgi@bigbang.gsfc.nasa.gov) for advice and information on:
+You can contact the TESS Science Support Center at [tesshelp@bigbang.gsfc.nasa.gov](mailto:tesshelp@bigbang.gsfc.nasa.gov) for advice and information on:
 
 * the TESS mission;
 * proposing to observe with TESS;
