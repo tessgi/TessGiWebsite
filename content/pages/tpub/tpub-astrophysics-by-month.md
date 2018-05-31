@@ -4,6 +4,14 @@ Save_as: tpub-astrophysics-by-month.html
 [TOC]
 
 
+2018-05
+-------
+
+1. [SEARCHING FOR NEW WHITE DWARF PULSATORS FOR TESS OBSERVATIONS AT KONKOLY OBSERVATORY](http://adsabs.harvard.edu/abs/2018arXiv180510165B)  
+Bognár, Zs., Kalup, Cs., Sódor, Á., et al.    
+2018, pre-print ([2018arXiv180510165B](http://adsabs.harvard.edu/abs/2018arXiv180510165B))  
+
+
 2018-04
 -------
 

@@ -4,6 +4,22 @@ Save_as: tpub-by-month.html
 [TOC]
 
 
+2018-05
+-------
+
+1. [AN ESTIMATE OF THE YIELD OF SINGLE-TRANSIT PLANETARY EVENTS FROM THE TRANSITING EXOPLANET SURVEY SATELLITE](http://adsabs.harvard.edu/abs/2018arXiv180500956V)  
+Villanueva, Steven, Jr., Dragomir, Diana, Gaudi, B. Scott    
+2018, pre-print ([2018arXiv180500956V](http://adsabs.harvard.edu/abs/2018arXiv180500956V))  
+
+2. [A FRAMEWORK FOR PRIORITIZING THE TESS PLANETARY CANDIDATES MOST AMENABLE TO ATMOSPHERIC CHARACTERIZATION](http://adsabs.harvard.edu/abs/2018arXiv180503671K)  
+Kempton, Eliza M. -R., Bean, Jacob L., Louie, Dana R., et al.    
+2018, pre-print ([2018arXiv180503671K](http://adsabs.harvard.edu/abs/2018arXiv180503671K))  
+
+3. [SEARCHING FOR NEW WHITE DWARF PULSATORS FOR TESS OBSERVATIONS AT KONKOLY OBSERVATORY](http://adsabs.harvard.edu/abs/2018arXiv180510165B)  
+Bognár, Zs., Kalup, Cs., Sódor, Á., et al.    
+2018, pre-print ([2018arXiv180510165B](http://adsabs.harvard.edu/abs/2018arXiv180510165B))  
+
+
 2018-04
 -------
 

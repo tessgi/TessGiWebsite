@@ -12,7 +12,7 @@ the TESS mission is provided by the NASA Explorer Program.*
 
 The TESS Science Support Center curates a list of scientific publications
 pertaining to TESS.
-The database contains 46 publications,
+The database contains 49 publications,
 of which 28 are peer-reviewed.
 It demonstrates the important impact of TESS data
 on astronomical research.
@@ -29,7 +29,7 @@ Or seach by topic:
 If you spot an error in the database, such as a missing entry,
 please get in touch or open an issue in the <a href="https://github.com/tessgi/tpub">GitHub repository</a> of the database.
 
-Last update: 01 May 2018.
+Last update: 31 May 2018.
 
 <hr/>
 
@@ -46,11 +46,11 @@ of year.
 
 Both TESS data have been used for scientific applications
 that reach far beyond exoplanet research.
-While 23 works relate to exoplanets
-(50%),
-a total of 23
+While 25 works relate to exoplanets
+(51%),
+a total of 24
 pertain to other areas of astrophysics
-(50%).
+(49%).
 
 
 ![Publications by subject](images/tpub/tpub-piechart.png)
@@ -105,14 +105,14 @@ Davies, G. R., Miglio, A.
 [2016AN....337..774D](http://adsabs.harvard.edu/abs/2016AN....337..774D)
 <span class="badge">15 citations</span>
 
-9. THE TESS INPUT CATALOG AND CANDIDATE TARGET LIST  
-Stassun, Keivan G., Oelkers, Ryan J., Pepper, Joshua, et al.    
-[2017arXiv170600495S](http://adsabs.harvard.edu/abs/2017arXiv170600495S)
-<span class="badge">14 citations</span>
-
-10. TRANSITING EXOPLANET SIMULATIONS WITH THE JAMES WEBB SPACE TELESCOPE  
+9. TRANSITING EXOPLANET SIMULATIONS WITH THE JAMES WEBB SPACE TELESCOPE  
 Batalha, Natasha, Kalirai, Jason, Lunine, Jonathan, et al.    
 [2015arXiv150702655B](http://adsabs.harvard.edu/abs/2015arXiv150702655B)
+<span class="badge">14 citations</span>
+
+10. THE TESS INPUT CATALOG AND CANDIDATE TARGET LIST  
+Stassun, Keivan G., Oelkers, Ryan J., Pepper, Joshua, et al.    
+[2017arXiv170600495S](http://adsabs.harvard.edu/abs/2017arXiv170600495S)
 <span class="badge">14 citations</span>
 <hr/>
 
@@ -130,7 +130,7 @@ within the last 90 days.
 <!-- ## Most-active authors
 
 The entries in the publication database have been authored and co-authored
-by a total of 336 unique author names.
+by a total of 358 unique author names.
 Here we list the most-active authors, defined as those with six or more first-author publications in our database.
 
 -->
