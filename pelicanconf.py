@@ -182,9 +182,9 @@ MEETINGS = (
             #('<b>5-9 March 2018</b><br>'
             # 'Preparing for TESS',
             # 'http://tess.ninja/'),
-            ('<b>3-7 June 2018</b><br>'
-             '232nd Meeting of the American Astronomical Society',
-             'https://aas.org/meetings/aas232'),            
+            # ('<b>3-7 June 2018</b><br>'
+            #  '232nd Meeting of the American Astronomical Society',
+            #  'https://aas.org/meetings/aas232'),            
             ('<b>2-6 July 2018</b><br>'
              'Exoplanets II',
              'https://www.exoplanetscience2.org'),
@@ -199,7 +199,13 @@ MEETINGS = (
              'http://coolstars20.cfa.harvard.edu'),
             ('<b>20-31 August 2018</b><br>'
              'International Astronomical Union',
-             'https://astronomy2018.univie.ac.at'),             
+             'https://astronomy2018.univie.ac.at'),     
+            ('<b>4-8 March 2019</b><br>'
+             'Kepler Science Conference',
+             'https://keplerscience.arc.nasa.gov/scicon-2019/index.html'),           
+            ('<b>29 July - 2 August 2019</b><br>'
+             'TESS Science Conference',
+             'https://tess.mit.edu/science/tess-science-conference/'),            
             ('<b>15 April 2019 - 28 June 2019</b><br>'
              'Better Stars, Better Planets: Exploiting the Stellar-Exoplanetary Synergy',
              'https://www.kitp.ucsb.edu/activities/exostar19'),
