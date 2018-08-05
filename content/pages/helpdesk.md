@@ -5,21 +5,28 @@ Save_as: helpdesk.html
 
 <div class="row">
     <div class="col-sm-3 text-center">
-        <img src="images/faces/padi.jpg" class="img-circle"><br>
-        Dr Padi Boyd<br>
+        <img src="images/faces/tom.jpg" class="img-circle"><br>
+        Dr Tom Barclay<br>
         Director
     </div>
     <div class="col-sm-3 text-center">
-        <img src="images/faces/tom.jpg" class="img-circle"><br>
-        Dr Tom Barclay<br>
+        <img src="images/faces/knicole.jpg" class="img-circle"><br>
+        Dr Knicole Colón<br>
         Deputy Director
     </div>
     <div class="col-sm-3 text-center">
+        <img src="images/faces/padi.jpg" class="img-circle"><br>
+        Dr Padi Boyd<br>
+        Project Scientist
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm-3 text-center">
         <img src="images/faces/elisa.jpg" class="img-circle"><br>
         Dr Elisa Quintana<br>
-        Support Scientist
+        Deputy Project Scientist
     </div>
-    <div class="col-sm-5 text-center">
+    <div class="col-sm-3 text-center">
         <img src="images/faces/josh.jpg" class="img-circle"><br>
         Dr Josh Schlieder<br>
         Support Scientist

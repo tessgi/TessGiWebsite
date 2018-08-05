@@ -1,15 +1,12 @@
 Title: TESS Director's Discretionary Target (DDT) program
 Save_as: ddt.html
 
-We anticipate that a small percentage of the available TESS resources in each sector may be allocated as Director's Discretionary Targets (DDTs). The primary utilization of DDT programs is in support of community-proposed requests that are based on exceptional, time-critical observing opportunities that cannot be accommodated with the regular proposal cycle. Other DDT usages include innovative observations that extend the scientific capabilities of TESS, and extraordinary events and opportunities that necessitate observations be obtained with TESS for the benefit of the astronomical community. Note that all DDT observations are publicly available immediately, and we anticipate that no funding will be allocated for DDT observations. 
 
-The purpose of the DDT program for TESS is therefore to facilitate observations that address emerging scientific topics or areas missed in the proposal review process and:
+The DDT and out-of-cycle Target of Opportunity processes for TESS will draw heavily on those used successfully for the NuStar Explorer mission. Requests and targets will be submitted through a form on the MIT TESS website. The requests will be reviewed by the TESS PI, a science expert selected by the TESS PI, and the TESS operations team. Approved targets will be posted on the MIT TESS website, along with the expected time(s) of observation.  There is no proprietary period for approved DDT observations. Data from a DDT observation will be delivered to the TESS archives concurrently with the non-DDT data from the sector in which the DDT is observed.
+ 
+For Year 1 (Sectors 1-13) of the TESS survey, there will be 20,000 DDT targets allocated for 2 minute data. For the first three observation sectors (Sectors 1-3), there can be up to 1500 DDT targets awarded per sector, depending upon the realized in-flight data compression. 
 
-* respond to targets of opportunity, e.g. newly discovered exoplanets or supernovae;
-* yield high-impact science from TESS;
-* enhance existing GI programs with additional critical data.
 
-More details of the DDT program will appear here when the program is launched. We anticipate that this will be in time for selection of targets for Sector 3 observations. In the mean-time please contact [tessgi@bigbang.gsfc.nasa.gov](mailto:tessgi@bigbang.gsfc.nasa.gov) with comments and concerns. 
 
 <!-- ## Proposal Information
 

@@ -2,6 +2,8 @@ Approved Guest Investigator programs
 ####################################
 :save_as: approved-programs.html
 
+[TOC]
+
 This page details the programs for execution by TESS
 as part of the `Guest Investigator program <proposing-investigations.html>`_.
 
@@ -21,4 +23,8 @@ Cycle 1
     Cycle 1 contains all targets proposed through the Guest Investigator program for the first year of the TESS mission. All programs are to observe sources in the Southern Ecliptic hemisphere.
     </p>
 
+
 .. include:: approved-programs/cycle1.html
+
+Sector 1
+========

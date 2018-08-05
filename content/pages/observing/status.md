@@ -31,7 +31,7 @@ TESS launched April 18 at 6:51 p.m. EDT from Cape Canaveral Air Force Station in
 
 <div class="panel panel-primary">
   <div class="panel-heading">
-    <h3 class="panel-title">Sector dates and positions</h3>
+    <h3 class="panel-title">Sector dates</h3>
   </div>
   <div class="panel-body">
 
@@ -43,193 +43,190 @@ TESS launched April 18 at 6:51 p.m. EDT from Cape Canaveral Air Force Station in
       <th style="vertical-align: middle;">Start</th>
       <th style="vertical-align: middle;">Stop</th>
       <th style="vertical-align: middle;">Data<br>available</th>
-      <th style="vertical-align: middle;" class="text-center">Target<br>list</th>
+      <th style="vertical-align: middle;">GI target list</th>
       <!-- <th style="vertical-align: middle;" class="text-center">Release<br>notes</th> -->
       <th style="vertical-align: middle;">Comments</th>
     </tr>
   </thead>
 
+  <tr>
+    <td><a href="#s001">s001</a></td>
+    <td>South</td>
+    <td>2018&nbsp;Jul&nbsp;25</td>
+    <td>2018&nbsp;Aug&nbsp;22</td>
+    <td>2019 Jan 25</td>
+    <td><a href='data/target_lists/sector001_targets_lists/GI_S001.csv'>Download</a></td>
 
-    <tr>
-      <td><a href="#s001">s001</a></td>
-      <td>South</td>
-      <td>2018&nbsp;Jul&nbsp;25</td>
-      <td>2018&nbsp;Aug&nbsp;22</td>
-      <td>TBC</td>
-      <td>Available soon</td>
-
-      <td style="min-width: 12em;">
-
-      </td>
-    </tr>
+    <td style="min-width: 12em;">Currently being observed</td>
+  </tr>
 
 
-    <tr>
-      <td><a href="#s002">s002</a></td>
-      <td>South</td>
-      <td>2018&nbsp;Aug&nbsp;22</td>
-      <td>2018&nbsp;Sep&nbsp;20</td>
-      <td>TBC</td>
-      <td>Available soon</td>
+  <tr>
+    <td><a href="#s002">s002</a></td>
+    <td>South</td>
+    <td>2018&nbsp;Aug&nbsp;22</td>
+    <td>2018&nbsp;Sep&nbsp;20</td>
+    <td>2019 Jan 25</td>
+    <td>Available soon</td>
 
-      <td style="min-width: 12em;">
+    <td style="min-width: 12em;">
 
-      </td>
-    </tr>
-
-
-    <tr>
-      <td><a href="#s003">s003</a></td>
-      <td>South</td>
-      <td>2018&nbsp;Sep&nbsp;20</td>
-      <td>2018&nbsp;Oct&nbsp;18</td>
-      <td>TBC</td>
-      <td>Available soon</td>
-
-      <td style="min-width: 12em;">
-
-      </td>
-    </tr>
+    </td>
+  </tr>
 
 
-    <tr>
-      <td><a href="#s004">s004</a></td>
-      <td>South</td>
-      <td>2018&nbsp;Oct&nbsp;18</td>
-      <td>2018&nbsp;Nov&nbsp;15</td>
-      <td>TBC</td>
-      <td>Available soon</td>
+  <tr>
+    <td><a href="#s003">s003</a></td>
+    <td>South</td>
+    <td>2018&nbsp;Sep&nbsp;20</td>
+    <td>2018&nbsp;Oct&nbsp;18</td>
+    <td>2019 Jan 25</td>
+    <td>Available soon</td>
 
-      <td style="min-width: 12em;">
+    <td style="min-width: 12em;">
 
-      </td>
-    </tr>
-
-
-    <tr>
-      <td><a href="#s005">s005</a></td>
-      <td>South</td>
-      <td>2018&nbsp;Nov&nbsp;15</td>
-      <td>2018&nbsp;Dec&nbsp;11</td>
-      <td>TBC</td>
-      <td>Available soon</td>
-
-      <td style="min-width: 12em;">
-
-      </td>
-    </tr>
+    </td>
+  </tr>
 
 
-    <tr>
-      <td><a href="#s006">s006</a></td>
-      <td>South</td>
-      <td>2018&nbsp;Dec&nbsp;11</td>
-      <td>2019&nbsp;Jan&nbsp;07</td>
-      <td>TBC</td>
-      <td>Available soon</td>
+  <tr>
+    <td><a href="#s004">s004</a></td>
+    <td>South</td>
+    <td>2018&nbsp;Oct&nbsp;18</td>
+    <td>2018&nbsp;Nov&nbsp;15</td>
+    <td>2019 Jan 25</td>
+    <td>Available soon</td>
 
-      <td style="min-width: 12em;">
+    <td style="min-width: 12em;">
 
-      </td>
-    </tr>
-
-
-    <tr>
-      <td><a href="#s007">s007</a></td>
-      <td>South</td>
-      <td>2019&nbsp;Jan&nbsp;07</td>
-      <td>2019&nbsp;Feb&nbsp;02</td>
-      <td>TBC</td>
-      <td>Available soon</td>
-
-      <td style="min-width: 12em;">
-
-      </td>
-    </tr>
+    </td>
+  </tr>
 
 
-    <tr>
-      <td><a href="#s008">s008</a></td>
-      <td>South</td>
-      <td>2019&nbsp;Feb&nbsp;02</td>
-      <td>2019&nbsp;Feb&nbsp;28</td>
-      <td>TBC</td>
-      <td>Available soon</td>
+  <tr>
+    <td><a href="#s005">s005</a></td>
+    <td>South</td>
+    <td>2018&nbsp;Nov&nbsp;15</td>
+    <td>2018&nbsp;Dec&nbsp;11</td>
+    <td>TBC</td>
+    <td>Available soon</td>
 
-      <td style="min-width: 12em;">
+    <td style="min-width: 12em;">
 
-      </td>
-    </tr>
-
-
-    <tr>
-      <td><a href="#s009">s009</a></td>
-      <td>South</td>
-      <td>2019&nbsp;Feb&nbsp;28</td>
-      <td>2019&nbsp;Mar&nbsp;26</td>
-      <td>TBC</td>
-      <td>Available soon</td>
-
-      <td style="min-width: 12em;">
-
-      </td>
-    </tr>
+    </td>
+  </tr>
 
 
-    <tr>
-      <td><a href="#s010">s010</a></td>
-      <td>South</td>
-      <td>2019&nbsp;Mar&nbsp;26</td>
-      <td>2019&nbsp;Apr&nbsp;22</td>
-      <td>TBC</td>
-      <td>Available soon</td>
+  <tr>
+    <td><a href="#s006">s006</a></td>
+    <td>South</td>
+    <td>2018&nbsp;Dec&nbsp;11</td>
+    <td>2019&nbsp;Jan&nbsp;07</td>
+    <td>TBC</td>
+    <td>Available soon</td>
 
-      <td style="min-width: 12em;">
+    <td style="min-width: 12em;">
 
-      </td>
-    </tr>
-
-
-    <tr>
-      <td><a href="#s011">s011</a></td>
-      <td>South</td>
-      <td>2019&nbsp;Apr&nbsp;22</td>
-      <td>2019&nbsp;May&nbsp;21</td>
-      <td>TBC</td>
-      <td>Available soon</td>
-
-      <td style="min-width: 12em;">
-
-      </td>
-    </tr>
+    </td>
+  </tr>
 
 
-    <tr>
-      <td><a href="#s012">s012</a></td>
-      <td>South</td>
-      <td>2019&nbsp;May&nbsp;21</td>
-      <td>2019&nbsp;Jun&nbsp;19</td>
-      <td>TBC</td>
-      <td>Available soon</td>
+  <tr>
+    <td><a href="#s007">s007</a></td>
+    <td>South</td>
+    <td>2019&nbsp;Jan&nbsp;07</td>
+    <td>2019&nbsp;Feb&nbsp;02</td>
+    <td>TBC</td>
+    <td>Available soon</td>
 
-      <td style="min-width: 12em;">
+    <td style="min-width: 12em;">
 
-      </td>
-    </tr>
+    </td>
+  </tr>
 
 
-    <tr>
-      <td><a href="#s013">s013</a></td>
-      <td>South</td>
-      <td>2019&nbsp;Jun&nbsp;19</td>
-      <td>2019&nbsp;Jul&nbsp;18</td>
-      <td>TBC</td>
-      <td>Available soon</td>
+  <tr>
+    <td><a href="#s008">s008</a></td>
+    <td>South</td>
+    <td>2019&nbsp;Feb&nbsp;02</td>
+    <td>2019&nbsp;Feb&nbsp;28</td>
+    <td>TBC</td>
+    <td>Available soon</td>
 
-      <td style="min-width: 12em;">
+    <td style="min-width: 12em;">
 
-      </td>
-    </tr>
+    </td>
+  </tr>
+
+
+  <tr>
+    <td><a href="#s009">s009</a></td>
+    <td>South</td>
+    <td>2019&nbsp;Feb&nbsp;28</td>
+    <td>2019&nbsp;Mar&nbsp;26</td>
+    <td>TBC</td>
+    <td>Available soon</td>
+
+    <td style="min-width: 12em;">
+
+    </td>
+  </tr>
+
+
+  <tr>
+    <td><a href="#s010">s010</a></td>
+    <td>South</td>
+    <td>2019&nbsp;Mar&nbsp;26</td>
+    <td>2019&nbsp;Apr&nbsp;22</td>
+    <td>TBC</td>
+    <td>Available soon</td>
+
+    <td style="min-width: 12em;">
+
+    </td>
+  </tr>
+
+
+  <tr>
+    <td><a href="#s011">s011</a></td>
+    <td>South</td>
+    <td>2019&nbsp;Apr&nbsp;22</td>
+    <td>2019&nbsp;May&nbsp;21</td>
+    <td>TBC</td>
+    <td>Available soon</td>
+
+    <td style="min-width: 12em;">
+
+    </td>
+  </tr>
+
+
+  <tr>
+    <td><a href="#s012">s012</a></td>
+    <td>South</td>
+    <td>2019&nbsp;May&nbsp;21</td>
+    <td>2019&nbsp;Jun&nbsp;19</td>
+    <td>TBC</td>
+    <td>Available soon</td>
+
+    <td style="min-width: 12em;">
+
+    </td>
+  </tr>
+
+
+  <tr>
+    <td><a href="#s013">s013</a></td>
+    <td>South</td>
+    <td>2019&nbsp;Jun&nbsp;19</td>
+    <td>2019&nbsp;Jul&nbsp;18</td>
+    <td>TBC</td>
+    <td>Available soon</td>
+
+    <td style="min-width: 12em;">
+
+    </td>
+  </tr>
 
 
 
