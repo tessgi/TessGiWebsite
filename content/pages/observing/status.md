@@ -108,7 +108,7 @@ TESS launched April 18 at 6:51 p.m. EDT from Cape Canaveral Air Force Station in
     <td>South</td>
     <td>2018&nbsp;Nov&nbsp;15</td>
     <td>2018&nbsp;Dec&nbsp;11</td>
-    <td>TBC</td>
+    <td>2019 Feb 25</td>
     <td></td>
 
     <td style="min-width: 12em;">
@@ -122,7 +122,7 @@ TESS launched April 18 at 6:51 p.m. EDT from Cape Canaveral Air Force Station in
     <td>South</td>
     <td>2018&nbsp;Dec&nbsp;11</td>
     <td>2019&nbsp;Jan&nbsp;07</td>
-    <td>TBC</td>
+    <td>2019 Mar 25</td>
     <td></td>
 
     <td style="min-width: 12em;">
@@ -136,7 +136,7 @@ TESS launched April 18 at 6:51 p.m. EDT from Cape Canaveral Air Force Station in
     <td>South</td>
     <td>2019&nbsp;Jan&nbsp;07</td>
     <td>2019&nbsp;Feb&nbsp;02</td>
-    <td>TBC</td>
+    <td>2019 Apr 25</td>
     <td></td>
 
     <td style="min-width: 12em;">
@@ -150,7 +150,7 @@ TESS launched April 18 at 6:51 p.m. EDT from Cape Canaveral Air Force Station in
     <td>South</td>
     <td>2019&nbsp;Feb&nbsp;02</td>
     <td>2019&nbsp;Feb&nbsp;28</td>
-    <td>TBC</td>
+    <td>2019 May 25</td>
     <td></td>
 
     <td style="min-width: 12em;">
@@ -164,7 +164,7 @@ TESS launched April 18 at 6:51 p.m. EDT from Cape Canaveral Air Force Station in
     <td>South</td>
     <td>2019&nbsp;Feb&nbsp;28</td>
     <td>2019&nbsp;Mar&nbsp;26</td>
-    <td>TBC</td>
+    <td>2019 Jun 25</td>
     <td></td>
 
     <td style="min-width: 12em;">
@@ -178,7 +178,7 @@ TESS launched April 18 at 6:51 p.m. EDT from Cape Canaveral Air Force Station in
     <td>South</td>
     <td>2019&nbsp;Mar&nbsp;26</td>
     <td>2019&nbsp;Apr&nbsp;22</td>
-    <td>TBC</td>
+    <td>2019 Jul 25</td>
     <td></td>
 
     <td style="min-width: 12em;">
@@ -192,7 +192,7 @@ TESS launched April 18 at 6:51 p.m. EDT from Cape Canaveral Air Force Station in
     <td>South</td>
     <td>2019&nbsp;Apr&nbsp;22</td>
     <td>2019&nbsp;May&nbsp;21</td>
-    <td>TBC</td>
+    <td>2019 Aug 25</td>
     <td></td>
 
     <td style="min-width: 12em;">
@@ -206,7 +206,7 @@ TESS launched April 18 at 6:51 p.m. EDT from Cape Canaveral Air Force Station in
     <td>South</td>
     <td>2019&nbsp;May&nbsp;21</td>
     <td>2019&nbsp;Jun&nbsp;19</td>
-    <td>TBC</td>
+    <td>2019 Sep 25</td>
     <td></td>
 
     <td style="min-width: 12em;">
@@ -220,7 +220,7 @@ TESS launched April 18 at 6:51 p.m. EDT from Cape Canaveral Air Force Station in
     <td>South</td>
     <td>2019&nbsp;Jun&nbsp;19</td>
     <td>2019&nbsp;Jul&nbsp;18</td>
-    <td>TBC</td>
+    <td>2019 Oct 25</td>
     <td></td>
 
     <td style="min-width: 12em;">
