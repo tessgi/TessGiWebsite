@@ -9,7 +9,7 @@ Type: Small
 Summary: With space asteroseismology we can measure the internal rotation of evolved stars. Subgiant stars are especially valuable because we can also measure their surface rotation, which is difficult or impossible for more evolved stars. Prior studies have given us strong evidence for cores rotating faster than their surfaces, but only for small subgiant samples. We request observations of 50 high-priority subgiant stars in the southern continuous viewing zone. A one year time series will yield high quality data capable of measuring internal rotation, and we have arranged complementary ground-based data to fully characterize these important targets. This powerful sample will permit tests of gyrochronlogy and stellar angular momentum evolution theory, and it has other broad applications.          
 
 
-# Sector 1 targets observed
+# Sector 1 targets observed (105)
 149120726,80.9415,-62.5821,7.26,G011133;G011047;G011048
 149125377,81.2094,-64.3686,8.62,G011133;G011047;G011048;G011250
 179232118,79.326,-67.9225,10.41,G011133;G011048

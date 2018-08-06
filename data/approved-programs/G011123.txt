@@ -1,0 +1,13 @@
+# TESS Program G011123
+            
+Title: Cataclysmic Variables And Tess: Uninterrupted Monitoring!
+
+PI: Schlegel, Eric - University Of Texas At San Antonio
+
+Type: N/A
+
+Summary: We propose to observe all bright eclipsing cataclysmic variables (CVs) available to TESS during Cycle 1 (with a companion set to be proposed for Cycle 2) using the 2-min cadence mode for all. The 22 CVs cover a broad range of CV sub-type including nova-likes, dwarf novae, old novae, and magnetic CVs. The time resolution provided by the 2-min fixed cadence of the observations leads to high spatial resolution in the accretion structures. We will use the resulting data set to study the eclipses to provide insight to the accretion behavior. The eclipses will provide stringent tests of accretion models. Eclipse mapping will provide extended views of accretion behavior with time, revealing the on-going `life' of disks and other accretion structures.                                               
+
+
+# Sector 1 targets observed (1)
+355544723,320.3605,-54.0763,13.57,G011123

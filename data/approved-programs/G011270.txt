@@ -1,0 +1,16 @@
+# TESS Program G011270
+            
+Title: Photometric Analysis Of Be Stars' Outbursts In The Southern Ecliptic Hemisphere
+
+PI: Andrade, Laerte - Universidade Estadual De Ponta Grossa
+
+Type: N/A
+
+Summary: We propose the characterization of outbursts in southern Be stars. Classical Be stars are rapid rotators of spectral type B and luminosity class V-III which have an equatorially concentrated circumstellar disk. The disk is fed by discrete mass loss events called outbursts. Rapid rotation alone cannot explain the ejection episodes, and non-radial pulsations (NRP) have been proposed as an explanation. We propose to verify the correlation between the NRP regime and the feeding of the envelope by combining ground-based spectroscopy data with the identification of outbursts and the measurement of small changes in pulsation frequencies with TESS 2-min cadence observations. Fourier analysis of photometric data will be performed using a methodology developed by our group for CoRoT and K2 Be stars.
+
+
+# Sector 1 targets observed (4)
+55295028,76.8039,-61.8051,9.21,G011073;G011204;G011270
+308748912,122.1026,-63.8007,6.38,G011204;G011270
+364398342,119.7105,-60.8244,5.75,G011155;G011270;G011230;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25
+279430029,105.0432,-56.9069,7.95,G011204;G011270

@@ -9,7 +9,7 @@ Type: Small
 Summary: We propose to conduct the first systematic and statistically robust study of variability in very-low mass stars and brown dwarfs, enabled by the TESS mission's long-term continuous photometric monitoring, red sensitive passband and broad sky coverage. We will examine the light-curves of hundreds of spectroscopically verified ultracool dwarfs to characterize brightness modulations, measure rotation periods and determine flare rates, including a sample of 2 min cadence targets to study flare profiles and short duration variability. This study will fundamentally probe the nature of the atmospheric, structural, and rotational changes at the end of the stellar main sequence, and how these physical processes manifest as broadband variability through magnetic activity and weather.                
 
 
-# Sector 1 targets observed
+# Sector 1 targets observed (11)
 389051009,333.4616,-63.7019,12.94,G011231;G011153;G011180
 401984769,352.5672,-47.6128,13.01,G011153;G011129;G_PROPER_MOTION_-545_-995
 280801342,359.6851,-62.7614,13.06,G011153;G011180

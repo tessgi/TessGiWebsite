@@ -9,7 +9,7 @@ Type: Large
 Summary: We propose to use TESS data to investigate planetary systems orbiting cool dwarfs spanning a range of masses, metallicities, and ages. TESS will survey 13 times more cool dwarfs than Kepler and K2 combined, thereby enabling sophisticated analyses of how the prevalence and properties of planets depend on host star characteristics. Using our planet detection pipeline, we expect to detect roughly 90 Earth-sized planets, 360 Super-Earths, and 1460 Sub-Neptunes in the Full-Frame Images of nearly 1 million cool dwarfs. Many of these worlds will be individually interesting as targets for future mass measurement or atmospheric characterization, and planet occurrence calculations using the full planet sample will reveal new insights into the formation and evolution of planetary systems.            
 
 
-# Sector 1 targets observed
+# Sector 1 targets observed (1748)
 114953216,315.2684,-41.2439,11.67,G011180
 114985772,315.2315,-41.5302,11.04,G011180
 115176273,317.1335,-40.0656,11.54,G011180

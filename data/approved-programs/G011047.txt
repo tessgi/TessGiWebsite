@@ -9,7 +9,7 @@ Type: Large
 Summary: We propose to investigate the evolution of helium in the local solar neighborhood, in particular the (Delta Y/Delta Z) relation, using asteroseismic data of stars in the TESS Continuous Viewing Zone (CVZ). The helium abundance is one of the most poorly constrained inputs needed to construct stellar models, but it strongly affects a star's structure and subsequent evolution. Helium cannot be detected in the photosphere of most stars. Asteroseismology allows us to determine the helium abundance in the outer convection-zone of stars indirectly by modelling stellar oscillation frequencies, and directly by looking at the acoustic glitch signal of helium ionization. Stars in the TESS CVZ will allow us to study the (Delta Y/Delta Z) relation. Our target list has 188 stars in the southern CVZ.    
 
 
-# Sector 1 targets observed
+# Sector 1 targets observed (129)
 149120726,80.9415,-62.5821,7.26,G011133;G011047;G011048
 149125377,81.2094,-64.3686,8.62,G011133;G011047;G011048;G011250
 149160778,81.6877,-64.6053,7.86,G011047;G011048;G011250

@@ -9,7 +9,7 @@ Type: Small
 Summary: The most powerful tests of stellar structure and evolution come from the brightest stars in the sky, for which complementary techniques can be combined. So far, naked-eye stars (V<6) have been rarely observed with high-precision photometry from space due to the large number of pixels required to capture saturated pixel columns. Here we propose adapt a low-pixel-cost technique, which our team pioneered for the K2 Mission, to produce high-precision 2-minute cadence light curves of all naked eye stars observable by TESS. The software tools and data products will enable numerous science applications, including tests of asteroseismic scaling relations for red giants, the detection of transiting planets orbiting naked-eye stars, pulsations in massive stars, and studies of interacting binaries.  
 
 
-# Sector 1 targets observed
+# Sector 1 targets observed (205)
 115015109,315.7413,-38.632,4.84,G011155;G011048;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25
 115108198,316.6066,-41.386,4.35,G011155;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25
 129636548,321.1036,-41.0067,5.84,G011155;G011127;G011241;G011060;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25

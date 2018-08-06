@@ -1,0 +1,13 @@
+# TESS Program G011279
+            
+Title: Putting Our Knowledge Of Cepheids To The Tesst
+
+PI: Engle, Scott - Villanova University
+
+Type: N/A
+
+Summary: Historically, monitoring the evolution of a Cepheid's pulsations required a significant investment of telescope time. The advent of wide field photometric surveys, provides excellent datasets for carrying out period change studies on a large number of Cepheids. However, the observing cadence of most ground-based sky surveys and the day-night cycle prevent the study of short-term, especially cycle-to-cycle, Cepheid period variations and jitter. The original Kepler field contained just one Galactic Cepheid, and K2 has returned data on maybe a dozen more. But at last, TESS will allow us to carry out ultra-high precision, ~month-long (or longer) continuous photometry of the majority of known Galactic Cepheids. This will fundamentally alter our understanding of Cepheid variables.               
+
+
+# Sector 1 targets observed (1)
+149346418,83.4064,-62.4897,3.26,G011155;G011279;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25
