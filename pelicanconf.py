@@ -123,7 +123,7 @@ MENUITEMS = (
 # Defines the "key information" box on the front page
 KEY_INFORMATION = (
     # ('Proposal submission page', 'https://heasarc.gsfc.nasa.gov/ark/rps/'),
-    ('Web TESS Target Tool', 'https://heasarc.gsfc.nasa.gov/cgi-bin/tess/webtess/wtm.py'),
+    ('Web TESS Target Tool', 'https://heasarc.gsfc.nasa.gov/cgi-bin/tess/webtess/wtv.py'),
     ('Contact us', 'helpdesk.html'),
     ('Observatory Guide', 'documentation.html'),
     ('Frequently asked questions', 'faq.html'),
@@ -142,7 +142,10 @@ IMPORTANT_DATES = (
             ('<b>April 18 2018</b>',
              'TESS launch',
              'operations.html'), # link to a news item?
-            ('<b>December 2018</b>',
+            ('<b>January 25 2018</b>',
+             'First data release',
+             'status.html'), # link to a news item?
+            ('<b>February 2018</b>',
              'TESS GI Cycle 2 proposal deadline',
              'proposing-investigations.html'), # link to a news item?
          )
@@ -185,18 +188,18 @@ MEETINGS = (
             # ('<b>3-7 June 2018</b><br>'
             #  '232nd Meeting of the American Astronomical Society',
             #  'https://aas.org/meetings/aas232'),            
-            ('<b>2-6 July 2018</b><br>'
-             'Exoplanets II',
-             'https://www.exoplanetscience2.org'),
-            ('<b>8-13 July 2018</b><br>'
-             'TASC4/KASC11',
-             'https://tasoc.dk'),
-            ('<b>14-22 July 2018</b><br>'
-             'COSPAR',
-             'http://cospar2018.org'),
-            ('<b>29 July - 3 Aug 2018</b><br>'
-             'Cool Stars 20', 
-             'http://coolstars20.cfa.harvard.edu'),
+            # ('<b>2-6 July 2018</b><br>'
+            #  'Exoplanets II',
+            #  'https://www.exoplanetscience2.org'),
+            # ('<b>8-13 July 2018</b><br>'
+            #  'TASC4/KASC11',
+            #  'https://tasoc.dk'),
+            # ('<b>14-22 July 2018</b><br>'
+            #  'COSPAR',
+            #  'http://cospar2018.org'),
+            # ('<b>29 July - 3 Aug 2018</b><br>'
+            #  'Cool Stars 20', 
+            #  'http://coolstars20.cfa.harvard.edu'),
             ('<b>20-31 August 2018</b><br>'
              'International Astronomical Union',
              'https://astronomy2018.univie.ac.at'),     

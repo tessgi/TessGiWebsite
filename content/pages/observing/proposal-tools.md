@@ -5,7 +5,7 @@ Save_as: proposal-tools.html
 
 We have developed two pieces of softare to aid in the development of proposals. [TVGuide](#tvguide) helps with determining whether are target is observable in Cycle 1, and [ticgen](#ticgen) is used to calculate the brightness of a target in the TESS bandpass. In addition, resources have been created by various other team to aid in writing proposals.
 
-We have [created a webtool](https://heasarc.gsfc.nasa.gov/cgi-bin/tess/webtess/wtm.py) that implements the functionality of ticgen and tvguide. This is our recommended avenue to accessing these utilities.
+We have [created a webtool](https://heasarc.gsfc.nasa.gov/cgi-bin/tess/webtess/wtv.py) that implements the functionality of ticgen and tvguide. This is our recommended avenue to accessing these utilities.
 
 ## Target list creation
 The first stop for TESS GI proposers when preparing their proposals should be the [STScI/MAST TESS pages](https://archive.stsci.edu/tess/). Here, proposers can follow tutorials to learn how to access the Target Input Catalog (TIC) and Candidate Target List (CTL), crossmatch their targets with these catalogs, and create output files with relevant target information required for the GI call. The TESS GI program office requires that if a target is in the TIC, GI proposers must provide only the following columns from the TIC in comma separated value (csv) format:
@@ -34,7 +34,7 @@ The following figure provides an example of a CTL visualization that can be made
 Additional premade figures are available on the CTL Filtergraph page, including CTL TESS mag and effective temperature histograms. Users may also create their own Filtergraph account and upload their own target lists for visualization following the instructions and tutorials on the main [Filtergraph](https://filtergraph.com/) webpage. 
 
 ## Web TESS Target Tool
-The [Web TESS Target Tool](https://heasarc.gsfc.nasa.gov/cgi-bin/tess/webtess/wtm.py) provided by the TESS Science Support Center assists the community in planning and proposing. The website implements the functionality of both [tvguide](#tvguide) and [ticgen](#ticgen) in a handy online tool.
+The [Web TESS Target Tool](https://heasarc.gsfc.nasa.gov/cgi-bin/tess/webtess/wtv.py) provided by the TESS Science Support Center assists the community in planning and proposing. The website implements the functionality of both [tvguide](#tvguide) and [ticgen](#ticgen) in a handy online tool.
 
 We recommend users start by using the webtool before experimenting with the command line tools.
 
