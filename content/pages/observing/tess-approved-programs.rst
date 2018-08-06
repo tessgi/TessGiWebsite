@@ -2,7 +2,7 @@ Approved Guest Investigator programs
 ####################################
 :save_as: approved-programs.html
 
-[TOC]
+.. contents::
 
 This page details the programs for execution by TESS
 as part of the `Guest Investigator program <proposing-investigations.html>`_.
@@ -28,3 +28,17 @@ Cycle 1
 
 Sector 1
 ========
+.. raw:: html
+
+    <ul class="list-group">
+        <li class="list-group-item">
+          <i class="fa fa-calendar fa-margin"></i>
+          Jul 25, 2018 - Aug 22, 2018
+        </li>
+        <li class="list-group-item">
+            <i class="fa fa-download fa-margin"></i>
+            <a href="data/target_lists/sector001_targets_lists/GI_S001.csv">Target list (csv)</a>
+        </li>
+    </ul>
+
+.. include:: approved-programs/sector001.html

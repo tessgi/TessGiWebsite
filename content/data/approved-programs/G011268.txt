@@ -9,7 +9,7 @@ Type: Small
 Summary: Accretion is responsible for the growth and evolution of most objects in the Universe, yet many unanswered questions remain in accretion disk physics. We propose to observe a sample of 59 accreting compact objects (comprising a mix of accreting white dwarfs, neutron stars, and stellar-mass black holes) at 2-minute cadence with TESS. These observations will provide the first probe into long-timescale accretion-induce variability for many object types, allowing for both studies on individual objects and ensemble analysis to compare accretion variability across different accretor types. We will also co-ordinate X-ray observations to be simultaneously performed on some targets, allowing us to study X-ray/optical time-lags on week timescales.                                                     
 
 
-# Sector 1 targets observed
+# Sector 1 targets observed (16)
 234340131,37.7135,-68.7016,17.08,G011268
 24695725,25.2522,-67.8908,16.01,G011268
 369705840,32.4622,-63.311,14.14,G011268

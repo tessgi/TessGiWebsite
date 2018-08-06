@@ -1,0 +1,13 @@
+# TESS Program G011179
+            
+Title: The TESS Coeval Degenerates Survey, Cycle 1
+
+PI: Hermes, JJ - University Of North Carolina
+
+Type: N/A
+
+Summary: We propose TESS observations of a unique set of bright main-sequence and subdwarf stars for which we have age constraints from a wide, coeval white dwarf companion. The white dwarfs in the 62 currently known common-proper-motion systems visible in Cycle 1 span a range of total ages, from roughly 300 Myr all the way up to more than 10 Gyr. The majority of the main-sequence primaries are K and M dwarfs, for whom most age inference methods yield only imprecise estimates. Our observations will constrain age-rotation and age-activity relations at old ages. A major advance will occur in 2018 April, when Gaia DR2 will enable the discovery of hundreds if not thousands of new suitable binaries, which we will explore using the 30-min full-frame images.                                                
+
+
+# Sector 1 targets observed (1)
+260266504,94.0777,-59.2151,5.95,G011047;G011179;G011025;G011048;G011250

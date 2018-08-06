@@ -9,7 +9,7 @@ Type: Small
 Summary: M dwarfs account for 75% of all stars. The nearest M dwarfs are the most easily studied; moreover, for the coming decade, the only spectroscopically-accessible temperate, terrestrial worlds will be the ones that transit the closest mid-to-late M-dwarfs. Key stellar properties remain uncertain, notably their magnetic activity, rotation periods, and multiplicity. We propose to gather TESS 2-minute cadence observations of the volume-complete sample of mid-to-late M dwarfs within 15 pc. Short cadence is essential to determine the flare morphologies; we will also measure rotation periods, and precisely measure radii for new-found eclipsing binaries. We will combine the TESS light curves with our ongoing high-res spectroscopic survey to yield a legacy dataset of our closest stellar neighbors.   
 
 
-# Sector 1 targets observed
+# Sector 1 targets observed (23)
 147207061,323.5941,-43.2737,12.67,G011231;G011180
 165096120,322.7058,-40.7154,10.52,G011231;G011180
 389426731,312.2914,-40.2017,9.91,G011231

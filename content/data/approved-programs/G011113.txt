@@ -9,7 +9,7 @@ Type: Small
 Summary: We propose observations with 2-min cadence of 815 known and high-probability white dwarfs in Cycle 1 of the TESS mission. Our primary objective is to search these white dwarfs for transits of remnant planetary systems; transits of Earth-sized white dwarfs are likely to be very deep but also very short, just a few minutes, requiring high-speed observations. Our proposed photometry will also enable asteroseismology of dozens of known and high-likelihood pulsating white dwarfs, continuing the space-based revolution into the interiors of stellar remnants. From both asteroseismology and spot modulation of magnetic white dwarfs we will significant expand the number of white dwarfs with measured rotation rates, putting strong constraints on the endpoints of angular momentum in stars.             
 
 
-# Sector 1 targets observed
+# Sector 1 targets observed (109)
 115042302,315.8108,-38.1614,15.11,G011113
 115108925,316.6341,-39.6001,15.04,G011113;G011294
 126910998,317.9055,-42.9701,14.11,G011113;G011203

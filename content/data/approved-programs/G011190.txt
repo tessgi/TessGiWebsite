@@ -9,7 +9,7 @@ Type: Small
 Summary: The occurrence rates of planets orbiting early-type stars are important for our understanding of planet formation and subsequent evolution. We propose to use TESS to observe all known lambda Bootis stars to test the hypothesis that their peculiar chemical abundance patterns are a direct consequence of the presence of giant planetary companions. Lambda Bootis stars are A-type stars that were found to exhibit an under-abundance of Fe-peak elements while their abundances of lighter elements are normal. One possible scenario to explain these abundance patterns is that young lambda Bootis stars selectively accrete material from the circumstellar disk which is dynamically separated by the presence of a massive planetary companion. Our proposed study will test this hypothesis.                    
 
 
-# Sector 1 targets observed
+# Sector 1 targets observed (9)
 229059574,332.1777,-33.1256,6.15,G011190;G011224
 219118940,340.1205,-57.8397,9.19,G011190
 220491897,344.3419,-56.8752,6.8,G011190
