@@ -1,0 +1,14 @@
+# TESS Program G011164
+            
+Title: Spots And Flares In Active Binary Systems
+
+PI: Buzasi, Derek - Florida Gulf Coast University
+
+Type: N/A
+
+Summary: Active binary stars are characterized by strong and variable chromospheric, transition region, and coronal radiation. Photometrically, the stars are variable primarily due to the presence of starspots, which trace the surface magnetic flux, and can yield insights into rotation rates, differential rotation, and activity cycles, along with activity levels, flux emergence, and spot morphology. We will examine 51 BY Dra, RS CVn, and FK Com systems, focusing primarily on starspots and flaring. With such a large TESS sample, we will be able to address the dependence of spot and flare behavior on broader stellar parameters and gain unique insight into the nature of rotation and activity among the most active cool stars.                                                                              
+
+
+# Sector 1 targets observed (2)
+140045538,329.4214,-51.0082,8.14,G011180;G011266;G011238;G011176;G011164
+181233908,13.2872,-74.6515,6.77,G011164;G011048;G011060

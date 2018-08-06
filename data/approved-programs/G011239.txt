@@ -1,0 +1,16 @@
+# TESS Program G011239
+            
+Title: The Evolution Of Flaring In Young, Early-Type M Stars
+
+PI: Kowalski, Adam - University Of Colorado
+
+Type: N/A
+
+Summary: We live in a planetary system around an active star, so understanding where in our Galaxy other systems with life are located is one of 21st century astronomy s most urgent scientific questions. M stars offer a wealth of close-in planet detections including bodies in what is considered the liquid water habitable zone (HZ). Coupled with their proximity and the abundance of such systems, they are appealing targets for Earth-like exoplanet searches. However, the frequency of high-energy flares from M stars dictates where the HZ ends for surface life, and can be used to predict the spectra of planets that will be the topic of detailed investigation over the next decade. We seek TESS 2-minute data for 14 well-dated, young M0-M1 stars to map the early evolution of flaring activity.              
+
+
+# Sector 1 targets observed (4)
+441398770,310.4645,-32.4373,7.4,G011264;G011175;G011180;G011185;G011266;G011238;G011239
+441420236,311.2914,-31.3428,6.75,G011264;G011175;G011180;G011185;G011266;G011176;G011239
+406277015,326.1259,-60.978,9.94,G011175;G011266;G011239
+231867117,6.0384,-62.1848,9.56,G011175;G011180;G011266;G011239
