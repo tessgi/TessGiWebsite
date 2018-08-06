@@ -227,6 +227,10 @@ TESS launched April 18 at 6:51 p.m. EDT from Cape Canaveral Air Force Station in
 
     </td>
   </tr>
+  </table>
+</div>
+</div>
 
 
+<img class="img-responsive" style="max-width:67%;" src="images/data/sector_skyplots/skyplot-s001.png" alt="Sector 1 skyplot">
 
