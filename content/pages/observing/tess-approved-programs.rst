@@ -9,7 +9,7 @@ as part of the `Guest Investigator program <proposing-investigations.html>`_.
 
 The target lists are posted on this page
 as soon as the team has prepared the final target list
-for upload to the spacecraft, which happens 1-2 weeks before the start
+for upload to the spacecraft, which happens shortly before the start
 of a sector.
 
 You can click on the title of each program to read a summary
@@ -25,6 +25,24 @@ Cycle 1
 
 
 .. include:: approved-programs/cycle1.html
+
+Sector 2
+========
+.. raw:: html
+
+    <ul class="list-group">
+        <li class="list-group-item">
+          <i class="fa fa-calendar fa-margin"></i>
+          Aug 22, 2018 - Sep 20, 2018
+        </li>
+        <li class="list-group-item">
+            <i class="fa fa-download fa-margin"></i>
+            <a href="data/target_lists/sector002_targets_lists/GI_S002.csv">Target list (csv)</a>
+        </li>
+    </ul>
+
+.. include:: approved-programs/sector002.html
+
 
 Sector 1
 ========
@@ -43,19 +61,3 @@ Sector 1
 
 .. include:: approved-programs/sector001.html
 
-Sector 2
-========
-.. raw:: html
-
-    <ul class="list-group">
-        <li class="list-group-item">
-          <i class="fa fa-calendar fa-margin"></i>
-          Aug 22, 2018 - Sep 20, 2018
-        </li>
-        <li class="list-group-item">
-            <i class="fa fa-download fa-margin"></i>
-            <a href="data/target_lists/sector002_targets_lists/GI_S002.csv">Target list (csv)</a>
-        </li>
-    </ul>
-
-.. include:: approved-programs/sector002.html
