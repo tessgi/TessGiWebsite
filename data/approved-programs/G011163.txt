@@ -9,6 +9,9 @@ Type: Small
 Summary: Massive stars play an outsized role in the evolution of the universe through their roles in chemical enrichment and as Type II supernova progenitors. In this proposal, we plan to use TESS to perform asteroseismology on 26 B stars, primarily SPB and Beta Cep stars. All of our targets have previously been observed using high precision photometry from space with the WIRE satellite, and the combination of TESS+WIRE data of these stars will provide long timebase datasets inaccessible in any other way for this sample of stars. We will perform forward seismic modeling and compare results to our measured oscillation frequencies, constraining our models with known spectroscopic parameters. In addition, we will be able to observe stellar evolution occurring in real time with some of our targets.    
 
 
-# Sector 1 targets observed (2)
+# Sector 001 targets observed (2)
 306829961,121.9823,-68.6169,4.53,G011155;G011163;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25
 308395911,120.0832,-63.5674,5.01,G011155;G011163;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25
+
+# Sector 002 targets observed (1)
+306829961,121.9823,-68.6169,4.53,G011155;G011163;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25

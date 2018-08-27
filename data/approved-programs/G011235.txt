@@ -9,5 +9,5 @@ Type: N/A
 Summary: We propose TESS monitoring of a selection of seven bright cataclysmic variables (CV) during Cycle 1. Our sample of magnetic accretors and eclipsing systems that show superoutbursts have special properties that demand continuous, fast-cadence observations. Our studies of CVs with K2 have demonstrated the importance of such data in constraining the physics of magnetic accretion onto white dwarfs and the development of instabilities in disks. Our targets have not been observed by K2, so TESS provides a unique opportunity to obtain continuous coverage at high cadence for these rare CV systems.                                                                                                                                                                                                            
 
 
-# Sector 1 targets observed (1)
+# Sector 001 targets observed (1)
 231666244,318.9213,-58.6818,15.78,G011235

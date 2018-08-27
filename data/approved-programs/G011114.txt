@@ -1,0 +1,13 @@
+# TESS Program G011114
+            
+Title: Asteroseismology Of Massive Young Stars
+
+PI: Handler, Gerald - Copernicus Astronomical Center
+
+Type: N/A
+
+Summary: The interior structure of massive stars and the physical processes occurring within them are still poorly understood. Examples are interior rotation and angular momentum transport, internal mixing processes, mass loss through stellar winds, inconsistent opacities, the presence of large numbers of binary products, chemical surface peculiarity, and star formation histories in stellar aggregates. This proposal aims at addressing, and solving at least several of these problems by making large numbers of massive stars accessible to asteroseismic investigation. The present dearth of the required highly accurate space photometry of these stars will finally be removed by TESS' all-sky survey. To this end, 359 Beta Cephei-type pulsating stars are proposed as 2-min cadence asteroseismology targets. 
+
+
+# Sector 002 targets observed (1)
+69925250,339.4096,-18.6643,11.66,G011114

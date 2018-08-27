@@ -9,8 +9,14 @@ Type: N/A
 Summary: Space-based photometry provides an unprecedented view into stellar variability, revealing detailed information about pulsation, rotation, circumstellar variability, and other changes taking place in the star or its environment. However, recent efforts have largely neglected the high-mass end of the main sequence, mostly due to relatively small fields of view. The full-sky coverage of TESS can remedy this, as massive stars are spread over a large area. We propose to observe massive, rapidly rotating pulsators that eject mass and form disks, including the Be and Bn subtypes. These systems are valuable astrophysical laboratories for both stellar and disk physics, and the connection between them.                                                                                                   
 
 
-# Sector 1 targets observed (4)
+# Sector 001 targets observed (4)
 260820871,348.055,-70.1132,9.04,G011204
 55295028,76.8039,-61.8051,9.21,G011073;G011204;G011270
 308748912,122.1026,-63.8007,6.38,G011204;G011270
+279430029,105.0432,-56.9069,7.95,G011204;G011270
+
+# Sector 002 targets observed (4)
+281741629,12.2555,-56.097,10.75,G011204
+207176480,47.1087,-59.3736,8.8,G011204
+55295028,76.8039,-61.8051,9.21,G011073;G011204;G011270
 279430029,105.0432,-56.9069,7.95,G011204;G011270
