@@ -8,3 +8,6 @@ Type: Small
 
 Summary: There are ~50 known planets around M dwarfs, but only one system around an ultra-cool (>M7) dwarf: Trappist-1. Ultra-cool dwarfs are arguably the most promising hosts for atmospheric and biosignature detection in transiting planets because of the enhanced feature contrast in transit and eclipse spectroscopy. We propose a pilot TESS survey to continuously monitor six of the brightest ultra-cool dwarfs over 27.4 days. To maximize the probability of detecting transiting planets, we have selected only targets seen close to equator-on. Spin-orbit alignment expectations dictate that the planetary systems around these ultra-cool dwarfs should also be oriented nearly edge-on. Any planet detections in our pilot survey will immediately become top priority targets for JWST transit spectroscopy.      
 
+
+# Sector 002 targets observed (1)
+229104558,17.2563,-51.0137,13.98,G011273;G011129

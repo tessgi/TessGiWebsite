@@ -9,5 +9,5 @@ Type: N/A
 Summary: We have been monitoring a number of pulsating variables in the instability strip using specially designed filters. For a couple of these objects we have seen a drop in temperature that accompanied a phase jump in the data. These stars are often thought to go through a constant period change, which is attributed to evolutionary effects. However, we have examined one Cepheid and one delta Scuti which show a phase jump. A sequence of phase jumps could mimic a period change. However, at this point we have two known object which show the phase jump. The TESS observing program provides and ideal data set to examine a much larger data set with extensive coverage. We believe we will find a larger sample of phase jumping stars and be able to establish a rate at which they appear.                   
 
 
-# Sector 1 targets observed (1)
+# Sector 001 targets observed (1)
 394699148,58.3333,-79.8097,8.57,G011092;G011250

@@ -9,9 +9,17 @@ Type: N/A
 Summary: We request high-cadence observations of 59 nearby RR Lyrae for which Gaia will yield precise parallaxes and proper motions. The plan is to investigate how the luminosity scatter in the RR Lyrae period-luminosity relation is associated with higher-order moments in the shapes of their lightcurves. This campaign will be complementary with other concurrent campaigns such as Brava-RR, the Apogee RR Lyrae program, and the Carnegie RR Lyrae program. TESS is the only facility capable of providing lightcurves that are high-precision, densely-sampled, and of uniform systematics across the whole sky.                                                                                                                                                                                                            
 
 
-# Sector 1 targets observed (5)
+# Sector 001 targets observed (5)
 126910093,317.8741,-45.075,9.71,G011259
 206460831,330.725,-21.5257,10.58,G011259
 89358641,319.0947,-30.2842,10.99,G011259
+425863844,352.1314,-47.4537,11.55,G011259
+234518883,14.5405,-63.3958,11.18,G011259
+
+# Sector 002 targets observed (6)
+313935068,0.7007,-24.9454,10.03,G011259
+439399635,1.0216,-16.9977,11.57,G011259
+8963901,354.6371,-9.3188,11.1,G011259
+41833926,19.5625,-39.2127,10.84,G011259
 425863844,352.1314,-47.4537,11.55,G011259
 234518883,14.5405,-63.3958,11.18,G011259
