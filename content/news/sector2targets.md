@@ -1,4 +1,4 @@
-Title: Sector 2 GI target available
+Title: Sector 2 GI target list available
 Date: 2018-08-27 8:00
 Author: Tom Barclay
 
