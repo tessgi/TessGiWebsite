@@ -9,7 +9,7 @@ Type: N/A
 Summary: Hot stars represent a relatively unexplored population of planetary hosts. Bright and nearby hot stars represent ideal hosts for exoplanetary atmosphere characterization given their very different spectral qualities (e.g., a small number of broad, shallow lines) and their low levels of stellar activity. We propose observing a sample of 453 stars with spectral types A9 and hotter with magnitudes brighter than 7.5 Tmag and that reside within 100 parsecs of the Sun. These observations will be able to detect super-Earth planets, provide constraints on planet formation and system architecture for hot stars, and supply ideal, and likely cloud-free planets for atmospheric characterization.                                                                                                             
 
 
-# Sector 1 targets observed (30)
+# Sector 001 targets observed (30)
 147285571,324.9271,-42.4456,6.34,G011224
 160037874,339.1224,-40.5831,6.18,G011224
 229059574,332.1777,-33.1256,6.15,G011190;G011224
@@ -40,3 +40,26 @@ Summary: Hot stars represent a relatively unexplored population of planetary hos
 358108310,51.1527,-76.7467,6.64,G011224;G011060
 50377999,32.6036,-76.6237,6.35,G011224
 31780245,50.2616,-68.533,6.75,G011224;G011060
+
+# Sector 002 targets observed (21)
+34035685,358.3372,-24.2293,6.05,G011224
+34038105,358.5893,-27.0429,6.74,G011224;G011060
+228382006,357.6155,-14.9838,7.33,G011224;G011060
+327996759,351.7379,-15.2477,6.75,G011224
+47381002,341.3856,-25.2369,6.32,G011224
+8999697,349.1225,-23.2257,6.87,G011224
+102062892,17.1411,-46.668,6.71,G011224
+199737439,22.9125,-45.5757,6.14,G011224
+80474886,12.5158,-43.3949,6.23,G011224;G011060
+144276297,353.7102,-42.6843,6.47,G011224
+144285638,354.1425,-44.8929,6.75,G011224
+144455691,359.7906,-42.2368,6.61,G011224
+224284988,356.5059,-40.1827,6.15,G011224;G011176
+231831130,23.4989,-62.4762,6.62,G011224
+234518259,14.5931,-60.6961,6.16,G011224;G011060
+52244725,20.4529,-66.3842,6.72,G011224;G011060
+183645350,20.0592,-72.7492,7.13,G011224
+31780245,50.2616,-68.533,6.75,G011224;G011060
+358108310,51.1527,-76.7467,6.64,G011224;G011060
+287773752,127.223,-72.0815,6.74,G011224
+262497948,109.8257,-58.0519,6.46,G011224;G011060

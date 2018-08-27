@@ -9,7 +9,7 @@ Type: N/A
 Summary: One of the most profound results to come out of Kepler is that the most common type of planet in the Galaxy, within ~100 day periods, are "super-Earth" exoplanets. Because they are so common and because we lack a (known) planet of this size in our solar system, understanding the formation mechanisms and compositions of super-Earths is of great interest. However, as of now only a small fraction of super Earth planets have mass measurements. We propose TESS observations to search for planets around ~100 dwarf stars, not prioritized by the TESS science team, for which we have in hand existing radial velocity observations from Magellan/PFS. We will immediately place mass constraints on any detected planets, and expect to significantly increase the super-Earths with composition constraints.    
 
 
-# Sector 1 targets observed (12)
+# Sector 001 targets observed (12)
 126584063,314.4133,-44.1344,5.81,G011025;G011198;G011048
 89433321,323.4126,-34.9472,7.5,G011198;G011048;G011250
 29861601,316.739,-28.4487,8.66,G011198;G011250
@@ -20,5 +20,11 @@ Summary: One of the most profound results to come out of Kepler is that the most
 139842723,325.5919,-50.0936,6.97,G011198;G011048;G011250
 234522993,15.3301,-60.8597,6.29,G011198;G011048;G011250
 273945912,30.2414,-78.8706,6.31,G011198;G011048;G011250
+280051640,45.7144,-72.4566,7.53,G011198;G011048;G011250
+32001057,56.2563,-70.0246,7.01,G011198;G011208;G011048;G011250
+
+# Sector 002 targets observed (4)
+316806062,355.2855,-32.0711,6.52,G011198;G011048;G011250
+234522993,15.3301,-60.8597,6.29,G011198;G011048;G011250
 280051640,45.7144,-72.4566,7.53,G011198;G011048;G011250
 32001057,56.2563,-70.0246,7.01,G011198;G011208;G011048;G011250

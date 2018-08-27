@@ -9,7 +9,7 @@ Type: N/A
 Summary: The evolution of planetary systems after the main sequence is largely unknown and no planets around isolated White Dwarfs (WD) have yet been detected. Some show evidence of metal pollution or gas and dust discs indicating that planetesimals and even dwarf planets up to the size of Pluto strayed too close to the WD and have subsequently been tidally disrupted. However there is only one known system where this can be actively observed, WD1145+017. Such objects would only survive a star's evolution to a WD at distances greater than at least 1AU, implying these objects may have been scattered by unseen planets. We propose to observe all WDs with magnitudes <16 with similar evidence of planetary systems to search for further examples of ongoing tidal disruption of planetesimals.                
 
 
-# Sector 1 targets observed (21)
+# Sector 001 targets observed (21)
 115075496,316.1956,-36.257,15.57,G011203
 126910998,317.9055,-42.9701,14.11,G011113;G011203
 382315106,324.1628,-36.4003,16.24,G011203
@@ -30,4 +30,19 @@ Summary: The evolution of planetary systems after the main sequence is largely u
 220576880,47.8433,-62.2541,16.2,G011113;G011294;G011203
 232065830,26.5514,-70.3388,15.26,G011113;G011203
 262921847,53.6435,-64.0161,13.29,G011203;G011281
+33840009,64.9072,-73.0623,14.92,G011113;G011203
+
+# Sector 002 targets observed (13)
+9166393,352.1622,-22.1727,14.11,G011294;G011203
+471013565,18.7553,-52.1287,15.87,G011203
+117875832,9.8494,-41.7475,16.32,G011203
+224276047,355.1526,-37.146,16.32,G011203;G011288
+206541995,18.0881,-56.241,15.04,G011113;G011203;G011294
+271503343,7.7274,-63.3623,14.69,G011113;G011203
+402048835,15.38,-56.7641,15.88,G011203
+232065830,26.5514,-70.3388,15.26,G011113;G011203
+207204267,48.1948,-54.1085,14.24,G011203
+220576880,47.8433,-62.2541,16.2,G011113;G011294;G011203
+262921847,53.6435,-64.0161,13.29,G011203;G011281
+381976323,77.4291,-59.4935,14.11,G011113;G011203
 33840009,64.9072,-73.0623,14.92,G011113;G011203

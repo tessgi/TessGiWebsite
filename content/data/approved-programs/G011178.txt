@@ -9,5 +9,5 @@ Type: N/A
 Summary: We propose to use photometry and FFI from TESS data to identify stars that show flare activity, potentially to identify stars which exhibit superflares, and to correlate those data with known indications of magnetic activity such as calcium line variability, periodic flux variation, and spectropolarimetry that is a consequence of the rotation of the star with spots.                                                                                                                                                                                                                                                                                                                                                                                                                                                
 
 
-# Sector 1 targets observed (1)
+# Sector 001 targets observed (1)
 79403675,320.2084,-53.0347,7.99,G011175;G011025;G011178;G011176;G011250

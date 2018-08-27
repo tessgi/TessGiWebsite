@@ -42,3 +42,20 @@ Sector 1
     </ul>
 
 .. include:: approved-programs/sector001.html
+
+Sector 2
+========
+.. raw:: html
+
+    <ul class="list-group">
+        <li class="list-group-item">
+          <i class="fa fa-calendar fa-margin"></i>
+          Aug 22, 2018 - Sep 20, 2018
+        </li>
+        <li class="list-group-item">
+            <i class="fa fa-download fa-margin"></i>
+            <a href="data/target_lists/sector002_targets_lists/GI_S002.csv">Target list (csv)</a>
+        </li>
+    </ul>
+
+.. include:: approved-programs/sector002.html
