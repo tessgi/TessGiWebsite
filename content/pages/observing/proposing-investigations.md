@@ -9,7 +9,7 @@ The TESS primary mission duration is two years. The first year is spent in the s
 
 There will be no exclusive-use data rights to observations collected by TESS. All data will be made available through the MAST public archive once data processing and validation is complete. 
 
-**The deadline for Cycle 2 is expected to be in February 2018.** 
+**The deadline for Cycle 2 is expected to be in February 2019.** 
 
 
 ### Permitted science areas
