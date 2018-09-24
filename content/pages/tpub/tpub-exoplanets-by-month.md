@@ -4,12 +4,44 @@ Save_as: tpub-exoplanets-by-month.html
 [TOC]
 
 
+2018-09
+-------
+
+1. [EXOPLANETS IN THE ANTARCTIC SKY. II. 116 TRANSITING EXOPLANET CANDIDATES FOUND BY AST3-II (CHESPA) WITHIN THE SOUTHERN CVZ OF TESS](http://adsabs.harvard.edu/abs/2018arXiv180901789Z)  
+Zhang, Hui, Yu, Zhouyi, Liang, Ensi, et al.    
+2018, pre-print ([2018arXiv180901789Z](http://adsabs.harvard.edu/abs/2018arXiv180901789Z))  
+
+2. [TESS DISCOVERY OF A TRANSITING SUPER-EARTH IN THE $\PI$ MENSAE SYSTEM](http://adsabs.harvard.edu/abs/2018arXiv180905967H)  
+Huang, Chelsea X., Burt, Jennifer, Vanderburg, Andrew, et al.    
+2018, pre-print ([2018arXiv180905967H](http://adsabs.harvard.edu/abs/2018arXiv180905967H))  
+
+3. [TESS DISCOVERY OF AN ULTRA-SHORT-PERIOD PLANET AROUND THE NEARBY M DWARF LHS 3844](http://adsabs.harvard.edu/abs/2018arXiv180907242V)  
+Vanderspek, Roland, Huang, Chelsea X., Vanderburg, Andrew, et al.    
+2018, pre-print ([2018arXiv180907242V](http://adsabs.harvard.edu/abs/2018arXiv180907242V))  
+
+4. [TESS'S FIRST PLANET: A SUPER-EARTH TRANSITING THE NAKED-EYE STAR $\PI$ MENSAE](http://adsabs.harvard.edu/abs/2018arXiv180907573G)  
+Gandolfi, D., Barragan, O., Livingston, J., et al.    
+2018, pre-print ([2018arXiv180907573G](http://adsabs.harvard.edu/abs/2018arXiv180907573G))  
+
+
+2018-08
+-------
+
+1. [QUANTIFYING THE OBSERVATIONAL EFFORT REQUIRED FOR THE RADIAL VELOCITY CHARACTERIZATION OF TESS PLANETS](http://adsabs.harvard.edu/abs/2018AJ....156...82C)  
+Cloutier, Ryan, Doyon, René, Bouchy, Francois, et al.    
+2018, refereed ([2018AJ....156...82C](http://adsabs.harvard.edu/abs/2018AJ....156...82C))  
+
+
 2018-07
 -------
 
-1. [QUANTIFYING THE OBSERVATIONAL EFFORT REQUIRED FOR THE RADIAL VELOCITY CHARACTERIZATION OF TESS PLANETS](http://adsabs.harvard.edu/abs/2018arXiv180701263C)  
-Cloutier, Ryan, Doyon, René, Bouchy, François, et al.    
-2018, pre-print ([2018arXiv180701263C](http://adsabs.harvard.edu/abs/2018arXiv180701263C))  
+1. [EXPECTED YIELDS OF PLANET DISCOVERIES FROM THE TESS PRIMARY AND EXTENDED MISSIONS](http://adsabs.harvard.edu/abs/2018arXiv180711129H)  
+Huang, Chelsea X., Shporer, Avi, Dragomir, Diana, et al.    
+2018, pre-print ([2018arXiv180711129H](http://adsabs.harvard.edu/abs/2018arXiv180711129H))  
+
+2. [PRECOVERY OF TESS SINGLE TRANSITS WITH KELT](http://adsabs.harvard.edu/abs/2018arXiv180711922Y)  
+Yao, Xinyu, Pepper, Joshua, Gaudi, B. Scott, et al.    
+2018, pre-print ([2018arXiv180711922Y](http://adsabs.harvard.edu/abs/2018arXiv180711922Y))  
 
 
 2018-06

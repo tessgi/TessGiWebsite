@@ -4,6 +4,54 @@ Save_as: tpub-by-month.html
 [TOC]
 
 
+2018-09
+-------
+
+1. [THE TESS INPUT CATALOG AND CANDIDATE TARGET LIST](http://adsabs.harvard.edu/abs/2018AJ....156..102S)  
+Stassun, Keivan G., Oelkers, Ryan J., Pepper, Joshua, et al.    
+2018, refereed ([2018AJ....156..102S](http://adsabs.harvard.edu/abs/2018AJ....156..102S))  
+
+2. [PRECISION LIGHT CURVES FROM TESS FULL-FRAME IMAGES: A DIFFERENT IMAGING APPROACH](http://adsabs.harvard.edu/abs/2018AJ....156..132O)  
+Oelkers, Ryan J., Stassun, Keivan G.    
+2018, refereed ([2018AJ....156..132O](http://adsabs.harvard.edu/abs/2018AJ....156..132O))  
+
+3. [EXOPLANETS IN THE ANTARCTIC SKY. II. 116 TRANSITING EXOPLANET CANDIDATES FOUND BY AST3-II (CHESPA) WITHIN THE SOUTHERN CVZ OF TESS](http://adsabs.harvard.edu/abs/2018arXiv180901789Z)  
+Zhang, Hui, Yu, Zhouyi, Liang, Ensi, et al.    
+2018, pre-print ([2018arXiv180901789Z](http://adsabs.harvard.edu/abs/2018arXiv180901789Z))  
+
+4. [TESS DISCOVERY OF A TRANSITING SUPER-EARTH IN THE $\PI$ MENSAE SYSTEM](http://adsabs.harvard.edu/abs/2018arXiv180905967H)  
+Huang, Chelsea X., Burt, Jennifer, Vanderburg, Andrew, et al.    
+2018, pre-print ([2018arXiv180905967H](http://adsabs.harvard.edu/abs/2018arXiv180905967H))  
+
+5. [TESS DISCOVERY OF AN ULTRA-SHORT-PERIOD PLANET AROUND THE NEARBY M DWARF LHS 3844](http://adsabs.harvard.edu/abs/2018arXiv180907242V)  
+Vanderspek, Roland, Huang, Chelsea X., Vanderburg, Andrew, et al.    
+2018, pre-print ([2018arXiv180907242V](http://adsabs.harvard.edu/abs/2018arXiv180907242V))  
+
+6. [TESS IN THE SOLAR SYSTEM](http://adsabs.harvard.edu/abs/2018arXiv180907403P)  
+Pál, András, Molnár, László, Kiss, Csaba    
+2018, pre-print ([2018arXiv180907403P](http://adsabs.harvard.edu/abs/2018arXiv180907403P))  
+
+7. [TESS'S FIRST PLANET: A SUPER-EARTH TRANSITING THE NAKED-EYE STAR $\PI$ MENSAE](http://adsabs.harvard.edu/abs/2018arXiv180907573G)  
+Gandolfi, D., Barragan, O., Livingston, J., et al.    
+2018, pre-print ([2018arXiv180907573G](http://adsabs.harvard.edu/abs/2018arXiv180907573G))  
+
+
+2018-08
+-------
+
+1. [QUANTIFYING THE OBSERVATIONAL EFFORT REQUIRED FOR THE RADIAL VELOCITY CHARACTERIZATION OF TESS PLANETS](http://adsabs.harvard.edu/abs/2018AJ....156...82C)  
+Cloutier, Ryan, Doyon, René, Bouchy, Francois, et al.    
+2018, refereed ([2018AJ....156...82C](http://adsabs.harvard.edu/abs/2018AJ....156...82C))  
+
+2. [ASASSN-18TB: DISCOVERY OF A BRIGHT SUPERNOVA IN THE TESS FIELD](http://adsabs.harvard.edu/abs/2018ATel11976....1B)  
+Brimacombe, J., Vallely, P., Stanek, K. Z., et al.    
+2018, not refereed ([2018ATel11976....1B](http://adsabs.harvard.edu/abs/2018ATel11976....1B))  
+
+3. [PROSPECTS OF FINDING DETACHED BLACK HOLE-STAR BINARIES WITH TESS](http://adsabs.harvard.edu/abs/2018arXiv180810856M)  
+Masuda, Kento, Hotokezaka, Kenta    
+2018, pre-print ([2018arXiv180810856M](http://adsabs.harvard.edu/abs/2018arXiv180810856M))  
+
+
 2018-07
 -------
 
@@ -11,9 +59,13 @@ Save_as: tpub-by-month.html
 Bognár, Zs, Kalup, Cs, Sódor, Á., et al.    
 2018, refereed ([2018MNRAS.478.2676B](http://adsabs.harvard.edu/abs/2018MNRAS.478.2676B))  
 
-2. [QUANTIFYING THE OBSERVATIONAL EFFORT REQUIRED FOR THE RADIAL VELOCITY CHARACTERIZATION OF TESS PLANETS](http://adsabs.harvard.edu/abs/2018arXiv180701263C)  
-Cloutier, Ryan, Doyon, René, Bouchy, François, et al.    
-2018, pre-print ([2018arXiv180701263C](http://adsabs.harvard.edu/abs/2018arXiv180701263C))  
+2. [EXPECTED YIELDS OF PLANET DISCOVERIES FROM THE TESS PRIMARY AND EXTENDED MISSIONS](http://adsabs.harvard.edu/abs/2018arXiv180711129H)  
+Huang, Chelsea X., Shporer, Avi, Dragomir, Diana, et al.    
+2018, pre-print ([2018arXiv180711129H](http://adsabs.harvard.edu/abs/2018arXiv180711129H))  
+
+3. [PRECOVERY OF TESS SINGLE TRANSITS WITH KELT](http://adsabs.harvard.edu/abs/2018arXiv180711922Y)  
+Yao, Xinyu, Pepper, Joshua, Gaudi, B. Scott, et al.    
+2018, pre-print ([2018arXiv180711922Y](http://adsabs.harvard.edu/abs/2018arXiv180711922Y))  
 
 
 2018-06
@@ -91,10 +143,6 @@ Clery, Daniel
 Collins, Karen A., Collins, Kevin I., Pepper, Joshua, et al.    
 2018, pre-print ([2018arXiv180301869C](http://adsabs.harvard.edu/abs/2018arXiv180301869C))  
 
-4. [PRECISION LIGHT CURVES FROM TESS FULL-FRAME IMAGES: A DIFFERENCE IMAGING APPROACH](http://adsabs.harvard.edu/abs/2018arXiv180302316O)  
-Oelkers, Ryan J., Stassun, Keivan G.    
-2018, pre-print ([2018arXiv180302316O](http://adsabs.harvard.edu/abs/2018arXiv180302316O))  
-
 
 2018-01
 -------
@@ -154,14 +202,6 @@ Molnár, László, Pál, András, Plachy, Emese
 1. [EXOPLANET CHARACTERIZATION BY MULTI-OBSERVATORY TRANSIT PHOTOMETRY WITH TESS AND CHEOPS](http://adsabs.harvard.edu/abs/2017MNRAS.468.3418G)  
 Gaidos, E., Kitzmann, D., Heng, K.    
 2017, refereed ([2017MNRAS.468.3418G](http://adsabs.harvard.edu/abs/2017MNRAS.468.3418G))  
-
-
-2017-06
--------
-
-1. [THE TESS INPUT CATALOG AND CANDIDATE TARGET LIST](http://adsabs.harvard.edu/abs/2017arXiv170600495S)  
-Stassun, Keivan G., Oelkers, Ryan J., Pepper, Joshua, et al.    
-2017, pre-print ([2017arXiv170600495S](http://adsabs.harvard.edu/abs/2017arXiv170600495S))  
 
 
 2017-05
