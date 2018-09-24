@@ -15,3 +15,6 @@ Summary: Massive stars play an outsized role in the evolution of the universe th
 
 # Sector 002 targets observed (1)
 306829961,121.9823,-68.6169,4.53,G011155;G011163;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25
+
+# Sector 003 targets observed (1)
+306829961,121.9823,-68.6169,4.53,G011155;G011163;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25
