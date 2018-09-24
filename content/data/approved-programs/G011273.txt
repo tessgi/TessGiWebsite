@@ -11,3 +11,6 @@ Summary: There are ~50 known planets around M dwarfs, but only one system around
 
 # Sector 002 targets observed (1)
 229104558,17.2563,-51.0137,13.98,G011273;G011129
+
+# Sector 003 targets observed (1)
+32422219,27.1605,-30.4108,14.78,G011273

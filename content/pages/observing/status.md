@@ -57,7 +57,7 @@ TESS launched April 18 at 6:51 p.m. EDT from Cape Canaveral Air Force Station in
     <td>2019 Jan 25</td>
     <td><a href='data/target_lists/sector001_targets_lists/GI_S001.csv'>Download</a></td>
 
-    <td style="min-width: 12em;">Data all downlinked.</td>
+    <td style="min-width: 12em;">Data downlinked.</td>
   </tr>
 
 
@@ -69,7 +69,7 @@ TESS launched April 18 at 6:51 p.m. EDT from Cape Canaveral Air Force Station in
     <td>2019 Jan 25</td>
     <td><a href='data/target_lists/sector002_targets_lists/GI_S002.csv'>Download</a></td>
 
-    <td style="min-width: 12em;">Currently being observed.
+    <td style="min-width: 12em;">Data downlinked
     </td>
   </tr>
 
@@ -80,10 +80,9 @@ TESS launched April 18 at 6:51 p.m. EDT from Cape Canaveral Air Force Station in
     <td>2018&nbsp;Sep&nbsp;20</td>
     <td>2018&nbsp;Oct&nbsp;18</td>
     <td>2019 Jan 25</td>
-    <td></td>
+    <td><a href='data/target_lists/sector003_targets_lists/GI_S003.csv'>Download</a></td>
 
-    <td style="min-width: 12em;">
-
+    <td style="min-width: 12em;">Currently being observed.
     </td>
   </tr>
 
