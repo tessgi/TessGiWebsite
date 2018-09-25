@@ -158,10 +158,8 @@ in August 2015, using pelican-bootstrap and flatly.
                     {% if link is string %}
                         {% if "http" in link%}
                             <li><a href="{{ link }}">{{ title }}</a></li>
-                            }
                         {% else %}
                             <li><a href="{{ SITEURL }}/{{ link }}">{{ title }}</a></li>
-                            }
                         {% endif %}
                     {% else %}
                         <li class="dropdown">
