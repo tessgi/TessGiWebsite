@@ -82,7 +82,7 @@ TESS launched April 18 at 6:51 p.m. EDT from Cape Canaveral Air Force Station in
     <td>2019 Jan 25</td>
     <td><a href='data/target_lists/sector003_targets_lists/GI_S003.csv'>Download</a></td>
 
-    <td style="min-width: 12em;">Currently being observed.
+    <td style="min-width: 12em;">Data downlinked
     </td>
   </tr>
 
@@ -95,8 +95,7 @@ TESS launched April 18 at 6:51 p.m. EDT from Cape Canaveral Air Force Station in
     <td>2019 Jan 25</td>
     <td></td>
 
-    <td style="min-width: 12em;">
-
+    <td style="min-width: 12em;">Currently being observed.
     </td>
   </tr>
 
@@ -240,6 +239,18 @@ TESS launched April 18 at 6:51 p.m. EDT from Cape Canaveral Air Force Station in
       <a href="images/sector-plots/sector-plots.002.jpeg">
         <img id="s002" src="images/sector-plots/sector-plots.002.jpeg" class="img-responsive"><br>
         Sector 2
+      </a>
+    </div>
+    <div class="col-md-6 text-center">
+      <a href="images/sector-plots/sector-plots.003.jpeg">
+        <img id="s003" src="images/sector-plots/sector-plots.003.jpeg" class="img-responsive"><br>
+        Sector 3
+      </a>
+    </div>
+    <div class="col-md-6 text-center">
+      <a href="images/sector-plots/sector-plots.004.jpeg">
+        <img id="s004" src="images/sector-plots/sector-plots.004.jpeg" class="img-responsive"><br>
+        Sector 4
       </a>
     </div>
 </div>
