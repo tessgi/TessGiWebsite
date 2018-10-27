@@ -17,3 +17,6 @@ Summary: We propose to observe all bright eclipsing cataclysmic variables (CVs) 
 
 # Sector 003 targets observed (1)
 293271581,98.9003,-62.6401,12.42,G011268;G011123
+
+# Sector 004 targets observed (1)
+293271581,98.9003,-62.6401,12.42,G011268;G011123

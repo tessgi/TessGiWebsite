@@ -11,3 +11,7 @@ Summary: The interior structure of massive stars and the physical processes occu
 
 # Sector 002 targets observed (1)
 69925250,339.4096,-18.6643,11.66,G011114
+
+# Sector 004 targets observed (2)
+328161938,39.8708,0.3285,4.57,G011155;G011114;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25
+65516748,43.42,-26.1557,8.97,G011114
