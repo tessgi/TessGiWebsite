@@ -93,7 +93,7 @@ TESS launched April 18 at 6:51 p.m. EDT from Cape Canaveral Air Force Station in
     <td>2018&nbsp;Oct&nbsp;18</td>
     <td>2018&nbsp;Nov&nbsp;15</td>
     <td>2019 Jan 25</td>
-    <td></td>
+    <td><a href='data/target_lists/sector004_targets_lists/GI_S004.csv'>Download</a></td>
 
     <td style="min-width: 12em;">Currently being observed.
     </td>
