@@ -1,4 +1,4 @@
-Title: Data from First Two TESS Observation Sectors to be Released in Early December
+Title: Data from first two TESS Observation Sectors to be released in early December
 Date: 2018-11-19 10:00
 Author: Knicole Colon
 
