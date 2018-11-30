@@ -35,3 +35,6 @@ Summary: We propose to solve two mysteries surrounding magnetic dynamo evolution
 89116505,55.5366,-29.3999,10.18,G011247
 89255114,58.45,-29.7082,10.19,G011247
 144110362,59.54,-46.604,10.56,G011247
+
+# Sector 005 targets observed (1)
+152470904,61.9182,-47.5901,11.24,G011247
