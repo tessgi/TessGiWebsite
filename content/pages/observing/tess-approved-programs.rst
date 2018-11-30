@@ -26,6 +26,24 @@ Cycle 1
 
 .. include:: approved-programs/cycle1.html
 
+Sector 5
+========
+.. raw:: html
+
+    <ul class="list-group">
+        <li class="list-group-item">
+          <i class="fa fa-calendar fa-margin"></i>
+          Nov 15, 2018 - Dec 11, 2018
+        </li>
+        <li class="list-group-item">
+            <i class="fa fa-download fa-margin"></i>
+            <a href="data/target_lists/sector005_targets_lists/GI_S005.csv">Target list (csv)</a>
+        </li>
+    </ul>
+
+.. include:: approved-programs/sector005.html
+
+
 Sector 4
 ========
 .. raw:: html
