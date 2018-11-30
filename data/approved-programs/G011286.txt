@@ -1,0 +1,13 @@
+# TESS Program G011286
+            
+Title: Using TESS To Study The Properties Of Magnetic Massive Stars And Their Magnetospheres
+
+PI: David-Uraz, Alexandre - University Of Delaware
+
+Type: N/A
+
+Summary: We propose a photometric survey of magnetic massive stars using TESS to detect and characterize three types of variability of these objects: rotational modulation, stochastic variations and pulsations. This will lead to precise rotational period determinations and will help probe magnetospheric structure, as well as dynamic flows within. Detecting pulsations will provide a means to link surface magnetism to the internal structure and better understand surface spindown due to magnetic braking, yielding critical information for stellar evolution models. Given its high precision, rapid cadence and long temporal baseline, TESS provides us with a unique opportunity to detect all three forms of variability, which will prove critical in testing and improving our knowledge of these stars.         
+
+
+# Sector 005 targets observed (1)
+407615454,60.9359,5.4356,5.42,G011155;G011286;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25

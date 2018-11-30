@@ -20,3 +20,6 @@ Summary: Historically, monitoring the evolution of a Cepheid's pulsations requir
 
 # Sector 004 targets observed (1)
 149346418,83.4064,-62.4897,3.26,G011155;G011279;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25
+
+# Sector 005 targets observed (1)
+149346418,83.4064,-62.4897,3.26,G011155;G011279;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25
