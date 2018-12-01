@@ -102,7 +102,7 @@ MENUITEMS = (
             ('Approved programs', 'approved-programs.html'),
             # ('Data release notes', 'k2-data-release-notes.html'),
             ('Proposal tools', 'proposal-tools.html'),
-            ('Discretionary targets', 'ddt.html'),
+            #('Discretionary targets', 'ddt.html'),
             ('FAQ', 'faq.html'),
             # ('C9 Microlensing experiment', 'k2-c9.html'),
             # ('C16 Supernova experiment', 'supernova-experiment'),
@@ -110,9 +110,10 @@ MENUITEMS = (
          ),
         ('Data analysis', (
             ('Data access', 'data-access.html'),
-            ('Follow-up program', 'followup.html'),
+            #('Follow-up program', 'followup.html'),
             ('Analysis software', 'software.html'),
-            ('Pipeline', 'pipeline.html'),
+            #('Pipeline', 'pipeline.html'),
+            ('Community products', 'community.html'),
             ('Documentation', 'documentation.html'),
             )
          ),

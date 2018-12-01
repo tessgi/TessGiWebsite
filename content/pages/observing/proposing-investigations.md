@@ -98,6 +98,10 @@ In accordance with Public Law 113--76, Division B, Title V, Section 532, NASA ca
 
 ## Target selection
 
+The TESS Input Catalog (TIC) is a catalog of approximately half a billion objects generated to assist in planning and executing observations and data reduction. The TIC includes detailed information about the characteristics of more than 2 million stars that have been identified as potential targets for the TESS Planet Search. The TIC also includes basic information for optically luminous persistent astronomical objects that may influence the photometry of TESS targets. 
+
+The Candidate Target List (CTL) is a subset of TIC objects isolated to select the >200,000 targets for 2 min cadence observations in service of the mission's primary science requirements. 
+
 ### TESS Input Catalog (TIC)
 
 To meet the primary mission goals, an all-sky catalog was generated to act as a basis for target selection. The TESS Target Selection Working Group (TSWG) was tasked with the creation and maintenance of the catalog with the aim of compiling every optically luminous, persistent object in the sky down to the limits of available wide-field photometric catalogs including both point sources and extended sources. This enables the selection of optimal targets to search for small transiting planets and allows flux contamination to be calculated in an optimal aperture for each target (critical due to the 21 arcsec TESS pixels). The resulting catalog is the source from which the >200,000 primary mission targets will be selected and is known as the TESS Input Catalog (TIC).
@@ -421,6 +425,25 @@ We have made available proposal templates to aid users in writing GI proposals. 
 * [MS Word](docs/tessgi_template.docx)
 * [Latex](docs/tessgi_template.tex)
 * [PDF](docs/tessgi_template.pdf)
+
+
+### Proposal tips
+
+Due to the observing strategy of the TESS mission, the TSSC notes that GI proposers should be aware of several details when composing a science cases and target lists.
+
+* The exact location of the first observing sector (and therefore all subsequent observing sectors) is a sensitive function of the TESS launch date. For GI program Cycle 1, the impact of the uncertainty in the exact sky locations of the TESS FOVs is that there is no guarantee that any given proposed target will not fall into a gap between sectors, camera CCDs, or camera FOVs. The mitigate this uncertainty, Cycle 1 proposers are encouraged to consider target lists that include a number of similar sources distributed across the sky.
+
+* Adjacent TESS observing sectors have overlapping regions near the ecliptic poles, providing longer-term continuous coverage for stars falling in these regions which in turn provides sensitivity to smaller and longer-period planets. Objects within 12 deg of the ecliptic poles may be observed for ~1 year.
+
+* Camera 4 is always centered on the ecliptic pole and targets in this camera will be observed continuously for an entire Cycle. This leads to a limitation in the number of 2 min cadence targets that can be selected in the portion of sky covered by camera 4. 
+
+* Camera 1 is always closest to the ecliptic plane and will be contaminated by stray light from the Earth and Moon during some observing sectors. The level of contamination and which sectors will be most affected is dependent on the launch date and the final inclination of the TESS orbit. These parameters will not be known until after commissioning and calibration.
+
+* Some cameras during some observing sectors cover portions of the Galactic plane and suffer from increased background contamination.
+
+* A primary science target will nominally be observed nearly continuously for 27.4 days in a given TESS observing sector. However, mission requirements only require a minimum of 20 days of observations out of the 27.4 possible per sector.  This requirement accounts for all sources of observing inefficiency, including repointing for data downlink and interruptions due to the Earth and/or Moon in a camera FOV. 
+
+
 
 ### Director's Discretionary Targets
 

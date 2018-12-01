@@ -105,11 +105,11 @@ Because the TESS pixels are large (21 arcsec), the TESS photometry for many targ
  Fraction of sky coverage for different time baselines that TESS will have over the 2-year prime mission.
 
 
-
+<!-- MOVED TO PROPOSING INVESTIGATIONS
 ## Target selection
 The TESS Input Catalog (TIC) is a catalog of approximately half a billion objects generated to assist in planning and executing observations and data reduction. The TIC includes detailed information about the characteristics of more than 2 million stars that have been identified as potential targets for the TESS Planet Search. The TIC also includes basic information for optically luminous persistent astronomical objects that may influence the photometry of TESS targets. More information on the TIC can be found [here](proposing-investigations.html#target-selection)
 
-The Candidate Target List (CTL) is a subset of TIC objects isolated to select the >200,000 targets for 2 min cadence observations in service of the mission's primary science requirements. More information on the CTL can be found [here](proposing-investigations.html#candidate-target-list-ctl)
+The Candidate Target List (CTL) is a subset of TIC objects isolated to select the >200,000 targets for 2 min cadence observations in service of the mission's primary science requirements. More information on the CTL can be found [here](proposing-investigations.html#candidate-target-list-ctl) -->
 
 <!-- 
 ### Data yield
@@ -129,6 +129,8 @@ The Candidate Target List (CTL) is a subset of TIC objects isolated to select th
   </li>
 </ul> -->
 
+
+<!-- MOVED TO PROPOSING INVESTIGATIONS (GI PROGRAM PAGE)
 ## Proposal tips
 
 Due to the observing strategy of the TESS mission, the TSSC notes that GI proposers should be aware of several details when composing a science cases and target lists.
@@ -143,6 +145,6 @@ Due to the observing strategy of the TESS mission, the TSSC notes that GI propos
 
 * Some cameras during some observing sectors cover portions of the Galactic plane and suffer from increased background contamination.
 
-* A primary science target will nominally be observed nearly continuously for 27.4 days in a given TESS observing sector. However, mission requirements only require a minimum of 20 days of observations out of the 27.4 possible per sector.  This requirement accounts for all sources of observing inefficiency, including repointing for data downlink and interruptions due to the Earth and/or Moon in a camera FOV. 
+* A primary science target will nominally be observed nearly continuously for 27.4 days in a given TESS observing sector. However, mission requirements only require a minimum of 20 days of observations out of the 27.4 possible per sector.  This requirement accounts for all sources of observing inefficiency, including repointing for data downlink and interruptions due to the Earth and/or Moon in a camera FOV. -->
 
 
