@@ -252,22 +252,6 @@ Batalha, Natasha, Kalirai, Jason, Lunine, Jonathan, et al.
 2015, pre-print ([2015arXiv150702655B](http://adsabs.harvard.edu/abs/2015arXiv150702655B))  
 
 
-2015-05
--------
-
-1. [UNDERSTANDING THE EFFECTS OF STELLAR MULTIPLICITY ON THE DERIVED PLANET RADII FROM TRANSIT SURVEYS: IMPLICATIONS FOR KEPLER, K2, AND TESS](http://adsabs.harvard.edu/abs/2015ApJ...805...16C)  
-Ciardi, David R., Beichman, Charles A., Horch, Elliott P., et al.    
-2015, refereed ([2015ApJ...805...16C](http://adsabs.harvard.edu/abs/2015ApJ...805...16C))  
-
-
-2015-03
--------
-
-1. [CHARACTERIZING TRANSITING PLANET ATMOSPHERES THROUGH 2025](http://adsabs.harvard.edu/abs/2015PASP..127..311C)  
-Cowan, N. B., Greene, T., Angerhausen, D., et al.    
-2015, refereed ([2015PASP..127..311C](http://adsabs.harvard.edu/abs/2015PASP..127..311C))  
-
-
 2015-01
 -------
 

@@ -183,15 +183,7 @@ Sullivan, Peter W., Winn, Joshua N., Berta-Thompson, Zachory K., et al.
 Batalha, Natasha, Kalirai, Jason, Lunine, Jonathan, et al.    
 2015, pre-print ([2015arXiv150702655B](http://adsabs.harvard.edu/abs/2015arXiv150702655B))  
 
-4. [UNDERSTANDING THE EFFECTS OF STELLAR MULTIPLICITY ON THE DERIVED PLANET RADII FROM TRANSIT SURVEYS: IMPLICATIONS FOR KEPLER, K2, AND TESS](http://adsabs.harvard.edu/abs/2015ApJ...805...16C)  
-Ciardi, David R., Beichman, Charles A., Horch, Elliott P., et al.    
-2015, refereed ([2015ApJ...805...16C](http://adsabs.harvard.edu/abs/2015ApJ...805...16C))  
-
-5. [CHARACTERIZING TRANSITING PLANET ATMOSPHERES THROUGH 2025](http://adsabs.harvard.edu/abs/2015PASP..127..311C)  
-Cowan, N. B., Greene, T., Angerhausen, D., et al.    
-2015, refereed ([2015PASP..127..311C](http://adsabs.harvard.edu/abs/2015PASP..127..311C))  
-
-6. [TRANSITING EXOPLANET SURVEY SATELLITE (TESS)](http://adsabs.harvard.edu/abs/2015JATIS...1a4003R)  
+4. [TRANSITING EXOPLANET SURVEY SATELLITE (TESS)](http://adsabs.harvard.edu/abs/2015JATIS...1a4003R)  
 Ricker, George R., Winn, Joshua N., Vanderspek, Roland, et al.    
 2015, refereed ([2015JATIS...1a4003R](http://adsabs.harvard.edu/abs/2015JATIS...1a4003R))  
 
