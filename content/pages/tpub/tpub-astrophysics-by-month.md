@@ -4,6 +4,34 @@ Save_as: tpub-astrophysics-by-month.html
 [TOC]
 
 
+2018-11
+-------
+
+1. [TESS IN THE SOLAR SYSTEM](http://adsabs.harvard.edu/abs/2018PASP..130k4503P)  
+Pál, András, Molnár, László, Kiss, Csaba    
+2018, refereed ([2018PASP..130k4503P](http://adsabs.harvard.edu/abs/2018PASP..130k4503P))  
+
+2. [DETECTING UNRESOLVED BINARIES IN TESS DATA WITH SPECKLE IMAGING](http://adsabs.harvard.edu/abs/2018arXiv181102108M)  
+Matson, Rachel A., Howell, Steve B., Ciardi, David    
+2018, pre-print ([2018arXiv181102108M](http://adsabs.harvard.edu/abs/2018arXiv181102108M))  
+
+3. [FLIPER: CLASSIFYING TESS PULSATING STARS](http://adsabs.harvard.edu/abs/2018arXiv181112140B)  
+Bugnet, L., García, R. A., Davies, G. R., et al.    
+2018, pre-print ([2018arXiv181112140B](http://adsabs.harvard.edu/abs/2018arXiv181112140B))  
+
+
+2018-10
+-------
+
+1. [A NEW METHOD TO COMPUTE LIMB-DARKENING COEFFICIENTS FOR STELLAR ATMOSPHERE MODELS WITH SPHERICAL SYMMETRY: THE SPACE MISSIONS TESS, KEPLER, COROT, AND MOST](http://adsabs.harvard.edu/abs/2018A&A...618A..20C)  
+Claret, Antonio    
+2018, refereed ([2018A&A...618A..20C](http://adsabs.harvard.edu/abs/2018A&A...618A..20C))  
+
+2. [ASASSN-18YN: DISCOVERY OF A PROBABLE SUPERNOVA IN THE TESS FIELD](http://adsabs.harvard.edu/abs/2018ATel12149....1B)  
+Brimacombe, J., Vallely, P., Shields, J., et al.    
+2018, not refereed ([2018ATel12149....1B](http://adsabs.harvard.edu/abs/2018ATel12149....1B))  
+
+
 2018-09
 -------
 
@@ -14,10 +42,6 @@ Stassun, Keivan G., Oelkers, Ryan J., Pepper, Joshua, et al.
 2. [PRECISION LIGHT CURVES FROM TESS FULL-FRAME IMAGES: A DIFFERENT IMAGING APPROACH](http://adsabs.harvard.edu/abs/2018AJ....156..132O)  
 Oelkers, Ryan J., Stassun, Keivan G.    
 2018, refereed ([2018AJ....156..132O](http://adsabs.harvard.edu/abs/2018AJ....156..132O))  
-
-3. [TESS IN THE SOLAR SYSTEM](http://adsabs.harvard.edu/abs/2018arXiv180907403P)  
-Pál, András, Molnár, László, Kiss, Csaba    
-2018, pre-print ([2018arXiv180907403P](http://adsabs.harvard.edu/abs/2018arXiv180907403P))  
 
 
 2018-08
@@ -54,10 +78,6 @@ Simpson, Jeffrey D., Stello, Dennis, Sharma, Sanjib, et al.
 3. [THE PHOTOMETRIC SELECTION OF M-DWARFS USING GAIA, WISE AND 2MASS PHOTOMETRY](http://adsabs.harvard.edu/abs/2018arXiv180406982B)  
 Bentley, J., Tinney, C., Sharma, S., et al.    
 2018, pre-print ([2018arXiv180406982B](http://adsabs.harvard.edu/abs/2018arXiv180406982B))  
-
-4. [A NEW METHOD TO COMPUTE LIMB-DARKENING COEFFICIENTS FOR STELLAR ATMOSPHERE MODELS WITH SPHERICAL SYMMETRY: THE SPACE MISSIONS TESS, KEPLER, COROT, AND MOST](http://adsabs.harvard.edu/abs/2018arXiv180410135C)  
-Claret, Antonio    
-2018, pre-print ([2018arXiv180410135C](http://adsabs.harvard.edu/abs/2018arXiv180410135C))  
 
 
 2018-03
