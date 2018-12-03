@@ -125,11 +125,12 @@ MENUITEMS = (
 KEY_INFORMATION = (
     # ('Proposal submission page', 'https://heasarc.gsfc.nasa.gov/ark/rps/'),
     ('Web TESS Target Tool', 'https://heasarc.gsfc.nasa.gov/cgi-bin/tess/webtess/wtv.py'),
-    ('Contact us', 'helpdesk.html'),
-    ('Observatory Guide', 'documentation.html'),
+    #('Observatory Guide', 'documentation.html'),
+    ('Data at MAST', 'http://archive.stsci.edu/tess/summary.html'),    
     ('Frequently asked questions', 'faq.html'),
     ('Volunteer to serve on a review panel',
         'https://goo.gl/forms/p4ZqiTQSEHjbM6nz2'),
+    ('Contact us', 'helpdesk.html'),
     # ('Cycle 1 Proposal submission',
     #     '[https://heasarc.gsfc.nasa.gov/ark/rps/'),
     # ('Simulated data', 'data-access.html#simulated-data'),
@@ -140,10 +141,10 @@ IMPORTANT_DATES = (
             # ('<b>6 Oct 2017</b>',
             #  'Cycle 1 proposal submission deadline ',
             #  'proposing-investigations.html'), # link to a new item?
-            ('<b>April 18 2018</b>',
-             'TESS launch',
-             'operations.html'), # link to a news item?
-            ('<b>January 25 2019</b>',
+            #('<b>April 18 2018</b>',
+            # 'TESS launch',
+            # 'operations.html'), # link to a news item?
+            ('<b>December 6 2018</b>',
              'First data release',
              'status.html'), # link to a news item?
             ('<b>February 28, 2019</b>',
@@ -200,22 +201,26 @@ MEETINGS = (
             #  'http://cospar2018.org'),
             # ('<b>29 July - 3 Aug 2018</b><br>'
             #  'Cool Stars 20', 
-            #  'http://coolstars20.cfa.harvard.edu'),
-            ('<b>20-31 August 2018</b><br>'
-             'International Astronomical Union',
-             'https://astronomy2018.univie.ac.at'),     
+            #  'http://coolstars20.cfa.harvard.edu'),       
+            #('<b>20-31 August 2018</b><br>'
+            # 'International Astronomical Union',
+            # 'https://astronomy2018.univie.ac.at'),     
+            ('<b>11-14 Feb 2019</b><br>'
+             'TESS Data Workshop',
+             'http://www.stsci.edu/institute/conference/tess'),               
             ('<b>4-8 March 2019</b><br>'
              'Kepler Science Conference',
              'https://keplerscience.arc.nasa.gov/scicon-2019/index.html'),           
+            ('<b>25-29 March 2019</b><br>'
+             'Building Early Science with TESS',
+             'http://tess.ninja/'),   
             ('<b>29 July - 2 August 2019</b><br>'
              'TESS Science Conference',
-             'https://tess.mit.edu/science/tess-science-conference/'),            
+             'https://tess.mit.edu/news/tess-science-conference/'),            
             ('<b>15 April 2019 - 28 June 2019</b><br>'
              'Better Stars, Better Planets: Exploiting the Stellar-Exoplanetary Synergy',
              'https://www.kitp.ucsb.edu/activities/exostar19'),
-            # ('<b>5-9 March 2018</b><br>'
-            #  'Preparing for TESS',
-            #  'http://tess.ninja/'),
+
             )
 
 # Defines the "related websites" listing in the footer of all pages
