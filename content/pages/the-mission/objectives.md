@@ -11,10 +11,12 @@ The Transiting Exoplanet Survey Satellite (TESS) is a NASA-sponsored Astrophysic
 TESS launched on April 18, 2018 and after a series of maneuvers was placed in a highly-elliptical 13.7 day orbit around the Earth. TESS began regular science operations on July 25, 2018. In its 2-year prime mission, TESS will monitor about 200,000 main-sequence dwarf stars with four wide-field optical CCD cameras to detect periodic drops in brightness caused by planetary transits. Photometry of these pre-selected targets will be recorded every 2 minutes. TESS will also obtain full-frame images (FFIs) of the entire, four camera field-of-view (24 x 96 degrees) at a cadence of 30 minutes to facilitate additional science.
 
 
+
 <br/>
-<img class="img-responsive" style="max-width:80%;" src="images/mission/tess_lava_planet_rotated.jpg">
-*The TESS Mission will discover new Earths and super-Earths in the solar neighborhood. Image Credit: NASA*
+<img class="img-responsive" style="max-width:80%;" src="images/mission/tess_first_light_quarter.jpg">
+*The first light image from TESS, showing the combined view of all four of its cameras taken on August 7, 2018. Image Credit: NASA/MIT/TESS*
 <br/>
+
 
 <!-- <<<<<<< Updated upstream
 =======
@@ -31,9 +33,17 @@ NASA's Kepler Mission was, during its 4 year prime mission from 2009-2013, a sta
 
 The TESS Mission is designed to survey over 90% of the sky (an area of sky 400 times larger than covered by Kepler) to search for planets around nearby stars (within ~200 parsec). TESS stars will typically be 30-100 times brighter than those surveyed by the Kepler satellite. Planets detected around these stars will therefore be far easier to characterize with follow-up observations, resulting in refined measurements of planet masses, sizes, densities, and atmospheric properties.
 
+
+<br/>
+<img class="img-responsive" style="max-width:80%;" src="images/mission/tess_lava_planet_rotated.jpg">
+*The TESS Mission will discover new Earths and super-Earths in the solar neighborhood. Image Credit: NASA*
+<br/>
+
+
+
 ## TESS Mission Organization
 
-The TESS mission is led by the Massachusetts Institute of Technology (MIT), which is responsible for the overall direction of the mission. The TESS Science Office (TSO) is a partnership between MIT's Physics Department and Kavli Institute for Astrophysics and Space Research and the Smithsonian Astrophysical Observatory. The TESS Science Office analyzes the science data and organizes the co-investigators, collaborators, and working groups. The MIT Lincoln Laboratory leads the science camera development and construction. 
+The TESS Mission is led by the Massachusetts Institute of Technology (MIT), which is responsible for the overall direction of the mission. The TESS Science Office (TSO) is a partnership between MIT's Physics Department and Kavli Institute for Astrophysics and Space Research and the Smithsonian Astrophysical Observatory. The TESS Science Office analyzes the science data and organizes the co-investigators, collaborators, and working groups. The MIT Lincoln Laboratory leads the science camera development and construction. 
 
 NASA's Goddard Space Flight Center (GSFC) provides project management, systems engineering, and safety and mission assurance. The TESS Science Support Center (TSSC) at GSFC operates the Guest Investigator Program and supports the science community proposing for new science with TESS.
 
