@@ -117,7 +117,7 @@ MENUITEMS = (
             ('Documentation', 'documentation.html'),
             )
          ),
-        ('Education & Outreach', 'https://tess.gsfc.nasa.gov'),
+        ('Education & Outreach', 'outreach.html'),
         ('HEASARC', 'https://heasarc.gsfc.nasa.gov'),
         )
 
