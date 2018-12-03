@@ -3,18 +3,62 @@ Save_as: data-access.html
 
 [TOC]
 
+## MAST Tools
+
 The *official* archive for TESS mission data products is the
 [Mikulski Archive for Space Telescopes (MAST)](https://archive.stsci.edu/tess)
 which is hosted at the
 [Space Telescope Science Institute (STScI)](http://www.stsci.edu/). 
 
+In preparation for the first public data release, the MAST has created a [Summary page](http://archive.stsci.edu/tess/summary.html) with information on data access, tools, and resources. Brief descriptions are below, but see the MAST [Summary page](http://archive.stsci.edu/tess/summary.html) for more details.
+
+### [MAST Portal](https://mast.stsci.edu)
+
+Download light curves, target pixel, and data validation files for a few targets.
+Download full frame images for a few CCDs.
+Conduct small searches within the TIC or CTL.
+Find data from other missions for your target.
+
+### [MAST API/astroquery](mast.stsci.edu/api/v0/astroquery.readthedocs.io)
+
+Search for, and retrieve, TESS data products programmatically based on a list of coordinates or target names.
+Interact with observational data, TIC, and CTL catalogs in programs you write.
+
+### [exo.MAST](exo.mast.stsci.edu)
+
+Find MAST data (including TESS) for known planets and TOIs, matched to orbital phase.
+Plot sector-stitched DV light curves.
+Access to exoplanet parameters with references.
+
+### TESSCut 
+
+Coming soon: Create time series pixel cutouts from the TESS full frame images.
+Find out what sectors/cameras/detectors a target was observed in.
+
+### [Bulk downloads](http://archive.stsci.edu/tess/bulk_downloads.html)
+
+Download all light curves / target pixel files for a given sector.
+Download all light curves / target pixel files for a given GI program.
+Download all full frame images for a given sector.
+Download the entire TOI or TCE table.
+Download the current TIC and CTL.
+
+### Archive manual 
+
+Coming soon: Step-by-step instructions on how to use MAST web interfaces for TESS.
+Get Python notebook tutorials on using TESS data and MAST tools.
+Access the TIC and CTL "live" release notes.
+Learn how to contribute TESS-related data products to MAST.
+
+
+<!--
 In the following sections we list the main products from TESS, and we describe a few of the products in some detail.  For tools
 and tips on
 inspecting and analyzing TESS data, [users should check out this page](software.html).
 
 We encourage users of TESS data to read through the
 [documentation associated with the TESS data products](documentation.html). The first port of call for the TESS user is the [TESS Observatory Handbook](docs/TESS_observatory_guide_v1.1.pdf). 
-
+-->
 
 
 
@@ -34,8 +78,7 @@ below.
  -->
 ## TESS product overview
 
-The [TESS mission page at MAST](https://archive.stsci.edu/tess/) contains the latest news and updates
-on TESS products. The following TESS data products and catalogs will be available
+The [TESS mission page at MAST](https://archive.stsci.edu/tess/) contains the latest news and updates on TESS products. The following TESS data products and catalogs will be available
 through MAST:
 
 **Data products at MAST**
@@ -89,7 +132,7 @@ Kepler data:
 
 ## Main data products
 
-A variety of data products from TESS will be archived at MAST for guest investigators. 
+A variety of data products from TESS will be archived at MAST for use by the community. 
 
 ### Full frame images (FFIs)
 A Full Frame Image (FFI) is a collection of science and [collateral](#collateral-data) pixels observed simultaneously.  A single FFI is the full set of all science and collateral pixels across all CCDs of a given camera.  FFIs will be taken every 30 minutes during science operations.
@@ -103,10 +146,10 @@ There are 16 CCDs on the spacecraft, each of which is supported by 4 output chan
 <br/>
 
 
-
+<!--
 <br/>
 <img class="img-responsive" style="max-width:80%;" src="images/data/board_drawing_three.png">
-<br/>
+<br/> -->
 
 
 ### Target pixel files (TPFs)
@@ -151,11 +194,11 @@ Auxiliary data consists of focal plane characterization files, engineering and t
 
 *Dark current*: the mean dark current calculated from the virtual row pixel values. There is one metric value per cadence for each readout.
 
-### Cotrending basis vectors (CBVs)
+### Cotrending basis vectors 
 Co-trending basis vectors (CBVs) represent the set of systematic trends present in the ensemble flux data. CBVs will be provided for each operational sector of the mission. These are derived by the TESS pipeline from a Principle Component Analysis and used to mitigate systematic artifacts within the the target light curves. If TESS users see residual systematic problems within their light curve data, the CBVs can be employed in performing a manual photometric correction, more tailored towards the user's science. 
 
-### Point Spread Functions (PSFs)
-PSF models will be available at the MAST after commissioning.
+### Point Spread Functions 
+Point spread function (PSF) models will be available at the MAST along with the data.
 
 ### Simulated Data
 During development of space mission, the ground-segment goes through several tests known as Ground System Interface Test (GSIT). To aid potential TESS users in the development of tools and to assess the feasibility of investigations data from the GSIT-3 test has been made available from the [MAST](https://archive.stsci.edu/tess). 
