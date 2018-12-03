@@ -17,7 +17,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - TESS Science Support Center" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2018-11-30" />
+    <meta name="dc.date.modified" content="2018-12-03" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Users of TESS Data" />
     <meta name="dc.identifier" content="https://heasarc.gsfc.nasa.gov/docs/tess/" />
@@ -114,7 +114,6 @@ in August 2015, using pelican-bootstrap and flatly.
                                 <li><a href="./observing-technical.html">Technical details</a></li>
                                 <li><a href="./approved-programs.html">Approved programs</a></li>
                                 <li><a href="./proposal-tools.html">Proposal tools</a></li>
-                                <li><a href="./ddt.html">Discretionary targets</a></li>
                                 <li><a href="./faq.html">FAQ</a></li>
                             </ul>
                         </li>
@@ -122,13 +121,12 @@ in August 2015, using pelican-bootstrap and flatly.
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Data analysis <b class="caret"></b></a>
                             <ul class="dropdown-menu">
                                 <li><a href="./data-access.html">Data access</a></li>
-                                <li><a href="./followup.html">Follow-up program</a></li>
                                 <li><a href="./software.html">Analysis software</a></li>
-                                <li><a href="./pipeline.html">Pipeline</a></li>
+                                <li><a href="./community.html">Community products</a></li>
                                 <li><a href="./documentation.html">Documentation</a></li>
                             </ul>
                         </li>
-                            <li><a href="https://tess.gsfc.nasa.gov">Education & Outreach</a></li>
+                            <li><a href="./outreach.html">Education & Outreach</a></li>
                             <li><a href="https://heasarc.gsfc.nasa.gov">HEASARC</a></li>
             </ul>
             
@@ -228,9 +226,11 @@ is between 20% and 62% with a median value of 45%. -->
 <img class="img-responsive" src="images/giprogram/tess_sky_coverage.png" style="max-width:67%;"/>
 <br/>
  Fraction of sky coverage for different time baselines that TESS will have over the 2-year prime mission.</p>
-<h2 id="target-selection">Target selection</h2>
-<p>The TESS Input Catalog (TIC) is a catalog of approximately half a billion objects generated to assist in planning and executing observations and data reduction. The TIC includes detailed information about the characteristics of more than 2 million stars that have been identified as potential targets for the TESS Planet Search. The TIC also includes basic information for optically luminous persistent astronomical objects that may influence the photometry of TESS targets. More information on the TIC can be found <a href="proposing-investigations.html#target-selection">here</a></p>
-<p>The Candidate Target List (CTL) is a subset of TIC objects isolated to select the &gt;200,000 targets for 2 min cadence observations in service of the mission's primary science requirements. More information on the CTL can be found <a href="proposing-investigations.html#candidate-target-list-ctl">here</a></p>
+<!-- MOVED TO PROPOSING INVESTIGATIONS
+## Target selection
+The TESS Input Catalog (TIC) is a catalog of approximately half a billion objects generated to assist in planning and executing observations and data reduction. The TIC includes detailed information about the characteristics of more than 2 million stars that have been identified as potential targets for the TESS Planet Search. The TIC also includes basic information for optically luminous persistent astronomical objects that may influence the photometry of TESS targets. More information on the TIC can be found [here](proposing-investigations.html#target-selection)
+
+The Candidate Target List (CTL) is a subset of TIC objects isolated to select the >200,000 targets for 2 min cadence observations in service of the mission's primary science requirements. More information on the CTL can be found [here](proposing-investigations.html#candidate-target-list-ctl) -->
 <!-- 
 ### Data yield
 
@@ -247,28 +247,22 @@ is between 20% and 62% with a median value of 45%. -->
     <a href="k2-approved-programs.html">Approved observing programs &raquo;</a>
   </li>
 </ul> -->
-<h2 id="proposal-tips">Proposal tips</h2>
-<p>Due to the observing strategy of the TESS mission, the TSSC notes that GI proposers should be aware of several details when composing a science cases and target lists.</p>
-<ul>
-<li>
-<p>The exact location of the first observing sector (and therefore all subsequent observing sectors) is a sensitive function of the TESS launch date. For GI program Cycle 1, the impact of the uncertainty in the exact sky locations of the TESS FOVs is that there is no guarantee that any given proposed target will not fall into a gap between sectors, camera CCDs, or camera FOVs. The mitigate this uncertainty, Cycle 1 proposers are encouraged to consider target lists that include a number of similar sources distributed across the sky.</p>
-</li>
-<li>
-<p>Adjacent TESS observing sectors have overlapping regions near the ecliptic poles, providing longer-term continuous coverage for stars falling in these regions which in turn provides sensitivity to smaller and longer-period planets. Objects within 12 deg of the ecliptic poles may be observed for ~1 year.</p>
-</li>
-<li>
-<p>Camera 4 is always centered on the ecliptic pole and targets in this camera will be observed continuously for an entire Cycle. This leads to a limitation in the number of 2 min cadence targets that can be selected in the portion of sky covered by camera 4. </p>
-</li>
-<li>
-<p>Camera 1 is always closest to the ecliptic plane and will be contaminated by stray light from the Earth and Moon during some observing sectors. The level of contamination and which sectors will be most affected is dependent on the launch date and the final inclination of the TESS orbit. These parameters will not be known until after commissioning and calibration.</p>
-</li>
-<li>
-<p>Some cameras during some observing sectors cover portions of the Galactic plane and suffer from increased background contamination.</p>
-</li>
-<li>
-<p>A primary science target will nominally be observed nearly continuously for 27.4 days in a given TESS observing sector. However, mission requirements only require a minimum of 20 days of observations out of the 27.4 possible per sector.  This requirement accounts for all sources of observing inefficiency, including repointing for data downlink and interruptions due to the Earth and/or Moon in a camera FOV. </p>
-</li>
-</ul>
+<!-- MOVED TO PROPOSING INVESTIGATIONS (GI PROGRAM PAGE)
+## Proposal tips
+
+Due to the observing strategy of the TESS mission, the TSSC notes that GI proposers should be aware of several details when composing a science cases and target lists.
+
+* The exact location of the first observing sector (and therefore all subsequent observing sectors) is a sensitive function of the TESS launch date. For GI program Cycle 1, the impact of the uncertainty in the exact sky locations of the TESS FOVs is that there is no guarantee that any given proposed target will not fall into a gap between sectors, camera CCDs, or camera FOVs. The mitigate this uncertainty, Cycle 1 proposers are encouraged to consider target lists that include a number of similar sources distributed across the sky.
+
+* Adjacent TESS observing sectors have overlapping regions near the ecliptic poles, providing longer-term continuous coverage for stars falling in these regions which in turn provides sensitivity to smaller and longer-period planets. Objects within 12 deg of the ecliptic poles may be observed for ~1 year.
+
+* Camera 4 is always centered on the ecliptic pole and targets in this camera will be observed continuously for an entire Cycle. This leads to a limitation in the number of 2 min cadence targets that can be selected in the portion of sky covered by camera 4. 
+
+* Camera 1 is always closest to the ecliptic plane and will be contaminated by stray light from the Earth and Moon during some observing sectors. The level of contamination and which sectors will be most affected is dependent on the launch date and the final inclination of the TESS orbit. These parameters will not be known until after commissioning and calibration.
+
+* Some cameras during some observing sectors cover portions of the Galactic plane and suffer from increased background contamination.
+
+* A primary science target will nominally be observed nearly continuously for 27.4 days in a given TESS observing sector. However, mission requirements only require a minimum of 20 days of observations out of the 27.4 possible per sector.  This requirement accounts for all sources of observing inefficiency, including repointing for data downlink and interruptions due to the Earth and/or Moon in a camera FOV. -->
             </div>
         </section>
     </div>
@@ -284,8 +278,6 @@ is between 20% and 62% with a median value of 45%. -->
 <li><a href="#sky-coverage">Sky coverage</a></li>
 </ul>
 </li>
-<li><a href="#target-selection">Target selection</a></li>
-<li><a href="#proposal-tips">Proposal tips</a></li>
 </ul>
 </div>
             </div>

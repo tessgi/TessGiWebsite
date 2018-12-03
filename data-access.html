@@ -17,7 +17,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - TESS Science Support Center" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2018-11-30" />
+    <meta name="dc.date.modified" content="2018-12-03" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Users of TESS Data" />
     <meta name="dc.identifier" content="https://heasarc.gsfc.nasa.gov/docs/tess/" />
@@ -40,13 +40,13 @@ in August 2015, using pelican-bootstrap and flatly.
 <link rel="canonical" href="./pages/accessing-tess-data-products.html">
 
         <meta name="author" content="Thomas Barclay" />
-        <meta name="description" content="The official archive for TESS mission data products is the Mikulski Archive for Space Telescopes (MAST) which is hosted at the Space Telescope Science Institute (STScI). In the following sections we list the main products from TESS, and we describe a few of the products in some detail. For tools …" />
+        <meta name="description" content="MAST Tools The official archive for TESS mission data products is the Mikulski Archive for Space Telescopes (MAST) which is hosted at the Space Telescope Science Institute (STScI). In preparation for the first public data release, the MAST has created a Summary page with information on data access, tools, and …" />
 
     <meta property="og:site_name" content="TESS" />
     <meta property="og:type" content="article"/>
     <meta property="og:title" content="Accessing TESS data products"/>
     <meta property="og:url" content="./pages/accessing-tess-data-products.html"/>
-    <meta property="og:description" content="The official archive for TESS mission data products is the Mikulski Archive for Space Telescopes (MAST) which is hosted at the Space Telescope Science Institute (STScI). In the following sections we list the main products from TESS, and we describe a few of the products in some detail. For tools …" />
+    <meta property="og:description" content="MAST Tools The official archive for TESS mission data products is the Mikulski Archive for Space Telescopes (MAST) which is hosted at the Space Telescope Science Institute (STScI). In preparation for the first public data release, the MAST has created a Summary page with information on data access, tools, and …" />
         <meta property="og:image"
               content="./images/logo-for-twitter.jpeg"/>
 
@@ -114,7 +114,6 @@ in August 2015, using pelican-bootstrap and flatly.
                                 <li><a href="./observing-technical.html">Technical details</a></li>
                                 <li><a href="./approved-programs.html">Approved programs</a></li>
                                 <li><a href="./proposal-tools.html">Proposal tools</a></li>
-                                <li><a href="./ddt.html">Discretionary targets</a></li>
                                 <li><a href="./faq.html">FAQ</a></li>
                             </ul>
                         </li>
@@ -122,13 +121,12 @@ in August 2015, using pelican-bootstrap and flatly.
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Data analysis <b class="caret"></b></a>
                             <ul class="dropdown-menu">
                                 <li><a href="./data-access.html">Data access</a></li>
-                                <li><a href="./followup.html">Follow-up program</a></li>
                                 <li><a href="./software.html">Analysis software</a></li>
-                                <li><a href="./pipeline.html">Pipeline</a></li>
+                                <li><a href="./community.html">Community products</a></li>
                                 <li><a href="./documentation.html">Documentation</a></li>
                             </ul>
                         </li>
-                            <li><a href="https://tess.gsfc.nasa.gov">Education & Outreach</a></li>
+                            <li><a href="./outreach.html">Education & Outreach</a></li>
                             <li><a href="https://heasarc.gsfc.nasa.gov">HEASARC</a></li>
             </ul>
             
@@ -154,15 +152,46 @@ in August 2015, using pelican-bootstrap and flatly.
             <h1 class="entry-title">Accessing TESS data products</h1>
             <div class="entry-content">
                 
+<h2 id="mast-tools">MAST Tools</h2>
 <p>The <em>official</em> archive for TESS mission data products is the
 <a href="https://archive.stsci.edu/tess">Mikulski Archive for Space Telescopes (MAST)</a>
 which is hosted at the
 <a href="http://www.stsci.edu/">Space Telescope Science Institute (STScI)</a>. </p>
-<p>In the following sections we list the main products from TESS, and we describe a few of the products in some detail.  For tools
+<p>In preparation for the first public data release, the MAST has created a <a href="http://archive.stsci.edu/tess/summary.html">Summary page</a> with information on data access, tools, and resources. Brief descriptions are below, but see the MAST <a href="http://archive.stsci.edu/tess/summary.html">Summary page</a> for more details.</p>
+<h3 id="mast-portal"><a href="https://mast.stsci.edu">MAST Portal</a></h3>
+<p>Download light curves, target pixel, and data validation files for a few targets.
+Download full frame images for a few CCDs.
+Conduct small searches within the TIC or CTL.
+Find data from other missions for your target.</p>
+<h3 id="mast-apiastroquery"><a href="mast.stsci.edu/api/v0/astroquery.readthedocs.io">MAST API/astroquery</a></h3>
+<p>Search for, and retrieve, TESS data products programmatically based on a list of coordinates or target names.
+Interact with observational data, TIC, and CTL catalogs in programs you write.</p>
+<h3 id="exomast"><a href="exo.mast.stsci.edu">exo.MAST</a></h3>
+<p>Find MAST data (including TESS) for known planets and TOIs, matched to orbital phase.
+Plot sector-stitched DV light curves.
+Access to exoplanet parameters with references.</p>
+<h3 id="tesscut">TESSCut</h3>
+<p>Coming soon: Create time series pixel cutouts from the TESS full frame images.
+Find out what sectors/cameras/detectors a target was observed in.</p>
+<h3 id="bulk-downloads"><a href="http://archive.stsci.edu/tess/bulk_downloads.html">Bulk downloads</a></h3>
+<p>Download all light curves / target pixel files for a given sector.
+Download all light curves / target pixel files for a given GI program.
+Download all full frame images for a given sector.
+Download the entire TOI or TCE table.
+Download the current TIC and CTL.</p>
+<h3 id="archive-manual">Archive manual</h3>
+<p>Coming soon: Step-by-step instructions on how to use MAST web interfaces for TESS.
+Get Python notebook tutorials on using TESS data and MAST tools.
+Access the TIC and CTL "live" release notes.
+Learn how to contribute TESS-related data products to MAST.</p>
+<!--
+In the following sections we list the main products from TESS, and we describe a few of the products in some detail.  For tools
 and tips on
-inspecting and analyzing TESS data, <a href="software.html">users should check out this page</a>.</p>
-<p>We encourage users of TESS data to read through the
-<a href="documentation.html">documentation associated with the TESS data products</a>. The first port of call for the TESS user is the <a href="docs/TESS_observatory_guide_v1.1.pdf">TESS Observatory Handbook</a>. </p>
+inspecting and analyzing TESS data, [users should check out this page](software.html).
+
+We encourage users of TESS data to read through the
+[documentation associated with the TESS data products](documentation.html). The first port of call for the TESS user is the [TESS Observatory Handbook](docs/TESS_observatory_guide_v1.1.pdf). 
+-->
 <!-- There is documentation specific to the [TESS data products](https://archive.stsci.edu/kepler/data_products.html). Additional documentation can be found
 [here](https://archive.stsci.edu/kepler/documents.html) or can be downloaded directly by following the links
 below.
@@ -178,8 +207,7 @@ below.
 * [K2 Data Release Notes](data-products.html#k2-data-release-notes)
  -->
 <h2 id="tess-product-overview">TESS product overview</h2>
-<p>The <a href="https://archive.stsci.edu/tess/">TESS mission page at MAST</a> contains the latest news and updates
-on TESS products. The following TESS data products and catalogs will be available
+<p>The <a href="https://archive.stsci.edu/tess/">TESS mission page at MAST</a> contains the latest news and updates on TESS products. The following TESS data products and catalogs will be available
 through MAST:</p>
 <p><strong>Data products at MAST</strong></p>
 <!-- 
@@ -226,16 +254,17 @@ Kepler data:
 * Stellar information for observed Kepler targets
 * Ccompleteness and reliability products -->
 <h2 id="main-data-products">Main data products</h2>
-<p>A variety of data products from TESS will be archived at MAST for guest investigators. </p>
+<p>A variety of data products from TESS will be archived at MAST for use by the community. </p>
 <h3 id="full-frame-images-ffis">Full frame images (FFIs)</h3>
 <p>A Full Frame Image (FFI) is a collection of science and <a href="#collateral-data">collateral</a> pixels observed simultaneously.  A single FFI is the full set of all science and collateral pixels across all CCDs of a given camera.  FFIs will be taken every 30 minutes during science operations.</p>
 <p>There are 16 CCDs on the spacecraft, each of which is supported by 4 output channels. TESS FFI files are in FITS format and contain all pixels on a single CCD for a single 30 minute cadence observation. FFI data will be provided in three types: uncalibrated, calibrated, and uncertainty. Uncalibrated FFI data will be provided in one file with two Header/Data Units (HDUs): a primary header and the CCD image header and data. The calibrated image and its uncertainty will be provided in a separate file with several HDUs: a primary header, the CCD calibrated image header and data, the CCD uncertainty image header and data, and the cosmic ray corrections binary table header and data. Cosmic Ray Mitigated (CRM) FFIs are the same as FFIs except they will be collected with the onboard cosmic ray mitigation enabled. </p>
 <p><br/>
 <img class="img-responsive" src="images/data/tess_ccd.png" style="max-width:67%;"/>
 <br/></p>
-<p><br/>
-<img class="img-responsive" src="images/data/board_drawing_three.png" style="max-width:80%;"/>
-<br/></p>
+<!--
+<br/>
+<img class="img-responsive" style="max-width:80%;" src="images/data/board_drawing_three.png">
+<br/> -->
 <h3 id="target-pixel-files-tpfs">Target pixel files (TPFs)</h3>
 <p>The target pixel files are the rawest form of target-specific data that will be available at MAST. For each 2 minute cadence target in an observing sector, TESS only acquires the pixels contained within a predefined mask. These pixels are used to create the data found in the light curve files. Each target pixel file packages these pixels as a time series of images in a binary FITS table. The intent of these files is to provide the data necessary to perform photometry on the raw or calibrated data when needed (or desired) to understand (or improve) the automated results of the TESS pipeline.
 In the binary table, the pixel values are encoded as images. Each element in the binary table contains the pixels from a single cadence. </p>
@@ -259,10 +288,10 @@ In the binary table, the pixel values are encoded as images. Each element in the
 <p><em>Read noise</em>: an estimate of the variation in pixel values which is caused by the digitization process itself. This is separate from the noise due to Poisson variation in the number of photons collected from a target (known as "shot noise"). The read noise model is used in the calibration process to estimate the uncertainty in pixel values, which is incorporated into the uncertainty propagation process. Each CCD has its own read noise model with separate values for each of the 4 readouts on the CCD.</p>
 <p><em>2-d black model</em>: the expected readout of a given CCD, in counts, which is observed when no light is incident upon the detector. The 2-d black model is subtracted from the raw pixel values as part of the calibration process. The 2-d black model also incorporates the expected black values of collateral pixels. Each CCD has a separate 2-d black model. The size of the 2-d black model is 2078 x 2136 for each of 16 CCDs.</p>
 <p><em>Dark current</em>: the mean dark current calculated from the virtual row pixel values. There is one metric value per cadence for each readout.</p>
-<h3 id="cotrending-basis-vectors-cbvs">Cotrending basis vectors (CBVs)</h3>
+<h3 id="cotrending-basis-vectors">Cotrending basis vectors</h3>
 <p>Co-trending basis vectors (CBVs) represent the set of systematic trends present in the ensemble flux data. CBVs will be provided for each operational sector of the mission. These are derived by the TESS pipeline from a Principle Component Analysis and used to mitigate systematic artifacts within the the target light curves. If TESS users see residual systematic problems within their light curve data, the CBVs can be employed in performing a manual photometric correction, more tailored towards the user's science. </p>
-<h3 id="point-spread-functions-psfs">Point Spread Functions (PSFs)</h3>
-<p>PSF models will be available at the MAST after commissioning.</p>
+<h3 id="point-spread-functions">Point Spread Functions</h3>
+<p>Point spread function (PSF) models will be available at the MAST along with the data.</p>
 <h3 id="simulated-data">Simulated Data</h3>
 <p>During development of space mission, the ground-segment goes through several tests known as Ground System Interface Test (GSIT). To aid potential TESS users in the development of tools and to assess the feasibility of investigations data from the GSIT-3 test has been made available from the <a href="https://archive.stsci.edu/tess">MAST</a>. </p>
             </div>
@@ -273,6 +302,15 @@ In the binary table, the pixel values are encoded as images. Each element in the
             <div class="nav nav-stacked fixed" id="mytoc">
             <div class="toc">
 <ul>
+<li><a href="#mast-tools">MAST Tools</a><ul>
+<li><a href="#mast-portal">MAST Portal</a></li>
+<li><a href="#mast-apiastroquery">MAST API/astroquery</a></li>
+<li><a href="#exomast">exo.MAST</a></li>
+<li><a href="#tesscut">TESSCut</a></li>
+<li><a href="#bulk-downloads">Bulk downloads</a></li>
+<li><a href="#archive-manual">Archive manual</a></li>
+</ul>
+</li>
 <li><a href="#tess-product-overview">TESS product overview</a></li>
 <li><a href="#main-data-products">Main data products</a><ul>
 <li><a href="#full-frame-images-ffis">Full frame images (FFIs)</a></li>
@@ -282,8 +320,8 @@ In the binary table, the pixel values are encoded as images. Each element in the
 </ul>
 </li>
 <li><a href="#auxiliary-data-products">Auxiliary data products</a><ul>
-<li><a href="#cotrending-basis-vectors-cbvs">Cotrending basis vectors (CBVs)</a></li>
-<li><a href="#point-spread-functions-psfs">Point Spread Functions (PSFs)</a></li>
+<li><a href="#cotrending-basis-vectors">Cotrending basis vectors</a></li>
+<li><a href="#point-spread-functions">Point Spread Functions</a></li>
 <li><a href="#simulated-data">Simulated Data</a></li>
 </ul>
 </li>
