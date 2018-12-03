@@ -76,11 +76,11 @@ The short wavelength end is set by a long-pass filter coating on one of the came
 ## Spacecraft
 The cameras are mounted to an Orbital LEOStar-2/750 bus. The TESS spacecraft power is supplied by two deployable solar array wings that are capable of providing 415 W of total power. The estimated requirement of the observatory is 290 W. The bus is equipped with a Ka-band transmitter coupled to an 0.7m body-fixed high-gain antenna. The transmitter operates on 2 W of power and transfers data at a rate of 100 Mb/s, sufficient to downlink science data during 4-h intervals at each orbit perigee. Spacecraft attitude is controlled through a zero-momentum attitude control system with a three-axis hydrazine monopropellent propulsion system and 2 star trackers. Observatory fine-pointing is achieved through four reaction wheels and high-precision quaternions produced by the science cameras.
 
-The spacecraft is being built by Orbital ATK in Dulles, VA, where the Mission Operations Center (MOC) is located.
+The spacecraft was built by Orbital Sciences Corporation in Dulles, VA, where the Mission Operations Center (MOC) is located.
 
 <br/>
 <img class="img-responsive" style="max-width:67%;" src="images/mission/spacecraft_orbital.png">
 <br/>
-*Image Credit: Orbital ATK*
+*Image Credit: Orbital Sciences Corporation*
 
 
