@@ -27,7 +27,7 @@ TESS launched April 18 at 6:51 p.m. EDT from Cape Canaveral Air Force Station in
 <!-- <br/> -->
 <!-- <img class="img-responsive" style="max-width:67%;" src="images/mission/tess_observingsectorschematic_Winnpresentation.png">
 <br/> -->
-
+## Sector Dates
 
 <div class="panel panel-primary">
   <div class="panel-heading">
@@ -227,6 +227,12 @@ TESS launched April 18 at 6:51 p.m. EDT from Cape Canaveral Air Force Station in
   </table>
 </div>
 </div>
+
+
+
+## Distribution of targets 
+Illustrations showing all targets (in red) planned for observation for each camera and sector.
+
 
 <div class="row">
     <div class="col-md-6 text-center">
