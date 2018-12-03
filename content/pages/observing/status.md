@@ -27,7 +27,8 @@ TESS launched April 18 at 6:51 p.m. EDT from Cape Canaveral Air Force Station in
 <!-- <br/> -->
 <!-- <img class="img-responsive" style="max-width:67%;" src="images/mission/tess_observingsectorschematic_Winnpresentation.png">
 <br/> -->
-## Sector Dates
+## Sector dates
+The start and end dates for each sector, and the GI target list (csv file) for each sector, are below. Information on how to download the data can be found [here](data-access.html).
 
 <div class="panel panel-primary">
   <div class="panel-heading">
