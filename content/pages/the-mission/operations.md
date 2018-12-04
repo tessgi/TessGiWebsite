@@ -45,7 +45,7 @@ Over its 2-year prime mission, TESS will collect brightness measurements of abou
 
 ## Observing strategy
 
-TESS will survey over 85% of the sky by observing 26 individual sectors in its 2-year prime mission, 13 in the southern hemisphere and 13 in the northern hemisphere. Each hemisphere will be observed for 1 year each in the 2-year prime mission, beginning in the south in July 2018. Each sector will be observed for two orbits (27.4 days total), and once complete, TESS will re-orient to the next sector moving eastward until the hemisphere has been tiled by 13 sectors.  
+TESS will survey over 85% of the sky by observing [26 individual sectors in its 2-year prime mission](status.html), 13 in the southern hemisphere and 13 in the northern hemisphere. Each hemisphere will be observed for 1 year each in the 2-year prime mission, beginning in the south in July 2018. Each sector will be observed for two orbits (27.4 days total), and once complete, TESS will re-orient to the next sector moving eastward until the hemisphere has been tiled by 13 sectors.  
 
 Within each 96 x 24 degree sector TESS will observe 15,000 target stars on a 2 minute cadence and collect full frame images at 30 minute cadence. The sectors have ecliptic latitudes from 6 degrees to the ecliptic pole with increasing overlap at higher latitudes. There will be over 350 days of continuous coverage in the Continuous Viewing Zone (CVZ) at the ecliptic poles, which corresponds to the region accessible to NASA's upcoming James Webb Space Telescope.
 
