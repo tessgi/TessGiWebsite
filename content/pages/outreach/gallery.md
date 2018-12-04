@@ -19,9 +19,10 @@ A gallery of TESS videos, animations, still images, and other resources are main
 # TESS model files
 You can download files to create you very own TESS. This includes a paper model and files to create a 3D printed TESS spacecraft. All the details are [on our Github site](https://github.com/tessgi/tess-3d-printing-model).
 
-[3d printed model](https://github.com/tessgi/tess-3d-printing-model)           |  [Paper model](https://github.com/tessgi/tess-3d-printing-model) 
-:-------------------------:|:-------------------------:
-![3d printed model](images/tess_3d_model_1.jpg)  |  ![2d printed model](images/tess_paper_model_1.jpg)
+
+[3d printed model](https://github.com/tessgi/tess-3d-printing-model) | [Paper model](https://github.com/tessgi/tess-3d-printing-model) |
+:-------------------------|:-------------------------
+<img class="img-responsive" style="max-width:80%;" src="images/tess_3d_model_1.jpg"> | <img class="img-responsive" style="max-width:80%;" src="images/tess_paper_model_1.jpg">
 
 # ABCs of exoplanets
 
@@ -52,7 +53,6 @@ The TESS [Science Writer's Guide](https://www.nasa.gov/sites/default/files/atoms
 *TESS poster available in high-res to download [here](https://explorers.gsfc.nasa.gov/abcs/downloads.html). Image Credit: NASA*
 <br/>
 -->
-
 
 
 
