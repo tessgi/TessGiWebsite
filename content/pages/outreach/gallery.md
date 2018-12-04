@@ -27,6 +27,7 @@ The [ABCs of Exoplanets](https://explorers.gsfc.nasa.gov/abcs/index.html) are a 
 
 <br/>
 <br/>
+
 # TESS Science Writer's Guide
 
 The TESS [Science Writer's Guide](https://www.nasa.gov/sites/default/files/atoms/files/tesssciencewritersguidedraft23.pdf) was developed to provide general information on the TESS mission for use by science writer's and others interested in TESS. This guide was first developed for a Science Writer's Workshop held at the American Astronomical Society meeting in January 2018.

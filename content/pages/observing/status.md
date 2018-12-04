@@ -234,8 +234,8 @@ The start and end dates for each sector, and the GI target list (csv file) for e
 
 
 ## Distribution of targets 
-Illustrations showing all targets (in red) planned for 2-minute
-cadence observations for each camera and sector.
+Illustrations showing all targets (in red) observed at 2-minute
+cadence for each camera and sector.
 
 
 <div class="row">
