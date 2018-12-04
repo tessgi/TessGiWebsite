@@ -150,7 +150,10 @@ IMPORTANT_DATES = (
             # 'TESS launch',
             # 'operations.html'), # link to a news item?
             ('<b>December 6, 2018</b>',
-             'First data release',
+             'Sector 1 and 2 data release',
+             'status.html'), # link to a news item?
+            ('<b>Jan 25, 2018</b>',
+             'Sector 3 and 4 data release',
              'status.html'), # link to a news item?
             ('<b>February 28, 2019</b>',
              'TESS GI Cycle 2 proposal deadline',
