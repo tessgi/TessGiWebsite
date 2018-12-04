@@ -439,7 +439,7 @@ Due to the observing strategy of the TESS mission, GI proposers should be aware 
 
 * Camera 4 is always centered on the ecliptic pole and targets in this camera will be observed continuously for an entire cycle. This leads to a limitation in the number of 2-minute cadence targets that can be selected in the portion of sky covered by camera 4. 
 
-* Camera 1 is always closest to the ecliptic plane and will be contaminated by stray light from the Earth and Moon during some observing sectors. More details on the impact of scattered light can be found in the [Data Release Notes](documentation.html).
+* Camera 1 is always closest to the ecliptic plane and will be contaminated by stray light from the Earth and Moon during some observing sectors. More details on the impact of scattered light can be found in the [Data Release Notes and the TESS Instrument Handbook](documentation.html).
 
 * Some cameras during some observing sectors cover portions of the Galactic plane and suffer from increased background contamination.
 

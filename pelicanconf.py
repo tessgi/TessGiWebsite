@@ -205,6 +205,9 @@ MEETINGS = (
             #('<b>20-31 August 2018</b><br>'
             # 'International Astronomical Union',
             # 'https://astronomy2018.univie.ac.at'),     
+            ('<b>6-10 January 2019</b><br>'
+             'AAS Winter Meeting',
+             'https://aas.org/meetings/aas233'),               
             ('<b>11-14 February 2019</b><br>'
              'TESS Data Workshop',
              'http://www.stsci.edu/institute/conference/tess'),               

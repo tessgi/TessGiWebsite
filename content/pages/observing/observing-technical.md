@@ -7,7 +7,9 @@ The TESS mission provides the community with an opportunity to make ground-break
 
 
 A description of the overall mission can be found in
-[Ricker et al. 2014](http://adsabs.harvard.edu/abs/2015JATIS...1a4003R). Brief descriptions of the mission operations, including the TESS orbit, field-of-view, time-sampling, and observing strategy, can be found in the [Operations](operations.html) page. Details on all aspects of the mission, developed for GI proposers, are in the [TESS Observatory Guide](docs/TESS_observatory_guide_v1.1.pdf). 
+[Ricker et al. 2015](http://adsabs.harvard.edu/abs/2015JATIS...1a4003R). Brief descriptions of the mission operations, including the TESS orbit, field-of-view, time-sampling, and observing strategy, can be found in the [Operations](operations.html) page. Details on all aspects of the mission, developed for GI proposers, are in the [TESS Observatory Guide](docs/TESS_observatory_guide_v1.1.pdf).
+
+This website as well as the [TESS Instrument Handbook and Data Release Notes](documentation.html) should be consulted for the latest information regarding observing with TESS. 
 
 
 <!-- ## Overview
@@ -79,7 +81,7 @@ For fainter stars, such as a 16th magnitude star, the photometric precision drop
 *Image Credit: Zach Berta-Thompson with data from Sullivan at al. (2015)*
 
 ### Saturation
-Saturation is anticipated in the central pixel at I_C = 7.5. This, however, does not represent the bright limit for precise photometry. Excess charge from saturated pixels is conserved and spread across adjacent pixels in a CCD column until the excess reaches a CCD boundary. This leads to "bleed trails" extending above and below a saturated pixel, similar to what is seen for bright stars in Kepler/K2 photometry. Precision photometry can still be achieved by creating a photometric aperture that is large enough to encompass all excess charge and the TESS bright limit is anticipated to be I_C=4.
+Saturation is anticipated in the central pixel at I_C = 7.5. This, however, does not represent the bright limit for precise photometry. Excess charge from saturated pixels is conserved and spread across adjacent pixels in a CCD column until the excess reaches a CCD boundary. This leads to "bleed trails" extending above and below a saturated pixel, similar to what is seen for bright stars in Kepler/K2 photometry. Precision photometry can still be achieved by creating a photometric aperture that is large enough to encompass all excess charge. The TESS bright limit is anticipated to be I_C=4.
 
 <!-- ### Solar pressure-induced drift
 
@@ -99,10 +101,11 @@ Because the TESS pixels are large (21 arcsec), the TESS photometry for many targ
 
 ### Sky coverage
 
+The fraction of sky coverage for different time baselines that TESS will have over the 2-year prime mission is listed below.
+
 <br/>
 <img class="img-responsive" style="max-width:67%;" src="images/giprogram/tess_sky_coverage.png">
 <br/>
- Fraction of sky coverage for different time baselines that TESS will have over the 2-year prime mission.
 
 
 <!-- MOVED TO PROPOSING INVESTIGATIONS
