@@ -214,7 +214,7 @@ MEETINGS = (
             ('<b>25-29 March 2019</b><br>'
              'Building Early Science with TESS',
              'http://tess.ninja/'),   
-            ('<b>15 April 2019 - 28 June 2019</b><br>'
+            ('<b>15 April - 28 June 2019</b><br>'
              'Better Stars, Better Planets: Exploiting the Stellar-Exoplanetary Synergy',
              'https://www.kitp.ucsb.edu/activities/exostar19'),
             ('<b>29 July - 2 August 2019</b><br>'

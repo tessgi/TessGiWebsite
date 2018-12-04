@@ -5,7 +5,9 @@ Save_as: status.html
 
 <!-- <img class="img-responsive" style="max-width:67%;" src="images/giprogram/timeline.jpg" alt="TESS CSC timeline"> -->
 
-TESS launched April 18 at 6:51 p.m. EDT from Cape Canaveral Air Force Station in Florida atop a SpaceX Falcon 9 rocket. After a commissioning period TESS started science operation on July 25, 2018. TESS is now executing it's survey, observing one [sector](https://heasarc.gsfc.nasa.gov/docs/tess/operations.html#field-of-view) at a time, starting in the southern hemisphere. TESS will continue to [tile the sky](https://heasarc.gsfc.nasa.gov/docs/tess/operations.html#observing-strategy) with 27.4 day-long sectors during its 2 year prime mission. 
+TESS launched April 18, 2018 at 6:51 p.m. EDT from Cape Canaveral Air
+Force Station in Florida atop a SpaceX Falcon 9 rocket. Regular
+science operations with TESS began on July 25, 2018. TESS is now executing its survey, observing one [sector](https://heasarc.gsfc.nasa.gov/docs/tess/operations.html#field-of-view) at a time, starting in the southern hemisphere. TESS will continue to [tile the sky](https://heasarc.gsfc.nasa.gov/docs/tess/operations.html#observing-strategy) with 27.4 day-long sectors during its 2 year prime mission. 
 
 <!-- 
 
@@ -232,7 +234,8 @@ The start and end dates for each sector, and the GI target list (csv file) for e
 
 
 ## Distribution of targets 
-Illustrations showing all targets (in red) planned for observation for each camera and sector.
+Illustrations showing all targets (in red) planned for 2-minute
+cadence observations for each camera and sector.
 
 
 <div class="row">
