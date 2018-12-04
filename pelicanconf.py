@@ -149,7 +149,7 @@ IMPORTANT_DATES = (
             #('<b>April 18 2018</b>',
             # 'TESS launch',
             # 'operations.html'), # link to a news item?
-            ('<b>December 6 2018</b>',
+            ('<b>December 6, 2018</b>',
              'First data release',
              'status.html'), # link to a news item?
             ('<b>February 28, 2019</b>',
@@ -209,8 +209,11 @@ MEETINGS = (
             #  'http://coolstars20.cfa.harvard.edu'),       
             #('<b>20-31 August 2018</b><br>'
             # 'International Astronomical Union',
-            # 'https://astronomy2018.univie.ac.at'),     
-            ('<b>11-14 Feb 2019</b><br>'
+            # 'https://astronomy2018.univie.ac.at'),
+            ('<b>6-10 January 2019</b><br>'
+             'AAS Winter Meeting',
+             'https://aas.org/meetings/aas233'),           
+            ('<b>11-14 February 2019</b><br>'
              'TESS Data Workshop',
              'http://www.stsci.edu/institute/conference/tess'),               
             ('<b>4-8 March 2019</b><br>'
@@ -219,19 +222,19 @@ MEETINGS = (
             ('<b>25-29 March 2019</b><br>'
              'Building Early Science with TESS',
              'http://tess.ninja/'),   
+            ('<b>15 April - 28 June 2019</b><br>'
+             'Better Stars, Better Planets: Exploiting the Stellar-Exoplanetary Synergy',
+             'https://www.kitp.ucsb.edu/activities/exostar19'),
             ('<b>29 July - 2 August 2019</b><br>'
              'TESS Science Conference',
              'https://tess.mit.edu/news/tess-science-conference/'),            
-            ('<b>15 April 2019 - 28 June 2019</b><br>'
-             'Better Stars, Better Planets: Exploiting the Stellar-Exoplanetary Synergy',
-             'https://www.kitp.ucsb.edu/activities/exostar19'),
 
             )
 
 # Defines the "related websites" listing in the footer of all pages
 RELATEDSITES = (
             ('News, Media, and Education Resources',
-             'https://tess.gsfc.nasa.gov/'),
+             'https://nasa.gov/tess'),
             ('TESS @ MIT',
              'http://tess.mit.edu/'), 
             # ('TESS @ Orbital ATK',
