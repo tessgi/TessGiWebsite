@@ -5,7 +5,7 @@ Save_as: proposing-investigations.html
 
 The TESS Guest Investigator (GI) program is intended to enable the community to participate in science investigations using TESS, outside of the [core mission science goals](primary-science.html). The program enables teams to propose the collection of new 2-minute cadence targets, and provides funding to US investigators to analyze 2-minute cadence and full-frame image (FFI) data.
 
-The TESS primary mission duration is two years. The first year will be spent in the southern ecliptic hemisphere and corresponds to TESS Guest Investigator Program Cycle 1; the second year will observe the northern ecliptic hemisphere and corresponds to Cycle 2. During the primary mission, the majority of the 2-minute cadence targets observed will be taken from the [TESS Candidate Target list (CTL)](#candidate-target-list-ctl). In each cycle around 20,000 2-minute cadence target slots will be assigned to the Guest Investigator Program.
+The TESS primary mission duration is two years. The first year will be spent in the southern ecliptic hemisphere and corresponds to TESS Guest Investigator Program Cycle 1; the second year will observe the northern ecliptic hemisphere and corresponds to Cycle 2. During the primary mission, the majority of the 2-minute cadence targets observed will be taken from the [TESS Candidate Target list (CTL)](#candidate-target-list-ctl). Around 20,000 2-minute cadence target slots will be assigned to the Guest Investigator Program during the 2-year prime mission.
 
 There will be no exclusive-use data rights to observations collected by TESS. All data will be made available through the [MAST public archive](http://archive.stsci.edu/tess/summary.html) once data processing and validation is complete. 
 

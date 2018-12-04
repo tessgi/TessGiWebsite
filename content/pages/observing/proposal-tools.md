@@ -88,7 +88,7 @@ This will return a file with the two original columns plus two additional column
 -->
 
 ### ticgen
-ticgen is a Python package that allows users calculate a TESS magnitude from various other bandpasses, and calculate a 1-sigma noise level. This feature is also enabled in the [Web TESS Viewing (WTV) tool](https://heasarc.gsfc.nasa.gov/cgi-bin/tess/webtess/wtv.py). This package adds the ticgen and ticgen-csv tools to the command line.
+ticgen is a Python package that allows users to calculate a TESS magnitude from various other bandpasses, and calculate a 1-sigma noise level. This feature is also enabled in the [Web TESS Viewing (WTV) tool](https://heasarc.gsfc.nasa.gov/cgi-bin/tess/webtess/wtv.py). This package adds the ticgen and ticgen-csv tools to the command line.
 
 The code and documentation is hosted on [Github](https://github.com/tessgi/ticgen) and only briefly summarized here.
 
@@ -138,12 +138,12 @@ This will be used to calculate the noise. This assumes noise scales with the inv
     TESS mag = 18.00, calculated using Tmag was provided.
     1-sigma scatter in 1440 min = 51045 ppm.
 
-You can also run on a comma-separated variable file with magnitudes.
+You can also run this on a comma-separated variable file with magnitudes.
 The header of the file must contain one or more of Tmag, Vmag, Jmag, Bmag, Bphmag, Ksmag, Hmag, and Gmag. Not all the magnitudes need to be included in the file and the columns can be in any order.
 
 A new csv file will be created with two columns: TESS mag and 1-sigma noise level in parts-per-million.
 
-Here is an example of an acceptable file
+Here is an example of an acceptable file:
 
     Tmag,Vmag,Jmag,Bmag,Bphmag,Ksmag,Hmag,Gmag
     12.0,,,,,,,
@@ -151,7 +151,7 @@ Here is an example of an acceptable file
     ,,,,,,16.0,
     ,,12.0,12.0,,8.6,,
 
-and this would output
+and this would output:
 
     # Tmag, 1-sigma noise (ppm)
         12.000,    595.007

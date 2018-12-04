@@ -57,6 +57,10 @@ A video illustrating the TESS survey strategy, along with the pathway to the spa
 <br/>
 *Schematic showing observing baselines on the celestial sphere including sector overlap regions. The dashed black circle enclosing the Ecliptic pole shows the region where the JWST has continuous viewing capabilities.*
 
+## Commissioning
+
+The commissioning period for TESS was separated into multiple phases that included spacecraft initialization, instrument initialization, fine pointing updates, and instrument calibration. Commissioning was successfully completed, and science operations began on July 25, 2018.
+
 ## Science data flow 
 The flow of data from the spacecraft to its final archive involves participation from multiple institutions that make up the TESS project team, as described below.
 
@@ -66,11 +70,6 @@ The flow of data from the spacecraft to its final archive involves participation
 
 Data from the TESS spacecraft are downloaded through the Deep Space Network (DSN) and delivered to the Payload Operations Center (POC) at the Massachusetts Institute ofTechnology (MIT). The POC sends uncalibrated requantized pixel data, target lists, spacecraft configuration and engineering data, and focal plane characterization models (for calibration) to the Science Processing Operations Center (SPOC) at NASA Ames. The SPOC calibrates the science data in two steps, first by the orbit and then by the sector. The SPOC uses instrument calibration models provided by the POC to calibrate all science data. Once a full sector is calibrated the transiting planet search software is run by the SPOC to identify and flag threshold crossing events (TCEs). Calibrated target pixels and FFIs, light curves generated from 2-min cadence targets, and TCEs are sent to the TESS Science Office (TSO, which includes MIT and the Smithsonian Astrophysical Observatory, SAO). The TSO is responsible for detailed analysis of TCEs and the identification of TESS Objects of Interest (TOIs). The TSO will deliver lists of TOIs to the Mikulski Archive for Space Telescopes (MAST, located at the Space Telescope Science Institute, STScI) along with dispositions and information documenting the vetting process for each TOI on a regular schedule, nominally every four months. The processed data and meta-data from the SPOC are archived at MAST. MAST is the primary science data archive for TESS and provides tools to search and retrieve data. The TESS Science Support Center operates the Guest Investigator (GI) Program, which supplies a list of GI targets to the POC, and the GI proposers may retrieve their data from the MAST. All data archived at MAST has no proprietary period and is publicly available.
 
-
-
-## Commissioning
-
-The commissioning period for TESS was separated into multiple phases that included spacecraft initialization, instrument initialization, fine pointing updates, and instrument calibration. Commissioning was successfully completed, and science operations began on July 25, 2018.
 
 ## Science data processing 
 
