@@ -17,7 +17,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - TESS Science Support Center" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2018-12-03" />
+    <meta name="dc.date.modified" content="2018-12-04" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Users of TESS Data" />
     <meta name="dc.identifier" content="https://heasarc.gsfc.nasa.gov/docs/tess/" />
@@ -126,7 +126,13 @@ in August 2015, using pelican-bootstrap and flatly.
                                 <li><a href="./documentation.html">Documentation</a></li>
                             </ul>
                         </li>
-                            <li><a href="./outreach.html">Education & Outreach</a></li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Education & Outreach <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="./gallery.html">Resources</a></li>
+                                <li><a href="./media.html">Media support</a></li>
+                            </ul>
+                        </li>
                             <li><a href="https://heasarc.gsfc.nasa.gov">HEASARC</a></li>
             </ul>
             
@@ -177,21 +183,21 @@ in August 2015, using pelican-bootstrap and flatly.
 <br/>
 <em>Schematic of TESS time sampling, data processing, and storage.</em></p>
 <h2 id="observing-strategy">Observing strategy</h2>
-<p>TESS will survey over 90% of the sky by observing 26 individual sectors in its 2-year prime mission, 13 in the southern hemisphere and 13 in the northern hemisphere. Each hemisphere will be observed for 1 year each in the 2-year prime mission, beginning in the south in July 2018. Each sector will be observed for two orbits (27.4 days total), and once complete, TESS will re-orient to the next sector moving eastward until the hemisphere has been tiled by 13 sectors.  </p>
+<p>TESS will survey over 85% of the sky by observing 26 individual sectors in its 2-year prime mission, 13 in the southern hemisphere and 13 in the northern hemisphere. Each hemisphere will be observed for 1 year each in the 2-year prime mission, beginning in the south in July 2018. Each sector will be observed for two orbits (27.4 days total), and once complete, TESS will re-orient to the next sector moving eastward until the hemisphere has been tiled by 13 sectors.  </p>
 <p>Within each 96 x 24 degree sector TESS will observe 15,000 target stars on a 2 minute cadence and collect full frame images at 30 minute cadence. The sectors have ecliptic latitudes from 6 degrees to the ecliptic pole with increasing overlap at higher latitudes. There will be over 350 days of continuous coverage in the Continuous Viewing Zone (CVZ) at the ecliptic poles, which corresponds to the region accessible to NASA's upcoming James Webb Space Telescope.</p>
 <p>A video illustrating the TESS survey strategy, along with the pathway to the spacecraft orbit, can be seen <a href="http://www.youtube.com/watch?v=mpViVEO-ymc">here</a>.</p>
 <p><br/>
 <img class="img-responsive" src="images/mission/tess_2yearskycoverage.png" style="max-width:67%;"/>
 <br/>
 <em>Schematic showing observing baselines on the celestial sphere including sector overlap regions. The dashed black circle enclosing the Ecliptic pole shows the region where the JWST has continuous viewing capabilities.</em></p>
+<h2 id="commissioning">Commissioning</h2>
+<p>The commissioning period for TESS was separated into multiple phases that included spacecraft initialization, instrument initialization, fine pointing updates, and instrument calibration. Commissioning was successfully completed, and science operations began on July 25, 2018.</p>
 <h2 id="science-data-flow">Science data flow</h2>
 <p>The flow of data from the spacecraft to its final archive involves participation from multiple institutions that make up the TESS project team, as described below.</p>
 <p><br/>
 <img class="img-responsive" src="images/mission/tess_operations2.png" style="max-width:75%;"/>
 <br/></p>
 <p>Data from the TESS spacecraft are downloaded through the Deep Space Network (DSN) and delivered to the Payload Operations Center (POC) at the Massachusetts Institute ofTechnology (MIT). The POC sends uncalibrated requantized pixel data, target lists, spacecraft configuration and engineering data, and focal plane characterization models (for calibration) to the Science Processing Operations Center (SPOC) at NASA Ames. The SPOC calibrates the science data in two steps, first by the orbit and then by the sector. The SPOC uses instrument calibration models provided by the POC to calibrate all science data. Once a full sector is calibrated the transiting planet search software is run by the SPOC to identify and flag threshold crossing events (TCEs). Calibrated target pixels and FFIs, light curves generated from 2-min cadence targets, and TCEs are sent to the TESS Science Office (TSO, which includes MIT and the Smithsonian Astrophysical Observatory, SAO). The TSO is responsible for detailed analysis of TCEs and the identification of TESS Objects of Interest (TOIs). The TSO will deliver lists of TOIs to the Mikulski Archive for Space Telescopes (MAST, located at the Space Telescope Science Institute, STScI) along with dispositions and information documenting the vetting process for each TOI on a regular schedule, nominally every four months. The processed data and meta-data from the SPOC are archived at MAST. MAST is the primary science data archive for TESS and provides tools to search and retrieve data. The TESS Science Support Center operates the Guest Investigator (GI) Program, which supplies a list of GI targets to the POC, and the GI proposers may retrieve their data from the MAST. All data archived at MAST has no proprietary period and is publicly available.</p>
-<h2 id="commissioning">Commissioning</h2>
-<p>The commissioning period for TESS was separated into multiple phases that included spacecraft initialization, instrument initialization, fine pointing updates, and instrument calibration. Commissioning was successfully completed, and science operations began on July 25, 2018.</p>
 <h2 id="science-data-processing">Science data processing</h2>
 <p>The TESS data processing pipeline was developed by the Science Processing Operations Center (SPOC) at NASA Ames Research Center and builds on the legacy of the Kepler data processing pipeline. A brief overview is presented below, and more details can be found in the SPOC paper available in the <a href="documentation.html">documentation</a> page.</p>
 <p>The SPOC receives raw data via the Payload Operations Center (POC) at MIT. The SPOC pipeline processes the raw pixels, extracts photometry and astrometry for each target star, identifies and removes systematic errors, flags transiting planet signatures, and performs a suite of diagnostic tests. Many software modules developed for Kepler have significant overlap with what is needed to process TESS data. </p>
@@ -219,8 +225,8 @@ in August 2015, using pelican-bootstrap and flatly.
 <li><a href="#field-of-view">Field of view</a></li>
 <li><a href="#time-sampling">Time sampling</a></li>
 <li><a href="#observing-strategy">Observing strategy</a></li>
-<li><a href="#science-data-flow">Science data flow</a></li>
 <li><a href="#commissioning">Commissioning</a></li>
+<li><a href="#science-data-flow">Science data flow</a></li>
 <li><a href="#science-data-processing">Science data processing</a><ul>
 <li><a href="#pipeline-products">Pipeline products</a></li>
 </ul>
@@ -255,7 +261,7 @@ in August 2015, using pelican-bootstrap and flatly.
       <div class="row">
         <div class="col-xs-12">
           <h5><i class="fa fa-external-link"></i><span class="icon-label">Related websites:</span></h5>
-          <a href="https://nasa.gov/tess" target="_blank">
+          <a href="https://tess.gsfc.nasa.gov/" target="_blank">
                   News, Media, and Education Resources
               </a>
           <br/>

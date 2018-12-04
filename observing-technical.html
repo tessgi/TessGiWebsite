@@ -17,7 +17,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - TESS Science Support Center" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2018-12-03" />
+    <meta name="dc.date.modified" content="2018-12-04" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Users of TESS Data" />
     <meta name="dc.identifier" content="https://heasarc.gsfc.nasa.gov/docs/tess/" />
@@ -126,7 +126,13 @@ in August 2015, using pelican-bootstrap and flatly.
                                 <li><a href="./documentation.html">Documentation</a></li>
                             </ul>
                         </li>
-                            <li><a href="./outreach.html">Education & Outreach</a></li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Education & Outreach <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="./gallery.html">Resources</a></li>
+                                <li><a href="./media.html">Media support</a></li>
+                            </ul>
+                        </li>
                             <li><a href="https://heasarc.gsfc.nasa.gov">HEASARC</a></li>
             </ul>
             
@@ -154,7 +160,8 @@ in August 2015, using pelican-bootstrap and flatly.
                 
 <p>The TESS mission provides the community with an opportunity to make ground-breaking discoveries in the field of exoplanets, astrophysics and planetary science. A summary of observing technical details that proposers should be aware of can be found here.</p>
 <p>A description of the overall mission can be found in
-<a href="http://adsabs.harvard.edu/abs/2015JATIS...1a4003R">Ricker et al. 2014</a>. Brief descriptions of the mission operations, including the TESS orbit, field-of-view, time-sampling, and observing strategy, can be found in the <a href="operations.html">Operations</a> page. Details on all aspects of the mission, developed for GI proposers, are in the <a href="docs/TESS_observatory_guide_v1.1.pdf">TESS Observatory Guide</a>. </p>
+<a href="http://adsabs.harvard.edu/abs/2015JATIS...1a4003R">Ricker et al. 2015</a>. Brief descriptions of the mission operations, including the TESS orbit, field-of-view, time-sampling, and observing strategy, can be found in the <a href="operations.html">Operations</a> page. Details on all aspects of the mission, developed for GI proposers, are in the <a href="docs/TESS_observatory_guide_v1.1.pdf">TESS Observatory Guide</a>.</p>
+<p>This website as well as the <a href="documentation.html">TESS Instrument Handbook and Data Release Notes</a> should be consulted for the latest information regarding observing with TESS. </p>
 <!-- ## Overview
 The TESS spacecraft hosts four 10-cm aperture cameras in an
 eccentric high-earth orbit in a 2-to-1 resonance with the Moon. This insures a thermally stable environment, provides the ability to remain on a single pointing for the
@@ -209,7 +216,7 @@ is between 20% and 62% with a median value of 45%. -->
 <br/>
 <em>Image Credit: Zach Berta-Thompson with data from Sullivan at al. (2015)</em></p>
 <h3 id="saturation">Saturation</h3>
-<p>Saturation is anticipated in the central pixel at I_C = 7.5. This, however, does not represent the bright limit for precise photometry. Excess charge from saturated pixels is conserved and spread across adjacent pixels in a CCD column until the excess reaches a CCD boundary. This leads to "bleed trails" extending above and below a saturated pixel, similar to what is seen for bright stars in Kepler/K2 photometry. Precision photometry can still be achieved by creating a photometric aperture that is large enough to encompass all excess charge and the TESS bright limit is anticipated to be I_C=4.</p>
+<p>Saturation is anticipated in the central pixel at I_C = 7.5. This, however, does not represent the bright limit for precise photometry. Excess charge from saturated pixels is conserved and spread across adjacent pixels in a CCD column until the excess reaches a CCD boundary. This leads to "bleed trails" extending above and below a saturated pixel, similar to what is seen for bright stars in Kepler/K2 photometry. Precision photometry can still be achieved by creating a photometric aperture that is large enough to encompass all excess charge. The TESS bright limit is anticipated to be I_C=4.</p>
 <!-- ### Solar pressure-induced drift
 
 
@@ -222,10 +229,10 @@ is between 20% and 62% with a median value of 45%. -->
 <h3 id="crowding">Crowding</h3>
 <p>Because the TESS pixels are large (21 arcsec), the TESS photometry for many targets will be contaminated by nearby objects. One of the goals of the TIC is to provide the information needed to estimate the contamination in the TESS band. This cannot be determined accurately ahead of time because it will depend on the pixels selected for the aperture photometry of each target and the exact position of the target in the aperture. However, it is possible for the TIC to provide some guidance concerning the level of expected contamination, for example by providing the number of known objects and their total brightness in the TESS band for some suitable standard aperture and photometer Pixel Response Function (PRF). </p>
 <h3 id="sky-coverage">Sky coverage</h3>
+<p>The fraction of sky coverage for different time baselines that TESS will have over the 2-year prime mission is listed below.</p>
 <p><br/>
 <img class="img-responsive" src="images/giprogram/tess_sky_coverage.png" style="max-width:67%;"/>
-<br/>
- Fraction of sky coverage for different time baselines that TESS will have over the 2-year prime mission.</p>
+<br/></p>
 <!-- MOVED TO PROPOSING INVESTIGATIONS
 ## Target selection
 The TESS Input Catalog (TIC) is a catalog of approximately half a billion objects generated to assist in planning and executing observations and data reduction. The TIC includes detailed information about the characteristics of more than 2 million stars that have been identified as potential targets for the TESS Planet Search. The TIC also includes basic information for optically luminous persistent astronomical objects that may influence the photometry of TESS targets. More information on the TIC can be found [here](proposing-investigations.html#target-selection)
@@ -308,7 +315,7 @@ Due to the observing strategy of the TESS mission, the TSSC notes that GI propos
       <div class="row">
         <div class="col-xs-12">
           <h5><i class="fa fa-external-link"></i><span class="icon-label">Related websites:</span></h5>
-          <a href="https://nasa.gov/tess" target="_blank">
+          <a href="https://tess.gsfc.nasa.gov/" target="_blank">
                   News, Media, and Education Resources
               </a>
           <br/>
