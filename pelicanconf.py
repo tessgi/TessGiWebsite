@@ -63,6 +63,7 @@ if pelican.__version__ >= '3.7.0':
     MARKDOWN = {
         'extension_configs': {
             'markdown.extensions.toc': {},
+            'markdown.extensions.tables': {},
         },
     }
 else:
