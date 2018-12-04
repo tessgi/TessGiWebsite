@@ -59,7 +59,16 @@ is between 20% and 62% with a median value of 45%. -->
 
 ### Typical noise levels
 
-A noise model for TESS photometry (figure below) shows the expected standard deviation of measurements of relative flux, as a function of apparent magnitude, based on 1 hr of data (Sullivan et al. 2015). For the brightest stars, the precision is limited by the systematic noise floor of 60 ppm. For the faintest stars, the precision is limited by noise from the zodiacal light (shown here for an ecliptic latitude of 30 deg). Over the range of apparent magnitudes 8-13, the photon-counting noise from the star is the dominant source of uncertainty.
+The figure below shows the 1-hour Combined Differential Photometric Precision (CDPP) from TESS Sector 1. The red points are the RMS CDPP measurements for the 15,889 light curves from Sector 1 plotted as a function of TESS magnitude. The blue x's are the uncertainties, scaled to 1-hour timescale. The purple curve is a moving 10th percentile of the RMS CDPP measurements, and the gold curve is a moving median of the 1-hour uncertainties. The photometric uncertainties are dominated by pointing jitter, but the best light curves are well below the mission requirements of (1) a systematic error floor at 60 ppm and (2) achieved CDPP at 10th magnitude of 230 ppm, which is sufficient to detect super-Earths around bright stars. For fainter stars around Tmag = 16, the photometric precision drops to about 1%, which is sufficient for many astrophysical studies such as supernovae and stellar variability. 
+
+
+<br/>
+<img class="img-responsive" style="max-width:67%;" src="images/giprogram/cdpp_sector1.png">
+<br/>
+
+
+
+<!-- A noise model for TESS photometry (figure below) shows the expected standard deviation of measurements of relative flux, as a function of apparent magnitude, based on 1 hr of data (Sullivan et al. 2015). For the brightest stars, the precision is limited by the systematic noise floor of 60 ppm. For the faintest stars, the precision is limited by noise from the zodiacal light (shown here for an ecliptic latitude of 30 deg). Over the range of apparent magnitudes 8-13, the photon-counting noise from the star is the dominant source of uncertainty.
 
 <br/>
 <img class="img-responsive" style="max-width:67%;" src="images/giprogram/tess_photometric_performance.png">
@@ -78,7 +87,7 @@ For fainter stars, such as a 16th magnitude star, the photometric precision drop
 <br/>
 <img class="img-responsive" style="max-width:67%;" src="images/giprogram/tess_noise_1percent.png">
 <br/>
-*Image Credit: Zach Berta-Thompson with data from Sullivan at al. (2015)*
+*Image Credit: Zach Berta-Thompson with data from Sullivan at al. (2015)* -->
 
 ### Saturation
 Saturation is anticipated in the central pixel at I_C = 7.5. This, however, does not represent the bright limit for precise photometry. Excess charge from saturated pixels is conserved and spread across adjacent pixels in a CCD column until the excess reaches a CCD boundary. This leads to "bleed trails" extending above and below a saturated pixel, similar to what is seen for bright stars in Kepler/K2 photometry. Precision photometry can still be achieved by creating a photometric aperture that is large enough to encompass all excess charge. The TESS bright limit is anticipated to be I_C=4.
