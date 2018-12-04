@@ -1,7 +1,8 @@
-Title: Education and Outreach
-Save_as: outreach.html
+Title: TESS Gallery
+Save_as: gallery.html
 
 [TOC]
+
 
 
 # TESS gallery
@@ -26,4 +27,9 @@ The [ABCs of Exoplanets](https://explorers.gsfc.nasa.gov/abcs/index.html) are a 
 <img class="img-responsive" style="max-width:80%;" src="images/tess-poster.png">
 *TESS poster available in high-res to download [here](https://explorers.gsfc.nasa.gov/abcs/downloads.html). Image Credit: NASA*
 <br/>
+
+
+
+
+
 
