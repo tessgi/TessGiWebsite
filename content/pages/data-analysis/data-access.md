@@ -3,14 +3,14 @@ Save_as: data-access.html
 
 [TOC]
 
-## MAST Tools
+## MAST tools
 
 The *official* archive for TESS mission data products is the
 [Mikulski Archive for Space Telescopes (MAST)](https://archive.stsci.edu/tess)
 which is hosted at the
 [Space Telescope Science Institute (STScI)](http://www.stsci.edu/). 
 
-In preparation for the first public data release, the MAST has created a [Summary page](http://archive.stsci.edu/tess/summary.html) with information on data access, tools, and resources. Brief descriptions are below, but see the MAST [Summary page](http://archive.stsci.edu/tess/summary.html) for more details.
+MAST has created a [Summary page](http://archive.stsci.edu/tess/summary.html) with information on data access, tools, and resources for TESS data. Brief descriptions are below, but see the MAST [Summary page](http://archive.stsci.edu/tess/summary.html) for more details.
 
 ### [MAST Portal](https://mast.stsci.edu)
 
@@ -33,7 +33,7 @@ Access to exoplanet parameters with references.
 ### TESSCut 
 
 Coming soon: Create time series pixel cutouts from the TESS full frame images.
-Find out what sectors/cameras/detectors a target was observed in.
+Find out what sectors / cameras / detectors a target was observed in.
 
 ### [Bulk downloads](http://archive.stsci.edu/tess/bulk_downloads.html)
 
@@ -76,10 +76,9 @@ below.
 * [K2 Ecliptic Plane Input Catalog (EPIC)](https://archive.stsci.edu/k2/epic.pdf)
 * [K2 Data Release Notes](data-products.html#k2-data-release-notes)
  -->
-## TESS product overview
+## TESS data product overview
 
-The [TESS mission page at MAST](https://archive.stsci.edu/tess/) contains the latest news and updates on TESS products. The following TESS data products and catalogs will be available
-through MAST:
+The [TESS mission page at MAST](https://archive.stsci.edu/tess/) contains the latest news and updates on TESS products. The following TESS data products and catalogs are currently available or will be soon through MAST:
 
 **Data products at MAST**
 
@@ -110,9 +109,9 @@ through MAST:
 * Observed targets by quarter
 
  -->
-The file types are presented in the table below.
+The file types are presented in the table below. Further information on these products can be found [at the MAST site](https://archive.stsci.edu/tess/all_products.html).
 <br/>
-<img class="img-responsive" style="min-width:50%;" src="images/data/tess_mast_products.png">
+<img class="img-responsive" style="min-width:50%;" src="images/data/tess_mast_products_2.png">
 <br/>
 
 
