@@ -16,6 +16,9 @@ A gallery of TESS videos, animations, still images, and other resources are main
 <br/>
 <br/>
 
+# TESS model files
+You can download files to create you very own TESS. This includes a paper model and files to create a 3D printed TESS spacecraft. All the details are [on our Github site](https://github.com/tessgi/tess-3d-printing-model).
+
 # ABCs of exoplanets
 
 The [ABCs of Exoplanets](https://explorers.gsfc.nasa.gov/abcs/index.html) are a set of exoplanet-related graphics developed for educational purposes, and can be downloaded in various forms [here](https://explorers.gsfc.nasa.gov/abcs/downloads.html).
