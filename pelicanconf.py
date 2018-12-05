@@ -123,8 +123,8 @@ MENUITEMS = (
             ('Media support', 'media.html'),
             )
          ),            
-        ('HEASARC', 'https://heasarc.gsfc.nasa.gov'),
-        ('FAQ', 'faq.html')
+        ('FAQ', 'faq.html'),
+        ('HEASARC', 'https://heasarc.gsfc.nasa.gov')
         )
 
 # Defines the "key information" box on the front page

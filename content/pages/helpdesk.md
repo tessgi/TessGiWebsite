@@ -48,7 +48,13 @@ You can contact the TESS Science Support Center at [tesshelp@bigbang.gsfc.nasa.g
 * data and calibration issues;
 * data analysis software.
 
-Your contact information will be used to answer your query and will not be used for commercial purposes or given away except as required by law. For more information, consult the [NASA Privacy Policy](http://www.nasa.gov/about/highlights/HP_Privacy.html).
+Your contact information will be used to answer your query and will
+not be used for commercial purposes or given away except as required
+by law. For more information, consult the
+[NASA Privacy Policy](http://www.nasa.gov/about/highlights/HP_Privacy.html).
+
+You can also refer to our [Frequently Asked Questions](faq.html) page
+for information on a variety of TESS topics.
 
 ### Mailing list
 

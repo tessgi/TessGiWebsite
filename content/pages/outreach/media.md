@@ -5,11 +5,11 @@ Save_as: media.html
 
 ## Media support 
 
-NASA can provide media support that can help amplify your results so that it reaches a wide audience. NASA Goddard Space Flight Center's Astrophysics Division Communications Team has extensive experience creating press products based on results: from coordinating and writing web features and press releases, producing supporting videos, and commissioning animations, and even planning a press event if the result is significant enough.
+NASA can provide media support that can help amplify your results so that they reach a wide audience. NASA Goddard Space Flight Center's Astrophysics Division Communications Team has extensive experience creating press products based on results: from coordinating and writing web features and press releases, producing supporting videos, and commissioning animations, and even planning a press event if the result is significant enough.
 
 ## TESS Media Coverage Request
 
-Submit a [TESS Media Coverage Request](https://asd.gsfc.nasa.gov/media_req_tess/) for media support consideration. The team needs an adequate heads up, about one month in most cases. Please consider submitting a media request at the same time you submit a paper for publication, and *before submitting it to a preprint server (like arXiv)*.
+Submit a [TESS Media Coverage Request](https://asd.gsfc.nasa.gov/media_req_tess/) for media support consideration. The team needs an adequate heads up of your coming results, about six weeks in most cases. Please consider submitting a media request at the same time you submit a paper for publication, and *before submitting it to a preprint server (like arXiv)*.
 
 <br/>
 <img class="img-responsive" style="max-width:80%;" src="images/mediaform.png">
