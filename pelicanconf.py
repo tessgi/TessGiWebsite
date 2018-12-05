@@ -96,15 +96,15 @@ MENUITEMS = (
             )
          ),
         ('Using TESS', (
-            ('Guest Investigator Program', 'proposing-investigations.html'),
             ('Status', 'status.html'),
+            ('Guest Investigator Program', 'proposing-investigations.html'),
             ('Technical details', 'observing-technical.html'),
             # ('Campaign fields', 'k2-fields.html'),
-            ('Approved programs', 'approved-programs.html'),
             # ('Data release notes', 'k2-data-release-notes.html'),
             ('Proposal tools', 'proposal-tools.html'),
+            ('Approved programs', 'approved-programs.html'),
             #('Discretionary targets', 'ddt.html'),
-            ('FAQ', 'faq.html'),
+            #('FAQ', 'faq.html'),
             # ('C9 Microlensing experiment', 'k2-c9.html'),
             # ('C16 Supernova experiment', 'supernova-experiment'),
             )
@@ -124,6 +124,7 @@ MENUITEMS = (
             )
          ),            
         ('HEASARC', 'https://heasarc.gsfc.nasa.gov'),
+        ('FAQ', 'faq.html')
         )
 
 # Defines the "key information" box on the front page
