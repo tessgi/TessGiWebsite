@@ -80,7 +80,8 @@ Yes. TESS Guest Investigators at US Institutions may apply for funding to suppor
 
 **Will proposals asking for FFI-only data be funded?**
 
-Yes!
+Yes! [More information can be found here](proposing-investigations.html). 
+
 <!-- Additionally, proposals asking for 2-min cadence data will be funded. However, we will not relegate 2-min cadence proposals to FFI-only proposals.-->
 
 ## Data availability
