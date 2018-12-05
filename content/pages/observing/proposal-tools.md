@@ -1,4 +1,4 @@
-Title: Proposal Tools
+Title: Proposal tools
 Save_as: proposal-tools.html
 
 [TOC]
@@ -27,7 +27,7 @@ We have developed software to aid in the development of GI proposals:
 
 We have [created a webtool](https://heasarc.gsfc.nasa.gov/cgi-bin/tess/webtess/wtv.py) that implements the functionality of ticgen and tvguide. This is our recommended avenue to accessing these utilities. -->
 
-### Web TESS Viewing Tool
+### Web TESS Viewing tool
 The [Web TESS Viewing (WTV) tool](https://heasarc.gsfc.nasa.gov/cgi-bin/tess/webtess/wtv.py) allows users to check whether a target potentially falls within the TESS field of view (FOV). In addition, WTV can be used to calculate the brightness of a target in the TESS bandpass.
 
 The user provides the name (or TIC ID, or RA/DEC) of an object, and the tool will output which sector and camera the object is expected to be observed with (or null results if it will not fall in the TESS FOV).

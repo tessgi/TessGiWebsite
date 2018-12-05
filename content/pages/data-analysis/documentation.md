@@ -3,7 +3,12 @@ Save_as: documentation.html
 
 [TOC]
 
-### Summary
+## Summary
+
+The latest data release notes (DRN) and the TESS Instrument Handbook
+can be found at the [MAST page for
+TESS](https://archive.stsci.edu/tess/index.html#documents).
+
 <table class="table table-striped table-hover" style="max-width:55em;">
 
   <tr>
@@ -17,7 +22,9 @@ Save_as: documentation.html
   </tr>
 
   <tr>
-    <td style="width: 35em;"><a href='http://adsabs.harvard.edu/abs/2015ApJ...809...77S'>TESS science yield predictions</a></td>
+    <td style="width: 35em;"><a
+    href='http://adsabs.harvard.edu/abs/2015ApJ...809...77S'>TESS
+    science yield predictions</a>, <a href='http://adsabs.harvard.edu/abs/2017ApJ...837...99S'>and erratum</a></td>
     <td>Sullivan et al., 2015</td>
   </tr>
 
@@ -44,6 +51,26 @@ Save_as: documentation.html
 </table>
 
 
+Additional resources can be found below:
+
+<table class="table table-striped table-hover" style="max-width:55em;">
+
+  <tr>
+    <td style="width: 35em;"><a
+    href='data/tess-response-function-v1.0.csv'>TESS bandpass response function</a></td>
+    <td> </td>
+  </tr>
+
+  <tr>
+    <td style="width: 35em;"><a
+    href='data/core-science-targets-v2.csv'>Top 100,000 priority
+    targets in the southern ecliptic hemisphere</a></td>
+    <td> </td>
+  </tr>
+
+</table>
+
+
 ## TESS Observatory Guide
 A number of documents have been created to describe the TESS mission. We recommend that users start with the **[TESS Observatory Guide](docs/TESS_observatory_guide_v1.1.pdf)**. This guide serves two purposes. The first is to provide a comprehensive description of the TESS observatory design, operations, and capabilities. The second is to provide potential Guest Investigator (GI) proposers detailed information regarding the TESS GI program. This includes descriptions of GI program procedures, services, and tools. 
 
@@ -57,16 +84,21 @@ TESS science yield predictions: [Sullivan et al., 2015, ApJ, 809, 77](http://ads
 TESS Input Catalog and Candidate Target List description: [Stassun et al., 2017, eprint arXiv:1706.00495](http://adsabs.harvard.edu/abs/2017arXiv170600495S)
 
 
-A full list of TESS-related articles can be found under [Publications](publications.html)
+A full list of TESS-related articles can be found on our
+[publications page](publications.html).
 
 
 ## Data processing papers
 
-The TESS Science Processing Operations Center (SPOC) at NASA Ames Research Center is developing a TESS data processing pipeline that will generate calibrated pixels and light curves, search for periodic transit events, and generate validation products for the transit-like features in the light curves. All TESS SPOC data products will be archived to the Mikulski Archive for Space Telescopes (MAST).
+The TESS Science Processing Operations Center (SPOC) at NASA Ames
+Research Center developed a TESS data processing pipeline that
+generates calibrated pixels and light curves, searches for periodic
+transit events, and generates validation products for the transit-like
+features in the light curves. All TESS SPOC data products are or will be archived to the Mikulski Archive for Space Telescopes (MAST).
 
-A description of the SPOC pipeline can be found here: [Jenkins et al., 2016](http://adsabs.harvard.edu/abs/2016SPIE.9913E..3EJ). A PDF version of the article can be downloaded [here](docs/jenkinsSPIE2016-copyright.pdf) provided acknowledgement of the full SPIE citation: Jenkins et al. 2016. "The TESS science processing operations center", Proc. SPIE 9913, Software and Cyberinfrastructure for Astronomy IV, 99133E (August 8, 2016); [doi:10.1117/12.2233418](http://dx.doi.org/10.1117/12.2233418) 
+A description of the SPOC pipeline can be found here: [Jenkins et al., 2016](http://adsabs.harvard.edu/abs/2016SPIE.9913E..3EJ). A PDF version of the article can be downloaded [here](docs/jenkinsSPIE2016-copyright.pdf) provided acknowledgement of the full SPIE citation: Jenkins et al. 2016. "The TESS science processing operations center", Proc. SPIE 9913, Software and Cyberinfrastructure for Astronomy IV, 99133E (August 8, 2016); [doi:10.1117/12.2233418](http://dx.doi.org/10.1117/12.2233418). 
 
-The SPOC pipeline is based on the Kepler Science Processing Pipeline which is documented [here](http://adsabs.harvard.edu/abs/2010ApJ...713L..87J), and references therein.
+The SPOC pipeline is based on the Kepler Science Processing Pipeline, which is documented [here](http://adsabs.harvard.edu/abs/2010ApJ...713L..87J), and references therein.
 
 The [TESS Science Data Products Description Document](https://archive.stsci.edu/missions/tess/doc/EXP-TESS-ARC-ICD-TM-0014.pdf) describes data product formats. Files are produced primarily by the TESS Science Processing Operations Center (SPOC) at NASA Ames Research Center.
 

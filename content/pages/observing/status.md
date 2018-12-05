@@ -1,4 +1,4 @@
-Title: Mission Status
+Title: Mission status
 Save_as: status.html
 
 [TOC]

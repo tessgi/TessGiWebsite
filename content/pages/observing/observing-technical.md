@@ -1,4 +1,4 @@
-Title: Observing Technical Details
+Title: Observing technical details
 Save_as: observing-technical.html
 
 [TOC]
