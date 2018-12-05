@@ -7,7 +7,7 @@ in August 2015, using pelican-bootstrap and flatly.
 >
 
 <head>
-    <title>Proposal Tools - TESS Science Support Center</title>
+    <title>Proposal tools - TESS Science Support Center</title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
@@ -17,7 +17,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - TESS Science Support Center" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2018-12-04" />
+    <meta name="dc.date.modified" content="2018-12-05" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Users of TESS Data" />
     <meta name="dc.identifier" content="https://heasarc.gsfc.nasa.gov/docs/tess/" />
@@ -44,7 +44,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta property="og:site_name" content="TESS" />
     <meta property="og:type" content="article"/>
-    <meta property="og:title" content="Proposal Tools"/>
+    <meta property="og:title" content="Proposal tools"/>
     <meta property="og:url" content="./pages/proposal-tools.html"/>
     <meta property="og:description" content="Target list creation The first stop for TESS GI proposers when preparing their proposals should be the STScI/MAST TESS pages. Here, proposers can follow tutorials to learn how to access the Target Input Catalog (TIC) and Candidate Target List (CTL), crossmatch their targets with these catalogs, and create output …" />
         <meta property="og:image"
@@ -102,12 +102,11 @@ in August 2015, using pelican-bootstrap and flatly.
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Using TESS <b class="caret"></b></a>
                             <ul class="dropdown-menu">
-                                <li><a href="./proposing-investigations.html">Guest Investigator Program</a></li>
                                 <li><a href="./status.html">Status</a></li>
+                                <li><a href="./proposing-investigations.html">Guest Investigator Program</a></li>
                                 <li><a href="./observing-technical.html">Technical details</a></li>
-                                <li><a href="./approved-programs.html">Approved programs</a></li>
                                 <li><a href="./proposal-tools.html">Proposal tools</a></li>
-                                <li><a href="./faq.html">FAQ</a></li>
+                                <li><a href="./approved-programs.html">Approved programs</a></li>
                             </ul>
                         </li>
                         <li class="dropdown">
@@ -126,6 +125,7 @@ in August 2015, using pelican-bootstrap and flatly.
                                 <li><a href="./media.html">Media support</a></li>
                             </ul>
                         </li>
+                            <li><a href="./faq.html">FAQ</a></li>
                             <li><a href="https://heasarc.gsfc.nasa.gov">HEASARC</a></li>
             </ul>
             
@@ -148,7 +148,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <div class="col-sm-9" data-spy="scroll" data-target="#sidebarCol">
         <section id="content" class="body">
-            <h1 class="entry-title">Proposal Tools</h1>
+            <h1 class="entry-title">Proposal tools</h1>
             <div class="entry-content">
                 
 <h2 id="target-list-creation">Target list creation</h2>
@@ -167,7 +167,7 @@ in August 2015, using pelican-bootstrap and flatly.
 <!--[TVGuide](#tvguide) helps with determining whether a target is observable in Cycle 1, and [ticgen](#ticgen) is used to calculate the brightness of a target in the TESS bandpass. In addition, resources have been created by various other team to aid in writing proposals.
 
 We have [created a webtool](https://heasarc.gsfc.nasa.gov/cgi-bin/tess/webtess/wtv.py) that implements the functionality of ticgen and tvguide. This is our recommended avenue to accessing these utilities. -->
-<h3 id="web-tess-viewing-tool">Web TESS Viewing Tool</h3>
+<h3 id="web-tess-viewing-tool">Web TESS Viewing tool</h3>
 <p>The <a href="https://heasarc.gsfc.nasa.gov/cgi-bin/tess/webtess/wtv.py">Web TESS Viewing (WTV) tool</a> allows users to check whether a target potentially falls within the TESS field of view (FOV). In addition, WTV can be used to calculate the brightness of a target in the TESS bandpass.</p>
 <p>The user provides the name (or TIC ID, or RA/DEC) of an object, and the tool will output which sector and camera the object is expected to be observed with (or null results if it will not fall in the TESS FOV).</p>
 <p>For larger sets of targets, WTV will take an input file (csv) with RA and DEC (in decimal) and return the potential visibility (sector/camera) per object.</p>
@@ -304,7 +304,7 @@ The header of the file must contain one or more of Tmag, Vmag, Jmag, Bmag, Bphma
 <ul>
 <li><a href="#target-list-creation">Target list creation</a></li>
 <li><a href="#software-tools">Software tools</a><ul>
-<li><a href="#web-tess-viewing-tool">Web TESS Viewing Tool</a></li>
+<li><a href="#web-tess-viewing-tool">Web TESS Viewing tool</a></li>
 <li><a href="#ticgen">ticgen</a></li>
 <li><a href="#filtergraph">Filtergraph</a></li>
 </ul>
