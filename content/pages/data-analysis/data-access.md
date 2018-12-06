@@ -33,7 +33,7 @@ Access to exoplanet parameters with references.
 ### [TESSCut](https://mast.stsci.edu/tesscut/)
 
 Create time series pixel cutouts from the TESS full frame images.
-Find out what sectors / cameras / detectors a target was observed in.
+Find out what sectors / cameras / detectors a target was observed in. Further information can be found [here](astroquery.readthedocs.io/en/latest/mast/mast.html#tesscut).
 
 ### [Bulk downloads](http://archive.stsci.edu/tess/bulk_downloads.html)
 
@@ -43,9 +43,9 @@ Download all full frame images for a given sector.
 Download the entire TOI or TCE table.
 Download the current TIC and CTL.
 
-### Archive manual 
+### [Archive manual](outerspace.stsci.edu/display/TESS/TESS+Archive+Manual)
 
-Coming soon: Step-by-step instructions on how to use MAST web interfaces for TESS.
+Step-by-step instructions on how to use MAST web interfaces for TESS.
 Get Python notebook tutorials on using TESS data and MAST tools.
 Access the TIC and CTL "live" release notes.
 Learn how to contribute TESS-related data products to MAST.

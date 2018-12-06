@@ -44,7 +44,8 @@ The lightkurve git repository is [here](https://github.com/KeplerGO/lightkurve).
 Several tutorials exist to introduce the general user to TESS data
 analysis.
 
-* [Python notebooks from STScI can be found here](https://github.com/spacetelescope/notebooks/tree/master/notebooks/MAST/TESS).
+* [Data search tutorials from MAST can be found here](https://outerspace.stsci.edu/display/TESS/6.0+-+Data+Search+Tutorials).
+* [Python notebooks from MAST can be found here](https://github.com/spacetelescope/notebooks/tree/master/notebooks/MAST/TESS).
 * [Python notebooks from the Kepler/K2 GO Office can be found here](http://docs.lightkurve.org/).
 
 

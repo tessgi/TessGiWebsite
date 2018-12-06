@@ -11,9 +11,25 @@ TESS](https://archive.stsci.edu/tess/index.html#documents).
 
 <table class="table table-striped table-hover" style="max-width:55em;">
 
+<tr>
+    <td style="width: 35em;"><a
+    href='https://archive.stsci.edu/missions/tess/doc/TESS_Instrument_Handbook_v0.1.pdf'>TESS
+    Instrument Handbook v0.1</a></td>
+    <td>Vanderspek et al., 2018</td>
+  </tr>
+
+<tr>
+    <td style="width: 35em;"><a
+    href='https://archive.stsci.edu/tess/tess_drn.html'>TESS
+    Data Release Notes</a></td>
+    <td>Fausnaugh et al., 2018</td>
+  </tr>
+
   <tr>
-    <td style="width: 35em;"><a href='docs/TESS_observatory_guide_v1.1.pdf'>TESS Observatory Guide</a></td>
-    <td>Schlieder et al., 2017 (v1.1)</td>
+    <td style="width: 35em;"><a
+    href='docs/TESS_observatory_guide_v1.1.pdf'>TESS Observatory Guide
+    v1.1</a></td>
+    <td>Schlieder et al., 2017</td>
   </tr>
 
   <tr>
