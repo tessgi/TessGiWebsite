@@ -52,15 +52,8 @@ analysis.
 
 ## Community tools
 
-Many tools and software were developed for the Kepler Mission, and
-Kepler’s extended mission K2. Kepler and K2 had three data modes: long
-cadence (30 min) and short cadence (1 min) postage stamps, and
-quarterly FFIs (30 min). TESS has two data modes, short cadence (2
-min) postage stamps and 30 min cadence FFIs. The data formats, target
-pixel files (TPF) and full frame images (FFIs) are similar for
-Kepler/K2 and TESS so many of the tools listed below can generally be applied
-to both Kepler/K2 and TESS data. We also list general tools that users
-may find useful for data analysis and interpretation. 
+This list includes tools and software developed specifically for TESS data, as well as tools developed for Kepler and K2 that can be used or modified for TESS. The data formats are similar for Kepler/K2 and TESS: target pixel files (TPF) and full frame images (FFIs). Kepler and K2 had three data modes: long cadence (30 min) and short cadence (1 min) postage stamps (TPFs), and
+quarterly FFIs (30 min). TESS has two data modes, short cadence (2 min) postage stamps and 30 min cadence FFIs. Note that many tools are under development, and some are more robust than others. The TESS GI Office plans to update this list as new tools, software, and tutorials become available. If you have any tools you would like us to include, please contact us at [tesshelp@bigbang.gsfc.nasa.gov](mailto:tesshelp@bigbang.gsfc.nasa.gov).
 
 
 ### Detrending and analysis
@@ -152,6 +145,13 @@ may find useful for data analysis and interpretation.
 </td>
   </tr>
 
+
+  <tr>
+    <td style="width: 15em;"><a
+    href='https://github.com/saigrain/k2scTess'>k2scTess</a></td>
+    <td>TESS systematics correction via simultaneous modelling of stellar variability and jitter-dependent systematics using Gaussian Process regression.
+</td>
+  </tr>
 
 
 
