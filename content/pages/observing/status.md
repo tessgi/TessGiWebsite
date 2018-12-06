@@ -57,7 +57,7 @@ The start and end dates for each sector, and the GI target list (csv file) for e
     <td>South</td>
     <td>2018&nbsp;Jul&nbsp;25</td>
     <td>2018&nbsp;Aug&nbsp;22</td>
-    <td>201 Dec 06</td>
+    <td>2018 Dec 06</td>
     <td><a href='data/target_lists/sector001_targets_lists/GI_S001.csv'>Download</a></td>
 
     <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a></td>
