@@ -346,7 +346,7 @@ Tutorial [here](github.com/waqasbhatti/astrobase-notebooks) -->
 
   <tr>
     <td style="width: 15em;"><a
-    href='https://archive.stsci.edu/tess/summary.html '>TESSCut</a></td>
+    href='https://mast.stsci.edu/tesscut/ '>TESSCut</a></td>
     <td> Create time series pixel cutouts from the TESS FFIs. Find out
     what sectors/cameras/detectors a target was observed in.
 </td>

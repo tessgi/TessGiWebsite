@@ -30,9 +30,9 @@ Find MAST data (including TESS) for known planets and TOIs, matched to orbital p
 Plot sector-stitched DV light curves.
 Access to exoplanet parameters with references.
 
-### TESSCut 
+### [TESSCut](https://mast.stsci.edu/tesscut/)
 
-Coming soon: Create time series pixel cutouts from the TESS full frame images.
+Create time series pixel cutouts from the TESS full frame images.
 Find out what sectors / cameras / detectors a target was observed in.
 
 ### [Bulk downloads](http://archive.stsci.edu/tess/bulk_downloads.html)
