@@ -60,7 +60,7 @@ The start and end dates for each sector, and the GI target list (csv file) for e
     <td>201 Dec 06</td>
     <td><a href='data/target_lists/sector001_targets_lists/GI_S001.csv'>Download</a></td>
 
-    <td style="min-width: 12em;">Data downlinked.</td>
+    <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a></td>
   </tr>
 
 
@@ -72,8 +72,7 @@ The start and end dates for each sector, and the GI target list (csv file) for e
     <td>2018 Dec 06</td>
     <td><a href='data/target_lists/sector002_targets_lists/GI_S002.csv'>Download</a></td>
 
-    <td style="min-width: 12em;">Data downlinked
-    </td>
+    <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a></td>
   </tr>
 
 
