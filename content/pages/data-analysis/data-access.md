@@ -19,12 +19,12 @@ Download full frame images for a few CCDs.
 Conduct small searches within the TIC or CTL.
 Find data from other missions for your target.
 
-### [MAST API/astroquery](mast.stsci.edu/api/v0/astroquery.readthedocs.io)
+### [MAST API/astroquery](https://astroquery.readthedocs.io/en/latest/mast/mast.html)
 
 Search for, and retrieve, TESS data products programmatically based on a list of coordinates or target names.
 Interact with observational data, TIC, and CTL catalogs in programs you write.
 
-### [exo.MAST](exo.mast.stsci.edu)
+### [exo.MAST](https://exo.mast.stsci.edu/)
 
 Find MAST data (including TESS) for known planets and TOIs, matched to orbital phase.
 Plot sector-stitched DV light curves.
@@ -33,7 +33,7 @@ Access to exoplanet parameters with references.
 ### [TESSCut](https://mast.stsci.edu/tesscut/)
 
 Create time series pixel cutouts from the TESS full frame images.
-Find out what sectors / cameras / detectors a target was observed in. Further information can be found [here](astroquery.readthedocs.io/en/latest/mast/mast.html#tesscut).
+Find out what sectors / cameras / detectors a target was observed in. Further information can be found [here](https://astroquery.readthedocs.io/en/latest/mast/mast.html#tesscut).
 
 ### [Bulk downloads](http://archive.stsci.edu/tess/bulk_downloads.html)
 
@@ -43,7 +43,7 @@ Download all full frame images for a given sector.
 Download the entire TOI or TCE table.
 Download the current TIC and CTL.
 
-### [Archive manual](outerspace.stsci.edu/display/TESS/TESS+Archive+Manual)
+### [Archive manual](https://outerspace.stsci.edu/display/TESS/TESS+Archive+Manual)
 
 Step-by-step instructions on how to use MAST web interfaces for TESS.
 Get Python notebook tutorials on using TESS data and MAST tools.
