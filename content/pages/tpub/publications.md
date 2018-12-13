@@ -5,8 +5,7 @@ Save_as: publications.html
 
 We request that scientific publications using data obtained from the TESS project include one of the following acknowledgments:
 
-*This paper includes data collected by the TESS mission. Funding for
-the TESS mission is provided by the NASA Explorer Program.*
+*This paper includes data collected by the TESS mission, which are publicly available from the Mikulski Archive for Space Telescopes (MAST). Funding for the TESS mission is provided by NASA's Science Mission directorate*
 
 ## Publication database
 
