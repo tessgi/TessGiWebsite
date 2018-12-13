@@ -94,6 +94,10 @@ The approximate date of data availability for a given sector can be found [on ou
 
  No. All GI data will become immediately public when it arrives in the TESS archive at MAST.
 
+ ** Is there a standard acknowledgement?**
+
+ This paper includes data collected by the TESS mission, which are publicly available from the Mikulski Archive for Space Telescopes (MAST). Funding for the TESS mission is provided by NASA's Science Mission directorate.
+
 ## Data processing
 
 **How will TESS GI targets be processed?**
