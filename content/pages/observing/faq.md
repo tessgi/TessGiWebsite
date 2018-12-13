@@ -94,7 +94,7 @@ The approximate date of data availability for a given sector can be found [on ou
 
  No. All GI data will become immediately public when it arrives in the TESS archive at MAST.
 
- ** Is there a standard acknowledgement?**
+ ** Is there a standard acknowledgement to use when publishing TESS data?**
 
  This paper includes data collected by the TESS mission, which are publicly available from the Mikulski Archive for Space Telescopes (MAST). Funding for the TESS mission is provided by NASA's Science Mission directorate.
 
@@ -120,7 +120,7 @@ There are a number of tools available for data analysis, developed both by the G
 
 **How can I get media coverage for my awesome new science result from TESS?**
 
-You can request support for your exciting new science result from NASA Goddard's Astrophysics Divisions Communications Team by following the instructions [on this webpage](media.html). People are encouraged to submit requests for media support ~6 weeks before the paper is expected to be published by a journal.
+You can request support for your exciting new science result from NASA Goddard's Astrophysics Divisions Communications Team by following the instructions [on this webpage](media.html). People are encouraged to submit requests for media support 6 weeks before the paper is expected to be published by a journal.
 
 **Where can I send my suggestion for an idea I'd like to see incorporated into the TESS GI Program, or a software tool I'd like to suggest be developed?**
 
