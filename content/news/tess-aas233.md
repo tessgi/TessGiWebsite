@@ -49,16 +49,11 @@ Special Session 10:00 am - 11:30 am (Room 6A) </b>
 * 10:00-10:15 Roland Vanderspek (Invited) - <i>The Transiting Exoplanet Survey Satellite (TESS): Mission Status and Early Results</i>
 * 10:15-10:30 Jennifer Van Saders (Invited) - <i> Stellar Astrophysics
 with TESS </i>
-* 10:30-10:40 David Latham (Invited) - <i> Confirmation and
-Characterization of TESS Planet Candidates </i>
-* 10:40-10:50 Adina Feinstein - <i> A Complete Survey of the Southern
-Sky with TESS Full-Frame Images </i>
-* 10:50-11:00 Eric Agol - <i> Exact Model for Phase Curves, Eclipses,
-and transits of stars and their planets for TESS </i>
-* 11:00-11:10 Rachel Matson - <i> Speckle Imaging of TESS Host Stars
-</i>
-* 11:10-11:20 Derek Buzasi - <i> Extracting Asteroseismology from TESS
-FFIs: The TASOC Pipeline </i>
+* 10:30-10:40 David Latham (Invited) - <i> Confirmation and Characterization of TESS Planet Candidates </i>
+* 10:40-10:50 Adina Feinstein - <i> A Complete Survey of the Southern Sky with TESS Full-Frame Images </i>
+* 10:50-11:00 Eric Agol - <i> Exact Model for Phase Curves, Eclipses, and transits of stars and their planets for TESS </i>
+* 11:00-11:10 Rachel Matson - <i> Speckle Imaging of TESS Host Stars</i>
+* 11:10-11:20 Derek Buzasi - <i> Extracting Asteroseismology from TESS FFIs: The TASOC Pipeline </i>
 * 11:20-11:30 Michael Fausnaugh - <i> Transient Science with TESS </i>
 
 <br>
