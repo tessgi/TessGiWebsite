@@ -20,3 +20,8 @@ Summary: We propose observing 35 RGB target stars in the TESS Cycle 1 field usin
 
 # Sector 004 targets observed (1)
 332890609,34.8368,-2.9789,2.26,G011144
+
+# Sector 006 targets observed (3)
+50621545,82.2537,-4.6926,4.91,G011144
+251261382,95.6816,-2.1956,4.15,G011144
+46560321,84.7198,-14.041,5.54,G011144

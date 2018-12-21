@@ -20,3 +20,6 @@ Summary: We propose TESS monitoring of a selection of seven bright cataclysmic v
 
 # Sector 005 targets observed (1)
 454190342,78.9226,1.0779,14.94,G011235
+
+# Sector 006 targets observed (1)
+272551828,121.8656,-76.5335,14.89,G011268;G011235
