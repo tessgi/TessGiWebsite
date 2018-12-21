@@ -2,34 +2,13 @@ Title: TESS Sessions at the AAS Meeting January 2019
 Date: 2018-12-21 12:00
 Author: Knicole Colon
 
-The TESS team is looking forward to sharing our excitement about the
-first science results, our high expectations for the two-year science
-survey, and our plans for the extended mission, at the upcoming winter
-AAS meeting in Seattle next month.
+The TESS team is looking forward to sharing our excitement about the first science results, our high expectations for the two-year science survey, and our plans for the extended mission, at the upcoming winter AAS meeting in Seattle next month.
 
-Stop by our booth in the exhibit
-hall to find out how you can access data from the early observation
-sectors, learn about promising planet candidates, propose new Guest
-Investigator projects in Cycle 2, and get access to software tools for
-analyzing target pixel files, light curves and full frame
-images.
+Stop by our booth in the exhibit hall to find out how you can access data from the early observation sectors, learn about promising planet candidates, propose new Guest Investigator projects in Cycle 2, and get access to software tools for analyzing target pixel files, light curves and full frame images.
 
-Be sure to join us for light snacks
-and beverages during our special evening session on Monday, January 7
-starting at 7:00pm, which will feature a mission update, early science results from
-exoplanet discovery to stellar astrophysics and time domain astronomy,
-and a Guest Investigator program update. You are also invited to
-attend our two special
-sessions taking place on Tuesday, January 8 at 10:00am and Thursday,
-January 10 at 2:00pm to hear even more about the latest TESS results and plans for
-exoplanets, stars and transients. Stop by the NASA traveling
-Hyperwall on Wednesday, January 9, when two team members will present mission
-overviews.
+Be sure to join us for light snacks and beverages during our special evening session on Monday, January 7 starting at 7:00pm, which will feature a mission update, early science results from exoplanet discovery to stellar astrophysics and time domain astronomy, and a Guest Investigator program update. You are also invited to attend our two special sessions taking place on Tuesday, January 8 at 10:00am and Thursday, January 10 at 2:00pm to hear even more about the latest TESS results and plans for exoplanets, stars and transients. Stop by the NASA traveling Hyperwall on Wednesday, January 9, when two team members will present mission overviews.
 
-Please plan to join us at one or
-more of these activities, and chat with us about how your own TESS
-research projects are going, and what you’d like to see in the
-future. A summary of the TESS activities at AAS 233 is below.
+Please plan to join us at one or more of these activities, and chat with us about how your own TESS research projects are going, and what you’d like to see in the future. A summary of the TESS activities at AAS 233 is below.
 
 <br>
 <b> Monday, January 7
