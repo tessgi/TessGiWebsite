@@ -110,8 +110,7 @@ The start and end dates for each sector, and the GI target list (csv file) for e
     <td>2019 Feb 25</td>
     <td><a href='data/target_lists/sector005_targets_lists/GI_S005.csv'>Download</a></td>
 
-    <td style="min-width: 12em;">Currently being observed
-
+    <td style="min-width: 12em;">Data downlinked
     </td>
   </tr>
 
@@ -119,13 +118,12 @@ The start and end dates for each sector, and the GI target list (csv file) for e
   <tr>
     <td><a href="#s006">s006</a></td>
     <td>South</td>
-    <td>2018&nbsp;Dec&nbsp;11</td>
+    <td>2018&nbsp;Dec&nbsp;15</td>
     <td>2019&nbsp;Jan&nbsp;07</td>
     <td>2019 Mar 25</td>
-    <td></td>
+    <td><a href='data/target_lists/sector006_targets_lists/GI_S006.csv'>Download</a></td>
 
-    <td style="min-width: 12em;">
-
+    <td style="min-width: 12em;">Currently being observed
     </td>
   </tr>
 
@@ -236,7 +234,6 @@ The start and end dates for each sector, and the GI target list (csv file) for e
 Illustrations showing all targets (in red) observed at 2-minute
 cadence for each camera and sector.
 
-
 <div class="row">
     <div class="col-md-6 text-center">
       <a href="images/sector-plots/sector-plots.001.jpeg">
@@ -270,6 +267,15 @@ cadence for each camera and sector.
       <a href="images/sector-plots/sector-plots.005.jpeg">
         <img id="s005" src="images/sector-plots/sector-plots.005.jpeg" class="img-responsive"><br>
         Sector 5
+      </a>
+    </div>
+</div>
+</div>
+<div class="row">
+    <div class="col-md-6 text-center">
+      <a href="images/sector-plots/sector-plots.006.jpeg">
+        <img id="s005" src="images/sector-plots/sector-plots.006.jpeg" class="img-responsive"><br>
+        Sector 6
       </a>
     </div>
 </div>
