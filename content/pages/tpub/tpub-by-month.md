@@ -63,6 +63,10 @@ Claret, Antonio
 Brimacombe, J., Vallely, P., Shields, J., et al.    
 2018, not refereed ([2018ATel12149....1B](http://adsabs.harvard.edu/abs/2018ATel12149....1B))  
 
+3. [OBSERVATIONS OF THE KEPLER FIELD WITH TESS: PREDICTIONS FOR PLANET YIELD AND OBSERVABLE FEATURES](http://adsabs.harvard.edu/abs/2018arXiv181002826C)  
+Christ, Callista N., Montet, Benjamin T., Fabrycky, Daniel C.    
+2018, not refereed ([2018arXiv181002826C](http://adsabs.harvard.edu/abs/2018arXiv181002826C))  
+
 
 2018-09
 -------
@@ -94,6 +98,22 @@ Brimacombe, J., Vallely, P., Stanek, K. Z., et al.
 1. [SEARCHING FOR NEW WHITE DWARF PULSATORS FOR TESS OBSERVATIONS AT KONKOLY OBSERVATORY](http://adsabs.harvard.edu/abs/2018MNRAS.478.2676B)  
 Bognár, Zs, Kalup, Cs, Sódor, Á., et al.    
 2018, refereed ([2018MNRAS.478.2676B](http://adsabs.harvard.edu/abs/2018MNRAS.478.2676B))  
+
+
+2018-06
+-------
+
+1. [UNDERSTANDING SUPER-EARTHS WITH MINERVA-AUSTRALIS AT USQ'S MOUNT KENT OBSERVATORY](http://adsabs.harvard.edu/abs/2018arXiv180609282W)  
+Wittenmyer, Robert A, Horner, Jonathan, Carter, Brad D, et al.    
+2018, not refereed ([2018arXiv180609282W](http://adsabs.harvard.edu/abs/2018arXiv180609282W))  
+
+
+2018-05
+-------
+
+1. [AN ESTIMATE OF THE YIELD OF SINGLE-TRANSIT PLANETARY EVENTS FROM THE TRANSITING EXOPLANET SURVEY SATELLITE](http://adsabs.harvard.edu/abs/2018arXiv180500956V)  
+Villanueva, Steven, Jr., Dragomir, Diana, Gaudi, B. Scott    
+2018, not refereed ([2018arXiv180500956V](http://adsabs.harvard.edu/abs/2018arXiv180500956V))  
 
 
 2018-04
@@ -130,6 +150,10 @@ Oelkers, Ryan J., Rodriguez, Joseph E., Stassun, Keivan G., et al.
 3. [THE TESS-HERMES SURVEY DATA RELEASE 1: HIGH-RESOLUTION SPECTROSCOPY OF THE TESS SOUTHERN CONTINUOUS VIEWING ZONE](http://adsabs.harvard.edu/abs/2018MNRAS.473.2004S)  
 Sharma, Sanjib, Stello, Dennis, Buder, Sven, et al.    
 2018, refereed ([2018MNRAS.473.2004S](http://adsabs.harvard.edu/abs/2018MNRAS.473.2004S))  
+
+4. [PREDICTED NUMBER, MULTIPLICITY, AND ORBITAL DYNAMICS OF TESS M DWARF EXOPLANETS](http://adsabs.harvard.edu/abs/2018arXiv180104949B)  
+Ballard, Sarah    
+2018, not refereed ([2018arXiv180104949B](http://adsabs.harvard.edu/abs/2018arXiv180104949B))  
 
 
 2017-12
