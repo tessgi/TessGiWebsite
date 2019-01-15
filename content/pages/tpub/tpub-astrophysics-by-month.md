@@ -4,20 +4,20 @@ Save_as: tpub-astrophysics-by-month.html
 [TOC]
 
 
-2018-12
--------
-
-1. [A SYNTHETIC SAMPLE OF SHORT-CADENCE SOLAR-LIKE OSCILLATORS FOR TESS](http://adsabs.harvard.edu/abs/2018ApJS..239...34B)  
-Ball, Warrick H., Chaplin, William J., Schofield, Mathew, et al.    
-2018, refereed ([2018ApJS..239...34B](http://adsabs.harvard.edu/abs/2018ApJS..239...34B))  
-
-
 2018-11
 -------
 
 1. [TESS IN THE SOLAR SYSTEM](http://adsabs.harvard.edu/abs/2018PASP..130k4503P)  
 Pál, András, Molnár, László, Kiss, Csaba    
 2018, refereed ([2018PASP..130k4503P](http://adsabs.harvard.edu/abs/2018PASP..130k4503P))  
+
+2. [DETECTING UNRESOLVED BINARIES IN TESS DATA WITH SPECKLE IMAGING](http://adsabs.harvard.edu/abs/2018arXiv181102108M)  
+Matson, Rachel A., Howell, Steve B., Ciardi, David    
+2018, pre-print ([2018arXiv181102108M](http://adsabs.harvard.edu/abs/2018arXiv181102108M))  
+
+3. [FLIPER: CLASSIFYING TESS PULSATING STARS](http://adsabs.harvard.edu/abs/2018arXiv181112140B)  
+Bugnet, L., García, R. A., Davies, G. R., et al.    
+2018, pre-print ([2018arXiv181112140B](http://adsabs.harvard.edu/abs/2018arXiv181112140B))  
 
 
 2018-10
@@ -51,6 +51,10 @@ Oelkers, Ryan J., Stassun, Keivan G.
 Brimacombe, J., Vallely, P., Stanek, K. Z., et al.    
 2018, not refereed ([2018ATel11976....1B](http://adsabs.harvard.edu/abs/2018ATel11976....1B))  
 
+2. [PROSPECTS OF FINDING DETACHED BLACK HOLE-STAR BINARIES WITH TESS](http://adsabs.harvard.edu/abs/2018arXiv180810856M)  
+Masuda, Kento, Hotokezaka, Kenta    
+2018, pre-print ([2018arXiv180810856M](http://adsabs.harvard.edu/abs/2018arXiv180810856M))  
+
 
 2018-07
 -------
@@ -66,6 +70,22 @@ Bognár, Zs, Kalup, Cs, Sódor, Á., et al.
 1. [A CATALOG OF COOL DWARF TARGETS FOR THE TRANSITING EXOPLANET SURVEY SATELLITE](http://adsabs.harvard.edu/abs/2018AJ....155..180M)  
 Muirhead, Philip S., Dressing, Courtney D., Mann, Andrew W., et al.    
 2018, refereed ([2018AJ....155..180M](http://adsabs.harvard.edu/abs/2018AJ....155..180M))  
+
+2. [THE GALAH AND TESS-HERMES SURVEYS: HIGH-RESOLUTION SPECTROSCOPY OF LUMINOUS SUPERGIANTS IN THE MAGELLANIC CLOUDS AND BRIDGE](http://adsabs.harvard.edu/abs/2018arXiv180405900S)  
+Simpson, Jeffrey D., Stello, Dennis, Sharma, Sanjib, et al.    
+2018, pre-print ([2018arXiv180405900S](http://adsabs.harvard.edu/abs/2018arXiv180405900S))  
+
+3. [THE PHOTOMETRIC SELECTION OF M-DWARFS USING GAIA, WISE AND 2MASS PHOTOMETRY](http://adsabs.harvard.edu/abs/2018arXiv180406982B)  
+Bentley, J., Tinney, C., Sharma, S., et al.    
+2018, pre-print ([2018arXiv180406982B](http://adsabs.harvard.edu/abs/2018arXiv180406982B))  
+
+
+2018-03
+-------
+
+1. [A SIMULATED DATA SET FOR THE TRANSITING EXOPLANET SURVEY SATELLITE](http://adsabs.harvard.edu/abs/2018RNAAS...2a..47J)  
+Jenkins, Jon M., Tenenbaum, Peter, Caldwell, Douglas A., et al.    
+2018, not refereed ([2018RNAAS...2a..47J](http://adsabs.harvard.edu/abs/2018RNAAS...2a..47J))  
 
 
 2018-01
@@ -177,7 +197,7 @@ Parvizi, Mahmoud, Paegert, Martin, Stassun, Keivan G.
 
 1. [THE K2-TESS STELLAR PROPERTIES CATALOG](http://adsabs.harvard.edu/abs/2014arXiv1410.6379S)  
 Stassun, Keivan G., Pepper, Joshua A., Oelkers, Ryan, et al.    
-2014, not refereed ([2014arXiv1410.6379S](http://adsabs.harvard.edu/abs/2014arXiv1410.6379S))  
+2014, pre-print ([2014arXiv1410.6379S](http://adsabs.harvard.edu/abs/2014arXiv1410.6379S))  
 
 
 2013-06
@@ -185,4 +205,4 @@ Stassun, Keivan G., Pepper, Joshua A., Oelkers, Ryan, et al.
 
 1. [A HIGH EARTH, LUNAR RESONANT ORBIT FOR LOWER COST SPACE SCIENCE MISSIONS](http://adsabs.harvard.edu/abs/2013arXiv1306.5333G)  
 Gangestad, Joseph W., Henning, Gregory A., Persinger, Randy R., et al.    
-2013, not refereed ([2013arXiv1306.5333G](http://adsabs.harvard.edu/abs/2013arXiv1306.5333G))  
+2013, pre-print ([2013arXiv1306.5333G](http://adsabs.harvard.edu/abs/2013arXiv1306.5333G))  
