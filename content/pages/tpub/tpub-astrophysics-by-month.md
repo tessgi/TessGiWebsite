@@ -15,6 +15,14 @@ Günther, Maximilian N., Zhan, Zhuchang, Seager, Sara, et al.
 Pedersen, May G., Chowdhury, Sowgata, Johnston, Cole, et al.    
 2019, not refereed ([2019arXiv190107576P](http://adsabs.harvard.edu/abs/2019arXiv190107576P))  
 
+3. [THE ASTEROSEISMIC TARGET LIST (ATL) FOR SOLAR-LIKE OSCILLATORS OBSERVED IN 2-MINUTE CADENCE WITH THE TRANSITING EXOPLANET SURVEY SATELLITE (TESS)](http://adsabs.harvard.edu/abs/2019arXiv190110148S)  
+Schofield, M., Chaplin, W. J., Huber, D., et al.    
+2019, not refereed ([2019arXiv190110148S](http://adsabs.harvard.edu/abs/2019arXiv190110148S))  
+
+4. [SHORT TERM VARIABILITY OF EVOLVED MASSIVE STARS WITH TESS](http://adsabs.harvard.edu/abs/2019arXiv190109930D)  
+Dorn-Wallenstein, Trevor Z., Levesque, Emily M., Davenport, James R. A.    
+2019, not refereed ([2019arXiv190109930D](http://adsabs.harvard.edu/abs/2019arXiv190109930D))  
+
 
 2018-12
 -------
@@ -26,6 +34,14 @@ Ball, Warrick H., Chaplin, William J., Schofield, Mathew, et al.
 2. [FLIPER: CLASSIFYING TESS PULSATING STARS](http://adsabs.harvard.edu/abs/2018sf2a.conf..125B)  
 Bugnet, L., García, R. A., Davies, G. R., et al.    
 2018, not refereed ([2018sf2a.conf..125B](http://adsabs.harvard.edu/abs/2018sf2a.conf..125B))  
+
+3. [THE ASAS-SN CATALOG OF VARIABLE STARS III: VARIABLES IN THE SOUTHERN TESS CONTINUOUS VIEWING ZONE](http://adsabs.harvard.edu/abs/2019arXiv190100009J)  
+Jayasinghe, T., Stanek, K. Z., Kochanek, C. S., et al.    
+2018, not refereed ([2019arXiv190100009J](http://adsabs.harvard.edu/abs/2019arXiv190100009J))  
+
+4. [AN EXTREME AMPLITUDE, MASSIVE HEARTBEAT SYSTEM IN THE LMC CHARACTERIZED USING ASAS-SN AND TESS](http://adsabs.harvard.edu/abs/2019arXiv190100005J)  
+Jayasinghe, T., Stanek, K. Z., Kochanek, C. S., et al.    
+2018, not refereed ([2019arXiv190100005J](http://adsabs.harvard.edu/abs/2019arXiv190100005J))  
 
 
 2018-11

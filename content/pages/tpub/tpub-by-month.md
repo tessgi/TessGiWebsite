@@ -47,6 +47,18 @@ Quinn, Samuel N., Becker, Juliette C., Rodriguez, Joseph E., et al.
 Rodriguez, Joseph E., Quinn, Samuel N., Huang, Chelsea X., et al.    
 2019, not refereed ([2019arXiv190109950R](http://adsabs.harvard.edu/abs/2019arXiv190109950R))  
 
+7. [THE ASTEROSEISMIC TARGET LIST (ATL) FOR SOLAR-LIKE OSCILLATORS OBSERVED IN 2-MINUTE CADENCE WITH THE TRANSITING EXOPLANET SURVEY SATELLITE (TESS)](http://adsabs.harvard.edu/abs/2019arXiv190110148S)  
+Schofield, M., Chaplin, W. J., Huber, D., et al.    
+2019, not refereed ([2019arXiv190110148S](http://adsabs.harvard.edu/abs/2019arXiv190110148S))  
+
+8. [SHORT TERM VARIABILITY OF EVOLVED MASSIVE STARS WITH TESS](http://adsabs.harvard.edu/abs/2019arXiv190109930D)  
+Dorn-Wallenstein, Trevor Z., Levesque, Emily M., Davenport, James R. A.    
+2019, not refereed ([2019arXiv190109930D](http://adsabs.harvard.edu/abs/2019arXiv190109930D))  
+
+9. [CO-ORBITAL EXOPLANETS FROM CLOSE PERIOD CANDIDATES: THE TOI-178 CASE](http://adsabs.harvard.edu/abs/2019arXiv190107250L)  
+Leleu, Adrien, Lillo-Box, Jorge, Sestovic, Marko, et al.    
+2019, not refereed ([2019arXiv190107250L](http://adsabs.harvard.edu/abs/2019arXiv190107250L))  
+
 
 2018-12
 -------
@@ -70,6 +82,30 @@ Bugnet, L., García, R. A., Davies, G. R., et al.
 5. [THE LONGEST PERIOD TESS PLANET YET: A SUB-NEPTUNE TRANSITING A BRIGHT, NEARBY K DWARF STAR](http://adsabs.harvard.edu/abs/2019arXiv190100051D)  
 Dragomir, Diana, Teske, Johanna, Gunther, Maximilian N., et al.    
 2018, not refereed ([2019arXiv190100051D](http://adsabs.harvard.edu/abs/2019arXiv190100051D))  
+
+6. [HD219666B: A HOT-NEPTUNE FROM TESS SECTOR 1](http://adsabs.harvard.edu/abs/2018arXiv181205881E)  
+Esposito, M., Armstrong, D. J., Gandolfi, D., et al.    
+2018, not refereed ([2018arXiv181205881E](http://adsabs.harvard.edu/abs/2018arXiv181205881E))  
+
+7. [THE ASAS-SN CATALOG OF VARIABLE STARS III: VARIABLES IN THE SOUTHERN TESS CONTINUOUS VIEWING ZONE](http://adsabs.harvard.edu/abs/2019arXiv190100009J)  
+Jayasinghe, T., Stanek, K. Z., Kochanek, C. S., et al.    
+2018, not refereed ([2019arXiv190100009J](http://adsabs.harvard.edu/abs/2019arXiv190100009J))  
+
+8. [AN EXTREME AMPLITUDE, MASSIVE HEARTBEAT SYSTEM IN THE LMC CHARACTERIZED USING ASAS-SN AND TESS](http://adsabs.harvard.edu/abs/2019arXiv190100005J)  
+Jayasinghe, T., Stanek, K. Z., Kochanek, C. S., et al.    
+2018, not refereed ([2019arXiv190100005J](http://adsabs.harvard.edu/abs/2019arXiv190100005J))  
+
+9. [THE INDEPENDENT DISCOVERY OF PLANET CANDIDATES AROUND LOW MASS STARS AND ASTROPHYSICAL FALSE POSITIVES FROM THE FIRST TWO TESS SECTORS](http://adsabs.harvard.edu/abs/2018arXiv181208145C)  
+Cloutier, Ryan    
+2018, not refereed ([2018arXiv181208145C](http://adsabs.harvard.edu/abs/2018arXiv181208145C))  
+
+10. [TESS EXOPLANET CANDIDATES VALIDATED WITH HARPS ARCHIVAL DATA. A MASSIVE NEPTUNE AROUND GJ\,143 AND TWO NEPTUNES AROUND HD\,23472](http://adsabs.harvard.edu/abs/2018arXiv181204501T)  
+Trifonov, Trifon, Rybizki, Jan, Kürster, Martin    
+2018, not refereed ([2018arXiv181204501T](http://adsabs.harvard.edu/abs/2018arXiv181204501T))  
+
+11. [HATS-71B: A GIANT PLANET TRANSITING AN M3 DWARF STAR IN TESS SECTOR 1](http://adsabs.harvard.edu/abs/2018arXiv181209406B)  
+Bakos, G. Á., Bayliss, D., Bento, J., et al.    
+2018, not refereed ([2018arXiv181209406B](http://adsabs.harvard.edu/abs/2018arXiv181209406B))  
 
 
 2018-11
