@@ -19,6 +19,14 @@ Yao, Xinyu, Pepper, Joshua, Gaudi, B. Scott, et al.
 Burt, Jennifer, Holden, Brad, Wolfgang, Angie, et al.    
 2018, refereed ([2018AJ....156..255B](http://adsabs.harvard.edu/abs/2018AJ....156..255B))  
 
+2. [TESS DISCOVERY OF A TRANSITING SUPER-EARTH IN THE PI MENSAE SYSTEM](http://adsabs.harvard.edu/abs/2018ApJ...868L..39H)  
+Huang, Chelsea X., Burt, Jennifer, Vanderburg, Andrew, et al.    
+2018, refereed ([2018ApJ...868L..39H](http://adsabs.harvard.edu/abs/2018ApJ...868L..39H))  
+
+3. [A SYNTHETIC SAMPLE OF SHORT-CADENCE SOLAR-LIKE OSCILLATORS FOR TESS](http://adsabs.harvard.edu/abs/2018ApJS..239...34B)  
+Ball, Warrick H., Chaplin, William J., Schofield, Mathew, et al.    
+2018, refereed ([2018ApJS..239...34B](http://adsabs.harvard.edu/abs/2018ApJS..239...34B))  
+
 
 2018-11
 -------

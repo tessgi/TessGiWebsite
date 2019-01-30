@@ -4,6 +4,14 @@ Save_as: tpub-astrophysics-by-month.html
 [TOC]
 
 
+2018-12
+-------
+
+1. [A SYNTHETIC SAMPLE OF SHORT-CADENCE SOLAR-LIKE OSCILLATORS FOR TESS](http://adsabs.harvard.edu/abs/2018ApJS..239...34B)  
+Ball, Warrick H., Chaplin, William J., Schofield, Mathew, et al.    
+2018, refereed ([2018ApJS..239...34B](http://adsabs.harvard.edu/abs/2018ApJS..239...34B))  
+
+
 2018-11
 -------
 
