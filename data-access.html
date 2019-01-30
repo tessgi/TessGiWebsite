@@ -17,7 +17,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - TESS Science Support Center" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2019-01-15" />
+    <meta name="dc.date.modified" content="2019-01-30" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Users of TESS Data" />
     <meta name="dc.identifier" content="https://heasarc.gsfc.nasa.gov/docs/tess/" />
@@ -213,8 +213,10 @@ below.
 * [K2 Data Release Notes](data-products.html#k2-data-release-notes)
  -->
 <h2 id="tess-data-product-overview">TESS data product overview</h2>
-<p>The <a href="https://archive.stsci.edu/tess/">TESS mission page at MAST</a> contains the latest news and updates on TESS products. The following TESS data products and catalogs are currently available or will be soon through MAST:</p>
-<p><strong>Data products at MAST</strong></p>
+<p>The <a href="https://archive.stsci.edu/tess/all_products.html">TESS mission page at MAST</a> contains the latest news and updates on TESS products. </p>
+<!-- The following TESS data products and catalogs are currently available or will be soon through MAST:
+
+**Data products at MAST** -->
 <!-- 
 * Two-minute cadence target pixel files
 * Two-minute cadence light curves
@@ -242,10 +244,10 @@ below.
 * Observed targets by quarter
 
  -->
-<p>The file types are presented in the table below. Further information on these products can be found <a href="https://archive.stsci.edu/tess/all_products.html">at the MAST site</a>.
+<!-- The file types are presented in the table below. Further information on these products can be found [at the MAST site](https://archive.stsci.edu/tess/all_products.html).
 <br/>
-<img class="img-responsive" src="images/data/tess_mast_products_2.png" style="min-width:50%;"/>
-<br/></p>
+<img class="img-responsive" style="min-width:50%;" src="images/data/tess_mast_products_2.png">
+<br/> -->
 <!-- The
 [Kepler mission page at NExScI](http://exoplanetarchive.ipac.caltech.edu/docs/KeplerMission.html)
 contains the following products and also details the instructions for
@@ -283,7 +285,7 @@ In the binary table, the pixel values are encoded as images. Each element in the
 <h3 id="collateral-data">Collateral data</h3>
 <p>Collateral data includes pixels from leading and trailing virtual columns, leading and trailing masked rows, and trailing virtual rows (in units of ADC counts). Additional collateral data includes auxiliary instrument models which describe the calibration effects. Pixel calibration is performed on both the cadence pixels and Full Frame Image (FFI) pixels, and calibrated science pixel values, in photoelectrons, along with their uncertainties are archived at the MAST. </p>
 <h2 id="auxiliary-data-products">Auxiliary data products</h2>
-<p>Auxiliary data consists of focal plane characterization files, engineering and telemetry data used to calibrate the images and determine the status of the spacecraft.</p>
+<p>Auxiliary data consists of focal plane characterization files, engineering and telemetry data used to calibrate the images and determine the status of the spacecraft. A full list is available <a href="https://archive.stsci.edu/tess/all_products.html">from the MAST</a>.</p>
 <p><em>Black level</em>: the mean correction estimated from the virtual black pixel values. There is one metric value per cadence for each CCD readout. </p>
 <p><em>Smear</em>: the correction for shutterless operation. The smear will be less critical for TESS than was needed for Kepler due to the use of frame-transfer in TESS. </p>
 <p><em>Gain model</em>: the linear approximation to the CCD digitizer performance, in units of photoelectrons per digitizer count. Each TESS CCD has its own gain model. Each CCD's gain model contains separate values for each of the 4 readouts on the CCD.</p>
@@ -293,9 +295,9 @@ In the binary table, the pixel values are encoded as images. Each element in the
 <p><em>2-d black model</em>: the expected readout of a given CCD, in counts, which is observed when no light is incident upon the detector. The 2-d black model is subtracted from the raw pixel values as part of the calibration process. The 2-d black model also incorporates the expected black values of collateral pixels. Each CCD has a separate 2-d black model. The size of the 2-d black model is 2078 x 2136 for each of 16 CCDs.</p>
 <p><em>Dark current</em>: the mean dark current calculated from the virtual row pixel values. There is one metric value per cadence for each readout.</p>
 <h3 id="cotrending-basis-vectors">Cotrending basis vectors</h3>
-<p>Co-trending basis vectors (CBVs) represent the set of systematic trends present in the ensemble flux data. CBVs will be provided for each operational sector of the mission. These are derived by the TESS pipeline from a Principle Component Analysis and used to mitigate systematic artifacts within the target light curves. If TESS users see residual systematic problems within their light curve data, the CBVs can be employed in performing a manual photometric correction, more tailored towards the user's science. </p>
+<p>Co-trending basis vectors (CBVs) represent the set of systematic trends present in the ensemble flux data. CBVs are provided for each operational sector of the mission. These are derived by the TESS pipeline from a Principle Component Analysis and used to mitigate systematic artifacts within the target light curves. If TESS users see residual systematic problems within their light curve data, the CBVs can be employed in performing a manual photometric correction, more tailored towards the user's science. </p>
 <h3 id="point-spread-functions">Point Spread Functions</h3>
-<p>Point spread function (PSF) models will be available at the MAST along with the data.</p>
+<p>Point spread function (PSF) models is available.</p>
 <h3 id="simulated-data">Simulated Data</h3>
 <p>During the development of a space mission, the ground-segment goes through several tests known as a Ground System Interface Test (GSIT). To aid potential TESS users in the development of tools and to assess the feasibility of investigations, data from the GSIT-3 test has been made available at the <a href="https://archive.stsci.edu/tess">MAST</a>. </p>
             </div>
