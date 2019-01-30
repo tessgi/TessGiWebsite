@@ -51,7 +51,7 @@ TESS](https://archive.stsci.edu/tess/index.html#documents).
 
   <tr>
     <td style="width: 35em;"><a href='https://archive.stsci.edu/missions/tess/doc/EXP-TESS-ARC-ICD-TM-0014.pdf'>TESS Science Data Products Description Document</a></td>
-    <td>Mansouri-Samani et al., 2016</td>
+    <td>Tenenbaum and Jenkins 2018</td>
   </tr>
 
   <tr>

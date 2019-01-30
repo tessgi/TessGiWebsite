@@ -78,9 +78,11 @@ below.
  -->
 ## TESS data product overview
 
-The [TESS mission page at MAST](https://archive.stsci.edu/tess/) contains the latest news and updates on TESS products. The following TESS data products and catalogs are currently available or will be soon through MAST:
+The [TESS mission page at MAST](https://archive.stsci.edu/tess/all_products.html) contains the latest news and updates on TESS products. 
 
-**Data products at MAST**
+<!-- The following TESS data products and catalogs are currently available or will be soon through MAST:
+
+**Data products at MAST** -->
 
 <!-- 
 * Two-minute cadence target pixel files
@@ -109,10 +111,10 @@ The [TESS mission page at MAST](https://archive.stsci.edu/tess/) contains the la
 * Observed targets by quarter
 
  -->
-The file types are presented in the table below. Further information on these products can be found [at the MAST site](https://archive.stsci.edu/tess/all_products.html).
+<!-- The file types are presented in the table below. Further information on these products can be found [at the MAST site](https://archive.stsci.edu/tess/all_products.html).
 <br/>
 <img class="img-responsive" style="min-width:50%;" src="images/data/tess_mast_products_2.png">
-<br/>
+<br/> -->
 
 
 <!-- The
@@ -174,7 +176,7 @@ Collateral data includes pixels from leading and trailing virtual columns, leadi
 
 
 ## Auxiliary data products
-Auxiliary data consists of focal plane characterization files, engineering and telemetry data used to calibrate the images and determine the status of the spacecraft.
+Auxiliary data consists of focal plane characterization files, engineering and telemetry data used to calibrate the images and determine the status of the spacecraft. A full list is available [from the MAST](https://archive.stsci.edu/tess/all_products.html).
 
 *Black level*: the mean correction estimated from the virtual black pixel values. There is one metric value per cadence for each CCD readout. 
 
@@ -193,10 +195,10 @@ Auxiliary data consists of focal plane characterization files, engineering and t
 *Dark current*: the mean dark current calculated from the virtual row pixel values. There is one metric value per cadence for each readout.
 
 ### Cotrending basis vectors 
-Co-trending basis vectors (CBVs) represent the set of systematic trends present in the ensemble flux data. CBVs will be provided for each operational sector of the mission. These are derived by the TESS pipeline from a Principle Component Analysis and used to mitigate systematic artifacts within the target light curves. If TESS users see residual systematic problems within their light curve data, the CBVs can be employed in performing a manual photometric correction, more tailored towards the user's science. 
+Co-trending basis vectors (CBVs) represent the set of systematic trends present in the ensemble flux data. CBVs are provided for each operational sector of the mission. These are derived by the TESS pipeline from a Principle Component Analysis and used to mitigate systematic artifacts within the target light curves. If TESS users see residual systematic problems within their light curve data, the CBVs can be employed in performing a manual photometric correction, more tailored towards the user's science. 
 
 ### Point Spread Functions 
-Point spread function (PSF) models will be available at the MAST along with the data.
+Point spread function (PSF) models is available.
 
 ### Simulated Data
 During the development of a space mission, the ground-segment goes through several tests known as a Ground System Interface Test (GSIT). To aid potential TESS users in the development of tools and to assess the feasibility of investigations, data from the GSIT-3 test has been made available at the [MAST](https://archive.stsci.edu/tess). 
