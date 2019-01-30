@@ -12,7 +12,7 @@ the TESS mission is provided by the NASA Explorer Program.*
 
 The TESS Science Support Center curates a list of scientific publications
 pertaining to TESS.
-The database contains 87 publications,
+The database contains 84 publications,
 of which 46 are peer-reviewed.
 It demonstrates the important impact of TESS data
 on astronomical research.
@@ -46,11 +46,11 @@ of year.
 
 Both TESS data have been used for scientific applications
 that reach far beyond exoplanet research.
-While 53 works relate to exoplanets
-(61%),
+While 50 works relate to exoplanets
+(60%),
 a total of 34
 pertain to other areas of astrophysics
-(39%).
+(40%).
 
 
 ![Publications by subject](images/tpub/tpub-piechart.png)
@@ -60,7 +60,7 @@ pertain to other areas of astrophysics
 ## Most-cited publications
 
 TESS publications have cumulatively been cited
-976 times.
+1133 times.
 The list below shows the most-cited publications,
 based on the citation count obtained from NASA ADS.
 
@@ -68,52 +68,52 @@ based on the citation count obtained from NASA ADS.
 1. TRANSITING EXOPLANET SURVEY SATELLITE (TESS)  
 Ricker, George R., Winn, Joshua N., Vanderspek, Roland, et al.    
 [2015JATIS...1a4003R](http://adsabs.harvard.edu/abs/2015JATIS...1a4003R)
-<span class="badge">326 citations</span>
+<span class="badge">363 citations</span>
 
 2. THE TRANSITING EXOPLANET SURVEY SATELLITE: SIMULATIONS OF PLANET DETECTIONS AND ASTROPHYSICAL FALSE POSITIVES  
 Sullivan, Peter W., Winn, Joshua N., Berta-Thompson, Zachory K., et al.    
 [2015ApJ...809...77S](http://adsabs.harvard.edu/abs/2015ApJ...809...77S)
-<span class="badge">171 citations</span>
+<span class="badge">184 citations</span>
 
 3. THE TESS INPUT CATALOG AND CANDIDATE TARGET LIST  
 Stassun, Keivan G., Oelkers, Ryan J., Pepper, Joshua, et al.    
 [2018AJ....156..102S](http://adsabs.harvard.edu/abs/2018AJ....156..102S)
-<span class="badge">40 citations</span>
+<span class="badge">53 citations</span>
 
-4. THE ASTEROSEISMIC POTENTIAL OF TESS: EXOPLANET-HOST STARS  
-Campante, T. L., Schofield, M., Kuszlewicz, J. S., et al.    
-[2016ApJ...830..138C](http://adsabs.harvard.edu/abs/2016ApJ...830..138C)
-<span class="badge">33 citations</span>
-
-5. A REVISED EXOPLANET YIELD FROM THE TRANSITING EXOPLANET SURVEY SATELLITE (TESS)  
+4. A REVISED EXOPLANET YIELD FROM THE TRANSITING EXOPLANET SURVEY SATELLITE (TESS)  
 Barclay, Thomas, Pepper, Joshua, Quintana, Elisa V.    
 [2018ApJS..239....2B](http://adsabs.harvard.edu/abs/2018ApJS..239....2B)
-<span class="badge">32 citations</span>
+<span class="badge">41 citations</span>
+
+5. THE ASTEROSEISMIC POTENTIAL OF TESS: EXOPLANET-HOST STARS  
+Campante, T. L., Schofield, M., Kuszlewicz, J. S., et al.    
+[2016ApJ...830..138C](http://adsabs.harvard.edu/abs/2016ApJ...830..138C)
+<span class="badge">39 citations</span>
 
 6. THE TRANSITING EXOPLANET SURVEY SATELLITE MISSION  
 Ricker, G. R.    
 [2014JAVSO..42..234R](http://adsabs.harvard.edu/abs/2014JAVSO..42..234R)
-<span class="badge">26 citations</span>
+<span class="badge">29 citations</span>
 
-7. THE K2-TESS STELLAR PROPERTIES CATALOG  
-Stassun, Keivan G., Pepper, Joshua A., Oelkers, Ryan, et al.    
-[2014arXiv1410.6379S](http://adsabs.harvard.edu/abs/2014arXiv1410.6379S)
-<span class="badge">20 citations</span>
-
-8. PLANET DETECTION SIMULATIONS FOR SEVERAL POSSIBLE TESS EXTENDED MISSIONS  
+7. PLANET DETECTION SIMULATIONS FOR SEVERAL POSSIBLE TESS EXTENDED MISSIONS  
 Bouma, L. G., Winn, Joshua N., Kosiarek, Jacobi, et al.    
 [2017arXiv170508891B](http://adsabs.harvard.edu/abs/2017arXiv170508891B)
-<span class="badge">20 citations</span>
+<span class="badge">22 citations</span>
 
-9. ASTEROSEISMOLOGY OF RED GIANTS: FROM ANALYSING LIGHT CURVES TO ESTIMATING AGES  
+8. ASTEROSEISMOLOGY OF RED GIANTS: FROM ANALYSING LIGHT CURVES TO ESTIMATING AGES  
 Davies, G. R., Miglio, A.    
 [2016AN....337..774D](http://adsabs.harvard.edu/abs/2016AN....337..774D)
-<span class="badge">20 citations</span>
+<span class="badge">21 citations</span>
 
-10. TESS DISCOVERY OF A TRANSITING SUPER-EARTH IN THE PI MENSAE SYSTEM  
-Huang, Chelsea X., Burt, Jennifer, Vanderburg, Andrew, et al.    
-[2018ApJ...868L..39H](http://adsabs.harvard.edu/abs/2018ApJ...868L..39H)
-<span class="badge">17 citations</span>
+9. THE K2-TESS STELLAR PROPERTIES CATALOG  
+Stassun, Keivan G., Pepper, Joshua A., Oelkers, Ryan, et al.    
+[2014arXiv1410.6379S](http://adsabs.harvard.edu/abs/2014arXiv1410.6379S)
+<span class="badge">19 citations</span>
+
+10. THE TESS-HERMES SURVEY DATA RELEASE 1: HIGH-RESOLUTION SPECTROSCOPY OF THE TESS SOUTHERN CONTINUOUS VIEWING ZONE  
+Sharma, Sanjib, Stello, Dennis, Buder, Sven, et al.    
+[2018MNRAS.473.2004S](http://adsabs.harvard.edu/abs/2018MNRAS.473.2004S)
+<span class="badge">18 citations</span>
 <hr/>
 
 <!-- 

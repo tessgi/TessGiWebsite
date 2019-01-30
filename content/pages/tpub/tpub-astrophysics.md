@@ -7,13 +7,13 @@ Save_as: tpub-astrophysics.html
 2019
 ----
 
-1. [DIVERSE VARIABILITY OF O AND B STARS REVEALED FROM 2-MINUTE CADENCE LIGHT CURVES IN SECTORS 1 AND 2 OF THE TESS MISSION: SELECTION OF AN ASTEROSEISMIC SAMPLE](http://adsabs.harvard.edu/abs/2019arXiv190107576P)  
-Pedersen, May G., Chowdhury, Sowgata, Johnston, Cole, et al.    
-2019, not refereed ([2019arXiv190107576P](http://adsabs.harvard.edu/abs/2019arXiv190107576P))  
-
-2. [STELLAR FLARES FROM THE FIRST TESS DATA RELEASE: EXPLORING A NEW SAMPLE OF M-DWARFS](http://adsabs.harvard.edu/abs/2019arXiv190100443G)  
+1. [STELLAR FLARES FROM THE FIRST TESS DATA RELEASE: EXPLORING A NEW SAMPLE OF M-DWARFS](http://adsabs.harvard.edu/abs/2019arXiv190100443G)  
 Günther, Maximilian N., Zhan, Zhuchang, Seager, Sara, et al.    
 2019, not refereed ([2019arXiv190100443G](http://adsabs.harvard.edu/abs/2019arXiv190100443G))  
+
+2. [DIVERSE VARIABILITY OF O AND B STARS REVEALED FROM 2-MINUTE CADENCE LIGHT CURVES IN SECTORS 1 AND 2 OF THE TESS MISSION: SELECTION OF AN ASTEROSEISMIC SAMPLE](http://adsabs.harvard.edu/abs/2019arXiv190107576P)  
+Pedersen, May G., Chowdhury, Sowgata, Johnston, Cole, et al.    
+2019, not refereed ([2019arXiv190107576P](http://adsabs.harvard.edu/abs/2019arXiv190107576P))  
 
 
 2018
@@ -23,17 +23,17 @@ Günther, Maximilian N., Zhan, Zhuchang, Seager, Sara, et al.
 Ball, Warrick H., Chaplin, William J., Schofield, Mathew, et al.    
 2018, refereed ([2018ApJS..239...34B](http://adsabs.harvard.edu/abs/2018ApJS..239...34B))  
 
-2. [TESS IN THE SOLAR SYSTEM](http://adsabs.harvard.edu/abs/2018PASP..130k4503P)  
+2. [FLIPER: CLASSIFYING TESS PULSATING STARS](http://adsabs.harvard.edu/abs/2018sf2a.conf..125B)  
+Bugnet, L., García, R. A., Davies, G. R., et al.    
+2018, not refereed ([2018sf2a.conf..125B](http://adsabs.harvard.edu/abs/2018sf2a.conf..125B))  
+
+3. [TESS IN THE SOLAR SYSTEM](http://adsabs.harvard.edu/abs/2018PASP..130k4503P)  
 Pál, András, Molnár, László, Kiss, Csaba    
 2018, refereed ([2018PASP..130k4503P](http://adsabs.harvard.edu/abs/2018PASP..130k4503P))  
 
-3. [DETECTING UNRESOLVED BINARIES IN TESS DATA WITH SPECKLE IMAGING](http://adsabs.harvard.edu/abs/2018arXiv181102108M)  
+4. [DETECTING UNRESOLVED BINARIES IN TESS DATA WITH SPECKLE IMAGING](http://adsabs.harvard.edu/abs/2018arXiv181102108M)  
 Matson, Rachel A., Howell, Steve B., Ciardi, David    
-2018, pre-print ([2018arXiv181102108M](http://adsabs.harvard.edu/abs/2018arXiv181102108M))  
-
-4. [FLIPER: CLASSIFYING TESS PULSATING STARS](http://adsabs.harvard.edu/abs/2018arXiv181112140B)  
-Bugnet, L., García, R. A., Davies, G. R., et al.    
-2018, pre-print ([2018arXiv181112140B](http://adsabs.harvard.edu/abs/2018arXiv181112140B))  
+2018, not refereed ([2018arXiv181102108M](http://adsabs.harvard.edu/abs/2018arXiv181102108M))  
 
 5. [A NEW METHOD TO COMPUTE LIMB-DARKENING COEFFICIENTS FOR STELLAR ATMOSPHERE MODELS WITH SPHERICAL SYMMETRY: THE SPACE MISSIONS TESS, KEPLER, COROT, AND MOST](http://adsabs.harvard.edu/abs/2018A&A...618A..20C)  
 Claret, Antonio    
@@ -57,7 +57,7 @@ Brimacombe, J., Vallely, P., Stanek, K. Z., et al.
 
 10. [PROSPECTS OF FINDING DETACHED BLACK HOLE-STAR BINARIES WITH TESS](http://adsabs.harvard.edu/abs/2018arXiv180810856M)  
 Masuda, Kento, Hotokezaka, Kenta    
-2018, pre-print ([2018arXiv180810856M](http://adsabs.harvard.edu/abs/2018arXiv180810856M))  
+2018, not refereed ([2018arXiv180810856M](http://adsabs.harvard.edu/abs/2018arXiv180810856M))  
 
 11. [SEARCHING FOR NEW WHITE DWARF PULSATORS FOR TESS OBSERVATIONS AT KONKOLY OBSERVATORY](http://adsabs.harvard.edu/abs/2018MNRAS.478.2676B)  
 Bognár, Zs, Kalup, Cs, Sódor, Á., et al.    
@@ -69,11 +69,11 @@ Muirhead, Philip S., Dressing, Courtney D., Mann, Andrew W., et al.
 
 13. [THE GALAH AND TESS-HERMES SURVEYS: HIGH-RESOLUTION SPECTROSCOPY OF LUMINOUS SUPERGIANTS IN THE MAGELLANIC CLOUDS AND BRIDGE](http://adsabs.harvard.edu/abs/2018arXiv180405900S)  
 Simpson, Jeffrey D., Stello, Dennis, Sharma, Sanjib, et al.    
-2018, pre-print ([2018arXiv180405900S](http://adsabs.harvard.edu/abs/2018arXiv180405900S))  
+2018, not refereed ([2018arXiv180405900S](http://adsabs.harvard.edu/abs/2018arXiv180405900S))  
 
 14. [THE PHOTOMETRIC SELECTION OF M-DWARFS USING GAIA, WISE AND 2MASS PHOTOMETRY](http://adsabs.harvard.edu/abs/2018arXiv180406982B)  
 Bentley, J., Tinney, C., Sharma, S., et al.    
-2018, pre-print ([2018arXiv180406982B](http://adsabs.harvard.edu/abs/2018arXiv180406982B))  
+2018, not refereed ([2018arXiv180406982B](http://adsabs.harvard.edu/abs/2018arXiv180406982B))  
 
 15. [A SIMULATED DATA SET FOR THE TRANSITING EXOPLANET SURVEY SATELLITE](http://adsabs.harvard.edu/abs/2018RNAAS...2a..47J)  
 Jenkins, Jon M., Tenenbaum, Peter, Caldwell, Douglas A., et al.    
@@ -157,7 +157,7 @@ Parvizi, Mahmoud, Paegert, Martin, Stassun, Keivan G.
 
 2. [THE K2-TESS STELLAR PROPERTIES CATALOG](http://adsabs.harvard.edu/abs/2014arXiv1410.6379S)  
 Stassun, Keivan G., Pepper, Joshua A., Oelkers, Ryan, et al.    
-2014, pre-print ([2014arXiv1410.6379S](http://adsabs.harvard.edu/abs/2014arXiv1410.6379S))  
+2014, not refereed ([2014arXiv1410.6379S](http://adsabs.harvard.edu/abs/2014arXiv1410.6379S))  
 
 
 2013
@@ -165,4 +165,4 @@ Stassun, Keivan G., Pepper, Joshua A., Oelkers, Ryan, et al.
 
 1. [A HIGH EARTH, LUNAR RESONANT ORBIT FOR LOWER COST SPACE SCIENCE MISSIONS](http://adsabs.harvard.edu/abs/2013arXiv1306.5333G)  
 Gangestad, Joseph W., Henning, Gregory A., Persinger, Randy R., et al.    
-2013, pre-print ([2013arXiv1306.5333G](http://adsabs.harvard.edu/abs/2013arXiv1306.5333G))  
+2013, not refereed ([2013arXiv1306.5333G](http://adsabs.harvard.edu/abs/2013arXiv1306.5333G))  
