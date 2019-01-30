@@ -4,6 +4,18 @@ Save_as: tpub-astrophysics-by-month.html
 [TOC]
 
 
+2019-01
+-------
+
+1. [DIVERSE VARIABILITY OF O AND B STARS REVEALED FROM 2-MINUTE CADENCE LIGHT CURVES IN SECTORS 1 AND 2 OF THE TESS MISSION: SELECTION OF AN ASTEROSEISMIC SAMPLE](http://adsabs.harvard.edu/abs/2019arXiv190107576P)  
+Pedersen, May G., Chowdhury, Sowgata, Johnston, Cole, et al.    
+2019, not refereed ([2019arXiv190107576P](http://adsabs.harvard.edu/abs/2019arXiv190107576P))  
+
+2. [STELLAR FLARES FROM THE FIRST TESS DATA RELEASE: EXPLORING A NEW SAMPLE OF M-DWARFS](http://adsabs.harvard.edu/abs/2019arXiv190100443G)  
+Günther, Maximilian N., Zhan, Zhuchang, Seager, Sara, et al.    
+2019, not refereed ([2019arXiv190100443G](http://adsabs.harvard.edu/abs/2019arXiv190100443G))  
+
+
 2018-12
 -------
 
