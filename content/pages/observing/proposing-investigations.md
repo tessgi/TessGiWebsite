@@ -424,9 +424,9 @@ mandatory for US investigators. When completing the proposal, there are a few ob
 
 We have made available proposal templates to aid users in writing GI proposals. Use of these templates is not required. 
 
-* [MS Word](docs/tessgi_template.docx)
-* [Latex](docs/tessgi_template.tex)
-* [PDF](docs/tessgi_template.pdf)
+* [MS Word](docs/tessgi_template_cycle2.docx)
+* [Latex](docs/tessgi_template_cycle2.tex)
+* [PDF](docs/tessgi_template_cycle2.pdf)
 
 
 ### Proposal tips

@@ -38,6 +38,18 @@ The [ABCs of Exoplanets](https://explorers.gsfc.nasa.gov/abcs/index.html) are a 
 
 <br/>
 
+## TESS Exoplanet Coloring Book
+
+The Exoplanet Coloring Book is another resource that can be used for
+educational purposes. It can be downloaded via the link below.
+
+<br/>
+<img class="img-responsive" style="max-width:80%;" src="images/tess-coloring-book.png">
+*TESS Exoplanet Coloring Book is available to download [here](docs/Exoplanets_Coloring_Book_07-22-2016.pdf). Image Credit: NASA*
+<br/>
+
+<br/>
+
 ## TESS Science Writer's Guide
 
 The TESS [Science Writer's Guide](https://www.nasa.gov/sites/default/files/atoms/files/tesssciencewritersguidedraft23.pdf) was developed to provide general information on the TESS mission for use by science writers and others interested in TESS. This guide was first developed for a Science Writer's Workshop held at the American Astronomical Society meeting in January 2018.
