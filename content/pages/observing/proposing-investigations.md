@@ -153,7 +153,7 @@ Proposal tools and tips to help create target tables can be found on our [propos
 We have provided two example target tables with the format we require.
 
 * [A sample of stars around Proxima Cen](data/MAST_TIC_Proxima_Cen.csv)
-* [The whole of globular cluster Omega Cen](data/omega_cen_target_table.csv)
+* [The whole of globular cluster Omega Cen](data/omega_cen_target_table_ex.csv)
 
 
 ### Moving targets
