@@ -17,7 +17,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - TESS Science Support Center" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2019-02-21" />
+    <meta name="dc.date.modified" content="2019-02-22" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Users of TESS Data" />
     <meta name="dc.identifier" content="https://heasarc.gsfc.nasa.gov/docs/tess/" />
@@ -163,7 +163,7 @@ to the operational characteristics and constraints of the mission. The science m
 exoplanet characterization, stellar astrophysics, 
 galactic and extragalactic astrophysics, and solar system science. </p>
 <p>The primary purpose of the TESS Guest Investigator Program is to enhance and maximize the science return from TESS. The program facilitates and supports both 2-minute cadence observations with TESS and research undertaken with the FFIs. Any area of astrophysics may be proposed. However, proposals to detect planet transits within the 2-minute cadence data of the one hundred thousand (100,000) top-prioritized <a href="observing-technical.html#candidate-target-list">Candidate Target List</a> targets (for each hemisphere and GI Cycle) are not solicited, and will be considered non-compliant. No restrictions are imposed on science using the full-frame image data. Proposals for exoplanet detection and characterization using full frame image data are encouraged. 
-<!-- To aid in proposal preparation, we have made a <a href="data/core-science-targets-v2.csv">comma-separated variable file available</a> that contains this list of top-prioritized targets. --></p>
+To aid in proposal preparation, we have made a <a href="data/core-science-targets-cycle2-v1.csv">comma-separated variable file available</a> that contains this list of top-prioritized targets.</p>
 <p>Proposals may utilize either the 2-minute cadence, the full-frame image data, or both. All science proposals must be compelling and carefully justified
 scientifically and technically. </p>
 <p>The scientific justification of a GI proposal should focus on a compelling science investigation that requires the collection of new TESS data to succeed. The proposed TESS Guest Investigation must clearly enhance the science return of the TESS mission. The proposal may include limited theoretical components, limited ground-based follow-up, software development and/or data simulation that strengthens the proposal. At least 70% of the work effort should be focused on exploiting TESS data products. 
@@ -234,8 +234,8 @@ along with eligible proposals for the purpose of allocating targets.</p>
 <p>A complete description of the input and methods used to construct the TIC and CTL are provided in the TIC paper prepared by the TSWG team (Stassun et al. 2017, available <a href="http://adsabs.harvard.edu/abs/2017arXiv170600495S">here</a>). The current full versions of the TIC and CTL are hosted publicly at the Mikulski Archive for Space Telescopes (MAST, available <a href="https://archive.stsci.edu/tess/">here</a>) and a high priority subset of the CTL is available via the Filtergraph data visualization system (available <a href="http://filtergraph.vanderbilt.edu/tess_ctl">here</a>). Subsequent versions of the TIC and CTL containing additional data (e.g. Gaia) will be generated and made available over time.</p>
 <p>Guest Investigators must include the TIC identification number when selecting targets if there is an entry in the TIC. For targets not in the TIC, GIs must provide the coordinates of the source and a TESS magnitude. Software for estimating TESS magnitudes is available <a href="proposal-tools.html#ticgen">here</a>. </p>
 <!--The latest version of the TIC is [available from the MAST](http://archive.stsci.edu/tess/all_products.html) and described further in the [Data Access](data-access.html) page. Documentation for the TIC can be found on [arXiv](https://arxiv.org/abs/1706.00495). There will be several deliveries of preliminary versions of the TIC prior to launch to allow testing. A formal delivery of the TIC will occur a few months before launch. -->
-<!-- ### Core science targets
-To aid in proposal preparation we have made a [comma-separated variable file](data/core-science-targets-v2.csv) available that contains the list of the top 100,000 priority targets in the southern ecliptic hemisphere. -->
+<h3 id="core-science-targets">Core science targets</h3>
+<p>To aid in proposal preparation we have made a <a href="data/core-science-targets-cycle2-v1.csv">comma-separated variable file</a> available that contains the list of the top 100,000 priority targets in the northern ecliptic hemisphere.</p>
 <!-- ## Observability of targets
 We have developed software to determine whether any target can be observed by TESS and for how many sectors. Details are provided on our [proposal tools page](proposal-tools.html) -->
 <h3 id="target-table">Target table</h3>
@@ -259,7 +259,7 @@ We have developed software to determine whether any target can be observed by TE
 <p>We have provided two example target tables with the format we require.</p>
 <ul>
 <li><a href="data/MAST_TIC_Proxima_Cen.csv">A sample of stars around Proxima Cen</a></li>
-<li><a href="data/omega_cen_target_table.csv">The whole of globular cluster Omega Cen</a></li>
+<li><a href="data/omega_cen_target_table_ex.csv">The whole of globular cluster Omega Cen</a></li>
 </ul>
 <h3 id="moving-targets">Moving targets</h3>
 <p>Moving aperture targets should be flagged as requiring special handling at proposal submission. Specify in the comments of the target list that this is a moving target. The proposal should discuss in the science case both the minimum and ideal acceptable duration of observations of the target. We will work with the proposal team to generate a delivery format for their targets of interest. Note that this is only necessary if 2-minute cadence data is requested. </p>
@@ -565,6 +565,7 @@ mandatory for US investigators. When completing the proposal, there are a few ob
 <li><a href="#target-selection">Target selection</a><ul>
 <li><a href="#tess-input-catalog-tic">TESS Input Catalog (TIC)</a></li>
 <li><a href="#candidate-target-list-ctl">Candidate Target List (CTL)</a></li>
+<li><a href="#core-science-targets">Core science targets</a></li>
 <li><a href="#target-table">Target table</a></li>
 <li><a href="#moving-targets">Moving targets</a></li>
 <li><a href="#target-of-opportunity-observations">Target of Opportunity Observations</a></li>
