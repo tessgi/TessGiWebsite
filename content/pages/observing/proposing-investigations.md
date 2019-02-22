@@ -22,7 +22,7 @@ exoplanet characterization, stellar astrophysics,
 galactic and extragalactic astrophysics, and solar system science. 
 
 The primary purpose of the TESS Guest Investigator Program is to enhance and maximize the science return from TESS. The program facilitates and supports both 2-minute cadence observations with TESS and research undertaken with the FFIs. Any area of astrophysics may be proposed. However, proposals to detect planet transits within the 2-minute cadence data of the one hundred thousand (100,000) top-prioritized [Candidate Target List](observing-technical.html#candidate-target-list) targets (for each hemisphere and GI Cycle) are not solicited, and will be considered non-compliant. No restrictions are imposed on science using the full-frame image data. Proposals for exoplanet detection and characterization using full frame image data are encouraged. 
-<!-- To aid in proposal preparation, we have made a [comma-separated variable file available](data/core-science-targets-v2.csv) that contains this list of top-prioritized targets. -->
+To aid in proposal preparation, we have made a [comma-separated variable file available](data/core-science-targets-cycle2-v1.csv) that contains this list of top-prioritized targets.
 
 Proposals may utilize either the 2-minute cadence, the full-frame image data, or both. All science proposals must be compelling and carefully justified
 scientifically and technically. 
@@ -123,8 +123,8 @@ Guest Investigators must include the TIC identification number when selecting ta
 
 <!--The latest version of the TIC is [available from the MAST](http://archive.stsci.edu/tess/all_products.html) and described further in the [Data Access](data-access.html) page. Documentation for the TIC can be found on [arXiv](https://arxiv.org/abs/1706.00495). There will be several deliveries of preliminary versions of the TIC prior to launch to allow testing. A formal delivery of the TIC will occur a few months before launch. -->
 
-<!-- ### Core science targets
-To aid in proposal preparation we have made a [comma-separated variable file](data/core-science-targets-v2.csv) available that contains the list of the top 100,000 priority targets in the southern ecliptic hemisphere. -->
+### Core science targets
+To aid in proposal preparation we have made a [comma-separated variable file](data/core-science-targets-cycle2-v1.csv) available that contains the list of the top 100,000 priority targets in the northern ecliptic hemisphere.
 
 <!-- ## Observability of targets
 We have developed software to determine whether any target can be observed by TESS and for how many sectors. Details are provided on our [proposal tools page](proposal-tools.html) -->
