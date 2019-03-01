@@ -157,7 +157,7 @@ IMPORTANT_DATES = (
             # ('<b>January 25, 2019</b>',
             #  'Sector 3 and 4 data release',
             #  'status.html'), # link to a news item?
-            ('<b>March 14, 2019</b>',
+            ('<b>14 March 2019</b>',
              'TESS GI Cycle 2 proposal deadline',
              'proposing-investigations.html'), # link to a news item?
          )
@@ -218,9 +218,9 @@ MEETINGS = (
             # ('<b>6-10 January 2019</b><br>'
             #  'AAS Winter Meeting',
             #  'https://aas.org/meetings/aas233'),           
-            ('<b>11-14 February 2019</b><br>'
-             'TESS Data Workshop',
-             'http://www.stsci.edu/institute/conference/tess'),               
+            #('<b>11-14 February 2019</b><br>'
+            # 'TESS Data Workshop',
+            # 'http://www.stsci.edu/institute/conference/tess'),               
             ('<b>4-8 March 2019</b><br>'
              'Kepler Science Conference',
              'https://keplerscience.arc.nasa.gov/scicon-2019/index.html'),           
