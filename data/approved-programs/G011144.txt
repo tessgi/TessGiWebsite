@@ -1,5 +1,5 @@
 # TESS Program G011144
-            
+
 Title: Searching Rgb Stars In TESS Cycle 1 Field For Exoplanets
 
 PI: Olenick, Richard - University Of Dallas
@@ -25,3 +25,11 @@ Summary: We propose observing 35 RGB target stars in the TESS Cycle 1 field usin
 50621545,82.2537,-4.6926,4.91,G011144
 251261382,95.6816,-2.1956,4.15,G011144
 46560321,84.7198,-14.041,5.54,G011144
+
+# Sector 007 targets observed (1)
+332078422,120.2104,-12.8415,5.55,G011144
+
+# Sector 009 targets observed (3)
+23610552,169.7084,-30.4737,5.74,G011144
+34504326,146.9201,-46.6403,5.6,G011144
+295689389,140.9386,-48.8666,5.29,G011144

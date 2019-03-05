@@ -1,5 +1,5 @@
 # TESS Program G011221
-            
+
 Title: The Mass-Radius-Luminosity-Rotation Relation For M Dwarfs Determined From TESS Eclipsing Binaries
 
 PI: Muirhead, Philip - Boston University

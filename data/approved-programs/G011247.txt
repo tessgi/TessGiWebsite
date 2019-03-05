@@ -1,5 +1,5 @@
 # TESS Program G011247
-            
+
 Title: Investigating Magnetic Dynamo Evolution With TESS Field Dwarfs
 
 PI: Angus, Ruth - Columbia University
