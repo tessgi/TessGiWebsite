@@ -180,7 +180,7 @@ Additional premade figures are available on the CTL Filtergraph page, including 
 
 
 ## Core science targets
-To aid in proposal preparation we have [made a csv file available](data/core-science-targets-v2.csv) that contains the top 100,000 priority targets in the southern ecliptic hemisphere.
+To aid in proposal preparation we have [made a csv file available](data/core-science-targets-cycle2-v1.csv) that contains the top 100,000 priority targets in the southern ecliptic hemisphere.
 
 
 ## Proposal templates
