@@ -1,5 +1,5 @@
 # TESS Program G011259
-            
+
 Title: Rr Lyrae As Probes Of The Distance Scale And Structure Formation: Precision Calibration Of The Gaia Sample With Tess
 
 PI: Nataf, David - Johns Hopkins University
@@ -48,3 +48,12 @@ Summary: We request high-cadence observations of 59 nearby RR Lyrae for which Ga
 # Sector 006 targets observed (2)
 343935118,93.3115,-37.2501,12.11,G011259
 259590223,72.5275,-50.657,11.1,G011259
+
+# Sector 008 targets observed (1)
+59759791,110.1482,-46.7084,10.98,G011259
+
+# Sector 009 targets observed (4)
+101184036,153.3505,-13.1382,10.43,G011259
+219249305,171.6234,-17.9144,11.36,G011259
+144189704,177.2342,-10.4414,10.99,G011259
+168276785,154.0208,-29.7287,10.43,G011259

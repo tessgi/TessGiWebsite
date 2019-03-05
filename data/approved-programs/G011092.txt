@@ -1,5 +1,5 @@
 # TESS Program G011092
-            
+
 Title: Phase Shifts In The Timing Of Pulsating Variables
 
 PI: Hintz, Eric - Brigham Young University

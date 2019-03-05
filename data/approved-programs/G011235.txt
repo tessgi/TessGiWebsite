@@ -1,5 +1,5 @@
 # TESS Program G011235
-            
+
 Title: Continuous Coverage Of Exceptional Cataclysmic Variables With Tess
 
 PI: Garnavich, Peter - University Of Notre Dame
@@ -23,3 +23,9 @@ Summary: We propose TESS monitoring of a selection of seven bright cataclysmic v
 
 # Sector 006 targets observed (1)
 272551828,121.8656,-76.5335,14.89,G011268;G011235
+
+# Sector 007 targets observed (1)
+145620527,122.9419,-35.3514,14.72,G011235
+
+# Sector 008 targets observed (1)
+145620527,122.9419,-35.3514,14.72,G011235

@@ -1,5 +1,5 @@
 # TESS Program G011239
-            
+
 Title: The Evolution Of Flaring In Young, Early-Type M Stars
 
 PI: Kowalski, Adam - University Of Colorado
@@ -30,4 +30,13 @@ Summary: We live in a planetary system around an active star, so understanding w
 220473309,75.1967,-57.2567,8.32,G011175;G011180;G011266;G011176;G011239
 
 # Sector 006 targets observed (1)
+220473309,75.1967,-57.2567,8.32,G011175;G011180;G011266;G011176;G011239
+
+# Sector 007 targets observed (1)
+220473309,75.1967,-57.2567,8.32,G011175;G011180;G011266;G011176;G011239
+
+# Sector 008 targets observed (1)
+220473309,75.1967,-57.2567,8.32,G011175;G011180;G011266;G011176;G011239
+
+# Sector 009 targets observed (1)
 220473309,75.1967,-57.2567,8.32,G011175;G011180;G011266;G011176;G011239
