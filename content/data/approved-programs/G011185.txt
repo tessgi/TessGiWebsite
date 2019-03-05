@@ -1,5 +1,5 @@
 # TESS Program G011185
-            
+
 Title: Searching For Quasi-Periodic Pulsations In Stellar Flares With Tess
 
 PI: Davenport, James - Western Washington University
@@ -45,3 +45,11 @@ Summary: To understand the link between stellar "superflares" observed in Kepler
 43085522,97.3514,-2.8177,8.11,G011264;G011231;G011180;G011185
 124279525,92.6434,-21.8684,6.41,G011180;G011185
 7320873,80.2057,-45.6916,10.64,G011185
+
+# Sector 008 targets observed (1)
+46907042,143.1052,-11.1845,6.87,G011264;G011185;G011025;G011176
+
+# Sector 009 targets observed (3)
+56719902,159.01,-11.9147,7.2,G011185
+437261156,170.3621,-20.4543,8.49,G011264;G011185
+259999047,144.9395,-41.0657,8.4,G011180;G011185;G011266

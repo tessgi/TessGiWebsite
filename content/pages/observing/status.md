@@ -134,7 +134,7 @@ The start and end dates for each sector, and the GI target list (csv file) for e
     <td>2019&nbsp;Jan&nbsp;07</td>
     <td>2019&nbsp;Feb&nbsp;02</td>
     <td>2019 Apr 25</td>
-    <td></td>
+    <td><a href='data/target_lists/sector007_targets_lists/GI_S007.csv'>Download</a></td>
 
     <td style="min-width: 12em;">Data downlinked
     </td>
@@ -147,7 +147,7 @@ The start and end dates for each sector, and the GI target list (csv file) for e
     <td>2019&nbsp;Feb&nbsp;02</td>
     <td>2019&nbsp;Feb&nbsp;28</td>
     <td>2019 May 25</td>
-    <td></td>
+    <td><a href='data/target_lists/sector008_targets_lists/GI_S008.csv'>Download</a></td>
 
     <td style="min-width: 12em;">Data downlinked
 
@@ -161,7 +161,7 @@ The start and end dates for each sector, and the GI target list (csv file) for e
     <td>2019&nbsp;Feb&nbsp;28</td>
     <td>2019&nbsp;Mar&nbsp;26</td>
     <td>2019 Jun 25</td>
-    <td></td>
+    <td><a href='data/target_lists/sector009_targets_lists/GI_S009.csv'>Download</a></td>
 
     <td style="min-width: 12em;">Currently being observed
 

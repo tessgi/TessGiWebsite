@@ -26,6 +26,57 @@ Cycle 1
 
 .. include:: approved-programs/cycle1.html
 
+Sector 9
+========
+.. raw:: html
+
+    <ul class="list-group">
+        <li class="list-group-item">
+          <i class="fa fa-calendar fa-margin"></i>
+          Feb 28, 2019 - Mar 26, 2019
+        </li>
+        <li class="list-group-item">
+            <i class="fa fa-download fa-margin"></i>
+            <a href="data/target_lists/sector009_targets_lists/GI_S009.csv">Target list (csv)</a>
+        </li>
+    </ul>
+
+.. include:: approved-programs/sector009.html
+
+Sector 8
+========
+.. raw:: html
+
+    <ul class="list-group">
+        <li class="list-group-item">
+          <i class="fa fa-calendar fa-margin"></i>
+          Feb 02, 2019 - Feb 28, 2019
+        </li>
+        <li class="list-group-item">
+            <i class="fa fa-download fa-margin"></i>
+            <a href="data/target_lists/sector008_targets_lists/GI_S008.csv">Target list (csv)</a>
+        </li>
+    </ul>
+
+.. include:: approved-programs/sector008.html
+
+Sector 7
+========
+.. raw:: html
+
+    <ul class="list-group">
+        <li class="list-group-item">
+          <i class="fa fa-calendar fa-margin"></i>
+          Jan 07, 2019 - Feb 02, 2019
+        </li>
+        <li class="list-group-item">
+            <i class="fa fa-download fa-margin"></i>
+            <a href="data/target_lists/sector007_targets_lists/GI_S007.csv">Target list (csv)</a>
+        </li>
+    </ul>
+
+.. include:: approved-programs/sector007.html
+
 Sector 6
 ========
 .. raw:: html
@@ -33,7 +84,7 @@ Sector 6
     <ul class="list-group">
         <li class="list-group-item">
           <i class="fa fa-calendar fa-margin"></i>
-          Dec 15, 2018 - Jan 07, 2018
+          Dec 15, 2018 - Jan 07, 2019
         </li>
         <li class="list-group-item">
             <i class="fa fa-download fa-margin"></i>

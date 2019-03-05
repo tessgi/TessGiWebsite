@@ -1,5 +1,5 @@
 # TESS Program G011122
-            
+
 Title: Interiors Of Exoplanets By Constraining The Fluid Love Number K2,F
 
 PI: Hellard, Hugo - Deutsches Zentrum Fur Luft-Und Raumfahrt (Dlr)
@@ -14,3 +14,7 @@ Summary: We propose a method to break down the degeneracy in the mass-radius dia
 
 # Sector 002 targets observed (1)
 230982885,24.6052,-55.772,9.96,G011112;G011183;G011132;G011122
+
+# Sector 007 targets observed (2)
+134537478,108.3014,-42.4098,10.36,G011112;G011183;G011132;G011122
+22529346,107.6003,-39.0973,10.04,G011112;G011183;G011132;G011122

@@ -1,5 +1,5 @@
 # TESS Program G011200
-            
+
 Title: Stellar Surface Rotation, Angular Momentum Evolution, And Magnetism In Tess
 
 PI: Van Saders, Jennifer - University Of Hawaii (Manoa)

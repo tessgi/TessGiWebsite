@@ -1,5 +1,5 @@
 # TESS Program G011068
-            
+
 Title: Resolving The Light Curves Of Active Eclipsing Binaries With Tess
 
 PI: Torres, Guillermo - Smithsonian Astrophysical Observatory

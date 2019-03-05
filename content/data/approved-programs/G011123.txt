@@ -1,5 +1,5 @@
 # TESS Program G011123
-            
+
 Title: Cataclysmic Variables And Tess: Uninterrupted Monitoring!
 
 PI: Schlegel, Eric - University Of Texas At San Antonio
@@ -29,4 +29,15 @@ Summary: We propose to observe all bright eclipsing cataclysmic variables (CVs) 
 # Sector 006 targets observed (3)
 24450633,82.3565,-32.8177,13.48,G011123
 219203188,92.6402,-48.7404,13.82,G011268;G011123
+293271581,98.9003,-62.6401,12.42,G011268;G011123
+
+# Sector 007 targets observed (3)
+234386436,112.8708,9.9397,14.78,G011123
+219203188,92.6402,-48.7404,13.82,G011268;G011123
+293271581,98.9003,-62.6401,12.42,G011268;G011123
+
+# Sector 008 targets observed (1)
+293271581,98.9003,-62.6401,12.42,G011268;G011123
+
+# Sector 009 targets observed (1)
 293271581,98.9003,-62.6401,12.42,G011268;G011123
