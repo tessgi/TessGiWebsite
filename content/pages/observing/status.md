@@ -136,7 +136,7 @@ The start and end dates for each sector, and the GI target list (csv file) for e
     <td>2019 Apr 25</td>
     <td><a href='data/target_lists/sector007_targets_lists/GI_S007.csv'>Download</a></td>
 
-    <td style="min-width: 12em;">Data downlinked
+    <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a>
     </td>
   </tr>
 
