@@ -9,7 +9,7 @@ The TESS primary mission duration is two years. The first year will be spent in 
 
 There will be no exclusive-use data rights to observations collected by TESS. All data will be made available through the [MAST public archive](http://archive.stsci.edu/tess/summary.html) once data processing and validation is complete. 
 
-**The deadline for Cycle 2 is March 14, 2019.** 
+**The deadline for Cycle 2 has now passed** 
 
 
 ### Permitted science areas
@@ -252,7 +252,7 @@ The TESS GI program uses a two-phase proposal process. A Phase-1 proposal shall 
 
 * The Scientific/Technical/Management section must be uploaded to the RPS website as a PDF file *after* you have submitted your RPS proposal form.
 
-All proposal materials must be submitted electronically by 4:30 p.m. Eastern time on the due date for this program given in Section 3 in order to be included in the proposal review for this cycle of the TESS Guest Investigator program. Note that the 4:30 p.m. deadline supersedes the deadline stated in the Guidebook for Proposers and in the ROSES Summary of Solicitation. **The proposal deadline for Cycle 2 is March 14, 2019.**
+All proposal materials must be submitted electronically by 4:30 p.m. Eastern time on the due date for this program given in Section 3 in order to be included in the proposal review for this cycle of the TESS Guest Investigator program. Note that the 4:30 p.m. deadline supersedes the deadline stated in the Guidebook for Proposers and in the ROSES Summary of Solicitation. **The proposal deadline for Cycle 2 was March 14, 2019, this has now passed.**
 
 NASA uses a single, uniform set of instructions for the submission of ROSES proposals. These instructions are given in the [NASA Guidebook for Proposers](http://www.hq.nasa.gov/office/procurement/nraguidebook/). TESS GI Proposers should follow these instructions, except where they are overridden by the instructions given in the ROSES Summary of Solicitation or in this Appendix. 
 
