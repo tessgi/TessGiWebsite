@@ -39,23 +39,31 @@ Deacon, N. R., Henning, Th., Kossakowski, D. E.
 Vallely, P. J., Fausnaugh, M., Jha, S. W., et al.    
 2019, not refereed ([2019arXiv190308665V](http://adsabs.harvard.edu/abs/2019arXiv190308665V))  
 
-9. [DIVERSE VARIABILITY OF O AND B STARS REVEALED FROM 2-MINUTE CADENCE LIGHT CURVES IN SECTORS 1 AND 2 OF THE TESS MISSION: SELECTION OF AN ASTEROSEISMIC SAMPLE](http://adsabs.harvard.edu/abs/2019ApJ...872L...9P)  
+9. [ELEANOR: AN OPEN-SOURCE TOOL FOR EXTRACTING LIGHT CURVES FROM THE TESS FULL-FRAME IMAGES](http://adsabs.harvard.edu/abs/2019arXiv190309152F)  
+Feinstein, Adina D., Montet, Benjamin T., Foreman-Mackey, Daniel, et al.    
+2019, not refereed ([2019arXiv190309152F](http://adsabs.harvard.edu/abs/2019arXiv190309152F))  
+
+10. [DATA-DRIVEN STELLAR PARAMETERS FOR SOUTHERN TESS FGK TARGETS](http://adsabs.harvard.edu/abs/2019MNRAS.tmp..737D)  
+Deacon, N. R., Henning, Th, Kossakowski, D. E.    
+2019, refereed ([2019MNRAS.tmp..737D](http://adsabs.harvard.edu/abs/2019MNRAS.tmp..737D))  
+
+11. [DIVERSE VARIABILITY OF O AND B STARS REVEALED FROM 2-MINUTE CADENCE LIGHT CURVES IN SECTORS 1 AND 2 OF THE TESS MISSION: SELECTION OF AN ASTEROSEISMIC SAMPLE](http://adsabs.harvard.edu/abs/2019ApJ...872L...9P)  
 Pedersen, May G., Chowdhury, Sowgata, Johnston, Cole, et al.    
 2019, refereed ([2019ApJ...872L...9P](http://adsabs.harvard.edu/abs/2019ApJ...872L...9P))  
 
-10. [ROTATIONAL MODULATION IN TESS B STARS](http://adsabs.harvard.edu/abs/2019MNRAS.tmp..576B)  
+12. [ROTATIONAL MODULATION IN TESS B STARS](http://adsabs.harvard.edu/abs/2019MNRAS.tmp..576B)  
 Balona, L. A., Handler, G., Chowdhury, S., et al.    
 2019, refereed ([2019MNRAS.tmp..576B](http://adsabs.harvard.edu/abs/2019MNRAS.tmp..576B))  
 
-11. [FLIPER$_{CLASS}$: IN SEARCH OF SOLAR-LIKE PULSATORS AMONG TESS TARGETS](http://adsabs.harvard.edu/abs/2019arXiv190209854B)  
+13. [FLIPER$_{CLASS}$: IN SEARCH OF SOLAR-LIKE PULSATORS AMONG TESS TARGETS](http://adsabs.harvard.edu/abs/2019arXiv190209854B)  
 Bugnet, L., García, R. A., Mathur, S., et al.    
 2019, not refereed ([2019arXiv190209854B](http://adsabs.harvard.edu/abs/2019arXiv190209854B))  
 
-12. [STELLAR FLARES FROM THE FIRST TESS DATA RELEASE: EXPLORING A NEW SAMPLE OF M-DWARFS](http://adsabs.harvard.edu/abs/2019arXiv190100443G)  
+14. [STELLAR FLARES FROM THE FIRST TESS DATA RELEASE: EXPLORING A NEW SAMPLE OF M-DWARFS](http://adsabs.harvard.edu/abs/2019arXiv190100443G)  
 Günther, Maximilian N., Zhan, Zhuchang, Seager, Sara, et al.    
 2019, not refereed ([2019arXiv190100443G](http://adsabs.harvard.edu/abs/2019arXiv190100443G))  
 
-13. [SHORT TERM VARIABILITY OF EVOLVED MASSIVE STARS WITH TESS](http://adsabs.harvard.edu/abs/2019arXiv190109930D)  
+15. [SHORT TERM VARIABILITY OF EVOLVED MASSIVE STARS WITH TESS](http://adsabs.harvard.edu/abs/2019arXiv190109930D)  
 Dorn-Wallenstein, Trevor Z., Levesque, Emily M., Davenport, James R. A.    
 2019, not refereed ([2019arXiv190109930D](http://adsabs.harvard.edu/abs/2019arXiv190109930D))  
 

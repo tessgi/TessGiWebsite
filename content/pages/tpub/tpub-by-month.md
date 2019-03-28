@@ -91,6 +91,14 @@ Kostov, Veselin B., Schlieder, Joshua E., Barclay, Thomas, et al.
 Vallely, P. J., Fausnaugh, M., Jha, S. W., et al.    
 2019, not refereed ([2019arXiv190308665V](http://adsabs.harvard.edu/abs/2019arXiv190308665V))  
 
+18. [ELEANOR: AN OPEN-SOURCE TOOL FOR EXTRACTING LIGHT CURVES FROM THE TESS FULL-FRAME IMAGES](http://adsabs.harvard.edu/abs/2019arXiv190309152F)  
+Feinstein, Adina D., Montet, Benjamin T., Foreman-Mackey, Daniel, et al.    
+2019, not refereed ([2019arXiv190309152F](http://adsabs.harvard.edu/abs/2019arXiv190309152F))  
+
+19. [DATA-DRIVEN STELLAR PARAMETERS FOR SOUTHERN TESS FGK TARGETS](http://adsabs.harvard.edu/abs/2019MNRAS.tmp..737D)  
+Deacon, N. R., Henning, Th, Kossakowski, D. E.    
+2019, refereed ([2019MNRAS.tmp..737D](http://adsabs.harvard.edu/abs/2019MNRAS.tmp..737D))  
+
 
 2019-02
 -------
