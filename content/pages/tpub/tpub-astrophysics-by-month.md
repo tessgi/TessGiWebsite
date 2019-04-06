@@ -12,6 +12,14 @@ Jayasinghe, T., Stanek, K. Z., Kochanek, C. S., et al.
 2019, refereed ([2019MNRAS.485..961J](http://adsabs.harvard.edu/abs/2019MNRAS.485..961J))  
 
 
+2019-04
+-------
+
+1. [EARLY TIME LIGHT CURVES OF 18 BRIGHT TYPE IA SUPERNOVAE OBSERVED WITH TESS](http://adsabs.harvard.edu/abs/2019arXiv190402171F)  
+Fausnaugh, M. M., Vallely, P. J., Kochanek, C. S., et al.    
+2019, not refereed ([2019arXiv190402171F](http://adsabs.harvard.edu/abs/2019arXiv190402171F))  
+
+
 2019-03
 -------
 
@@ -50,6 +58,14 @@ Feinstein, Adina D., Montet, Benjamin T., Foreman-Mackey, Daniel, et al.
 9. [DATA-DRIVEN STELLAR PARAMETERS FOR SOUTHERN TESS FGK TARGETS](http://adsabs.harvard.edu/abs/2019MNRAS.tmp..737D)  
 Deacon, N. R., Henning, Th, Kossakowski, D. E.    
 2019, refereed ([2019MNRAS.tmp..737D](http://adsabs.harvard.edu/abs/2019MNRAS.tmp..737D))  
+
+10. [TESS HABITABLE ZONE STAR CATALOG](http://adsabs.harvard.edu/abs/2019ApJ...874L...8K)  
+Kaltenegger, L., Pepper, J., Stassun, K., et al.    
+2019, refereed ([2019ApJ...874L...8K](http://adsabs.harvard.edu/abs/2019ApJ...874L...8K))  
+
+11. [A TRANSITING EXOCOMET DETECTED IN BROADBAND LIGHT BY TESS IN THE $\BETA$ PICTORIS SYSTEM](http://adsabs.harvard.edu/abs/2019arXiv190311071Z)  
+Zieba, Sebastian, Zwintz, Konstanze, Kenworthy, Matthew A., et al.    
+2019, not refereed ([2019arXiv190311071Z](http://adsabs.harvard.edu/abs/2019arXiv190311071Z))  
 
 
 2019-02
