@@ -26,6 +26,23 @@ Cycle 1
 
 .. include:: approved-programs/cycle1.html
 
+Sector 10
+========
+.. raw:: html
+
+    <ul class="list-group">
+        <li class="list-group-item">
+          <i class="fa fa-calendar fa-margin"></i>
+          Mar 26, 2019 - Apr 22, 2019
+        </li>
+        <li class="list-group-item">
+            <i class="fa fa-download fa-margin"></i>
+            <a href="data/target_lists/sector010_targets_lists/GI_S010.csv">Target list (csv)</a>
+        </li>
+    </ul>
+
+.. include:: approved-programs/sector010.html
+
 Sector 9
 ========
 .. raw:: html
