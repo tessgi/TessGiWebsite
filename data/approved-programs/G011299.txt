@@ -38,3 +38,6 @@ Summary: We propose TESS 2-min and 30-min cadence observations of a carefully se
 
 # Sector 008 targets observed (1)
 374859347,88.517,-60.0238,6.27,G011299;G011183;G011025;G011129
+
+# Sector 010 targets observed (1)
+374859347,88.517,-60.0238,6.27,G011299;G011183;G011025;G011129
