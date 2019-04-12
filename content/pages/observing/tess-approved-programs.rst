@@ -27,7 +27,7 @@ Cycle 1
 .. include:: approved-programs/cycle1.html
 
 Sector 10
-========
+=========
 .. raw:: html
 
     <ul class="list-group">
