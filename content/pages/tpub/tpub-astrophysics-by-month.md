@@ -19,6 +19,10 @@ Jayasinghe, T., Stanek, K. Z., Kochanek, C. S., et al.
 Fausnaugh, M. M., Vallely, P. J., Kochanek, C. S., et al.    
 2019, not refereed ([2019arXiv190402171F](http://adsabs.harvard.edu/abs/2019arXiv190402171F))  
 
+2. [TESS OBSERVATIONS OF THE ASYNCHRONOUS POLAR CD IND: MAPPING THE CHANGING ACCRETION GEOMETRY](http://adsabs.harvard.edu/abs/2019arXiv190402949H)  
+Hakala, Pasi, Ramsay, Gavin, Potter, Stephen B., et al.    
+2019, not refereed ([2019arXiv190402949H](http://adsabs.harvard.edu/abs/2019arXiv190402949H))  
+
 
 2019-03
 -------

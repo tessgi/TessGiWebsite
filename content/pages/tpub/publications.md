@@ -12,8 +12,8 @@ the TESS mission is provided by the NASA Explorer Program.*
 
 The TESS Science Support Center curates a list of scientific publications
 pertaining to TESS.
-The database contains 118 publications,
-of which 61 are peer-reviewed.
+The database contains 121 publications,
+of which 62 are peer-reviewed.
 It demonstrates the important impact of TESS data
 on astronomical research.
 
@@ -29,7 +29,7 @@ Or seach by topic:
 If you spot an error in the database, such as a missing entry,
 please get in touch or open an issue in the <a href="https://github.com/tessgi/tpub">GitHub repository</a> of the database.
 
-Last update: 06 Apr 2019.
+Last update: 11 Apr 2019.
 
 <hr/>
 
@@ -46,9 +46,9 @@ of year.
 
 Both TESS data have been used for scientific applications
 that reach far beyond exoplanet research.
-While 67 works relate to exoplanets
+While 69 works relate to exoplanets
 (57%),
-a total of 51
+a total of 52
 pertain to other areas of astrophysics
 (43%).
 
@@ -105,14 +105,14 @@ Bouma, L. G., Winn, Joshua N., Kosiarek, Jacobi, et al.
 [2017arXiv170508891B](http://adsabs.harvard.edu/abs/2017arXiv170508891B)
 <span class="badge">26 citations</span>
 
-9. ASTEROSEISMOLOGY OF RED GIANTS: FROM ANALYSING LIGHT CURVES TO ESTIMATING AGES  
-Davies, G. R., Miglio, A.    
-[2016AN....337..774D](http://adsabs.harvard.edu/abs/2016AN....337..774D)
-<span class="badge">21 citations</span>
-
-10. A FRAMEWORK FOR PRIORITIZING THE TESS PLANETARY CANDIDATES MOST AMENABLE TO ATMOSPHERIC CHARACTERIZATION  
+9. A FRAMEWORK FOR PRIORITIZING THE TESS PLANETARY CANDIDATES MOST AMENABLE TO ATMOSPHERIC CHARACTERIZATION  
 Kempton, Eliza M. -R., Bean, Jacob L., Louie, Dana R., et al.    
 [2018PASP..130k4401K](http://adsabs.harvard.edu/abs/2018PASP..130k4401K)
+<span class="badge">21 citations</span>
+
+10. ASTEROSEISMOLOGY OF RED GIANTS: FROM ANALYSING LIGHT CURVES TO ESTIMATING AGES  
+Davies, G. R., Miglio, A.    
+[2016AN....337..774D](http://adsabs.harvard.edu/abs/2016AN....337..774D)
 <span class="badge">21 citations</span>
 <hr/>
 
@@ -130,7 +130,7 @@ within the last 90 days.
 <!-- ## Most-active authors
 
 The entries in the publication database have been authored and co-authored
-by a total of 908 unique author names.
+by a total of 915 unique author names.
 Here we list the most-active authors, defined as those with six or more first-author publications in our database.
 
 -->
