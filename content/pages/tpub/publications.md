@@ -60,7 +60,7 @@ pertain to other areas of astrophysics
 ## Most-cited publications
 
 TESS publications have cumulatively been cited
-1419 times.
+1439 times.
 The list below shows the most-cited publications,
 based on the citation count obtained from NASA ADS.
 
@@ -73,7 +73,7 @@ Ricker, George R., Winn, Joshua N., Vanderspek, Roland, et al.
 2. THE TRANSITING EXOPLANET SURVEY SATELLITE: SIMULATIONS OF PLANET DETECTIONS AND ASTROPHYSICAL FALSE POSITIVES  
 Sullivan, Peter W., Winn, Joshua N., Berta-Thompson, Zachory K., et al.    
 [2015ApJ...809...77S](http://adsabs.harvard.edu/abs/2015ApJ...809...77S)
-<span class="badge">201 citations</span>
+<span class="badge">202 citations</span>
 
 3. THE TESS INPUT CATALOG AND CANDIDATE TARGET LIST  
 Stassun, Keivan G., Oelkers, Ryan J., Pepper, Joshua, et al.    
@@ -110,9 +110,9 @@ Kempton, Eliza M. -R., Bean, Jacob L., Louie, Dana R., et al.
 [2018PASP..130k4401K](http://adsabs.harvard.edu/abs/2018PASP..130k4401K)
 <span class="badge">23 citations</span>
 
-10. THE TESS-HERMES SURVEY DATA RELEASE 1: HIGH-RESOLUTION SPECTROSCOPY OF THE TESS SOUTHERN CONTINUOUS VIEWING ZONE  
-Sharma, Sanjib, Stello, Dennis, Buder, Sven, et al.    
-[2018MNRAS.473.2004S](http://adsabs.harvard.edu/abs/2018MNRAS.473.2004S)
+10. EXPECTED YIELDS OF PLANET DISCOVERIES FROM THE TESS PRIMARY AND EXTENDED MISSIONS  
+Huang, Chelsea X., Shporer, Avi, Dragomir, Diana, et al.    
+[2018arXiv180711129H](http://adsabs.harvard.edu/abs/2018arXiv180711129H)
 <span class="badge">22 citations</span>
 <hr/>
 

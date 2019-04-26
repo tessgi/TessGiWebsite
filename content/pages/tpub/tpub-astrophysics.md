@@ -31,13 +31,13 @@ Fausnaugh, M. M., Vallely, P. J., Kochanek, C. S., et al.
 Lee, Jae Woo, Kristiansen, Martti H., Hong, Kyeongsoo    
 2019, not refereed ([2019arXiv190407362L](http://adsabs.harvard.edu/abs/2019arXiv190407362L))  
 
-7. [DISCOVERY AND EARLY EVOLUTION OF ASASSN-19BT, THE FIRST TDE DETECTED BY TESS](http://adsabs.harvard.edu/abs/2019arXiv190409293H)  
-Holoien, Thomas W. -S., Vallely, Patrick J., Auchettl, Katie, et al.    
-2019, not refereed ([2019arXiv190409293H](http://adsabs.harvard.edu/abs/2019arXiv190409293H))  
-
-8. [THE VAST POTENTIAL OF EXOPLANET SATELLITES FOR HIGH-ENERGY ASTROPHYSICS](http://adsabs.harvard.edu/abs/2019arXiv190408952S)  
+7. [THE VAST POTENTIAL OF EXOPLANET SATELLITES FOR HIGH-ENERGY ASTROPHYSICS](http://adsabs.harvard.edu/abs/2019arXiv190408952S)  
 Smith, Krista Lynne    
 2019, not refereed ([2019arXiv190408952S](http://adsabs.harvard.edu/abs/2019arXiv190408952S))  
+
+8. [DISCOVERY AND EARLY EVOLUTION OF ASASSN-19BT, THE FIRST TDE DETECTED BY TESS](http://adsabs.harvard.edu/abs/2019arXiv190409293H)  
+Holoien, Thomas W. -S., Vallely, Patrick J., Auchettl, Katie, et al.    
+2019, not refereed ([2019arXiv190409293H](http://adsabs.harvard.edu/abs/2019arXiv190409293H))  
 
 9. [ASTEROSEISMOLOGY OF MASSIVE STARS WITH THE TESS MISSION: THE RUNAWAY Β CEP PULSATOR PHL 346 = HN AQR](http://adsabs.harvard.edu/abs/2019ApJ...873L...4H)  
 Handler, Gerald, Pigulski, Andrzej, Daszyńska-Daszkiewicz, Jadwiga, et al.    

@@ -55,13 +55,13 @@ Yu, Liang, Vanderburg, Andrew, Huang, Chelsea, et al.
 Lee, Jae Woo, Kristiansen, Martti H., Hong, Kyeongsoo    
 2019, not refereed ([2019arXiv190407362L](http://adsabs.harvard.edu/abs/2019arXiv190407362L))  
 
-13. [DISCOVERY AND EARLY EVOLUTION OF ASASSN-19BT, THE FIRST TDE DETECTED BY TESS](http://adsabs.harvard.edu/abs/2019arXiv190409293H)  
-Holoien, Thomas W. -S., Vallely, Patrick J., Auchettl, Katie, et al.    
-2019, not refereed ([2019arXiv190409293H](http://adsabs.harvard.edu/abs/2019arXiv190409293H))  
-
-14. [THE VAST POTENTIAL OF EXOPLANET SATELLITES FOR HIGH-ENERGY ASTROPHYSICS](http://adsabs.harvard.edu/abs/2019arXiv190408952S)  
+13. [THE VAST POTENTIAL OF EXOPLANET SATELLITES FOR HIGH-ENERGY ASTROPHYSICS](http://adsabs.harvard.edu/abs/2019arXiv190408952S)  
 Smith, Krista Lynne    
 2019, not refereed ([2019arXiv190408952S](http://adsabs.harvard.edu/abs/2019arXiv190408952S))  
+
+14. [DISCOVERY AND EARLY EVOLUTION OF ASASSN-19BT, THE FIRST TDE DETECTED BY TESS](http://adsabs.harvard.edu/abs/2019arXiv190409293H)  
+Holoien, Thomas W. -S., Vallely, Patrick J., Auchettl, Katie, et al.    
+2019, not refereed ([2019arXiv190409293H](http://adsabs.harvard.edu/abs/2019arXiv190409293H))  
 
 15. [A JOVIAN PLANET IN AN ECCENTRIC 11.5 DAY ORBIT AROUND HD 1397 DISCOVERED BY TESS](http://adsabs.harvard.edu/abs/2019A&A...623A.100N)  
 Nielsen, L. D., Bouchy, F., Turner, O., et al.    
