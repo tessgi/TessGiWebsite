@@ -12,8 +12,8 @@ the TESS mission is provided by the NASA Explorer Program.*
 
 The TESS Science Support Center curates a list of scientific publications
 pertaining to TESS.
-The database contains 122 publications,
-of which 66 are peer-reviewed.
+The database contains 130 publications,
+of which 73 are peer-reviewed.
 It demonstrates the important impact of TESS data
 on astronomical research.
 
@@ -29,7 +29,7 @@ Or seach by topic:
 If you spot an error in the database, such as a missing entry,
 please get in touch or open an issue in the <a href="https://github.com/tessgi/tpub">GitHub repository</a> of the database.
 
-Last update: 26 Apr 2019.
+Last update: 13 May 2019.
 
 <hr/>
 
@@ -46,11 +46,11 @@ of year.
 
 Both TESS data have been used for scientific applications
 that reach far beyond exoplanet research.
-While 68 works relate to exoplanets
-(56%),
-a total of 54
+While 71 works relate to exoplanets
+(55%),
+a total of 59
 pertain to other areas of astrophysics
-(44%).
+(45%).
 
 
 ![Publications by subject](images/tpub/tpub-piechart.png)
@@ -60,7 +60,7 @@ pertain to other areas of astrophysics
 ## Most-cited publications
 
 TESS publications have cumulatively been cited
-1439 times.
+1445 times.
 The list below shows the most-cited publications,
 based on the citation count obtained from NASA ADS.
 
@@ -110,9 +110,9 @@ Kempton, Eliza M. -R., Bean, Jacob L., Louie, Dana R., et al.
 [2018PASP..130k4401K](http://adsabs.harvard.edu/abs/2018PASP..130k4401K)
 <span class="badge">23 citations</span>
 
-10. EXPECTED YIELDS OF PLANET DISCOVERIES FROM THE TESS PRIMARY AND EXTENDED MISSIONS  
-Huang, Chelsea X., Shporer, Avi, Dragomir, Diana, et al.    
-[2018arXiv180711129H](http://adsabs.harvard.edu/abs/2018arXiv180711129H)
+10. THE TESS-HERMES SURVEY DATA RELEASE 1: HIGH-RESOLUTION SPECTROSCOPY OF THE TESS SOUTHERN CONTINUOUS VIEWING ZONE  
+Sharma, Sanjib, Stello, Dennis, Buder, Sven, et al.    
+[2018MNRAS.473.2004S](http://adsabs.harvard.edu/abs/2018MNRAS.473.2004S)
 <span class="badge">22 citations</span>
 <hr/>
 
@@ -130,7 +130,7 @@ within the last 90 days.
 <!-- ## Most-active authors
 
 The entries in the publication database have been authored and co-authored
-by a total of 929 unique author names.
+by a total of 938 unique author names.
 Here we list the most-active authors, defined as those with six or more first-author publications in our database.
 
 -->
