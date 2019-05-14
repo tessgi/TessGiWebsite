@@ -149,7 +149,7 @@ The start and end dates for each sector, and the GI target list (csv file) for e
     <td>2019 Apr 28</td>
     <td><a href='data/target_lists/sector008_targets_lists/GI_S008.csv'>Download</a></td>
 
-    <td style="min-width: 12em;">Data downlinked
+    <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a>
 
     </td>
   </tr>
@@ -163,7 +163,7 @@ The start and end dates for each sector, and the GI target list (csv file) for e
     <td>2019 May 26</td>
     <td><a href='data/target_lists/sector009_targets_lists/GI_S009.csv'>Download</a></td>
 
-    <td style="min-width: 12em;">
+    <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a>
     </td>
   </tr>
 
@@ -174,7 +174,7 @@ The start and end dates for each sector, and the GI target list (csv file) for e
     <td>2019&nbsp;Mar&nbsp;26</td>
     <td>2019&nbsp;Apr&nbsp;22</td>
     <td>2019 Jun 22</td>
-    <td></td>
+    <td><a href='data/target_lists/sector010_targets_lists/GI_S010.csv'>Download</a></td>
 
     <td style="min-width: 12em;">Data downlinked
     </td>
@@ -187,7 +187,7 @@ The start and end dates for each sector, and the GI target list (csv file) for e
     <td>2019&nbsp;Apr&nbsp;22</td>
     <td>2019&nbsp;May&nbsp;21</td>
     <td>2019 Jul 21</td>
-    <td></td>
+    <td><a href='data/target_lists/sector011_targets_lists/GI_S011.csv'>Download</a></td>
 
     <td style="min-width: 12em;">Currently being observed
 
@@ -201,7 +201,7 @@ The start and end dates for each sector, and the GI target list (csv file) for e
     <td>2019&nbsp;May&nbsp;21</td>
     <td>2019&nbsp;Jun&nbsp;19</td>
     <td>2019 Aug 19</td>
-    <td></td>
+    <td><a href='data/target_lists/sector012_targets_lists/GI_S012.csv'>Download</a></td>
 
     <td style="min-width: 12em;">
 
