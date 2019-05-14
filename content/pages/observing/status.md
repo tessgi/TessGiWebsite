@@ -120,7 +120,7 @@ The start and end dates for each sector, and the GI target list (csv file) for e
     <td>South</td>
     <td>2018&nbsp;Dec&nbsp;15</td>
     <td>2019&nbsp;Jan&nbsp;07</td>
-    <td>2019 Mar 25</td>
+    <td>2019 Mar 07</td>
     <td><a href='data/target_lists/sector006_targets_lists/GI_S006.csv'>Download</a></td>
 
     <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a>
@@ -133,7 +133,7 @@ The start and end dates for each sector, and the GI target list (csv file) for e
     <td>South</td>
     <td>2019&nbsp;Jan&nbsp;07</td>
     <td>2019&nbsp;Feb&nbsp;02</td>
-    <td>2019 Apr 25</td>
+    <td>2019 Apr 02</td>
     <td><a href='data/target_lists/sector007_targets_lists/GI_S007.csv'>Download</a></td>
 
     <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a>
@@ -146,7 +146,7 @@ The start and end dates for each sector, and the GI target list (csv file) for e
     <td>South</td>
     <td>2019&nbsp;Feb&nbsp;02</td>
     <td>2019&nbsp;Feb&nbsp;28</td>
-    <td>2019 May 25</td>
+    <td>2019 Apr 28</td>
     <td><a href='data/target_lists/sector008_targets_lists/GI_S008.csv'>Download</a></td>
 
     <td style="min-width: 12em;">Data downlinked
@@ -160,10 +160,10 @@ The start and end dates for each sector, and the GI target list (csv file) for e
     <td>South</td>
     <td>2019&nbsp;Feb&nbsp;28</td>
     <td>2019&nbsp;Mar&nbsp;26</td>
-    <td>2019 Jun 25</td>
+    <td>2019 May 26</td>
     <td><a href='data/target_lists/sector009_targets_lists/GI_S009.csv'>Download</a></td>
 
-    <td style="min-width: 12em;">Data downlinked
+    <td style="min-width: 12em;">
     </td>
   </tr>
 
@@ -173,10 +173,10 @@ The start and end dates for each sector, and the GI target list (csv file) for e
     <td>South</td>
     <td>2019&nbsp;Mar&nbsp;26</td>
     <td>2019&nbsp;Apr&nbsp;22</td>
-    <td>2019 Jul 25</td>
+    <td>2019 Jun 22</td>
     <td></td>
 
-    <td style="min-width: 12em;">Currently being observed
+    <td style="min-width: 12em;">Data downlinked
     </td>
   </tr>
 
@@ -186,10 +186,10 @@ The start and end dates for each sector, and the GI target list (csv file) for e
     <td>South</td>
     <td>2019&nbsp;Apr&nbsp;22</td>
     <td>2019&nbsp;May&nbsp;21</td>
-    <td>2019 Aug 25</td>
+    <td>2019 Jul 21</td>
     <td></td>
 
-    <td style="min-width: 12em;">
+    <td style="min-width: 12em;">Currently being observed
 
     </td>
   </tr>
@@ -200,7 +200,7 @@ The start and end dates for each sector, and the GI target list (csv file) for e
     <td>South</td>
     <td>2019&nbsp;May&nbsp;21</td>
     <td>2019&nbsp;Jun&nbsp;19</td>
-    <td>2019 Sep 25</td>
+    <td>2019 Aug 19</td>
     <td></td>
 
     <td style="min-width: 12em;">
@@ -214,7 +214,179 @@ The start and end dates for each sector, and the GI target list (csv file) for e
     <td>South</td>
     <td>2019&nbsp;Jun&nbsp;19</td>
     <td>2019&nbsp;Jul&nbsp;18</td>
-    <td>2019 Oct 25</td>
+    <td>2019 Sep 18</td>
+    <td></td>
+
+    <td style="min-width: 12em;">
+
+    </td>
+  </tr>
+
+  <tr>
+    <td><a href="#s014">s014</a></td>
+    <td>North</td>
+    <td>2019&nbsp;Jul&nbsp;18</td>
+    <td>2019&nbsp;Aug&nbsp;15</td>
+    <td>2019 Oct 15</td>
+    <td></td>
+
+    <td style="min-width: 12em;">
+
+    </td>
+  </tr>
+
+
+  <tr>
+    <td><a href="#s015">s015</a></td>
+    <td>North</td>
+    <td>2019&nbsp;Aug&nbsp;15</td>
+    <td>2019&nbsp;Sep&nbsp;11</td>
+    <td>2019 Nov 11</td>
+    <td></td>
+
+    <td style="min-width: 12em;">
+
+    </td>
+  </tr>
+
+  <tr>
+    <td><a href="#s016">s016</a></td>
+    <td>North</td>
+    <td>2019&nbsp;Sep&nbsp;11</td>
+    <td>2019&nbsp;Oct&nbsp;07</td>
+    <td>2019 Dec 07</td>
+    <td></td>
+
+    <td style="min-width: 12em;">
+
+    </td>
+  </tr>
+
+
+  <tr>
+    <td><a href="#s017">s017</a></td>
+    <td>North</td>
+    <td>2019&nbsp;Oct&nbsp;07</td>
+    <td>2019&nbsp;Nov&nbsp;02</td>
+    <td>2020 Jan 02</td>
+    <td></td>
+
+    <td style="min-width: 12em;">
+
+    </td>
+  </tr>
+
+  <tr>
+    <td><a href="#s018">s018</a></td>
+    <td>North</td>
+    <td>2019&nbsp;Nov&nbsp;02</td>
+    <td>2019&nbsp;Nov&nbsp;27</td>
+    <td>2020 Jan 27</td>
+    <td></td>
+
+    <td style="min-width: 12em;">
+
+    </td>
+  </tr>
+
+
+  <tr>
+    <td><a href="#s019">s019</a></td>
+    <td>North</td>
+    <td>2019&nbsp;Nov&nbsp;27</td>
+    <td>2019&nbsp;Dec&nbsp;24</td>
+    <td>2020 Feb 24</td>
+    <td></td>
+
+    <td style="min-width: 12em;">
+
+    </td>
+  </tr>
+
+  <tr>
+    <td><a href="#s020">s020</a></td>
+    <td>North</td>
+    <td>2019&nbsp;Dec&nbsp;24</td>
+    <td>2020&nbsp;Jan&nbsp;21</td>
+    <td>2020 Mar 21</td>
+    <td></td>
+
+    <td style="min-width: 12em;">
+
+    </td>
+  </tr>
+
+  <tr>
+    <td><a href="#s021">s021</a></td>
+    <td>North</td>
+    <td>2020&nbsp;Jan&nbsp;21</td>
+    <td>2020&nbsp;Feb&nbsp;18</td>
+    <td>2020 Apr 18</td>
+    <td></td>
+
+    <td style="min-width: 12em;">
+
+    </td>
+  </tr>
+
+  <tr>
+    <td><a href="#s022">s022</a></td>
+    <td>North</td>
+    <td>2020&nbsp;Feb&nbsp;18</td>
+    <td>2020&nbsp;Mar&nbsp;18</td>
+    <td>2020 May 18</td>
+    <td></td>
+
+    <td style="min-width: 12em;">
+
+    </td>
+  </tr>
+
+  <tr>
+    <td><a href="#s023">s023</a></td>
+    <td>North</td>
+    <td>2020&nbsp;Mar&nbsp;18</td>
+    <td>2020&nbsp;Apr&nbsp;15</td>
+    <td>2020 Jun 15</td>
+    <td></td>
+
+    <td style="min-width: 12em;">
+
+    </td>
+  </tr>
+
+  <tr>
+    <td><a href="#s024">s024</a></td>
+    <td>North</td>
+    <td>2020&nbsp;Apr&nbsp;15</td>
+    <td>2020&nbsp;May&nbsp;13</td>
+    <td>2020 Jul 13</td>
+    <td></td>
+
+    <td style="min-width: 12em;">
+
+    </td>
+  </tr>
+
+  <tr>
+    <td><a href="#s025">s025</a></td>
+    <td>North</td>
+    <td>2020&nbsp;May&nbsp;13</td>
+    <td>2020&nbsp;Jun&nbsp;08</td>
+    <td>2020 Aug 08</td>
+    <td></td>
+
+    <td style="min-width: 12em;">
+
+    </td>
+  </tr>
+
+  <tr>
+    <td><a href="#s026">s026</a></td>
+    <td>North</td>
+    <td>2020&nbsp;Jun&nbsp;08</td>
+    <td>2020&nbsp;Jul&nbsp;04</td>
+    <td>2020 Sep 04</td>
     <td></td>
 
     <td style="min-width: 12em;">
