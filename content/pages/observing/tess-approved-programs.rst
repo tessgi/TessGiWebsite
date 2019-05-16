@@ -26,6 +26,40 @@ Cycle 1
 
 .. include:: approved-programs/cycle1.html
 
+Sector 12
+=========
+.. raw:: html
+
+    <ul class="list-group">
+        <li class="list-group-item">
+          <i class="fa fa-calendar fa-margin"></i>
+          May 21, 2019 - Jun 19, 2019
+        </li>
+        <li class="list-group-item">
+            <i class="fa fa-download fa-margin"></i>
+            <a href="data/target_lists/sector012_targets_lists/GI_S012.csv">Target list (csv)</a>
+        </li>
+    </ul>
+
+.. include:: approved-programs/sector012.html
+
+Sector 11
+=========
+.. raw:: html
+
+    <ul class="list-group">
+        <li class="list-group-item">
+          <i class="fa fa-calendar fa-margin"></i>
+          Apr 22, 2019 - May 21, 2019
+        </li>
+        <li class="list-group-item">
+            <i class="fa fa-download fa-margin"></i>
+            <a href="data/target_lists/sector011_targets_lists/GI_S011.csv">Target list (csv)</a>
+        </li>
+    </ul>
+
+.. include:: approved-programs/sector011.html
+
 Sector 10
 =========
 .. raw:: html
