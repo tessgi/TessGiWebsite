@@ -60,3 +60,6 @@ Summary: We request high-cadence observations of 59 nearby RR Lyrae for which Ga
 
 # Sector 010 targets observed (1)
 453469791,187.6269,-26.0475,10.1,G011259
+
+# Sector 012 targets observed (1)
+291451813,248.1035,-83.9035,9.18,G011259
