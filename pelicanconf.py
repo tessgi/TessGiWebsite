@@ -157,9 +157,9 @@ IMPORTANT_DATES = (
             # ('<b>January 25, 2019</b>',
             #  'Sector 3 and 4 data release',
             #  'status.html'), # link to a news item?
-            ('<b>14 March 2019</b>',
-             'TESS GI Cycle 2 proposal deadline',
-             'proposing-investigations.html'), # link to a news item?
+            ('<b>18 July 2019</b>',
+             'Northern Hemisphere observations begin',
+             'status.html'), # link to a news item?
          )
 
 # Defines the "meetings" box on the front page
@@ -221,15 +221,15 @@ MEETINGS = (
             #('<b>11-14 February 2019</b><br>'
             # 'TESS Data Workshop',
             # 'http://www.stsci.edu/institute/conference/tess'),               
-            ('<b>4-8 March 2019</b><br>'
-             'Kepler Science Conference',
-             'https://keplerscience.arc.nasa.gov/scicon-2019/index.html'),           
-            ('<b>25-29 March 2019</b><br>'
-             'Building Early Science with TESS',
-             'http://tess.ninja/'),   
-            ('<b>15 April - 28 June 2019</b><br>'
-             'Better Stars, Better Planets: Exploiting the Stellar-Exoplanetary Synergy',
-             'https://www.kitp.ucsb.edu/activities/exostar19'),
+            # ('<b>4-8 March 2019</b><br>'
+            #  'Kepler Science Conference',
+            #  'https://keplerscience.arc.nasa.gov/scicon-2019/index.html'),           
+            # ('<b>25-29 March 2019</b><br>'
+            #  'Building Early Science with TESS',
+            #  'http://tess.ninja/'),   
+            # ('<b>15 April - 28 June 2019</b><br>'
+            #  'Better Stars, Better Planets: Exploiting the Stellar-Exoplanetary Synergy',
+            #  'https://www.kitp.ucsb.edu/activities/exostar19'),
             ('<b>29 July - 2 August 2019</b><br>'
              'TESS Science Conference',
              'https://tess.mit.edu/news/tess-science-conference/'),            
