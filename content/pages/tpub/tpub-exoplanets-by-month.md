@@ -4,6 +4,14 @@ Save_as: tpub-exoplanets-by-month.html
 [TOC]
 
 
+2019-07
+-------
+
+1. [A RESONANT PAIR OF WARM GIANT PLANETS REVEALED BY TESS](http://adsabs.harvard.edu/abs/2019MNRAS.486.4980K)  
+Kipping, David, Nesvorný, David, Hartman, Joel, et al.    
+2019, refereed ([2019MNRAS.486.4980K](http://adsabs.harvard.edu/abs/2019MNRAS.486.4980K))  
+
+
 2019-06
 -------
 
@@ -139,15 +147,11 @@ Zhang, Hui, Yu, Zhouyi, Liang, Ensi, et al.
 Zhang, Hui, Yu, Zhouyi, Liang, Ensi, et al.    
 2019, refereed ([2019ApJS..240...17Z](http://adsabs.harvard.edu/abs/2019ApJS..240...17Z))  
 
-7. [A RESONANT PAIR OF WARM GIANT PLANETS REVEALED BY TESS](http://adsabs.harvard.edu/abs/2019arXiv190203900K)  
-Kipping, David, Nesvorný, David, Hartman, Joel, et al.    
-2019, not refereed ([2019arXiv190203900K](http://adsabs.harvard.edu/abs/2019arXiv190203900K))  
-
-8. [RAPID CLASSIFICATION OF TESS PLANET CANDIDATES WITH CONVOLUTIONAL NEURAL NETWORKS](http://adsabs.harvard.edu/abs/2019arXiv190208544O)  
+7. [RAPID CLASSIFICATION OF TESS PLANET CANDIDATES WITH CONVOLUTIONAL NEURAL NETWORKS](http://adsabs.harvard.edu/abs/2019arXiv190208544O)  
 Osborn, Hugh P., Ansdell, Megan, Ioannou, Yani, et al.    
 2019, not refereed ([2019arXiv190208544O](http://adsabs.harvard.edu/abs/2019arXiv190208544O))  
 
-9. [TOI-150: A TRANSITING HOT JUPITER IN THE TESS SOUTHERN CVZ](http://adsabs.harvard.edu/abs/2019arXiv190209710C)  
+8. [TOI-150: A TRANSITING HOT JUPITER IN THE TESS SOUTHERN CVZ](http://adsabs.harvard.edu/abs/2019arXiv190209710C)  
 Cañas, Caleb I., Stefansson, Gudmundur, Monson, Andrew J., et al.    
 2019, not refereed ([2019arXiv190209710C](http://adsabs.harvard.edu/abs/2019arXiv190209710C))  
 

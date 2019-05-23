@@ -4,6 +4,14 @@ Save_as: tpub-by-month.html
 [TOC]
 
 
+2019-07
+-------
+
+1. [A RESONANT PAIR OF WARM GIANT PLANETS REVEALED BY TESS](http://adsabs.harvard.edu/abs/2019MNRAS.486.4980K)  
+Kipping, David, Nesvorný, David, Hartman, Joel, et al.    
+2019, refereed ([2019MNRAS.486.4980K](http://adsabs.harvard.edu/abs/2019MNRAS.486.4980K))  
+
+
 2019-06
 -------
 
@@ -27,21 +35,21 @@ Hakala, Pasi, Ramsay, Gavin, Potter, Stephen B., et al.
 2019-05
 -------
 
-1. [DETECTING UNRESOLVED BINARIES IN TESS DATA WITH SPECKLE IMAGING](http://adsabs.harvard.edu/abs/2019AJ....157..211M)  
-Matson, Rachel A., Howell, Steve B., Ciardi, David R.    
-2019, refereed ([2019AJ....157..211M](http://adsabs.harvard.edu/abs/2019AJ....157..211M))  
-
-2. [HD 2685 B: A HOT JUPITER ORBITING AN EARLY F-TYPE STAR DETECTED BY TESS](http://adsabs.harvard.edu/abs/2019A&A...625A..16J)  
+1. [HD 2685 B: A HOT JUPITER ORBITING AN EARLY F-TYPE STAR DETECTED BY TESS](http://adsabs.harvard.edu/abs/2019A&A...625A..16J)  
 Jones, Matías I., Brahm, Rafael, Espinoza, Nestor, et al.    
 2019, refereed ([2019A&A...625A..16J](http://adsabs.harvard.edu/abs/2019A&A...625A..16J))  
 
-3. [TESS FULL ORBITAL PHASE CURVE OF THE WASP-18B SYSTEM](http://adsabs.harvard.edu/abs/2019AJ....157..178S)  
+2. [TESS FULL ORBITAL PHASE CURVE OF THE WASP-18B SYSTEM](http://adsabs.harvard.edu/abs/2019AJ....157..178S)  
 Shporer, Avi, Wong, Ian, Huang, Chelsea X., et al.    
 2019, refereed ([2019AJ....157..178S](http://adsabs.harvard.edu/abs/2019AJ....157..178S))  
 
-4. [AN ECCENTRIC MASSIVE JUPITER ORBITING A SUBGIANT ON A 9.5-DAY PERIOD DISCOVERED IN THE TRANSITING EXOPLANET SURVEY SATELLITE FULL FRAME IMAGES](http://adsabs.harvard.edu/abs/2019AJ....157..191R)  
+3. [AN ECCENTRIC MASSIVE JUPITER ORBITING A SUBGIANT ON A 9.5-DAY PERIOD DISCOVERED IN THE TRANSITING EXOPLANET SURVEY SATELLITE FULL FRAME IMAGES](http://adsabs.harvard.edu/abs/2019AJ....157..191R)  
 Rodriguez, Joseph E., Quinn, Samuel N., Huang, Chelsea X., et al.    
 2019, refereed ([2019AJ....157..191R](http://adsabs.harvard.edu/abs/2019AJ....157..191R))  
+
+4. [DETECTING UNRESOLVED BINARIES IN TESS DATA WITH SPECKLE IMAGING](http://adsabs.harvard.edu/abs/2019AJ....157..211M)  
+Matson, Rachel A., Howell, Steve B., Ciardi, David R.    
+2019, refereed ([2019AJ....157..211M](http://adsabs.harvard.edu/abs/2019AJ....157..211M))  
 
 5. [THE VAST POTENTIAL OF EXOPLANET SATELLITES FOR HIGH-ENERGY ASTROPHYSICS](http://adsabs.harvard.edu/abs/2019AN....340..308S)  
 Smith, K. L.    
@@ -227,15 +235,11 @@ Zhang, Hui, Yu, Zhouyi, Liang, Ensi, et al.
 Zhang, Hui, Yu, Zhouyi, Liang, Ensi, et al.    
 2019, refereed ([2019ApJS..240...17Z](http://adsabs.harvard.edu/abs/2019ApJS..240...17Z))  
 
-8. [A RESONANT PAIR OF WARM GIANT PLANETS REVEALED BY TESS](http://adsabs.harvard.edu/abs/2019arXiv190203900K)  
-Kipping, David, Nesvorný, David, Hartman, Joel, et al.    
-2019, not refereed ([2019arXiv190203900K](http://adsabs.harvard.edu/abs/2019arXiv190203900K))  
-
-9. [RAPID CLASSIFICATION OF TESS PLANET CANDIDATES WITH CONVOLUTIONAL NEURAL NETWORKS](http://adsabs.harvard.edu/abs/2019arXiv190208544O)  
+8. [RAPID CLASSIFICATION OF TESS PLANET CANDIDATES WITH CONVOLUTIONAL NEURAL NETWORKS](http://adsabs.harvard.edu/abs/2019arXiv190208544O)  
 Osborn, Hugh P., Ansdell, Megan, Ioannou, Yani, et al.    
 2019, not refereed ([2019arXiv190208544O](http://adsabs.harvard.edu/abs/2019arXiv190208544O))  
 
-10. [TOI-150: A TRANSITING HOT JUPITER IN THE TESS SOUTHERN CVZ](http://adsabs.harvard.edu/abs/2019arXiv190209710C)  
+9. [TOI-150: A TRANSITING HOT JUPITER IN THE TESS SOUTHERN CVZ](http://adsabs.harvard.edu/abs/2019arXiv190209710C)  
 Cañas, Caleb I., Stefansson, Gudmundur, Monson, Andrew J., et al.    
 2019, not refereed ([2019arXiv190209710C](http://adsabs.harvard.edu/abs/2019arXiv190209710C))  
 
