@@ -47,6 +47,10 @@ Balona, L. A., Handler, G., Chowdhury, S., et al.
 Bowman, Dominic M., Burssens, Siemen, Pedersen, May G., et al.    
 2019, refereed ([2019NatAs.tmp..320B](http://adsabs.harvard.edu/abs/2019NatAs.tmp..320B))  
 
+7. [MOBSTER - II. IDENTIFICATION OF ROTATIONALLY VARIABLE A STARS OBSERVED WITH \EMPH{TESS} IN SECTORS 1 TO 4](http://adsabs.harvard.edu/abs/2019arXiv190508835S)  
+Sikora, J., David-Uraz, A., Chowdhury, S., et al.    
+2019, not refereed ([2019arXiv190508835S](http://adsabs.harvard.edu/abs/2019arXiv190508835S))  
+
 
 2019-04
 -------

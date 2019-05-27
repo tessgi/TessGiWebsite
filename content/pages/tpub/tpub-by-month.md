@@ -79,6 +79,10 @@ Bowman, Dominic M., Burssens, Siemen, Pedersen, May G., et al.
 Vanderburg, Andrew, Huang, Chelsea X., Rodriguez, Joseph E., et al.    
 2019, not refereed ([2019arXiv190505193V](http://adsabs.harvard.edu/abs/2019arXiv190505193V))  
 
+12. [MOBSTER - II. IDENTIFICATION OF ROTATIONALLY VARIABLE A STARS OBSERVED WITH \EMPH{TESS} IN SECTORS 1 TO 4](http://adsabs.harvard.edu/abs/2019arXiv190508835S)  
+Sikora, J., David-Uraz, A., Chowdhury, S., et al.    
+2019, not refereed ([2019arXiv190508835S](http://adsabs.harvard.edu/abs/2019arXiv190508835S))  
+
 
 2019-04
 -------
