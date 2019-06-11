@@ -19,6 +19,10 @@ Deacon, N. R., Henning, Th, Kossakowski, D. E.
 Hakala, Pasi, Ramsay, Gavin, Potter, Stephen B., et al.    
 2019, refereed ([2019MNRAS.486.2549H](http://adsabs.harvard.edu/abs/2019MNRAS.486.2549H))  
 
+4. [ROTATION AND PULSATION IN AP STARS: FIRST LIGHT RESULTS FROM TESS SECTORS 1 AND 2](http://adsabs.harvard.edu/abs/2019arXiv190601111C)  
+Cunha, M. S., Antoci, V., Holdsworth, D. L., et al.    
+2019, not refereed ([2019arXiv190601111C](http://adsabs.harvard.edu/abs/2019arXiv190601111C))  
+
 
 2019-05
 -------
@@ -43,13 +47,25 @@ Jayasinghe, T., Stanek, K. Z., Kochanek, C. S., et al.
 Balona, L. A., Handler, G., Chowdhury, S., et al.    
 2019, refereed ([2019MNRAS.485.3457B](http://adsabs.harvard.edu/abs/2019MNRAS.485.3457B))  
 
-6. [LOW-FREQUENCY GRAVITY WAVES IN BLUE SUPERGIANTS REVEALED BY HIGH-PRECISION SPACE PHOTOMETRY](http://adsabs.harvard.edu/abs/2019NatAs.tmp..320B)  
+6. [HIGH-FREQUENCIES IN TESS A-F MAIN SEQUENCE STARS](http://adsabs.harvard.edu/abs/2019MNRAS.tmp.1356B)  
+Balona, L. A., Holdsworth, D. L., Cunha, M. S.    
+2019, refereed ([2019MNRAS.tmp.1356B](http://adsabs.harvard.edu/abs/2019MNRAS.tmp.1356B))  
+
+7. [LOW-FREQUENCY GRAVITY WAVES IN BLUE SUPERGIANTS REVEALED BY HIGH-PRECISION SPACE PHOTOMETRY](http://adsabs.harvard.edu/abs/2019NatAs.tmp..320B)  
 Bowman, Dominic M., Burssens, Siemen, Pedersen, May G., et al.    
 2019, refereed ([2019NatAs.tmp..320B](http://adsabs.harvard.edu/abs/2019NatAs.tmp..320B))  
 
-7. [MOBSTER - II. IDENTIFICATION OF ROTATIONALLY VARIABLE A STARS OBSERVED WITH \EMPH{TESS} IN SECTORS 1 TO 4](http://adsabs.harvard.edu/abs/2019arXiv190508835S)  
+8. [MOBSTER - II. IDENTIFICATION OF ROTATIONALLY VARIABLE A STARS OBSERVED WITH \EMPH{TESS} IN SECTORS 1 TO 4](http://adsabs.harvard.edu/abs/2019arXiv190508835S)  
 Sikora, J., David-Uraz, A., Chowdhury, S., et al.    
 2019, not refereed ([2019arXiv190508835S](http://adsabs.harvard.edu/abs/2019arXiv190508835S))  
+
+9. [TESS REVEALS THAT THE NEARBY PISCES-ERIDANUS STELLAR STREAM IS ONLY 120 MYR OLD](http://adsabs.harvard.edu/abs/2019arXiv190510588C)  
+Curtis, Jason Lee, Agüeros, Marcel A., Mamajek, Eric E., et al.    
+2019, not refereed ([2019arXiv190510588C](http://adsabs.harvard.edu/abs/2019arXiv190510588C))  
+
+10. [THE REVISED TESS INPUT CATALOG AND CANDIDATE TARGET LIST](http://adsabs.harvard.edu/abs/2019arXiv190510694S)  
+Stassun, Keivan G., Oelkers, Ryan J., Paegert, Martin, et al.    
+2019, not refereed ([2019arXiv190510694S](http://adsabs.harvard.edu/abs/2019arXiv190510694S))  
 
 
 2019-04
