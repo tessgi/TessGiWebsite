@@ -231,7 +231,7 @@ The start and end dates for each sector, and the GI target list (csv file) for e
     <td></td>
 
     <td style="min-width: 12em;">
-
+    Pointing shifted toward the North ecliptic pole by 31 degrees 
     </td>
   </tr>
 
@@ -245,7 +245,7 @@ The start and end dates for each sector, and the GI target list (csv file) for e
     <td></td>
 
     <td style="min-width: 12em;">
-
+    Pointing shifted toward the North ecliptic pole by 31 degrees 
     </td>
   </tr>
 
