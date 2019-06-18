@@ -12,8 +12,14 @@ The WTV tool allows users to check whether a target potentially falls within the
 TESS field of view (FOV). In addition, WTV can be used to calculate
 the brightness of a target in the TESS bandpass. 
 
-See our [proposal tools page](proposal-tools.html) for additional resources that aid in the preparation of GI proposals.
+### [TESS-Point](https://github.com/christopherburke/tess-point)
+This is a High Precision TESS pointing tool. It will convert target
+coordinates given in Right Ascension and Declination to TESS detector
+pixel coordinates for the first 13 TESS observing sectors (Year 1)
+focused on the southern ecliptic plane. It can also query MAST to
+obtain detector pixel coordinates for a star by TIC ID only. It provides the target ecliptic coordinates, sector number, camera number, detector number, and pixel column and row. If there is no output, then the target is not visible to TESS.
 
+See our [proposal tools page](proposal-tools.html) for additional resources that aid in the preparation of GI proposals.
 
 
 ## TESS data analysis
@@ -288,6 +294,13 @@ Tutorial [here](github.com/waqasbhatti/astrobase-notebooks) -->
 
   <tr>
     <td style="width: 15em;"><a
+    href='http://adina.feinste.in/eleanor/index.html'>eleanor</a></td>
+    <td>eleanor is an open-source python framework for downloading, analyzing, and visualizing data from the TESS Full Frame Images.
+</td>
+ </tr>
+
+  <tr>
+    <td style="width: 15em;"><a
     href='https://github.com/benmontet/f3'>f3</a></td>
     <td>Full Frame Fotometry from the Kepler Full Frame Images.
 </td>
@@ -298,6 +311,15 @@ Tutorial [here](github.com/waqasbhatti/astrobase-notebooks) -->
     <td style="width: 15em;"><a
     href='https://github.com/jradavenport/FFIorBUST'>FFIorBUST</a></td>
     <td>Make light curves from the Kepler Full Frame Images.
+</td>
+  </tr>
+
+  <tr>
+    <td style="width: 15em;"><a
+    href='https://filtergraph.com/tess_ffi/'>Filtergraph</a></td>
+    <td>This is the TESS full-frame-image (FFI) portal which hosts the
+    data products from the pipeline of <a
+    href='http://adsabs.harvard.edu/abs/2018AJ....156..132O'>Oelkers & Stassun (2018).</a>
 </td>
   </tr>
 
@@ -928,6 +950,15 @@ Kepler Prime Flux-Level Transit Injection
     <td style="width: 15em;"><a
     href='https://github.com/jadilia/decatur'>decatur</a></td>
     <td>Tidal synchronization of Kepler eclipsing binaries.
+</td>
+</tr>
+
+
+ <tr>
+    <td style="width: 15em;"><a
+    href='https://emac.gsfc.nasa.gov/'>EMAC</a></td>
+    <td>The NASA Goddard Space Flight Center Exoplanet Modeling and
+    Analysis Center (EMAC) serves as a repository and integration platform for modeling and analysis resources focused on the study of exoplanet characteristics and environments.
 </td>
 </tr>
 
