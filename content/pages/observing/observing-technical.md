@@ -59,7 +59,9 @@ is between 20% and 62% with a median value of 45%. -->
 
 ### Typical noise levels
 
-The figure below shows the 1-hour Combined Differential Photometric Precision (CDPP) from TESS Sector 1. The red points are the RMS CDPP measurements for the 15,889 light curves from Sector 1 plotted as a function of TESS magnitude. The blue x's are the uncertainties, scaled to a 1-hour timescale. The purple curve is a moving 10th percentile of the RMS CDPP measurements, and the gold curve is a moving median of the 1-hour uncertainties. The photometric uncertainties are dominated by pointing jitter, but the best light curves are well below the mission requirements of (1) a systematic error floor at 60 ppm and (2) an achieved CDPP at 10th magnitude of 230 ppm, which is sufficient to detect super-Earths around bright stars. For fainter stars around Tmag = 16, the photometric precision drops to about 1%, which is still sufficient for many astrophysical studies such as supernovae and stellar variability. 
+The figure below shows the 1-hour Combined Differential Photometric Precision (CDPP) from TESS Sector 1. The red points are the RMS CDPP measurements for the 15,889 light curves from Sector 1 plotted as a function of TESS magnitude. The blue x's are the uncertainties, scaled to a 1-hour timescale. The purple curve is a moving 10th percentile of the RMS CDPP measurements, and the gold curve is a moving median of the 1-hour uncertainties. The photometric uncertainties are dominated by pointing jitter, but the best light curves are well below the mission requirements of (1) a systematic error floor at 60 ppm and (2) an achieved CDPP at 10th magnitude of 230 ppm, which is sufficient to detect super-Earths around bright stars. For fainter stars around Tmag = 16, the photometric precision drops to about 1%, which is still sufficient for many astrophysical studies such as supernovae and stellar variability.
+
+The typical noise achieved in each individual TESS sector is described in the [Data Release Notes](https://archive.stsci.edu/tess/tess_drn.html) for each sector.
 
 
 <br/>
@@ -90,7 +92,22 @@ For fainter stars, such as a 16th magnitude star, the photometric precision drop
 *Image Credit: Zach Berta-Thompson with data from Sullivan at al. (2015)* -->
 
 ### Saturation
-Saturation is anticipated in the central pixel at I_C = 7.5. This, however, does not represent the bright limit for precise photometry. Excess charge from saturated pixels is conserved and spread across adjacent pixels in a CCD column until the excess reaches a CCD boundary. This leads to "bleed trails" extending above and below a saturated pixel, similar to what is seen for bright stars in Kepler/K2 photometry. Precision photometry can still be achieved by creating a photometric aperture that is large enough to encompass all excess charge. The TESS bright limit is anticipated to be I_C=4.
+The [TESS Instrument Handbook and Data Release Notes](documentation.html) should be consulted for the latest information regarding observing saturated stars with TESS. 
+
+The amount of charge deposited by a star of magnitude m into the peak pixel depends on
+the fraction of the total charge in the peak pixel: this value generally ranges from 0.2 to
+0.4 in the TESS images. The TESS cameras create 15,000 e−/s for a star of m = 10: thus,
+a star of m = 5 will create 3 × 106
+electrons in a two-second exposure. For a flux fraction
+of 0.3, the charge in the peak pixel is 9 × 105
+e−, leading to a bloom length of 5 rows;
+similarly, a star of m = 2.5 will create a bloom of 50 rows.
+A key feature of the CCID-80 CCDs used on TESS is their ability to conserve charge even
+from very saturated stars. Pre-launch ground tests showed that charge will be conserved
+for stars at least as bright as 4th magnitude. Measurements of charge conservation using
+flight data are in progress.
+
+<! -- Saturation is anticipated in the central pixel at I_C = 7.5. This, however, does not represent the bright limit for precise photometry. Excess charge from saturated pixels is conserved and spread across adjacent pixels in a CCD column until the excess reaches a CCD boundary. This leads to "bleed trails" extending above and below a saturated pixel, similar to what is seen for bright stars in Kepler/K2 photometry. Precision photometry can still be achieved by creating a photometric aperture that is large enough to encompass all excess charge. The TESS bright limit is anticipated to be I_C=4. -->
 
 <!-- ### Solar pressure-induced drift
 
