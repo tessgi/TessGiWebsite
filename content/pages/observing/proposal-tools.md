@@ -165,17 +165,24 @@ This code is build using the algorithms from the TESS Input Catalog publication 
 
 ### Filtergraph
 
-The Target Selection Working Group (TSWG) has also provided a tool for GI proposers to view and manipulate a high-priority subset of the current CTL in the [Filtergraph data visualization system](https://filtergraph.com/tess_ctl) (Burger et al. 2013). Filtergraph is an online tool to upload data files, visualize the data in various formats (i.e. scatter plots, histograms, heat maps, etc.), manipulate these visualizations by filtering the data, and save figures in standard image output formats. 
+The TESS Target Selection Working Group (TSWG) has provided a tool for GI proposers to view and manipulate the current CTL in the [Filtergraph data visualization system](https://filtergraph.com/tess_ctl) (Burger et al. 2013). Filtergraph is an online tool to upload data files, visualize the data in various formats (i.e. scatter plots, histograms, heat maps, etc.), manipulate these visualizations by filtering the data, and save figures and tables in standard image and data output formats.
 
-The following figure provides an example of a CTL visualization that can be made using Filtergraph. The figure displays all stars in CTL-5 in Dec vs. RA and color-coded by T mag. Features inherent to the CTL are immediately noticeable, such as the lower density of targets in the Galactic plane (due to high background contamination) and the higher density of targets in the ecliptic poles where TESS will have the longest continuous observation baseline and be more sensitive to transiting planets. 
+The following figure provides an example of a CTL visualization that can be made using Filtergraph. The figure displays the ~400,000 highest priority stars in CTL-8 in Dec vs. RA and color-coded by T-mag. Features inherent to the CTL are immediately noticeable, such as the low density of targets in the Galactic plane (due to high background contamination and reddening), the ecliptic zone (which is not observed in the prime mission), and the higher density of targets near the ecliptic poles where TESS will have the longest continuous observation baseline and be more sensitive to transiting planets.
+
 <br/>
-<img class="img-responsive" style="max-width:67%;" src="images/giprogram/filtergraph.png">
-* CTL-5 visualization generated using TIC/CTL Filtergraph portal. The figure shows the distribution of stars in the CTL-5 in equatorial coordinates. The color bar represents the targets' TESS magnitudes. There are fewer stars in the Galactic plane due to background contamination. The two elliptical regions of higher target density are the ecliptic poles, where TESS will observe continuously for nearly a year. Image Credit: [Filtergraph](https://filtergraph.com/)*
+<img class="img-responsive" style="max-width:67%;" src="images/giprogram/filtergraph_CTLv8.01_top_400K_stars.png">
+* CTL-8 visualization generated using TIC/CTL Filtergraph portal. The
+figure shows the distribution of stars in the CTL-8 in equatorial
+coordinates. The color bar represents the targets' TESS
+magnitudes. There are fewer stars in the Galactic plane due to
+background contamination, and the ecliptic is not observed during the
+prime mission. The two regions of higher target density are the
+ecliptic poles, where TESS will observe continuously for nearly a
+year. Image Credit: [Filtergraph](https://filtergraph.com/)*
 <br/>
 
 
-Additional premade figures are available on the CTL Filtergraph page, including CTL TESS mag and effective temperature histograms. Users may also create their own Filtergraph account and upload their own target lists for visualization following the instructions and tutorials on the main [Filtergraph](https://filtergraph.com/) webpage. 
-
+Additional pre-made figures are available on the CTL Filtergraph page. Users may also create their own free Filtergraph account and upload their own target lists for visualization following the instructions and tutorials on the main [Filtergraph](https://filtergraph.com/) webpage.
 
 
 
