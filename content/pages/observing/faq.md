@@ -20,7 +20,11 @@ The current status of the TESS spacecraft can be found at [the MIT website](http
 
 **Can I use TESS for my own science?**
 
-Yes! There is an open solicitation for GI Cycle 2 proposals, which covers observations that will take place in the northern ecliptic hemisphere. The deadline for proposals is February 28, 2019. You can also propose to use archival data or to perform other TESS-related investigations via the following solicitations:
+Yes! TESS data are made publicly available at the MAST for anyone to use. There is no proprietary period on TESS data.
+
+<!-- There is an open solicitation for GI Cycle 2 proposals, which covers observations that will take place in the northern ecliptic hemisphere. The deadline for proposals is February 28, 2019. -->
+
+You can also propose to use archival data or to perform other TESS-related investigations via the following solicitations:
 
 * Investigations dominated by theoretical effort should respond to the Appendix D.4 Astrophysics Theory Program (ATP) solicitation, or Appendix E.3 the Exoplanet Research Program (XRP).
 * Investigations dominated by archival data analysis effort should respond to the Appendix D.2 Astrophysics Data Archive Program (ADAP) solicitation.
@@ -30,7 +34,7 @@ Yes! There is an open solicitation for GI Cycle 2 proposals, which covers observ
 
 **Will TESS have an extended mission?**
 
-TESS has a 2-year primary mission, where it is currently observing the southern ecliptic hemisphere in its first year of operations and will observe the northern ecliptic hemisphere in its second year of operations. The TESS team is submitting a proposal requesting funding for an extended mission for TESS, to the 2019 NASA Senior Review of Operating Astrophysics Missions Call for Proposals. If an extended mission is approved, this will be announced to the community.
+TESS has a 2-year primary mission, where it is currently observing the southern ecliptic hemisphere in its first year of operations and will observe the northern ecliptic hemisphere in its second year of operations. The TESS team has submitted a proposal requesting funding for an extended mission for TESS, to the 2019 NASA Senior Review of Operating Astrophysics Missions Call for Proposals. If an extended mission is approved, this will be announced to the community. An announcement regarding the proposed extended mission is anticipated to be made in mid-July 2019.
 
 **Where will TESS point in its extended mission?**
 
@@ -53,14 +57,15 @@ Proposals to detect planet transits within the 2-minute cadence data of the 100,
 
 **What version of the CTL should be checked before submitting a proposal?**
 
-[The latest version of the CTL can be found at MAST](https://archive.stsci.edu/tess/index.html). The CTL has a column called priority, which is what we use to evaluate what is in the top 100,000 targets in a given ecliptic hemisphere. CTL v5.0 was used to evaluate GI Cycle 1 proposals.
+[The latest version of the CTL can be found at MAST](https://archive.stsci.edu/tess/index.html). The CTL has a column called priority, which is what we use to evaluate what is in the top 100,000 targets in a given ecliptic hemisphere. <!-- CTL v5.0 was used to evaluate GI Cycle 1 proposals. -->
 
  **Where can I find the list of the 100,000 top-prioritized targets?**
-You can search the CTL at MAST for targets below ecliptic latitude of -6.0 and sort by priority. For GI Cycle 1, we have made a [file available](data/core-science-targets-v2.csv) that contains the list of the top 100,000 priority targets in the southern ecliptic hemisphere.
+You can search the CTL at MAST for targets below ecliptic latitude of -6.0 and sort by priority. For GI Cycle 1, we [made a csv file available](data/core-science-targets-v2.csv) that contains the list of the top 100,000 priority targets in the southern ecliptic hemisphere. For GI Cycle 2, we [made a csv file available](data/core-science-targets-cycle2-v1.csv) that contains the top 100,000 priority targets in the northern ecliptic hemisphere.
+
 
 **I have heard that the CTL contains "special lists" of targets. What does that mean, and can my GI proposal include targets that are in those lists?**
 
-All targets in the CTL are included in the full TIC, from which the CTL is drawn. The CTL includes additional observed or calculated stellar properties relevant for transit detection, such as stellar radius. The methods employed to determine these stellar properties are designed for typical main sequence and subgiant stars of type F to M, and might not work reliably for certain other kinds of stars (e.g., white dwarfs). Therefore, the TESS Science Office has assembled "specially curated lists" of specific stars of interest for planet detection, in which the stellar parameters were determined using alternate methods than those used for the bulk of the CTL. More information is available in the [TIC paper](http://adsabs.harvard.edu/abs/2017arXiv170600495S). There are no additional restrictions placed on these targets above beyond what is described in the [proposal call](proposing-investigations.html).
+All targets in the CTL are included in the full TIC, from which the CTL is drawn. The CTL includes additional observed or calculated stellar properties relevant for transit detection, such as stellar radius. The methods employed to determine these stellar properties are designed for typical main sequence and subgiant stars of type F to M, and might not work reliably for certain other kinds of stars (e.g., white dwarfs). Therefore, the TESS Science Office has assembled "specially curated lists" of specific stars of interest for planet detection, in which the stellar parameters were determined using alternate methods than those used for the bulk of the CTL. More information is available in the [first TIC paper](http://adsabs.harvard.edu/abs/2017arXiv170600495S). There are no additional restrictions placed on these targets above beyond what is described in the [proposal call](proposing-investigations.html).
 
 **What if I can do my science with TESS full frame images, and don't need to propose for short-cadence targets?**
 
@@ -115,6 +120,9 @@ The GI Program Office has made several tools available to assist proposers in de
 
 There are a number of tools available for data analysis, developed both by the GI Program Office and by the community. [These analysis tools can be found here](software.html).
 
+**I see an interesting feature in my TESS light curve. What could it be?**
+
+Some common sources of anomalous light curves features include the target star being on a bad CCD column or scattered light from the Earth and/or Moon. It is recommended that Full-Frame Images taken at the same time as the anomalous feature be checked to verify whether or not the interesting feature seen is astrophysical in nature.
 
 ## Miscellaneous
 
