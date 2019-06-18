@@ -30,7 +30,11 @@ science operations with TESS began on July 25, 2018. TESS is now executing its s
 <!-- <img class="img-responsive" style="max-width:67%;" src="images/mission/tess_observingsectorschematic_Winnpresentation.png">
 <br/> -->
 ## Sector dates
-The start and end dates for each sector, and the GI target list (csv file) for each sector, are below. Information on how to download the data can be found [here](data-access.html).
+The start and end dates for each sector, and the list of GI targets (csv
+file) observed in each sector, are below. A summary of TESS data available at the MAST
+can be found
+[here](https://outerspace.stsci.edu/display/TESS/TESS+Holdings+Available+by+MAST+Service)
+and information on how to download the data can be found [here](data-access.html).
 
 <div class="panel panel-primary">
   <div class="panel-heading">
@@ -176,7 +180,7 @@ The start and end dates for each sector, and the GI target list (csv file) for e
     <td>2019 Jun 22</td>
     <td><a href='data/target_lists/sector010_targets_lists/GI_S010.csv'>Download</a></td>
 
-    <td style="min-width: 12em;">Data downlinked
+    <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a>
     </td>
   </tr>
 
