@@ -170,7 +170,7 @@ The TESS Target Selection Working Group (TSWG) has provided a tool for GI propos
 The following figure provides an example of a CTL visualization that can be made using Filtergraph. The figure displays the ~400,000 highest priority stars in CTL-8 in Dec vs. RA and color-coded by T-mag. Features inherent to the CTL are immediately noticeable, such as the low density of targets in the Galactic plane (due to high background contamination and reddening), the ecliptic zone (which is not observed in the prime mission), and the higher density of targets near the ecliptic poles where TESS will have the longest continuous observation baseline and be more sensitive to transiting planets.
 
 <br/>
-<img class="img-responsive" style="max-width:67%;" src="images/giprogram/filtergraph_CTLv8.01_top_400K_stars.png">
+<img class="img-responsive" style="max-width:87%;" src="images/giprogram/filtergraph_CTLv8.01_top_400K_stars.png">
 * CTL-8 visualization generated using TIC/CTL Filtergraph portal. The
 figure shows the distribution of stars in the CTL-8 in equatorial
 coordinates. The color bar represents the targets' TESS

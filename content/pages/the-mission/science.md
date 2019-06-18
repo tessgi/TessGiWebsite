@@ -28,7 +28,7 @@ The TESS mission searches for planets via the transit method, the same method us
 
 ## Sky coverage
 
-TESS will observe over 85% of the sky (an area 400 times larger than that monitored by Kepler) over the 2 year prime mission. TESS will observe many more nearby, bright stars compared to the Kepler Mission.
+TESS will observe approximately 85% of the sky (an area 400 times larger than that monitored by Kepler) over the 2 year prime mission. TESS will observe many more nearby, bright stars compared to the Kepler Mission.
 
 <br/>
 <img class="img-responsive" style="max-width:67%;" src="images/mission/tess_search_space.png">
@@ -54,6 +54,7 @@ The orbital periods that TESS is sensitive to depends on the fraction of overlap
 <img class="img-responsive" style="max-width:67%;" src="images/mission/tess_2yearskycoverage.png">
 <br/>
 
+*The pointings for Sectors 14 and 15 are planned to be shifted toward the North ecliptic pole by 31 degrees to minimize impacts of scattered light from the Earth and Moon.*
 
 
 

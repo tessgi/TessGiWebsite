@@ -84,6 +84,13 @@ Additional resources can be found below:
     <td> </td>
   </tr>
 
+  <tr>
+    <td style="width: 35em;"><a
+    href='data/core-science-targets-cycle2-v1.csv'>Top 100,000 priority
+    targets in the northern ecliptic hemisphere</a></td>
+    <td> </td>
+  </tr>
+
 </table>
 
 

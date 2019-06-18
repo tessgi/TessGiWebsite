@@ -41,3 +41,8 @@ All files (data/image/notes) can be uploaded in any format, in single or bulk-up
 ## High Level Science Products
 
 High level science products (HLSP), which are those created by the community (e.g., full-frame image light curves), can be archived at the MAST. If you are interested in creating a HLSP and having it hosted on MAST, we encourage you to [contact MAST](https://archive.stsci.edu/contacts.html).
+
+A list of currently available HLSP for TESS can be found [here at MAST](https://archive.stsci.edu/hlsp/). These currently include:
+
+* [TESS-HERMES Spectroscopic Survey](https://archive.stsci.edu/prepds/tess-hermes/) (PI: Sanjib Sharma)
+* [Data Products From TESS Data Alerts](https://archive.stsci.edu/prepds/tess-data-alerts/) (PI: Roland Vanderspek)
