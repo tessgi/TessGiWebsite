@@ -1,4 +1,4 @@
-Title: ARK/RPS submision page now open
+Title: ARK/RPS submission page now open
 Date: 2019-02-18 15:00
 Author: Tom Barclay
 

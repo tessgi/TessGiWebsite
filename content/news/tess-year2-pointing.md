@@ -1,4 +1,4 @@
-Title: TESS pointing during Year 2.
+Title: TESS pointing during Year 2
 Date: 2019-05-22 10:00
 Author: Tom Barclay
 
