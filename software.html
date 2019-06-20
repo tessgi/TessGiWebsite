@@ -17,7 +17,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - TESS Science Support Center" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2019-06-13" />
+    <meta name="dc.date.modified" content="2019-06-19" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Users of TESS Data" />
     <meta name="dc.identifier" content="https://heasarc.gsfc.nasa.gov/docs/tess/" />
@@ -40,13 +40,13 @@ in August 2015, using pelican-bootstrap and flatly.
 <link rel="canonical" href="./pages/tess-software-tools.html">
 
         <meta name="author" content="Thomas Barclay" />
-        <meta name="description" content="Observation planning Web TESS Viewing (WTV) tool The WTV tool allows users to check whether a target potentially falls within the TESS field of view (FOV). In addition, WTV can be used to calculate the brightness of a target in the TESS bandpass. See our proposal tools page for additional …" />
+        <meta name="description" content="Observation planning Web TESS Viewing (WTV) tool The WTV tool allows users to check whether a target potentially falls within the TESS field of view (FOV). In addition, WTV can be used to calculate the brightness of a target in the TESS bandpass. TESS-Point This is a High Precision TESS …" />
 
     <meta property="og:site_name" content="TESS" />
     <meta property="og:type" content="article"/>
     <meta property="og:title" content="TESS Software Tools"/>
     <meta property="og:url" content="./pages/tess-software-tools.html"/>
-    <meta property="og:description" content="Observation planning Web TESS Viewing (WTV) tool The WTV tool allows users to check whether a target potentially falls within the TESS field of view (FOV). In addition, WTV can be used to calculate the brightness of a target in the TESS bandpass. See our proposal tools page for additional …" />
+    <meta property="og:description" content="Observation planning Web TESS Viewing (WTV) tool The WTV tool allows users to check whether a target potentially falls within the TESS field of view (FOV). In addition, WTV can be used to calculate the brightness of a target in the TESS bandpass. TESS-Point This is a High Precision TESS …" />
         <meta property="og:image"
               content="./images/logo-for-twitter.jpeg"/>
 
@@ -157,6 +157,12 @@ in August 2015, using pelican-bootstrap and flatly.
 <p>The WTV tool allows users to check whether a target potentially falls within the
 TESS field of view (FOV). In addition, WTV can be used to calculate
 the brightness of a target in the TESS bandpass. </p>
+<h3 id="tess-point"><a href="https://github.com/christopherburke/tess-point">TESS-Point</a></h3>
+<p>This is a High Precision TESS pointing tool. It will convert target
+coordinates given in Right Ascension and Declination to TESS detector
+pixel coordinates for the first 13 TESS observing sectors (Year 1)
+focused on the southern ecliptic plane. It can also query MAST to
+obtain detector pixel coordinates for a star by TIC ID only. It provides the target ecliptic coordinates, sector number, camera number, detector number, and pixel column and row. If there is no output, then the target is not visible to TESS.</p>
 <p>See our <a href="proposal-tools.html">proposal tools page</a> for additional resources that aid in the preparation of GI proposals.</p>
 <h2 id="tess-data-analysis">TESS data analysis</h2>
 <h3 id="lightkurve"><a href="http://lightkurve.keplerscience.org">lightkurve</a></h3>
@@ -346,6 +352,11 @@ Tutorial [here](github.com/waqasbhatti/astrobase-notebooks) -->
 </td>
 </tr>
 <tr>
+<td style="width: 15em;"><a href="http://adina.feinste.in/eleanor/index.html">eleanor</a></td>
+<td>eleanor is an open-source python framework for downloading, analyzing, and visualizing data from the TESS Full Frame Images.
+</td>
+</tr>
+<tr>
 <td style="width: 15em;"><a href="https://github.com/benmontet/f3">f3</a></td>
 <td>Full Frame Fotometry from the Kepler Full Frame Images.
 </td>
@@ -353,6 +364,12 @@ Tutorial [here](github.com/waqasbhatti/astrobase-notebooks) -->
 <tr>
 <td style="width: 15em;"><a href="https://github.com/jradavenport/FFIorBUST">FFIorBUST</a></td>
 <td>Make light curves from the Kepler Full Frame Images.
+</td>
+</tr>
+<tr>
+<td style="width: 15em;"><a href="https://filtergraph.com/tess_ffi/">Filtergraph</a></td>
+<td>This is the TESS full-frame-image (FFI) portal which hosts the
+    data products from the pipeline of <a href="http://adsabs.harvard.edu/abs/2018AJ....156..132O">Oelkers &amp; Stassun (2018).</a>
 </td>
 </tr>
 <tr>
@@ -830,6 +847,12 @@ Kepler Prime Flux-Level Transit Injection
 </td>
 </tr>
 <tr>
+<td style="width: 15em;"><a href="https://emac.gsfc.nasa.gov/">EMAC</a></td>
+<td>The NASA Goddard Space Flight Center Exoplanet Modeling and
+    Analysis Center (EMAC) serves as a repository and integration platform for modeling and analysis resources focused on the study of exoplanet characteristics and environments.
+</td>
+</tr>
+<tr>
 <td style="width: 15em;"><a href="https://github.com/skgrunblatt/FoFreeAST">FoFreeAST</a></td>
 <td>Fourier-Free Asteroseismology: uses celerite to model granulation and
 oscillations of stars.
@@ -1008,6 +1031,7 @@ We will be creating tutorials to assist with using the available software. -->
 <ul>
 <li><a href="#observation-planning">Observation planning</a><ul>
 <li><a href="#web-tess-viewing-wtv-tool">Web TESS Viewing (WTV) tool</a></li>
+<li><a href="#tess-point">TESS-Point</a></li>
 </ul>
 </li>
 <li><a href="#tess-data-analysis">TESS data analysis</a><ul>
@@ -1080,7 +1104,7 @@ We will be creating tutorials to assist with using the available software. -->
       <!-- NASA logo and notices -->
       <div class="row" style="margin-top:2em;">
          <div class="col-md-10"> <a href="http://www.nasa.gov/"><img src="./images/NASA_logo_vector_lg.png" width="30" alt="NASA Logo"></a> 
-         Last modified: Wed 22 May 2019
+         Last modified: Tue 18 June 2019
             &middot; Editor: Thomas Barclay &middot; NASA Official: Patricia T Boyd 
             &middot; <a href="http://www.nasa.gov/about/highlights/HP_Privacy.html">Privacy Policy and Important Notices</a><p></p>         </div>
          <div class="col-md-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
