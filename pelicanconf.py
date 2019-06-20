@@ -238,7 +238,7 @@ MEETINGS = (
              'https://tess.mit.edu/news/tess-science-conference/'),
             ('<b>4-8 November 2019</b><br>'
              'SEEC Symposium: Rocky Exoplanets in the Era of JWST: Theory and Observation',
-             'https://seec.gsfc.nasa.gov/Events/Symposia/RockyExoplanetsJWSTEra_2019/index.html'),
+             'https://seec.gsfc.nasa.gov/Symposium.html'),
             )
 
 # Defines the "related websites" listing in the footer of all pages
