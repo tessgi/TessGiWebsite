@@ -1,0 +1,9 @@
+# TESS Program G022109
+            
+Title: Searching For Infant Exoplanets In Young Associations
+
+PI: Mann, Andrew - University Of North Carolina
+
+Type: Small
+
+Summary: Planets and their host stars evolve with time, and the first few hundred million years are the most critical. By identifying planets over a range of ages, we can directly observe such changes. K2 greatly expanded our knowledge of exoplanet evolution by observing stars in nearby young associations, enabling the identification of dozens of young planets. We have built on this success by identifying several planets in nearby young moving groups during TESS Cycle 1. Here we propose to extend this program to TESS Cycle 2, taking advantage of the greater diversity of young associations in the northern ecliptic sky. In addition to expanding the number of known infant (<200 Myr) planets, this survey will include stars sufficiently bright for follow-up to measure planetary masses and atmospheres.  

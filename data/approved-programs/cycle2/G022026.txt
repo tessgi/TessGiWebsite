@@ -1,0 +1,9 @@
+# TESS Program G022026
+            
+Title: The Brightest Blazars, Part 2
+
+PI: Wehrle, Ann - Space Science Institute
+
+Type: Small
+
+Summary: We propose to obtain FFI light curves of the 101 brightest blazars observable in Cycle 2, and use them to see if the two classes of blazars (Flat Spectrum Radio Quasars and BL Lac Objects) emit variable optical light via the same physical processes in their relativistic jets. TESS will separate out individual flares, which last a few hours to a few days, and track fractal-variable emission. For three blazars near the north ecliptic pole, we will measure the incidence of flares and the overall fraction of time spent in high and low states for a full year. Our targets are gamma-ray blazars or candidate gamma-ray blazars, including BL Lac, 3C454.3, Mkn 421 and Mkn 501. This proposal and our Cycle 1 proposal provide a complete magnitude-limited blazar sample in the TESS-accessible sky.        

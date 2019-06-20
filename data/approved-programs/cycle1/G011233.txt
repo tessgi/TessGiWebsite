@@ -1,0 +1,13 @@
+# TESS Program G011233
+
+Title: Occultations As A Window Into Planetary Architectures
+
+PI: Rodriguez, Joseph - Harvard-Smithsonian Center For Astrophysics
+
+Type: N/A
+
+Summary: Our understanding of the evolution from circumstellar material to the thousands of planetary systems discovered to date, is limited. One means to constrain the size and composition of this planet-forming material is to observe a YSO being eclipsed by circumstellar material. These events are rare but have led to such insights as Saturn-like rings and gaps in the disk surrounding the a young planet. We propose to search the TESS data to discover and characterize new eclipses caused by occultations from circumstellar material. Additionally, we ask that both PDS 110 and J1407 be placed on the 2 minute cadence target list, as they are the only circumplanetary disk candidates known to date. This proposal will allow us to gain insight into the formation of Saturn-like ring systems and satellites.
+
+
+# Sector 006 targets observed (1)
+4206238,80.8792,-1.0733,9.78,G011233

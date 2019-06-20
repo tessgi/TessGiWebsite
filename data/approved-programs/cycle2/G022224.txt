@@ -1,0 +1,9 @@
+# TESS Program G022224
+            
+Title: Looking For The Shortest-Period Gas Giants With TESS
+
+PI: Jackson, Brian - Boise State University
+
+Type: Small
+
+Summary: Short-period gas giants present many compelling observational opportunities and theoretical conundra. Their large masses and short periods can facilitate follow-up, particularly of radial velocities, and the distribution of orbital periods provides a sensitive probe of tidal interactions. Unfortunately, among candidate planets discovered by TESS, these planets will be among the most challenging to confirm, but predictions of yields suggest tens of thousands may be found using full-frame images from TESS. A focused transit search involving analysis of phase curves can ameliorate some of these challenges. We propose to use full-frame images from TESS to search for short-period giant planets with a search for transits and out-of-transit photometric variations.                                 

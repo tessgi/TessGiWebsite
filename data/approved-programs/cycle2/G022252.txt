@@ -1,0 +1,9 @@
+# TESS Program G022252
+            
+Title: M Dwarf Flares Through Time Ii
+
+PI: Schlieder, Joshua - NASA/GSFC
+
+Type: Small
+
+Summary: M dwarfs (M < 0.7 M_Sun) are prime targets in the search for Earth-like worlds, yet their high levels of magnetic activity may make them unsuitable habitable planet hosts. Their magnetic activity is driven by rotation and convection, evolves over time, and is manifested in part as frequent, unpredictable, and energetic flares. Via high-energy radiation (X-ray/UV) and energetic particle emission, flares drive exoplanet atmosphere chemistry, erode atmospheres, and impact habitability. We propose to continue and expand a successful TESS M dwarf flare program to provide crucial information on the evolution of flare activity over time, the cumulative energy output from M dwarf flares, and place constraints on which M dwarf planets are most likely to be habitable.                                

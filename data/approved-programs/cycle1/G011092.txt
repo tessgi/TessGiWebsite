@@ -1,0 +1,35 @@
+# TESS Program G011092
+
+Title: Phase Shifts In The Timing Of Pulsating Variables
+
+PI: Hintz, Eric - Brigham Young University
+
+Type: N/A
+
+Summary: We have been monitoring a number of pulsating variables in the instability strip using specially designed filters. For a couple of these objects we have seen a drop in temperature that accompanied a phase jump in the data. These stars are often thought to go through a constant period change, which is attributed to evolutionary effects. However, we have examined one Cepheid and one delta Scuti which show a phase jump. A sequence of phase jumps could mimic a period change. However, at this point we have two known object which show the phase jump. The TESS observing program provides and ideal data set to examine a much larger data set with extensive coverage. We believe we will find a larger sample of phase jumping stars and be able to establish a rate at which they appear.                   
+
+
+# Sector 001 targets observed (1)
+394699148,58.3333,-79.8097,8.57,G011092;G011250
+
+# Sector 004 targets observed (2)
+25195864,63.7536,-69.5367,10.39,G011092
+30526897,75.0315,-68.45,11.04,G011092
+
+# Sector 005 targets observed (3)
+25195864,63.7536,-69.5367,10.39,G011092
+319289587,71.895,-79.8072,7.52,G011092;G011060
+394699148,58.3333,-79.8097,8.57,G011092;G011250
+
+# Sector 006 targets observed (3)
+143168754,89.9225,-30.6649,9.22,G011127;G011092;G011060
+25195864,63.7536,-69.5367,10.39,G011092
+30526897,75.0315,-68.45,11.04,G011092
+
+# Sector 011 targets observed (1)
+342500794,204.6872,-70.1867,8.64,G011092
+
+# Sector 012 targets observed (3)
+407012535,231.1349,-80.4407,7.69,G011092
+342500794,204.6872,-70.1867,8.64,G011092
+394699148,58.3333,-79.8097,8.57,G011092;G011250

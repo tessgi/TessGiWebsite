@@ -1,0 +1,9 @@
+# TESS Program G022152
+            
+Title: A TESS Survey Of Temporal Cometary Phenomena
+
+PI: Farnham, Tony - University Of Maryland (College Park)
+
+Type: Large
+
+Summary: We propose to use the TESS 30-minute full-frame images (FFI) to investigate the rotational dynamics and temporal activity of comets that serendipitously appear in the TESS fields of view, monitoring as many as 50 comets in the 26 sectors from years 1 and 2. Our primary focus is on rotation and changes in the spin state of the nuclei, but we will also monitor secular changes in the comets activity, explosive spontaneous outbursts, coma morphology, and dust trails that constrain comets' mass loss. TESS' sampling cadence, 27-day pointing duration, and instrumental stability promises a dataset of unprecedented quality. We expect to produce an extensive and uniform survey that can dramatically improve our understanding of cometary behavior and evolution.                                         

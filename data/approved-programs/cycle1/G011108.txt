@@ -1,0 +1,30 @@
+# TESS Program G011108
+
+Title: Detection And Prioritization Of Warm Jupiters
+
+PI: Dawson, Rebekah - The Pennsylvania State University
+
+Type: Small
+
+Summary: Warm Jupiters (WJs), giant planets with 10--100 day orbital periods, pose a major challenge to our understanding of how planets form and evolve. We need a larger sample of transiting WJs to test theories for their origins. However, the TESS core program will only discover a handful due to long orbital periods and low occurrence rates. Also, future SC and ground-based observations can yield valuable constraints on WJ properties, but prioritization based on observability and scientific value is needed to choose the best targets. We propose to discover and catalog WJs in full frame images; fit light curves of WJs discovered by our program and others; and produce a prioritized list of continuous viewing zone WJs as future SC targets and a prioritized catalog of WJs for ground-based follow-up. 
+
+
+# Sector 009 targets observed (3)
+167418898,99.6096,-67.6564,10.18,G011108
+271900960,112.9418,-75.5276,8.25,G011108
+272086159,115.0035,-72.2051,13.4,G011108;G011180
+
+# Sector 010 targets observed (2)
+271900960,112.9418,-75.5276,8.25,G011108
+272086159,115.0035,-72.2051,13.4,G011108;G011180
+
+# Sector 011 targets observed (3)
+271900960,112.9418,-75.5276,8.25,G011108
+167418898,99.6096,-67.6565,10.18,G011108
+260130483,92.3054,-55.4038,10.58,G011108;G011291
+
+# Sector 012 targets observed (4)
+167418898,99.6096,-67.6565,10.18,G011108
+271900960,112.9418,-75.5276,8.25,G011108
+272086159,115.0035,-72.2051,13.4,G011108;G011180
+260130483,92.3054,-55.4038,10.58,G011108;G011291

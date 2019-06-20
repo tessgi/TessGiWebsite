@@ -1,0 +1,9 @@
+# TESS Program G022153
+            
+Title: Newly Discovered Low-Mass Stars With Circumstellar Disks
+
+PI: Silverberg, Steven - University Of Oklahoma
+
+Type: Small
+
+Summary: Debris disks serve as laboratories for studying planet formation, and their presence is expected to correlate with that of planets. YSO disks, by contrast, are the building blocks for planets that eventually form. We propose 2-minute cadence photometric monitoring of a sample of 161 M and K dwarfs with circumstellar disks to search for star/disk interactions, characterize stellar var-iability of disk hosts, and potentially identify transiting planets. The stellar rotation and flare data will help constrain system characteristics (e.g. age, inclination angle), and can be used to test the hypothesis that flares can shape debris disks.                                                                                                                                                                

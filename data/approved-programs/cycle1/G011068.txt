@@ -1,0 +1,20 @@
+# TESS Program G011068
+
+Title: Resolving The Light Curves Of Active Eclipsing Binaries With Tess
+
+PI: Torres, Guillermo - Smithsonian Astrophysical Observatory
+
+Type: N/A
+
+Summary: Stellar activity causes the sizes of cool stars to be larger than predicted by current stellar evolution models. However, stellar radii in eclipsing binaries are difficult to measure accurately from the ground because light curve distortions caused by star spots tend to change with time, and are seldom sampled well enough to model properly over a single orbital cycle. Folding the time series over many cycles introduces smearing, which biases the measured radii. This is a proposal to obtain TESS 2-min light curves of four active cool eclipsing binaries to address this problem, providing accurate radius measurements to advance our understanding of "radius inflation". The project will impact areas of astrophysics that use models to infer stellar properties, including exoplanet science.       
+
+
+# Sector 001 targets observed (1)
+206556127,333.6608,-21.6971,8.75,G011180;G011068;G011154
+
+# Sector 004 targets observed (2)
+4742129,39.7864,-10.4634,11.09,G011068;G011154
+88479623,47.0295,-24.759,8.64,G011180;G011083;G011068;G011176;G011154
+
+# Sector 006 targets observed (1)
+464838153,82.0868,3.6424,10.62,G011068;G011154

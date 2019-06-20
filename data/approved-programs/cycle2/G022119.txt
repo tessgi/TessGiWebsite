@@ -1,0 +1,9 @@
+# TESS Program G022119
+            
+Title: TESS Observations Of Transiting Planet Candidates From HAT 
+
+PI: Bakos, Gaspar - Princeton University
+
+Type: Small
+
+Summary: We propose to extract and analyze TESS light curves for all 1915 candidate transiting planet systems in the Northern ecliptic sky that have been identified by the HAT ground-based transit surveys, and which are not among the top priority TESS targets. These light curves will be used to confirm and characterize transiting planets, including giant planets around M dwarfs, to look for additional transit signals in the light curves, to check for transit timing variations, and to calibrate the follow-up efficiency of the HAT surveys. We propose for 2 minute cadence observations for 101 targets where high cadence is necessary, the remaining 1814 targets will be analyzed using the full-frame images.                                                                                                   

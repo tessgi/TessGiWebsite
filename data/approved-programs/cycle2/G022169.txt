@@ -1,0 +1,9 @@
+# TESS Program G022169
+            
+Title: Photometric Analysis Of Be Stars' Outbursts In The Northern Ecliptic Hemisphere
+
+PI: Emilio, Marcelo - Universidade Estadual De Ponta Grossa
+
+Type: Small
+
+Summary: We propose the characterization of outbursts in northern Be stars. Classical Be stars are rapid rotators of spectral type B and luminosity class V-III which have an equatorially concentrated circumstellar disk. The disk is fed by discrete mass loss events called outbursts. Rapid rotation alone cannot explain the ejection episodes, and non-radial pulsations (NRP) have been proposed as an explanation. We propose to verify the correlation between the NRP regime and the feeding of the envelope by combining ground-based spectroscopy data with the identification of outbursts and the measurement of small changes in pulsation frequencies with TESS 2-min cadence observations. Fourier analysis of photometric data will be performed using a methodology developed by our group for CoRoT and K2 Be stars.

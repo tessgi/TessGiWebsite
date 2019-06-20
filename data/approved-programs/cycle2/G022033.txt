@@ -1,0 +1,9 @@
+# TESS Program G022033
+            
+Title: Detrending TESS Data Using Periodic Variable Stars
+
+PI: Prsa, Andrej - Villanova University
+
+Type: Large
+
+Summary: Robust detrending of TESS light curves has been a standing issue; in addition to the pipeline-produced Pre-search Data Conditioning (PDC), a plethora of other methods, general and dedicated, has been proposed for space-based photometry of Kepler, K2 and TESS. In this proposal we aim to utilize a novel detrending option that is based on using periodic signals in lightcurve timeseries to derive a comprehensive detrending map for the entire TESS-observed sky. We discuss the basic principles, demonstrate its use on a synthetic case and on an eclipsing binary TIC 141770299, and compare its performance to the SAP, PDC and TASOC-detrended lightcurves.                                                                                                                                                    

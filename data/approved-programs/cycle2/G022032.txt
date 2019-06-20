@@ -1,0 +1,9 @@
+# TESS Program G022032
+            
+Title: Asteroseismology And The Evolution Of Stellar Activity Cycles
+
+PI: Metcalfe, Travis - White Dwarf Research Corporation
+
+Type: Small
+
+Summary: Decades of observations from the Mount Wilson and Lowell surveys identified magnetic activity cycles in many of the brightest stars in the sky. These unique data help to place the solar cycle in context, but the fundamental stellar properties still have large uncertainties. To better characterize the evolution of stellar cycles, we propose to determine asteroseismic masses and ages for a sample of late F- and early G-type stars with existing magnetic activity time-series. Rotation is thought to be a key ingredient in stellar dynamos. With TESS we can also obtain measurements of rotation for F-type stars. These observations will allow us to test the recent suggestion that magnetic dynamos are disrupted in middle-aged stars, and that stellar cycles grow longer as stars age and rotate slower.

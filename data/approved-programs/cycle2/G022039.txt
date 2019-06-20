@@ -1,0 +1,9 @@
+# TESS Program G022039
+            
+Title: The Mass-Radius-Luminosity-Rotation Relation For M Dwarfs Determined From TESS Eclipsing Binaries
+
+PI: Muirhead, Philip - Boston University
+
+Type: Small
+
+Summary: The objective of this TESS Cycle-2 proposal is to determine accurate relationships to convert M dwarf absolute magnitudes and rotational periods to stellar masses and radii. We will achieve this objective by searching for, discovering and characterizing new low-mass stellar eclipsing binary stars (EBs) in the TESS full-frame images (FFIs), and we propose 36 known EBs for 2-min-cadence observations. The proposed mass-radius-luminosity-rotation relationship is critical for accurately measuring the radii and equilibrium temperatures of the hundreds of transiting extrasolar planets TESS is expected to discover orbiting M dwarfs. We expect to discover thousands of new EBs in the full-frame images. The 36 known EBs proposed for 2-min-cadence observations are bright objects with existing radia   

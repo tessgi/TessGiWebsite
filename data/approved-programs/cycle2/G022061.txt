@@ -1,0 +1,9 @@
+# TESS Program G022061
+            
+Title: Studying Pulsating M Dwarfs Through The Eyes Of TESS
+
+PI: Jao, Wei-Chun - Georgia State University
+
+Type: Small
+
+Summary: The unprecedented high precision of parallaxes in Gaia Data Release 2 (DR2) reveals a new feature in the lower main sequence of the H-R Diagram (HRD). Theoretical models predict that M dwarfs in this narrow transition zone are in a pulsating phase because of the mixing of 3He during the merger of envelope and core convection zones. We expect that these pulsating stars will show high photometric variability in the form of flares because of unstable magnetic configurations. Here we request to add 107 carefully selected targets in addition to those already being observed by TESS core science targets that lie in this region in the HRD. We propose to acquire short cadence, high precision TESS photometry to study stellar variability levels for these stars and will provide the first systematic   

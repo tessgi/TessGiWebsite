@@ -1,0 +1,9 @@
+# TESS Program G022012
+            
+Title: Starspots And The Origin Of Scatter In The Rotation--Activity Relation
+
+PI: Newton, Elisabeth - Dartmouth College
+
+Type: Small
+
+Summary: Despite their proximity and prevalence, we do not understand the distribution of spots and active regions on M dwarfs. TESS provides a unique opportunity to obtain uniform, high cadence photometry for hundreds of bright M dwarfs with known rotation periods, and enables simultaneous ground-based spectroscopy. We will use these data to investigate the origin of scatter in the rotation--activity relationship for M dwarfs. Namely, we will test for the existence of a tight relationship between the amplitude of photometric variability and magnetic activity as measured by H-alpha. This proposal will support our measurement of rotation periods and photometric amplitudes using the TESS data.                                                                                                             

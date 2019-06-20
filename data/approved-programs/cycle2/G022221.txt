@@ -1,0 +1,9 @@
+# TESS Program G022221
+            
+Title: TESS Investigations Of Periodic And Aperiodic Sources
+
+PI: Prince, Thomas - California Institute Of Technology
+
+Type: Large
+
+Summary: We propose to use TESS 30-minute cadence Full-Frame Images (FFI) to undertake studies of binary systems and active galactic nuclei (AGN) that are impossible to perform using ground-based facilities. The specific topics we will investigate are: (1) stellar binaries, in particular, candidate black hole systems showing ellipsoidal modulation, (2) Eclipsing white dwarfs and subdwarfs, and (3) aperiodic variability of AGN on timescales of 0.02-5 days For these topics, we will exploit the complementarity of TESS and ZTF. To enhance the impact, the same tools and data we develop for our focused science studies will be made available to the wider astronomical community, providing new capabilities for a wide range of time-domain science using TESS. These include simultaneous ZTF/TESS data.         

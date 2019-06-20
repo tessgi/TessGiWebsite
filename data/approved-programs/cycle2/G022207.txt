@@ -1,0 +1,9 @@
+# TESS Program G022207
+            
+Title: TESS Extragalactic Transient Survey (Tegs)
+
+PI: Rest, Armin - Space Telescope Science Institute
+
+Type: Small
+
+Summary: TESS s continuous 30 minute cadence provides crucial early time data on explosive transients, probing a window that is inaccessible to traditional ground-based surveys. We propose to identify transients within the TESS sectors with ATLAS and PS1, alert the public, and trigger extensive complementary photometric and spectroscopic observations. Our program will determine the types of companions in SNe Ia progenitors using features in the early LCs; explore the physics of SN using subtle features during their rise; constraint the radius and properties of progenitor stars of core-collapse SNe using their shock break-out; and constraint the light curves of exotic and rare events like superluminous SNe, tidal disruption events, and fast transients.                                                

@@ -1,0 +1,9 @@
+# TESS Program G022218
+            
+Title: Detection And Prioritization Of Warm Jupiters
+
+PI: Dawson, Rebekah - The Pennsylvania State University
+
+Type: Small
+
+Summary: Warm Jupiters (WJs), giant planets with 10--100 day orbital periods, pose a major challenge to our understanding of how planets form and evolve. We need a larger sample of transiting WJs to test theories for their origins. However, the TESS core program will only discover a handful due to long orbital periods and low occurrence rates. Also, future SC and ground-based observations can yield valuable constraints on WJ properties, but prioritization based on observability and scientific value is needed to choose the best targets. We propose to discover and catalog WJs in full frame images; fit WJ light curves and produce transit ephemerides; and produce a prioritized list of continuous viewing zone WJs as future SC targets and a prioritized catalog of WJs for ground-based follow-up.          

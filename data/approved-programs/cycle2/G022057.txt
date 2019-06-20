@@ -1,0 +1,9 @@
+# TESS Program G022057
+            
+Title: Ensemble Analysis Of Pulsating Subdwarf B Stars To Understand He-Fusing Cores
+
+PI: Reed, Mike - Missouri State University
+
+Type: Small
+
+Summary: Recent progress has been made on horizontal branch and post-flash physics using MESA models. Obtaining >100 sdBV stars with TESS data will allow us to completely populate the He-fusing region of the HR diagram. This is necessary to break mass/evolutionary degeneracies. TESS seismology will provide core masses and internal structure across differing evolutionary paths. Our proposal has 3 main objectives: 1) determine evolutionary core mass sequences of horizontal branch stars. 2) Determine angular momentum evolution across the helium flash and between interacting binaries; and 3) characterize radially differential rotation as a probe of core-envelope interactions. K1 & K2 showed us how, TESS data will complete the process by providing statistically complete samples.                         

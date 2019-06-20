@@ -1,0 +1,9 @@
+# TESS Program G022166
+            
+Title: Long-Period Transit Follow-Up Of Kepler M-Dwarfs & Friends
+
+PI: Safron, Emily - Louisiana State University
+
+Type: Small
+
+Summary: Planet Hunters (PH) has proven successful at crowd sourcing visual inspection of Kepler light curves to detect long-period (P > 600 days) exoplanets that would be invisible to traditional automated search pipelines. Now that PH classification of all Kepler M-dwarf light curves has been completed, we seek 2-minute cadence TESS observations of 4110 of these targets and 58 other known long-period exoplanet hosts in the Kepler field, to combine with FFI photometry in light curves to be injected into the PH interface. With a specialized pipeline that includes an injection/recovery study, we will 1) identify new long-period candidates, 2) refine properties of previously reported candidates in the sample, and 3) constrain the occurrence rates of long-period exoplanets around M-dwarfs.            

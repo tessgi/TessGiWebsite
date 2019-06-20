@@ -1,0 +1,9 @@
+# TESS Program G022011
+            
+Title: Low Surface Brightness Haloes Around Nearby Galaxies With TESS
+
+PI: Holwerda, Benne - University Of Louisville
+
+Type: Small
+
+Summary: TESS combination of wide field of view, long total integration times and sampling may make it potentially near ideal for the detection of low-surface brightness features around nearby galaxies. The fraction of stars in the stellar halo of galaxies is a direct test of LambdaCDM galaxy formation models. The low surface brightness halo around nearby galaxies has proven to be observationally challenging from the ground. We propose a pilot project to combine the 30min exposures at the position of nearby edge-on spiral galaxies and model their light distribution to map the halo component. Challenges include combining the TESS imaging data, subtracting foreground stars and diffuse zodiacal light.                                                                                                      

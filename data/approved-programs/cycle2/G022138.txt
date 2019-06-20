@@ -1,0 +1,9 @@
+# TESS Program G022138
+            
+Title: Spin-Down In Cool Dwarf Stars: Stalling And Convergence
+
+PI: Newton, Elisabeth - Dartmouth College
+
+Type: Small
+
+Summary: The age rotation relationship provides insight into how stellar winds and magnetic fields evolve. Recent analyses found that spin-down stalls for K and early M dwarfs around 600&#8722;1000 Myr, while the age at which mid-to-late M dwarfs begin their spin-down is still unknown. We will take advantage of TESS full frame images to measure rotation periods for both components of Gaia-identified binaries. We will use G dwarf primaries to constrain the ages of the K and M dwarf secondaries. This will enable studies of stalling and convergence in these low-mass stars, improving gyrochronology relations and providing new insight into the stars' magnetic dynamos and winds.                                                                                                                                

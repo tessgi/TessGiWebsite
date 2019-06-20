@@ -1,0 +1,9 @@
+# TESS Program G022017
+            
+Title: Rotationally Modulated Light Variability Of White Dwarfs And Hot Subdwarfs
+
+PI: Krticka, Jiri - Masarykova Univerzita
+
+Type: Small
+
+Summary: We propose to observe a sample of white dwarfs and subdwarfs to search for rotationally modulated variations and to detect the variations of rotational period. The derived data will improve our knowledge of the rotational period distribution of white dwarfs providing additional test of evolutionary models. The detection of rotational light variability connected with accretion of debris can provide information about the structure of planetary and asteroidal system around white dwarfs. Light variability of hot subdwarfs could serve as a proxy for the presence of the magnetic field.                                                                                                                                                                                                                      

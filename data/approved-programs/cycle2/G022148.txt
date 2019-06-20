@@ -1,0 +1,9 @@
+# TESS Program G022148
+            
+Title: Testing Stellar Evolution With Eclipsing Binaries In Young Moving Groups
+
+PI: Tofflemire, Benjamin - University Of Texas At Austin
+
+Type: Large
+
+Summary: Eclipsing binaries (EBs) provide benchmark measurements of stellar masses and radii that are the foundation of theoretical stellar astrophysics. Large areas of model parameter space remain poorly constrained by observations, however, particularly at low masses and young ages. From the few sources that have been studied in this regime, current models have been unable to simultaneously describe their observed properties (mass, radius, Teff, L). A thorough test of theoretical models requires a sample of EBs that spans both mass and age. TESS will provide the first dataset capable of finding EBs on this scale. We therefore propose for targeted 2-m cadence observations of young cluster and moving group members in which to find and characterize young EBs.                                         

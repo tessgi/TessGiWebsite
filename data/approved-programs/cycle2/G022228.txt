@@ -1,0 +1,9 @@
+# TESS Program G022228
+            
+Title: Mitigating Exoplanet Radius Biases From Wavelength Dependence Of Starspot Contrast
+
+PI: Gully-Santiago, Michael - Bay Area Environmental Research Institute
+
+Type: Small
+
+Summary: Recent work has shown that ignoring starspots systematically biases measurements of exoplanet radii. Here we propose a strategy for mitigating starspot-induced exoplanet radius biases, based on a large sample of spotted stars observed in TESS Cycle 2. The approach will deliver constraints on both the typical starspot coverage fraction and the typical starspot temperature contrast, as a function of spectral type and rotation rate. This program will leverage the TESS Cycle 2 overlap with the Kepler prime field and portions of K2 fields.                                                                                                                                                                                                                                                                    

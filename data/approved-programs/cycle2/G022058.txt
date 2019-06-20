@@ -1,0 +1,9 @@
+# TESS Program G022058
+            
+Title: Science-Grade Co-Added Mosaics Of TESS Full-Frame Images
+
+PI: Berriman, Graham - California Institute Of Technology
+
+Type: Large
+
+Summary: We will use the Montage Image Mosaic Engine, a mature Open Source toolkit, to create co-added image mosaics of all the FFIs of the southern hemisphere, released in Mission Year 1. We will study the optimum way of rectifying images for the effects of image artifacts, and the mosaics will be ready for cutting-edge research on diffuse extended emission; e.g. derivation of the halo mass profiles of galaxies, and identification of galaxy cannibalism leftovers. We will also create dedicated mosaics for import into the World Wide Telescope and into HiPS-complaint visualizers (e.g. Aladin and ESASky). The data products will be made freely available through the NASA ExoFOP-TESS archive. All dedicated software will be made available as part of the Montage distribution.                               

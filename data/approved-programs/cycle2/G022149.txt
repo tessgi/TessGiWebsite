@@ -1,0 +1,9 @@
+# TESS Program G022149
+            
+Title: Transit Timing With A Ten Year Baseline: TESS In The Kepler Field
+
+PI: Jontof-Hutter, Daniel - University Of The Pacific
+
+Type: Small
+
+Summary: Transit Timing Variations (TTVs) have enabled masses and orbits of dozens of transiting exoplanets to be characterized; allowing inferences on planetary compositions and their atmospheric scale heights. TTVs increase in signal strength with orbital period and with the photometric baseline. Transit timing with TESS will constrain the masses of dozens of transiting planets and constrain the architecture of systems where non-transiting perturbers cause TTVs. TESS will reestablish the transit ephemeris of planets with diverging TTV posteriors enabling the efficient follow-up of Kepler TTV systems by ground- and space-based observatories into the JWST era.                                                                                                                                             

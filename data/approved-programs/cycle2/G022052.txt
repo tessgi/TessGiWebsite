@@ -1,0 +1,9 @@
+# TESS Program G022052
+            
+Title: Probing The Northern Ecliptic Pole For Terrestrial Exoplanets And Stellar Mirages
+
+PI: Robertson, Paul - University Of California (Irvine)
+
+Type: Small
+
+Summary: We propose to acquire 2-minute cadence photometry of 29 bright stars near the northern ecliptic pole. We are simultaneously monitoring these stars in radial velocity (RV) using the Automated Planet Finder (APF). TESS's long-baseline lightcurves for these stars increase the period sensitivity to transits and provide a probe of stellar activity, which will improve models of the APF RVs and aid in the discovery of terrestrial exoplanets. The combined TESS-APF observations also offer unique sensitivity to stellar mirages, brightening events caused by refraction in a planet s atmosphere. We have already identified two exoplanets that are excellent candidates to exhibit mirages. If TESS observations confirm mirages, it will open a new window to exoplanet atmosphere characterization with JWST.   

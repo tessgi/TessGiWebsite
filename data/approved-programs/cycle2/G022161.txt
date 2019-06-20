@@ -1,0 +1,9 @@
+# TESS Program G022161
+            
+Title: The Hot Neptune Population Of A-Type Stars
+
+PI: Johnson, Marshall - Ohio State University
+
+Type: Small
+
+Summary: The occurrence rate of planets as a function of planetary mass and orbital period, and of stellar mass, provides powerful constraints upon models of planet formation, migration, and evolution. Kepler has provided such measurements for FGKM stars, but the short-period planetary population of more massive stars is largely unexplored. We propose to use TESS to observe a sample of A-type main sequence stars in order to find hot Neptunes around these stars. This will provide the first measurement of the occurrence rate of small planets around intermediate-mass stars, increasing our knowledge of planet formation and migration around these stars. It will also provide an excellent sample of planets for studying the impact of high-energy radiation upon planetary atmospheric escape.                 

@@ -1,0 +1,20 @@
+# TESS Program G011122
+
+Title: Interiors Of Exoplanets By Constraining The Fluid Love Number K2,F
+
+PI: Hellard, Hugo - Deutsches Zentrum Fur Luft-Und Raumfahrt (Dlr)
+
+Type: N/A
+
+Summary: We propose a method to break down the degeneracy in the mass-radius diagram by measuring the polar flattening of giant exoplanets. The first goal of our investigation is to measure the tide- and rotational-induced polar flattening of giant exoplanets from transit light curves. The second goal is to link this polar flattening to the fluid Love-number k2,f. Oblate-induced disruptions are more pronounced at the ingress/egress phases of short-period planet transits. The duration of these phases for a typical hot-Jupiter lasts for 10 to 20 minutes. Hence, TESS 2-minute cadence measurements are mandatory to reach the required time resolution that allows us to precisely observe these phenomena. Our project provides a third parameter for understanding internal structures of giant exoplanets.      
+
+
+# Sector 001 targets observed (1)
+144065872,337.4579,-48.0031,9.48,G011112;G011183;G011132;G011122
+
+# Sector 002 targets observed (1)
+230982885,24.6052,-55.772,9.96,G011112;G011183;G011132;G011122
+
+# Sector 007 targets observed (2)
+134537478,108.3014,-42.4098,10.36,G011112;G011183;G011132;G011122
+22529346,107.6003,-39.0973,10.04,G011112;G011183;G011132;G011122

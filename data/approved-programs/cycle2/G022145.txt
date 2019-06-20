@@ -1,0 +1,9 @@
+# TESS Program G022145
+            
+Title: Searching For Planets Around High Velocity Stars To Enable Uv Transmission Spectroscopy
+
+PI: Lopez, Eric - NASA/GSFC
+
+Type: Small
+
+Summary: Kepler showed that the transiting exoplanet population is strongly sculpted by atmospheric escape. The best observational probe of escape is transit spectroscopy with H I Lyman alpha. However, neutral hydrogen in the ISM completely attenuates the core of the line even for the closest stars, hiding the key bound region of a planet's exosphere. High radial velocity stars offer a solution, as transit signals will be Doppler shifted out of the ISM's 100\% attenuation zone. We propose to search for large, short-period planets around 264 nearby, bright, high radial velocity stars to find planet candidates that will be suitable for Lyman alpha transmission spectroscopy with the HST. We expect to find ~5 planets, which will likely become benchmark systems for directly probing atmospheric escape.  

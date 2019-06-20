@@ -1,0 +1,9 @@
+# TESS Program G022219
+            
+Title: A Search For Flickering To Probe Accretion Activity And Binarity In Agb Stars (Cycle 2)
+
+PI: Sahai, Raghvendra - NASA/Jpl
+
+Type: Small
+
+Summary: Our X-ray surveys of a small sample of cool AGB stars with FUV excesses reveal X-ray emission in 40% of our sample. The X-ray emission shows the unexpected presence of magnetically-confined and very hot gas (Tx~35-150 MK), and quasi-periodic variations on hour-long timescales, likely associated with an accretion disk around a main-sequence companion. HST UV observations show flickering on ~minute time-scales for our key fuvAGB object, confirming the presence of an accretion disk. We propose continuation of our successful cycle 1 TESS survey to search for flickering in TESS's optical band for a statistical sample of AGB stars with UV emission. The resulting database of high-cadence, high-sensitivity light curves will provide an unprecedented window into binary interactions in AGB stars.    

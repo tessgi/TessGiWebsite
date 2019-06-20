@@ -1,0 +1,9 @@
+# TESS Program G022116
+            
+Title: TESS Observations Of Cataclysmic Variable Stars
+
+PI: Wood, Matt - Texas A&M University-Commerce
+
+Type: Small
+
+Summary: Cataclysmic variables provide the cleanest available natural laboratories to investigate the physics of accretion. The timing capabilities and sensitivity of TESS are well matched to the timescales and amplitudes of accretion variability in these sources. The combination provides an opportunity to test and refine the paradigms of stellar accretion with high-precision, uniform data containing no diurnal gaps. We propose a continuation of our multifaceted observational and modeling program that has the potential to measure the spatial structure of model dependent disk parameters. Like the Kepler/K2 mission, the analysis of TESS observations of CVs will significantly impact our understanding of accretion dynamics and the nature of astrophysical viscosity.                                      
