@@ -17,7 +17,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - TESS Science Support Center" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2019-06-13" />
+    <meta name="dc.date.modified" content="2019-06-19" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Users of TESS Data" />
     <meta name="dc.identifier" content="https://heasarc.gsfc.nasa.gov/docs/tess/" />
@@ -285,21 +285,28 @@ The header of the file must contain one or more of Tmag, Vmag, Jmag, Bmag, Bphma
 </code></pre>
 <p>This code is build using the algorithms from the TESS Input Catalog publication from <a href="https://arxiv.org/abs/1706.00495">Stassun et al. (2017)</a>.</p>
 <h3 id="filtergraph">Filtergraph</h3>
-<p>The Target Selection Working Group (TSWG) has also provided a tool for GI proposers to view and manipulate a high-priority subset of the current CTL in the <a href="https://filtergraph.com/tess_ctl">Filtergraph data visualization system</a> (Burger et al. 2013). Filtergraph is an online tool to upload data files, visualize the data in various formats (i.e. scatter plots, histograms, heat maps, etc.), manipulate these visualizations by filtering the data, and save figures in standard image output formats. </p>
-<p>The following figure provides an example of a CTL visualization that can be made using Filtergraph. The figure displays all stars in CTL-5 in Dec vs. RA and color-coded by T mag. Features inherent to the CTL are immediately noticeable, such as the lower density of targets in the Galactic plane (due to high background contamination) and the higher density of targets in the ecliptic poles where TESS will have the longest continuous observation baseline and be more sensitive to transiting planets. 
-<br/>
-<img class="img-responsive" src="images/giprogram/filtergraph.png" style="max-width:67%;"/>
-* CTL-5 visualization generated using TIC/CTL Filtergraph portal. The figure shows the distribution of stars in the CTL-5 in equatorial coordinates. The color bar represents the targets' TESS magnitudes. There are fewer stars in the Galactic plane due to background contamination. The two elliptical regions of higher target density are the ecliptic poles, where TESS will observe continuously for nearly a year. Image Credit: <a href="https://filtergraph.com/">Filtergraph</a>*
+<p>The TESS Target Selection Working Group (TSWG) has provided a tool for GI proposers to view and manipulate the current CTL in the <a href="https://filtergraph.com/tess_ctl">Filtergraph data visualization system</a> (Burger et al. 2013). Filtergraph is an online tool to upload data files, visualize the data in various formats (i.e. scatter plots, histograms, heat maps, etc.), manipulate these visualizations by filtering the data, and save figures and tables in standard image and data output formats.</p>
+<p>The following figure provides an example of a CTL visualization that can be made using Filtergraph. The figure displays the ~400,000 highest priority stars in CTL-8 in Dec vs. RA and color-coded by T-mag. Features inherent to the CTL are immediately noticeable, such as the low density of targets in the Galactic plane (due to high background contamination and reddening), the ecliptic zone (which is not observed in the prime mission), and the higher density of targets near the ecliptic poles where TESS will have the longest continuous observation baseline and be more sensitive to transiting planets.</p>
+<p><br/>
+<img class="img-responsive" src="images/giprogram/filtergraph_CTLv8.01_top_400K_stars.png" style="max-width:87%;"/>
+* CTL-8 visualization generated using TIC/CTL Filtergraph portal. The
+figure shows the distribution of stars in the CTL-8 in equatorial
+coordinates. The color bar represents the targets' TESS
+magnitudes. There are fewer stars in the Galactic plane due to
+background contamination, and the ecliptic is not observed during the
+prime mission. The two regions of higher target density are the
+ecliptic poles, where TESS will observe continuously for nearly a
+year. Image Credit: <a href="https://filtergraph.com/">Filtergraph</a>*
 <br/></p>
-<p>Additional premade figures are available on the CTL Filtergraph page, including CTL TESS mag and effective temperature histograms. Users may also create their own Filtergraph account and upload their own target lists for visualization following the instructions and tutorials on the main <a href="https://filtergraph.com/">Filtergraph</a> webpage. </p>
+<p>Additional pre-made figures are available on the CTL Filtergraph page. Users may also create their own free Filtergraph account and upload their own target lists for visualization following the instructions and tutorials on the main <a href="https://filtergraph.com/">Filtergraph</a> webpage.</p>
 <h2 id="core-science-targets">Core science targets</h2>
-<p>To aid in proposal preparation we have <a href="data/core-science-targets-cycle2-v1.csv">made a csv file available</a> that contains the top 100,000 priority targets in the southern ecliptic hemisphere.</p>
+<p>To aid in proposal preparation we have <a href="data/core-science-targets-cycle2-v1.csv">made a csv file available</a> that contains the top 100,000 priority targets in the northern ecliptic hemisphere.</p>
 <h2 id="proposal-templates">Proposal templates</h2>
 <p>We have made available proposal templates to aid users in writing GI proposals. Use of these templates is not required. </p>
 <ul>
-<li><a href="docs/tessgi_template.docx">MS Word</a></li>
-<li><a href="docs/tessgi_template.tex">Latex</a></li>
-<li><a href="docs/tessgi_template.pdf">PDF</a></li>
+<li><a href="docs/tessgi_template_cycle2.docx">MS Word</a></li>
+<li><a href="docs/tessgi_template_cycle2.tex">Latex</a></li>
+<li><a href="docs/tessgi_template_cycle2.pdf">PDF</a></li>
 </ul>
             </div>
         </section>
@@ -374,7 +381,7 @@ The header of the file must contain one or more of Tmag, Vmag, Jmag, Bmag, Bphma
       <!-- NASA logo and notices -->
       <div class="row" style="margin-top:2em;">
          <div class="col-md-10"> <a href="http://www.nasa.gov/"><img src="./images/NASA_logo_vector_lg.png" width="30" alt="NASA Logo"></a> 
-         Last modified: Wed 22 May 2019
+         Last modified: Tue 18 June 2019
             &middot; Editor: Thomas Barclay &middot; NASA Official: Patricia T Boyd 
             &middot; <a href="http://www.nasa.gov/about/highlights/HP_Privacy.html">Privacy Policy and Important Notices</a><p></p>         </div>
          <div class="col-md-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
