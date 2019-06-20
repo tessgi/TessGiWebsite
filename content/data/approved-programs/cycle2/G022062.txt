@@ -1,0 +1,9 @@
+# TESS Program G022062
+            
+Title: Eclipsing Binary Stars: Indispensable Astrophysical Labs
+
+PI: Prsa, Andrej - Villanova University
+
+Type: Large
+
+Summary: Eclipsing binary stars (EBs) have served as principal gauges of fundamental stellar properties: the benchmark-grade systems allow an accuracy in masses and radii to exceed 2%, in turn providing stringent constraints on stellar evolution models. This is a multi-faceted proposal that builds on three principal aims: (1) extract known EB light curves from full-frame images; (2) run a search for unknown EBs within the full-frame images and extract their light curves; and (3) acquire 2-min cadence observations for a priority-sorted list of EBs that will serve as calibration standards, galactic population tracers and follow-up of well-studied, important systems, especially those observed by Kepler.                                                                                                    

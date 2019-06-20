@@ -1,0 +1,9 @@
+# TESS Program G022035
+            
+Title: TESS Views The Northern Eclipss
+
+PI: Ayres, Thomas - University Of Colorado
+
+Type: Small
+
+Summary: In 2018-19, HST s Cosmic Origins Spectrograph (COS) is carrying out a far-UV survey ("EclipSS") of 49 nearby solar-type (F2-K2) dwarfs, located in the ecliptic polar caps. These areas are favored by two important missions: current TESS (photometry/exoplanets) and upcoming eROSITA (X-ray all-sky survey). EclipSS targets were chosen to be isolated, bright enough for TESS and eROSITA, but not too bright for super-sensitive COS. FUV emissions and X-rays trace stellar activity, for which TESS can provide supporting rotation periods, flare frequencies, and seismology. Multiplexed sample will provide unprecedented view of the magnetic engine - the Dynamo - at the heart of the activity, which among other things can impact exoplanets and their habitability.                                          

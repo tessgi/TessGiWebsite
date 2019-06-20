@@ -1,0 +1,9 @@
+# TESS Program G022203
+            
+Title: Investigating Stellar Activities Using Simultaneous TESS Photometry And High Cadence High Precision Radial Velocity
+
+PI: Ge, Jian - University Of Florida
+
+Type: Large
+
+Summary: Stellar noise is the greatest factor limiting the RV detection of low-mass planets. Here we propose to make high-cadence, high-precision RV observations of 93 nearby FGK stars simultaneous with TESS observations between July 2019 and June 2020. We will use the TOU spectrograph (demonstrated <1m/s), to which the PI has full, dedicated access. These long-baseline, simultaneous time-series will be a unique and unprecedented dataset for us to develop and refine methods to model the stellar RV signals that currently hamper planet detection. This data and analysis toolkit---which will be made available publicly---will be crucial to ensure that continuing improvements of RV instruments result in confirmation of the smallest TESS planets and detections of lower-mass planets than current limit.    

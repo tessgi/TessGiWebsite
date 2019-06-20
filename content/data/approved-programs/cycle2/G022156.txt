@@ -1,0 +1,9 @@
+# TESS Program G022156
+            
+Title: Testing Stellar Models "From Top To Bottom" By Observing Single-Lined Eclipsing Binaries With TESS
+
+PI: Stevens, Daniel - The Pennsylvania State University
+
+Type: Small
+
+Summary: Stellar models incorrectly predict M dwarf radii and effective temperatures by several-to-tens of percent. Existing model-independent M dwarf measurements of sufficient precision are few and largely restricted to short-period M+M binaries, where interactions can be significant. However, we can now measure model-independent parameters for M dwarfs eclipsing higher-mass stars (spectral types B-G) greatly expanding the sample. We propose for TESS 2-minute cadence observations of 105 EBs with at least one M dwarf component to precisely measure the primary and secondary eclipses. The 2-minute cadence is necessary for resolving the ingress and egress shapes to the requisite precision to measure ingress/egress durations and hence masses and radii below 5%.                                         

@@ -1,0 +1,9 @@
+# TESS Program G022126
+            
+Title: Cataclysmic Variables And TESS For Cycle 2: Uninterrupted Data!
+
+PI: Schlegel, Eric - University Of Texas At San Antonio
+
+Type: Small
+
+Summary: We propose to use TESS to observe thirteen eclipsing cataclysmic variables. The TESS data will be combined with observations of the eclipses from ground-based telescopes from the Center for Backyard Astrophysics. The TESS data will probe the longer-term behavior of these CVs as shown by the Kepler and K2 observations. TESS will examine a broader range of eclipsing CVs than was possible with Kepler or K2. We pursue subtle systematics in the light curves.                                                                                                                                                                                                                                                                                                                                                       

@@ -1,0 +1,9 @@
+# TESS Program G022028
+            
+Title: White Dwarf Variability In The Ecliptic North
+
+PI: Hermes, James - Boston University
+
+Type: Small
+
+Summary: We propose 2-min-cadence observations of 1346 white dwarfs visible in Cycle 2 of the TESS mission. Our primary objective is to search these white dwarfs for transits of remnant planetary systems; transits of Earth-sized white dwarfs are likely to be very deep but also very short, just a few minutes, requiring high-speed observations. Our proposed observations will also enable asteroseismology of a large sample of known and high-likelihood pulsating white dwarfs, continuing the space-based revolution into the interiors of pulsating white dwarfs. From both asteroseismology and spot modulation of magnetic white dwarfs we will significantly expand the number of white dwarfs with measured rotation rates, placing strong constraints on the endpoints of angular momentum in stars.                  

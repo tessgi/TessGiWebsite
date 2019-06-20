@@ -1,0 +1,9 @@
+# TESS Program G022211
+            
+Title: Maximizing The TESS Mission&#8242;S Long-Period Planet Yield
+
+PI: Dragomir, Diana - Massachusetts Institute Of Technology
+
+Type: Small
+
+Summary: We propose to complement TESS core science by leveraging NASA s investment in the TESS mission to increase by up to several hundred the yield of long-period planet candidates. We will identify and vet single transit signals likely to have a planetary origin. We will release these candidates to the community in a timely fashion to enable efficient follow-up. This program will provide a large sample of temperate planet candidates transiting bright stars which, if confirmed will be amenable to a variety of follow-up studies. In turn, these studies will place constraints on the composition and formation of long-period exoplanets.                                                                                                                                                                       

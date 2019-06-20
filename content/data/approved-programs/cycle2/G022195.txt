@@ -1,0 +1,9 @@
+# TESS Program G022195
+            
+Title: Statistical Eclipses Of TESS Sub-Saturn Planet Candidates
+
+PI: Sheets, Holly - Albion College
+
+Type: Small
+
+Summary: The large consistent data sets provided by space based photometric survey missions such as Kepler or TESS give the unique opportunity to combine the signal of many planets to search for more subtle effects, that can not be detected in individual systems alone. For Kepler we already demonstrated the technique of adding lightcurves of many sub-saturn sized planets for a robust detection of their secondary eclipses. Here we propose to extend this method also to TESS data.                                                                                                                                                                                                                                                                                                                                       

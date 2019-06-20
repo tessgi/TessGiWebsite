@@ -1,0 +1,9 @@
+# TESS Program G022217
+            
+Title: Eclipsing Short Period Binary White Dwarfs
+
+PI: Tytler, David - University Of California (San Diego)
+
+Type: Small
+
+Summary: There are about 100-300 million binary White Dwarfs (BWDs) in our Galaxy. About 100 have been found with periods of under about 1 day. BWD with periods under 1 hour have gravitational wave merger times < 100Myr. They are expected to dominate the gravitational wave background for LISA and 11 known BWDs are compact enough to be detected individually by LISA. These systems have complex origins involving mass transfer via stable Roche overflow or unstable common envelope evolution, and various possible fates. Only 7 binary WDs have been found to eclipse. All have short periods, an extremely low mass WD (<0.35Msun) and three have extreme mass ratios of 1:5 that are hard to explain. The 2018 Gaia DR2 makes possible a comprehensive search for short period eclipsing BWD in TESS 2-min data.        

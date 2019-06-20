@@ -1,0 +1,9 @@
+# TESS Program G022135
+            
+Title: Stellar Structure And Evolution Put To The Test With Asteroseismology Of O And B Stars
+
+PI: Pedersen, May - Katholieke Universiteit Leuven
+
+Type: Small
+
+Summary: Through the chemical enrichment of their environment, massive stars play an important role in many fields of modern astrophysics and largely guide the evolution of the Universe as a whole. While major shortcomings prevail in their stellar structure and evolution theory, asteroseismology provides a promising tool for calibrating their internal properties by studying stellar pulsations which probe different depths of the stellar interior. However, due to the limitations of ground based observational campaigns as well as previous space missions, tight observational constraints have only been achievable for a handful of massive stars. With this science case we aim to remedy this situation by studying 73 O and B stars observed by TESS for at least 3 sectors in the northern hemisphere.          

@@ -1,0 +1,9 @@
+# TESS Program G022080
+            
+Title: TESS Observations Of Keck/Hires Radial Velocity Legacy Stars
+
+PI: Wright, Jason - The Pennsylvania State University
+
+Type: Small
+
+Summary: We have identified 609 of these stars with significant RV histories at Keck/HIRES observable in TESS Cycle 2 with priorities currently set to <1. Here, we propose that these stars receive 2-minute cadence observations with TESS. The specific reasons are as varied as the stars themselves, but the unifying theme is that this is our only chance to ensure that some of the most comprehensively-observed stars in the sky, with 20-year RV histories, receive TESS-quality high-cadence photometry, even if only across 27 days. Some systems will inevitably host as-yet undetected transiting planets, for which we will have pre-covery RV observations to immediately help place constraints on Mp.                                                                                                                 

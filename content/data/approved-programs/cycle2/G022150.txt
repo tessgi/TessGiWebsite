@@ -1,0 +1,9 @@
+# TESS Program G022150
+            
+Title: Extending The Time Baseline Of Kepler Eclipsing Binaries With TESS
+
+PI: Conroy, Kyle - Villanova University
+
+Type: Small
+
+Summary: The Kepler data set enabled us to identify and characterize nearly 3000 eclipsing binary systems. Thanks to the continued high-cadence observing, Kepler also allowed for measuring eclipse timing variations (ETVs) across the entire EB catalog to identify triple and higher-order systems. Unfortunately, Kepler's finite nominal mission limited both our precision in the measured orbital periods and also our sensitivity to detecting wider companions from ETVs. TESS provides the perfect opportunity to extend this science as it is observing the same field in the sky within a relatively close time-frame as Kepler; this will enable us to double the time-baseline of Kepler, therefore doubling our sensitivity to these systems.                                                                            

@@ -1,0 +1,9 @@
+# TESS Program G022173
+            
+Title: Spots And Flares In Active Binary Systems
+
+PI: Buzasi, Derek - Florida Gulf Coast University
+
+Type: Small
+
+Summary: Active binary stars are cool stars characterized by strong chromospheric, transition region, and coronal radiation. Photometrically, the stars are variable primarily due to the presence of starspots and flares. The higher activity levels seen in these active binaries make these stars a natural laboratory for the study of magnetic activity. TESS offers us the opportunity to undertake systematic study of issues such as differential rotation, spot evolution, and flare rates for 37 such systems, supplemented by ground-based photometry from the Evryscope program.                                                                                                                                                                                                                                            

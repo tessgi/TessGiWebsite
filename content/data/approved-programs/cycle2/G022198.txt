@@ -1,0 +1,9 @@
+# TESS Program G022198
+            
+Title: Probing The Landscape Of Cool Dwarf Planet Occurrence
+
+PI: Dressing, Courtney - University Of California (Berkeley)
+
+Type: Large
+
+Summary: We propose to explore the full landscape of cool dwarf planet occurrence by expanding the planet detection pipeline and occurrence rate machinery we developed for our successful Cycle 1 proposal and incorporating a sophisticated new TOI vetting framework. We will improve the ability of our pipeline to detect both single transit events and ultra-short period planets (USPs) and probe the frequency of these planets in cool dwarf planetary systems. We will also measure cool dwarf rotation rates and ages and investigate how rotation varies with age and stellar mass, which will help constrain stellar activity, system stability, atmospheric escape, and planet habitability. Finally, we will investigate the planet-metallicity correlation for low-mass stars to probe the extremes of planet formation.

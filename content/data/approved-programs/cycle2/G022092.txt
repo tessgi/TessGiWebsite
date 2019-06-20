@@ -1,0 +1,9 @@
+# TESS Program G022092
+            
+Title: Contemporaneous Photometric/Spectroscopic Characterisation Of Stellar Surfaces With TESS And Expres
+
+PI: Fischer, Debra - Yale University
+
+Type: Small
+
+Summary: The primary aim of this proposal is to calibrate relationships between variations in several photometric, asteroseismic, and spectroscopic stellar activity indicators using TESS photometry and contemporaneous high-fidelity spectra obtained with the EXtreme PREcision Spectrograph. Recent solar evidence suggests that these activity indicators offer complementary perspectives of physics at stellar surfaces. This investigation connects efforts to understand surface contributions to asteroseismology with efforts to disentangle photospheric contributions to measurement errors in extreme precision RV data. Both of these are major open problems.                                                                                                                                                           

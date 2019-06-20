@@ -1,0 +1,9 @@
+# TESS Program G022254
+            
+Title: TESS Observations Of Nova-Like Variables, Post-Novae And Recurrent Novae
+
+PI: Sion, Edward - Villanova University
+
+Type: Large
+
+Summary: We propose to observe 85 nova-like variables, post-novae and recurrent novae in the "quiescence" following their last nova explosions when bright accretion disks are expected to dominate their light. TESS is needed for its continuous coverage rather than for ultra precision. We will utilize a newly developed, analytic accretion disk model that probes a disk's dimensions, mass, and interior distributions of density and temperature.The observations will deliver the first substantial library of bright disk (non-eruptive) CV light curves to the astronomical community. Eclipsing CVs are of particular interest because they give information on disk morphology.The disk analysis software is ready, tested, and has already been applied to the T Pyx-type recurrent nova CI Aql with good results.       

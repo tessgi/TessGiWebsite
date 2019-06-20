@@ -1,0 +1,9 @@
+# TESS Program G022106
+            
+Title: Asteroseismology Of Solar Twins With TESS: The Sun As A Star
+
+PI: Yana Galarza, Jhon - Instituto Astronomico E Geofisico Da Usp
+
+Type: Small
+
+Summary: Stellar ages typically have large errors (~4 Gyr), but with Kepler it was possible to estimate ages with better precision through asteroseismology, yet their precision depends on how precisely we know the temperature and metallicity of stars. Different burning problems in stellar physics, such as the apparent rapid rotation and flat magnetic activity of old stars, depend critically on precise ages. We take advantage of a sample of solar twins with precise stellar parameters, to estimate precise seismic ages with TESS, to assess if gyrochronology is still valid in stars around solar age, verify the decrease of stellar activity with age and calibrate the decay of stellar lithium with age. Finally, our improved age calibrations will contribute to constrain ages of planets discovered by TESS. 

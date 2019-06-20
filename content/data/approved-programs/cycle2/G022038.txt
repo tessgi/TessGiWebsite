@@ -1,0 +1,9 @@
+# TESS Program G022038
+            
+Title: Connecting The Starspots And Flares Of The Brightest Active Stars In The Northern Sky
+
+PI: Roettenbacher, Rachael - Yale University
+
+Type: Small
+
+Summary: Starspots and flares reveal information about the evolution of photospheric structures and stellar magnetic fields. In stars analogous to the young, rapidly-rotating, active Sun, we do not yet understand the links between these phenomena that have implications on the environment in which the Earth formed. Using the high-cadence, high-precision observations of TESS, we propose to investigate the activity of the brightest active stars in the northern sky. We will study flare rates and energies, as well as starspot evolution and characteristics. We will also study correlations between flare occurrence times and starspot locations. Our results will vitally improve our understanding of stellar magnetic fields on stars with internal structures and rotation rates similar to the young Sun.        

@@ -1,0 +1,9 @@
+# TESS Program G022056
+            
+Title: The Driving Mechanism For Magnetic Field Generation In Low Mass Stars
+
+PI: Doyle, Lauren - Armagh Observatory And Planetarium
+
+Type: Small
+
+Summary: Detailed studies of the Sun have shown sunspots and solar flares are closely correlated. It is widely thought that the rotational modulation seen in late type dwarfs is due to a dominant starspot rotating into and out of view. We therefore naively predict that flares would be observed more often at rotation flux minimum. However, our observations using Kepler/K2 and now TESS have shown that flares show no preference for rotation phase. This makes us reassess how large scale magnetic fields are generated on low mass, fully convective stars. Here we bid for 2 min cadence observations of 155 low mass stars in TESS Cycle 2. With this increased sample we will search for correlations between activity, spectral type, rotation period and age.                                                        

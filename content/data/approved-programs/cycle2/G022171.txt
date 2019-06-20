@@ -1,0 +1,9 @@
+# TESS Program G022171
+            
+Title: Confronting The Stellar Gyrochronology Paradigm Using Wide Binaries In The TESS Fields
+
+PI: Oswalt, Terry - Embry-Riddle Aeronautical University
+
+Type: Small
+
+Summary: Essential to understanding the history of the Galaxy's stellar populations, ages are among the most difficult to measure properties of stars. Accurate ages provide leverage on problems ranging from exoplanet habitability to the Galaxy's chemical evolution and age. Gyrochronology, an empirical relation between rotation and age, is believed to be among the best current methods of stellar age determination. We propose to test several competing gyrochronology models using wide binaries in the TESS fields. Such pairs can help unravel and quantify the rotation-activity-metallicity vs. age relations for main sequence stars. They span a much broader range in age and metallicity than stellar clusters, which often have mixed populations and have lost low mass stars.                                  

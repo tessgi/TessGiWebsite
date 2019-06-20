@@ -1,0 +1,9 @@
+# TESS Program G022163
+            
+Title: Time Domain Astronomy For Everyone: Precise FFI Difference Imaging And Hours-To-Years Lightcurves
+
+PI: Pritchard, Tyler - New York University
+
+Type: Large
+
+Summary: We propose to create and release image differences and variable-source light curves from TESS FFIs for multiple time-domain communities. We will build image models and image differences from an upgrade of our data-driven model for under-sampled, crowded imaging (the CPM; developed for Kepler and K2). In addition, we will extend the CPM for individual-source light curves by incorporating time-domain photometric data from the ZTF or external users; this stabilizes CPM on long time scales for time-variable sources in the TESS-ZTF overlap. We will deliver (1) image predictions and difference images in FFI image formats, interoperable with all TESS community tools, (2) calibrated TESS light curves for sources with ZTF alerts, and (3) open API for users with other kinds of external data.        

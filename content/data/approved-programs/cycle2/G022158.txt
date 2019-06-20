@@ -1,0 +1,9 @@
+# TESS Program G022158
+            
+Title: Search For Planetary Transits In Hot Subdwarf Stars
+
+PI: Silvotti, Roberto - Istituto Nazionale Di Astrofisica (Inaf)
+
+Type: Small
+
+Summary: What happens to the planetary systems after the red giant (RG) expansion is largely unknown. Theory predicts a gap in the distribution of orbital periods, due to the opposite effects of stellar mass loss (planets pushed outwards) and tidal interactions (planets pushed inwards). Hot subdwarfs (HSDs) are peculiar stars that lost almost all their envelope near the tip of the RGB. The envelope ejection may be related to common envelope (CE) evolution and indeed 50% of these stars are in post-CE close binaries. The other half HSDs may have experienced the same CE ejection by a fainter companion (massive planet or BD), that may or may not have survived the RG phase. In order to heavily test this hypothesis we propose to observe 1192 apparently single HSDs with Tmag<=16 searching for transits.   

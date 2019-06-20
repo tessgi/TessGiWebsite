@@ -1,0 +1,9 @@
+# TESS Program G022114
+            
+Title: The Gaia/TESS Legacy Discovery Tool
+
+PI: Scaringi, Simone - Texas Tech University
+
+Type: Large
+
+Summary: We propose to produce and make public lightcurves for isolated targets in the TESS full-frame images during Cycle 2, and cross-match these to Gaia. The cross-match with Gaia DR2 will allow to explore lightcurves within specific regions of the color-magnitude diagram (CMD), allowing the exploration of specific populations of targets. Our team will visually inspect all targets on the blue side of the Gaia CMD, all targets displaying photometric H-alpha excess emission, and all transients discovered by the All-Sky Automated Survey for Supernovae. Our tool will allow the community to view and download lightcurves, power spectra and locate the position of a given target in the Gaia CMD. By leveraging the Gaia/TESS synergy, this tool will deliver long-lasting legacy value to the TESS mission.   

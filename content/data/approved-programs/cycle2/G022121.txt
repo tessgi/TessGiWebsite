@@ -1,0 +1,9 @@
+# TESS Program G022121
+            
+Title: Planets In Low-Metallicity Galactic Stellar Populations
+
+PI: Cochran, William - University Of Texas At Austin
+
+Type: Large
+
+Summary: The KESPRINT planet team proposes to use TESS 2-minute cadence and FFI data to search for planets in a sample of 25777 stars with sub-solar metallicity. The goal is to determine the planet-formation history of the various stellar populations of our Milky Way Galaxy. These stars are all selected from large spectroscopic surveys, and thus are well understood. We propose the brightest 4245 stars for 2-minute cadence to enable asteroseismic analysis. For the FFI extraction of the remainder, we will use the techniques that we have already developed for CoRoT and K2. We will then search these lightcurves for transiting planets, and will perform follow-up observations and detailed system modeling on promising candidate planets in order to validate and/or confirm the candidates as planets.        

@@ -1,0 +1,9 @@
+# TESS Program G022253
+            
+Title: An Accurate Empirical Mass-Radius-Composition-Temperature Relationship For M-Dwarfs
+
+PI: Martin, David - University Of Chicago
+
+Type: Small
+
+Summary: M-dwarfs are enticing targets for small transiting planets in the habitable zone. TESS will find hundreds, some bright enough for atmospheric probing by JWST. However, our knowledge of these planets is frustrated by poor constraints on the host M-dwarfs. The EBLM program was created to solve this. Over 400 eclipsing binaries have been found with F/G + M stars, with 10+ years of spectroscopy to unveil masses and metallicities. We now require TESS short cadence lightcurves to obtain primary and secondary eclipses, and hence measure the radius and temperature. Our southern sample was already observed in Cycle 1 (G011278), and with the northern targets, we will produce the most comprehensive sample of M-dwarfs known, and significantly refine the mass-radius-composition-temperature relation.   

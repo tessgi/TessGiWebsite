@@ -1,0 +1,9 @@
+# TESS Program G022208
+            
+Title: Short Timescale Stellar Variability: Searching For Evolving Or Decaying Eclipsing Binaries And Other Exotic Processes
+
+PI: Zakamska, Nadia - Johns Hopkins University
+
+Type: Small
+
+Summary: Compact binaries must have undergone dramatic orbital shrinkage, possibly first via the Kozai mechanism and tidal interaction, and then during the common envelope phase. Detecting period variations in eclipsing binaries is key to identifying candidates undergoing these processes. Here we propose for TESS 2-min cadences for ~1100 short-period (<0.5 day) eclipsing binaries identified from WISE. We will combine WISE and TESS light curves to search for period changes over ~10 years of observations, to measure orbital evolution in close binaries, and to discover binaries with decaying periods possibly on their way to the common envelope phase. Measuring orbital changes in this large sample will allow us to probe key stages of binary evolution.                                                    

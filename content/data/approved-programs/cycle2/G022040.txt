@@ -1,0 +1,9 @@
+# TESS Program G022040
+            
+Title: Precision Photometry Of Interferometric Calibration Stars
+
+PI: Roettenbacher, Rachael - Yale University
+
+Type: Small
+
+Summary: Interferometry makes wide-ranging science possible, from measuring fundamental stellar parameters to imaging stellar surfaces. Interferometric calibration stars are ideally unresolved, nearby on the sky, and of similar spectral types and luminosity classes to the science target. However, this is not always possible, and concessions must be made. The presence of brightness variations across their surfaces could cause calibration issues, affecting the science targets. With TESS observations, these calibrators will be examined for any variations that could affect their suitability as interferometric calibrators. The impact of the variations on the interferometric observables will be determined. Improving the quality of calibrators will improve the science results and effects on astrophysics. 

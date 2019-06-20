@@ -1,0 +1,9 @@
+# TESS Program G022240
+            
+Title: Ultra-Precise Masses, Radii, And The Internal Structure Of M Stars
+
+PI: Yenawine, Mitchell - San Diego State University
+
+Type: Small
+
+Summary: We propose to investigate a set of 11 low-mass, short period, eclipsing systems containing M dwarf stars using TESS short cadence data. Eight of these systems are eclipsing binaries (EBs) that have had their component masses and radii measured to high precision, while the other three are Kepler triple and quadruple star systems containing at least one M dwarf. We will improve the mass and radius estimates of the EB and multi-star systems which already are among the best measured. For the triple and quadruple star systems, we will also measure the internal structure constants of the M dwarfs, which will allow us to constrain their interior mass distributions for the first time.                                                                                                                   

@@ -1,0 +1,9 @@
+# TESS Program G022100
+            
+Title: Doubling The Spectroscopic Benchmark Stars: Asteroseismology, Spectroscopy And Interferometry
+
+PI: Valentini, Marica - Leibniz-Institut Fur Astrophysik Potsdam (Aip)
+
+Type: Small
+
+Summary: In an era of large galactic spectroscopic surveys, it is necessary to have a sample of stars that can be used for testing the performance and accuracy of the provided datasets: the benchmark stars. Benchmark stars must be stars with atmospheric parameters measured with great precision using different methods: spectroscopy, interferometry, and asteroseismology. At the moment only a sample of 36 benchmark stars is provided. With this proposal we aim at obtaining seismic parameters for a sample of bright red giants, that already have spectroscopic and interferometric measurements. At the completion of this project the number of spectroscopic benchmark stars will be doubled.                                                                                                                         

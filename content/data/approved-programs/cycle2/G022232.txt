@@ -1,0 +1,9 @@
+# TESS Program G022232
+            
+Title: Using The Metallicity Effect For Small Planets To Explore Planet Formation
+
+PI: Schlaufman, Kevin - Johns Hopkins University
+
+Type: Small
+
+Summary: It is well known that giant planet occurrence is correlated with host star metallicity, and this is thought to support the core accretion model of planet formation. While the core accretion model also suggests that small planets should be less common around stars with [Fe/H] < -0.5, existing observations have not established or rejected the reality of a metallicity effect for small planets. We propose to search for transiting planets around spectroscopically-confirmed FGKM dwarf stars with [Fe/H] < -0.5. We will compare the occurrence of small planets in this metal-poor sample to a control sample of solar-metallicity stars selected in exactly the same way. The proposed observations will conclusively establish or reject the reality of a small planet metallicity effect.                      
