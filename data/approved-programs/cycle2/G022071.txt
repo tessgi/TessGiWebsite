@@ -1,0 +1,9 @@
+# TESS Program G022071
+            
+Title: Testing Self-Similar Accretion-Driven Variability In Compact Interacting Binaries
+
+PI: Scaringi, Simone - Texas Tech University
+
+Type: Small
+
+Summary: Accretion is responsible for the growth and evolution of most objects in the Universe, yet many unanswered questions remain in accretion disk physics. We propose to observe a sample of 188 accreting compact objects (comprising a mix of accreting white dwarfs, neutron stars, and stellar-mass black holes) at 2-minute cadence with TESS. This is a continuation of a Cycle 1 proposal to probe into the long- and short-timescale accretion-induce variability for many object types, allowing for both studies on individual objects and ensemble analysis to compare accretion variability across different accretor types. We will also co-ordinate X-ray observations to be simultaneously performed on some targets, allowing us to study X-ray/optical time-lags on week timescales.                               

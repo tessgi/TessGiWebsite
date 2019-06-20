@@ -1,0 +1,40 @@
+# TESS Program G011247
+
+Title: Investigating Magnetic Dynamo Evolution With TESS Field Dwarfs
+
+PI: Angus, Ruth - Columbia University
+
+Type: N/A
+
+Summary: We propose to solve two mysteries surrounding magnetic dynamo evolution using TESS Full Frame Images (FFIs). Firstly, we will establish whether a newly discovered bimodality in the distribution of rotation periods is produced by a local star formation history perturbation or a previously unknown feature in the magnetic dynamo evolution of young, cool dwarfs. This will be achieved by measuring rotation periods from TESS FFIs for stars at a range of galactic positions. Secondly, we will calibrate the gyrochronology relations at old ages using TESS-HERMES spectra and Gaia proper motions. We will also quantify the precision and accuracy of gyrochronology using Gaia comoving pairs. Finally, we will provide a catalog of ~ 1 million rotation periods for TESS FFI stars.                            
+
+
+# Sector 001 targets observed (8)
+412052352,337.4524,-62.7394,9.94,G011247
+412052353,337.4353,-62.7376,10.67,G011247
+231627422,316.9387,-57.0339,9.97,G011247
+231627423,316.9511,-57.0345,10.39,G011247
+79015293,315.1484,-51.6914,9.57,G011247
+79103779,315.9237,-51.5416,9.92,G011247
+358576992,38.7342,-63.2352,11.68,G011247
+382602722,37.1388,-64.4709,10.36,G011247
+
+# Sector 002 targets observed (2)
+382602722,37.1388,-64.4709,10.36,G011247
+358576992,38.7342,-63.2352,11.68,G011247
+
+# Sector 003 targets observed (6)
+55855777,23.0567,-27.5613,10.14,G011247
+55856742,23.1487,-27.5573,9.9,G011247
+358576992,38.7342,-63.2352,11.68,G011247
+382602722,37.1388,-64.4709,10.36,G011247
+144110362,59.54,-46.604,10.56,G011247
+152470904,61.9182,-47.5901,11.24,G011247
+
+# Sector 004 targets observed (3)
+89116505,55.5366,-29.3999,10.18,G011247
+89255114,58.45,-29.7082,10.19,G011247
+144110362,59.54,-46.604,10.56,G011247
+
+# Sector 005 targets observed (1)
+152470904,61.9182,-47.5901,11.24,G011247

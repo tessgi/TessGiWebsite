@@ -1,0 +1,9 @@
+# TESS Program G022090
+            
+Title: Extending The Impact Of TESS With The Global Supernova Project
+
+PI: Howell, D. - Las Cumbres Observatory
+
+Type: Small
+
+Summary: We propose to observe ~24 new supernovae (SNe) jointly with TESS, Swift, and the Las Cumbres Observatory, a robotic network of telescopes with imagers and spectrographs distributed in latitude and longitude so that instantaneous and uninterrupted observations are possible. These will be added to the ~16 SNe already observed with TESS+LCO, which also have multicolor lightcurves and spectroscopy from the Global Supernova Project. With these data we can probe fast transients and rarely seen phenomena in SNe that reveal their progenitors: shock breakout and cooling, collision of supernova ejecta with a companion star, and interaction with circumstellar material cast off in the last violent pulses before explosion. The TESS data will reveal the timing of the explosion and ~hour cadence phenom  

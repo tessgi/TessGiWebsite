@@ -1,0 +1,9 @@
+# TESS Program G022084
+            
+Title: Pre-Identified Giant Planet Candidates From The Kelt Survey To Understand Giant Planet Migration
+
+PI: Rodriguez, Joseph - Harvard-Smithsonian Center For Astrophysics
+
+Type: Small
+
+Summary: Individual theories of planet formation and migration struggle to reproduce the characteristics of the known giant planets, so it is likely that multiple mechanisms shape this population. The orbital eccentricities of hot Jupiters hold clues to their formation and dynamical evolution. The TESS mission is built to exploit the valuable science of transiting planets orbiting bright host stars, finding suitable targets for precise eccentricity measurements. We propose for 2-minute cadence TESS observations of a set of high-quality transiting giant planet candidates identified from the KELT survey. The goal of this project is to combine the high photometric precision from TESS with up to a 15 year long baseline from KELT to confirm and characterize (obtain precise eccentricities) new planets.  

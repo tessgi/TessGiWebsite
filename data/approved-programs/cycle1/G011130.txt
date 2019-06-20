@@ -1,0 +1,13 @@
+# TESS Program G011130
+
+Title: Tess Asteroseismology Of The Eclipsing Subgiant AI  Phe
+
+PI: Maxted, Pierre - Keele University
+
+Type: Small
+
+Summary: AI Phe is the only subgiant star in an eclipsing binary system that is currently known for which asteroseismology is feasible with TESS. The mass and radius of the subgiant are known to better than 1% from the analysis of the eclipses and radial velocity data, and the luminosity has been directly measured via the parallax. Solar-type pulsations of this subgiant will occur with periods of about 24 minutes, i.e. unless 2-minute cadence data are obtained for this target, we will miss out on the best opportunity we have to critically test asteroseismology using TESS observations of a subgiant star.                                                                                                                                                                                                       
+
+
+# Sector 002 targets observed (1)
+102069549,17.3929,-46.2656,7.92,G011130;G011083;G011154;G011250

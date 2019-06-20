@@ -1,0 +1,9 @@
+# TESS Program G022199
+            
+Title: Binary Stars As Astrophysical Laboratories
+
+PI: Schnittman, Jeremy - NASA/GSFC
+
+Type: Large
+
+Summary: We propose to build a comprehensive suite of tools to extract light curves from TESS FFIs, remove co-moving trends, categorized them with a machine learning algorithm, and fit promising binary candidates with MCMC algorithms. We estimate that the resulting catalog will contain over 100,000 binary stars with well-measured orbital parameters. With a population such as this, there are many important topics that can be addressed, including tidal deformations, ellipsoidal variations, and eccentric binary evolution. For binary systems with late-type main sequence stars and orbital periods on the order of 10 days, the photometric variability due to these mechanisms will be roughly 100-1000 ppm, a sweet spot easily accessible with TESS for millions of FFI sources brighter than T ~ 12 magnitude.   

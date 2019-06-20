@@ -1,0 +1,9 @@
+# TESS Program G022230
+            
+Title: Compelling, High-Impact Cataclysmic Variables In Cycle 2
+
+PI: Littlefield, Colin - University Of Notre Dame
+
+Type: Small
+
+Summary: We propose to observe twenty-three cataclysmic variable stars (CVs) during Cycle 2 of TESS at a two-minute cadence. Our target list aims to maximize TESS's contribution to CV research by focusing on types of CVs that are currently underrepresented in both the Kepler and TESS archives. Most of the CVs in our target list have strongly magnetic white dwarfs, and TESS observations of these systems would revolutionize the study of magnetically-controlled accretion much as Kepler did for non-magnetic accretion in CVs. Additionally, several targets will be visible for many sectors and will offer unique insight into instabilities in the mass-transfer rate on long timescales. These targets are highly variable on timescales of minutes, necessitating a two-minute cadence.                             

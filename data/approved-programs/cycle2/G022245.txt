@@ -1,0 +1,9 @@
+# TESS Program G022245
+            
+Title: Tess: Background Survey
+
+PI: Garnavich, Peter - University Of Notre Dame
+
+Type: Small
+
+Summary: TESS offers us a unique opportunity to search for transients in a previously unexplored time domain. The short 2-minute cadence allows us search for transients that evolve on timescales of minutes over 50 square-degrees, whereas the 30 minute cadence allows us to hunt for transients with time scales <1 day over 1000s of square-degrees. We propose to search all TESS pixels, from both the short and long cadence data, in the same way as we have done for Kepler. From this program we will: discover new transients and conduct follow-up observations to understand the events; provide the first rates for extremely rapid transients (<1 day); train a recurrent neural network to detect TESS transients.                                                                                                     

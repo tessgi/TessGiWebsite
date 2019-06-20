@@ -1,0 +1,9 @@
+# TESS Program G022242
+            
+Title: Deciphering Multi-Wavelength Agn Variability In The Era Of TESS
+
+PI: Shappee, Benjamin - University Of Hawaii (Manoa)
+
+Type: Small
+
+Summary: Although TESS was designed to find transiting exoplanets, it will be a powerful tool for extragalactic transient studies. TESS's full-frame images serve as ideal data products for studying active galactic nuclei (AGN) variability. Specifically, \tess's unique high-cadence and high-precision will enable us to more accurately determine if AGN variability is caused by the ``lamp post/reprocessing" model Frank et al. 2002. This analysis, called continuum reverberation mapping, has never been done on a large scale before. We propose to harness TESS's capabilities in tandem with Swift and ASAS-SN to systematically study AGN variability on an expansive platform never before possible.                                                                                                                   

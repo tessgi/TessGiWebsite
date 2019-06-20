@@ -1,0 +1,9 @@
+# TESS Program G022125
+            
+Title: Characterizing The High-Energy Environments Of Exoplanets Orbiting Low-Mass Stars With TESS And Sparcs
+
+PI: Llama, Joe - Lowell Observatory
+
+Type: Small
+
+Summary: The atmospheres of planets evolve under the influence of their parent star. For planets orbiting within the habitable zone of low-mass stars, these effects can be magnified due to their proximity to the host star. We propose TESS two-minute light curves of the targets that will be observed by the NASA-funded Star-Planet Research CubeSat (SPARCS) to resolve the short-lived flares (typical lifetimes of a few hours), quantify the optical stellar rotational variability, and determine the flare-frequency distribution. There are 7 SPARCS target stars that will be observed by TESS in Cycle 2. The TESS and SPARCS data will provide multi-wavelength flare frequency distributions, rotational modulation, and total flare energies that will enable new scaling laws between the optical and UV.            

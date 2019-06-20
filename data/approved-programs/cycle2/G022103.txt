@@ -1,0 +1,9 @@
+# TESS Program G022103
+            
+Title: Asteroseismology Of Solar-Type Stars With TESS
+
+PI: Huber, Daniel - University Of Hawaii (Manoa)
+
+Type: Small
+
+Summary: Asteroseismology is a unique observational tool to probe the interiors of stars, and a benchmark method to determine surface gravities, masses, radii and ages of solar-type stars. Here we propose TESS 2-minute cadence observations that will quadruple the current sample of solar-type stars with asteroseismic data, providing fundamental parameters for thousands of stars. The sample will allow us to (i) constrain poorly understood physical processes in stellar models such as convective energy transport,(ii) precisely characterize exoplanets through their host stars and (iii) investigate mode excitation for hot solar-type stars. Our benchmark sample will also enable a wide range of ancillary science including fundamental calibrations of stellar granulation, spectroscopy, and gyrochronology.   

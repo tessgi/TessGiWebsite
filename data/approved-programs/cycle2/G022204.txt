@@ -1,0 +1,9 @@
+# TESS Program G022204
+            
+Title: Long Period Eclipsing Binaries With TESS
+
+PI: Davenport, James - University Of Washington
+
+Type: Small
+
+Summary: We propose to obtain 2-minute light curves with TESS for a sample of known long-period EBs, sourced from the Kepler, Catalina, and ASAS-SN surveys, to measure stellar rotation periods and search for eclipse timing variations. These known long-period EBs represent a rare and valuable population of systems, which TESS is uniquely positioned to enhance our knowledge of. High fidelity light curves available from TESS Cycle-1 short-cadence (2-min) data have already shown the ability to recover stellar rotation due to starspot modulations. TESS will provide precise eclipse timing for systems discovered by many previous surveys, in many cases spanning 10-20 year baselines. This sample will be especially valuable for testing ongoing studies of star and planet formation and dynamical evolution.    

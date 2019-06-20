@@ -1,0 +1,13 @@
+# TESS Program G011128
+
+Title: Testing The Planet Hypothesis Of CVSO 30 B
+
+PI: Czesla, Stefan - Universitat Hamburg
+
+Type: Small
+
+Summary: We propose to observe the active weak-line T-Tauri star CVSO 30 with TESS at 2 min cadence to test the hypothesis of an extremely hot and young transiting hot Jupiter. Ground-based photometry of the 2.7 Myr old star CVSO 30 revealed transit-like dips in flux with a short period of only 0.45 d. While strongly reminiscent of planetary transits, the observed flux dips change in shape and occasionally even appear to vanish. This challenges an interpretation in terms of a planet. Existing ground-based light curves mostly focus on the transit ephemeris and suffer from the usual limitations. A thorough study of the transits and variability in a system with a young and extremely active star like CVSO 30 requires continuous observations, which can only be provided by space-based instrumentation    
+
+
+# Sector 006 targets observed (1)
+264461976,81.2815,1.5734,13.81,G011128;G011132

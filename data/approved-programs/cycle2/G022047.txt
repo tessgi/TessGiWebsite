@@ -1,0 +1,9 @@
+# TESS Program G022047
+            
+Title: New Stellar Science From TESS Full Frame Images And Ground-Based Followup
+
+PI: Kielkopf, John - University Of Louisville
+
+Type: Small
+
+Summary: The analysis of transiting planet and eclipsing binary light curves depends on understanding aspects of stellar structure, e.g. limb darkening, surface temperatures, granulation, spots, and flares, that are not adequately modeled for cooler stars. We have a practical full frame image stack analysis pipeline for the identification of unique stellar variability which provides input to subsequent ground-based followup. Our work will result in an understanding of the rich variety of temporal stellar variation in the TESS data as it is acquired, enable additional measurements for sectors seen only once, and improve characterization of the host stellar environment of newly discovered transiting exoplanets.                                                                                           

@@ -1,0 +1,9 @@
+# TESS Program G022027
+            
+Title: Why Do Some Am Stars Pulsate? Characterizing Photometric Variability For 62 Am Stars
+
+PI: Guzik, Joyce - New Mexico Consortium And Los Alamos National Laboratory
+
+Type: Small
+
+Summary: Metallic-line A (Am) stars show abundance anomalies produced by diffusive settling/radiative levitation which also should reduce the He abundance in the pulsation driving region and inhibit pulsations. Nevertheless, many Am stars show gamma Dor, delta Sct or roAp pulsations, and some show magnetic activity, spots, and flares. Neither the pulsation driving mechanism, nor the origin of the magnetic fields or abundance anomalies are well understood. We request 2-min cadence observations of Am stars having detailed spectroscopic abundance determinations to detect or rule out pulsation frequencies, including those above the Nyquist limit of 30-min cadence full-frame images. This combination of constraints is needed to understand the complex behavior of stars in this region of the HR diagram.   

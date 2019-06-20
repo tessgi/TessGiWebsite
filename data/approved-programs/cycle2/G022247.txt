@@ -1,0 +1,9 @@
+# TESS Program G022247
+            
+Title: Asteroseismology Of Eclipsing Giants Identified By The Kelt Transit Survey
+
+PI: Siverd, Robert - Vanderbilt University
+
+Type: Small
+
+Summary: Precise masses and radii, inferred from detailed analysis of eclipsing binary (EB) systems, are a critical part of our understanding of stellar physics and evolution. Recent space-based surveys have enabled precise measurement of masses, radii, and internal structure of giants through asteroseismology. The KELT transit survey has been running for 10+ years. Using its long photometric time baseline, we have identified and begun to characterize several giant-giant eclipsing systems with traditional methods. We request high-cadence TESS photometry for a small set of giant EBs. These data will enable the first direct comparison between the eclipse and seismology methods for giant stars. We expect the results of our analysis to form a new benchmark in the masses and radii of evolved stars.     

@@ -1,0 +1,9 @@
+# TESS Program G022141
+            
+Title: TESS Observations Of Compact Hot Subdwarf Binaries
+
+PI: Barlow, Brad - High Point University
+
+Type: Small
+
+Summary: Here we propose TESS photometry of known and candidate variable hot subdwarf B (sdB) stars, with an emphasis on eclipsing systems with low-mass companions. From an analysis of the Gaia DR2 flux errors, we have identified a large number of sdB stars with inflated flux errors for their magnitudes, strongly indicative of variability. Follow-up TESS observations of these systems will lead to the discovery of new eclipsing sdB+dM binaries (HW Vir systems), non-eclipsing reflection effect sdB+dM binaries, and even ellipsoidally-modulated sdB+WD systems. In addition to this discovery work, we request TESS light curves of all known variable hot subdwarf binaries in order to improve modeling of their parameters, and to constrain their masses and eccentricities from Roemer delay measurements.       

@@ -1,0 +1,9 @@
+# TESS Program G022069
+            
+Title: The TESS Coeval Degenerates Survey, Cycle 2
+
+PI: Hermes, James - Boston University
+
+Type: Small
+
+Summary: Ages are an incredibly important attribute of an isolated star. However, ages of isolated cool dwarfs are notoriously difficult to measure. Here we propose a program to study with TESS a sample of 1100 bright stars with coeval white dwarf (WD) companions in wide, common-proper-motion binaries. Hundreds of the WD companions in our systems are cooler than 6000 K, with total ages exceeding 5 Gyr -- very few field stars bright enough for TESS have such old, well-constrained ages (nearby, old clusters such as Ruprect 147 and M67 are not older than 4 Gyr). With existing observations and techniques, we can estimate the total ages of these WDs to better than 30% across all ages present in our Galaxy. This dataset will be a benchmark sample to constrain gyrochronology, age-activity relations, and p

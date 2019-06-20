@@ -1,0 +1,9 @@
+# TESS Program G022105
+            
+Title: The Age Of The Halo
+
+PI: Valentini, Marica - Leibniz-Institut Fur Astrophysik Potsdam (Aip)
+
+Type: Small
+
+Summary: The understanding of the early phases of our Galaxy, the characterization of the chemical enrichment timescale, and the nature of the first stars is encoded in the abundance pattern and age (and mass) of metal-poor halo stars. To date, very few metal-poor stars have an age determination, but the situation is changing thanks to the availability of seismic constrains on the masses of solar-like oscillating giants and to the tight age-initial mass relation they adhere to. Here we aim at determining precise ages for about 150 metal-poor stars in the Halo, for all the proposed targets we have already high-resolution spectra. To this aim we will combine seismic information obtained with TESS to the precise atmospheric parameters and abundances coming from spectroscopy.                           

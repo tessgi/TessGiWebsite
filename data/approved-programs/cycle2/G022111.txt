@@ -1,0 +1,9 @@
+# TESS Program G022111
+            
+Title: Rotation Periods And Amplitudes For Thousands Main Belt Asteroids From TESS
+
+PI: Veres, Peter - Harvard-Smithsonian Center For Astrophysics
+
+Type: Large
+
+Summary: We propose to analyze the light curves of thousands of known Main Belt asteroids (MBAs) seen by TESS in Camera 1 full frame images (FFI). TESS offers a unique opportunity to study long-period rotators that have strong observational bias from ground-based observations as well as MBAs with small light curve amplitudes. Positions of known MBAs are predictable with the astrometric uncertainty within one pixel in each FFI. Our simulation showed that there will be 5,648 MBAs brighter than +18 magnitude visible for 10 or more days in TESS Camera 1 during its first year of science operations. We estimate that our work will at least double the number of MBAs with known and reliable rotation periods and amplitudes.                                                                                      

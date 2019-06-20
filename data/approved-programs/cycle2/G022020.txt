@@ -1,0 +1,9 @@
+# TESS Program G022020
+            
+Title: A Census Of Variability In Evolved Massive Stars
+
+PI: Dorn-Wallenstein, Trevor - University Of Washington
+
+Type: Small
+
+Summary: The rotation, internal structure, mass loss, and binarity of post-main-sequence massive stars are all parameters that are poorly defined and difficult to measure. However, these traits directly influence the evolution and final fates of massive stars, determining their radiative, nucleosynthetic, and kinematic impact on their surroundings. We propose to utilize TESS to simultaneously search for signs of rotational modulation, pulsations, stochastic variability, and more in a sample of red and yellow supergiants, luminous blue variables, and Wolf-Rayet stars. A high-cadence space-based photometric survey of such a large sample that traces variability across the upper HR diagram is unprecedented, and will yield new insight into the behavior of these stellar behemoths.                        

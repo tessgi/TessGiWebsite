@@ -1,0 +1,9 @@
+# TESS Program G022201
+            
+Title: Nature Or Nurture: Using TESS To Understand Relativistic Jets In Agn
+
+PI: Isler, Jedidah - Dartmouth College
+
+Type: Small
+
+Summary: This proposal seeks to capitalize on the consistency, high precision photometry, instrument stability and high temporal cadence exposures uniquely afforded by TESS observations to collect 30-minute full-frame images of a sample of gamma-ray detected Narrow-line Seyfert 1 galaxies (NLSy1s) and blazars in the continuous viewing zone in pursuit of two main goals: 1) Determine the presence of statistically significant similarities in the variability profiles of NLSy1s and blazars and determine if that variability is more likely due to accretion or orientation. Use this stable, high fidelity data as a training set to identify blazars and \nlsy\ by their variability in other TESS fields                                                                                                               

@@ -1,0 +1,19 @@
+# TESS Program G011187
+
+Title: Untangling The Webs Of 3Fgl J0523.3-2528 & Psr J1023+0038
+
+PI: Kennedy, Mark - University Of Manchester
+
+Type: N/A
+
+Summary: We propose for TESS observations of two "redback" millisecond pulsar systems, 3FGL J0523.3-2528 & PSR J1023+0038. No radio or gamma ray pulses have yet been detected from the neutron star in J0523. Two min cadence optical data of J0523 will enable us to refine the orbital parameters of the system and thus allow us to perform a targeted search for the pulsar's period in Fermi data. J1023 is one of three transitional systems and is currently in a low mass X-ray binary state. Optical light curves have revealed a puzzling behaviour in which the flux varies between two well defined modes. TESS observations will allow us to study the mode switching in J1023, in particular the fraction of time spent in each mode, which will help us to understand the accretion flow close to the neutron star.      
+
+
+# Sector 005 targets observed (1)
+31091702,80.8205,-25.4603,15.78,G011187
+
+# Sector 006 targets observed (1)
+31091702,80.8205,-25.4603,15.78,G011187
+
+# Sector 008 targets observed (1)
+277798746,155.9487,0.6447,16.28,G011187

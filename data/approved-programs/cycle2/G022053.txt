@@ -1,0 +1,9 @@
+# TESS Program G022053
+            
+Title: TESS Observations Of Known Exoplanet Stars
+
+PI: Kane, Stephen - University Of California (Riverside)
+
+Type: Small
+
+Summary: The field of exoplanets has progressed beyond planet detection to characterization of planetary systems. This includes planetary structure and atmospheres, system architectures, orbital dynamics, and the studies of exoplanet host star properties. The characterization of known exoplanets is therefore a critical component of the on-going expansion of the field. This proposal aims to ensure that all known northern hemisphere exoplanet host stars are included in the TESS target list. The three main science goals of the observations are: (a) observations of potential transits and phase variations, (b) refined transit ephemerides enabling spectroscopic follow-up with future space-based facilities, and (c) detailed stellar properties through astroseismology modeling.                              

@@ -1,0 +1,9 @@
+# TESS Program G022238
+            
+Title: Targets With Interesting Nearby Stars (Twins) In TESS
+
+PI: Berta-Thompson, Zachory - University Of Colorado
+
+Type: Small
+
+Summary: Planets in binary systems are intrinsically interesting, particularly if the two stars are far enough apart to be spatially resolved. The discovery, confirmation, and characterization of transiting exoplanet in visual binary systems demands a bit of extra work, but these systems can offer unique observational opportunities. They can serve as powerful laboratories for understanding planetary dynamics, evolution, destruction, and atmospheres. Here, we propose to search for planets transiting a sample of comoving visual binaries that were newly identified from Gaia DR2. Using both postage stamps and full frame images, we hope to find new easy-to-observe exoplanet systems and enable new controlled experiments in planetary physics.                                                                

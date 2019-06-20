@@ -1,0 +1,9 @@
+# TESS Program G022029
+            
+Title: Queens Of The North: TESS Harvests Rotation Periods For The Hyades And Coma Ber
+
+PI: Agueros, Marcel - Columbia University
+
+Type: Small
+
+Summary: We propose to continue a Cycle 1 program to obtain rotation periods for low-mass Hyads, and to extend it to obtain periods for members of Coma Ber. As the closest open cluster, the Hyades is a critical benchmark for stellar astrophysics. By contrast, Coma Ber, which is co-eval and not much farther away, has been far less well studied, principally because its membership has been challenging to establish. Expanding the number of stars in these two clusters with measured rotation periods is essential for calibrating the relationship between age, rotation, and magnetic activity for low-mass stars. We wish to observe a total of 435 members across these two clusters. Most of these stars have yet to be targeted by time-domain photometric surveys; pre-Gaia, most were not associated with a cluster.

@@ -1,0 +1,9 @@
+# TESS Program G022176
+            
+Title: Photometric Variability Among Helium-Rich White Dwarf Stars As An Indicator For The Presence Of Magnetic Fields
+
+PI: Holberg, Jay - University Of Arizona
+
+Type: Small
+
+Summary: We propose TESS observations of a sample of cool helium-rich white dwarf stars to search for rotational photometric modulations associated with the presence of magnetic spots. Examples of this are seen in hydrogen-rich white dwarfs. Finding clear examples of this in cool He-rich white dwarfs would help to clarify the true frequency of magnetism in white dwarfs and help explain the distinct deficit of binary systems among white dwarfs, by strengthening the link between white dwarf magnetism and common envelope mergers.                                                                                                                                                                                                                                                                                     

@@ -1,0 +1,9 @@
+# TESS Program G022115
+            
+Title: Improving Stellar Evolution With Atomic Diffusion From Asteroseismology Of Intermediate-Mass Stars
+
+PI: Dotter, Aaron - Smithsonian Astrophysical Observatory
+
+Type: Small
+
+Summary: To date there have been no studies using asteroseismology to probe the internal transport of chemical elements via atomic diffusion in intermediate-mass stars. We address this shortcoming with a study of slowly-rotating F and B stars using 2-min cadence TESS data to model their p- and g-modes. We complement the TESS data with spectroscopy and Gaia data for our targets. We will compute new grids of stellar evolution models for intermediate-mass stars with atomic diffusion and radiative levitation. Our team has developed a data-driven asteroseismic analysis that enables the calibration of internal transport processes. Our work will result in useful constraints on internal transport processes. Our stellar model grids will be made publicly available.                                            

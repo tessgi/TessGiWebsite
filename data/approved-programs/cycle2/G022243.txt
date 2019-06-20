@@ -1,0 +1,9 @@
+# TESS Program G022243
+            
+Title: New Masses For The Kepler Circumbinary Planets
+
+PI: Welsh, William - San Diego State University
+
+Type: Small
+
+Summary: Among the most exciting results from the Kepler Mission were the discovery of the transiting circumbinary planets. While few in number, these "Tatooine" planets captivated the world's imagination. But the circumbinary planets are much more than just curiosities - they have the most accurately measured radii of any exoplanet and they place stringent constraints on planet formation and migration theory. In this proposed research we will use 2-minute cadence TESS data to measure the stellar eclipses times with a precision of ~15 seconds. Using these eclipse times we can refine, or in some cases for the first time, measure the masses of the Kepler circumbinary planets.                                                                                                                               

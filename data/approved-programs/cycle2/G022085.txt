@@ -1,0 +1,9 @@
+# TESS Program G022085
+            
+Title: Maximizing TESS Science Return With Deep Neural Networks
+
+PI: Smith, Jeffrey - Seti Institute
+
+Type: Small
+
+Summary: Every month, TESS data must be meticulously combed for the weakest transit signals. While a daunting task for humans, this is an exciting opportunity for deep learning, which is a state-of-the-art machine learning tool designed to solve this problem of rapidly and reliably classifying large samples of weak signals in noisy data. We propose to use deep convolutional neural networks to rapidly classify the thousands of TCEs identified every month by the TESS Science Processing Pipeline as either exoplanets or false positives. Furthermore, we propose to develop methods that assign absolute probabilities with associated uncertainties to each exoplanet classification, which will be extremely useful for prioritizing follow-up as well as improving exoplanet statistics.                            

@@ -1,0 +1,9 @@
+# TESS Program G022003
+            
+Title: TESS Photometry Of Creme Eclipsing Binaries
+
+PI: Helminiak, Krzysztof - Copernicus Astronomical Center
+
+Type: Small
+
+Summary: We intend to obtain very high precision light curves of a sample of detached eclipsing and spectroscopic binaries, which we have been monitoring spectroscopically for the last few years within the Comprehensive Research with Echelles on the Most interesting Eclipsing binaries CREME) project. The light curves will be combined with our precise radial velocity (RV) measurements in order to obtain accurate and precise, absolute stellar parameters. This is a continuation of a successful Cycle 1 proposal.                                                                                                                                                                                                                                                                                                        

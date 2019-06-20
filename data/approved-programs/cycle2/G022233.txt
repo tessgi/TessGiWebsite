@@ -1,0 +1,9 @@
+# TESS Program G022233
+            
+Title: Exploring Extreme Exoplanet Environments With TESS
+
+PI: Placek, Ben - Wentworth Institute Of Technology
+
+Type: Small
+
+Summary: We propose to search for eclipses and orbital brightness variations of known hot Jupiters (HJs) in order to study the effects of reflection, thermal emission, ellipsoidal variation, and Doppler beaming on the light curves and in turn probe the planets atmospheric composition, structure, and dynamics. Given TESS s ability to acquire continuous optical observations for a sizable number of HJs, it is an ideal facility to use to enhance exoplanet science done with facilities like HST and Spitzer and to inform atmospheric studies with JWST. In the proposed project, we will ultimately explore atmospheric dynamics and the presence and composition of clouds for a number of HJs and determine if these characteristics are correlated with a particular stellar or planetary property.                    

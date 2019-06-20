@@ -1,0 +1,9 @@
+# TESS Program G022088
+            
+Title: A Search For Transiting Earth-Sized Planets Around M Subdwarfs
+
+PI: Tamburo, Patrick - Boston University
+
+Type: Small
+
+Summary: Being the lowest mass and lowest metallicity main-sequence stars, M subdwarfs offer an extreme environment for planet formation. However, despite the lack of mass and metals available to form large cores capable of accreting gas, recent results indicate that smaller, terrestrial planets may still form around M subdwarf stars. We propose to search for these planets around a sample of 337 subdwarf stars with short-cadence data. By simulating the observation of this sample and injecting planets using statistics for early M dwarfs, we predict the detection of two planets in this effort. The detection of even a single planet orbiting an M subdwarf star would dramatically impact our understanding of planet formation and further reinforce that terrestrial planets are common in the Universe.      

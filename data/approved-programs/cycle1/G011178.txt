@@ -1,0 +1,23 @@
+# TESS Program G011178
+
+Title: Time Resolved Superflares In Normal Stars From TESS Data
+
+PI: Kielkopf, John - University Of Louisville
+
+Type: N/A
+
+Summary: We propose to use photometry and FFI from TESS data to identify stars that show flare activity, potentially to identify stars which exhibit superflares, and to correlate those data with known indications of magnetic activity such as calcium line variability, periodic flux variation, and spectropolarimetry that is a consequence of the rotation of the star with spots.                                                                                                                                                                                                                                                                                                                                                                                                                                                
+
+
+# Sector 001 targets observed (1)
+79403675,320.2084,-53.0347,7.99,G011175;G011025;G011178;G011176;G011250
+
+# Sector 008 targets observed (1)
+289668177,146.0588,-11.8727,8.64,G011178;G011250
+
+# Sector 011 targets observed (1)
+383346621,183.8269,-63.4251,7.81,G011280;G011178;G011048;G011250
+
+# Sector 012 targets observed (2)
+178201756,236.2575,-40.8421,8.84,G011280;G011178;G011250
+255053137,238.3634,-42.2672,7.32,G011178;G011176;G011048;G011250

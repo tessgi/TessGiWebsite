@@ -1,0 +1,9 @@
+# TESS Program G022133
+            
+Title: Halo Photometry Of Naked-Eye Stars With TESS
+
+PI: Pope, Benjamin - New York University
+
+Type: Small
+
+Summary: Only for the brightest stars can complementary observational techniques (eg astrometry, asteroseismology, and interferometry) be combined. So far, these stars have rarely been observed with high-precision, high-cadence photometry from space telescopes such as Kepler/K2 due to saturation. Our goal is to perform 'halo' photometry of all naked-eye stars in TESS to obtain high-precision 2-min cadence light curves. The software and data produced will enable science across stellar astrophysics and exoplanets: refining asteroseismic scaling relations, detecting transiting planets for JWST, and studying stellar pulsations and binary stars. Our proposal is the only program capable of providing precise and low-pixel-cost 2-minute cadence photometry of the brightest and most valuable TESS targets.   

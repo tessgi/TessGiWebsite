@@ -1,0 +1,9 @@
+# TESS Program G022223
+            
+Title: A Search For Bright, Hot Planetary Hosts
+
+PI: Redfield, Seth - Wesleyan University
+
+Type: Small
+
+Summary: Hot stars represent a relatively unexplored population of planetary hosts. Bright and nearby hot stars represent ideal hosts for exoplanetary atmosphere characterization given their very different spectral qualities (e.g., a small number of broad, shallow lines) and their low levels of stellar activity. We propose observing a sample of 534 stars with spectral types A9 and hotter with magnitudes brighter than 7.5 Tmag and that reside within 100 parsecs of the Sun. These observations will be able to detect super-Earth planets, provide constraints on planet formation and system architecture for hot stars, and supply ideal, and likely cloud-free planets for atmospheric characterization. As demonstrated in Cycle 1, this sample will also provide observations of stellar oscillations in hot stars.

@@ -1,0 +1,9 @@
+# TESS Program G022231
+            
+Title: TESS Observations Of Widely Separated Co-Moving Stars
+
+PI: Bochanski, John - Rider University
+
+Type: Small
+
+Summary: Widely separated stars that are co-moving and assumed to be co-eval are benchmark systems for testing stellar theories. We have selected a sample of co-moving stars from Gaia DR2, and propose to measure lightcurves and rotation periods of ~2,000 stars. Our sample focuses on co-moving groups with low-mass stars paired with a solar-type star or white dwarf. We will measure ages for the companions, rotation periods for the low-mass star, and derive a robust period-age relation for the most common star, the field M dwarf. We will test our assumption of coevality by examining a subset of "twins" with common kinematics and fundamental properties. The twins will allow us to test the widely held assumption that stars of the same mass and age share the same rotation properties.                     

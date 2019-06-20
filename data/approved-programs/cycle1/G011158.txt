@@ -1,0 +1,35 @@
+# TESS Program G011158
+
+Title: M-Dwarfs Of Interest From Ngts
+
+PI: Bayliss, Daniel - University Of Warwick
+
+Type: N/A
+
+Summary: We propose to use TESS 2-min cadence data to investigate 15 M-dwarfs of interest from the Next Generation Transit Survey (NGTS) that show short duration transits/eclipses. These include a confirmed planet (NGTS-1b), a m-dwarf/white dwarf system, and several MM eclipsing binaries. All targets show short timescale events that necessitate 2-minute cadence rather than the 30-minute cadence from the FFIs.                                                                                                                                                                                                                                                                                                                                                                                                             
+
+
+# Sector 001 targets observed (1)
+197570458,325.9943,-38.0177,13.04,G011158
+
+# Sector 002 targets observed (1)
+393962499,352.4606,-39.4688,13.87,G011158
+
+# Sector 005 targets observed (2)
+31054255,80.5759,-25.1196,13.81,G011158
+192826603,82.7142,-36.631,13.86,G011158
+
+# Sector 006 targets observed (2)
+31054255,80.5759,-25.1196,13.81,G011158
+192826603,82.7142,-36.631,13.86,G011158
+
+# Sector 010 targets observed (1)
+101688735,200.298,-29.274,13.41,G011158
+
+# Sector 011 targets observed (6)
+451211626,210.3135,-34.9651,14.71,G011158
+460820330,219.3922,-31.6347,14.24,G011158
+48006568,222.1549,-31.6333,12.96,G011158
+270348090,215.4821,-30.8428,14.17,G011158;G011257
+271225404,211.1075,-31.3109,14.83,G011158
+83391903,214.7621,-26.2685,12.4,G011158;G011238

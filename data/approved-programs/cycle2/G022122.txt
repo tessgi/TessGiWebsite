@@ -1,0 +1,9 @@
+# TESS Program G022122
+            
+Title: Unprecedented Asteroseismology Of Roap Stars
+
+PI: Hambleton, Kelly - Villanova University
+
+Type: Small
+
+Summary: The roAp stars are rapidly oscillating A-type stars that have strong magnetic fields and extremely high abundances in the rare earth metals. To date, only 69 roAp stars have been discovered. With TESS, we will observe all the known roAp stars and find new ones. The significant increase in sample size and improvement of noise characteristics in the pulsation frequency range will allow our team to: investigate the instability strip and consequently establish the pulsation driving mechanisms; probe the full range of pulsation periods; and determine the occurrence of non-pulsating Ap stars in the roAp star instability region. All the aforementioned results will be used to inform our theoretical models. For roAp star science, TESS offers a whole new ball game.                                   

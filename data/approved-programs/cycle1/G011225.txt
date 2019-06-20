@@ -1,0 +1,14 @@
+# TESS Program G011225
+
+Title: Spectroscopic Binaries As Benchmarks For Stellar Physics, Helium Content, And Age
+
+PI: Lebreton, Yveline - Observatoire De Paris
+
+Type: N/A
+
+Summary: Binary stars with precise masses have for long been valuable benchmarks to probe the input physics of stellar models, and for helium and age determination. This will be reinforced in the context of Gaia, TESS, and PLATO but, even with precise masses, uncertainties like those related to abundances, hamper this potential. To complement Gaia data, we are involved in SB spectroscopic and astrometric observation campaigns at OHP & VLTI (Halbwachs+2014, 2016, Kiefer+2016, 2017). For 10 SB2s, we derived masses with a precision better than 1% (G-K stars) and 3-4% (F stars). A seismic analysis of these systems with TESS will allow to estimate their initial helium abundance and age, and improve the modeling. Our target list includes three systems in the TESS-ATL with a seismic detectability >60%.   
+
+
+# Sector 004 targets observed (2)
+141327580,45.5391,-6.4954,5.71,G011225;G011154;G011048
+258806323,39.5036,7.6951,6.01,G011025;G011225;G011154;G011048

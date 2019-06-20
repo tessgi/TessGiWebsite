@@ -1,0 +1,9 @@
+# TESS Program G022113
+            
+Title: The Solar-Stellar Connection: Using TESS To Characterize Quasi-Periodic Oscillations In Stellar Flares With The Afino C
+
+PI: Inglis, Andrew - Catholic University Of America
+
+Type: Small
+
+Summary: Quasi-periodic oscillations (QPOs) are fundamental properties of both solar and stellar flares. This poses the question of whether common physics produces these signatures, despite the very different size and energy scales. We will use the recently-developed AFINO analysis code to detect QPOs in stellar flares from young, magnetically active M-dwarf stars observed by TESS at 2-minute cadence. We will characterize the properties of both the stellar flares themselves and their associated QPO properties, and compare with those previously determined in the solar domain. This allows us to understand the prevalence of stellar flare QPOs, constrain the relationship between stellar and solar flares, and understand whether the same mechanisms play a role in both regimes.                            

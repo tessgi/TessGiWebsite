@@ -1,0 +1,9 @@
+# TESS Program G022187
+            
+Title: Simultaneous TESS/Harps-N Stellar Activity Survey Of Well-Observed Harps-N Stars
+
+PI: Milbourne, Timothy - Harvard University
+
+Type: Small
+
+Summary: State of the art radial-velocity (RV) exoplanet searches are currently limited by RV signals arising from stellar magnetic activity: while Earth mass planets orbiting Sun-like stars induce a sub-m/s reflex signal, processes such as acoustic oscillations, magnetoconvection, and large-scale magnetic structures produce signal in excess of 10 m/s. These activity processes have characteristic timescales ranging for minutes to month, and must be fully characterized for the successful discovery of low-mass exoplanets. We propose simultaneous TESS and HARPS-N observations of 41 carefully chosen, low-activity stars in characterize the effects of stellar activity on nearby Sun-like stars. The range of stellar timescales requires a long measurement baseline (several rotation periods) with a high obs 

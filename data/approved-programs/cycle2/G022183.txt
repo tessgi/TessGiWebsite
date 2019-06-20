@@ -1,0 +1,9 @@
+# TESS Program G022183
+            
+Title: Searching For Visible Grb Progenitors Using TESS
+
+PI: Buzasi, Derek - Florida Gulf Coast University
+
+Type: Small
+
+Summary: Gamma-ray bursts (GRBs) are the brightest electromagnetic events known to occur in the universe, and are characterized by brief flashes of gamma ray energy concentrated from 0.1 to 1 MeV.The commonly-accepted basic model for GRBs involves the gravitational collapse of a massive star to form an accreting compact object, beginning from an initial event such as the collapse of a massive star, in the case of long GRBs, or the coalescence of two compact objects (neutron stars) for short GRBs. In this proposal, we plan to use the TESS fields to search for visible progenitors to GRBs detected during and immediately following TESS Cycle 2, taking advantage of the large field of view and systematic observing pattern of TESS in an attempt to find such progenitors directly.                           

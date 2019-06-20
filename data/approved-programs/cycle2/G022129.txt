@@ -1,0 +1,9 @@
+# TESS Program G022129
+            
+Title: Precovery Of Orbital Periods For TESS Single Transits With Kelt
+
+PI: Pepper, Joshua - Lehigh University
+
+Type: Small
+
+Summary: While TESS will readily obtain ephemerides for short-period planets, it will only detect one or two transits for planets with periods > 13 days. We will using existing ground-based survey photometry from the KELT project to detect and verify ephemerides for single and double-transit TESS detections. Our analysis demonstrates that KELT photometry can confirm ephemerides for planets Neptune size and larger with orbital periods as long as a year, and therefore across a wide range of equilibrium temperatures. We will apply this procedure to all TESS 2-min and FFI light curves that show single and double transit events, and release ephemerides for all detections to the community. These results can be used to help confirm TESS candidates and to schedule detailed atmospheric observations.        

@@ -1,0 +1,9 @@
+# TESS Program G022082
+            
+Title: Gyrochronology, Rotation, And Magnetism In The Northern Continuous Viewing Zone
+
+PI: Van Saders, Jennifer - University Of Hawaii (Manoa)
+
+Type: Large
+
+Summary: Period-age relations may be the most powerful tool for stellar age determination in the TESS cool dwarf sample. In order to realize the potential of this tool, we must understand how it behaves as a function of stellar type, age, and evolutionary state. We will search for rotational modulation in ~200,000 Northern Continuous Viewing Zone stars in the TESS Full-Frame Images, and in ~2000 Asteroseismic Target List stars spread across the northern sectors. When combined with the Southern fields, we aim to increase the existing rotation period sample by a factor of ~4 and diversify the stellar populations we probe. With this sample we can disentangle the interplay among physics, stellar populations, and observational bias to hone period-age relationships as a tool.                             
