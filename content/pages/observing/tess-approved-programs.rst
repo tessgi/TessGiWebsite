@@ -15,6 +15,17 @@ of a sector.
 You can click on the title of each program to read a summary
 of the research objectives.
 
+Cycle 2
+=======
+.. raw:: html
+
+    <p>
+    Cycle 12contains all targets proposed through the Guest Investigator program for the second year of the TESS mission. All programs are to observe sources in the Northern Ecliptic hemisphere.
+    </p>
+
+
+.. include:: approved-programs/cycle2.html
+
 Cycle 1
 =======
 .. raw:: html
