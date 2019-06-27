@@ -25,7 +25,7 @@ At the  TESS  orbit perigee (17 Earth radii), science operations are interrupted
 
 TESS is equipped with four CCD cameras that have adjacent field-of-views to produce a 4 x 1 array, or 'observing sector', yielding a combined field-of-view of 96 x 24 degrees.
 
-*The pointings for Sectors 14 and 15 are planned to be shifted toward the North ecliptic pole by 31 degrees to minimize impacts of scattered light from the Earth and Moon.*
+*The pointings for Sectors 14 and 15 will be shifted toward the North ecliptic pole by 31 degrees to minimize impacts of scattered light from the Earth and Moon. See the [technical details page](observing-technical.html) for additional information.*
 
 <br/>
 <img class="img-responsive" style="max-width:67%;" src="images/mission/tess_observingsectorschematic_Winnpresentation.jpg">
@@ -58,7 +58,7 @@ A video illustrating the TESS survey strategy, along with the pathway to the spa
 <br/>
 <img class="img-responsive" style="max-width:67%;" src="images/mission/tess_2yearskycoverage.png">
 <br/>
-*Schematic showing observing baselines on the celestial sphere including sector overlap regions. The dashed black circle enclosing the Ecliptic pole shows the region where the JWST has continuous viewing capabilities.* *The pointings for Sectors 14 and 15 are planned to be shifted toward the North ecliptic pole by 31 degrees to minimize impacts of scattered light from the Earth and Moon.*
+*Schematic showing observing baselines on the celestial sphere including sector overlap regions. The dashed black circle enclosing the Ecliptic pole shows the region where the JWST has continuous viewing capabilities.* *The pointings for Sectors 14 and 15 will be shifted toward the North ecliptic pole by 31 degrees to minimize impacts of scattered light from the Earth and Moon. See the [technical details page](observing-technical.html) for additional information.*
 
 
 ## Commissioning
