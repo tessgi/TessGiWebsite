@@ -185,10 +185,9 @@ year. Image Credit: [Filtergraph](https://filtergraph.com/)*
 Additional pre-made figures are available on the CTL Filtergraph page. Users may also create their own free Filtergraph account and upload their own target lists for visualization following the instructions and tutorials on the main [Filtergraph](https://filtergraph.com/) webpage.
 
 
-
+<!--
 ## Core science targets
-To aid in proposal preparation we have [made a csv file available](data/core-science-targets-cycle2-v1.csv) that contains the top 100,000 priority targets in the northern ecliptic hemisphere.
-
+To aid in proposal preparation we have [made a csv file available](data/core-science-targets-cycle2-v1.csv) that contains the top 100,000 priority targets in the northern ecliptic hemisphere.-->
 
 ## Proposal templates
 We have made available proposal templates to aid users in writing GI proposals. Use of these templates is not required. 

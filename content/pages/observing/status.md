@@ -235,7 +235,8 @@ and information on how to download the data can be found [here](data-access.html
     <td></td>
 
     <td style="min-width: 12em;">
-    Pointing shifted toward the North ecliptic pole by 31 degrees 
+    Pointing shifted toward the North ecliptic pole by 31 degrees (<a
+    href=observing-technical.html>see the technical details page for more information</a>)
     </td>
   </tr>
 
@@ -249,7 +250,8 @@ and information on how to download the data can be found [here](data-access.html
     <td></td>
 
     <td style="min-width: 12em;">
-    Pointing shifted toward the North ecliptic pole by 31 degrees 
+    Pointing shifted toward the North ecliptic pole by 31 degrees (<a
+    href=observing-technical.html>see the technical details page for more information</a>)
     </td>
   </tr>
 
