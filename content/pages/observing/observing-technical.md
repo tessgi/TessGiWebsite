@@ -145,7 +145,7 @@ Scattered light from the Earth and Moon is also expected to be a problem in Sect
 
 The sky coverage maps for Sectors 1-21 are given below in the ecliptic and celestial coordinate systems.  Two sets of maps are shown below: the upper pair is the sky coverage if Sector 16 is observed at the nominal camera orientation, while the lower pair is the sky coverage if Sector 16 is shifted north.
 
-[Additional details on TESS observations can be found at the MIT TESS website](https://tess.mit.edu/observations/). We will be updating the [Web TESS Viewing Tool (WTV)](https://heasarc.gsfc.nasa.gov/cgi-bin/tess/webtess/wtv.py) on our website shortly to reflect the change in pointing for Sectors 14 and 15.
+[Additional details on TESS observations can be found at the MIT TESS website](https://tess.mit.edu/observations/). The [Web TESS Viewing Tool (WTV)](https://heasarc.gsfc.nasa.gov/cgi-bin/tess/webtess/wtv.py) has been updated to reflect the change in pointing for Sectors 14 and 15.
 
 *Sectors 14 and 15 shifted north:*
 <img class="img-responsive" style="max-width:50%;" src="images/PM_ecl_S1-21.png">
