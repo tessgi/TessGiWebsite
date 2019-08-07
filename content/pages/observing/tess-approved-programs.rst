@@ -37,6 +37,23 @@ Cycle 1
 
 .. include:: approved-programs/cycle1.html
 
+Sector 13
+=========
+.. raw:: html
+
+    <ul class="list-group">
+        <li class="list-group-item">
+          <i class="fa fa-calendar fa-margin"></i>
+          Jun 19, 2019 - Jul 18, 2019
+        </li>
+        <li class="list-group-item">
+            <i class="fa fa-download fa-margin"></i>
+            <a href="data/target_lists/sector013_targets_lists/GI_S013.csv">Target list (csv)</a>
+        </li>
+    </ul>
+
+.. include:: approved-programs/sector013.html
+
 Sector 12
 =========
 .. raw:: html
