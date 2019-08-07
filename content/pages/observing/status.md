@@ -194,7 +194,6 @@ and information on how to download the data can be found [here](data-access.html
     <td><a href='data/target_lists/sector011_targets_lists/GI_S011.csv'>Download</a></td>
 
     <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a>
-
     </td>
   </tr>
 
@@ -207,8 +206,7 @@ and information on how to download the data can be found [here](data-access.html
     <td>2019 Aug 19</td>
     <td><a href='data/target_lists/sector012_targets_lists/GI_S012.csv'>Download</a></td>
 
-    <td style="min-width: 12em;">Data being downlinked
-
+    <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a>
     </td>
   </tr>
 
@@ -219,10 +217,9 @@ and information on how to download the data can be found [here](data-access.html
     <td>2019&nbsp;Jun&nbsp;19</td>
     <td>2019&nbsp;Jul&nbsp;18</td>
     <td>2019 Sep 18</td>
-    <td></td>
+    <td><a href='data/target_lists/sector013_targets_lists/GI_S013.csv'>Download</a></td>
 
-    <td style="min-width: 12em;">Currently being observed
-
+    <td style="min-width: 12em;">Data downlinked
     </td>
   </tr>
 
@@ -234,7 +231,7 @@ and information on how to download the data can be found [here](data-access.html
     <td>2019 Oct 15</td>
     <td></td>
 
-    <td style="min-width: 12em;">
+    <td style="min-width: 12em;">Currently being observed, 
     Pointing shifted toward the North ecliptic pole by 31 degrees (<a
     href=observing-technical.html>see the technical details page for more information</a>)
     </td>
