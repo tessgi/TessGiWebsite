@@ -11,3 +11,6 @@ Summary: AI Phe is the only subgiant star in an eclipsing binary system that is 
 
 # Sector 002 targets observed (1)
 102069549,17.3929,-46.2656,7.92,G011130;G011083;G011154;G011250
+
+# Sector 002 targets observed (1)
+102069549,17.3929,-46.2656,7.92,G011130;G011083;G011154;G011250
