@@ -1,9 +1,16 @@
 # TESS Program G022063
-            
+
 Title: Planets Around Early-Type Stars Ii: A TESS Search For Transiting Planets Around Lambda Bootis Stars
 
 PI: Endl, Michael - University Of Texas At Austin
 
-Type: Small
+Type: SMALL
 
-Summary: A comprehensive census and understanding of exoplanetary systems requires the discovery and characterization of planets orbiting stars of different masses. Out of the ~3600 confirmed exoplanets known to date, only ~5% orbit stars more massive than 1.4 M_Sun and just a few have been found to orbit intermediate mass, main sequence A-type stars (7500 < T_eff < 10,000 K; 1.4 M_star < 2.2 M_Sun). Focusing on bright stars and thanks to its all-sky coverage and superb photometric precision, TESS has the best chances to find planets transiting bright early-type stars. We request here TESS observations of lambda Bootis stars in the Northern ecliptic hemisphere to complete our sample of these unique target stars and to test the hypothesis that their chemical peculiarities are connected to planets.  
+Summary: A comprehensive census and understanding of exoplanetary systems requires the discovery and characterization of planets orbiting stars of different masses. Out of the ~3600 confirmed exoplanets known to date, only ~5% orbit stars more massive than 1.4 M_Sun and just a few have been found to orbit intermediate mass, main sequence A-type stars (7500 < T_eff < 10,000 K; 1.4 M_star < 2.2 M_Sun). Focusing on bright stars and thanks to its all-sky coverage and superb photometric precision, TESS has the best chances to find planets transiting bright early-type stars. We request here TESS observations of lambda Bootis stars in the Northern ecliptic hemisphere to complete our sample of these unique target stars and to test the hypothesis that their chemical peculiarities are connected to planets.
+
+
+# Sector 014 targets observed (1)
+10988057,303.6339,36.8067,4.79,G022063;G022103;G022133;G022223;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25
+
+# Sector 015 targets observed (1)
+10988057,303.6339,36.8067,4.79,G022063;G022103;G022133;G022223;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25

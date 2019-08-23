@@ -1,9 +1,24 @@
 # TESS Program G022176
-            
+
 Title: Photometric Variability Among Helium-Rich White Dwarf Stars As An Indicator For The Presence Of Magnetic Fields
 
 PI: Holberg, Jay - University Of Arizona
 
-Type: Small
+Type: SMALL
 
-Summary: We propose TESS observations of a sample of cool helium-rich white dwarf stars to search for rotational photometric modulations associated with the presence of magnetic spots. Examples of this are seen in hydrogen-rich white dwarfs. Finding clear examples of this in cool He-rich white dwarfs would help to clarify the true frequency of magnetism in white dwarfs and help explain the distinct deficit of binary systems among white dwarfs, by strengthening the link between white dwarf magnetism and common envelope mergers.                                                                                                                                                                                                                                                                                     
+Summary: We propose TESS observations of a sample of cool helium-rich white dwarf stars to search for rotational photometric modulations associated with the presence of magnetic spots. Examples of this are seen in hydrogen-rich white dwarfs. Finding clear examples of this in cool He-rich white dwarfs would help to clarify the true frequency of magnetism in white dwarfs and help explain the distinct deficit of binary systems among white dwarfs, by strengthening the link between white dwarf magnetism and common envelope mergers.
+
+
+# Sector 014 targets observed (4)
+394178499,289.7445,38.7213,14.14,G022077;G022028;G022176;G022017
+233212451,267.0123,70.8827,13.27,G022077;G022028;G022176;G022017
+202420264,225.2095,64.2775,16.15,G022077;G022028;G022176
+138589319,176.4333,63.0979,15.72,G022077;G022028;G022176
+
+# Sector 015 targets observed (6)
+136513972,317.4646,42.9513,15.65,G022077;G022028;G022176
+428831740,315.4353,31.8092,14.99,G022077;G022028;G022176
+233212451,267.0122,70.8827,13.27,G022077;G022028;G022176;G022017
+165735741,231.4282,56.4849,16.28,G022077;G022176
+202420264,225.2095,64.2775,16.15,G022077;G022028;G022176
+138589319,176.4332,63.0979,15.72,G022077;G022028;G022176

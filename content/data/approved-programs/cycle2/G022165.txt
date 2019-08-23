@@ -1,9 +1,32 @@
 # TESS Program G022165
-            
+
 Title: Fast Rotation And Flares In The Local Population Of Young K And M Dwarfs
 
 PI: Lepine, Sebastien - Georgia State University
 
-Type: Small
+Type: SMALL
 
 Summary: K2 observations revealed that a significant fraction (>10%) of local field M dwarfs are fast-rotator stars, with periods < 4days. Many of these stars may constitute the long sought-after population of young, low-mass stars in the vicinity of the Sun. Most of them also show evidence of significant flaring activity in the long-cadence K2 light curves. In TESS cycle-1, we used a selection algorithm to identify these potential flaring M dwarfs based on distance, proper motion, and UV-emission; early results show a very high (>60%) success rate in identifying fast-rotating/flaring M dwarfs. In cycle 2, we identify 2,565 of these active field M dwarfs are already target as CTL objects; we propose to add an additional set of 689 nearby active M-dwarfs to achieve a magnitude limited (G<15) sample.
+
+
+# Sector 014 targets observed (6)
+236782526,283.0183,54.9944,10.7,G022165
+158627666,287.8418,45.0175,11.77,G022165
+198238736,249.1366,63.896,11.75,G022165
+229749413,280.4672,66.9652,12.72,G022165
+230380624,285.3094,65.4331,12.86,G022165
+459218309,194.1619,71.7392,10.74,G022165
+
+# Sector 015 targets observed (12)
+258527513,315.4114,23.7235,11.15,G022165
+230380624,285.3094,65.4331,12.86,G022165
+236782526,283.0183,54.9944,10.7,G022165
+199715706,254.4593,56.6435,12.19,G022165
+229749413,280.4672,66.9652,12.72,G022165
+257082358,228.8147,74.966,11.01,G022238;G022165
+198238736,249.1366,63.896,11.75,G022165
+219739642,242.0489,63.4039,12.26,G022165
+166174563,216.8264,63.0053,10.22,G022238;G022165
+459218309,194.1619,71.7392,10.74,G022165
+157861371,190.8119,51.9285,12.24,G022238;G022165
+198106779,196.6189,51.6095,11.3,G022165

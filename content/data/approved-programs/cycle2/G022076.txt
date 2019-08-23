@@ -1,9 +1,56 @@
 # TESS Program G022076
-            
+
 Title: Legacy Light Curves Of A Volume-Complete Sample Of The Nearby Mid-To-Late M Dwarfs With TESS
 
 PI: Winters, Jennifer - Harvard-Smithsonian Center For Astrophysics
 
-Type: Small
+Type: SMALL
 
-Summary: M dwarfs account for 75% of all stars, yet key stellar properties remain uncertain, notably their magnetic activity and rotation periods. For the coming decade, the only spectroscopically-accessible temperate, terrestrial worlds will be the ones that transit the closest mid-to-late M-dwarfs, which are the most easily studied. We propose to gather TESS 2-minute cadence observations of the volume-complete sample of mid-to-late M dwarfs within 15pc. Short cadence is essential to determine the flare morphologies; we will also measure rotation periods, and precisely measure radii for new-found eclipsing binaries. We will combine the TESS light curves with our ongoing high-resolution spectroscopic survey and existing astrometric data to yield a legacy dataset of our closest stellar neighbors.   
+Summary: M dwarfs account for 75% of all stars, yet key stellar properties remain uncertain, notably their magnetic activity and rotation periods. For the coming decade, the only spectroscopically-accessible temperate, terrestrial worlds will be the ones that transit the closest mid-to-late M-dwarfs, which are the most easily studied. We propose to gather TESS 2-minute cadence observations of the volume-complete sample of mid-to-late M dwarfs within 15pc. Short cadence is essential to determine the flare morphologies; we will also measure rotation periods, and precisely measure radii for new-found eclipsing binaries. We will combine the TESS light curves with our ongoing high-resolution spectroscopic survey and existing astrometric data to yield a legacy dataset of our closest stellar neighbors.
+
+
+# Sector 014 targets observed (23)
+103245015,300.0261,30.9659,12.71,G022076
+16834517,307.8582,38.5662,10.83,G022252;G022076
+59705241,297.1704,35.9199,10.54,G022076;G022198
+42630152,286.9369,32.5509,8.78,G022076;G022198
+385368233,290.4057,20.8597,10.54,G022076;G022198
+451852919,296.4393,27.1188,9.62,G022076;G022198
+233691740,275.6018,62.0438,10.45,G022076;G022198
+157853745,280.404,39.7024,10.86,G022252;G022076;G022198;G022056
+273589987,297.7903,46.4848,10.25,G022076;G022198;G022056
+274127410,298.4801,44.4122,9.79,G022076
+274127413,298.4824,44.4124,10.35,G022164;G022076;G022080
+230120143,250.0821,67.6033,11.98,G022164;G022076;G022198;G022056
+233068870,270.5716,64.2602,10.34,G022252;G022076;G022198;G022113;G022056
+406857100,274.7443,66.1902,10.53,G022076;G022198;G022056
+420130591,291.076,75.5565,11.87,G022164;G022076;G022198
+160422712,235.3372,75.9889,9.81,G022076;G022198
+288314668,262.8102,82.0915,11.31,G022076;G022198
+341687654,192.2557,66.1097,8.42,G022076;G022198
+219463771,208.4173,77.6188,10.25,G022076;G022198
+358615829,176.9432,78.6938,8.29,G022076;G022145;G022198;G022080
+103803629,158.8368,69.4462,9.47,G022076;G022198
+207339173,135.002,72.9599,11.44,G022252;G022076;G022198
+219704346,135.7231,68.0648,10.08,G022076;G022198
+
+# Sector 015 targets observed (19)
+279293709,321.1385,40.069,12.38,G022076
+16834517,307.8582,38.5662,10.83,G022252;G022076
+407688400,326.5931,38.2174,9.54,G022076;G022145;G022198
+392572237,280.6803,59.637,7.32,G022076;G022080
+273589987,297.7903,46.4848,10.25,G022076;G022198;G022056
+274127410,298.4801,44.4122,9.79,G022076
+274127413,298.4824,44.4124,10.35,G022164;G022076;G022080
+352617553,306.5248,58.5759,10.91,G022252;G022076
+233068870,270.5717,64.2602,10.34,G022252;G022076;G022198;G022113;G022056
+233691740,275.6018,62.0437,10.45,G022076;G022198
+406857100,274.7444,66.1902,10.53,G022076;G022198;G022056
+420130591,291.076,75.5565,11.87,G022164;G022076;G022198
+156491690,217.8016,75.4449,11.45,G022252;G022076;G022198
+160422712,235.3372,75.9889,9.81,G022076;G022198
+219463771,208.4174,77.6188,10.25,G022076;G022198
+230120143,250.0821,67.6033,11.98,G022164;G022076;G022198;G022056
+405503787,224.4767,56.6533,12.08,G022164;G022076;G022198
+341687654,192.2557,66.1097,8.42,G022076;G022198
+137025855,197.5475,47.7518,11.39,G022252;G022076;G022198

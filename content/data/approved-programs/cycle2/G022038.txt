@@ -1,9 +1,39 @@
 # TESS Program G022038
-            
+
 Title: Connecting The Starspots And Flares Of The Brightest Active Stars In The Northern Sky
 
 PI: Roettenbacher, Rachael - Yale University
 
-Type: Small
+Type: SMALL
 
-Summary: Starspots and flares reveal information about the evolution of photospheric structures and stellar magnetic fields. In stars analogous to the young, rapidly-rotating, active Sun, we do not yet understand the links between these phenomena that have implications on the environment in which the Earth formed. Using the high-cadence, high-precision observations of TESS, we propose to investigate the activity of the brightest active stars in the northern sky. We will study flare rates and energies, as well as starspot evolution and characteristics. We will also study correlations between flare occurrence times and starspot locations. Our results will vitally improve our understanding of stellar magnetic fields on stars with internal structures and rotation rates similar to the young Sun.        
+Summary: Starspots and flares reveal information about the evolution of photospheric structures and stellar magnetic fields. In stars analogous to the young, rapidly-rotating, active Sun, we do not yet understand the links between these phenomena that have implications on the environment in which the Earth formed. Using the high-cadence, high-precision observations of TESS, we propose to investigate the activity of the brightest active stars in the northern sky. We will study flare rates and energies, as well as starspot evolution and characteristics. We will also study correlations between flare occurrence times and starspot locations. Our results will vitally improve our understanding of stellar magnetic fields on stars with internal structures and rotation rates similar to the young Sun.
+
+
+# Sector 014 targets observed (10)
+41195655,301.5892,35.9701,4.61,G022133;G022038;G022103;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25
+42705187,286.8856,30.2551,7.0,G022062;G022038;G022173
+236777961,282.8012,59.3885,3.6,G022133;G022038;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25
+284359245,288.0495,57.6742,6.32,G022038;G022052;G022080
+287261241,292.8064,55.7317,5.32,G022038
+424719589,294.6718,54.9747,5.44,G022038;G022103;G022133;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25
+47579336,278.484,51.7174,6.81,G022038;G022173;G022238
+270526513,251.4934,82.0373,3.43,G022133;G022038;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25
+415030187,183.9227,72.5511,5.2,G022038
+147562528,143.6192,69.8308,3.84,G022133;G022038;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25
+
+# Sector 015 targets observed (15)
+165602000,316.7539,38.7672,4.06,G022038;G022092;G022133;G022187;G022238;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25
+41195655,301.5892,35.9701,4.61,G022133;G022038;G022103;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25
+399897311,328.689,32.3273,6.91,G022038;G022080
+236777961,282.8012,59.3885,3.6,G022133;G022038;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25
+284359245,288.0495,57.6742,6.32,G022038;G022052;G022080
+287261241,292.8064,55.7317,5.32,G022038
+399916610,287.1065,52.4254,5.03,G022038
+424719589,294.6718,54.9747,5.44,G022038;G022103;G022133;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25
+47579336,278.484,51.7174,6.81,G022038;G022173;G022238
+277502552,310.807,57.114,6.04,G022135;G022038
+441792937,263.1704,74.2275,5.66,G022173;G022038
+415030187,183.9227,72.5511,5.2,G022038
+53569840,182.8642,53.4209,7.14,G022038
+159190692,201.4375,56.9706,6.55,G022062;G022038;G022080
+316331312,187.8299,55.1188,7.17,G022173;G022038;G022109;G022148
