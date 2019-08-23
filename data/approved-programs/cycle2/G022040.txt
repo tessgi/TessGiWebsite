@@ -1,9 +1,40 @@
 # TESS Program G022040
-            
+
 Title: Precision Photometry Of Interferometric Calibration Stars
 
 PI: Roettenbacher, Rachael - Yale University
 
-Type: Small
+Type: SMALL
 
-Summary: Interferometry makes wide-ranging science possible, from measuring fundamental stellar parameters to imaging stellar surfaces. Interferometric calibration stars are ideally unresolved, nearby on the sky, and of similar spectral types and luminosity classes to the science target. However, this is not always possible, and concessions must be made. The presence of brightness variations across their surfaces could cause calibration issues, affecting the science targets. With TESS observations, these calibrators will be examined for any variations that could affect their suitability as interferometric calibrators. The impact of the variations on the interferometric observables will be determined. Improving the quality of calibrators will improve the science results and effects on astrophysics. 
+Summary: Interferometry makes wide-ranging science possible, from measuring fundamental stellar parameters to imaging stellar surfaces. Interferometric calibration stars are ideally unresolved, nearby on the sky, and of similar spectral types and luminosity classes to the science target. However, this is not always possible, and concessions must be made. The presence of brightness variations across their surfaces could cause calibration issues, affecting the science targets. With TESS observations, these calibrators will be examined for any variations that could affect their suitability as interferometric calibrators. The impact of the variations on the interferometric observables will be determined. Improving the quality of calibrators will improve the science results and effects on astrophysics.
+
+
+# Sector 014 targets observed (12)
+405946127,304.3711,42.7221,4.83,G022040
+63819242,308.8251,41.8903,5.81,G022040
+111787652,292.0577,29.4501,5.65,G022040
+20780347,284.7359,32.6896,1.87,G022133;G022040;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25
+394323335,290.639,33.518,5.2,G022040
+284827826,293.023,25.5966,6.41,G022040;G022103
+233798897,303.3501,56.5682,4.18,G022133;G022040;G022223;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25
+122138956,289.9077,40.2671,5.83,G022040
+27006649,293.9831,50.2388,5.56,G022040
+27014182,294.1105,50.2225,4.17,G022133;G022040;G022103;G022171;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25
+424870548,292.4267,51.7305,3.63,G022133;G022040;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25
+202511282,232.7309,64.2091,4.89,G022040;G022133;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25
+
+# Sector 015 targets observed (14)
+167407697,319.354,39.3947,4.1,G022133;G022040;G022020;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25
+373445744,320.2558,40.3438,5.83,G022040;G022032
+418442166,315.7703,38.6574,5.26,G022040
+405946127,304.3711,42.7221,4.83,G022040
+63819242,308.8251,41.8903,5.81,G022040
+243544723,309.9848,22.1438,8.1,G022040
+326202925,328.1243,28.7932,5.07,G022040;G022133;G022103;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25
+387359292,310.7963,66.6576,5.41,G022040;G022133;G022223;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25
+27006649,293.9831,50.2388,5.56,G022040
+27014182,294.1105,50.2225,4.17,G022133;G022040;G022103;G022171;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25
+424870548,292.4267,51.7305,3.63,G022133;G022040;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25
+233798897,303.3501,56.5682,4.18,G022133;G022040;G022223;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25
+202511282,232.7309,64.2091,4.89,G022040;G022133;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25
+224292240,183.8575,57.0327,3.25,G022133;G022040;G022109;G022148;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25

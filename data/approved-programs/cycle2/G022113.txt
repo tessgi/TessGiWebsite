@@ -1,9 +1,19 @@
 # TESS Program G022113
-            
+
 Title: The Solar-Stellar Connection: Using TESS To Characterize Quasi-Periodic Oscillations In Stellar Flares With The Afino C
 
 PI: Inglis, Andrew - Catholic University Of America
 
-Type: Small
+Type: SMALL
 
-Summary: Quasi-periodic oscillations (QPOs) are fundamental properties of both solar and stellar flares. This poses the question of whether common physics produces these signatures, despite the very different size and energy scales. We will use the recently-developed AFINO analysis code to detect QPOs in stellar flares from young, magnetically active M-dwarf stars observed by TESS at 2-minute cadence. We will characterize the properties of both the stellar flares themselves and their associated QPO properties, and compare with those previously determined in the solar domain. This allows us to understand the prevalence of stellar flare QPOs, constrain the relationship between stellar and solar flares, and understand whether the same mechanisms play a role in both regimes.                            
+Summary: Quasi-periodic oscillations (QPOs) are fundamental properties of both solar and stellar flares. This poses the question of whether common physics produces these signatures, despite the very different size and energy scales. We will use the recently-developed AFINO analysis code to detect QPOs in stellar flares from young, magnetically active M-dwarf stars observed by TESS at 2-minute cadence. We will characterize the properties of both the stellar flares themselves and their associated QPO properties, and compare with those previously determined in the solar domain. This allows us to understand the prevalence of stellar flare QPOs, constrain the relationship between stellar and solar flares, and understand whether the same mechanisms play a role in both regimes.
+
+
+# Sector 014 targets observed (3)
+219790149,264.6703,61.2334,11.97,G022252;G022113
+233068870,270.5716,64.2602,10.34,G022252;G022076;G022198;G022113;G022056
+356539820,153.0873,63.1908,11.7,G022252;G022113;G022109;G022148;G022198
+
+# Sector 015 targets observed (2)
+219790149,264.6703,61.2334,11.97,G022252;G022113
+233068870,270.5717,64.2602,10.34,G022252;G022076;G022198;G022113;G022056

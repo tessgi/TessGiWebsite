@@ -1,9 +1,26 @@
 # TESS Program G022219
-            
+
 Title: A Search For Flickering To Probe Accretion Activity And Binarity In Agb Stars (Cycle 2)
 
 PI: Sahai, Raghvendra - NASA/Jpl
 
-Type: Small
+Type: SMALL
 
-Summary: Our X-ray surveys of a small sample of cool AGB stars with FUV excesses reveal X-ray emission in 40% of our sample. The X-ray emission shows the unexpected presence of magnetically-confined and very hot gas (Tx~35-150 MK), and quasi-periodic variations on hour-long timescales, likely associated with an accretion disk around a main-sequence companion. HST UV observations show flickering on ~minute time-scales for our key fuvAGB object, confirming the presence of an accretion disk. We propose continuation of our successful cycle 1 TESS survey to search for flickering in TESS's optical band for a statistical sample of AGB stars with UV emission. The resulting database of high-cadence, high-sensitivity light curves will provide an unprecedented window into binary interactions in AGB stars.    
+Summary: Our X-ray surveys of a small sample of cool AGB stars with FUV excesses reveal X-ray emission in 40% of our sample. The X-ray emission shows the unexpected presence of magnetically-confined and very hot gas (Tx~35-150 MK), and quasi-periodic variations on hour-long timescales, likely associated with an accretion disk around a main-sequence companion. HST UV observations show flickering on ~minute time-scales for our key fuvAGB object, confirming the presence of an accretion disk. We propose continuation of our successful cycle 1 TESS survey to search for flickering in TESS's optical band for a statistical sample of AGB stars with UV emission. The resulting database of high-cadence, high-sensitivity light curves will provide an unprecedented window into binary interactions in AGB stars.
+
+
+# Sector 014 targets observed (5)
+219878176,260.8145,71.87,4.12,G022219
+259272661,293.8508,69.8056,4.06,G022219
+233185267,224.3948,65.9326,2.07,G022133;G022219;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25
+310965252,161.1597,68.7756,4.88,G022219
+149928206,161.9028,65.6164,4.63,G022219
+
+# Sector 015 targets observed (7)
+126452270,315.8741,23.9962,3.46,G022219
+236217289,313.7405,33.764,4.74,G022219
+259272661,293.8508,69.8056,4.06,G022219
+349977461,305.0253,68.8805,2.97,G022133;G022219;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25
+219878176,260.8145,71.87,4.12,G022219
+207435026,244.314,59.7552,2.99,G022133;G022219;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25
+233185267,224.3948,65.9326,2.07,G022133;G022219;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25

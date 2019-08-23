@@ -1,9 +1,13 @@
 # TESS Program G022209
-            
+
 Title: Searching Wide Subdwarf B Binary Systems Using The Light Time Delay Method
 
 PI: Otani, Tomomi - Embry-Riddle Aeronautical University
 
-Type: Small
+Type: SMALL
 
-Summary: We propose to observe pulsating subdwarf B (sdB) stars to determine orbital solutions&#8239;for&#8239;possible wide binary and/or&#8239;substellar&#8239;companions using the light-time delay in pulsation times, which is called the pulsation timing method. TESS is an ideal instrument to measure pulsation timings of pulsating sdB stars. Plausible sdB formation channels are common-envelope (CE) ejection, stable Roche-lobe overflow (RLOF), and binary white-dwarf merger. Among these, the CE channel results in short period binary systems (P < 10 days) and the RLOF channel results in long period binary systems (P > 500 days). About 150 short-period sdB systems were studied so far. However, not many long-period sdB systems were studied and more samples are needed to constrain the RLOF channel.    
+Summary: We propose to observe pulsating subdwarf B (sdB) stars to determine orbital solutions&#8239;for&#8239;possible wide binary and/or&#8239;substellar&#8239;companions using the light-time delay in pulsation times, which is called the pulsation timing method. TESS is an ideal instrument to measure pulsation timings of pulsating sdB stars. Plausible sdB formation channels are common-envelope (CE) ejection, stable Roche-lobe overflow (RLOF), and binary white-dwarf merger. Among these, the CE channel results in short period binary systems (P < 10 days) and the RLOF channel results in long period binary systems (P > 500 days). About 150 short-period sdB systems were studied so far. However, not many long-period sdB systems were studied and more samples are needed to constrain the RLOF channel.
+
+
+# Sector 015 targets observed (1)
+165312944,185.3712,53.0769,13.46,G022209;G022057;G022158

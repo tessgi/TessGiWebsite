@@ -1,9 +1,24 @@
 # TESS Program G022197
-            
+
 Title: A Systematic Study Of TESS Orbital Phase Curves
 
 PI: Shporer, Avi - Massachusetts Institute Of Technology
 
-Type: Small
+Type: SMALL
 
-Summary: TESS high quality light curves show not only the transit but the entire orbital phase curve, including the 2nd eclipse and sinusoidal phase modulations. Those modulations are shaped by the star-planet gravitational interaction and by atmospheric processes in the planet s atmosphere, hence they contain a large amount of information. We have recently completed a study of the WASP-18b TESS phase curve. Here we propose to expand that work to a systematic study of phase curves of short period transiting systems containing a massive planet. This will push to the limit TESS s scientific potential by extracting all information encoded in the light curves, leading to characterization of a sample of massive planet atmospheres and studying star-planet tidal interaction.                               
+Summary: TESS high quality light curves show not only the transit but the entire orbital phase curve, including the 2nd eclipse and sinusoidal phase modulations. Those modulations are shaped by the star-planet gravitational interaction and by atmospheric processes in the planet s atmosphere, hence they contain a large amount of information. We have recently completed a study of the WASP-18b TESS phase curve. Here we propose to expand that work to a systematic study of phase curves of short period transiting systems containing a massive planet. This will push to the limit TESS s scientific potential by extracting all information encoded in the light curves, leading to characterization of a sample of massive planet atmospheres and studying star-planet tidal interaction.
+
+
+# Sector 014 targets observed (5)
+16740101,307.8599,39.9389,7.58,G022197;G022053
+69679391,294.6614,31.2192,7.55,G022197;G022084;G022053
+278348461,303.1955,18.1048,9.88,G022197;G022053
+158324245,286.9712,46.8683,9.57,G022197;G022062;G022053
+158561566,287.7088,47.3331,11.64,G022197;G022053;G022062
+
+# Sector 015 targets observed (5)
+16740101,307.8599,39.9389,7.58,G022197;G022053
+236445129,314.2685,31.661,11.44,G022197;G022053
+158324245,286.9712,46.8683,9.57,G022197;G022062;G022053
+158561566,287.7088,47.3331,11.64,G022197;G022053;G022062
+286923464,203.5098,53.7281,7.46,G022197;G022053;G022103

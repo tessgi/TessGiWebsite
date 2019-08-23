@@ -1,9 +1,22 @@
 # TESS Program G022173
-            
+
 Title: Spots And Flares In Active Binary Systems
 
 PI: Buzasi, Derek - Florida Gulf Coast University
 
-Type: Small
+Type: SMALL
 
-Summary: Active binary stars are cool stars characterized by strong chromospheric, transition region, and coronal radiation. Photometrically, the stars are variable primarily due to the presence of starspots and flares. The higher activity levels seen in these active binaries make these stars a natural laboratory for the study of magnetic activity. TESS offers us the opportunity to undertake systematic study of issues such as differential rotation, spot evolution, and flare rates for 37 such systems, supplemented by ground-based photometry from the Evryscope program.                                                                                                                                                                                                                                            
+Summary: Active binary stars are cool stars characterized by strong chromospheric, transition region, and coronal radiation. Photometrically, the stars are variable primarily due to the presence of starspots and flares. The higher activity levels seen in these active binaries make these stars a natural laboratory for the study of magnetic activity. TESS offers us the opportunity to undertake systematic study of issues such as differential rotation, spot evolution, and flare rates for 37 such systems, supplemented by ground-based photometry from the Evryscope program.
+
+
+# Sector 014 targets observed (4)
+42705187,286.8856,30.2551,7.0,G022062;G022038;G022173
+47579336,278.484,51.7174,6.81,G022038;G022173;G022238
+198242678,249.7668,60.6993,7.89,G022062;G022173;G022103
+160472514,237.706,72.2112,9.38,G022062;G022173;G022208
+
+# Sector 015 targets observed (4)
+47579336,278.484,51.7174,6.81,G022038;G022173;G022238
+441792937,263.1704,74.2275,5.66,G022173;G022038
+160472514,237.706,72.2112,9.38,G022062;G022173;G022208
+316331312,187.8299,55.1188,7.17,G022173;G022038;G022109;G022148

@@ -1,9 +1,76 @@
 # TESS Program G022084
-            
+
 Title: Pre-Identified Giant Planet Candidates From The Kelt Survey To Understand Giant Planet Migration
 
 PI: Rodriguez, Joseph - Harvard-Smithsonian Center For Astrophysics
 
-Type: Small
+Type: SMALL
 
-Summary: Individual theories of planet formation and migration struggle to reproduce the characteristics of the known giant planets, so it is likely that multiple mechanisms shape this population. The orbital eccentricities of hot Jupiters hold clues to their formation and dynamical evolution. The TESS mission is built to exploit the valuable science of transiting planets orbiting bright host stars, finding suitable targets for precise eccentricity measurements. We propose for 2-minute cadence TESS observations of a set of high-quality transiting giant planet candidates identified from the KELT survey. The goal of this project is to combine the high photometric precision from TESS with up to a 15 year long baseline from KELT to confirm and characterize (obtain precise eccentricities) new planets.  
+Summary: Individual theories of planet formation and migration struggle to reproduce the characteristics of the known giant planets, so it is likely that multiple mechanisms shape this population. The orbital eccentricities of hot Jupiters hold clues to their formation and dynamical evolution. The TESS mission is built to exploit the valuable science of transiting planets orbiting bright host stars, finding suitable targets for precise eccentricity measurements. We propose for 2-minute cadence TESS observations of a set of high-quality transiting giant planet candidates identified from the KELT survey. The goal of this project is to combine the high photometric precision from TESS with up to a 15 year long baseline from KELT to confirm and characterize (obtain precise eccentricities) new planets.
+
+
+# Sector 014 targets observed (33)
+258633761,306.7155,42.1545,8.57,G022084
+69679391,294.6614,31.2192,7.55,G022197;G022084;G022053
+352718668,288.4614,22.8337,10.63,G022084
+283193372,299.6256,26.5039,9.53,G022084
+395890738,303.003,19.7721,9.82,G022084
+420114772,290.4298,74.7626,10.05,G022084
+159290316,228.8261,78.8927,11.03,G022084
+159464498,244.8373,78.9141,9.79,G022084
+235718636,255.0853,83.4215,10.79,G022084
+288471108,271.386,78.2414,11.45,G022084
+288507910,271.5382,81.9416,10.87,G022084
+160585813,243.3143,72.8725,11.2,G022084
+219016350,223.3751,66.2402,11.0,G022084
+229538403,221.9495,74.9163,12.11,G022084
+230065962,230.5286,70.0774,11.21,G022084
+230114503,248.7826,69.9406,11.24,G022084
+458478250,232.1466,66.3587,9.77,G022084
+148841959,183.2456,71.3728,9.63,G022084
+154093071,210.2283,68.9646,11.04,G022084
+154570928,192.1737,72.1482,8.17,G022084
+232965249,197.2053,68.641,9.94,G022084
+298108871,205.528,65.2731,6.47,G022084
+462548689,214.8072,73.8993,11.03,G022084
+355978205,146.8178,78.6103,10.43,G022084
+372758722,173.661,82.6327,9.75,G022084
+102929927,131.929,71.2601,8.76,G022084
+142441910,146.2536,68.7852,9.22,G022253;G022084
+349827430,161.9088,71.6557,7.92,G022084
+356604374,138.7202,70.0909,9.89,G022084
+86385104,146.3292,65.741,11.09,G022253;G022084
+138650903,178.5675,65.2191,8.29,G022084
+157318662,179.9364,65.6724,10.56,G022084
+99920728,169.7463,64.643,10.31,G022084
+
+# Sector 015 targets observed (29)
+258633761,306.7155,42.1545,8.57,G022084
+236058546,312.9492,31.3142,11.09,G022084
+236445128,314.2567,31.6605,11.84,G022084
+352954787,314.0395,65.1755,9.91,G022084
+259671983,318.2508,52.5222,9.96,G022084
+277566482,311.1972,54.5021,15.47,G022084
+336434532,314.2735,55.7277,9.54,G022084
+357875887,316.908,49.0229,11.17,G022084
+288471108,271.386,78.2414,11.45,G022084
+420114772,290.4298,74.7626,10.05,G022084
+159290316,228.8261,78.8927,11.03,G022084
+159464498,244.8373,78.9141,9.79,G022084
+160585813,243.3143,72.8725,11.2,G022084
+229538403,221.9495,74.9163,12.11,G022084
+230065962,230.5286,70.0774,11.21,G022084
+230114503,248.7826,69.9406,11.24,G022084
+462548689,214.8072,73.8993,11.03,G022084
+202444594,228.169,60.1348,8.5,G022084
+219016350,223.3751,66.2402,11.0,G022084
+458478250,232.1466,66.3587,9.77,G022084
+441692540,212.8204,54.4089,7.29,G022084
+148841959,183.2456,71.3728,9.63,G022084
+154093071,210.2283,68.9646,11.04,G022084
+154570928,192.1737,72.1482,8.17,G022084
+198489326,195.9334,74.561,11.12,G022084
+232965249,197.2053,68.641,9.94,G022084
+298108871,205.528,65.2731,6.47,G022084
+138650903,178.5675,65.2191,8.29,G022084
+157318662,179.9364,65.6724,10.56,G022084

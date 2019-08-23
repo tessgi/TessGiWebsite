@@ -1,9 +1,41 @@
 # TESS Program G022116
-            
+
 Title: TESS Observations Of Cataclysmic Variable Stars
 
 PI: Wood, Matt - Texas A&M University-Commerce
 
-Type: Small
+Type: SMALL
 
-Summary: Cataclysmic variables provide the cleanest available natural laboratories to investigate the physics of accretion. The timing capabilities and sensitivity of TESS are well matched to the timescales and amplitudes of accretion variability in these sources. The combination provides an opportunity to test and refine the paradigms of stellar accretion with high-precision, uniform data containing no diurnal gaps. We propose a continuation of our multifaceted observational and modeling program that has the potential to measure the spatial structure of model dependent disk parameters. Like the Kepler/K2 mission, the analysis of TESS observations of CVs will significantly impact our understanding of accretion dynamics and the nature of astrophysical viscosity.                                      
+Summary: Cataclysmic variables provide the cleanest available natural laboratories to investigate the physics of accretion. The timing capabilities and sensitivity of TESS are well matched to the timescales and amplitudes of accretion variability in these sources. The combination provides an opportunity to test and refine the paradigms of stellar accretion with high-precision, uniform data containing no diurnal gaps. We propose a continuation of our multifaceted observational and modeling program that has the potential to measure the spatial structure of model dependent disk parameters. Like the Kepler/K2 mission, the analysis of TESS observations of CVs will significantly impact our understanding of accretion dynamics and the nature of astrophysical viscosity.
+
+
+# Sector 014 targets observed (13)
+168990573,297.0971,36.4397,15.68,G022116
+86813476,298.6532,32.3653,13.86,G022116;G022071
+22172905,292.7541,33.7844,15.22,G022116
+69559020,294.6671,30.5079,12.62,G022126;G022116;G022071
+288838566,305.0612,21.1029,11.06,G022126;G022116;G022071
+366122523,274.0548,49.8681,13.06,G022071;G022116;G022230
+289532915,278.8034,38.3345,16.85,G022116;G022071
+186040332,303.0529,42.7648,13.89,G022116
+193895999,306.8224,43.6893,16.79,G022078;G022116
+236763903,273.131,67.0793,17.23,G022230;G022116
+272781244,237.8433,71.7532,16.61,G022116;G022071
+335682765,222.6597,64.0581,17.03,G022116
+103632402,151.753,67.5465,14.13,G022116;G022071
+
+# Sector 015 targets observed (14)
+139144802,320.9367,42.3004,14.97,G022116
+190696047,325.6792,43.5863,11.1,G022116;G022071;G022198
+186040332,303.0529,42.7648,13.89,G022116
+193895999,306.8224,43.6893,16.79,G022078;G022116
+366642981,311.7908,41.924,15.27,G022116;G022071
+247248981,314.4378,25.5071,15.2,G022116
+28062141,334.1298,29.0055,15.7,G022116;G022071
+63211875,292.2352,43.0937,14.79,G022116
+417434471,323.4318,51.1235,14.66,G022071;G022116
+236763903,273.131,67.0793,17.23,G022230;G022116
+272781244,237.8433,71.7532,16.61,G022116;G022071
+1201247611,242.8915,63.1421,18.03,G022116
+202507376,231.3824,62.0167,15.15,G022116;G022141
+335682765,222.6597,64.0581,17.03,G022116
