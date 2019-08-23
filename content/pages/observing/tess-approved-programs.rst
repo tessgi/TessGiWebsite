@@ -26,6 +26,40 @@ Cycle 2
 
 .. include:: approved-programs/cycle2.html
 
+Sector 15
+=========
+.. raw:: html
+
+    <ul class="list-group">
+        <li class="list-group-item">
+          <i class="fa fa-calendar fa-margin"></i>
+          Aug 15, 2019 - Sep 11, 2019
+        </li>
+        <li class="list-group-item">
+            <i class="fa fa-download fa-margin"></i>
+            <a href="data/target_lists/sector015_targets_lists/GI_S015.csv">Target list (csv)</a>
+        </li>
+    </ul>
+
+.. include:: approved-programs/sector015.html
+
+Sector 14
+=========
+.. raw:: html
+
+    <ul class="list-group">
+        <li class="list-group-item">
+          <i class="fa fa-calendar fa-margin"></i>
+          Jul 18, 2019 - Aug 15, 2019
+        </li>
+        <li class="list-group-item">
+            <i class="fa fa-download fa-margin"></i>
+            <a href="data/target_lists/sector014_targets_lists/GI_S014.csv">Target list (csv)</a>
+        </li>
+    </ul>
+
+.. include:: approved-programs/sector014.html
+
 Cycle 1
 =======
 .. raw:: html
