@@ -1,9 +1,18 @@
 # TESS Program G022179
-            
+
 Title: Revisiting The Past: B Star Asteroseismology With TESS
 
 PI: Buzasi, Derek - Florida Gulf Coast University
 
-Type: Small
+Type: SMALL
 
-Summary: Massive stars, while few in number, play an outsized role in the evolution of the universe through their roles in chemical enrichment and as Type II supernova progenitors. Accordingly, models of their stellar structure and evolution are fundamental to our understanding of astrophysical topics as diverse as star formation, stellar winds, and the evolution of the interstellar medium. Improvement of the models can only come through confrontation with observations, and high-precision asteroseismology constitutes the ideal observation set. In this project, we plan to perform asteroseismology of 8 B stars, primarily SPB and Beta Cep stars. Our list is unique in that all of our targets have previously been observed using high precision photometry from space with the WIRE satellite.               
+Summary: Massive stars, while few in number, play an outsized role in the evolution of the universe through their roles in chemical enrichment and as Type II supernova progenitors. Accordingly, models of their stellar structure and evolution are fundamental to our understanding of astrophysical topics as diverse as star formation, stellar winds, and the evolution of the interstellar medium. Improvement of the models can only come through confrontation with observations, and high-precision asteroseismology constitutes the ideal observation set. In this project, we plan to perform asteroseismology of 8 B stars, primarily SPB and Beta Cep stars. Our list is unique in that all of our targets have previously been observed using high precision photometry from space with the WIRE satellite.
+
+
+# Sector 014 targets observed (2)
+12149245,304.4466,38.0329,4.26,G022179;G022133;G022020;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25
+392569763,280.6581,55.5396,5.12,G022179;G022133;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25
+
+# Sector 015 targets observed (2)
+12149245,304.4466,38.0329,4.26,G022179;G022133;G022020;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25
+392569763,280.6581,55.5396,5.12,G022179;G022133;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25

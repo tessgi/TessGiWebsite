@@ -1,9 +1,27 @@
 # TESS Program G022254
-            
+
 Title: TESS Observations Of Nova-Like Variables, Post-Novae And Recurrent Novae
 
 PI: Sion, Edward - Villanova University
 
-Type: Large
+Type: LARGE
 
-Summary: We propose to observe 85 nova-like variables, post-novae and recurrent novae in the "quiescence" following their last nova explosions when bright accretion disks are expected to dominate their light. TESS is needed for its continuous coverage rather than for ultra precision. We will utilize a newly developed, analytic accretion disk model that probes a disk's dimensions, mass, and interior distributions of density and temperature.The observations will deliver the first substantial library of bright disk (non-eruptive) CV light curves to the astronomical community. Eclipsing CVs are of particular interest because they give information on disk morphology.The disk analysis software is ready, tested, and has already been applied to the T Pyx-type recurrent nova CI Aql with good results.       
+Summary: We propose to observe 85 nova-like variables, post-novae and recurrent novae in the "quiescence" following their last nova explosions when bright accretion disks are expected to dominate their light. TESS is needed for its continuous coverage rather than for ultra precision. We will utilize a newly developed, analytic accretion disk model that probes a disk's dimensions, mass, and interior distributions of density and temperature.The observations will deliver the first substantial library of bright disk (non-eruptive) CV light curves to the astronomical community. Eclipsing CVs are of particular interest because they give information on disk morphology.The disk analysis software is ready, tested, and has already been applied to the T Pyx-type recurrent nova CI Aql with good results.
+
+
+# Sector 014 targets observed (6)
+170187712,297.9479,37.2799,15.0,G022071;G022254
+233124538,273.6243,61.3928,15.14,G022071;G022141;G022254
+158318859,286.8179,44.0188,13.42,G022071;G022254
+164654501,284.0336,45.6278,14.94,G022141;G022071;G022254;G022204
+193537392,305.8772,46.5248,16.16,G022071;G022254
+103605968,151.1447,66.4875,15.04,G022071;G022141;G022254
+
+# Sector 015 targets observed (7)
+190618916,325.433,42.8414,14.2,G022071;G022254
+356777168,313.0533,44.3239,13.01,G022071;G022254
+416687457,317.9012,48.1517,17.28,G022230;G022254
+159580213,291.045,44.993,16.17,G022141;G022254
+193537392,305.8772,46.5248,16.16,G022071;G022254
+233124538,273.6243,61.3928,15.14,G022071;G022141;G022254
+332277332,204.1703,51.9138,12.85,G022126;G022141;G022071;G022254;G022208

@@ -1,9 +1,20 @@
 # TESS Program G022031
-            
+
 Title: Unveiling Blazar Variability On The Shortest Observable Time Scales
 
 PI: Raiteri, Claudia - Istituto Nazionale Di Astrofisica (Inaf)
 
-Type: Small
+Type: SMALL
 
-Summary: Blazars are active galactic nuclei exhibiting extreme variability on different time scales, down to minutes. Their emission is dominated by non-thermal radiation from a relativistic jet pointing toward us, with consequent Doppler beaming. We propose 2 min cadence observations of a small sample of optically and gamma-ray bright blazars to investigate their variability on the shortest accessible time scales. We selected 20 sources with TESS mag less than 16 and TESS observations spread over all Sectors and Cameras. We will analyse TESS light curves with time series methods to infer the most plausible scenarios for blazar variability. Supporting observations by the WEBT Collaboration and the Fermi satellite will maximize the scientific return.                                                  
+Summary: Blazars are active galactic nuclei exhibiting extreme variability on different time scales, down to minutes. Their emission is dominated by non-thermal radiation from a relativistic jet pointing toward us, with consequent Doppler beaming. We propose 2 min cadence observations of a small sample of optically and gamma-ray bright blazars to investigate their variability on the shortest accessible time scales. We selected 20 sources with TESS mag less than 16 and TESS observations spread over all Sectors and Cameras. We will analyse TESS light curves with time series methods to infer the most plausible scenarios for blazar variability. Supporting observations by the WEBT Collaboration and the Fermi satellite will maximize the scientific return.
+
+
+# Sector 014 targets observed (3)
+256615539,299.9994,65.1485,14.46,G022059;G022031
+219113011,271.7112,69.8245,14.4,G022031
+287180466,149.6969,65.5652,15.62,G022031
+
+# Sector 015 targets observed (3)
+256615539,299.9994,65.1485,14.46,G022059;G022031
+219113011,271.7112,69.8245,14.4,G022031
+334651727,235.7373,61.4987,14.97,G022031

@@ -1,9 +1,28 @@
 # TESS Program G022061
-            
+
 Title: Studying Pulsating M Dwarfs Through The Eyes Of TESS
 
 PI: Jao, Wei-Chun - Georgia State University
 
-Type: Small
+Type: SMALL
 
-Summary: The unprecedented high precision of parallaxes in Gaia Data Release 2 (DR2) reveals a new feature in the lower main sequence of the H-R Diagram (HRD). Theoretical models predict that M dwarfs in this narrow transition zone are in a pulsating phase because of the mixing of 3He during the merger of envelope and core convection zones. We expect that these pulsating stars will show high photometric variability in the form of flares because of unstable magnetic configurations. Here we request to add 107 carefully selected targets in addition to those already being observed by TESS core science targets that lie in this region in the HRD. We propose to acquire short cadence, high precision TESS photometry to study stellar variability levels for these stars and will provide the first systematic   
+Summary: The unprecedented high precision of parallaxes in Gaia Data Release 2 (DR2) reveals a new feature in the lower main sequence of the H-R Diagram (HRD). Theoretical models predict that M dwarfs in this narrow transition zone are in a pulsating phase because of the mixing of 3He during the merger of envelope and core convection zones. We expect that these pulsating stars will show high photometric variability in the form of flares because of unstable magnetic configurations. Here we request to add 107 carefully selected targets in addition to those already being observed by TESS core science targets that lie in this region in the HRD. We propose to acquire short cadence, high precision TESS photometry to study stellar variability levels for these stars and will provide the first systemati.
+
+
+# Sector 014 targets observed (9)
+312237104,303.3613,36.8768,12.57,G022061
+59256820,297.102,32.8434,12.74,G022061
+337785911,293.5681,25.8972,12.68,G022061
+396940678,309.5924,25.0178,12.42,G022061
+352231179,291.9305,57.4658,11.84,G022061
+313740600,273.4899,43.7724,12.51,G022061
+193565852,306.0025,43.9823,12.51,G022061
+278350444,307.4997,48.1895,11.97,G022061
+142782968,153.5445,75.0468,12.54,G022061
+
+# Sector 015 targets observed (5)
+193565852,306.0025,43.9823,12.51,G022061
+312237104,303.3613,36.8768,12.57,G022061
+125671886,317.3187,28.2923,11.68,G022061
+396940678,309.5924,25.0178,12.42,G022061
+352231179,291.9305,57.4658,11.84,G022061

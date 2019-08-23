@@ -1,9 +1,21 @@
 # TESS Program G022039
-            
+
 Title: The Mass-Radius-Luminosity-Rotation Relation For M Dwarfs Determined From TESS Eclipsing Binaries
 
 PI: Muirhead, Philip - Boston University
 
-Type: Small
+Type: SMALL
 
-Summary: The objective of this TESS Cycle-2 proposal is to determine accurate relationships to convert M dwarf absolute magnitudes and rotational periods to stellar masses and radii. We will achieve this objective by searching for, discovering and characterizing new low-mass stellar eclipsing binary stars (EBs) in the TESS full-frame images (FFIs), and we propose 36 known EBs for 2-min-cadence observations. The proposed mass-radius-luminosity-rotation relationship is critical for accurately measuring the radii and equilibrium temperatures of the hundreds of transiting extrasolar planets TESS is expected to discover orbiting M dwarfs. We expect to discover thousands of new EBs in the full-frame images. The 36 known EBs proposed for 2-min-cadence observations are bright objects with existing radia   
+Summary: The objective of this TESS Cycle-2 proposal is to determine accurate relationships to convert M dwarf absolute magnitudes and rotational periods to stellar masses and radii. We will achieve this objective by searching for, discovering and characterizing new low-mass stellar eclipsing binary stars (EBs) in the TESS full-frame images (FFIs), and we propose 36 known EBs for 2-min-cadence observations. The proposed mass-radius-luminosity-rotation relationship is critical for accurately measuring the radii and equilibrium temperatures of the hundreds of transiting extrasolar planets TESS is expected to discover orbiting M dwarfs. We expect to discover thousands of new EBs in the full-frame images. The 36 known EBs proposed for 2-min-cadence observations are bright objects with existing radi.
+
+
+# Sector 014 targets observed (4)
+158660631,288.0203,46.3244,8.8,G022062;G022039
+48450535,284.7619,48.6099,11.13,G022253;G022039;G022062
+295803225,303.8413,48.2871,10.46,G022003;G022062;G022039
+155657581,206.3921,79.3971,11.19,G022039;G022240;G022238;G022208
+
+# Sector 015 targets observed (3)
+48450535,284.7619,48.6099,11.13,G022253;G022039;G022062
+158660631,288.0203,46.3244,8.8,G022062;G022039
+295803225,303.8413,48.2871,10.46,G022003;G022062;G022039

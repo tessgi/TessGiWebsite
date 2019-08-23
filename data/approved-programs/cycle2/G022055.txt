@@ -1,9 +1,10 @@
 # TESS Program G022055
-            
+
 Title: Probing Pulsar Wind Interaction: Linking Redbacks And Transitional Millisecond Pulsar Binaries
 
 PI: Coti Zelati, Francesco - Institut De Ciencies De L'Espai (Ieec-Csic)
 
-Type: Small
+Type: SMALL
 
-Summary: The "redback" systems are now challenging the evolutionary link between NS LMXBs and rotation-powered radio pulsars. The study of the long-term behaviour of the optical emission in systems in either states has the great potential to unveil those prone to perform state transitions, to dissect the role of the intra-binary shock between the pulsar and companion winds, and to determine the condition for disc formation and disappearance. We propose to observe at 2-min cadence a sample of 4 redbacks of which 3 are currently in a rotation-powered state and one in an accretion disc-state. The observations will probe the effects of the intra-binary shock in the heated-induced wind of the companion for the 3 former systems, and the long-timescale accretion-induced variability in the latter system.  
+Summary: The "redback" systems are now challenging the evolutionary link between NS LMXBs and rotation-powered radio pulsars. The study of the long-term behaviour of the optical emission in systems in either states has the great potential to unveil those prone to perform state transitions, to dissect the role of the intra-binary shock between the pulsar and companion winds, and to determine the condition for disc formation and disappearance. We propose to observe at 2-min cadence a sample of 4 redbacks of which 3 are currently in a rotation-powered state and one in an accretion disc-state. The observations will probe the effects of the intra-binary shock in the heated-induced wind of the companion for the 3 former systems, and the long-timescale accretion-induced variability in the latter system.
+
