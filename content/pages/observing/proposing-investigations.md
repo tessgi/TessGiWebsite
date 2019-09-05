@@ -9,7 +9,7 @@ The TESS primary mission duration is two years. The first year will be spent in 
 
 There will be no exclusive-use data rights to observations collected by TESS. All data will be made available through the [MAST public archive](http://archive.stsci.edu/tess/summary.html) once data processing and validation is complete. 
 
-**The deadline for Cycle 2 has now passed.** 
+**The deadline for Cycle 2 has now passed. Stay tuned for information about Cycle 3.** 
 
 
 ### Permitted science areas

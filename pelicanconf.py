@@ -132,6 +132,7 @@ KEY_INFORMATION = (
     # ('Proposal submission page', 'https://heasarc.gsfc.nasa.gov/ark/rps/'),
     ('Web TESS Target Tool', 'https://heasarc.gsfc.nasa.gov/cgi-bin/tess/webtess/wtv.py'),
     #('Observatory Guide', 'documentation.html'),
+    ('Mission Status', 'https://heasarc.gsfc.nasa.gov/docs/tess/status.html'),
     ('Data at MAST', 'http://archive.stsci.edu/tess/summary.html'),    
     ('Frequently asked questions', 'faq.html'),
     ('Volunteer to serve on a review panel',
@@ -230,12 +231,12 @@ MEETINGS = (
             # ('<b>15 April - 28 June 2019</b><br>'
             #  'Better Stars, Better Planets: Exploiting the Stellar-Exoplanetary Synergy',
             #  'https://www.kitp.ucsb.edu/activities/exostar19'),
-            ('<b>22-26 July 2019</b><br>'
-             'TASC5/KASC12 Workshop',
-             'http://web.mit.edu/tasc5/index.html'),    
-            ('<b>29 July - 2 August 2019</b><br>'
-             'TESS Science Conference',
-             'https://tess.mit.edu/news/tess-science-conference/'),
+            #('<b>22-26 July 2019</b><br>'
+            # 'TASC5/KASC12 Workshop',
+            # 'http://web.mit.edu/tasc5/index.html'),    
+            #('<b>29 July - 2 August 2019</b><br>'
+            # 'TESS Science Conference',
+            # 'https://tess.mit.edu/news/tess-science-conference/'),
             ('<b>4-8 November 2019</b><br>'
              'SEEC Symposium: Rocky Exoplanets in the Era of JWST: Theory and Observation',
              'https://seec.gsfc.nasa.gov/Symposium.html'),

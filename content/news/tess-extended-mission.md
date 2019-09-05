@@ -1,0 +1,5 @@
+Title: Announcement of the TESS Extended Mission
+Date: 2019-09-03 13:00
+Author: Knicole Colon
+
+After TESS completes its 2-year prime mission in July 2020, TESS will officially be continuing operations as part of an extended mission! TESS will continue scanning the sky in the extended mission for transiting exoplanets and other transients. As part of this extended mission, Guest Investigator proposals will continue to be solicited as part of Cycles 3 and 4. As in the prime mission, Guest Investigators will be able to propose to collect 2-minute cadence data for a select number of targets or request funds to analyze full-frame image data. Two major changes in the extended mission are that a new 20-second cadence mode will be available for observations, and the cadence of full-frame images will change from 30-minutes to 10-minutes. Stay tuned for additional details to be posted on our website and in the Cycle 3 call for proposals, which will be released soon. [Reports from the 2019 NASA Senior Review of Operating Missions can be found here.](https://science.nasa.gov/astrophysics/2019-senior-review-operating-missions/)

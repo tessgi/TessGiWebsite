@@ -54,7 +54,7 @@ The orbital periods that TESS is sensitive to depends on the fraction of overlap
 <img class="img-responsive" style="max-width:67%;" src="images/mission/tess_2yearskycoverage.png">
 <br/>
 
-*The pointings for Sectors 14 and 15 will be shifted toward the North ecliptic pole by 31 degrees to minimize impacts of scattered light from the Earth and Moon. See the [technical details page](observing-technical.html) for additional information.*
+*The pointings for Sectors 14, 15, and 16 were shifted toward the North ecliptic pole by 31 degrees to minimize impacts of scattered light from the Earth and Moon. See the [technical details page](observing-technical.html) for additional information.*
 
 
 
