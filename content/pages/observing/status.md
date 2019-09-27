@@ -231,7 +231,7 @@ and information on how to download the data can be found [here](data-access.html
     <td>2019 Oct 15</td>
     <td><a href='data/target_lists/sector014_targets_lists/GI_S014.csv'>Download</a></td>
 
-    <td style="min-width: 12em;">Data downlinked. Pointing shifted toward the North ecliptic pole by 31 degrees (<a
+    <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a>. Pointing shifted toward the North ecliptic pole by 31 degrees (<a
     href=observing-technical.html>see the technical details page for more information</a>).
     </td>
   </tr>
@@ -245,7 +245,7 @@ and information on how to download the data can be found [here](data-access.html
     <td>2019 Nov 11</td>
     <td><a href='data/target_lists/sector015_targets_lists/GI_S015.csv'>Download</a></td>
 
-    <td style="min-width: 12em;">Currently being observed. Pointing shifted toward the North ecliptic pole by 31 degrees (<a
+    <td style="min-width: 12em;">Data downlinked. Pointing shifted toward the North ecliptic pole by 31 degrees (<a
     href=observing-technical.html>see the technical details page for more information</a>).
     </td>
   </tr>
@@ -258,7 +258,7 @@ and information on how to download the data can be found [here](data-access.html
     <td>2019 Dec 07</td>
     <td></td>
 
-    <td style="min-width: 12em;">
+    <td style="min-width: 12em;">Currently being observed.
     Pointing shifted toward the North ecliptic pole by 31 degrees (<a
     href=observing-technical.html>see the technical details page for more information</a>).
     </td>
