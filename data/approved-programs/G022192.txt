@@ -1,0 +1,10 @@
+# TESS Program G022192
+
+Title: A Search For Transient Stellar Dimming In TESS FFI Lightcurves
+
+PI: Gaidos, Eric - University Of Hawaii (Manoa)
+
+Type: SMALL
+
+Summary: We propose to identify transient dimming or dips among TESS lightcurves of stars observed in Cycle 2. Dips are thought to be caused by circumstellar dust; among T Tauri-like stars they are a probe of inner disk conditions and, around older stars, a signpost of exocomets. Most dipper stars have been identified by eye or metrics of periodicity and asymmetry of the lightcurve. We propose an automated analysis of FFI lightcurves, combining statistical calculations with a novel anomaly detection that separates normal variability from short-duration anomalies, including dips, followed by a deep learning approach to distinguish astrophysical signals from systematics based on co-trends between stars, allowing us to describe more diverse and rare events around a wider range of stars.
+

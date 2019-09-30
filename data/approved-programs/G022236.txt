@@ -1,0 +1,10 @@
+# TESS Program G022236
+
+Title: A TESS Monitoring Survey Of Young Intermediate-Mass Stars
+
+PI: Cody, Ann Marie - NASA/Arc
+
+Type: SMALL
+
+Summary: We propose to create high-precision light curves for ~400 young (1-5 Myr) intermediate mass stars using TESS full frame images at 30-minute cadence. Ground-based observations inform us that young BAF stars are variable due to a combination of accretion (for the Herbig AeBe objects), circumstellar obscuration, and starspots. However, detailed studies of this variability and its relationship to the stellar environment have never been carried out on a large scale. Starting with TESS cycle 1, we are performing the first comprehensive analysis of light curve morphology among young, intermediate-mass stars and its relationship to magnetic activity as well as circumstellar disk properties. The results will be compared to our previous space-based work on low mass K/M stars in young cluster.
+
