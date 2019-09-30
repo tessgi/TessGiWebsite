@@ -1,0 +1,10 @@
+# TESS Program G022142
+
+Title: Light Curves, Variability Metrics, And Interactive Visualization For All Stars In TESS Full-Frame-Images
+
+PI: Oelkers, Ryan - Vanderbilt University
+
+Type: SMALL
+
+Summary: TESS will observe ~423 million stars, with |b|>6 deg, over the course of 2 years, but only 400,000, 2-minute-cadence targets will have light curves provided by the mission. During the first year of the mission, we provided high-precision, difference imaging light curves, differenced images, TESS Input Catalog stellar parameters, Lomb-Scargle periodicity information, Box-Least-Squares eclipse information, and basic variability metrics for nearly 50 millions stars observed in the first 4 sectors through an interactive visualization portal. These products have been shown to be as precise as official NASA data products, and have already led to independent community discoveries. This proposal seeks to continue these efforts in the second year of the survey.
+

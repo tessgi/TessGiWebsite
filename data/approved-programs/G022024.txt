@@ -1,0 +1,10 @@
+# TESS Program G022024
+
+Title: Measuring Long Rotation Periods From TESS's Short Light Curves
+
+PI: Angus, Ruth - American Museum Of Natural History
+
+Type: LARGE
+
+Summary: We will maximize TESS s potential as a stellar rotation mission by measuring rotation periods up to at least 60 days from TESS's 27 day single-sector light curves by training a machine learning method (the Cannon) on the light curves of stars in the Continuous Viewing Zones (CVZs). The Cannon is a simple, interpretable method which learns the relationship between stellar parameters and stellar brightness variations. It propagates stellar parameters learned from high fidelity data to poorer quality data, so this approach is ideal for TESS where there is a limited number of long light curves (CVZ stars) and a large number of short light curves (single-sector stars). We will provide a catalog of 500,000 rotation periods for FGKM main sequence dwarfs.
+
