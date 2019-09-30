@@ -1,0 +1,10 @@
+# TESS Program G022010
+
+Title: A TESS Search For Gravitationally Magnified Supernovae
+
+PI: Holwerda, Benne - University Of Louisville
+
+Type: SMALL
+
+Summary: Gravitational Lensing by massive ellipticals sometimes magnifies a distant galaxy as multiple clear arcs. A supernova in the distant (source) galaxy would start its light curve at different times in each lensed image thanks to a light path delay of the order of days. This light path delay is a direct measure of the Hubble constant: H0. There is currently significant tension between H0 from SNIa and CMB measurements. We propose to look for lensed supernovae in TESS 30 min images in 1300 known strong galaxy-galaxy lenses. Odds are reasonable that one will be observed (~30%). At minimum, we will obtain an upper limit to the supernova rate in these distant galaxies. Once a supernova is detected, it will independently constraint on the Hubble constant.
+

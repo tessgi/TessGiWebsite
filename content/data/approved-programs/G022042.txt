@@ -1,0 +1,10 @@
+# TESS Program G022042
+
+Title: Versatile TESS Systematic Error Removal Tools
+
+PI: Smith, Jeffrey - Seti Institute
+
+Type: SMALL
+
+Summary: The TESS flux time series data provides a wealth of information which will lead to innumerable astrophysical discoveries. An obstacle to these discoveries is the instrumental artifacts in the data sets. Compromises are always made when generating a single set of TESS light curves for export. Ideally, custom cotrending would be performed for each separate research project on each separate light curve and tuned specifically to the signals desired. We propose here to develop a general purpose publicly available tool to allow TESS data users to perform their own TESS pipeline-like correction providing to the user community a dearly needed tool to interpret and utilize the data provided by the mission.
+

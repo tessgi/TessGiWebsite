@@ -7,7 +7,7 @@ Save_as: status.html
 
 TESS launched April 18, 2018 at 6:51 p.m. EDT from Cape Canaveral Air
 Force Station in Florida atop a SpaceX Falcon 9 rocket. Regular
-science operations with TESS began on July 25, 2018. TESS is now executing its survey, observing one [sector](https://heasarc.gsfc.nasa.gov/docs/tess/operations.html#field-of-view) at a time, starting in the southern hemisphere. TESS will continue to [tile the sky](https://heasarc.gsfc.nasa.gov/docs/tess/operations.html#observing-strategy) with 27.4 day-long sectors during its 2 year prime mission. 
+science operations with TESS began on July 25, 2018. TESS is now executing its survey, observing one [sector](https://heasarc.gsfc.nasa.gov/docs/tess/operations.html#field-of-view) at a time. TESS will continue to [tile the sky](https://heasarc.gsfc.nasa.gov/docs/tess/operations.html#observing-strategy) with 27.4 day-long sectors during its 2 year prime mission, and continuing into extended mission. 
 
 <!-- 
 
@@ -36,6 +36,8 @@ can be found
 [here](https://outerspace.stsci.edu/display/TESS/TESS+Holdings+Available+by+MAST+Service)
 and information on how to download the data can be found [here](data-access.html).
 
+The data from each sector are required to be available at the MAST no later than 2 months after the observations for a given sector are completed. However, the data are routinely downloaded, processed through the pipeline, and released at MAST on shorter timescales than this. The data for each sector typically available within 1 month of the end date for a given sector. Users are encouraged to check the [MAST status page](https://outerspace.stsci.edu/display/TESS/TESS+Holdings+Available+by+MAST+Service) to check on the data availability for particular sectors.
+
 <div class="panel panel-primary">
   <div class="panel-heading">
     <h3 class="panel-title">Sector dates</h3>
@@ -49,7 +51,6 @@ and information on how to download the data can be found [here](data-access.html
       <th style="vertical-align: middle;">Hemisphere</th>
       <th style="vertical-align: middle;">Start</th>
       <th style="vertical-align: middle;">Stop</th>
-      <th style="vertical-align: middle;">Data<br>available</th>
       <th style="vertical-align: middle;">GI target list</th>
       <!-- <th style="vertical-align: middle;" class="text-center">Release<br>notes</th> -->
       <th style="vertical-align: middle;">Comments</th>
@@ -61,7 +62,6 @@ and information on how to download the data can be found [here](data-access.html
     <td>South</td>
     <td>2018&nbsp;Jul&nbsp;25</td>
     <td>2018&nbsp;Aug&nbsp;22</td>
-    <td>2018 Dec 06</td>
     <td><a href='data/target_lists/sector001_targets_lists/GI_S001.csv'>Download</a></td>
 
     <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a></td>
@@ -73,7 +73,6 @@ and information on how to download the data can be found [here](data-access.html
     <td>South</td>
     <td>2018&nbsp;Aug&nbsp;22</td>
     <td>2018&nbsp;Sep&nbsp;20</td>
-    <td>2018 Dec 06</td>
     <td><a href='data/target_lists/sector002_targets_lists/GI_S002.csv'>Download</a></td>
 
     <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a></td>
@@ -85,7 +84,6 @@ and information on how to download the data can be found [here](data-access.html
     <td>South</td>
     <td>2018&nbsp;Sep&nbsp;20</td>
     <td>2018&nbsp;Oct&nbsp;18</td>
-    <td>2019 Jan 25</td>
     <td><a href='data/target_lists/sector003_targets_lists/GI_S003.csv'>Download</a></td>
 
     <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a>
@@ -98,7 +96,6 @@ and information on how to download the data can be found [here](data-access.html
     <td>South</td>
     <td>2018&nbsp;Oct&nbsp;18</td>
     <td>2018&nbsp;Nov&nbsp;15</td>
-    <td>2019 Jan 25</td>
     <td><a href='data/target_lists/sector004_targets_lists/GI_S004.csv'>Download</a></td>
 
     <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a>
@@ -111,7 +108,6 @@ and information on how to download the data can be found [here](data-access.html
     <td>South</td>
     <td>2018&nbsp;Nov&nbsp;15</td>
     <td>2018&nbsp;Dec&nbsp;11</td>
-    <td>2019 Feb 25</td>
     <td><a href='data/target_lists/sector005_targets_lists/GI_S005.csv'>Download</a></td>
 
     <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a>
@@ -124,7 +120,6 @@ and information on how to download the data can be found [here](data-access.html
     <td>South</td>
     <td>2018&nbsp;Dec&nbsp;15</td>
     <td>2019&nbsp;Jan&nbsp;07</td>
-    <td>2019 Mar 07</td>
     <td><a href='data/target_lists/sector006_targets_lists/GI_S006.csv'>Download</a></td>
 
     <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a>
@@ -137,7 +132,6 @@ and information on how to download the data can be found [here](data-access.html
     <td>South</td>
     <td>2019&nbsp;Jan&nbsp;07</td>
     <td>2019&nbsp;Feb&nbsp;02</td>
-    <td>2019 Apr 02</td>
     <td><a href='data/target_lists/sector007_targets_lists/GI_S007.csv'>Download</a></td>
 
     <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a>
@@ -150,7 +144,6 @@ and information on how to download the data can be found [here](data-access.html
     <td>South</td>
     <td>2019&nbsp;Feb&nbsp;02</td>
     <td>2019&nbsp;Feb&nbsp;28</td>
-    <td>2019 Apr 28</td>
     <td><a href='data/target_lists/sector008_targets_lists/GI_S008.csv'>Download</a></td>
 
     <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a>
@@ -164,7 +157,6 @@ and information on how to download the data can be found [here](data-access.html
     <td>South</td>
     <td>2019&nbsp;Feb&nbsp;28</td>
     <td>2019&nbsp;Mar&nbsp;26</td>
-    <td>2019 May 26</td>
     <td><a href='data/target_lists/sector009_targets_lists/GI_S009.csv'>Download</a></td>
 
     <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a>
