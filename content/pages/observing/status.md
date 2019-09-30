@@ -379,91 +379,115 @@ cadence for each camera and sector.
 
 <div class="row">
     <div class="col-md-6 text-center">
-      <a href="images/sector-plots/sector-plots.001.jpeg">
-        <img id="s001" src="images/sector-plots/sector-plots.001.jpeg" class="img-responsive"><br>
-        Sector 1
-      </a>
-    </div>
-    <div class="col-md-6 text-center">
-      <a href="images/sector-plots/sector-plots.002.jpeg">
-        <img id="s002" src="images/sector-plots/sector-plots.002.jpeg" class="img-responsive"><br>
-        Sector 2
+      <a href="images/sector-plots/sector-plots.015.jpeg">
+        <img id="s011" src="images/sector-plots/sector-plots.015.jpeg" class="img-responsive">
+        Sector 15
       </a>
     </div>
 </div>
-</br>
+<br>
 <div class="row">
     <div class="col-md-6 text-center">
-      <a href="images/sector-plots/sector-plots.003.jpeg">
-        <img id="s003" src="images/sector-plots/sector-plots.003.jpeg" class="img-responsive"><br>
-        Sector 3
+      <a href="images/sector-plots/sector-plots.013.jpeg">
+        <img id="s011" src="images/sector-plots/sector-plots.013.jpeg" class="img-responsive">
+        Sector 13
       </a>
     </div>
     <div class="col-md-6 text-center">
-      <a href="images/sector-plots/sector-plots.004.jpeg">
-        <img id="s004" src="images/sector-plots/sector-plots.004.jpeg" class="img-responsive"><br>
-        Sector 4
+      <a href="images/sector-plots/sector-plots.014.jpeg">
+        <img id="s012" src="images/sector-plots/sector-plots.014.jpeg" class="img-responsive">
+        Sector 14
       </a>
     </div>
 </div>
-</br>
-<div class="row">
-    <div class="col-md-6 text-center">
-      <a href="images/sector-plots/sector-plots.005.jpeg">
-        <img id="s005" src="images/sector-plots/sector-plots.005.jpeg" class="img-responsive"><br>
-        Sector 5
-      </a>
-    </div>
-    <div class="col-md-6 text-center">
-      <a href="images/sector-plots/sector-plots.006.jpeg">
-        <img id="s005" src="images/sector-plots/sector-plots.006.jpeg" class="img-responsive"><br>
-        Sector 6
-      </a>
-    </div>
-</div>
-</br>
-<div class="row">
-    <div class="col-md-6 text-center">
-      <a href="images/sector-plots/sector-plots.007.jpeg">
-        <img id="s007" src="images/sector-plots/sector-plots.007.jpeg" class="img-responsive"><br>
-        Sector 7
-      </a>
-    </div>
-    <div class="col-md-6 text-center">
-      <a href="images/sector-plots/sector-plots.008.jpeg">
-        <img id="s008" src="images/sector-plots/sector-plots.008.jpeg" class="img-responsive"><br>
-        Sector 8
-      </a>
-    </div>
-</div>
-</br>
-<div class="row">
-    <div class="col-md-6 text-center">
-      <a href="images/sector-plots/sector-plots.009.jpeg">
-        <img id="s009" src="images/sector-plots/sector-plots.009.jpeg" class="img-responsive"><br>
-        Sector 9
-      </a>
-    </div>
-    <div class="col-md-6 text-center">
-      <a href="images/sector-plots/sector-plots.010.jpeg">
-        <img id="s010" src="images/sector-plots/sector-plots.010.jpeg" class="img-responsive"><br>
-        Sector 10
-      </a>
-    </div>
-</div>
-</br>
+<br>
 <div class="row">
     <div class="col-md-6 text-center">
       <a href="images/sector-plots/sector-plots.011.jpeg">
-        <img id="s011" src="images/sector-plots/sector-plots.011.jpeg" class="img-responsive"><br>
+        <img id="s011" src="images/sector-plots/sector-plots.011.jpeg" class="img-responsive">
         Sector 11
       </a>
     </div>
     <div class="col-md-6 text-center">
       <a href="images/sector-plots/sector-plots.012.jpeg">
-        <img id="s012" src="images/sector-plots/sector-plots.012.jpeg" class="img-responsive"><br>
+        <img id="s012" src="images/sector-plots/sector-plots.012.jpeg" class="img-responsive">
         Sector 12
       </a>
     </div>
 </div>
-
+<br>
+<div class="row">
+    <div class="col-md-6 text-center">
+      <a href="images/sector-plots/sector-plots.009.jpeg">
+        <img id="s009" src="images/sector-plots/sector-plots.009.jpeg" class="img-responsive">
+        Sector 9
+      </a>
+    </div>
+    <div class="col-md-6 text-center">
+      <a href="images/sector-plots/sector-plots.010.jpeg">
+        <img id="s010" src="images/sector-plots/sector-plots.010.jpeg" class="img-responsive">
+        Sector 10
+      </a>
+    </div>
+</div>
+<br>
+<div class="row">
+    <div class="col-md-6 text-center">
+      <a href="images/sector-plots/sector-plots.007.jpeg">
+        <img id="s007" src="images/sector-plots/sector-plots.007.jpeg" class="img-responsive">
+        Sector 7
+      </a>
+    </div>
+    <div class="col-md-6 text-center">
+      <a href="images/sector-plots/sector-plots.008.jpeg">
+        <img id="s008" src="images/sector-plots/sector-plots.008.jpeg" class="img-responsive">
+        Sector 8
+      </a>
+    </div>
+</div>
+<br>
+<div class="row">
+    <div class="col-md-6 text-center">
+      <a href="images/sector-plots/sector-plots.005.jpeg">
+        <img id="s005" src="images/sector-plots/sector-plots.005.jpeg" class="img-responsive">
+        Sector 5
+      </a>
+    </div>
+    <div class="col-md-6 text-center">
+      <a href="images/sector-plots/sector-plots.006.jpeg">
+        <img id="s005" src="images/sector-plots/sector-plots.006.jpeg" class="img-responsive">
+        Sector 6
+      </a>
+    </div>
+</div>
+<br>
+<div class="row">
+    <div class="col-md-6 text-center">
+      <a href="images/sector-plots/sector-plots.003.jpeg">
+        <img id="s003" src="images/sector-plots/sector-plots.003.jpeg" class="img-responsive">
+        Sector 3
+      </a>
+    </div>
+    <div class="col-md-6 text-center">
+      <a href="images/sector-plots/sector-plots.004.jpeg">
+        <img id="s004" src="images/sector-plots/sector-plots.004.jpeg" class="img-responsive">
+        Sector 4
+      </a>
+    </div>
+</div>
+<br>
+<div class="row">
+    <div class="col-md-6 text-center">
+      <a href="images/sector-plots/sector-plots.001.jpeg">
+        <img id="s001" src="images/sector-plots/sector-plots.001.jpeg" class="img-responsive">
+        Sector 1
+      </a>
+    </div>
+    <div class="col-md-6 text-center">
+      <a href="images/sector-plots/sector-plots.002.jpeg">
+        <img id="s002" src="images/sector-plots/sector-plots.002.jpeg" class="img-responsive">
+        Sector 2
+      </a>
+    </div>
+</div>
+<br>
