@@ -12,8 +12,8 @@ the TESS mission is provided by the NASA Explorer Program.*
 
 The TESS Science Support Center curates a list of scientific publications
 pertaining to TESS.
-The database contains 170 publications,
-of which 121 are peer-reviewed.
+The database contains 176 publications,
+of which 124 are peer-reviewed.
 It demonstrates the important impact of TESS data
 on astronomical research.
 
@@ -29,7 +29,7 @@ Or seach by topic:
 If you spot an error in the database, such as a missing entry,
 please get in touch or open an issue in the <a href="https://github.com/tessgi/tpub">GitHub repository</a> of the database.
 
-Last update: 30 Sep 2019.
+Last update: 10 Oct 2019.
 
 <hr/>
 
@@ -46,11 +46,11 @@ of year.
 
 Both TESS data have been used for scientific applications
 that reach far beyond exoplanet research.
-While 90 works relate to exoplanets
-(53%),
-a total of 80
+While 92 works relate to exoplanets
+(52%),
+a total of 84
 pertain to other areas of astrophysics
-(47%).
+(48%).
 
 
 ![Publications by subject](images/tpub/tpub-piechart.png)
@@ -60,7 +60,7 @@ pertain to other areas of astrophysics
 ## Most-cited publications
 
 TESS publications have cumulatively been cited
-2133 times.
+2139 times.
 The list below shows the most-cited publications,
 based on the citation count obtained from NASA ADS.
 
@@ -68,17 +68,17 @@ based on the citation count obtained from NASA ADS.
 1. TRANSITING EXOPLANET SURVEY SATELLITE (TESS)  
 Ricker, George R., Winn, Joshua N., Vanderspek, Roland, et al.    
 [2015JATIS...1a4003R](http://adsabs.harvard.edu/abs/2015JATIS...1a4003R)
-<span class="badge">545 citations</span>
+<span class="badge">546 citations</span>
 
 2. THE TRANSITING EXOPLANET SURVEY SATELLITE: SIMULATIONS OF PLANET DETECTIONS AND ASTROPHYSICAL FALSE POSITIVES  
 Sullivan, Peter W., Winn, Joshua N., Berta-Thompson, Zachory K., et al.    
 [2015ApJ...809...77S](http://adsabs.harvard.edu/abs/2015ApJ...809...77S)
-<span class="badge">230 citations</span>
+<span class="badge">231 citations</span>
 
 3. THE TESS INPUT CATALOG AND CANDIDATE TARGET LIST  
 Stassun, Keivan G., Oelkers, Ryan J., Pepper, Joshua, et al.    
 [2018AJ....156..102S](http://adsabs.harvard.edu/abs/2018AJ....156..102S)
-<span class="badge">119 citations</span>
+<span class="badge">118 citations</span>
 
 4. A REVISED EXOPLANET YIELD FROM THE TRANSITING EXOPLANET SURVEY SATELLITE (TESS)  
 Barclay, Thomas, Pepper, Joshua, Quintana, Elisa V.    
@@ -88,22 +88,22 @@ Barclay, Thomas, Pepper, Joshua, Quintana, Elisa V.
 5. TESS DISCOVERY OF A TRANSITING SUPER-EARTH IN THE PI MENSAE SYSTEM  
 Huang, Chelsea X., Burt, Jennifer, Vanderburg, Andrew, et al.    
 [2018ApJ...868L..39H](http://adsabs.harvard.edu/abs/2018ApJ...868L..39H)
-<span class="badge">51 citations</span>
+<span class="badge">50 citations</span>
 
 6. THE ASTEROSEISMIC POTENTIAL OF TESS: EXOPLANET-HOST STARS  
 Campante, T. L., Schofield, M., Kuszlewicz, J. S., et al.    
 [2016ApJ...830..138C](http://adsabs.harvard.edu/abs/2016ApJ...830..138C)
-<span class="badge">49 citations</span>
+<span class="badge">50 citations</span>
 
 7. A FRAMEWORK FOR PRIORITIZING THE TESS PLANETARY CANDIDATES MOST AMENABLE TO ATMOSPHERIC CHARACTERIZATION  
 Kempton, Eliza M. -R., Bean, Jacob L., Louie, Dana R., et al.    
 [2018PASP..130k4401K](http://adsabs.harvard.edu/abs/2018PASP..130k4401K)
-<span class="badge">39 citations</span>
+<span class="badge">38 citations</span>
 
 8. TESS DISCOVERY OF AN ULTRA-SHORT-PERIOD PLANET AROUND THE NEARBY M DWARF LHS 3844  
 Vanderspek, Roland, Huang, Chelsea X., Vanderburg, Andrew, et al.    
 [2019ApJ...871L..24V](http://adsabs.harvard.edu/abs/2019ApJ...871L..24V)
-<span class="badge">37 citations</span>
+<span class="badge">36 citations</span>
 
 9. PLANET DETECTION SIMULATIONS FOR SEVERAL POSSIBLE TESS EXTENDED MISSIONS  
 Bouma, L. G., Winn, Joshua N., Kosiarek, Jacobi, et al.    
@@ -113,7 +113,7 @@ Bouma, L. G., Winn, Joshua N., Kosiarek, Jacobi, et al.
 10. PREDICTED NUMBER, MULTIPLICITY, AND ORBITAL DYNAMICS OF TESS M-DWARF EXOPLANETS  
 Ballard, Sarah    
 [2019AJ....157..113B](http://adsabs.harvard.edu/abs/2019AJ....157..113B)
-<span class="badge">32 citations</span>
+<span class="badge">31 citations</span>
 <hr/>
 
 <!-- 
@@ -130,7 +130,7 @@ within the last 90 days.
 <!-- ## Most-active authors
 
 The entries in the publication database have been authored and co-authored
-by a total of 1224 unique author names.
+by a total of 1233 unique author names.
 Here we list the most-active authors, defined as those with six or more first-author publications in our database.
 
 -->
