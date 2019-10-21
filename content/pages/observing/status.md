@@ -241,8 +241,8 @@ The data from each sector are required to be available at the MAST no later than
     <td>North</td>
     <td>2019&nbsp;Sep&nbsp;11</td>
     <td>2019&nbsp;Oct&nbsp;07</td>
-    <td></td>
-    <td style="min-width: 12em;">Currently being observed.
+    <td><a href='data/target_lists/sector016_targets_lists/GI_S016.csv'>Download</a></td>
+    <td style="min-width: 12em;">
     Pointing shifted toward the North ecliptic pole by 31 degrees (<a
     href=observing-technical.html>see the technical details page for more information</a>).
     </td>
@@ -254,7 +254,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>North</td>
     <td>2019&nbsp;Oct&nbsp;07</td>
     <td>2019&nbsp;Nov&nbsp;02</td>
-    <td></td>
+    <td><a href='data/target_lists/sector017_targets_lists/GI_S017.csv'>Download</a></td>
     <td style="min-width: 12em;">
     </td>
   </tr>
@@ -339,7 +339,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>2020&nbsp;May&nbsp;13</td>
     <td></td>
 
-    <td style="min-width: 12em;">
+    <td style="min-width: 12em;">Pointing shifted toward the North ecliptic pole
 
     </td>
   </tr>
@@ -351,7 +351,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>2020&nbsp;Jun&nbsp;08</td>
     <td></td>
 
-    <td style="min-width: 12em;">
+    <td style="min-width: 12em;">Pointing shifted toward the North ecliptic pole
 
     </td>
   </tr>
@@ -363,7 +363,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>2020&nbsp;Jul&nbsp;04</td>
     <td></td>
 
-    <td style="min-width: 12em;">
+    <td style="min-width: 12em;">Pointing shifted toward the North ecliptic pole
 
     </td>
   </tr>
