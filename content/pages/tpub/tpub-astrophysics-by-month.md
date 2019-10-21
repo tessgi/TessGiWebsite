@@ -4,20 +4,32 @@ Save_as: tpub-astrophysics-by-month.html
 [TOC]
 
 
+2019-11
+-------
+
+1. [HD 42659: THE ONLY KNOWN ROAP STAR IN A SPECTROSCOPIC BINARY OBSERVED WITH B PHOTOMETRY, TESS, AND SALT](http://adsabs.harvard.edu/abs/2019MNRAS.489.4063H)  
+Holdsworth, Daniel L., Saio, Hideyuki, Kurtz, Donald W.    
+2019, refereed ([2019MNRAS.489.4063H](http://adsabs.harvard.edu/abs/2019MNRAS.489.4063H))  
+
+2. [MULTI-WAVELENGTH VARIABILITY OF THE YOUNG SOLAR ANALOG Ι HOROLOGII. X-RAY CYCLE, STAR SPOTS, FLARES, AND UV EMISSION](http://adsabs.harvard.edu/abs/2019A&A...631A..45S)  
+Sanz-Forcada, J., Stelzer, B., Coffaro, M., et al.    
+2019, refereed ([2019A&A...631A..45S](http://adsabs.harvard.edu/abs/2019A&A...631A..45S))  
+
+
 2019-10
 -------
 
-1. [PROSPECTS OF FINDING DETACHED BLACK HOLE─STAR BINARIES WITH TESS](http://adsabs.harvard.edu/abs/2019ApJ...883..169M)  
-Masuda, Kento, Hotokezaka, Kenta    
-2019, refereed ([2019ApJ...883..169M](http://adsabs.harvard.edu/abs/2019ApJ...883..169M))  
-
-2. [THE REVISED TESS INPUT CATALOG AND CANDIDATE TARGET LIST](http://adsabs.harvard.edu/abs/2019AJ....158..138S)  
+1. [THE REVISED TESS INPUT CATALOG AND CANDIDATE TARGET LIST](http://adsabs.harvard.edu/abs/2019AJ....158..138S)  
 Stassun, Keivan G., Oelkers, Ryan J., Paegert, Martin, et al.    
 2019, refereed ([2019AJ....158..138S](http://adsabs.harvard.edu/abs/2019AJ....158..138S))  
 
-3. [DISCOVERY AND EARLY EVOLUTION OF ASASSN-19BT, THE FIRST TDE DETECTED BY TESS](http://adsabs.harvard.edu/abs/2019ApJ...883..111H)  
+2. [DISCOVERY AND EARLY EVOLUTION OF ASASSN-19BT, THE FIRST TDE DETECTED BY TESS](http://adsabs.harvard.edu/abs/2019ApJ...883..111H)  
 Holoien, Thomas W. -S., Vallely, Patrick J., Auchettl, Katie, et al.    
 2019, refereed ([2019ApJ...883..111H](http://adsabs.harvard.edu/abs/2019ApJ...883..111H))  
+
+3. [PROSPECTS OF FINDING DETACHED BLACK HOLE─STAR BINARIES WITH TESS](http://adsabs.harvard.edu/abs/2019ApJ...883..169M)  
+Masuda, Kento, Hotokezaka, Kenta    
+2019, refereed ([2019ApJ...883..169M](http://adsabs.harvard.edu/abs/2019ApJ...883..169M))  
 
 4. [PLANETESIMALS AROUND STARS WITH TESS (PAST) - I. TRANSIENT DIMMING OF A BINARY SOLAR ANALOGUE AT THE END OF THE PLANET ACCRETION ERA](http://adsabs.harvard.edu/abs/2019MNRAS.488.4465G)  
 Gaidos, E., Jacobs, T., LaCourse, D., et al.    
@@ -31,13 +43,37 @@ Higuchi, Yuichi, Inoue, Kaiki Taro
 Doyle, L., Ramsay, G., Doyle, J. G., et al.    
 2019, refereed ([2019MNRAS.489..437D](http://adsabs.harvard.edu/abs/2019MNRAS.489..437D))  
 
-7. [ROTATIONAL AND PULSATIONAL VARIABILITY IN THE TESS LIGHT CURVE OF HD27463](http://adsabs.harvard.edu/abs/2019arXiv191000512K)  
+7. [THE FIRST VIEW OF Δ SCUTI AND Γ DORADUS STARS WITH THE TESS MISSION](http://adsabs.harvard.edu/abs/2019MNRAS.tmp.2389A)  
+Antoci, V., Cunha, M. S., Bowman, D. M., et al.    
+2019, refereed ([2019MNRAS.tmp.2389A](http://adsabs.harvard.edu/abs/2019MNRAS.tmp.2389A))  
+
+8. [MOBSTER - III. HD 62658: A MAGNETIC BP STAR IN AN ECLIPSING BINARY WITH A NON-MAGNETIC `IDENTICAL TWIN'](http://adsabs.harvard.edu/abs/2019MNRAS.tmp.2460S)  
+Shultz, M. E., Johnston, C., Labadie-Bartz, J., et al.    
+2019, refereed ([2019MNRAS.tmp.2460S](http://adsabs.harvard.edu/abs/2019MNRAS.tmp.2460S))  
+
+9. [ROTATIONAL AND PULSATIONAL VARIABILITY IN THE TESS LIGHT CURVE OF HD27463](http://adsabs.harvard.edu/abs/2019arXiv191000512K)  
 Khalack, V., Lovekin, C., Bowman, D. M., et al.    
 2019, not refereed ([2019arXiv191000512K](http://adsabs.harvard.edu/abs/2019arXiv191000512K))  
 
-8. [MOBSTER -- III. HD 62658: A MAGNETIC BP STAR IN AN ECLIPSING BINARY WITH A NON-MAGNETIC 'IDENTICAL TWIN'](http://adsabs.harvard.edu/abs/2019arXiv191002928S)  
-Shultz, M. E., Johnston, C., Labadie-Bartz, J., et al.    
-2019, not refereed ([2019arXiv191002928S](http://adsabs.harvard.edu/abs/2019arXiv191002928S))  
+10. [A PSF-BASED APPROACH TO TESS HIGH QUALITY DATA OF STELLAR CLUSTERS (PATHOS) -- I. SEARCH FOR EXOPLANETS AND VARIABLE STARS IN THE FIELD OF 47 TUC](http://adsabs.harvard.edu/abs/2019arXiv191003592N)  
+Nardiello, D., Borsato, L., Piotto, G., et al.    
+2019, not refereed ([2019arXiv191003592N](http://adsabs.harvard.edu/abs/2019arXiv191003592N))  
+
+11. [TESS FIRST LOOK AT EVOLVED COMPACT PULSATORS: ASTEROSEISMOLOGY OF THE PULSATING HELIUM-ATMOSPHERE WHITE DWARF TIC 257459955](http://adsabs.harvard.edu/abs/2019arXiv191004180B)  
+Bell, Keaton J., Córsico, Alejandro H., Bischoff-Kim, Agnès, et al.    
+2019, not refereed ([2019arXiv191004180B](http://adsabs.harvard.edu/abs/2019arXiv191004180B))  
+
+12. [TESS FIRST LOOK AT EVOLVED COMPACT PULSATORS : DISCOVERY AND ASTEROSEISMIC PROBING OF THE G-MODE HOT B SUBDWARF PULSATOR EC 21494-7018](http://adsabs.harvard.edu/abs/2019arXiv191004234C)  
+Charpinet, S., Brassard, P., Fontaine, G., et al.    
+2019, not refereed ([2019arXiv191004234C](http://adsabs.harvard.edu/abs/2019arXiv191004234C))  
+
+13. [AN EXTREME-MASS RATIO, SHORT-PERIOD ECLIPSING BINARY CONSISTING OF A B DWARF PRIMARY AND A PRE-MAIN SEQUENCE M STAR COMPANION DISCOVERED BY KELT](http://adsabs.harvard.edu/abs/2019arXiv191006212S)  
+Stevens, Daniel J., Zhou, George, Johnson, Marshall C., et al.    
+2019, not refereed ([2019arXiv191006212S](http://adsabs.harvard.edu/abs/2019arXiv191006212S))  
+
+14. [A TESS SEARCH FOR DISTANT SOLAR SYSTEM PLANETS: A FEASIBILITY STUDY](http://adsabs.harvard.edu/abs/2019arXiv191006383H)  
+Holman, Matthew J., Payne, Matthew J., Pál, András    
+2019, not refereed ([2019arXiv191006383H](http://adsabs.harvard.edu/abs/2019arXiv191006383H))  
 
 
 2019-09
@@ -51,37 +87,21 @@ Bowman, Dominic M., Johnston, Cole, Tkachenko, Andrew, et al.
 Court, J. M. C., Scaringi, S., Rappaport, S., et al.    
 2019, refereed ([2019MNRAS.488.4149C](http://adsabs.harvard.edu/abs/2019MNRAS.488.4149C))  
 
-3. [HD 42659: THE ONLY KNOWN ROAP STAR IN A SPECTROSCOPIC BINARY OBSERVED WITH B PHOTOMETRY, TESS AND SALT★](http://adsabs.harvard.edu/abs/2019MNRAS.tmp.2088H)  
-Holdsworth, Daniel L., Saio, Hideyuki, Kurtz, Donald W.    
-2019, refereed ([2019MNRAS.tmp.2088H](http://adsabs.harvard.edu/abs/2019MNRAS.tmp.2088H))  
-
-4. [AN EXTREME AMPLITUDE, MASSIVE HEARTBEAT SYSTEM IN THE LMC CHARACTERIZED USING ASAS-SN AND TESS](http://adsabs.harvard.edu/abs/2019MNRAS.tmp.2120J)  
-Jayasinghe, T., Stanek, K. Z., Kochanek, C. S., et al.    
-2019, refereed ([2019MNRAS.tmp.2120J](http://adsabs.harvard.edu/abs/2019MNRAS.tmp.2120J))  
-
-5. [ELEANOR: AN OPEN-SOURCE TOOL FOR EXTRACTING LIGHT CURVES FROM THE TESS FULL-FRAME IMAGES](http://adsabs.harvard.edu/abs/2019PASP..131i4502F)  
+3. [ELEANOR: AN OPEN-SOURCE TOOL FOR EXTRACTING LIGHT CURVES FROM THE TESS FULL-FRAME IMAGES](http://adsabs.harvard.edu/abs/2019PASP..131i4502F)  
 Feinstein, Adina D., Montet, Benjamin T., Foreman-Mackey, Daniel, et al.    
 2019, refereed ([2019PASP..131i4502F](http://adsabs.harvard.edu/abs/2019PASP..131i4502F))  
 
-6. [MULTI-WAVELENGTH VARIABILITY OF THE YOUNG SOLAR ANALOG IOTA HOR. X-RAY CYCLE, STAR SPOTS, FLARES, AND UV EMISSION](http://adsabs.harvard.edu/abs/2019arXiv190901320S)  
-Sanz-Forcada, J., Stelzer, B., Coffaro, M., et al.    
-2019, not refereed ([2019arXiv190901320S](http://adsabs.harvard.edu/abs/2019arXiv190901320S))  
-
-7. [TESS ASTEROSEISMOLOGY OF THE KNOWN RED-GIANT HOST STARS HD 212771 AND HD 203949](http://adsabs.harvard.edu/abs/2019arXiv190905961C)  
+4. [TESS ASTEROSEISMOLOGY OF THE KNOWN RED-GIANT HOST STARS HD 212771 AND HD 203949](http://adsabs.harvard.edu/abs/2019arXiv190905961C)  
 Campante, Tiago L., Corsaro, Enrico, Lund, Mikkel N., et al.    
 2019, not refereed ([2019arXiv190905961C](http://adsabs.harvard.edu/abs/2019arXiv190905961C))  
 
-8. [TOI-503: THE FIRST KNOWN BROWN DWARF-AM STAR BINARY FROM THE TESS MISSION](http://adsabs.harvard.edu/abs/2019arXiv190907984S)  
+5. [TOI-503: THE FIRST KNOWN BROWN DWARF-AM STAR BINARY FROM THE TESS MISSION](http://adsabs.harvard.edu/abs/2019arXiv190907984S)  
 Šubjak, Ján, Sharma, Rishikesh, Carmichael, Theron W., et al.    
 2019, not refereed ([2019arXiv190907984S](http://adsabs.harvard.edu/abs/2019arXiv190907984S))  
 
-9. [THE NEW EXOR OUTBURST OF ESO-H-ALPHA~99 OBSERVED BY GAIA ATLAS AND TESS](http://adsabs.harvard.edu/abs/2019arXiv190910636H)  
+6. [THE NEW EXOR OUTBURST OF ESO-H-ALPHA~99 OBSERVED BY GAIA ATLAS AND TESS](http://adsabs.harvard.edu/abs/2019arXiv190910636H)  
 Hodapp, Klaus W., Reipurth, Bo, Pettersson, Bertil, et al.    
 2019, not refereed ([2019arXiv190910636H](http://adsabs.harvard.edu/abs/2019arXiv190910636H))  
-
-10. [THE FIRST VIEW OF $\DELTA$ SCUTI AND $\GAMMA$ DORADUS STARS WITH THE TESS MISSION](http://adsabs.harvard.edu/abs/2019arXiv190912018A)  
-Antoci, V., Cunha, M. S., Bowman, D. M., et al.    
-2019, not refereed ([2019arXiv190912018A](http://adsabs.harvard.edu/abs/2019arXiv190912018A))  
 
 
 2019-08
