@@ -1,10 +1,11 @@
 Title: TESS Director's Discretionary Target (DDT) program
 Save_as: ddt.html
 
+<!-- PAGE NOT USED, DDT info at bottom of proposing investigations
+ -->
 
-The DDT and out-of-cycle Target of Opportunity processes for TESS will draw heavily on those used successfully for the NuStar Explorer mission. Requests and targets will be submitted through a form on the MIT TESS website. The requests will be reviewed by the TESS PI, a science expert selected by the TESS PI, and the TESS operations team. Approved targets will be posted on the MIT TESS website, along with the expected time(s) of observation.  There is no proprietary period for approved DDT observations. Data from a DDT observation will be delivered to the TESS archives concurrently with the non-DDT data from the sector in which the DDT is observed.
+<!-- The [DDT and out-of-cycle Target of Opportunity](https://tess.mit.edu/science/ddt/) processes for TESS will draw heavily on those used successfully for the NuStar Explorer mission. Requests and targets will be submitted through a form on the [MIT TESS website](https://tess.mit.edu/science/ddt/). The requests will be reviewed by the TESS PI, a science expert selected by the TESS PI, and the TESS operations team. Approved targets will be posted on the MIT TESS website, along with the expected time(s) of observation.  There is no proprietary period for approved DDT observations. Data from a DDT observation will be delivered to the TESS archives concurrently with the non-DDT data from the sector in which the DDT is observed. -->
  
-For Year 1 (Sectors 1-13) of the TESS survey, there will be 20,000 DDT targets allocated for 2 minute data. For the first three observation sectors (Sectors 1-3), there can be up to 1500 DDT targets awarded per sector, depending upon the realized in-flight data compression. 
 
 
 

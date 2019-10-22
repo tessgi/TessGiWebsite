@@ -3,23 +3,43 @@ Save_as: proposing-investigations.html
 
 [TOC]
 
-The TESS Guest Investigator (GI) program is intended to enable the community to participate in science investigations using TESS, outside of the [core mission science goals](primary-science.html). The program enables teams to propose the collection of new 2-minute cadence targets, and provides funding to US investigators to analyze 2-minute cadence and full-frame image (FFI) data.
+The TESS Guest Investigator (GI) program is intended to enable the community to participate in science investigations using TESS. The program enables teams to propose the collection of new 2-minute and 20-second cadence targets, and provides funding to US investigators to analyze 2-minute and 20-second cadence and full-frame image (FFI) data.
 
-The TESS primary mission duration is two years. The first year will be spent in the southern ecliptic hemisphere and corresponds to TESS Guest Investigator Program Cycle 1; the second year will observe the northern ecliptic hemisphere and corresponds to Cycle 2. During the primary mission, the majority of the 2-minute cadence targets observed will be taken from the [TESS Candidate Target list (CTL)](#candidate-target-list-ctl). Around 20,000 2-minute cadence target slots will be assigned to the Guest Investigator Program during the 2-year prime mission.
+The TESS primary mission duration was two years. The first year was be spent in the southern ecliptic hemisphere and corresponded to TESS Guest Investigator Program Cycle 1; the second year observed the northern ecliptic hemisphere and corresponded to Cycle 2. During the primary mission, the majority of the 2-minute cadence targets observed were be taken from the [TESS Candidate Target list (CTL)](#candidate-target-list-ctl). Around 20,000 2-minute cadence target slots were be assigned to the Guest Investigator Program during the 2-year prime mission.
 
-There will be no exclusive-use data rights to observations collected by TESS. All data will be made available through the [MAST public archive](http://archive.stsci.edu/tess/summary.html) once data processing and validation is complete. 
+Cycle 3 is the corresponds to the third year of TESS science, and is the first year of the TESS extended mission. There is no primary mission science during the TESS extended mission, scientific investigations are primarily supported by the TESS Guest Investigator Program.
 
-**The deadline for Cycle 2 has now passed. Stay tuned for information about Cycle 3.** 
+The Guest Investigator Program sees significant changes in the extended mission. Highlights include:
+* A new 20-second cadence mode will potentially be available. Once
+commissioned, approximately 1,000 target slots per sector will be
+available in this mode. Guest Investigator (GI) observations in this
+mode will be collected at "shared risk";
+* A 10-fold increase in the number of 2-minute cadence targets is
+available to the GI program. More than 15,000 target slots will be
+available in each sector; a total of approximately 200,000 target
+slots are available in Cycle 3, facilitating very large GI programs;
+* The full-frame image cadence is planned to be reduced from 30
+minutes to 10 minutes. This change in cadence will be considered
+a "shared risk";
+* A new Key Project proposal category is available. These programs
+have a maximum duration of 27 months;
+* Ground-based observing focused programs are solicited provided
+they support the analysis and/or interpretation of TESS data;
+* Large programs and Key Projects have a 5-page limit for the
+scientific/technical/management section;
+* References are not included in the page limits;
+* Up to 100 ks of Swift time will be available for joint TESS-Swift proposals;
+* Starting in Cycle 3, proposals aimed at detecting small planets in
+2-minute cadence data are solicited.
+
+There is no exclusive-use data rights to observations collected by TESS. All data will be made available through the [MAST public archive](http://archive.stsci.edu/tess/summary.html) once data processing and validation is complete. 
+
+**The deadline for Cycle 3 proposals is January 16, 2020 at 4.30pm** 
 
 
 ### Permitted science areas
 
-We welcome proposals addressing compelling scientific questions 
-in almost any area of astrophysics and planetary science
-provided the required observations are amenable 
-to the operational characteristics and constraints of the mission. The science motivation may include, but is not limited to, 
-exoplanet characterization, stellar astrophysics, 
-galactic and extragalactic astrophysics, and solar system science. 
+We welcome proposals addressing compelling scientific questions in almost any area of astrophysics and planetary science provided the required observations are amenable to the operational characteristics and constraints of the mission. The science motivation may include, but is not limited to, exoplanet characterization, stellar astrophysics, galactic and extragalactic astrophysics, and solar system science. 
 
 The primary purpose of the TESS Guest Investigator Program is to enhance and maximize the science return from TESS. The program facilitates and supports both 2-minute cadence observations with TESS and research undertaken with the FFIs. Any area of astrophysics may be proposed. However, proposals to detect planet transits within the 2-minute cadence data of the one hundred thousand (100,000) top-prioritized [Candidate Target List](observing-technical.html#candidate-target-list) targets (for each hemisphere and GI Cycle) are not solicited, and will be considered non-compliant. No restrictions are imposed on science using the full-frame image data. Proposals for exoplanet detection and characterization using full frame image data are encouraged. 
 To aid in proposal preparation, we have made a [comma-separated variable file available](data/core-science-targets-cycle2-v1.csv) that contains this list of top-prioritized targets.
@@ -449,5 +469,6 @@ Due to the observing strategy of the TESS mission, GI proposers should be aware 
 
 
 ### Director's Discretionary Targets
+The DDT and out-of-cycle Target of Opportunity processes for TESS will draw heavily on those used successfully for the NuStar Explorer mission. Requests and targets will be submitted through a form on the [MIT TESS website](https://tess.mit.edu/science/ddt/). The requests will be reviewed by the TESS PI, a science expert selected by the TESS PI, and the TESS operations team. Approved targets will be posted on the MIT TESS website, along with the expected time(s) of observation.  There is no proprietary period for approved DDT observations. Data from a DDT observation will be delivered to the TESS archives concurrently with the non-DDT data from the sector in which the DDT is observed.
 
 A number of targets per sector have been reserved for targets which are not covered in the exoplanet, asteroseismology, or GI target lists, yet may warrant inclusion as targets. Proposals for DDT targets can be submitted through MIT's [DDT program page](https://tess.mit.edu/science/ddt/).

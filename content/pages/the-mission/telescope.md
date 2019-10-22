@@ -3,7 +3,7 @@ Save_as: the-tess-space-telescope.html
 
 [TOC]
 
-The TESS observatory consists of the spacecraft and the payload. The TESS payload has a single instrument, a camera suite composed of 4 wide field-of-view optical cameras and their associated hoods, mount, sun shield, and Data Handling Unit (DHU). The payload is coupled to the spacecraft, an Orbital Sciences LEOStar-2/750 satellite bus. The spacecraft provides power (via two deployable solar arrays), attitude control, data storage, and communications/transmission. 
+The TESS observatory consists of the spacecraft and the payload. The TESS payload has a single instrument, a camera suite composed of 4 wide field-of-view optical cameras and their associated hoods, mount, sun shield, and Data Handling Unit (DHU). The payload is coupled to the spacecraft, an NGIS LEOStar-2/750 satellite bus. The spacecraft provides power (via two deployable solar arrays), attitude control, data storage, and communications/transmission. 
 
 
 <br/>
@@ -43,7 +43,7 @@ The detector assembly in each camera consists of a focal plane CCD array and ass
 *TESS CCD mosaic in mounting bracket (left). TESS CCD mosaic and focal plane electronics with frame store regions covered (right). Image credit: MIT*
 
 ### Data Handling Unit
-The TESS Data Handling Unit (DHU) provides the hardware, software, and firmware for camera control, on-board data processing, data storage, spacecraft avionics, and ground communications. The DHU is manufactured by SEAKR Engineering, Inc. and consists of an Athena-3 Single Board Computer, an RCC5 module, an FMC-Gen3 192 gigabyte solid state recorder (SSR), a low voltage power supply, and other ancillary components. During science operations, the four TESS cameras produce a continuous stream of images with an exposure time of 2 s. The DHU performs real time processing on these data to convert raw CCD images into data products responsible for ground postprocessing. This includes cosmic ray mitigation and collecting pixel sub-arrays for 2 min cadence targets and image stacks for the 30 min FFIs. The DHU also calculates photometric centroids from around 200 photometric guide stars from each 2 s image from each camera. These data are used to calculate offset quaternions for fine attitude pointing control by the Master Avionics Unit (MAU). Data downlink via the Ka-band antenna is also controlled by the DHU. Data stored on the SSR are downlinked every 13.7 days at orbit perigee.
+The TESS Data Handling Unit (DHU) provides the hardware, software, and firmware for camera control, on-board data processing, data storage, spacecraft avionics, and ground communications. The DHU is manufactured by SEAKR Engineering, Inc. and consists of an Athena-3 Single Board Computer, an RCC5 module, an FMC-Gen3 192 gigabyte solid state recorder (SSR), a low voltage power supply, and other ancillary components. During science operations, the four TESS cameras produce a continuous stream of images with an exposure time of 2 s. The DHU performs real time processing on these data to convert raw CCD images into data products responsible for ground postprocessing. This includes cosmic ray mitigation and collecting pixel sub-arrays for postage stamp targets and image stacks for the FFIs. The DHU also calculates photometric centroids from around 200 photometric guide stars from each 2 s image from each camera. These data are used to calculate offset quaternions for fine attitude pointing control by the Master Avionics Unit (MAU). Data downlink via the Ka-band antenna is also controlled by the DHU. Data stored on the SSR are downlinked every 13.7 days at orbit perigee.
 
 
 ### Summary specifications
@@ -74,13 +74,13 @@ The short wavelength end is set by a long-pass filter coating on one of the came
 
 
 ## Spacecraft
-The cameras are mounted to an Orbital LEOStar-2/750 bus. The TESS spacecraft power is supplied by two deployable solar array wings that are capable of providing 415 W of total power. The estimated requirement of the observatory is 290 W. The bus is equipped with a Ka-band transmitter coupled to an 0.7m body-fixed high-gain antenna. The transmitter operates on 2 W of power and transfers data at a rate of 100 Mb/s, sufficient to downlink science data during 4-h intervals at each orbit perigee. Spacecraft attitude is controlled through a zero-momentum attitude control system with a three-axis hydrazine monopropellent propulsion system and 2 star trackers. Observatory fine-pointing is achieved through four reaction wheels and high-precision quaternions produced by the science cameras.
+The cameras are mounted to an NGIS LEOStar-2/750 bus. The TESS spacecraft power is supplied by two deployable solar array wings that are capable of providing 415 W of total power. The estimated requirement of the observatory is 290 W. The bus is equipped with a Ka-band transmitter coupled to an 0.7m body-fixed high-gain antenna. The transmitter operates on 2 W of power and transfers data at a rate of at 100 Mb/s, sufficient to downlink science data during 4-h intervals at each orbit perigee. Spacecraft attitude is controlled through a zero-momentum attitude control system with a three-axis hydrazine monopropellent propulsion system and 2 star trackers. Observatory fine-pointing is achieved through four reaction wheels and high-precision quaternions produced by the science cameras.
 
-The spacecraft was built by Orbital Sciences Corporation in Dulles, VA, where the Mission Operations Center (MOC) is located.
+The spacecraft was built by Northrop Grumman Innovation Systems in Dulles, VA, where the Mission Operations Center (MOC) is located.
 
 <br/>
 <img class="img-responsive" style="max-width:67%;" src="images/mission/spacecraft_orbital.png">
 <br/>
-*Image Credit: Orbital Sciences Corporation*
+*Image Credit: Northrop Grumman Innovation Systems*
 
 
