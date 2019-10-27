@@ -29,4 +29,4 @@ scientific/technical/management section;
 * Starting in Cycle 3, proposals aimed at detecting small planets in
 2-minute cadence data are solicited.
 
-The proposal are due on January 16, 2020 at 4.30pm EST.
+The proposals are due on January 16, 2020 at 4.30pm EST.
