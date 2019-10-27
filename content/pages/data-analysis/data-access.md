@@ -136,7 +136,7 @@ Kepler data:
 A variety of data products from TESS will be archived at MAST for use by the community. 
 
 ### Full frame images (FFIs)
-A Full Frame Image (FFI) is a collection of science and [collateral](#collateral-data) pixels observed simultaneously.  A single FFI is the full set of all science and collateral pixels across all CCDs of a given camera.  FFIs will be taken every 30 minutes during science operations.
+A Full Frame Image (FFI) is a collection of science and [collateral](#collateral-data) pixels observed simultaneously.  A single FFI is the full set of all science and collateral pixels across all CCDs of a given camera.  FFIs are be taken every 30 minutes during science operations in the primary mission. Beginning in Cycle 3, FFIs will be taken with a cadence of 10 minutes.
 
 There are 16 CCDs on the spacecraft, each of which is supported by 4 output channels. TESS FFI files are in FITS format and contain all pixels on a single CCD for a single 30 minute cadence observation. FFI data will be provided in three types: uncalibrated, calibrated, and uncertainty. Uncalibrated FFI data will be provided in one file with two Header/Data Units (HDUs): a primary header and the CCD image header and data. The calibrated image and its uncertainty will be provided in a separate file with several HDUs: a primary header, the CCD calibrated image header and data, the CCD uncertainty image header and data, and the cosmic ray corrections binary table header and data. Cosmic Ray Mitigated (CRM) FFIs are the same as FFIs except they will be collected with the onboard cosmic ray mitigation enabled. 
 
