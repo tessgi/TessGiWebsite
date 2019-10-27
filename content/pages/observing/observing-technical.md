@@ -141,7 +141,7 @@ However, for Sectors 14 and 15, scattered light from the Earth and Moon is a sig
 
 When the cameras are shifted north, the northern ecliptic pole is located 7° from the center of camera 3, and the southernmost edge of Camera 1 is at an ecliptic latitude of ~37°.  In addition, with this shift, the fields-of-view of Cameras 3 and 4 observe “on the other side of the pole”, thereby providing additional observations of parts of the sky that would otherwise only be observed in Sectors 20-22.
 
-Scattered light from the Earth and Moon is also expected to be a problem in Sectors 25 and 26 and, to a lesser extent, in Sectors 16 and 24.  The scattered light performance in Sectors 14 and 15 has been reviewed, and it was decided that Sector 16 would also have its pointing shifted north. There has been no official decision for Sectors 24, 25, or 26 yet.
+Scattered light from the Earth and Moon is also expected to be a problem in Sectors 25 and 26 and, to a lesser extent, in Sectors 16 and 24.  The scattered light performance in Sectors 14 and 15 has been reviewed, and it was decided that Sector 16 would also have its pointing shifted north. 
 
 The sky coverage maps for Sectors 1-21 are given below in the ecliptic and celestial coordinate systems and show the shifted fields for Sectors 14, 15, and 16. 
 

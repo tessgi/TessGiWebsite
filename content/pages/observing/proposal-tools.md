@@ -192,8 +192,8 @@ To aid in proposal preparation we have [made a csv file available](data/core-sci
 ## Proposal templates
 We have made available proposal templates to aid users in writing GI proposals. Use of these templates is not required. 
 
-* [MS Word](docs/tessgi_template_cycle2.docx)
-* [Latex](docs/tessgi_template_cycle2.tex)
-* [PDF](docs/tessgi_template_cycle2.pdf)
+* [MS Word](docs/tessgi_template_cycle3.docx)
+* [Latex](docs/tessgi_template_cycle3.tex)
+* [PDF](docs/tessgi_template_cycle3.pdf)
 
 
