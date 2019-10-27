@@ -142,9 +142,8 @@ The PI of a Phase-1 proposal does not need to be the same as the Phase-2 budget 
 
 ## Target selection
 
-The TESS Input Catalog (TIC) is a catalog of approximately half a billion objects generated to assist in planning and executing observations and data reduction. The TIC includes detailed information about the characteristics of more than 2 million stars that have been identified as potential targets for the TESS Planet Search. The TIC also includes basic information for optically luminous persistent astronomical objects that may influence the photometry of TESS targets. 
+The TESS Input Catalog (TIC) is a catalog of approximately half a billion objects generated to assist in planning and executing observations and data reduction. The TIC includes detailed information about the characteristics of more than 2 million stars that have been identified as potential targets for the TESS Planet Search. The TIC also includes basic information for optically luminous persistent astronomical objects that may influence the photometry of TESS targets. The TIC can be queried on the [MAST website](https://archive.stsci.edu/tess/).
 
-The Candidate Target List (CTL) is a subset of TIC objects isolated to select the >200,000 targets for 2 min cadence observations in service of the mission's primary science requirements. 
 
 ### TESS Input Catalog (TIC)
 
@@ -157,16 +156,6 @@ The TIC was assembled based on the Gaia DR2 catalog, and augmented with data fro
 <img class="img-responsive" style="max-width:90%;" src="images/giprogram/tic8_overview_figure2.png">
 *Overview of the photometric catalogs used to construct the TESS Input Catalog (TIC). Yellow arrows depict the order that catalogs are cross-matched and/or merged. The final TIC (TIC-8 as of 2019-06-01) is represented by the green box at the upper right. Image Credit: [Stassun et al. 2019](https://ui.adsabs.harvard.edu/abs/2019arXiv190510694S/abstract).*
 <br/>
-
-### Candidate Target List (CTL)
-A subset of TIC objects was isolated to select the >200,000 targets for TESS 2-minute cadence observations in service of the mission's primary science requirements. This list is known as the Candidate Target List (CTL). The CTL is composed primarily of all TIC-8 stars with T<13 and estimated stellar radii smaller than 5 solar radii.  Additionally, it includes stars from the Cool Dwarf Catalog, which is built to include all relatively bright late-type dwarf stars. The resulting list is ranked by priority; a function of sky position, stellar radius, brightness, and contamination, to provide a list of the ~9.5 million top ranked stars. The CTL currently contains both dwarf and subgiant stars (giants have been removed).
-
-A complete description of the input and methods used to construct the TIC and CTL are provided in the TIC papers prepared by the TSWG team ([Stassun et al. 2017](http://adsabs.harvard.edu/abs/2017arXiv170600495S) and [Stassun et al. 2019](https://ui.adsabs.harvard.edu/abs/2019arXiv190510694S/abstract)). The current full versions of the TIC and CTL are hosted publicly at the Mikulski Archive for Space Telescopes (MAST; available [here](https://archive.stsci.edu/tess/)). This includes access via the [MAST portal](https://mast.stsci.edu/portal/Mashup/Clients/Mast/Portal.html) and via [bulk downloads](https://archive.stsci.edu/tess/tic_ctl.html). A high priority subset of the CTL is available via the Filtergraph data visualization system (available [here](http://filtergraph.vanderbilt.edu/tess_ctl)).
-<!--Subsequent versions of the TIC and CTL containing additional data (e.g. Gaia) will be generated and made available over time.-->
-
-Guest Investigators must include the TIC identification number when selecting targets if there is an entry in the TIC. For targets not in the TIC, GIs must provide the coordinates of the source and a TESS magnitude. Software for estimating TESS magnitudes is available [here](proposal-tools.html#ticgen). 
-
-<!--The latest version of the TIC is [available from the MAST](http://archive.stsci.edu/tess/all_products.html) and described further in the [Data Access](data-access.html) page. Documentation for the TIC can be found on [arXiv](https://arxiv.org/abs/1706.00495). There will be several deliveries of preliminary versions of the TIC prior to launch to allow testing. A formal delivery of the TIC will occur a few months before launch. -->
 
 ### Core science targets
 During Cycle 3 there are no reserved targets or restricted science areas.
