@@ -170,7 +170,6 @@ The data from each sector are required to be available at the MAST no later than
     <td>2019&nbsp;Mar&nbsp;26</td>
     <td>2019&nbsp;Apr&nbsp;22</td>
     <td><a href='data/target_lists/sector010_targets_lists/GI_S010.csv'>Download</a></td>
-
     <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a>
     </td>
   </tr>
@@ -182,7 +181,6 @@ The data from each sector are required to be available at the MAST no later than
     <td>2019&nbsp;Apr&nbsp;22</td>
     <td>2019&nbsp;May&nbsp;21</td>
     <td><a href='data/target_lists/sector011_targets_lists/GI_S011.csv'>Download</a></td>
-
     <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a>
     </td>
   </tr>
@@ -194,7 +192,6 @@ The data from each sector are required to be available at the MAST no later than
     <td>2019&nbsp;May&nbsp;21</td>
     <td>2019&nbsp;Jun&nbsp;19</td>
     <td><a href='data/target_lists/sector012_targets_lists/GI_S012.csv'>Download</a></td>
-
     <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a>
     </td>
   </tr>
@@ -206,7 +203,6 @@ The data from each sector are required to be available at the MAST no later than
     <td>2019&nbsp;Jun&nbsp;19</td>
     <td>2019&nbsp;Jul&nbsp;18</td>
     <td><a href='data/target_lists/sector013_targets_lists/GI_S013.csv'>Download</a></td>
-
     <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a>
     </td>
   </tr>
@@ -217,7 +213,6 @@ The data from each sector are required to be available at the MAST no later than
     <td>2019&nbsp;Jul&nbsp;18</td>
     <td>2019&nbsp;Aug&nbsp;15</td>
     <td><a href='data/target_lists/sector014_targets_lists/GI_S014.csv'>Download</a></td>
-
     <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a>. Pointing shifted toward the North ecliptic pole by 31 degrees (<a
     href=observing-technical.html>see the technical details page for more information</a>).
     </td>
@@ -230,8 +225,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>2019&nbsp;Aug&nbsp;15</td>
     <td>2019&nbsp;Sep&nbsp;11</td>
     <td><a href='data/target_lists/sector015_targets_lists/GI_S015.csv'>Download</a></td>
-
-    <td style="min-width: 12em;">Data downlinked. Pointing shifted toward the North ecliptic pole by 31 degrees (<a
+    <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a>. Pointing shifted toward the North ecliptic pole by 31 degrees (<a
     href=observing-technical.html>see the technical details page for more information</a>).
     </td>
   </tr>
@@ -243,7 +237,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>2019&nbsp;Oct&nbsp;07</td>
     <td><a href='data/target_lists/sector016_targets_lists/GI_S016.csv'>Download</a></td>
     <td style="min-width: 12em;">
-    Pointing shifted toward the North ecliptic pole by 31 degrees (<a
+    <a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a>. Pointing shifted toward the North ecliptic pole by 31 degrees (<a
     href=observing-technical.html>see the technical details page for more information</a>).
     </td>
   </tr>
@@ -339,8 +333,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>2020&nbsp;May&nbsp;13</td>
     <td></td>
 
-    <td style="min-width: 12em;">Pointing shifted toward the North ecliptic pole
-
+    <td style="min-width: 12em;">
     </td>
   </tr>
 
