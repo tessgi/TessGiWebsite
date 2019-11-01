@@ -57,6 +57,9 @@ The data from each sector are required to be available at the MAST no later than
     </tr>
   </thead>
  <tr>
+  <td colspan="6">TESS GI Cycle 3</td>
+ </tr>
+ <tr>
     <td><a href="#s039">s039</a></td>
     <td>South</td>
     <td>2021&nbsp;May&nbsp;26</td>
@@ -181,18 +184,21 @@ The data from each sector are required to be available at the MAST no later than
     <td>South</td>
     <td>2020&nbsp;Jul&nbsp;04</td>
     <td>2020&nbsp;Jul&nbsp;30</td>
-    <td>First TESS extended mission field, Cycle 3 begins</td>
+    <td></td>
     <td style="min-width: 12em;">
+      First TESS extended mission field, Cycle 3 begins
     </td>
   </tr>
-
+ <tr>
+  <td colspan="6">TESS GI Cycle 2</td>
+ </tr>
   <tr>
     <td><a href="#s026">s026</a></td>
     <td>North</td>
     <td>2020&nbsp;Jun&nbsp;08</td>
     <td>2020&nbsp;Jul&nbsp;04</td>
     <td></td>
-    <td style="min-width: 12em;">Pointing shifted toward the North ecliptic pole
+    <td style="min-width: 12em;">Pointing shifted toward the North ecliptic pole.
     </td>
   </tr>
 
@@ -319,6 +325,10 @@ The data from each sector are required to be available at the MAST no later than
     href=observing-technical.html>see the technical details page for more information</a>).
     </td>
   </tr>
+
+ <tr>
+  <td colspan="6">TESS GI Cycle 1</td>
+ </tr>
 
   <tr>
     <td><a href="#s013">s013</a></td>
