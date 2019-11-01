@@ -56,177 +56,233 @@ The data from each sector are required to be available at the MAST no later than
       <th style="vertical-align: middle;">Comments</th>
     </tr>
   </thead>
-
-  <tr>
-    <td><a href="#s001">s001</a></td>
+ <tr>
+    <td><a href="#s039">s039</a></td>
     <td>South</td>
-    <td>2018&nbsp;Jul&nbsp;25</td>
-    <td>2018&nbsp;Aug&nbsp;22</td>
-    <td><a href='data/target_lists/sector001_targets_lists/GI_S001.csv'>Download</a></td>
-
-    <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a></td>
-  </tr>
-
-
-  <tr>
-    <td><a href="#s002">s002</a></td>
-    <td>South</td>
-    <td>2018&nbsp;Aug&nbsp;22</td>
-    <td>2018&nbsp;Sep&nbsp;20</td>
-    <td><a href='data/target_lists/sector002_targets_lists/GI_S002.csv'>Download</a></td>
-
-    <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a></td>
-  </tr>
-
-
-  <tr>
-    <td><a href="#s003">s003</a></td>
-    <td>South</td>
-    <td>2018&nbsp;Sep&nbsp;20</td>
-    <td>2018&nbsp;Oct&nbsp;18</td>
-    <td><a href='data/target_lists/sector003_targets_lists/GI_S003.csv'>Download</a></td>
-
-    <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a>
-    </td>
-  </tr>
-
-
-  <tr>
-    <td><a href="#s004">s004</a></td>
-    <td>South</td>
-    <td>2018&nbsp;Oct&nbsp;18</td>
-    <td>2018&nbsp;Nov&nbsp;15</td>
-    <td><a href='data/target_lists/sector004_targets_lists/GI_S004.csv'>Download</a></td>
-
-    <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a>
-    </td>
-  </tr>
-
-
-  <tr>
-    <td><a href="#s005">s005</a></td>
-    <td>South</td>
-    <td>2018&nbsp;Nov&nbsp;15</td>
-    <td>2018&nbsp;Dec&nbsp;11</td>
-    <td><a href='data/target_lists/sector005_targets_lists/GI_S005.csv'>Download</a></td>
-
-    <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a>
-    </td>
-  </tr>
-
-
-  <tr>
-    <td><a href="#s006">s006</a></td>
-    <td>South</td>
-    <td>2018&nbsp;Dec&nbsp;15</td>
-    <td>2019&nbsp;Jan&nbsp;07</td>
-    <td><a href='data/target_lists/sector006_targets_lists/GI_S006.csv'>Download</a></td>
-
-    <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a>
-    </td>
-  </tr>
-
-
-  <tr>
-    <td><a href="#s007">s007</a></td>
-    <td>South</td>
-    <td>2019&nbsp;Jan&nbsp;07</td>
-    <td>2019&nbsp;Feb&nbsp;02</td>
-    <td><a href='data/target_lists/sector007_targets_lists/GI_S007.csv'>Download</a></td>
-
-    <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a>
-    </td>
-  </tr>
-
-
-  <tr>
-    <td><a href="#s008">s008</a></td>
-    <td>South</td>
-    <td>2019&nbsp;Feb&nbsp;02</td>
-    <td>2019&nbsp;Feb&nbsp;28</td>
-    <td><a href='data/target_lists/sector008_targets_lists/GI_S008.csv'>Download</a></td>
-
-    <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a>
-
-    </td>
-  </tr>
-
-
-  <tr>
-    <td><a href="#s009">s009</a></td>
-    <td>South</td>
-    <td>2019&nbsp;Feb&nbsp;28</td>
-    <td>2019&nbsp;Mar&nbsp;26</td>
-    <td><a href='data/target_lists/sector009_targets_lists/GI_S009.csv'>Download</a></td>
-
-    <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a>
-    </td>
-  </tr>
-
-
-  <tr>
-    <td><a href="#s010">s010</a></td>
-    <td>South</td>
-    <td>2019&nbsp;Mar&nbsp;26</td>
-    <td>2019&nbsp;Apr&nbsp;22</td>
-    <td><a href='data/target_lists/sector010_targets_lists/GI_S010.csv'>Download</a></td>
-    <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a>
-    </td>
-  </tr>
-
-
-  <tr>
-    <td><a href="#s011">s011</a></td>
-    <td>South</td>
-    <td>2019&nbsp;Apr&nbsp;22</td>
-    <td>2019&nbsp;May&nbsp;21</td>
-    <td><a href='data/target_lists/sector011_targets_lists/GI_S011.csv'>Download</a></td>
-    <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a>
-    </td>
-  </tr>
-
-
-  <tr>
-    <td><a href="#s012">s012</a></td>
-    <td>South</td>
-    <td>2019&nbsp;May&nbsp;21</td>
-    <td>2019&nbsp;Jun&nbsp;19</td>
-    <td><a href='data/target_lists/sector012_targets_lists/GI_S012.csv'>Download</a></td>
-    <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a>
-    </td>
-  </tr>
-
-
-  <tr>
-    <td><a href="#s013">s013</a></td>
-    <td>South</td>
-    <td>2019&nbsp;Jun&nbsp;19</td>
-    <td>2019&nbsp;Jul&nbsp;18</td>
-    <td><a href='data/target_lists/sector013_targets_lists/GI_S013.csv'>Download</a></td>
-    <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a>
+    <td>2021&nbsp;May&nbsp;26</td>
+    <td>2021&nbsp;Jun&nbsp;24</td>
+    <td></td>
+    <td style="min-width: 12em;">
     </td>
   </tr>
 
   <tr>
-    <td><a href="#s014">s014</a></td>
+    <td><a href="#s038">s038</a></td>
+    <td>South</td>
+    <td>2021&nbsp;Apr&nbsp;28</td>
+    <td>2021&nbsp;May&nbsp;26</td>
+    <td></td>
+    <td style="min-width: 12em;">
+    </td>
+  </tr>
+
+  <tr>
+    <td><a href="#s037">s037</a></td>
+    <td>South</td>
+    <td>2021&nbsp;Apr&nbsp;02</td>
+    <td>2021&nbsp;Apr&nbsp;28</td>
+    <td></td>
+    <td style="min-width: 12em;">
+    </td>
+  </tr>
+
+  <tr>
+    <td><a href="#s036">s036</a></td>
+    <td>South</td>
+    <td>2021&nbsp;Mar&nbsp;07</td>
+    <td>2021&nbsp;Apr&nbsp;02</td>
+    <td></td>
+    <td style="min-width: 12em;">
+    </td>
+  </tr>
+
+  <tr>
+    <td><a href="#s035">s035</a></td>
+    <td>South</td>
+    <td>2021&nbsp;Feb&nbsp;09</td>
+    <td>2021&nbsp;Mar&nbsp;07</td>
+    <td></td>
+    <td style="min-width: 12em;">
+    </td>
+  </tr>
+
+  <tr>
+    <td><a href="#s034">s034</a></td>
+    <td>South</td>
+    <td>2021&nbsp;Jan&nbsp;13</td>
+    <td>2021&nbsp;Feb&nbsp;09</td>
+    <td></td>
+    <td style="min-width: 12em;">
+    </td>
+  </tr>
+
+  <tr>
+    <td><a href="#s033">s033</a></td>
+    <td>South</td>
+    <td>2020&nbsp;Dec&nbsp;17</td>
+    <td>2021&nbsp;Jan&nbsp;13</td>
+    <td></td>
+    <td style="min-width: 12em;">
+    </td>
+  </tr>
+
+  <tr>
+    <td><a href="#s032">s032</a></td>
+    <td>South</td>
+    <td>2020&nbsp;Nov&nbsp;19</td>
+    <td>2020&nbsp;Dec&nbsp;17</td>
+    <td></td>
+    <td style="min-width: 12em;">
+    </td>
+  </tr>
+
+  <tr>
+    <td><a href="#s031">s031</a></td>
+    <td>South</td>
+    <td>2020&nbsp;Oct&nbsp;21</td>
+    <td>2020&nbsp;Nov&nbsp;19</td>
+    <td></td>
+    <td style="min-width: 12em;">
+    </td>
+  </tr>
+
+  <tr>
+    <td><a href="#s030">s030</a></td>
+    <td>South</td>
+    <td>2020&nbsp;Sep&nbsp;22</td>
+    <td>2020&nbsp;Oct&nbsp;21</td>
+    <td></td>
+    <td style="min-width: 12em;">
+    </td>
+  </tr>
+
+  <tr>
+    <td><a href="#s029">s029</a></td>
+    <td>South</td>
+    <td>2020&nbsp;Aug&nbsp;26</td>
+    <td>2020&nbsp;Sep&nbsp;22</td>
+    <td></td>
+    <td style="min-width: 12em;">
+    </td>
+  </tr>
+
+  <tr>
+    <td><a href="#s028">s028</a></td>
+    <td>South</td>
+    <td>2020&nbsp;Jul&nbsp;30</td>
+    <td>2020&nbsp;Aug&nbsp;26</td>
+    <td></td>
+    <td style="min-width: 12em;">
+    </td>
+  </tr>
+
+  <tr>
+    <td><a href="#s027">s027</a></td>
+    <td>South</td>
+    <td>2020&nbsp;Jul&nbsp;04</td>
+    <td>2020&nbsp;Jul&nbsp;30</td>
+    <td>First TESS extended mission field, Cycle 3 begins</td>
+    <td style="min-width: 12em;">
+    </td>
+  </tr>
+
+  <tr>
+    <td><a href="#s026">s026</a></td>
     <td>North</td>
-    <td>2019&nbsp;Jul&nbsp;18</td>
-    <td>2019&nbsp;Aug&nbsp;15</td>
-    <td><a href='data/target_lists/sector014_targets_lists/GI_S014.csv'>Download</a></td>
-    <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a>. Pointing shifted toward the North ecliptic pole by 31 degrees (<a
-    href=observing-technical.html>see the technical details page for more information</a>).
+    <td>2020&nbsp;Jun&nbsp;08</td>
+    <td>2020&nbsp;Jul&nbsp;04</td>
+    <td></td>
+    <td style="min-width: 12em;">Pointing shifted toward the North ecliptic pole
     </td>
   </tr>
 
+  <tr>
+    <td><a href="#s025">s025</a></td>
+    <td>North</td>
+    <td>2020&nbsp;May&nbsp;13</td>
+    <td>2020&nbsp;Jun&nbsp;08</td>
+    <td></td>
+    <td style="min-width: 12em;">Pointing shifted toward the North ecliptic pole
+    </td>
+  </tr>
 
   <tr>
-    <td><a href="#s015">s015</a></td>
+    <td><a href="#s024">s024</a></td>
     <td>North</td>
-    <td>2019&nbsp;Aug&nbsp;15</td>
-    <td>2019&nbsp;Sep&nbsp;11</td>
-    <td><a href='data/target_lists/sector015_targets_lists/GI_S015.csv'>Download</a></td>
-    <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a>. Pointing shifted toward the North ecliptic pole by 31 degrees (<a
-    href=observing-technical.html>see the technical details page for more information</a>).
+    <td>2020&nbsp;Apr&nbsp;15</td>
+    <td>2020&nbsp;May&nbsp;13</td>
+    <td></td>
+    <td style="min-width: 12em;">
+    </td>
+  </tr>
+
+  <tr>
+    <td><a href="#s023">s023</a></td>
+    <td>North</td>
+    <td>2020&nbsp;Mar&nbsp;18</td>
+    <td>2020&nbsp;Apr&nbsp;15</td>
+    <td></td>
+    <td style="min-width: 12em;">
+    </td>
+  </tr>
+
+  <tr>
+    <td><a href="#s022">s022</a></td>
+    <td>North</td>
+    <td>2020&nbsp;Feb&nbsp;18</td>
+    <td>2020&nbsp;Mar&nbsp;18</td>
+    <td></td>
+    <td style="min-width: 12em;">
+    </td>
+  </tr>
+
+  <tr>
+    <td><a href="#s021">s021</a></td>
+    <td>North</td>
+    <td>2020&nbsp;Jan&nbsp;21</td>
+    <td>2020&nbsp;Feb&nbsp;18</td>
+    <td></td>
+    <td style="min-width: 12em;">
+    </td>
+  </tr>
+
+  <tr>
+    <td><a href="#s020">s020</a></td>
+    <td>North</td>
+    <td>2019&nbsp;Dec&nbsp;24</td>
+    <td>2020&nbsp;Jan&nbsp;21</td>
+    <td></td>
+    <td style="min-width: 12em;">
+    </td>
+  </tr>
+
+  <tr>
+    <td><a href="#s019">s019</a></td>
+    <td>North</td>
+    <td>2019&nbsp;Nov&nbsp;27</td>
+    <td>2019&nbsp;Dec&nbsp;24</td>
+    <td></td>
+    <td style="min-width: 12em;">
+    </td>
+  </tr>
+
+  <tr>
+    <td><a href="#s018">s018</a></td>
+    <td>North</td>
+    <td>2019&nbsp;Nov&nbsp;02</td>
+    <td>2019&nbsp;Nov&nbsp;27</td>
+    <td></td>
+    <td style="min-width: 12em;">
+    </td>
+  </tr>
+
+  <tr>
+    <td><a href="#s017">s017</a></td>
+    <td>North</td>
+    <td>2019&nbsp;Oct&nbsp;07</td>
+    <td>2019&nbsp;Nov&nbsp;02</td>
+    <td><a href='data/target_lists/sector017_targets_lists/GI_S017.csv'>Download</a></td>
+    <td style="min-width: 12em;">
     </td>
   </tr>
 
@@ -242,124 +298,203 @@ The data from each sector are required to be available at the MAST no later than
     </td>
   </tr>
 
-
   <tr>
-    <td><a href="#s017">s017</a></td>
+    <td><a href="#s015">s015</a></td>
     <td>North</td>
-    <td>2019&nbsp;Oct&nbsp;07</td>
-    <td>2019&nbsp;Nov&nbsp;02</td>
-    <td><a href='data/target_lists/sector017_targets_lists/GI_S017.csv'>Download</a></td>
-    <td style="min-width: 12em;">
+    <td>2019&nbsp;Aug&nbsp;15</td>
+    <td>2019&nbsp;Sep&nbsp;11</td>
+    <td><a href='data/target_lists/sector015_targets_lists/GI_S015.csv'>Download</a></td>
+    <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a>. Pointing shifted toward the North ecliptic pole by 31 degrees (<a
+    href=observing-technical.html>see the technical details page for more information</a>).
     </td>
   </tr>
 
   <tr>
-    <td><a href="#s018">s018</a></td>
+    <td><a href="#s014">s014</a></td>
     <td>North</td>
-    <td>2019&nbsp;Nov&nbsp;02</td>
-    <td>2019&nbsp;Nov&nbsp;27</td>
-    <td></td>
-
-    <td style="min-width: 12em;">
-
-    </td>
-  </tr>
-
-
-  <tr>
-    <td><a href="#s019">s019</a></td>
-    <td>North</td>
-    <td>2019&nbsp;Nov&nbsp;27</td>
-    <td>2019&nbsp;Dec&nbsp;24</td>
-    <td></td>
-
-    <td style="min-width: 12em;">
-
+    <td>2019&nbsp;Jul&nbsp;18</td>
+    <td>2019&nbsp;Aug&nbsp;15</td>
+    <td><a href='data/target_lists/sector014_targets_lists/GI_S014.csv'>Download</a></td>
+    <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a>. Pointing shifted toward the North ecliptic pole by 31 degrees (<a
+    href=observing-technical.html>see the technical details page for more information</a>).
     </td>
   </tr>
 
   <tr>
-    <td><a href="#s020">s020</a></td>
-    <td>North</td>
-    <td>2019&nbsp;Dec&nbsp;24</td>
-    <td>2020&nbsp;Jan&nbsp;21</td>
-    <td></td>
-
-    <td style="min-width: 12em;">
-
+    <td><a href="#s013">s013</a></td>
+    <td>South</td>
+    <td>2019&nbsp;Jun&nbsp;19</td>
+    <td>2019&nbsp;Jul&nbsp;18</td>
+    <td><a href='data/target_lists/sector013_targets_lists/GI_S013.csv'>Download</a></td>
+    <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a>
     </td>
   </tr>
 
   <tr>
-    <td><a href="#s021">s021</a></td>
-    <td>North</td>
-    <td>2020&nbsp;Jan&nbsp;21</td>
-    <td>2020&nbsp;Feb&nbsp;18</td>
-    <td></td>
-
-    <td style="min-width: 12em;">
-
+    <td><a href="#s012">s012</a></td>
+    <td>South</td>
+    <td>2019&nbsp;May&nbsp;21</td>
+    <td>2019&nbsp;Jun&nbsp;19</td>
+    <td><a href='data/target_lists/sector012_targets_lists/GI_S012.csv'>Download</a></td>
+    <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a>
     </td>
   </tr>
 
   <tr>
-    <td><a href="#s022">s022</a></td>
-    <td>North</td>
-    <td>2020&nbsp;Feb&nbsp;18</td>
-    <td>2020&nbsp;Mar&nbsp;18</td>
-    <td></td>
-
-    <td style="min-width: 12em;">
-
+    <td><a href="#s011">s011</a></td>
+    <td>South</td>
+    <td>2019&nbsp;Apr&nbsp;22</td>
+    <td>2019&nbsp;May&nbsp;21</td>
+    <td><a href='data/target_lists/sector011_targets_lists/GI_S011.csv'>Download</a></td>
+    <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a>
     </td>
   </tr>
 
   <tr>
-    <td><a href="#s023">s023</a></td>
-    <td>North</td>
-    <td>2020&nbsp;Mar&nbsp;18</td>
-    <td>2020&nbsp;Apr&nbsp;15</td>
-    <td></td>
-
-    <td style="min-width: 12em;">
-
+    <td><a href="#s010">s010</a></td>
+    <td>South</td>
+    <td>2019&nbsp;Mar&nbsp;26</td>
+    <td>2019&nbsp;Apr&nbsp;22</td>
+    <td><a href='data/target_lists/sector010_targets_lists/GI_S010.csv'>Download</a></td>
+    <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a>
     </td>
   </tr>
 
   <tr>
-    <td><a href="#s024">s024</a></td>
-    <td>North</td>
-    <td>2020&nbsp;Apr&nbsp;15</td>
-    <td>2020&nbsp;May&nbsp;13</td>
-    <td></td>
+    <td><a href="#s009">s009</a></td>
+    <td>South</td>
+    <td>2019&nbsp;Feb&nbsp;28</td>
+    <td>2019&nbsp;Mar&nbsp;26</td>
+    <td><a href='data/target_lists/sector009_targets_lists/GI_S009.csv'>Download</a></td>
 
-    <td style="min-width: 12em;">
+    <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a>
     </td>
   </tr>
 
   <tr>
-    <td><a href="#s025">s025</a></td>
-    <td>North</td>
-    <td>2020&nbsp;May&nbsp;13</td>
-    <td>2020&nbsp;Jun&nbsp;08</td>
-    <td></td>
-
-    <td style="min-width: 12em;">Pointing shifted toward the North ecliptic pole
-
+    <td><a href="#s008">s008</a></td>
+    <td>South</td>
+    <td>2019&nbsp;Feb&nbsp;02</td>
+    <td>2019&nbsp;Feb&nbsp;28</td>
+    <td><a href='data/target_lists/sector008_targets_lists/GI_S008.csv'>Download</a></td>
+    <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a>
     </td>
   </tr>
 
   <tr>
-    <td><a href="#s026">s026</a></td>
-    <td>North</td>
-    <td>2020&nbsp;Jun&nbsp;08</td>
-    <td>2020&nbsp;Jul&nbsp;04</td>
-    <td></td>
-
-    <td style="min-width: 12em;">Pointing shifted toward the North ecliptic pole
-
+    <td><a href="#s007">s007</a></td>
+    <td>South</td>
+    <td>2019&nbsp;Jan&nbsp;07</td>
+    <td>2019&nbsp;Feb&nbsp;02</td>
+    <td><a href='data/target_lists/sector007_targets_lists/GI_S007.csv'>Download</a></td>
+    <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a>
     </td>
   </tr>
+
+  <tr>
+    <td><a href="#s006">s006</a></td>
+    <td>South</td>
+    <td>2018&nbsp;Dec&nbsp;15</td>
+    <td>2019&nbsp;Jan&nbsp;07</td>
+    <td><a href='data/target_lists/sector006_targets_lists/GI_S006.csv'>Download</a></td>
+    <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td><a href="#s005">s005</a></td>
+    <td>South</td>
+    <td>2018&nbsp;Nov&nbsp;15</td>
+    <td>2018&nbsp;Dec&nbsp;11</td>
+    <td><a href='data/target_lists/sector005_targets_lists/GI_S005.csv'>Download</a></td>
+    <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td><a href="#s004">s004</a></td>
+    <td>South</td>
+    <td>2018&nbsp;Oct&nbsp;18</td>
+    <td>2018&nbsp;Nov&nbsp;15</td>
+    <td><a href='data/target_lists/sector004_targets_lists/GI_S004.csv'>Download</a></td>
+    <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td><a href="#s003">s003</a></td>
+    <td>South</td>
+    <td>2018&nbsp;Sep&nbsp;20</td>
+    <td>2018&nbsp;Oct&nbsp;18</td>
+    <td><a href='data/target_lists/sector003_targets_lists/GI_S003.csv'>Download</a></td>
+    <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td><a href="#s002">s002</a></td>
+    <td>South</td>
+    <td>2018&nbsp;Aug&nbsp;22</td>
+    <td>2018&nbsp;Sep&nbsp;20</td>
+    <td><a href='data/target_lists/sector002_targets_lists/GI_S002.csv'>Download</a></td>
+    <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="#s001">s001</a></td>
+    <td>South</td>
+    <td>2018&nbsp;Jul&nbsp;25</td>
+    <td>2018&nbsp;Aug&nbsp;22</td>
+    <td><a href='data/target_lists/sector001_targets_lists/GI_S001.csv'>Download</a></td>
+    <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a></td>
+  </tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   </table>
 </div>
 </div>
