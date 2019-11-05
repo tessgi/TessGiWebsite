@@ -2,7 +2,7 @@ Title: Cycle 3 Guest Investigator announcement
 Date: 2019-10-21 15:00
 Author: Tom Barclay
 
-We are excited to announce that the [TESS Cycle 3 proposal call](https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId={21B53A82-2F78-9C26-3CA6-B9FEFE2AF929}&path=open) has been released. [TESS Cycle 3 observations](proposing-investigations.html) will be collected during the first year of the extended mission, running from July 2020 until June 2021. All Cycle 3 fields are in the Southern Ecliptic Hemishpere. Please make sure to take a careful look at [the call](https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId={21B53A82-2F78-9C26-3CA6-B9FEFE2AF929}&path=open) because there are some significant changes from the previous two cycles. Changes include:
+We are excited to announce that the [TESS Cycle 3 proposal call](https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId={21B53A82-2F78-9C26-3CA6-B9FEFE2AF929}&path=open) has been released. [TESS Cycle 3 observations](proposing-investigations.html) will be collected during the first year of the extended mission, running from July 2020 until June 2021. All Cycle 3 fields are in the Southern Ecliptic Hemisphere. Please make sure to take a careful look at [the call](https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId={21B53A82-2F78-9C26-3CA6-B9FEFE2AF929}&path=open) because there are some significant changes from the previous two cycles. Changes include:
 
 * A new 20-second cadence mode will potentially be available. Once
 commissioned, approximately 1,000 target slots per sector will be

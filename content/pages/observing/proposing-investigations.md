@@ -35,7 +35,7 @@ scientific/technical/management section
 
 There is no exclusive-use data rights to observations collected by TESS. All data will be made available through the [MAST public archive](http://archive.stsci.edu/tess/summary.html) once data processing and validation is complete. 
 
-**The deadline for Cycle 3 proposals is January 16, 2020 at 4.30pm** 
+**The deadline for Cycle 3 proposals is January 16, 2020 at 4.30pm.** Cycle 3 observations will begin July 5, 2020. 
 
 
 ### Permitted science areas
@@ -277,7 +277,7 @@ The TESS GI program uses a two-phase proposal process. A Phase-1 proposal shall 
 
 * You must "verify" the form, and pass the checks, before you can submit your proposal.
 
-* Target tables for 2-min/20-second cadence observation proposals are to be submitted through ARK/RPS. There are two different ways to provide your target list: into the RPS target form itself, or as a separate CSV file upload - the latter will only become possible after you submit your RPS form.
+* Target tables for 2-min/20-second cadence observation proposals are to be submitted through ARK/RPS. There are two different ways to provide your target list: into the RPS target form itself, or as a separate CSV file upload - the latter will only become possible after you submit your RPS form. We strongly encourage proposers to submit a CSV file for target lists containing over 100 targets.
 
 * The Scientific/Technical/Management section of proposals is limited to 4 pages for small programs and 5 pages for large programs and key projects, which *does not* includes references. No table of contents in the body of the proposal is required. No supporting material [e.g., curriculum vitae (CV), pending/current support] is required or permitted. An additional page can be used for a target table only.
 

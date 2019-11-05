@@ -33,7 +33,7 @@ TESS was approved for an extended mission that starts in July 2020. In the exten
 
 NASA's Kepler Mission was, during its 4 year prime mission from 2009-2013, a statistical transit survey designed to determine the frequency of Earth-sized planets around other stars.  Kepler revealed thousands of exoplanets orbiting stars in its 115 square degree field-of view, which covered about 0.25 percent of the sky. While Kepler was revolutionary in its finding that Earth-to-Neptune-sized planets are common, the bulk of the stars in the Kepler field lie at distances of hundreds to thousands of parsecs, making it difficult to obtain ground-based follow-up observations for many systems.
 
-The TESS Mission is designed to survey over 85% of the sky (an area of sky 400 times larger than covered by Kepler) to search for planets around nearby stars (within ~200 parsec). TESS stars are typically 30-100 times brighter than those surveyed by the Kepler satellite. Planets detected around these stars are therefore far easier to characterize with follow-up observations, resulting in refined measurements of planet masses, sizes, densities, and atmospheric properties.
+The TESS Mission is designed to survey over 85% of the sky (an area of sky 400 times larger than covered by Kepler) to search for planets around nearby stars (within ~200 light years). TESS stars are typically 30-100 times brighter than those surveyed by the Kepler satellite. Planets detected around these stars are therefore far easier to characterize with follow-up observations, resulting in refined measurements of planet masses, sizes, densities, and atmospheric properties.
 
 
 <br/>
