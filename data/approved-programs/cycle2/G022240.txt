@@ -11,3 +11,6 @@ Summary: We propose to investigate a set of 11 low-mass, short period, eclipsing
 
 # Sector 014 targets observed (1)
 155657581,206.3921,79.3971,11.19,G022039;G022240;G022238;G022208
+
+# Sector 016 targets observed (1)
+199574208,248.5734,57.1688,10.16,G022076;G022062;G022039;G022145;G022240;G022069
