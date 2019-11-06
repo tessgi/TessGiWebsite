@@ -277,7 +277,6 @@ The data from each sector are required to be available at the MAST no later than
     <td>North</td>
     <td>2019&nbsp;Nov&nbsp;02</td>
     <td>2019&nbsp;Nov&nbsp;27</td>
-    <td></td>
     <td><a href='data/target_lists/sector018_targets_lists/GI_S018.csv'>Download</a></td>
     <td style="min-width: 12em;">
     </td>
