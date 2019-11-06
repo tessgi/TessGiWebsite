@@ -1,9 +1,13 @@
 # TESS Program G022251
-            
+
 Title: TESS Observations Of Qes Selected Targets
 
 PI: Tsvetanov, Zlatan - Hamad Bin Khalifa University
 
-Type: Small
+Type: SMALL
 
-Summary: We propose to extract and analyze TESS light curves for 242 selected candidate transiting planet systems in the Northern ecliptic sky. All our candidates have been identified by the Qatar Exoplanet Survey and have been screened through follow-up spectroscopy. These light curves will be used to confirm and characterize transiting planets, including giant planets around early type stars and subgiants, to look for additional transit signals, and check for transit timing variations. We propose 2 minute cadence observations for 100 targets which are included in the latest version of the CTL catalog but are not among the top priority targets for the TESS team. The remaining 142 targets will be analyzed using the full-frame images.                                                                  
+Summary: We propose to extract and analyze TESS light curves for 242 selected candidate transiting planet systems in the Northern ecliptic sky. All our candidates have been identified by the Qatar Exoplanet Survey and have been screened through follow-up spectroscopy. These light curves will be used to confirm and characterize transiting planets, including giant planets around early type stars and subgiants, to look for additional transit signals, and check for transit timing variations. We propose 2 minute cadence observations for 100 targets which are included in the latest version of the CTL catalog but are not among the top priority targets for the TESS team. The remaining 142 targets will be analyzed using the full-frame images.
+
+
+# Sector 017 targets observed (1)
+115550766,7.9968,37.533,9.95,G022251

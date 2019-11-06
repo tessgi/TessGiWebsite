@@ -1,9 +1,33 @@
 # TESS Program G022246
-            
+
 Title: Know Thy Halo Stars - Know Thy Halo Planets
 
 PI: Wang, Ji - Ohio State University
 
-Type: Small
+Type: SMALL
 
-Summary: Metallicity plays a critical role in physical processes in stellar interiors, surfaces, and evolution. Equally important, metallicity also regulates planet formation. However, certain aspects of stellar physics and planet formation have never been tested at extremely low metallicity ([Fe/H]$<$-1). Halo stars---as the first generation of stars in the Milky Way--are metal-poor, providing an excellent low-metallicity laboratory for stellar physics and planet formation. Here, we propose to (1) study a ``golden" sample of halo stars---for which we will have TESS asteroseismology data---to establish an empirical relationship between photometric variability and surface gravity, i.e., a ``flicker" method in the metal-poor regime; (2) embark on a search for transiting planetary systems with the lo 
+Summary: Metallicity plays a critical role in physical processes in stellar interiors, surfaces, and evolution. Equally important, metallicity also regulates planet formation. However, certain aspects of stellar physics and planet formation have never been tested at extremely low metallicity ([Fe/H]$<$-1). Halo stars---as the first generation of stars in the Milky Way--are metal-poor, providing an excellent low-metallicity laboratory for stellar physics and planet formation. Here, we propose to (1) study a ``golden" sample of halo stars---for which we will have TESS asteroseismology data---to establish an empirical relationship between photometric variability and surface gravity, i.e., a ``flicker" method in the metal-poor regime; (2) embark on a search for transiting planetary systems with the lo.
+
+
+# Sector 016 targets observed (12)
+173927668,350.4253,42.2378,12.39,G022246
+161725619,236.8237,54.7127,12.31,G022246
+155914739,221.1857,53.2913,11.38,G022246;G022232
+161029755,223.2926,48.2452,10.41,G022246
+161045751,223.6335,48.6046,11.43,G022246;G022232
+165762922,232.0912,56.671,11.01,G022246;G022232
+393893607,198.4622,45.2616,10.7,G022246
+157988557,215.5561,43.3886,12.55,G022246
+158023114,216.5997,42.2131,12.09,G022246
+198156928,211.7381,45.9785,12.47,G022246
+27350400,213.687,41.8226,12.88,G022246
+393961551,212.1052,47.1859,9.04,G022246;G022103
+
+# Sector 017 targets observed (3)
+18153046,21.8488,26.8431,9.14,G022246;G022103
+173927668,350.4253,42.2378,12.39,G022246
+188664960,259.6389,53.0644,9.53,G022246;G022103
+
+# Sector 018 targets observed (2)
+202872681,36.7082,44.9627,8.39,G022246;G022103
+94280898,58.0437,32.0084,8.26,G022246;G022103
