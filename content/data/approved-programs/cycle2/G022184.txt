@@ -1,9 +1,13 @@
 # TESS Program G022184
-            
+
 Title: The Optical Profile Of Supergiant X-Ray Binary 2S 0114+650 From Sub-Orbital To Superorbital Timescales
 
 PI: Coley, Joel - Howard University
 
-Type: Small
+Type: SMALL
 
-Summary: We propose to exploit the remarkable photometric accuracy and evenly sampled TESS two-minute light curves to improve our physical insights on the mechanism driving the coherent, superorbital modulation in the wind-fed Supergiant X-ray Binary 2S 0114+650. We will search for optical signatures of the ~2.7 hr neutron star rotation period, which may indicate X-ray reprocessing in the donor star, and to investigate donor star variability the first uninterrupted high S/N optical light curve. With the short-cadence TESS light curves, spanning two 11.7 day binary orbits and the maximum and minimum of the 30.7 day superorbital modulation, our TESS observations of 2S 0114+650 are the next logical step towards characterizing the interaction between the slowly spinning neutron star and B1 Ia star.    
+Summary: We propose to exploit the remarkable photometric accuracy and evenly sampled TESS two-minute light curves to improve our physical insights on the mechanism driving the coherent, superorbital modulation in the wind-fed Supergiant X-ray Binary 2S 0114+650. We will search for optical signatures of the ~2.7 hr neutron star rotation period, which may indicate X-ray reprocessing in the donor star, and to investigate donor star variability the first uninterrupted high S/N optical light curve. With the short-cadence TESS light curves, spanning two 11.7 day binary orbits and the maximum and minimum of the 30.7 day superorbital modulation, our TESS observations of 2S 0114+650 are the next logical step towards characterizing the interaction between the slowly spinning neutron star and B1 Ia star.
+
+
+# Sector 018 targets observed (1)
+54469882,19.5112,65.2916,9.81,G022184

@@ -14,3 +14,6 @@ Summary: "Superhumps" are periodic photometric waves in the light curves of comp
 
 # Sector 015 targets observed (1)
 193895999,306.8224,43.6893,16.79,G022078;G022116
+
+# Sector 017 targets observed (1)
+440666925,7.5241,26.2906,14.7,G022078;G022126;G022071;G022141;G022254
