@@ -1,2 +1,2 @@
-ID,ra,dec,pmRA,pmDEC,Tmag,CommonName,ExtendedFlag,SpecialHandlingFlag,Remarks
-,201.69696,-47.47950,0,0,5.3,Omega Centauri,Y,Y,observe whole globular cluster that will saturate ; requires a special pixel mask ; radius of cluster is 36 arcmin
+ID,ra,dec,pmRA,pmDEC,Tmag,CommonName,ExtendedFlag,SpecialHandlingFlag,20SecondCadenceFlag,SwiftTimeRequest,Remarks
+,201.69696,-47.4795,0,0,5.3,Omega Centauri,Y,Y,N,0,observe whole globular cluster that will saturate ; requires a special pixel mask ; radius of cluster is 36 arcmin

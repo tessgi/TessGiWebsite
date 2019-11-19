@@ -17,7 +17,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - TESS Science Support Center" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2019-11-06" />
+    <meta name="dc.date.modified" content="2019-11-19" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Users of TESS Data" />
     <meta name="dc.identifier" content="https://heasarc.gsfc.nasa.gov/docs/tess/" />
@@ -169,6 +169,15 @@ in August 2015, using pelican-bootstrap and flatly.
 <li>TESS mag</li>
 </ol>
 <p>Since adherence to this format is critical for target list uploads to the <a href="https://heasarc.gsfc.nasa.gov/ark/rps/">Remote Proposal System</a> (RPS) website, the MAST has provided a <a href="https://archive.stsci.edu/tess/tutorials/goddard_format.html">custom tutorial</a> to show GI proposers how to select and output these columns for their target lists. Please follow this tutorial to provide a compliant target list. </p>
+<p>In addition to the above six columns, the following additional columns can be provided as nessessary (the columns order must not change):</p>
+<ol>
+<li>Common name of target</li>
+<li>Extended flag</li>
+<li>Special handling flag</li>
+<li>20-second cadence flag</li>
+<li>Swift time request (ksec)</li>
+<li>Remarks</li>
+</ol>
 <h2 id="software-tools">Software tools</h2>
 <p>We have developed software to aid in the development of GI proposals: </p>
 <!--[TVGuide](#tvguide) helps with determining whether a target is observable in Cycle 1, and [ticgen](#ticgen) is used to calculate the brightness of a target in the TESS bandpass. In addition, resources have been created by various other team to aid in writing proposals.
