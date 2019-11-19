@@ -34,7 +34,7 @@ You can also propose to use archival data or to perform other TESS-related inves
 
 **Will TESS have an extended mission?**
 
-TESS has a 2-year primary mission, where it is currently observing the southern ecliptic hemisphere in its first year of operations and will observe the northern ecliptic hemisphere in its second year of operations. The TESS team has submitted a proposal requesting funding for an extended mission for TESS, to the 2019 NASA Senior Review of Operating Astrophysics Missions Call for Proposals. If an extended mission is approved, this will be announced to the community. An announcement regarding the proposed extended mission is anticipated to be made in mid-July 2019.
+TESS has a 2-year primary mission, where it is currently observing the southern ecliptic hemisphere in its first year of operations and will observe the northern ecliptic hemisphere in its second year of operations. The TESS team submitted a proposal requesting funding for an extended mission for TESS, to the 2019 NASA Senior Review of Operating Astrophysics Missions Call for Proposals. An announcement regarding the proposed extended mission was made in July 2019, extending TESS until 2022.
 
 **Where will TESS point in its extended mission?**
 

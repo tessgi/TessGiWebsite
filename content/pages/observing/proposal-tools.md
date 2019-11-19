@@ -18,6 +18,15 @@ The first stop for TESS GI proposers when preparing their proposals should be th
 
 Since adherence to this format is critical for target list uploads to the [Remote Proposal System](https://heasarc.gsfc.nasa.gov/ark/rps/) (RPS) website, the MAST has provided a [custom tutorial](https://archive.stsci.edu/tess/tutorials/goddard_format.html) to show GI proposers how to select and output these columns for their target lists. Please follow this tutorial to provide a compliant target list. 
 
+In addition to the above six columns, the following additional columns can be provided as nessessary (the columns order must not change):
+
+7. Common name of target
+8. Extended flag
+9. Special handling flag
+10. 20-second cadence flag
+11. Swift time request (ksec)
+12. Remarks
+
 
 ## Software tools
 

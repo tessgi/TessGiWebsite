@@ -179,6 +179,7 @@ additional columns that should be included if necessary are
 * Extended flag
 * Special handling flag
 * 20-second cadence flag
+* Swift time request (ksec)
 * Remarks
 
 Proposal tools and tips to help create target tables can be found on our [proposal tools page](proposal-tools.html). We encourage users to follow [this custom tutorial](https://archive.stsci.edu/tess/tutorials/goddard_format.html) provided by the MAST.
