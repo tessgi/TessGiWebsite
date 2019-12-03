@@ -17,12 +17,3 @@ Summary: We propose for TESS observations of two "redback" millisecond pulsar sy
 
 # Sector 008 targets observed (1)
 277798746,155.9487,0.6447,16.28,G011187
-
-# Sector 005 targets observed (1)
-31091702,80.8205,-25.4603,15.78,G011187
-
-# Sector 006 targets observed (1)
-31091702,80.8205,-25.4603,15.78,G011187
-
-# Sector 008 targets observed (1)
-277798746,155.9487,0.6447,16.28,G011187
