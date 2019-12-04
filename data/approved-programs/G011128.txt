@@ -11,3 +11,6 @@ Summary: We propose to observe the active weak-line T-Tauri star CVSO 30 with TE
 
 # Sector 006 targets observed (1)
 264461976,81.2815,1.5734,13.81,G011128;G011132
+
+# Sector 006 targets observed (1)
+264461976,81.2815,1.5734,13.81,G011128;G011132
