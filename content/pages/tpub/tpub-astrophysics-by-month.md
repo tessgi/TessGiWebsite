@@ -7,15 +7,27 @@ Save_as: tpub-astrophysics-by-month.html
 2019-12
 -------
 
-1. [ROTATIONAL AND PULSATIONAL VARIABILITY IN THE TESS LIGHT CURVE OF HD 27463](http://adsabs.harvard.edu/abs/2019MNRAS.490.2102K)  
+1. [TESS FIRST LOOK AT EVOLVED COMPACT PULSATORS. ASTEROSEISMOLOGY OF THE PULSATING HELIUM-ATMOSPHERE WHITE DWARF TIC 257459955](http://adsabs.harvard.edu/abs/2019A&A...632A..42B)  
+Bell, Keaton J., Córsico, Alejandro H., Bischoff-Kim, Agnès, et al.    
+2019, refereed ([2019A&A...632A..42B](http://adsabs.harvard.edu/abs/2019A&A...632A..42B))  
+
+2. [THE NEW EXOR OUTBURST OF ESO-HΑ 99 OBSERVED BY GAIA ATLAS AND TESS](http://adsabs.harvard.edu/abs/2019AJ....158..241H)  
+Hodapp, Klaus W., Reipurth, Bo, Pettersson, Bertil, et al.    
+2019, refereed ([2019AJ....158..241H](http://adsabs.harvard.edu/abs/2019AJ....158..241H))  
+
+3. [FIRST RESULTS FROM TESS OBSERVATIONS OF COMET 46P/WIRTANEN](http://adsabs.harvard.edu/abs/2019ApJ...886L..24F)  
+Farnham, Tony L., Kelley, Michael S. P., Knight, Matthew M., et al.    
+2019, refereed ([2019ApJ...886L..24F](http://adsabs.harvard.edu/abs/2019ApJ...886L..24F))  
+
+4. [ROTATIONAL AND PULSATIONAL VARIABILITY IN THE TESS LIGHT CURVE OF HD 27463](http://adsabs.harvard.edu/abs/2019MNRAS.490.2102K)  
 Khalack, V., Lovekin, C., Bowman, D. M., et al.    
 2019, refereed ([2019MNRAS.490.2102K](http://adsabs.harvard.edu/abs/2019MNRAS.490.2102K))  
 
-2. [THE FIRST VIEW OF Δ SCUTI AND Γ DORADUS STARS WITH THE TESS MISSION](http://adsabs.harvard.edu/abs/2019MNRAS.490.4040A)  
+5. [THE FIRST VIEW OF Δ SCUTI AND Γ DORADUS STARS WITH THE TESS MISSION](http://adsabs.harvard.edu/abs/2019MNRAS.490.4040A)  
 Antoci, V., Cunha, M. S., Bowman, D. M., et al.    
 2019, refereed ([2019MNRAS.490.4040A](http://adsabs.harvard.edu/abs/2019MNRAS.490.4040A))  
 
-3. [MOBSTER - III. HD 62658: A MAGNETIC BP STAR IN AN ECLIPSING BINARY WITH A NON-MAGNETIC `IDENTICAL TWIN'](http://adsabs.harvard.edu/abs/2019MNRAS.490.4154S)  
+6. [MOBSTER - III. HD 62658: A MAGNETIC BP STAR IN AN ECLIPSING BINARY WITH A NON-MAGNETIC `IDENTICAL TWIN'](http://adsabs.harvard.edu/abs/2019MNRAS.490.4154S)  
 Shultz, M. E., Johnston, C., Labadie-Bartz, J., et al.    
 2019, refereed ([2019MNRAS.490.4154S](http://adsabs.harvard.edu/abs/2019MNRAS.490.4154S))  
 

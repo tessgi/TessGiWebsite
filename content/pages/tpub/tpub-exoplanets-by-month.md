@@ -7,11 +7,15 @@ Save_as: tpub-exoplanets-by-month.html
 2019-12
 -------
 
-1. [A PSF-BASED APPROACH TO TESS HIGH QUALITY DATA OF STELLAR CLUSTERS (PATHOS) - I. SEARCH FOR EXOPLANETS AND VARIABLE STARS IN THE FIELD OF 47 TUC](http://adsabs.harvard.edu/abs/2019MNRAS.490.3806N)  
+1. [A SEARCH FOR MULTIPLANET SYSTEMS WITH TESS USING A BAYESIAN N-BODY RETRIEVAL AND MACHINE LEARNING](http://adsabs.harvard.edu/abs/2019AJ....158..243P)  
+Pearson, Kyle A.    
+2019, refereed ([2019AJ....158..243P](http://adsabs.harvard.edu/abs/2019AJ....158..243P))  
+
+2. [A PSF-BASED APPROACH TO TESS HIGH QUALITY DATA OF STELLAR CLUSTERS (PATHOS) - I. SEARCH FOR EXOPLANETS AND VARIABLE STARS IN THE FIELD OF 47 TUC](http://adsabs.harvard.edu/abs/2019MNRAS.490.3806N)  
 Nardiello, D., Borsato, L., Piotto, G., et al.    
 2019, refereed ([2019MNRAS.490.3806N](http://adsabs.harvard.edu/abs/2019MNRAS.490.3806N))  
 
-2. [GJ 357: A LOW-MASS PLANETARY SYSTEM UNCOVERED BY PRECISION RADIAL VELOCITIES AND DYNAMICAL SIMULATIONS](http://adsabs.harvard.edu/abs/2019MNRAS.490.5585J)  
+3. [GJ 357: A LOW-MASS PLANETARY SYSTEM UNCOVERED BY PRECISION RADIAL VELOCITIES AND DYNAMICAL SIMULATIONS](http://adsabs.harvard.edu/abs/2019MNRAS.490.5585J)  
 Jenkins, J. S., Pozuelos, F. J., Tuomi, M., et al.    
 2019, refereed ([2019MNRAS.490.5585J](http://adsabs.harvard.edu/abs/2019MNRAS.490.5585J))  
 
@@ -87,19 +91,15 @@ Kaltenegger, L., Madden, J., Lin, Z., et al.
 Hellier, C., Anderson, D. R., Gill, S., et al.    
 2019, not refereed ([2019RNAAS...3..156H](http://adsabs.harvard.edu/abs/2019RNAAS...3..156H))  
 
-7. [CLUSTER DIFFERENCE IMAGING PHOTOMETRIC SURVEY. I. LIGHT CURVES OF STARS IN OPEN CLUSTERS FROM TESS SECTORS 6 &AMP; 7](http://adsabs.harvard.edu/abs/2019arXiv191001133B)  
-Bouma, L. G., Hartman, J. D., Bhatti, W., et al.    
-2019, not refereed ([2019arXiv191001133B](http://adsabs.harvard.edu/abs/2019arXiv191001133B))  
-
-8. [EXPLORING THE ATMOSPHERIC DYNAMICS OF THE EXTREME ULTRA-HOT JUPITER KELT-9B USING TESS PHOTOMETRY](http://adsabs.harvard.edu/abs/2019arXiv191001607W)  
+7. [EXPLORING THE ATMOSPHERIC DYNAMICS OF THE EXTREME ULTRA-HOT JUPITER KELT-9B USING TESS PHOTOMETRY](http://adsabs.harvard.edu/abs/2019arXiv191001607W)  
 Wong, Ian, Shporer, Avi, Morris, Brett M., et al.    
 2019, not refereed ([2019arXiv191001607W](http://adsabs.harvard.edu/abs/2019arXiv191001607W))  
 
-9. [TOI-222: A SINGLE-TRANSIT TESS CANDIDATE REVEALED TO BE A 34-DAY ECLIPSING BINARY WITH CORALIE, EULERCAM AND NGTS](http://adsabs.harvard.edu/abs/2019arXiv191005050L)  
+8. [TOI-222: A SINGLE-TRANSIT TESS CANDIDATE REVEALED TO BE A 34-DAY ECLIPSING BINARY WITH CORALIE, EULERCAM AND NGTS](http://adsabs.harvard.edu/abs/2019arXiv191005050L)  
 Lendl, Monika, Bouchy, François, Gill, Samuel, et al.    
 2019, not refereed ([2019arXiv191005050L](http://adsabs.harvard.edu/abs/2019arXiv191005050L))  
 
-10. [NGTS AND WASP PHOTOMETRIC RECOVERY OF A SINGLE-TRANSIT CANDIDATE FROM TESS](http://adsabs.harvard.edu/abs/2019arXiv191005282G)  
+9. [NGTS AND WASP PHOTOMETRIC RECOVERY OF A SINGLE-TRANSIT CANDIDATE FROM TESS](http://adsabs.harvard.edu/abs/2019arXiv191005282G)  
 Gill, Samuel, Bayliss, Daniel, Cooke, Benjamin F., et al.    
 2019, not refereed ([2019arXiv191005282G](http://adsabs.harvard.edu/abs/2019arXiv191005282G))  
 

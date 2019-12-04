@@ -12,8 +12,8 @@ the TESS mission is provided by the NASA Explorer Program.*
 
 The TESS Science Support Center curates a list of scientific publications
 pertaining to TESS.
-The database contains 197 publications,
-of which 137 are peer-reviewed.
+The database contains 200 publications,
+of which 141 are peer-reviewed.
 It demonstrates the important impact of TESS data
 on astronomical research.
 
@@ -29,7 +29,7 @@ Or seach by topic:
 If you spot an error in the database, such as a missing entry,
 please get in touch or open an issue in the <a href="https://github.com/tessgi/tpub">GitHub repository</a> of the database.
 
-Last update: 22 Nov 2019.
+Last update: 04 Dec 2019.
 
 <hr/>
 
@@ -47,10 +47,10 @@ of year.
 Both TESS data have been used for scientific applications
 that reach far beyond exoplanet research.
 While 102 works relate to exoplanets
-(52%),
-a total of 95
+(51%),
+a total of 98
 pertain to other areas of astrophysics
-(48%).
+(49%).
 
 
 ![Publications by subject](images/tpub/tpub-piechart.png)
@@ -60,7 +60,7 @@ pertain to other areas of astrophysics
 ## Most-cited publications
 
 TESS publications have cumulatively been cited
-2409 times.
+2456 times.
 The list below shows the most-cited publications,
 based on the citation count obtained from NASA ADS.
 
@@ -68,12 +68,12 @@ based on the citation count obtained from NASA ADS.
 1. TRANSITING EXOPLANET SURVEY SATELLITE (TESS)  
 Ricker, George R., Winn, Joshua N., Vanderspek, Roland, et al.    
 [2015JATIS...1a4003R](http://adsabs.harvard.edu/abs/2015JATIS...1a4003R)
-<span class="badge">587 citations</span>
+<span class="badge">600 citations</span>
 
 2. THE TRANSITING EXOPLANET SURVEY SATELLITE: SIMULATIONS OF PLANET DETECTIONS AND ASTROPHYSICAL FALSE POSITIVES  
 Sullivan, Peter W., Winn, Joshua N., Berta-Thompson, Zachory K., et al.    
 [2015ApJ...809...77S](http://adsabs.harvard.edu/abs/2015ApJ...809...77S)
-<span class="badge">240 citations</span>
+<span class="badge">243 citations</span>
 
 3. THE TESS INPUT CATALOG AND CANDIDATE TARGET LIST  
 Stassun, Keivan G., Oelkers, Ryan J., Pepper, Joshua, et al.    
@@ -83,7 +83,7 @@ Stassun, Keivan G., Oelkers, Ryan J., Pepper, Joshua, et al.
 4. A REVISED EXOPLANET YIELD FROM THE TRANSITING EXOPLANET SURVEY SATELLITE (TESS)  
 Barclay, Thomas, Pepper, Joshua, Quintana, Elisa V.    
 [2018ApJS..239....2B](http://adsabs.harvard.edu/abs/2018ApJS..239....2B)
-<span class="badge">95 citations</span>
+<span class="badge">98 citations</span>
 
 5. TESS DISCOVERY OF A TRANSITING SUPER-EARTH IN THE PI MENSAE SYSTEM  
 Huang, Chelsea X., Burt, Jennifer, Vanderburg, Andrew, et al.    
@@ -105,15 +105,15 @@ Vanderspek, Roland, Huang, Chelsea X., Vanderburg, Andrew, et al.
 [2019ApJ...871L..24V](http://adsabs.harvard.edu/abs/2019ApJ...871L..24V)
 <span class="badge">39 citations</span>
 
-9. TESS'S FIRST PLANET. A SUPER-EARTH TRANSITING THE NAKED-EYE STAR Π MENSAE  
-Gandolfi, D., Barragán, O., Livingston, J. H., et al.    
-[2018A&A...619L..10G](http://adsabs.harvard.edu/abs/2018A&A...619L..10G)
-<span class="badge">32 citations</span>
-
-10. PREDICTED NUMBER, MULTIPLICITY, AND ORBITAL DYNAMICS OF TESS M-DWARF EXOPLANETS  
+9. PREDICTED NUMBER, MULTIPLICITY, AND ORBITAL DYNAMICS OF TESS M-DWARF EXOPLANETS  
 Ballard, Sarah    
 [2019AJ....157..113B](http://adsabs.harvard.edu/abs/2019AJ....157..113B)
-<span class="badge">32 citations</span>
+<span class="badge">33 citations</span>
+
+10. TESS'S FIRST PLANET. A SUPER-EARTH TRANSITING THE NAKED-EYE STAR Π MENSAE  
+Gandolfi, D., Barragán, O., Livingston, J. H., et al.    
+[2018A&A...619L..10G](http://adsabs.harvard.edu/abs/2018A&A...619L..10G)
+<span class="badge">33 citations</span>
 <hr/>
 
 <!-- 
