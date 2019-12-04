@@ -208,7 +208,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>2020&nbsp;May&nbsp;13</td>
     <td>2020&nbsp;Jun&nbsp;08</td>
     <td></td>
-    <td style="min-width: 12em;">Pointing shifted toward the North ecliptic pole
+    <td style="min-width: 12em;">Pointing shifted toward the North ecliptic pole.
     </td>
   </tr>
 
@@ -218,7 +218,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>2020&nbsp;Apr&nbsp;15</td>
     <td>2020&nbsp;May&nbsp;13</td>
     <td></td>
-    <td style="min-width: 12em;">
+    <td style="min-width: 12em;">Pointing shifted toward the North ecliptic pole.
     </td>
   </tr>
 

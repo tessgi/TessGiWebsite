@@ -240,9 +240,15 @@ MEETINGS = (
             #('<b>29 July - 2 August 2019</b><br>'
             # 'TESS Science Conference',
             # 'https://tess.mit.edu/news/tess-science-conference/'),
-            ('<b>4-8 November 2019</b><br>'
-             'SEEC Symposium: Rocky Exoplanets in the Era of JWST: Theory and Observation',
-             'https://seec.gsfc.nasa.gov/Symposium.html'),
+            #('<b>4-8 November 2019</b><br>'
+            # 'SEEC Symposium: Rocky Exoplanets in the Era of JWST: Theory and Observation',
+            # 'https://seec.gsfc.nasa.gov/Symposium.html'),
+            ('<b>4-8 January 2020</b><br>'
+             'AAS Winter Meeting',
+             'https://aas.org/meetings/aas235'),
+            ('<b>10-14 February 2020</b><br>'
+             'Expanding the Science of TESS',
+             'https://tess.ninja/three/')
             )
 
 # Defines the "related websites" listing in the footer of all pages
