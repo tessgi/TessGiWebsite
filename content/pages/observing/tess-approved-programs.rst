@@ -43,6 +43,7 @@ Sector 19
 
 .. include:: approved-programs/sector019.html
 
+
 Sector 18
 =========
 .. raw:: html
@@ -50,7 +51,7 @@ Sector 18
     <ul class="list-group">
         <li class="list-group-item">
           <i class="fa fa-calendar fa-margin"></i>
-          Oct 07, 2019 - Nov 02, 2019
+          Nov 02, 2019 - Nov 27, 2019
         </li>
         <li class="list-group-item">
             <i class="fa fa-download fa-margin"></i>
@@ -67,7 +68,7 @@ Sector 17
     <ul class="list-group">
         <li class="list-group-item">
           <i class="fa fa-calendar fa-margin"></i>
-          Sep 11, 2019 - Oct 07, 2019
+          Oct 07, 2019 - Nov 02, 2019
         </li>
         <li class="list-group-item">
             <i class="fa fa-download fa-margin"></i>
@@ -84,7 +85,7 @@ Sector 16
     <ul class="list-group">
         <li class="list-group-item">
           <i class="fa fa-calendar fa-margin"></i>
-          Oct 07, 2019 - Nov 02, 2019
+          Sep 11, 2019 - Oct 07, 2019
         </li>
         <li class="list-group-item">
             <i class="fa fa-download fa-margin"></i>
