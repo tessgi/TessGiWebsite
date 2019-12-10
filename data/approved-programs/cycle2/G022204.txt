@@ -155,3 +155,6 @@ Summary: We propose to obtain 2-minute light curves with TESS for a sample of kn
 # Sector 018 targets observed (2)
 13037534,343.8759,64.0086,10.0,G022062;G022204
 359132040,1.8556,63.3491,11.61,G022062;G022204
+
+# Sector 019 targets observed (1)
+48499902,284.7577,52.4682,11.64,G022062;G022204
