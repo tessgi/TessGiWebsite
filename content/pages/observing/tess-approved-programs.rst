@@ -26,6 +26,23 @@ Cycle 2
 
 .. include:: approved-programs/cycle2.html
 
+Sector 19
+=========
+.. raw:: html
+
+    <ul class="list-group">
+        <li class="list-group-item">
+          <i class="fa fa-calendar fa-margin"></i>
+          Nov 27, 2019 - Dec 24, 2019
+        </li>
+        <li class="list-group-item">
+            <i class="fa fa-download fa-margin"></i>
+            <a href="data/target_lists/sector019_targets_lists/GI_S019.csv">Target list (csv)</a>
+        </li>
+    </ul>
+
+.. include:: approved-programs/sector019.html
+
 Sector 18
 =========
 .. raw:: html
