@@ -8,3 +8,6 @@ Type: SMALL
 
 Summary: In this proposal we focus on 55 Cnc e, a quintessential super-Earth in a tight orbit and transiting a nearby star that is visible to the naked eye. We propose this star as 2-minute cadence target in TESS' cycle 2. The 27-day time coverage of this system will enable the characterization of previousy observed phase variations that cannot be explained by scattered light from the planet. This signal may be due to circumstellar gas or dust in the orbit of 55 Cnc e, that could also be associated with the planet. We will also monitor the time variability of these phase variations, and search for a secondary eclipse. In addition, measuring the planet's radius in the unique bandpass of TESS will allow a comparison with transit depths measured at other wavelengths with HST, JWST and CHEOPS.
 
+
+# Sector 021 targets observed (1)
+332064670,133.1461,28.3295,5.21,G022241;G022092;G022200;G022053;G022133;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25

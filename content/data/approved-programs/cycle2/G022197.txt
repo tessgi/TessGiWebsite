@@ -34,3 +34,9 @@ Summary: TESS high quality light curves show not only the transit but the entire
 # Sector 019 targets observed (2)
 138168780,94.7929,73.8275,9.88,G022197;G022053
 8400842,65.4696,57.8172,9.44,G022197;G022070;G022053
+
+# Sector 020 targets observed (1)
+138168780,94.7929,73.8275,9.88,G022197;G022053
+
+# Sector 021 targets observed (1)
+252479260,155.6814,50.1288,9.01,G022197;G022053
