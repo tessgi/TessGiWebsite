@@ -8,3 +8,6 @@ Type: SMALL
 
 Summary: Quasi-periodic oscillations (QPOs) are potentially valuable tools for studying accretion disks, general relativity, and the environments around black holes. Despite proliferating theories, however, their physical origin is still unknown. Although common in the X-ray light curves of stellar mass black holes, they are frustratingly elusive in active galactic nuclei (AGN). This discrepancy has serious consequences for the universality of accretion across vast physical scales, but may be due only to a lack of suitable AGN light curves. Bolstered by the discovery of the first candidate optical QPO in a Kepler AGN light curve, we request short-cadence observations of two AGN with high-frequency X-ray QPOs, to search for the same signals or their low-frequency counterparts in optical emission.
 
+
+# Sector 021 targets observed (1)
+16850687,158.6608,39.6412,16.53,G022144

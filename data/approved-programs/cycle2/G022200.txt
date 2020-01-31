@@ -23,3 +23,6 @@ Summary: Recent data from Kepler mission revolutionized the exoplanetary science
 
 # Sector 019 targets observed (1)
 468723402,20.4955,76.7101,6.39,G022200;G022080;G022053
+
+# Sector 021 targets observed (1)
+332064670,133.1461,28.3295,5.21,G022241;G022092;G022200;G022053;G022133;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25
