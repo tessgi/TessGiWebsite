@@ -167,89 +167,89 @@ IMPORTANT_DATES = (
          )
 
 # Defines the "meetings" box on the front page
-MEETINGS = (
-            # ('<b>4–8 Jun 2017</b><br>'
-            #  'AAS 230th Meeting',
-            #  'tess-community-science-center-team-at-aas-230.html'),
-            # ('<b>19–23 Jun 2017</b><br>'
-            #  'Kepler & K2 SciCon IV',
-            #  'https://keplerscience.arc.nasa.gov/scicon4/'),
-            # ('<b>16-21 July 2017</b><br>'
-            #  'Tessting Stellar Astrophysics, TASC3 KASC10 Workshop',
-            #  'http://www.tasc3kasc10.com/'),
-            # ('<b>17-21 July 2017</b><br>'
-            #  'Transiting Exoplanets',
-            #  'https://wasp-planets.net/conference/'),
-            # ('<b>9-12 October 2017</b><br>'
-            #  'Know Thy Star, Know Thy Planet - Assessing the Impact of Stellar Characterization on Our Understanding of Exoplanets',
-            #  'http://nexsci.caltech.edu/conferences/2017/knowthystar/'),
-            # ('<b>15-20 October 2017</b><br>'
-            #  '49th Meeting of the AAS Division for Planetary Sciences',
-            #  'https://aas.org/meetings/dps49'),
-            # ('<b>26-27 October 2017</b><br>'
-            #  'BDEXOCON-2017: Brown Dwarf to Exoplanet Connection',
-            #  'https://bdexocon.wordpress.com/'),
-            # ('<b>13-17 November 2017</b><br>'
-            #  'IAUS 339: Southern Horizons in Time­ Domain Astronomy',
-            #  'https://www.hou.usra.edu/meetings/habitableworlds2017/'),
-            # ('<b>13-17 November 2017</b><br>'
-            #  'Habitable Worlds 2017:  A System Science Workshop',
-            #  'http://nexsci.caltech.edu/conferences/2017/knowthystar/'),
-            # ('<b>8-12 January 2018</b><br>'
-            #  '231st Meeting of the American Astronomical Society',
-            #  'https://aas.org/meetings/aas231'),
-            #('<b>5-9 March 2018</b><br>'
-            # 'Preparing for TESS',
-            # 'http://tess.ninja/'),
-            # ('<b>3-7 June 2018</b><br>'
-            #  '232nd Meeting of the American Astronomical Society',
-            #  'https://aas.org/meetings/aas232'),            
-            # ('<b>2-6 July 2018</b><br>'
-            #  'Exoplanets II',
-            #  'https://www.exoplanetscience2.org'),
-            # ('<b>8-13 July 2018</b><br>'
-            #  'TASC4/KASC11',
-            #  'https://tasoc.dk'),
-            # ('<b>14-22 July 2018</b><br>'
-            #  'COSPAR',
-            #  'http://cospar2018.org'),
-            # ('<b>29 July - 3 Aug 2018</b><br>'
-            #  'Cool Stars 20', 
-            #  'http://coolstars20.cfa.harvard.edu'),       
-            #('<b>20-31 August 2018</b><br>'
-            # 'International Astronomical Union',
-            # 'https://astronomy2018.univie.ac.at'),
-            # ('<b>6-10 January 2019</b><br>'
-            #  'AAS Winter Meeting',
-            #  'https://aas.org/meetings/aas233'),           
-            #('<b>11-14 February 2019</b><br>'
-            # 'TESS Data Workshop',
-            # 'http://www.stsci.edu/institute/conference/tess'),               
-            # ('<b>4-8 March 2019</b><br>'
-            #  'Kepler Science Conference',
-            #  'https://keplerscience.arc.nasa.gov/scicon-2019/index.html'),           
-            # ('<b>25-29 March 2019</b><br>'
-            #  'Building Early Science with TESS',
-            #  'http://tess.ninja/'),   
-            # ('<b>15 April - 28 June 2019</b><br>'
-            #  'Better Stars, Better Planets: Exploiting the Stellar-Exoplanetary Synergy',
-            #  'https://www.kitp.ucsb.edu/activities/exostar19'),
-            #('<b>22-26 July 2019</b><br>'
-            # 'TASC5/KASC12 Workshop',
-            # 'http://web.mit.edu/tasc5/index.html'),    
-            #('<b>29 July - 2 August 2019</b><br>'
-            # 'TESS Science Conference',
-            # 'https://tess.mit.edu/news/tess-science-conference/'),
-            #('<b>4-8 November 2019</b><br>'
-            # 'SEEC Symposium: Rocky Exoplanets in the Era of JWST: Theory and Observation',
-            # 'https://seec.gsfc.nasa.gov/Symposium.html'),
-            ('<b>4-8 January 2020</b><br>'
-             'AAS Winter Meeting',
-             'https://aas.org/meetings/aas235'),
-            ('<b>10-14 February 2020</b><br>'
-             'Expanding the Science of TESS',
-             'https://tess.ninja/three/')
-            )
+# MEETINGS = (
+#             # ('<b>4–8 Jun 2017</b><br>'
+#             #  'AAS 230th Meeting',
+#             #  'tess-community-science-center-team-at-aas-230.html'),
+#             # ('<b>19–23 Jun 2017</b><br>'
+#             #  'Kepler & K2 SciCon IV',
+#             #  'https://keplerscience.arc.nasa.gov/scicon4/'),
+#             # ('<b>16-21 July 2017</b><br>'
+#             #  'Tessting Stellar Astrophysics, TASC3 KASC10 Workshop',
+#             #  'http://www.tasc3kasc10.com/'),
+#             # ('<b>17-21 July 2017</b><br>'
+#             #  'Transiting Exoplanets',
+#             #  'https://wasp-planets.net/conference/'),
+#             # ('<b>9-12 October 2017</b><br>'
+#             #  'Know Thy Star, Know Thy Planet - Assessing the Impact of Stellar Characterization on Our Understanding of Exoplanets',
+#             #  'http://nexsci.caltech.edu/conferences/2017/knowthystar/'),
+#             # ('<b>15-20 October 2017</b><br>'
+#             #  '49th Meeting of the AAS Division for Planetary Sciences',
+#             #  'https://aas.org/meetings/dps49'),
+#             # ('<b>26-27 October 2017</b><br>'
+#             #  'BDEXOCON-2017: Brown Dwarf to Exoplanet Connection',
+#             #  'https://bdexocon.wordpress.com/'),
+#             # ('<b>13-17 November 2017</b><br>'
+#             #  'IAUS 339: Southern Horizons in Time­ Domain Astronomy',
+#             #  'https://www.hou.usra.edu/meetings/habitableworlds2017/'),
+#             # ('<b>13-17 November 2017</b><br>'
+#             #  'Habitable Worlds 2017:  A System Science Workshop',
+#             #  'http://nexsci.caltech.edu/conferences/2017/knowthystar/'),
+#             # ('<b>8-12 January 2018</b><br>'
+#             #  '231st Meeting of the American Astronomical Society',
+#             #  'https://aas.org/meetings/aas231'),
+#             #('<b>5-9 March 2018</b><br>'
+#             # 'Preparing for TESS',
+#             # 'http://tess.ninja/'),
+#             # ('<b>3-7 June 2018</b><br>'
+#             #  '232nd Meeting of the American Astronomical Society',
+#             #  'https://aas.org/meetings/aas232'),            
+#             # ('<b>2-6 July 2018</b><br>'
+#             #  'Exoplanets II',
+#             #  'https://www.exoplanetscience2.org'),
+#             # ('<b>8-13 July 2018</b><br>'
+#             #  'TASC4/KASC11',
+#             #  'https://tasoc.dk'),
+#             # ('<b>14-22 July 2018</b><br>'
+#             #  'COSPAR',
+#             #  'http://cospar2018.org'),
+#             # ('<b>29 July - 3 Aug 2018</b><br>'
+#             #  'Cool Stars 20', 
+#             #  'http://coolstars20.cfa.harvard.edu'),       
+#             #('<b>20-31 August 2018</b><br>'
+#             # 'International Astronomical Union',
+#             # 'https://astronomy2018.univie.ac.at'),
+#             # ('<b>6-10 January 2019</b><br>'
+#             #  'AAS Winter Meeting',
+#             #  'https://aas.org/meetings/aas233'),           
+#             #('<b>11-14 February 2019</b><br>'
+#             # 'TESS Data Workshop',
+#             # 'http://www.stsci.edu/institute/conference/tess'),               
+#             # ('<b>4-8 March 2019</b><br>'
+#             #  'Kepler Science Conference',
+#             #  'https://keplerscience.arc.nasa.gov/scicon-2019/index.html'),           
+#             # ('<b>25-29 March 2019</b><br>'
+#             #  'Building Early Science with TESS',
+#             #  'http://tess.ninja/'),   
+#             # ('<b>15 April - 28 June 2019</b><br>'
+#             #  'Better Stars, Better Planets: Exploiting the Stellar-Exoplanetary Synergy',
+#             #  'https://www.kitp.ucsb.edu/activities/exostar19'),
+#             #('<b>22-26 July 2019</b><br>'
+#             # 'TASC5/KASC12 Workshop',
+#             # 'http://web.mit.edu/tasc5/index.html'),    
+#             #('<b>29 July - 2 August 2019</b><br>'
+#             # 'TESS Science Conference',
+#             # 'https://tess.mit.edu/news/tess-science-conference/'),
+#             #('<b>4-8 November 2019</b><br>'
+#             # 'SEEC Symposium: Rocky Exoplanets in the Era of JWST: Theory and Observation',
+#             # 'https://seec.gsfc.nasa.gov/Symposium.html'),
+#             ('<b>4-8 January 2020</b><br>'
+#              'AAS Winter Meeting',
+#              'https://aas.org/meetings/aas235'),
+#             ('<b>10-14 February 2020</b><br>'
+#              'Expanding the Science of TESS',
+#              'https://tess.ninja/three/')
+#             )
 
 # Defines the "related websites" listing in the footer of all pages
 RELATEDSITES = (
