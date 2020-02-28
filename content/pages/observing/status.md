@@ -31,12 +31,10 @@ science operations with TESS began on July 25, 2018. TESS is now executing its s
 <br/> -->
 ## Sector dates
 The start and end dates for each sector, and the list of GI targets (csv
-file) observed in each sector, are below. A summary of TESS data available at the MAST
-can be found
-[here](https://outerspace.stsci.edu/display/TESS/TESS+Holdings+Available+by+MAST+Service)
-and information on how to download the data can be found [here](data-access.html).
+file) observed in each sector, are below. The MAST provide an up to date [summary of TESS data available at the archive](https://outerspace.stsci.edu/display/TESS/TESS+Holdings+Available+by+MAST+Service).
+Information on how to download the data can be found [here](data-access.html). The spacecraft pointing positions are [available from MIT](https://tess.mit.edu/observations/).
 
-The data from each sector are required to be available at the MAST no later than 2 months after the observations for a given sector are completed. However, the data are routinely downloaded, processed through the pipeline, and released at MAST on shorter timescales than this. The data for each sector typically available within 1 month of the end date for a given sector. Users are encouraged to check the [MAST status page](https://outerspace.stsci.edu/display/TESS/TESS+Holdings+Available+by+MAST+Service) to check on the data availability for particular sectors.
+The data from each sector are required to be available at the MAST no later than 2 months after the observations for a given sector are completed. However, the data are routinely downloaded, processed through the pipeline, and released at MAST on shorter timescales than this. The data for each sector typically available within 1 month of the end date for a given sector. <b>Users are encouraged to check the [MAST status page](https://outerspace.stsci.edu/display/TESS/TESS+Holdings+Available+by+MAST+Service) to check on the data availability for particular sectors</b>.
 
 <div class="panel panel-primary">
   <div class="panel-heading">
