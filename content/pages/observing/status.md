@@ -298,8 +298,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>2019&nbsp;Sep&nbsp;11</td>
     <td>2019&nbsp;Oct&nbsp;07</td>
     <td><a href='data/target_lists/sector016_targets_lists/GI_S016.csv'>Download</a></td>
-    <td style="min-width: 12em;">
-    <a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a>. Pointing shifted toward the North ecliptic pole by 31 degrees (<a
+    <td style="min-width: 12em;">Pointing shifted toward the North ecliptic pole by 31 degrees (<a
     href=observing-technical.html>see the technical details page for more information</a>).
     </td>
   </tr>
@@ -310,7 +309,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>2019&nbsp;Aug&nbsp;15</td>
     <td>2019&nbsp;Sep&nbsp;11</td>
     <td><a href='data/target_lists/sector015_targets_lists/GI_S015.csv'>Download</a></td>
-    <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a>. Pointing shifted toward the North ecliptic pole by 31 degrees (<a
+    <td style="min-width: 12em;">Pointing shifted toward the North ecliptic pole by 31 degrees (<a
     href=observing-technical.html>see the technical details page for more information</a>).
     </td>
   </tr>
@@ -321,7 +320,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>2019&nbsp;Jul&nbsp;18</td>
     <td>2019&nbsp;Aug&nbsp;15</td>
     <td><a href='data/target_lists/sector014_targets_lists/GI_S014.csv'>Download</a></td>
-    <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a>. Pointing shifted toward the North ecliptic pole by 31 degrees (<a
+    <td style="min-width: 12em;">Pointing shifted toward the North ecliptic pole by 31 degrees (<a
     href=observing-technical.html>see the technical details page for more information</a>).
     </td>
   </tr>
@@ -336,7 +335,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>2019&nbsp;Jun&nbsp;19</td>
     <td>2019&nbsp;Jul&nbsp;18</td>
     <td><a href='data/target_lists/sector013_targets_lists/GI_S013.csv'>Download</a></td>
-    <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a>
+    <td style="min-width: 12em;">
     </td>
   </tr>
 
@@ -346,7 +345,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>2019&nbsp;May&nbsp;21</td>
     <td>2019&nbsp;Jun&nbsp;19</td>
     <td><a href='data/target_lists/sector012_targets_lists/GI_S012.csv'>Download</a></td>
-    <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a>
+    <td style="min-width: 12em;">
     </td>
   </tr>
 
@@ -356,7 +355,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>2019&nbsp;Apr&nbsp;22</td>
     <td>2019&nbsp;May&nbsp;21</td>
     <td><a href='data/target_lists/sector011_targets_lists/GI_S011.csv'>Download</a></td>
-    <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a>
+    <td style="min-width: 12em;">
     </td>
   </tr>
 
@@ -366,7 +365,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>2019&nbsp;Mar&nbsp;26</td>
     <td>2019&nbsp;Apr&nbsp;22</td>
     <td><a href='data/target_lists/sector010_targets_lists/GI_S010.csv'>Download</a></td>
-    <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a>
+    <td style="min-width: 12em;">
     </td>
   </tr>
 
@@ -377,7 +376,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>2019&nbsp;Mar&nbsp;26</td>
     <td><a href='data/target_lists/sector009_targets_lists/GI_S009.csv'>Download</a></td>
 
-    <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a>
+    <td style="min-width: 12em;">
     </td>
   </tr>
 
@@ -387,7 +386,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>2019&nbsp;Feb&nbsp;02</td>
     <td>2019&nbsp;Feb&nbsp;28</td>
     <td><a href='data/target_lists/sector008_targets_lists/GI_S008.csv'>Download</a></td>
-    <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a>
+    <td style="min-width: 12em;">
     </td>
   </tr>
 
@@ -397,7 +396,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>2019&nbsp;Jan&nbsp;07</td>
     <td>2019&nbsp;Feb&nbsp;02</td>
     <td><a href='data/target_lists/sector007_targets_lists/GI_S007.csv'>Download</a></td>
-    <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a>
+    <td style="min-width: 12em;">
     </td>
   </tr>
 
@@ -407,7 +406,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>2018&nbsp;Dec&nbsp;15</td>
     <td>2019&nbsp;Jan&nbsp;07</td>
     <td><a href='data/target_lists/sector006_targets_lists/GI_S006.csv'>Download</a></td>
-    <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a>
+    <td style="min-width: 12em;">
     </td>
   </tr>
 
@@ -417,7 +416,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>2018&nbsp;Nov&nbsp;15</td>
     <td>2018&nbsp;Dec&nbsp;11</td>
     <td><a href='data/target_lists/sector005_targets_lists/GI_S005.csv'>Download</a></td>
-    <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a>
+    <td style="min-width: 12em;">
     </td>
   </tr>
 
@@ -427,7 +426,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>2018&nbsp;Oct&nbsp;18</td>
     <td>2018&nbsp;Nov&nbsp;15</td>
     <td><a href='data/target_lists/sector004_targets_lists/GI_S004.csv'>Download</a></td>
-    <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a>
+    <td style="min-width: 12em;">
     </td>
   </tr>
 
@@ -437,7 +436,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>2018&nbsp;Sep&nbsp;20</td>
     <td>2018&nbsp;Oct&nbsp;18</td>
     <td><a href='data/target_lists/sector003_targets_lists/GI_S003.csv'>Download</a></td>
-    <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a>
+    <td style="min-width: 12em;">
     </td>
   </tr>
 
@@ -447,7 +446,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>2018&nbsp;Aug&nbsp;22</td>
     <td>2018&nbsp;Sep&nbsp;20</td>
     <td><a href='data/target_lists/sector002_targets_lists/GI_S002.csv'>Download</a></td>
-    <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a></td>
+    <td style="min-width: 12em;"></td>
   </tr>
 
   <tr>
@@ -456,7 +455,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>2018&nbsp;Jul&nbsp;25</td>
     <td>2018&nbsp;Aug&nbsp;22</td>
     <td><a href='data/target_lists/sector001_targets_lists/GI_S001.csv'>Download</a></td>
-    <td style="min-width: 12em;"><a href='https://archive.stsci.edu/tess/index.html'>Data available at MAST</a></td>
+    <td style="min-width: 12em;"></td>
   </tr>
 
 
