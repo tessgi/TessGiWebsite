@@ -1,4 +1,4 @@
-Title: Mission status
+Title: Observing dates
 Save_as: status.html
 
 [TOC]

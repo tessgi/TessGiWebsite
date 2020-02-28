@@ -96,7 +96,7 @@ MENUITEMS = (
             )
          ),
         ('Using TESS', (
-            ('Status', 'status.html'),
+            ('Observing dates', 'status.html'),
             ('Guest Investigator Program', 'proposing-investigations.html'),
             ('Technical details', 'observing-technical.html'),
             # ('Campaign fields', 'k2-fields.html'),
@@ -132,7 +132,7 @@ KEY_INFORMATION = (
     # ('Proposal submission page', 'https://heasarc.gsfc.nasa.gov/ark/rps/'),
     ('Web TESS Target Tool', 'https://heasarc.gsfc.nasa.gov/cgi-bin/tess/webtess/wtv.py'),
     #('Observatory Guide', 'documentation.html'),
-    ('Mission Status', 'https://heasarc.gsfc.nasa.gov/docs/tess/status.html'),
+    ('Observing dates', 'https://heasarc.gsfc.nasa.gov/docs/tess/status.html'),
     ('Data at MAST', 'http://archive.stsci.edu/tess/summary.html'),    
     ('Frequently asked questions', 'faq.html'),
     ('Volunteer to serve on a review panel',
