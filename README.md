@@ -3,7 +3,7 @@
  -->
 ***The website for astronomers using NASA's TESS space telescope.***
 
-Live URL: Nothing for now
+Live URL: https://heasarc.gsfc.nasa.gov/docs/tess/
 
 Test URL: http://tessgi.github.io/TessGiWebsite/
 
