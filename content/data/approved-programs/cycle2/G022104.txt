@@ -1,9 +1,13 @@
 # TESS Program G022104
-            
+
 Title: Visitors From The Inner Galaxy: The Age Of Metal Rich Dwarfs
 
 PI: Valentini, Marica - Leibniz-Institut Fur Astrophysik Potsdam (Aip)
 
-Type: Small
+Type: SMALL
 
-Summary: In this proposal, we aim at putting constraints on the Milky Way ISM lithium chemical evolution. It has been proposed that the puzzling lithium decrease at super-solar metallicities could be caused by old stars, originating for the inner parts of the discs, depleting their lithium during their time-travel (Guiglion et al. 2019). Using TESS light curves of 15 selected dwarfs stars (6 of them are super-solar), we plan to derive precise masses, radius and ages, and well as atmospheric parameters and refined lithium abundances from ESO HARPS spectra. If such metal-rich stars are confirmed to be old, this would reinforce the fact that they migrated from the inner-disc, giving additional constraint to the lithium ISM decrease.                                                                      
+Summary: In this proposal, we aim at putting constraints on the Milky Way ISM lithium chemical evolution. It has been proposed that the puzzling lithium decrease at super-solar metallicities could be caused by old stars, originating for the inner parts of the discs, depleting their lithium during their time-travel (Guiglion et al. 2019). Using TESS light curves of 15 selected dwarfs stars (6 of them are super-solar), we plan to derive precise masses, radius and ages, and well as atmospheric parameters and refined lithium abundances from ESO HARPS spectra. If such metal-rich stars are confirmed to be old, this would reinforce the fact that they migrated from the inner-disc, giving additional constraint to the lithium ISM decrease.
+
+
+# Sector 023 targets observed (1)
+399092601,189.1186,10.7297,8.18,G022104
