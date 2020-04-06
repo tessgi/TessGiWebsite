@@ -45,8 +45,8 @@ TESS](https://archive.stsci.edu/tess/index.html#documents).
   </tr>
 
   <tr>
-    <td style="width: 35em;"><a href='http://adsabs.harvard.edu/abs/2017arXiv170600495S'>TESS Input Catalog and Candidate Target List</a></td>
-    <td>Stassun et al., 2017</td>
+    <td style="width: 35em;"><a href='https://ui.adsabs.harvard.edu/abs/2019AJ....158..138S'>TESS Input Catalog and Candidate Target List v8</a></td>
+    <td>Stassun et al., 2019</td>
   </tr>
 
   <tr>
