@@ -26,6 +26,40 @@ Cycle 2
 
 .. include:: approved-programs/cycle2.html
 
+Sector 23
+=========
+.. raw:: html
+
+    <ul class="list-group">
+        <li class="list-group-item">
+          <i class="fa fa-calendar fa-margin"></i>
+          Mar 18, 2020 - Apr 15, 2020
+        </li>
+        <li class="list-group-item">
+            <i class="fa fa-download fa-margin"></i>
+            <a href="data/target_lists/sector023_targets_lists/GI_S023.csv">Target list (csv)</a>
+        </li>
+    </ul>
+
+.. include:: approved-programs/sector023.html
+
+Sector 22
+=========
+.. raw:: html
+
+    <ul class="list-group">
+        <li class="list-group-item">
+          <i class="fa fa-calendar fa-margin"></i>
+          Feb 18, 2020 - Mar 18, 2020
+        </li>
+        <li class="list-group-item">
+            <i class="fa fa-download fa-margin"></i>
+            <a href="data/target_lists/sector022_targets_lists/GI_S022.csv">Target list (csv)</a>
+        </li>
+    </ul>
+
+.. include:: approved-programs/sector022.html
+
 Sector 21
 =========
 .. raw:: html
