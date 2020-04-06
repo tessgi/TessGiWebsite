@@ -11,3 +11,6 @@ Summary: Quasi-periodic oscillations (QPOs) are potentially valuable tools for s
 
 # Sector 021 targets observed (1)
 16850687,158.6608,39.6412,16.53,G022144
+
+# Sector 022 targets observed (1)
+10002431953,184.6104,29.8128,12.85,G022144

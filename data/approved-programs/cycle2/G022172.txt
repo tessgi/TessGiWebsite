@@ -136,3 +136,9 @@ Summary: Be stars are near-critically rotating non-radially pulsating B-type sta
 
 # Sector 021 targets observed (1)
 137752707,175.1142,57.9705,6.45,G022172
+
+# Sector 022 targets observed (1)
+373676988,186.3477,35.976,10.6,G022172
+
+# Sector 023 targets observed (1)
+313498719,249.0574,52.9245,5.25,G022172;G022133;G022171;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25

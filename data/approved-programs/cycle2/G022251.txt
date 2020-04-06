@@ -11,3 +11,6 @@ Summary: We propose to extract and analyze TESS light curves for 242 selected ca
 
 # Sector 017 targets observed (1)
 115550766,7.9968,37.533,9.95,G022251
+
+# Sector 022 targets observed (1)
+18019932,172.1228,40.4789,9.47,G022251
