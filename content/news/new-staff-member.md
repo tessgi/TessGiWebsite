@@ -1,0 +1,5 @@
+Title: New Support Scientist on the GI team
+Date: 2020-04-16 12:00
+Author: Rebekah Hounsell, Knicole Colon
+
+Dr. Rebekah Hounsell recently started a new position with the TESS GI team as a support scientist. She holds a joint position as an associate research scientist at the University of Maryland, Baltimore County. She joined the team from the University of Pennsylvania where she was a postdoctoral researcher contributing to the design of the WFIRST mission and studying supernovae in the Dark Energy Survey. Her doctoral research was performed at Liverpool John Moores University in the UK where she focused on the outbursts and environments of novae. Dr. Hounsell’s research interests are focused on the transient sky and vary in energy range from novae to supernovae, tidal disruption events and gamma-ray bursts.
