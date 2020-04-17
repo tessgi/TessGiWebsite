@@ -167,7 +167,7 @@ IMPORTANT_DATES = (
          )
 
 # Defines the "meetings" box on the front page
-# MEETINGS = (
+#MEETINGS = (
 #             # ('<b>4–8 Jun 2017</b><br>'
 #             #  'AAS 230th Meeting',
 #             #  'tess-community-science-center-team-at-aas-230.html'),
@@ -249,6 +249,8 @@ IMPORTANT_DATES = (
 #             ('<b>10-14 February 2020</b><br>'
 #              'Expanding the Science of TESS',
 #              'https://tess.ninja/three/')
+#              ('<b>2-6 August 2021</b><br>'
+#               'TESS Science Conference II')
 #             )
 
 # Defines the "related websites" listing in the footer of all pages
