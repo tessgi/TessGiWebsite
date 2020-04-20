@@ -515,8 +515,14 @@ cadence for each camera and sector.
 <div class="row">
     <div class="col-md-6 text-center">
       <a href="images/sector-plots/sector-plots.015.jpeg">
-        <img id="s011" src="images/sector-plots/sector-plots.015.jpeg" class="img-responsive">
+        <img id="s015" src="images/sector-plots/sector-plots.015.jpeg" class="img-responsive">
         Sector 15
+      </a>
+    </div>
+    <div class="col-md-6 text-center">
+      <a href="images/sector-plots/sector-plots.016.jpeg">
+        <img id="s016" src="images/sector-plots/sector-plots.016.jpeg" class="img-responsive">
+        Sector 16
       </a>
     </div>
 </div>
@@ -524,13 +530,13 @@ cadence for each camera and sector.
 <div class="row">
     <div class="col-md-6 text-center">
       <a href="images/sector-plots/sector-plots.013.jpeg">
-        <img id="s011" src="images/sector-plots/sector-plots.013.jpeg" class="img-responsive">
+        <img id="s013" src="images/sector-plots/sector-plots.013.jpeg" class="img-responsive">
         Sector 13
       </a>
     </div>
     <div class="col-md-6 text-center">
       <a href="images/sector-plots/sector-plots.014.jpeg">
-        <img id="s012" src="images/sector-plots/sector-plots.014.jpeg" class="img-responsive">
+        <img id="s014" src="images/sector-plots/sector-plots.014.jpeg" class="img-responsive">
         Sector 14
       </a>
     </div>
@@ -590,7 +596,7 @@ cadence for each camera and sector.
     </div>
     <div class="col-md-6 text-center">
       <a href="images/sector-plots/sector-plots.006.jpeg">
-        <img id="s005" src="images/sector-plots/sector-plots.006.jpeg" class="img-responsive">
+        <img id="s006" src="images/sector-plots/sector-plots.006.jpeg" class="img-responsive">
         Sector 6
       </a>
     </div>
