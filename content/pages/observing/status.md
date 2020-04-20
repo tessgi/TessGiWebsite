@@ -514,6 +514,51 @@ cadence for each camera and sector.
 
 <div class="row">
     <div class="col-md-6 text-center">
+      <a href="images/sector-plots/sector-plots.021.jpeg">
+        <img id="s021" src="images/sector-plots/sector-plots.021.jpeg" class="img-responsive">
+        Sector 21
+      </a>
+    </div>
+    <div class="col-md-6 text-center">
+      <a href="images/sector-plots/sector-plots.022.jpeg">
+        <img id="s022" src="images/sector-plots/sector-plots.022.jpeg" class="img-responsive">
+        Sector 22
+      </a>
+    </div>
+</div>
+<br>
+<div class="row">
+    <div class="col-md-6 text-center">
+      <a href="images/sector-plots/sector-plots.019.jpeg">
+        <img id="s019" src="images/sector-plots/sector-plots.019.jpeg" class="img-responsive">
+        Sector 19
+      </a>
+    </div>
+    <div class="col-md-6 text-center">
+      <a href="images/sector-plots/sector-plots.020.jpeg">
+        <img id="s020" src="images/sector-plots/sector-plots.020.jpeg" class="img-responsive">
+        Sector 20
+      </a>
+    </div>
+</div>
+<br>
+<div class="row">
+    <div class="col-md-6 text-center">
+      <a href="images/sector-plots/sector-plots.017.jpeg">
+        <img id="s017" src="images/sector-plots/sector-plots.017.jpeg" class="img-responsive">
+        Sector 17
+      </a>
+    </div>
+    <div class="col-md-6 text-center">
+      <a href="images/sector-plots/sector-plots.018.jpeg">
+        <img id="s018" src="images/sector-plots/sector-plots.018.jpeg" class="img-responsive">
+        Sector 18
+      </a>
+    </div>
+</div>
+<br>
+<div class="row">
+    <div class="col-md-6 text-center">
       <a href="images/sector-plots/sector-plots.015.jpeg">
         <img id="s015" src="images/sector-plots/sector-plots.015.jpeg" class="img-responsive">
         Sector 15
