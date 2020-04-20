@@ -41,3 +41,7 @@ Summary: To date there have been no studies using asteroseismology to probe the 
 
 # Sector 023 targets observed (1)
 235555218,231.8122,50.6196,7.95,G022115
+
+# Sector 024 targets observed (2)
+235555218,231.8122,50.6196,7.95,G022115
+229667767,244.935,46.3136,4.05,G022133;G022115;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25

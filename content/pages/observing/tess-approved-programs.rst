@@ -26,6 +26,23 @@ Cycle 2
 
 .. include:: approved-programs/cycle2.html
 
+Sector 24
+=========
+.. raw:: html
+
+    <ul class="list-group">
+        <li class="list-group-item">
+          <i class="fa fa-calendar fa-margin"></i>
+          Apr 15, 2020 - May 13, 2020
+        </li>
+        <li class="list-group-item">
+            <i class="fa fa-download fa-margin"></i>
+            <a href="data/target_lists/sector024_targets_lists/GI_S024.csv">Target list (csv)</a>
+        </li>
+    </ul>
+
+.. include:: approved-programs/sector024.html
+
 Sector 23
 =========
 .. raw:: html
