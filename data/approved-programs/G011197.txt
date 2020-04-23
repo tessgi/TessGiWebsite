@@ -1,0 +1,10 @@
+# TESS Program G011197
+
+Title: No Longer On The Margins: Completing The Rotational Census Of Low-Mass Hyads With Tess
+
+PI: Agueros, Marcel - Columbia University
+
+Type: Small
+
+Summary: We propose to obtain TESS light curves for every accessible member of the Hyades, the benchmark 625-Myr-old open cluster. We expect to measure new rotation periods for >200 Hyads, primarily for stars ignored by previous rotation surveys. Because the Hyades is one of the nearest and best-studied open clusters, empirical calibrations of the age-rotation-activity relation (ARAR) often interpolate between the observed properties of Hyads and those of the Sun. Our TESS data will therefore be critical to improving the anchoring of the ARAR, and will build on our experience with surveys for rotation. Furthermore, combining TESS data with archival and new optical and UV spectroscopy and X-ray observations, we will provide new constraints on the operation of stellar dynamos and on magnetic braking.
+

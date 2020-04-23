@@ -1,0 +1,10 @@
+# TESS Program G022155
+
+Title: The Evolution Of Dust And Debris Around Sun-Like Stars
+
+PI: David, Trevor - Flatiron Institute
+
+Type: LARGE
+
+Summary: Around 1 in 5 solar-type stars hosts a debris disk, a multi-component structure comprised of optically thin dust and planetesimals of 1-100 kilometers in size. The evolution of debris disk incidence and properties contains information about the migration of distant giant planets, the rate of giant impacts, and the late stages of terrestrial planet formation. However, debris disks evolve over timescales comparable to stellar lifetimes, and evolution studies are thus hindered by the difficulties of age-dating field stars. Gyrochronology provides the most robust and efficient means of age-dating large numbers of FGK stars. We propose to measure rotation periods and ages for tens of thousands of solar-type dwarfs detected with WISE and test various models of debris disk evolution.
+

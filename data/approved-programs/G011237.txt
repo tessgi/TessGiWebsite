@@ -1,0 +1,10 @@
+# TESS Program G011237
+
+Title: Performing The Most Comprehensive Exoplanet Survey Of The Southern Sky With TESS Full Frame Images
+
+PI: Montet, Benjamin - University Of Chicago
+
+Type: Large
+
+Summary: TESS full frame images (FFIs) are expected to contain more than 10,000 transiting planets and hundreds of thousands of eclipsing binaries; they will also be broadly useful throughout time-domain astronomy if light curves for targets are easily accessible for all. As the developers of the only FFI pipeline for the Kepler mission and the highest precision automated light curves for K2, we propose to produce and release to the community light curves for 25 million objects observed by TESS during Cycle 1, making the data public within one month of each data release. We will search these light curves for transiting planets and eclipsing binaries, releasing all of our software, data products, and catalogs to the community in order to maximize the science that can be quickly enabled by TESS.     
+

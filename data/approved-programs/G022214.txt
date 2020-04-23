@@ -1,0 +1,10 @@
+# TESS Program G022214
+
+Title: A High Precision Survey To Characterize The Dynamical History Of Main Belt Asteroids
+
+PI: Hedges, Christina - Bay Area Environmental Research Institute
+
+Type: LARGE
+
+Summary: Asteroids provide a unique window into the dynamical history of the solar system. Understanding asteroid physical properties, and in particular their rotation rates, allows us to model their collisional history. Accurately measuring long period rotation is crucial to understand the distribution of asteroid rotation rates. Ground based surveys, such as PAN-STARRS and SDSS, are designed for asteroid discovery, and are unable to rigorously identify long period rotation rates. Space-based facilities, such as WISE, do not provide the wide field of view required for an unbiased survey. We propose to leverage TESS s unique capabilities of precise, long-term monitoring across a huge sky-coverage to accurately survey more than 4,000 main belt asteroids, and generate light curves of unprecedented .
+

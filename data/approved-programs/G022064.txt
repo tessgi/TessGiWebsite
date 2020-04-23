@@ -1,0 +1,13 @@
+# TESS Program G022064
+
+Title: The Pulsational Properties Of The Outbursting Be Star Hd6226
+
+PI: Richardson, Noel - University Of Toledo
+
+Type: SMALL
+
+Summary: The bright Be star HD6226 has been a target of a recent intensive observational campaign, and has built lost a disk four times during this time frame. The cause of the disk-building episodes in Be stars remains unknown. However, this star has shown strong evidence of a non-radial pulsational mode in the optical spectra we have collected. While our data cannot identify the pulsational mode, other Be stars observed with missions such as MOST have revealed that there is a rich pulsational spectrum beyond the few modes identified from the ground. As such, two-minute cadence observations with TESS should allow us to understand the seismic structure of this Be star. Such an understanding could elucidate the underlying physics that cause some rapidly rotating B stars to form disks.
+
+
+# Sector 017 targets observed (1)
+196501216,15.9723,47.6423,6.82,G022064;G022020;G022172;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25
