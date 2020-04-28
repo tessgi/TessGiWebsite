@@ -32,8 +32,8 @@ Save_as: helpdesk.html
         Support Scientist
     </div>
     <div class="col-sm-3 text-center">
-        <img src="images/faces/koji.jpg" class="img-circle"><br>
-        Dr Koji Mukai<br>
+        <img src="images/faces/rebekah.jpg" class="img-circle"><br>
+        Dr Rebekah Hounsell<br>
         Support Scientist
     </div>
 </div>
