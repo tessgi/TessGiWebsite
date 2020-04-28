@@ -99,6 +99,50 @@ Barceló Forteza, S., Moya, A., Barrado, D., et al.
 Kostov, Veselin B., Orosz, Jerome A., Feinstein, Adina D., et al.    
 2020, not refereed ([2020arXiv200407783K](http://adsabs.harvard.edu/abs/2020arXiv200407783K))  
 
+22. [PROPERTIES OF CVSO 30 FROM TESS MEASUREMENTS: PROBABLY A BINARY T TAURI STAR WITH COMPLEX LIGHTCURVES AND NO OBVIOUS PLANETS](http://adsabs.harvard.edu/abs/2020MNRAS.tmp.1191K)  
+Koen, C.    
+2020, refereed ([2020MNRAS.tmp.1191K](http://adsabs.harvard.edu/abs/2020MNRAS.tmp.1191K))  
+
+23. [TESS UNVEILS THE PHASE CURVE OF WASP-33B. CHARACTERIZATION OF THE PLANETARY ATMOSPHERE AND THE PULSATIONS FROM THE STAR](http://adsabs.harvard.edu/abs/2020arXiv200410767V)  
+von Essen, C., Mallonn, M., Borre, C. C., et al.    
+2020, not refereed ([2020arXiv200410767V](http://adsabs.harvard.edu/abs/2020arXiv200410767V))  
+
+24. [TESS DISCOVERY OF A SUPER-EARTH AND THREE SUB-NEPTUNES HOSTED BY THE BRIGHT, SUN-LIKE STAR HD 108236](http://adsabs.harvard.edu/abs/2020arXiv200411314D)  
+Daylan, Tansu, Pingle, Kartik, Wright, Jasmine, et al.    
+2020, not refereed ([2020arXiv200411314D](http://adsabs.harvard.edu/abs/2020arXiv200411314D))  
+
+25. [A HOT TERRESTRIAL PLANET ORBITING THE BRIGHT M DWARF L 168-9 UNVEILED BY TESS](http://adsabs.harvard.edu/abs/2020A&A...636A..58A)  
+Astudillo-Defru, N., Cloutier, R., Wang, S. X., et al.    
+2020, refereed ([2020A&A...636A..58A](http://adsabs.harvard.edu/abs/2020A&A...636A..58A))  
+
+26. [SUPERFLARES AND VARIABILITY IN SOLAR-TYPE STARS WITH TESS IN THE SOUTHERN HEMISPHERE](http://adsabs.harvard.edu/abs/2020MNRAS.tmp.1151D)  
+Doyle, L., Ramsay, G., Doyle, J. G.    
+2020, refereed ([2020MNRAS.tmp.1151D](http://adsabs.harvard.edu/abs/2020MNRAS.tmp.1151D))  
+
+27. [MOBSTER -- IV. DETECTION OF A NEW MAGNETIC B-TYPE STAR FROM FOLLOW-UP SPECTROPOLARIMETRIC OBSERVATIONS OF PHOTOMETRICALLY SELECTED CANDIDATES](http://adsabs.harvard.edu/abs/2020arXiv200409698D)  
+David-Uraz, A., Shultz, M. E., Petit, V., et al.    
+2020, not refereed ([2020arXiv200409698D](http://adsabs.harvard.edu/abs/2020arXiv200409698D))  
+
+28. [THE SOPHIE SEARCH FOR NORTHERN EXTRASOLAR PLANETS. XVI. HD 158259: A COMPACT PLANETARY SYSTEM IN A NEAR-3:2 MEAN MOTION RESONANCE CHAIN](http://adsabs.harvard.edu/abs/2020A&A...636L...6H)  
+Hara, N. C., Bouchy, F., Stalport, M., et al.    
+2020, refereed ([2020A&A...636L...6H](http://adsabs.harvard.edu/abs/2020A&A...636L...6H))  
+
+29. [THE MULTI-PLANET SYSTEM TOI-421 -- A WARM NEPTUNE AND A SUPER PUFFY MINI-NEPTUNE TRANSITING A G9 V STAR IN A VISUAL BINARY](http://adsabs.harvard.edu/abs/2020arXiv200410095C)  
+Carleo, Ilaria, Gandolfi, Davide, Barragán, Oscar, et al.    
+2020, not refereed ([2020arXiv200410095C](http://adsabs.harvard.edu/abs/2020arXiv200410095C))  
+
+30. [DETECTION OF NA, K, AND H<SUB>2</SUB>O IN THE HAZY ATMOSPHERE OF WASP-6B](http://adsabs.harvard.edu/abs/2020MNRAS.tmp.1223C)  
+Carter, Aarynn L., Nikolov, Nikolay, Sing, David K., et al.    
+2020, refereed ([2020MNRAS.tmp.1223C](http://adsabs.harvard.edu/abs/2020MNRAS.tmp.1223C))  
+
+31. [WASP-4 TRANSIT TIMING VARIATION FROM A COMPREHENSIVE SET OF 129 TRANSITS](http://adsabs.harvard.edu/abs/2020MNRAS.tmpL..64B)  
+Baluev, R. V., Sokov, E. N., Hoyer, S., et al.    
+2020, refereed ([2020MNRAS.tmpL..64B](http://adsabs.harvard.edu/abs/2020MNRAS.tmpL..64B))  
+
+32. [THE SINGLE-SIDED PULSATOR CO CAMELOPARDALIS](http://adsabs.harvard.edu/abs/2020MNRAS.tmp.1132K)  
+Kurtz, D. W., Handler, G., Rappaport, S. A., et al.    
+2020, refereed ([2020MNRAS.tmp.1132K](http://adsabs.harvard.edu/abs/2020MNRAS.tmp.1132K))  
+
 
 2020-03
 -------

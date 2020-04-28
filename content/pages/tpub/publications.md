@@ -12,8 +12,8 @@ the TESS mission is provided by the NASA Explorer Program.*
 
 The TESS Science Support Center curates a list of scientific publications
 pertaining to TESS.
-The database contains 251 publications,
-of which 189 are peer-reviewed.
+The database contains 262 publications,
+of which 196 are peer-reviewed.
 It demonstrates the important impact of TESS data
 on astronomical research.
 
@@ -29,7 +29,7 @@ Or seach by topic:
 If you spot an error in the database, such as a missing entry,
 please get in touch or open an issue in the <a href="https://github.com/tessgi/tpub">GitHub repository</a> of the database.
 
-Last update: 20 Apr 2020.
+Last update: 28 Apr 2020.
 
 <hr/>
 
@@ -46,9 +46,9 @@ of year.
 
 Both TESS data have been used for scientific applications
 that reach far beyond exoplanet research.
-While 133 works relate to exoplanets
+While 140 works relate to exoplanets
 (53%),
-a total of 118
+a total of 122
 pertain to other areas of astrophysics
 (47%).
 
@@ -60,7 +60,7 @@ pertain to other areas of astrophysics
 ## Most-cited publications
 
 TESS publications have cumulatively been cited
-3244 times.
+3247 times.
 The list below shows the most-cited publications,
 based on the citation count obtained from NASA ADS.
 
@@ -105,14 +105,14 @@ Vanderspek, Roland, Huang, Chelsea X., Vanderburg, Andrew, et al.
 [2019ApJ...871L..24V](http://adsabs.harvard.edu/abs/2019ApJ...871L..24V)
 <span class="badge">48 citations</span>
 
-9. PREDICTED NUMBER, MULTIPLICITY, AND ORBITAL DYNAMICS OF TESS M-DWARF EXOPLANETS  
-Ballard, Sarah    
-[2019AJ....157..113B](http://adsabs.harvard.edu/abs/2019AJ....157..113B)
-<span class="badge">42 citations</span>
-
-10. EXPECTED YIELDS OF PLANET DISCOVERIES FROM THE TESS PRIMARY AND EXTENDED MISSIONS  
+9. EXPECTED YIELDS OF PLANET DISCOVERIES FROM THE TESS PRIMARY AND EXTENDED MISSIONS  
 Huang, Chelsea X., Shporer, Avi, Dragomir, Diana, et al.    
 [2018arXiv180711129H](http://adsabs.harvard.edu/abs/2018arXiv180711129H)
+<span class="badge">42 citations</span>
+
+10. PREDICTED NUMBER, MULTIPLICITY, AND ORBITAL DYNAMICS OF TESS M-DWARF EXOPLANETS  
+Ballard, Sarah    
+[2019AJ....157..113B](http://adsabs.harvard.edu/abs/2019AJ....157..113B)
 <span class="badge">42 citations</span>
 <hr/>
 
@@ -130,7 +130,7 @@ within the last 90 days.
 <!-- ## Most-active authors
 
 The entries in the publication database have been authored and co-authored
-by a total of 1596 unique author names.
+by a total of 1638 unique author names.
 Here we list the most-active authors, defined as those with six or more first-author publications in our database.
 
 -->

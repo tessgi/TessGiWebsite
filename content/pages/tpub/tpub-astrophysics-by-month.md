@@ -55,6 +55,22 @@ Kawka, Adela, Simpson, Jeffrey D., Vennes, Stephane, et al.
 Barceló Forteza, S., Moya, A., Barrado, D., et al.    
 2020, not refereed ([2020arXiv200407647B](http://adsabs.harvard.edu/abs/2020arXiv200407647B))  
 
+11. [PROPERTIES OF CVSO 30 FROM TESS MEASUREMENTS: PROBABLY A BINARY T TAURI STAR WITH COMPLEX LIGHTCURVES AND NO OBVIOUS PLANETS](http://adsabs.harvard.edu/abs/2020MNRAS.tmp.1191K)  
+Koen, C.    
+2020, refereed ([2020MNRAS.tmp.1191K](http://adsabs.harvard.edu/abs/2020MNRAS.tmp.1191K))  
+
+12. [SUPERFLARES AND VARIABILITY IN SOLAR-TYPE STARS WITH TESS IN THE SOUTHERN HEMISPHERE](http://adsabs.harvard.edu/abs/2020MNRAS.tmp.1151D)  
+Doyle, L., Ramsay, G., Doyle, J. G.    
+2020, refereed ([2020MNRAS.tmp.1151D](http://adsabs.harvard.edu/abs/2020MNRAS.tmp.1151D))  
+
+13. [MOBSTER -- IV. DETECTION OF A NEW MAGNETIC B-TYPE STAR FROM FOLLOW-UP SPECTROPOLARIMETRIC OBSERVATIONS OF PHOTOMETRICALLY SELECTED CANDIDATES](http://adsabs.harvard.edu/abs/2020arXiv200409698D)  
+David-Uraz, A., Shultz, M. E., Petit, V., et al.    
+2020, not refereed ([2020arXiv200409698D](http://adsabs.harvard.edu/abs/2020arXiv200409698D))  
+
+14. [THE SINGLE-SIDED PULSATOR CO CAMELOPARDALIS](http://adsabs.harvard.edu/abs/2020MNRAS.tmp.1132K)  
+Kurtz, D. W., Handler, G., Rappaport, S. A., et al.    
+2020, refereed ([2020MNRAS.tmp.1132K](http://adsabs.harvard.edu/abs/2020MNRAS.tmp.1132K))  
+
 
 2020-03
 -------
