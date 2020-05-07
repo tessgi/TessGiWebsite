@@ -1,0 +1,16 @@
+# TESS Program G022046
+
+Title: KIC 8462852: Where'S The Flux Now?
+
+PI: Boyajian, Tabetha - Louisiana State University
+
+Type: SMALL
+
+Summary: The strange flux-dips found in Kepler data of KIC 8462852 have given rise to one of the most enigmatic astronomical discoveries in recent time, as no satisfying explanations for these dips have been found yet. We request 2 minute cadence observations of the star with the TESS satellite in order to explore the star's variability. We will use the TESS time-series to 1) perform asteroseismic analysis to search for coherent delta-Scuti like pulsations and 2) search for new dipping events, the next possibly occurring during the TESS observation window. We will augment these TESS data with coordinated multi-wavelength observations contemporaneously planned at ground-based observatories and with the SWIFT satellite.
+
+
+# Sector 014 targets observed (1)
+185336364,301.5643,44.4568,11.35,G022046
+
+# Sector 015 targets observed (1)
+185336364,301.5643,44.4568,11.35,G022046

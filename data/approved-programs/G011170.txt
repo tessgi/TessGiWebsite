@@ -1,0 +1,10 @@
+# TESS Program G011170
+
+Title: Constraining Stellar Rotational Evolution At The Zams
+
+PI: Douglas, Stephanie - Harvard-Smithsonian Center For Astrophysics
+
+Type: Small
+
+Summary: Current constraints on stellar rotation around the zero-age main sequence (ZAMS) cannot constrain models for angular momentum evolution. As stars contract on the pre-main sequence, they spin up; once they reach the ZAMS, they begin to spin down due to braking by magnetized winds. Only a handful of rotation periods have been measured for Solar-type stars between 20-100 Myr so far. We propose to fill this gap by measuring rotation periods from TESS full frame images for ~60 Solar-mass stars in six 30-50 Myr-old open clusters. With these data in hand, we will place strong constraints on rotational evolution around the ZAMS, discriminate between models for different core-envelope coupling timescales, and investigate the dependence of activity on rotation in young Solar-type stars.             
+
