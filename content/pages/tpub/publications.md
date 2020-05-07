@@ -12,8 +12,8 @@ the TESS mission is provided by the NASA Explorer Program.*
 
 The TESS Science Support Center curates a list of scientific publications
 pertaining to TESS.
-The database contains 262 publications,
-of which 203 are peer-reviewed.
+The database contains 269 publications,
+of which 205 are peer-reviewed.
 It demonstrates the important impact of TESS data
 on astronomical research.
 
@@ -46,9 +46,9 @@ of year.
 
 Both TESS data have been used for scientific applications
 that reach far beyond exoplanet research.
-While 139 works relate to exoplanets
+While 143 works relate to exoplanets
 (53%),
-a total of 123
+a total of 126
 pertain to other areas of astrophysics
 (47%).
 
@@ -60,7 +60,7 @@ pertain to other areas of astrophysics
 ## Most-cited publications
 
 TESS publications have cumulatively been cited
-3405 times.
+3410 times.
 The list below shows the most-cited publications,
 based on the citation count obtained from NASA ADS.
 
@@ -105,9 +105,9 @@ Vanderspek, Roland, Huang, Chelsea X., Vanderburg, Andrew, et al.
 [2019ApJ...871L..24V](http://adsabs.harvard.edu/abs/2019ApJ...871L..24V)
 <span class="badge">48 citations</span>
 
-9. PREDICTED NUMBER, MULTIPLICITY, AND ORBITAL DYNAMICS OF TESS M-DWARF EXOPLANETS  
-Ballard, Sarah    
-[2019AJ....157..113B](http://adsabs.harvard.edu/abs/2019AJ....157..113B)
+9. TESS'S FIRST PLANET. A SUPER-EARTH TRANSITING THE NAKED-EYE STAR Π MENSAE  
+Gandolfi, D., Barragán, O., Livingston, J. H., et al.    
+[2018A&A...619L..10G](http://adsabs.harvard.edu/abs/2018A&A...619L..10G)
 <span class="badge">44 citations</span>
 
 10. EXPECTED YIELDS OF PLANET DISCOVERIES FROM THE TESS PRIMARY AND EXTENDED MISSIONS  
@@ -130,7 +130,7 @@ within the last 90 days.
 <!-- ## Most-active authors
 
 The entries in the publication database have been authored and co-authored
-by a total of 1649 unique author names.
+by a total of 1672 unique author names.
 Here we list the most-active authors, defined as those with six or more first-author publications in our database.
 
 -->

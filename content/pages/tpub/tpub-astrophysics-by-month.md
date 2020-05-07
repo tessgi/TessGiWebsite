@@ -15,6 +15,10 @@ Galgano, Brianna, Stassun, Keivan, Rojas-Ayala, Bárbara
 Jiang, Chen, Bedding, Timothy R., Stassun, Keivan G., et al.    
 2020, not refereed ([2020arXiv200500272J](http://adsabs.harvard.edu/abs/2020arXiv200500272J))  
 
+3. [A NAKED-EYE TRIPLE SYSTEM WITH A NONACCRETING BLACK HOLE IN THE INNER BINARY](http://adsabs.harvard.edu/abs/2020arXiv200502541R)  
+Rivinius, Th., Baade, D., Hadrava, P., et al.    
+2020, not refereed ([2020arXiv200502541R](http://adsabs.harvard.edu/abs/2020arXiv200502541R))  
+
 
 2020-04
 -------
@@ -78,6 +82,14 @@ Barceló Forteza, S., Moya, A., Barrado, D., et al.
 15. [MOBSTER -- IV. DETECTION OF A NEW MAGNETIC B-TYPE STAR FROM FOLLOW-UP SPECTROPOLARIMETRIC OBSERVATIONS OF PHOTOMETRICALLY SELECTED CANDIDATES](http://adsabs.harvard.edu/abs/2020arXiv200409698D)  
 David-Uraz, A., Shultz, M. E., Petit, V., et al.    
 2020, not refereed ([2020arXiv200409698D](http://adsabs.harvard.edu/abs/2020arXiv200409698D))  
+
+16. [TOI-503: THE FIRST KNOWN BROWN-DWARF AM-STAR BINARY FROM THE TESS MISSION](http://adsabs.harvard.edu/abs/2020AJ....159..151S)  
+Šubjak, Ján, Sharma, Rishikesh, Carmichael, Theron W., et al.    
+2020, refereed ([2020AJ....159..151S](http://adsabs.harvard.edu/abs/2020AJ....159..151S))  
+
+17. [TESS PHOTOMETRY OF EXTREME HELIUM STARS PV TEL AND V821 CEN](http://adsabs.harvard.edu/abs/2020MNRAS.tmpL..72J)  
+Jeffery, C. Simon, Barentsen, Geert, Handler, Gerald    
+2020, refereed ([2020MNRAS.tmpL..72J](http://adsabs.harvard.edu/abs/2020MNRAS.tmpL..72J))  
 
 
 2020-03

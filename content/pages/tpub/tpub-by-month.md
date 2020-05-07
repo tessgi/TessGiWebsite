@@ -23,6 +23,10 @@ Dalba, Paul A., Gupta, Arvind F., Rodriguez, Joseph E., et al.
 Jiang, Chen, Bedding, Timothy R., Stassun, Keivan G., et al.    
 2020, not refereed ([2020arXiv200500272J](http://adsabs.harvard.edu/abs/2020arXiv200500272J))  
 
+5. [A NAKED-EYE TRIPLE SYSTEM WITH A NONACCRETING BLACK HOLE IN THE INNER BINARY](http://adsabs.harvard.edu/abs/2020arXiv200502541R)  
+Rivinius, Th., Baade, D., Hadrava, P., et al.    
+2020, not refereed ([2020arXiv200502541R](http://adsabs.harvard.edu/abs/2020arXiv200502541R))  
+
 
 2020-04
 -------
@@ -162,6 +166,30 @@ von Essen, C., Mallonn, M., Borre, C. C., et al.
 34. [TESS DISCOVERY OF A SUPER-EARTH AND THREE SUB-NEPTUNES HOSTED BY THE BRIGHT, SUN-LIKE STAR HD 108236](http://adsabs.harvard.edu/abs/2020arXiv200411314D)  
 Daylan, Tansu, Pingle, Kartik, Wright, Jasmine, et al.    
 2020, not refereed ([2020arXiv200411314D](http://adsabs.harvard.edu/abs/2020arXiv200411314D))  
+
+35. [TOI-503: THE FIRST KNOWN BROWN-DWARF AM-STAR BINARY FROM THE TESS MISSION](http://adsabs.harvard.edu/abs/2020AJ....159..151S)  
+Šubjak, Ján, Sharma, Rishikesh, Carmichael, Theron W., et al.    
+2020, refereed ([2020AJ....159..151S](http://adsabs.harvard.edu/abs/2020AJ....159..151S))  
+
+36. [TESS PHOTOMETRY OF EXTREME HELIUM STARS PV TEL AND V821 CEN](http://adsabs.harvard.edu/abs/2020MNRAS.tmpL..72J)  
+Jeffery, C. Simon, Barentsen, Geert, Handler, Gerald    
+2020, refereed ([2020MNRAS.tmpL..72J](http://adsabs.harvard.edu/abs/2020MNRAS.tmpL..72J))  
+
+37. [KELT-9 B'S ASYMMETRIC TESS TRANSIT CAUSED BY RAPID STELLAR ROTATION AND SPIN-ORBIT MISALIGNMENT](http://adsabs.harvard.edu/abs/2020arXiv200414812A)  
+Ahlers, John P., Johnson, Marshall C., Stassun, Keivan G, et al.    
+2020, not refereed ([2020arXiv200414812A](http://adsabs.harvard.edu/abs/2020arXiv200414812A))  
+
+38. [TESS HUNT FOR YOUNG AND MATURING EXOPLANETS (THYME) II: A 17 MYR OLD TRANSITING HOT JUPITER IN THE SCO-CEN ASSOCIATION](http://adsabs.harvard.edu/abs/2020arXiv200500013R)  
+Rizzuto, Aaron C., Newton, Elisabeth R., Mann, Andrew W., et al.    
+2020, not refereed ([2020arXiv200500013R](http://adsabs.harvard.edu/abs/2020arXiv200500013R))  
+
+39. [NGTS-11 B / TIC-54002556 B: A TRANSITING WARM SATURN RECOVERED FROM A TESS SINGLE-TRANSIT EVENT](http://adsabs.harvard.edu/abs/2020arXiv200500006G)  
+Gill, Samuel, Wheatley, Peter J., Cooke, Benjamin F., et al.    
+2020, not refereed ([2020arXiv200500006G](http://adsabs.harvard.edu/abs/2020arXiv200500006G))  
+
+40. [TESS HUNT FOR YOUNG AND MATURING EXOPLANETS (THYME) III: A TWO-PLANET SYSTEM IN THE 400 MYR URSA MAJOR GROUP](http://adsabs.harvard.edu/abs/2020arXiv200500047M)  
+Mann, Andrew W., Johnson, Marshall C., Vanderburg, Andrew, et al.    
+2020, not refereed ([2020arXiv200500047M](http://adsabs.harvard.edu/abs/2020arXiv200500047M))  
 
 
 2020-03
