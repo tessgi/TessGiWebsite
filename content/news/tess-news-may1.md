@@ -2,7 +2,7 @@ Title: First TESS Weekly Bulletin
 Date: 2020-05-06 14:00
 Author: Rebekah Hounsell
 
-- STATUS UPDATE: Sector 23 data went live at MAST this week and we are currently observing in Sector 24 until May 12. 
+`STATUS UPDATE: Sector 23 data went live at MAST this week and we are currently observing in Sector 24 until May 12.` 
 
 Welcome TESS followers! We here in the TESS GI office plan to issue weekly news bulletins to keep you informed of all things TESS related and to also highlight your work.
 
