@@ -29,6 +29,6 @@ This paper presents the discovery of two planets orbiting a young Sun-like star 
 
 ![HD6343](images/HD63433v2.png)
 
-**Fig. 2:** *Taken from  Mann et al., (2020), illustrating the TESS light-curve of HD 63433. The top panel shows the presearcch data conditioning simple aperture photometry curve in blue after fitting out the outliers, the Gaussian process model is given in red. The locations of the transits are shown with arrows along the x-axis. The orange represent planet b and the teal planet c.*
+**Fig. 2:** *Taken from  Mann et al., (2020), illustrating the TESS light-curve of HD 63433. The top panel shows the presearch data conditioning simple aperture photometry curve in blue after fitting out the outliers, the Gaussian process model is given in red. The locations of the transits are shown with arrows along the x-axis. The orange represent planet b and the teal planet c.*
 
 
