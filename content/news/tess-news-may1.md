@@ -6,7 +6,7 @@ Author: Rebekah Hounsell
 
 Welcome TESS followers! We here in the TESS GI office plan to issue weekly news bulletins to keep you informed of all things TESS related and to also highlight your work.
 
-Below we highlight four papers that were posted to arXiv.org in the last week
+Below we highlight four papers that were posted to arXiv.org in the last week:
 
 1. **[Original Research By Young Twinkle Students (ORBYTS): Ephemeris Refinement of Transiting Exoplanets](https://arxiv.org/abs/2005.01684)** *(Edwards et al., 2020)* **:**
 Eight planets are studied in detail and their ephemeris and orbital data are refined. Data used are that from TESS and fully robotic ground-based telescope network. For seven of the planets the authors find that the observed transit time was outside of the predicted uncertainties.
@@ -18,7 +18,7 @@ Using TESS data the paper presents an asteroseismic analysis of the red giant st
 3. **[TESS Hunt for Young and Maturing Exoplanets (THYME) II: A 17 Myr Old Transiting Hot Jupiter in the Sco-Cen Association](https://arxiv.org/abs/2005.00013)** *(Rizzuto et al., 2020)* **:**
 A 17Myr old transiting hot Jupiter was discovered around HIP 67522, a 10-20 Myr old Sco-CenO OB  star. The orbital period of the planet was identified as 6.96 days with a radius of 10.02 R&#8853;. An additional planet candidate was also identified with an orbital period of ~23 days and a radius of ~8 R&#8853;. The hot Jupiter HIP 67522b is the youngest confirmed transiting hot Jupiter-sized planet discovered to date.  
 
-4. **[TESS Hunt for Young and Maturing Exoplanets (THYME) III: a two-planet system in the 400 Myr Ursa Major Group](https://arxiv.org/pdf/2005.00047.pdf)** *(Mann et al., 2020)* **:**
+4. **[TESS Hunt for Young and Maturing Exoplanets (THYME) III: a two-planet system in the 400 Myr Ursa Major Group](https://arxiv.org/pdf/2005.00047)** *(Mann et al., 2020)* **:**
 This paper presents the discovery of two planets orbiting a young Sun-like star (M = 0.99&#8857;) HD 63433. HD 63433 was determined to be part of the 414 Myr old Ursa Major moving  group.  The planets have  radii of 2.15R&#8853;, and 2.67R&#8853; respectively, with orbital periods of 7.11 and 20.55 days. The system is important as it will aid our understanding of planetary system evolution in the first billion years after formation.
 
 
