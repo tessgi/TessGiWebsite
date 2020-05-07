@@ -19,73 +19,73 @@ Jiang, Chen, Bedding, Timothy R., Stassun, Keivan G., et al.
 Rivinius, Th., Baade, D., Hadrava, P., et al.    
 2020, not refereed ([2020arXiv200502541R](http://adsabs.harvard.edu/abs/2020arXiv200502541R))  
 
-4. [VARIABLE ACCRETION ONTO PROTOPLANET HOST STAR PDS 70](http://adsabs.harvard.edu/abs/2020ApJ...892...81T)  
+4. [TOI-503: THE FIRST KNOWN BROWN-DWARF AM-STAR BINARY FROM THE TESS MISSION](http://adsabs.harvard.edu/abs/2020AJ....159..151S)  
+Šubjak, Ján, Sharma, Rishikesh, Carmichael, Theron W., et al.    
+2020, refereed ([2020AJ....159..151S](http://adsabs.harvard.edu/abs/2020AJ....159..151S))  
+
+5. [VARIABLE ACCRETION ONTO PROTOPLANET HOST STAR PDS 70](http://adsabs.harvard.edu/abs/2020ApJ...892...81T)  
 Thanathibodee, Thanawuth, Molina, Brandon, Calvet, Nuria, et al.    
 2020, refereed ([2020ApJ...892...81T](http://adsabs.harvard.edu/abs/2020ApJ...892...81T))  
 
-5. [TESS OBSERVATIONS OF BE STARS: A NEW INTERPRETATION](http://adsabs.harvard.edu/abs/2020MNRAS.493.2528B)  
+6. [TESS OBSERVATIONS OF BE STARS: A NEW INTERPRETATION](http://adsabs.harvard.edu/abs/2020MNRAS.493.2528B)  
 Balona, L. A., Ozuyar, D.    
 2020, refereed ([2020MNRAS.493.2528B](http://adsabs.harvard.edu/abs/2020MNRAS.493.2528B))  
 
-6. [THE ASAS-SN CATALOGUE OF VARIABLE STARS VI: AN ALL-SKY SAMPLE OF Δ SCUTI STARS](http://adsabs.harvard.edu/abs/2020MNRAS.493.4186J)  
+7. [THE ASAS-SN CATALOGUE OF VARIABLE STARS VI: AN ALL-SKY SAMPLE OF Δ SCUTI STARS](http://adsabs.harvard.edu/abs/2020MNRAS.493.4186J)  
 Jayasinghe, T., Stanek, K. Z., Kochanek, C. S., et al.    
 2020, refereed ([2020MNRAS.493.4186J](http://adsabs.harvard.edu/abs/2020MNRAS.493.4186J))  
 
-7. [TICS 167692429 AND 220397947: THE FIRST COMPACT HIERARCHICAL TRIPLE STARS DISCOVERED WITH TESS](http://adsabs.harvard.edu/abs/2020MNRAS.493.5005B)  
+8. [TICS 167692429 AND 220397947: THE FIRST COMPACT HIERARCHICAL TRIPLE STARS DISCOVERED WITH TESS](http://adsabs.harvard.edu/abs/2020MNRAS.493.5005B)  
 Borkovits, T., Rappaport, S. A., Hajdu, T., et al.    
 2020, refereed ([2020MNRAS.493.5005B](http://adsabs.harvard.edu/abs/2020MNRAS.493.5005B))  
 
-8. [TESS OBSERVATIONS OF PULSATING SUBDWARF B STARS: EXTRAORDINARILY SHORT-PERIOD GRAVITY MODES IN CD-28° 1974](http://adsabs.harvard.edu/abs/2020MNRAS.493.5162R)  
+9. [TESS OBSERVATIONS OF PULSATING SUBDWARF B STARS: EXTRAORDINARILY SHORT-PERIOD GRAVITY MODES IN CD-28° 1974](http://adsabs.harvard.edu/abs/2020MNRAS.493.5162R)  
 Reed, M. D., Shoaf, K. A., Németh, P., et al.    
 2020, refereed ([2020MNRAS.493.5162R](http://adsabs.harvard.edu/abs/2020MNRAS.493.5162R))  
-
-9. [THE SINGLE-SIDED PULSATOR CO CAMELOPARDALIS](http://adsabs.harvard.edu/abs/2020MNRAS.tmp.1132K)  
-Kurtz, D. W., Handler, G., Rappaport, S. A., et al.    
-2020, refereed ([2020MNRAS.tmp.1132K](http://adsabs.harvard.edu/abs/2020MNRAS.tmp.1132K))  
 
 10. [SUPERFLARES AND VARIABILITY IN SOLAR-TYPE STARS WITH TESS IN THE SOUTHERN HEMISPHERE](http://adsabs.harvard.edu/abs/2020MNRAS.494.3596D)  
 Doyle, L., Ramsay, G., Doyle, J. G.    
 2020, refereed ([2020MNRAS.494.3596D](http://adsabs.harvard.edu/abs/2020MNRAS.494.3596D))  
 
-11. [PROPERTIES OF CVSO 30 FROM TESS MEASUREMENTS: PROBABLY A BINARY T TAURI STAR WITH COMPLEX LIGHTCURVES AND NO OBVIOUS PLANETS](http://adsabs.harvard.edu/abs/2020MNRAS.tmp.1191K)  
+11. [THE SINGLE-SIDED PULSATOR CO CAMELOPARDALIS](http://adsabs.harvard.edu/abs/2020MNRAS.tmp.1132K)  
+Kurtz, D. W., Handler, G., Rappaport, S. A., et al.    
+2020, refereed ([2020MNRAS.tmp.1132K](http://adsabs.harvard.edu/abs/2020MNRAS.tmp.1132K))  
+
+12. [PROPERTIES OF CVSO 30 FROM TESS MEASUREMENTS: PROBABLY A BINARY T TAURI STAR WITH COMPLEX LIGHTCURVES AND NO OBVIOUS PLANETS](http://adsabs.harvard.edu/abs/2020MNRAS.tmp.1191K)  
 Koen, C.    
 2020, refereed ([2020MNRAS.tmp.1191K](http://adsabs.harvard.edu/abs/2020MNRAS.tmp.1191K))  
 
-12. [TESS PHOTOMETRY OF THE ECLIPSING Δ SCUTI STAR AI HYDRAE](http://adsabs.harvard.edu/abs/2020PASJ..tmp..167L)  
-Lee, Jae Woo, Hong, Kyeongsoo, Kristiansen, Martti H.    
-2020, refereed ([2020PASJ..tmp..167L](http://adsabs.harvard.edu/abs/2020PASJ..tmp..167L))  
-
-13. [THE ELM SURVEY SOUTH. I. AN EFFECTIVE SEARCH FOR EXTREMELY LOW MASS WHITE DWARFS](http://adsabs.harvard.edu/abs/2020arXiv200404202K)  
-Kosakowski, Alekzander, Kilic, Mukremin, Brown, Warren R., et al.    
-2020, not refereed ([2020arXiv200404202K](http://adsabs.harvard.edu/abs/2020arXiv200404202K))  
-
-14. [THE EXOTIME PROJECT: SIGNALS IN THE $ O-C $ DIAGRAMS OF THE RAPIDLY PULSATING SUBDWARFS DW LYN, V1636 ORI, QQ VIR, AND V541 HYA](http://adsabs.harvard.edu/abs/2020arXiv200404764M)  
-Mackebrandt, F., Schuh, S., Silvotti, R., et al.    
-2020, not refereed ([2020arXiv200404764M](http://adsabs.harvard.edu/abs/2020arXiv200404764M))  
-
-15. [EX DRACONIS: USING ECLIPSES TO SEPARATE OUTSIDE-IN AND INSIDE-OUT OUTBURSTS](http://adsabs.harvard.edu/abs/2020MNRAS.tmp.1258C)  
+13. [EX DRACONIS: USING ECLIPSES TO SEPARATE OUTSIDE-IN AND INSIDE-OUT OUTBURSTS](http://adsabs.harvard.edu/abs/2020MNRAS.tmp.1258C)  
 Court, J. M. C., Scaringi, S., Littlefield, C., et al.    
 2020, refereed ([2020MNRAS.tmp.1258C](http://adsabs.harvard.edu/abs/2020MNRAS.tmp.1258C))  
 
-16. [THE CLOSEST EXTREMELY LOW-MASS WHITE DWARF TO THE SUN](http://adsabs.harvard.edu/abs/2020MNRAS.tmpL..66K)  
+14. [THE CLOSEST EXTREMELY LOW-MASS WHITE DWARF TO THE SUN](http://adsabs.harvard.edu/abs/2020MNRAS.tmpL..66K)  
 Kawka, Adela, Simpson, Jeffrey D., Vennes, Stéphane, et al.    
 2020, refereed ([2020MNRAS.tmpL..66K](http://adsabs.harvard.edu/abs/2020MNRAS.tmpL..66K))  
 
-17. [UNVEILING THE POWER SPECTRA OF $\DELTA$ SCUTI STARS WITH TESS. THE TEMPERATURE, GRAVITY, AND FREQUENCY SCALING RELATION](http://adsabs.harvard.edu/abs/2020arXiv200407647B)  
+15. [TESS PHOTOMETRY OF EXTREME HELIUM STARS PV TEL AND V821 CEN](http://adsabs.harvard.edu/abs/2020MNRAS.tmpL..72J)  
+Jeffery, C. Simon, Barentsen, Geert, Handler, Gerald    
+2020, refereed ([2020MNRAS.tmpL..72J](http://adsabs.harvard.edu/abs/2020MNRAS.tmpL..72J))  
+
+16. [TESS PHOTOMETRY OF THE ECLIPSING Δ SCUTI STAR AI HYDRAE](http://adsabs.harvard.edu/abs/2020PASJ..tmp..167L)  
+Lee, Jae Woo, Hong, Kyeongsoo, Kristiansen, Martti H.    
+2020, refereed ([2020PASJ..tmp..167L](http://adsabs.harvard.edu/abs/2020PASJ..tmp..167L))  
+
+17. [THE ELM SURVEY SOUTH. I. AN EFFECTIVE SEARCH FOR EXTREMELY LOW MASS WHITE DWARFS](http://adsabs.harvard.edu/abs/2020arXiv200404202K)  
+Kosakowski, Alekzander, Kilic, Mukremin, Brown, Warren R., et al.    
+2020, not refereed ([2020arXiv200404202K](http://adsabs.harvard.edu/abs/2020arXiv200404202K))  
+
+18. [THE EXOTIME PROJECT: SIGNALS IN THE $ O-C $ DIAGRAMS OF THE RAPIDLY PULSATING SUBDWARFS DW LYN, V1636 ORI, QQ VIR, AND V541 HYA](http://adsabs.harvard.edu/abs/2020arXiv200404764M)  
+Mackebrandt, F., Schuh, S., Silvotti, R., et al.    
+2020, not refereed ([2020arXiv200404764M](http://adsabs.harvard.edu/abs/2020arXiv200404764M))  
+
+19. [UNVEILING THE POWER SPECTRA OF $\DELTA$ SCUTI STARS WITH TESS. THE TEMPERATURE, GRAVITY, AND FREQUENCY SCALING RELATION](http://adsabs.harvard.edu/abs/2020arXiv200407647B)  
 Barceló Forteza, S., Moya, A., Barrado, D., et al.    
 2020, not refereed ([2020arXiv200407647B](http://adsabs.harvard.edu/abs/2020arXiv200407647B))  
 
-18. [MOBSTER -- IV. DETECTION OF A NEW MAGNETIC B-TYPE STAR FROM FOLLOW-UP SPECTROPOLARIMETRIC OBSERVATIONS OF PHOTOMETRICALLY SELECTED CANDIDATES](http://adsabs.harvard.edu/abs/2020arXiv200409698D)  
+20. [MOBSTER -- IV. DETECTION OF A NEW MAGNETIC B-TYPE STAR FROM FOLLOW-UP SPECTROPOLARIMETRIC OBSERVATIONS OF PHOTOMETRICALLY SELECTED CANDIDATES](http://adsabs.harvard.edu/abs/2020arXiv200409698D)  
 David-Uraz, A., Shultz, M. E., Petit, V., et al.    
 2020, not refereed ([2020arXiv200409698D](http://adsabs.harvard.edu/abs/2020arXiv200409698D))  
-
-19. [TOI-503: THE FIRST KNOWN BROWN-DWARF AM-STAR BINARY FROM THE TESS MISSION](http://adsabs.harvard.edu/abs/2020AJ....159..151S)  
-Šubjak, Ján, Sharma, Rishikesh, Carmichael, Theron W., et al.    
-2020, refereed ([2020AJ....159..151S](http://adsabs.harvard.edu/abs/2020AJ....159..151S))  
-
-20. [TESS PHOTOMETRY OF EXTREME HELIUM STARS PV TEL AND V821 CEN](http://adsabs.harvard.edu/abs/2020MNRAS.tmpL..72J)  
-Jeffery, C. Simon, Barentsen, Geert, Handler, Gerald    
-2020, refereed ([2020MNRAS.tmpL..72J](http://adsabs.harvard.edu/abs/2020MNRAS.tmpL..72J))  
 
 21. [DECODING THE RADIAL VELOCITY VARIATIONS OF HD 41248 WITH ESPRESSO](http://adsabs.harvard.edu/abs/2020A&A...635A..13F)  
 Faria, J. P., Adibekyan, V., Amazo-Gómez, E. M., et al.    

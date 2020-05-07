@@ -15,13 +15,13 @@ Dragomir, Diana, Harris, Mallory, Pepper, Joshua, et al.
 Dalba, Paul A., Gupta, Arvind F., Rodriguez, Joseph E., et al.    
 2020, refereed ([2020AJ....159..241D](http://adsabs.harvard.edu/abs/2020AJ....159..241D))  
 
-3. [DETECTION OF NA, K, AND H<SUB>2</SUB>O IN THE HAZY ATMOSPHERE OF WASP-6B](http://adsabs.harvard.edu/abs/2020MNRAS.tmp.1223C)  
-Carter, Aarynn L., Nikolov, Nikolay, Sing, David K., et al.    
-2020, refereed ([2020MNRAS.tmp.1223C](http://adsabs.harvard.edu/abs/2020MNRAS.tmp.1223C))  
-
-4. [A HOT TERRESTRIAL PLANET ORBITING THE BRIGHT M DWARF L 168-9 UNVEILED BY TESS](http://adsabs.harvard.edu/abs/2020A&A...636A..58A)  
+3. [A HOT TERRESTRIAL PLANET ORBITING THE BRIGHT M DWARF L 168-9 UNVEILED BY TESS](http://adsabs.harvard.edu/abs/2020A&A...636A..58A)  
 Astudillo-Defru, N., Cloutier, R., Wang, S. X., et al.    
 2020, refereed ([2020A&A...636A..58A](http://adsabs.harvard.edu/abs/2020A&A...636A..58A))  
+
+4. [TRAMOS. V. UPDATED EPHEMERIS AND MULTI-EPOCH MONITORING OF THE HOT JUPITERS WASP-18AB, WASP-19B, AND WASP-77AB](http://adsabs.harvard.edu/abs/2020A&A...636A..98C)  
+Cortés-Zuleta, Pía, Rojo, Patricio, Wang, Songhu, et al.    
+2020, refereed ([2020A&A...636A..98C](http://adsabs.harvard.edu/abs/2020A&A...636A..98C))  
 
 5. [THE SOPHIE SEARCH FOR NORTHERN EXTRASOLAR PLANETS. XVI. HD 158259: A COMPACT PLANETARY SYSTEM IN A NEAR-3:2 MEAN MOTION RESONANCE CHAIN](http://adsabs.harvard.edu/abs/2020A&A...636L...6H)  
 Hara, N. C., Bouchy, F., Stalport, M., et al.    
@@ -43,37 +43,37 @@ Hartman, J. D., Jordán, Andrés, Bayliss, D., et al.
 Zhou, G., Winn, J. N., Newton, E. R., et al.    
 2020, refereed ([2020ApJ...892L..21Z](http://adsabs.harvard.edu/abs/2020ApJ...892L..21Z))  
 
-10. [DETECTION OF THE PHASE CURVE AND OCCULTATION OF WASP-100B WITH TESS](http://adsabs.harvard.edu/abs/2020MNRAS.tmp.1087J)  
-Jansen, Tiffany, Kipping, David    
-2020, refereed ([2020MNRAS.tmp.1087J](http://adsabs.harvard.edu/abs/2020MNRAS.tmp.1087J))  
-
-11. [THE ANCIENT MAIN-SEQUENCE SOLAR PROXY HIP 102152 UNVEILS THE ACTIVITY AND ROTATIONAL FATE OF OUR SUN](http://adsabs.harvard.edu/abs/2020MNRAS.495L..61L)  
+10. [THE ANCIENT MAIN-SEQUENCE SOLAR PROXY HIP 102152 UNVEILS THE ACTIVITY AND ROTATIONAL FATE OF OUR SUN](http://adsabs.harvard.edu/abs/2020MNRAS.495L..61L)  
 Lorenzo-Oliveira, Diego, Meléndez, Jorge, Ponte, Geisa, et al.    
 2020, refereed ([2020MNRAS.495L..61L](http://adsabs.harvard.edu/abs/2020MNRAS.495L..61L))  
 
-12. [WASP-4 TRANSIT TIMING VARIATION FROM A COMPREHENSIVE SET OF 129 TRANSITS](http://adsabs.harvard.edu/abs/2020MNRAS.tmpL..64B)  
+11. [DETECTION OF THE PHASE CURVE AND OCCULTATION OF WASP-100B WITH TESS](http://adsabs.harvard.edu/abs/2020MNRAS.tmp.1087J)  
+Jansen, Tiffany, Kipping, David    
+2020, refereed ([2020MNRAS.tmp.1087J](http://adsabs.harvard.edu/abs/2020MNRAS.tmp.1087J))  
+
+12. [DETECTION OF NA, K, AND H<SUB>2</SUB>O IN THE HAZY ATMOSPHERE OF WASP-6B](http://adsabs.harvard.edu/abs/2020MNRAS.tmp.1223C)  
+Carter, Aarynn L., Nikolov, Nikolay, Sing, David K., et al.    
+2020, refereed ([2020MNRAS.tmp.1223C](http://adsabs.harvard.edu/abs/2020MNRAS.tmp.1223C))  
+
+13. [SIMULTANEOUS TESS AND NGTS TRANSIT OBSERVATIONS OF WASP-166 B](http://adsabs.harvard.edu/abs/2020MNRAS.tmp.1252B)  
+Bryant, Edward M., Bayliss, Daniel, McCormac, James, et al.    
+2020, refereed ([2020MNRAS.tmp.1252B](http://adsabs.harvard.edu/abs/2020MNRAS.tmp.1252B))  
+
+14. [WASP-4 TRANSIT TIMING VARIATION FROM A COMPREHENSIVE SET OF 129 TRANSITS](http://adsabs.harvard.edu/abs/2020MNRAS.tmpL..64B)  
 Baluev, R. V., Sokov, E. N., Hoyer, S., et al.    
 2020, refereed ([2020MNRAS.tmpL..64B](http://adsabs.harvard.edu/abs/2020MNRAS.tmpL..64B))  
 
-13. [TRAMOS. V. UPDATED EPHEMERIS AND MULTI-EPOCH MONITORING OF THE HOT JUPITERS WASP-18AB, WASP-19B, AND WASP-77AB](http://adsabs.harvard.edu/abs/2020A&A...636A..98C)  
-Cortés-Zuleta, Pía, Rojo, Patricio, Wang, Songhu, et al.    
-2020, refereed ([2020A&A...636A..98C](http://adsabs.harvard.edu/abs/2020A&A...636A..98C))  
-
-14. [PRECISE MASS AND RADIUS OF A TRANSITING SUPER-EARTH PLANET ORBITING THE M DWARF TOI-1235: A PLANET IN THE RADIUS GAP?](http://adsabs.harvard.edu/abs/2020arXiv200406218B)  
+15. [PRECISE MASS AND RADIUS OF A TRANSITING SUPER-EARTH PLANET ORBITING THE M DWARF TOI-1235: A PLANET IN THE RADIUS GAP?](http://adsabs.harvard.edu/abs/2020arXiv200406218B)  
 Bluhm, P., Luque, R., Espinoza, N., et al.    
 2020, not refereed ([2020arXiv200406218B](http://adsabs.harvard.edu/abs/2020arXiv200406218B))  
 
-15. [TOI-1235 B: A KEYSTONE SUPER-EARTH FOR TESTING RADIUS VALLEY EMERGENCE MODELS AROUND EARLY M DWARFS](http://adsabs.harvard.edu/abs/2020arXiv200406682C)  
+16. [TOI-1235 B: A KEYSTONE SUPER-EARTH FOR TESTING RADIUS VALLEY EMERGENCE MODELS AROUND EARLY M DWARFS](http://adsabs.harvard.edu/abs/2020arXiv200406682C)  
 Cloutier, Ryan, Rodriguez, Joseph E., Irwin, Jonathan, et al.    
 2020, not refereed ([2020arXiv200406682C](http://adsabs.harvard.edu/abs/2020arXiv200406682C))  
 
-16. [PLANET-STAR INTERACTIONS WITH PRECISE TRANSIT TIMING. II. THE RADIAL-VELOCITY TIDES AND A TIGHTER CONSTRAINT ON THE ORBITAL DECAY RATE IN THE WASP-18 SYSTEM](http://adsabs.harvard.edu/abs/2020arXiv200406781M)  
+17. [PLANET-STAR INTERACTIONS WITH PRECISE TRANSIT TIMING. II. THE RADIAL-VELOCITY TIDES AND A TIGHTER CONSTRAINT ON THE ORBITAL DECAY RATE IN THE WASP-18 SYSTEM](http://adsabs.harvard.edu/abs/2020arXiv200406781M)  
 Maciejewski, G., Knutson, H. A., Howard, A. W., et al.    
 2020, not refereed ([2020arXiv200406781M](http://adsabs.harvard.edu/abs/2020arXiv200406781M))  
-
-17. [SIMULTANEOUS TESS AND NGTS TRANSIT OBSERVATIONS OF WASP-166 B](http://adsabs.harvard.edu/abs/2020MNRAS.tmp.1252B)  
-Bryant, Edward M., Bayliss, Daniel, McCormac, James, et al.    
-2020, refereed ([2020MNRAS.tmp.1252B](http://adsabs.harvard.edu/abs/2020MNRAS.tmp.1252B))  
 
 18. [TOI-1338: TESS' FIRST TRANSITING CIRCUMBINARY PLANET](http://adsabs.harvard.edu/abs/2020arXiv200407783K)  
 Kostov, Veselin B., Orosz, Jerome A., Feinstein, Adina D., et al.    
@@ -95,13 +95,13 @@ Daylan, Tansu, Pingle, Kartik, Wright, Jasmine, et al.
 Ahlers, John P., Johnson, Marshall C., Stassun, Keivan G, et al.    
 2020, not refereed ([2020arXiv200414812A](http://adsabs.harvard.edu/abs/2020arXiv200414812A))  
 
-23. [TESS HUNT FOR YOUNG AND MATURING EXOPLANETS (THYME) II: A 17 MYR OLD TRANSITING HOT JUPITER IN THE SCO-CEN ASSOCIATION](http://adsabs.harvard.edu/abs/2020arXiv200500013R)  
-Rizzuto, Aaron C., Newton, Elisabeth R., Mann, Andrew W., et al.    
-2020, not refereed ([2020arXiv200500013R](http://adsabs.harvard.edu/abs/2020arXiv200500013R))  
-
-24. [NGTS-11 B / TIC-54002556 B: A TRANSITING WARM SATURN RECOVERED FROM A TESS SINGLE-TRANSIT EVENT](http://adsabs.harvard.edu/abs/2020arXiv200500006G)  
+23. [NGTS-11 B / TIC-54002556 B: A TRANSITING WARM SATURN RECOVERED FROM A TESS SINGLE-TRANSIT EVENT](http://adsabs.harvard.edu/abs/2020arXiv200500006G)  
 Gill, Samuel, Wheatley, Peter J., Cooke, Benjamin F., et al.    
 2020, not refereed ([2020arXiv200500006G](http://adsabs.harvard.edu/abs/2020arXiv200500006G))  
+
+24. [TESS HUNT FOR YOUNG AND MATURING EXOPLANETS (THYME) II: A 17 MYR OLD TRANSITING HOT JUPITER IN THE SCO-CEN ASSOCIATION](http://adsabs.harvard.edu/abs/2020arXiv200500013R)  
+Rizzuto, Aaron C., Newton, Elisabeth R., Mann, Andrew W., et al.    
+2020, not refereed ([2020arXiv200500013R](http://adsabs.harvard.edu/abs/2020arXiv200500013R))  
 
 25. [TESS HUNT FOR YOUNG AND MATURING EXOPLANETS (THYME) III: A TWO-PLANET SYSTEM IN THE 400 MYR URSA MAJOR GROUP](http://adsabs.harvard.edu/abs/2020arXiv200500047M)  
 Mann, Andrew W., Johnson, Marshall C., Vanderburg, Andrew, et al.    
