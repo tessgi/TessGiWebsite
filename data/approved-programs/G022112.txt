@@ -1,0 +1,10 @@
+# TESS Program G022112
+
+Title: Uniform Light Curves Across The Entire Sky From TESS FFIs With Eleanor
+
+PI: Montet, Benjamin - University Of Chicago
+
+Type: LARGE
+
+Summary: 99% of all stars in the TESS field of view are not observed at 2-minute cadence, but instead only through the Full Frame Images. There is no direct mission support for turning these data into publicly available light curves, searching for planets, or otherwise analyzing these frames. Here, we propose to continue development of the eleanor package for light curve extraction from TESS FFIs. Our open-source package has already been used to find planets and other astrophysical variability in TESS data. We will improve the PSF modeling routines in eleanor to maximize our ability to characterize small signals in crowded fields and our 2-d background models in order to minimize the effects of scattered light from the Earth and Moon.
+

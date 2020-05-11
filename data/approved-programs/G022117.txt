@@ -1,0 +1,10 @@
+# TESS Program G022117
+
+Title: Cluster Difference Imaging Photometric Survey
+
+PI: Hartman, Joel - Princeton University
+
+Type: LARGE
+
+Summary: We propose to produce, and make public, light curves for all ~100,000 known star cluster members brighter than T = 16 observed in the TESS full-frame images during Cycle 2. The light curves will be generated using an image subtraction photometry procedure which we have adapted to TESS and are currently applying to Cycle 1 observations through GI support. We will search the light curves for transiting planets, expecting to triple the number of transiting planets known in clusters, which will shed light on the timescales for processes in planet formation, evolution, and migration. The public data set will also be a gold mine for stellar astrophysics, including studies of gyrochronology, variability and tests of stellar evolution.
+

@@ -1,0 +1,34 @@
+# TESS Program G022205
+
+Title: Challenging Planet Formation Theories With The Lowest Metallicity TESS Targets
+
+PI: Christiansen, Jessie - NASA Exoplanet Science Institute
+
+Type: SMALL
+
+Summary: One extremely interesting and relatively unexplored question of exoplanet demographics is that of the occurrence rates of planets around very metal-poor stars ([Fe/H]<&#8722;1). TESS provides a large enough sample of these stars for us to place significant observational constraints on competing planet formation theories. In this proposal, we lay out a plan for calculating robust occurrence rates of planets orbiting very metal-poor stars, using a carefully selected sample of TESS targets. In addition to quantifying their exoplanet occurrence rates, we will provide a legacy of high-precision, well-sampled light curves of these stars, which date back to the birth of the Milky Way.
+
+
+# Sector 014 targets observed (4)
+30789432,289.7962,32.1528,10.81,G022232;G022121;G022205
+399819975,285.3088,39.5356,11.69,G022232;G022205
+138297276,293.6086,41.2396,11.92,G022232;G022205
+271044312,294.4753,44.9836,9.1,G022232;G022145;G022205;G022121
+
+# Sector 015 targets observed (3)
+357175613,328.8222,32.6454,10.29,G022145;G022205
+271044312,294.4753,44.9836,9.1,G022232;G022145;G022205;G022121
+155873169,196.158,55.9189,11.92,G022232;G022205
+
+# Sector 016 targets observed (6)
+274971643,335.3401,33.4348,11.14,G022232;G022205
+357175613,328.8222,32.6454,10.29,G022145;G022205
+374097920,347.0015,41.8552,10.74,G022232;G022205
+235555030,231.8183,51.6822,11.86,G022205
+155873169,196.158,55.9189,11.92,G022232;G022205
+23863550,211.0387,41.1918,11.98,G022232;G022205
+
+# Sector 017 targets observed (3)
+61364469,23.9524,30.0888,12.01,G022232;G022205
+58032743,6.0021,32.0527,10.91,G022232;G022121;G022205
+84014924,1.5297,34.8392,10.88,G022232;G022205
