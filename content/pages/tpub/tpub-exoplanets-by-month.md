@@ -19,6 +19,10 @@ Dalba, Paul A., Gupta, Arvind F., Rodriguez, Joseph E., et al.
 Edwards, Billy, Changeat, Quentin, Hou Yip, Kai, et al.    
 2020, not refereed ([2020arXiv200501684E](http://adsabs.harvard.edu/abs/2020arXiv200501684E))  
 
+4. [ORIGINAL RESEARCH BY YOUNG TWINKLE STUDENTS (ORBYTS): EPHEMERIS REFINEMENT OF TRANSITING EXOPLANETS](http://adsabs.harvard.edu/abs/2020MNRAS.tmp.1386E)  
+Edwards, Billy, Changeat, Quentin, Yip, Kai Hou, et al.    
+2020, refereed ([2020MNRAS.tmp.1386E](http://adsabs.harvard.edu/abs/2020MNRAS.tmp.1386E))  
+
 
 2020-04
 -------
@@ -350,6 +354,10 @@ Crossfield, Ian J. M., Waalkes, William, Newton, Elisabeth R., et al.
 3. [WASP-166B: A BLOATED SUPER-NEPTUNE TRANSITING A V = 9 STAR](http://adsabs.harvard.edu/abs/2019MNRAS.488.3067H)  
 Hellier, Coel, Anderson, D. R., Triaud, A. H. M. J., et al.    
 2019, refereed ([2019MNRAS.488.3067H](http://adsabs.harvard.edu/abs/2019MNRAS.488.3067H))  
+
+4. [TESS OBSERVATIONS OF THE WASP-121 B PHASE CURVE](http://adsabs.harvard.edu/abs/2019arXiv190903000D)  
+Daylan, Tansu, Günther, Maximilian N., Mikal-Evans, Thomas, et al.    
+2019, not refereed ([2019arXiv190903000D](http://adsabs.harvard.edu/abs/2019arXiv190903000D))  
 
 
 2019-08

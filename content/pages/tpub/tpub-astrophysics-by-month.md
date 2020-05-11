@@ -19,6 +19,14 @@ Jiang, Chen, Bedding, Timothy R., Stassun, Keivan G., et al.
 Rivinius, Th., Baade, D., Hadrava, P., et al.    
 2020, not refereed ([2020arXiv200502541R](http://adsabs.harvard.edu/abs/2020arXiv200502541R))  
 
+4. [THE PULSATION PROPERTIES OF Λ BOOTIS STARS I. THE SOUTHERN TESS SAMPLE](http://adsabs.harvard.edu/abs/2020MNRAS.tmp.1395M)  
+Murphy, S. J., Paunzen, E., Bedding, T. R., et al.    
+2020, refereed ([2020MNRAS.tmp.1395M](http://adsabs.harvard.edu/abs/2020MNRAS.tmp.1395M))  
+
+5. [THE ELM SURVEY SOUTH. I. AN EFFECTIVE SEARCH FOR EXTREMELY LOW MASS WHITE DWARFS](http://adsabs.harvard.edu/abs/2020ApJ...894...53K)  
+Kosakowski, Alekzander, Kilic, Mukremin, Brown, Warren R., et al.    
+2020, refereed ([2020ApJ...894...53K](http://adsabs.harvard.edu/abs/2020ApJ...894...53K))  
+
 
 2020-04
 -------
