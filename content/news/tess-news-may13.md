@@ -25,6 +25,6 @@ TESS observations are used in comparison to simultaneous observations from the g
 
 ![DeltSct](images/DeltSct.png)
 
-**Fig. 2:** *Visual interpretation of the rapid pulsation Delta Scuti star  HD 31901. This star is in the southern constellation Lepus. Credits: NASA's Goddard Space Flight Center and Simon Murphy, University of Sydney. A video associated with this figure  can be found [here] (https://youtu.be/nBxn6QGWJNM).* 
+**Fig. 2:** *Visual interpretation of the rapid pulsation Delta Scuti star  HD 31901. This star is in the southern constellation Lepus. Credits: NASA's Goddard Space Flight Center and Simon Murphy, University of Sydney. A video associated with this figure  can be found [here](https://youtu.be/nBxn6QGWJNM).* 
 
 
