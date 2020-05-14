@@ -1,8 +1,8 @@
-Title: First TESS Weekly Bulletin
+Title: Second TESS Weekly Bulletin
 Date: 2020-05-13 14:00
 Author: Rebekah Hounsell
 
-`STATUS UPDATE: We are now observing  in sector 25!
+`STATUS UPDATE: We are now observing  in sector 25!`
 
 Welcome TESS followers to second news bulletin! This week we have an exciting announcement about Stellar Pulsations, plus an additional three papers published to arXiv.org.
 
@@ -15,9 +15,9 @@ This paper  presents a detailed glimpse into  the atmospheric properties  of KEL
 3.**[Optical Variability of the Dwarf AGN NGC 4395 from the Transiting Exoplanet Survey Satellite](https://arxiv.org/abs/2005.04491)** *(Burke et al.,  2020)* **:**
 TESS  is  used to create  light-curves of the dwarf AGN in the nearby galaxy NGC 4395. This galaxy hosts a ~10<sup>5</sup> M&#8857; supermassive black hole. Variability is detected on timescales from weeks to hours before reaching the  background noise level. The TESS light-curve can be well fit by a simple dampened random walk model with a dampening time-scale of 2.3 days. The periodogram can be fit with a high frequency slope of -1.88, and a break frequency consistent with the dampening time-scale. The paper uses NGC 4395 to illustrate the fact that TESS data can be used for extragalactic science.
 
-4.**[Photometry and Performance of SPECULOOS-South]** *(https://arxiv.org/abs/2005.02423)** *(Murray et al., 2020)* TESS observations are used in comparison to simultaneous observations from the ground-based SPECULOOS-South telescopes to  test the level of precision obtained via the authors automatic pipeline. SPECULOOS is surveying for transiting  terrestrial planets around the nearest and brightest ultra-cool dwarf stars.
+4.**[Photometry and Performance of SPECULOOS-South](https://arxiv.org/abs/2005.02423)** *(Murray et al., 2020)* TESS observations are used in comparison to simultaneous observations from the ground-based SPECULOOS-South telescopes to  test the level of precision obtained via the authors automatic pipeline. SPECULOOS is surveying for transiting  terrestrial planets around the nearest and brightest ultra-cool dwarf stars.
 
-![ KELT-11b](images/KELT-11b.png)
+![KELT-11b](images/KELT-11b.png)
 
 **Fig. 1:** *Taken from Colon et al., (2020): TESS light curve of KELT-11b. The left panel is the complete TESS  light curve from Sector 9, indicated by the gray dots, the  black line is the median  joint transit  light-curve and Gaussian Process (GP)  model. The right panel is the phase fold light curves and residual after correcting the data against the  GP model.*
 
