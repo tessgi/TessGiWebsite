@@ -17,12 +17,12 @@ TESS  is  used to create  light-curves of the dwarf AGN in the nearby galaxy NGC
 
 4. **[Photometry and Performance of SPECULOOS-South](https://arxiv.org/abs/2005.02423)** *(Murray et al., 2020)* TESS observations are used in comparison to simultaneous observations from the ground-based SPECULOOS-South telescopes to  test the level of precision obtained via the authors automatic pipeline. SPECULOOS is surveying for transiting  terrestrial planets around the nearest and brightest ultra-cool dwarf stars.
 
-![KELT-11b](/images/KELT-11b.png)
+![KELT-11b](images/KELT-11b.png)
 
 **Fig. 1:** *Taken from Colon et al., (2020): TESS light curve of KELT-11b. The left panel is the complete TESS  light curve from Sector 9, indicated by the gray dots, the  black line is the median  joint transit  light-curve and Gaussian Process (GP)  model. The right panel is the phase fold light curves and residual after correcting the data against the  GP model.*
 
 
-![DeltSct](/images/DeltSct.png)
+![DeltSct](images/DeltSct.png)
 
 **Fig. 2:** *Visual interpretation of the rapid pulsation Delta Scuti star  HD 31901. This star is in the southern constellation Lepus. Credits: NASA's Goddard Space Flight Center and Simon Murphy, University of Sydney. A video associated with this figure  can be found [here] (Download this video in HD formats from NASA Goddard's Scientific Visualization Studio).* 
 
