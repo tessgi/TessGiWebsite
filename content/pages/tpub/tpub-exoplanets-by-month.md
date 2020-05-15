@@ -23,6 +23,14 @@ Edwards, Billy, Changeat, Quentin, Hou Yip, Kai, et al.
 Edwards, Billy, Changeat, Quentin, Yip, Kai Hou, et al.    
 2020, refereed ([2020MNRAS.tmp.1386E](http://adsabs.harvard.edu/abs/2020MNRAS.tmp.1386E))  
 
+5. [A POSSIBLE TRANSIT OF A DISINTEGRATING EXOPLANET IN THE NEARBY MULTIPLANET SYSTEM DMPP-1](http://adsabs.harvard.edu/abs/2020arXiv200507086J)  
+Jones, Mark H., Haswell, Carole A., Barnes, John R., et al.    
+2020, not refereed ([2020arXiv200507086J](http://adsabs.harvard.edu/abs/2020arXiv200507086J))  
+
+6. [AN UNUSUAL TRANSMISSION SPECTRUM FOR THE SUB-SATURN KELT-11B SUGGESTIVE OF A SUB-SOLAR WATER ABUNDANCE](http://adsabs.harvard.edu/abs/2020arXiv200505153C)  
+Colón, Knicole D., Kreidberg, Laura, Line, Michael, et al.    
+2020, not refereed ([2020arXiv200505153C](http://adsabs.harvard.edu/abs/2020arXiv200505153C))  
+
 
 2020-04
 -------

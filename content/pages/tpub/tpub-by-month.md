@@ -43,6 +43,22 @@ Kosakowski, Alekzander, Kilic, Mukremin, Brown, Warren R., et al.
 Edwards, Billy, Changeat, Quentin, Yip, Kai Hou, et al.    
 2020, refereed ([2020MNRAS.tmp.1386E](http://adsabs.harvard.edu/abs/2020MNRAS.tmp.1386E))  
 
+10. [PERIODICITY SEARCH FOR PULSAR BINARIES WITH TESS](http://adsabs.harvard.edu/abs/2020arXiv200506841P)  
+Pal, Partha Sarathi, Tam, P. H. T., Liang, Weitang, et al.    
+2020, not refereed ([2020arXiv200506841P](http://adsabs.harvard.edu/abs/2020arXiv200506841P))  
+
+11. [OPTICAL VARIABILITY OF THE DWARF AGN NGC 4395 FROM THE TRANSITING EXOPLANET SURVEY SATELLITE](http://adsabs.harvard.edu/abs/2020arXiv200504491B)  
+Burke, Colin J., Shen, Yue, Chen, Yu-Ching, et al.    
+2020, not refereed ([2020arXiv200504491B](http://adsabs.harvard.edu/abs/2020arXiv200504491B))  
+
+12. [A POSSIBLE TRANSIT OF A DISINTEGRATING EXOPLANET IN THE NEARBY MULTIPLANET SYSTEM DMPP-1](http://adsabs.harvard.edu/abs/2020arXiv200507086J)  
+Jones, Mark H., Haswell, Carole A., Barnes, John R., et al.    
+2020, not refereed ([2020arXiv200507086J](http://adsabs.harvard.edu/abs/2020arXiv200507086J))  
+
+13. [AN UNUSUAL TRANSMISSION SPECTRUM FOR THE SUB-SATURN KELT-11B SUGGESTIVE OF A SUB-SOLAR WATER ABUNDANCE](http://adsabs.harvard.edu/abs/2020arXiv200505153C)  
+Colón, Knicole D., Kreidberg, Laura, Line, Michael, et al.    
+2020, not refereed ([2020arXiv200505153C](http://adsabs.harvard.edu/abs/2020arXiv200505153C))  
+
 
 2020-04
 -------

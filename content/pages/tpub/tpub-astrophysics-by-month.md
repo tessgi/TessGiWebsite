@@ -27,6 +27,14 @@ Murphy, S. J., Paunzen, E., Bedding, T. R., et al.
 Kosakowski, Alekzander, Kilic, Mukremin, Brown, Warren R., et al.    
 2020, refereed ([2020ApJ...894...53K](http://adsabs.harvard.edu/abs/2020ApJ...894...53K))  
 
+6. [PERIODICITY SEARCH FOR PULSAR BINARIES WITH TESS](http://adsabs.harvard.edu/abs/2020arXiv200506841P)  
+Pal, Partha Sarathi, Tam, P. H. T., Liang, Weitang, et al.    
+2020, not refereed ([2020arXiv200506841P](http://adsabs.harvard.edu/abs/2020arXiv200506841P))  
+
+7. [OPTICAL VARIABILITY OF THE DWARF AGN NGC 4395 FROM THE TRANSITING EXOPLANET SURVEY SATELLITE](http://adsabs.harvard.edu/abs/2020arXiv200504491B)  
+Burke, Colin J., Shen, Yue, Chen, Yu-Ching, et al.    
+2020, not refereed ([2020arXiv200504491B](http://adsabs.harvard.edu/abs/2020arXiv200504491B))  
+
 
 2020-04
 -------
