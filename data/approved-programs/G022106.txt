@@ -1,0 +1,37 @@
+# TESS Program G022106
+
+Title: Asteroseismology Of Solar Twins With TESS: The Sun As A Star
+
+PI: Yana Galarza, Jhon - Instituto Astronomico E Geofisico Da Usp
+
+Type: SMALL
+
+Summary: Stellar ages typically have large errors (~4 Gyr), but with Kepler it was possible to estimate ages with better precision through asteroseismology, yet their precision depends on how precisely we know the temperature and metallicity of stars. Different burning problems in stellar physics, such as the apparent rapid rotation and flat magnetic activity of old stars, depend critically on precise ages. We take advantage of a sample of solar twins with precise stellar parameters, to estimate precise seismic ages with TESS, to assess if gyrochronology is still valid in stars around solar age, verify the decrease of stellar activity with age and calibrate the decay of stellar lithium with age. Finally, our improved age calibrations will contribute to constrain ages of planets discovered by TESS.
+
+
+# Sector 014 targets observed (10)
+64804337,309.6689,38.634,6.18,G022171;G022080;G022106;G022032
+99896567,310.4221,35.546,6.85,G022106
+122215177,289.912,37.3295,5.63,G022203;G022106;G022032;G022103
+435479953,297.0036,27.8707,6.28,G022080;G022106;G022032
+330872058,310.1888,19.9372,5.86,G022106;G022032
+159449703,290.7038,43.6074,10.14,G022062;G022106
+416117806,273.8847,45.2087,5.71,G022092;G022203;G022106;G022032;G022103
+233302935,300.6737,53.8887,7.69,G022106
+27533327,295.4654,50.5166,5.63,G022092;G022053;G022106;G022032;G022103
+27533341,295.4527,50.5242,5.39,G022092;G022133;G022106;G022032;G022103;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25
+
+# Sector 015 targets observed (6)
+64804337,309.6689,38.634,6.18,G022171;G022080;G022106;G022032
+99896567,310.4221,35.546,6.85,G022106
+159449703,290.7038,43.6074,10.14,G022062;G022106
+171971636,299.3036,41.441,11.65,G022062;G022106
+27533327,295.4654,50.5166,5.63,G022092;G022053;G022106;G022032;G022103
+27533341,295.4527,50.5242,5.39,G022092;G022133;G022106;G022032;G022103;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25
+
+# Sector 016 targets observed (1)
+233302935,300.6737,53.8887,7.69,G022106
+
+# Sector 017 targets observed (2)
+176791985,354.4965,46.1994,5.99,G022038;G022106;G022032
+346546437,359.528,50.449,6.12,G022106;G022032

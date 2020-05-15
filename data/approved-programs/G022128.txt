@@ -1,0 +1,16 @@
+# TESS Program G022128
+
+Title: Constraining Formation Pathways Of Planets Orbiting High-Mass Stars
+
+PI: Ahlers, Johnathon - NASA/GSFC & Usra
+
+Type: LARGE
+
+Summary: We propose to discover transiting exoplanets orbiting high-mass stars ($M_star >=1.3M_odot$) from TESS's Cycle 2 full-frame images (FFIs) and measure their spin-orbit alignments (the angle between the stellar spin angular momentum and the planetary orbital angular momentum) via gravity-darkening analysis of the TESS light curves. The proposed work will significantly increase the number of spin-orbit alignment measurements for exoplanets with high-mass, early-type host stars, leading to constraints on the mechanisms for misalignment and planet formation and evolution pathways. We also propose high-cadence observations of Kepler-462b to obtain follow-up information on its dynamic behavior.
+
+
+# Sector 014 targets observed (1)
+269263577,299.8211,43.8143,11.38,G022128;G022053
+
+# Sector 015 targets observed (1)
+269263577,299.8211,43.8143,11.38,G022128;G022053
