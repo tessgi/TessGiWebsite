@@ -1,0 +1,10 @@
+# TESS Program G022244
+
+Title: Using TESS As A Transient Explorer Survey Satellite
+
+PI: Shappee, Benjamin - University Of Hawaii (Manoa)
+
+Type: LARGE
+
+Summary: The transient sky is ripe for TESS. The FFIs will not only be a treasure trove for exoplanet science, but they also present a great opportunity for the transient community. TESS will uniquely produce high-dynamic range, high-cadence FFI light curves for large amplitude, bright transients. We propose to capitalize on the \tess{} FFIs in two ways: 1) At its fastest, TESS data will only be downloaded and made available every two weeks. We will observe the full \tess{} field with an increased cadence (4-6 times per day) using ASAS-SN. We will discover TESS transients first from the ground in real-time to allow extensive multi-wavelength and spectroscopic early-time follow-up observations to complement the exquisite TESS light curves will be made public quickly.
+
