@@ -31,6 +31,14 @@ Jones, Mark H., Haswell, Carole A., Barnes, John R., et al.
 Colón, Knicole D., Kreidberg, Laura, Line, Michael, et al.    
 2020, not refereed ([2020arXiv200505153C](http://adsabs.harvard.edu/abs/2020arXiv200505153C))  
 
+7. [A LONG PERIOD (P = 61.8-D) M5V DWARF ECLIPSING A SUN-LIKE STAR FROM TESS AND NGTS](http://adsabs.harvard.edu/abs/2020MNRAS.tmp.1444G)  
+Gill, Samuel, Cooke, Benjamin F., Bayliss, Daniel, et al.    
+2020, refereed ([2020MNRAS.tmp.1444G](http://adsabs.harvard.edu/abs/2020MNRAS.tmp.1444G))  
+
+8. [OPTICAL PHASE CURVE OF THE ULTRA-HOT JUPITER WASP-121B](http://adsabs.harvard.edu/abs/2020A&A...637A..36B)  
+Bourrier, V., Kitzmann, D., Kuntzer, T., et al.    
+2020, refereed ([2020A&A...637A..36B](http://adsabs.harvard.edu/abs/2020A&A...637A..36B))  
+
 
 2020-04
 -------
