@@ -59,6 +59,42 @@ Jones, Mark H., Haswell, Carole A., Barnes, John R., et al.
 Colón, Knicole D., Kreidberg, Laura, Line, Michael, et al.    
 2020, not refereed ([2020arXiv200505153C](http://adsabs.harvard.edu/abs/2020arXiv200505153C))  
 
+14. [THE CORRELATION BETWEEN PHOTOMETRIC VARIABILITY AND RADIAL VELOCITY JITTER, BASED ON TESS AND HARPS OBSERVATIONS](http://adsabs.harvard.edu/abs/2020arXiv200510105H)  
+Hojjatpanah, S., Oshagh, M., Figueira, P., et al.    
+2020, not refereed ([2020arXiv200510105H](http://adsabs.harvard.edu/abs/2020arXiv200510105H))  
+
+15. [A LONG PERIOD (P = 61.8-D) M5V DWARF ECLIPSING A SUN-LIKE STAR FROM TESS AND NGTS](http://adsabs.harvard.edu/abs/2020MNRAS.tmp.1444G)  
+Gill, Samuel, Cooke, Benjamin F., Bayliss, Daniel, et al.    
+2020, refereed ([2020MNRAS.tmp.1444G](http://adsabs.harvard.edu/abs/2020MNRAS.tmp.1444G))  
+
+16. [TESS DATA FOR ASTEROSEISMOLOGY: TIMING VERIFICATION](http://adsabs.harvard.edu/abs/2020arXiv200507203V)  
+von Essen, Carolina, Lund, Mikkel N., Handberg, Rasmus, et al.    
+2020, not refereed ([2020arXiv200507203V](http://adsabs.harvard.edu/abs/2020arXiv200507203V))  
+
+17. [CHEMICAL COMPOSITION OF BRIGHT STARS IN THE CONTINUOUS VIEWING ZONE OF THE TESS SPACE MISSION](http://adsabs.harvard.edu/abs/2020ApJS..248...19T)  
+Tautvaišienė, G., Mikolaitis, Š., Drazdauskas, A., et al.    
+2020, refereed ([2020ApJS..248...19T](http://adsabs.harvard.edu/abs/2020ApJS..248...19T))  
+
+18. [FLARE STATISTICS FOR YOUNG STARS FROM A CONVOLUTIONAL NEURAL NETWORK ANALYSIS OF $\TEXTIT{TESS}$ DATA](http://adsabs.harvard.edu/abs/2020arXiv200507710F)  
+Feinstein, Adina D., Montet, Benjamin T., Ansdell, Megan, et al.    
+2020, not refereed ([2020arXiv200507710F](http://adsabs.harvard.edu/abs/2020arXiv200507710F))  
+
+19. [MODE IDENTIFICATION IN THREE PULSATING HOT SUBDWARFS OBSERVED WITH TESS SATELLITE](http://adsabs.harvard.edu/abs/2020MNRAS.tmp.1451S)  
+Sahoo, S. K., Baran, A. S., Heber, U., et al.    
+2020, refereed ([2020MNRAS.tmp.1451S](http://adsabs.harvard.edu/abs/2020MNRAS.tmp.1451S))  
+
+20. [OPTICAL PHASE CURVE OF THE ULTRA-HOT JUPITER WASP-121B](http://adsabs.harvard.edu/abs/2020A&A...637A..36B)  
+Bourrier, V., Kitzmann, D., Kuntzer, T., et al.    
+2020, refereed ([2020A&A...637A..36B](http://adsabs.harvard.edu/abs/2020A&A...637A..36B))  
+
+21. [PERSISTENT STARSPOT SIGNALS ON M DWARFS: MULTI-WAVELENGTH DOPPLER OBSERVATIONS WITH THE HABITABLE-ZONE PLANET FINDER AND KECK/HIRES](http://adsabs.harvard.edu/abs/2020arXiv200509657R)  
+Robertson, Paul, Stefansson, Gudmundur, Mahadevan, Suvrath, et al.    
+2020, not refereed ([2020arXiv200509657R](http://adsabs.harvard.edu/abs/2020arXiv200509657R))  
+
+22. [DISCOVERY OF $\BETA$ CEP PULSATIONS IN THE ECLIPSING BINARY V453 CYGNI](http://adsabs.harvard.edu/abs/2020arXiv200507559S)  
+Southworth, J., Bowman, D. M., Tkachenko, A., et al.    
+2020, not refereed ([2020arXiv200507559S](http://adsabs.harvard.edu/abs/2020arXiv200507559S))  
+
 
 2020-04
 -------
