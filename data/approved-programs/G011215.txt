@@ -1,0 +1,10 @@
+# TESS Program G011215
+
+Title: Tools To Generate Variability Finder Charts
+
+PI: Berta-Thompson, Zachory - University Of Colorado
+
+Type: Small
+
+Summary: We propose to develop a tool for creating "variability finder charts" from the TESS Full Frame Image (FFI) dataset. When observers plan a ground-based transit observation, we often need to pick appropriate comparison stars, which assume to be photometrically quiet. For the first time, thanks to the TESS FFIs, the data will be available over nearly the entire sky to assess the intrinsic variability of every star within our potential field of view. Our proposed tool for automatically generating finder charts that include information about variability will support the TESS Community Follow-Up Observing program, other exoplanet observing programs, and other bright-star time-domain investigations across all of astrophysics. This tool will be open-source, easy-to-install, and easy-to-use.       
+

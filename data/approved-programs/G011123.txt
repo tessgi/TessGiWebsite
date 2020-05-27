@@ -1,0 +1,94 @@
+# TESS Program G011123
+
+Title: Cataclysmic Variables And Tess: Uninterrupted Monitoring!
+
+PI: Schlegel, Eric - University Of Texas At San Antonio
+
+Type: N/A
+
+Summary: We propose to observe all bright eclipsing cataclysmic variables (CVs) available to TESS during Cycle 1 (with a companion set to be proposed for Cycle 2) using the 2-min cadence mode for all. The 22 CVs cover a broad range of CV sub-type including nova-likes, dwarf novae, old novae, and magnetic CVs. The time resolution provided by the 2-min fixed cadence of the observations leads to high spatial resolution in the accretion structures. We will use the resulting data set to study the eclipses to provide insight to the accretion behavior. The eclipses will provide stringent tests of accretion models. Eclipse mapping will provide extended views of accretion behavior with time, revealing the on-going `life' of disks and other accretion structures.                                               
+
+
+# Sector 001 targets observed (1)
+355544723,320.3605,-54.0763,13.57,G011123
+
+# Sector 002 targets observed (1)
+293271581,98.9003,-62.6401,12.42,G011268;G011123
+
+# Sector 003 targets observed (1)
+293271581,98.9003,-62.6401,12.42,G011268;G011123
+
+# Sector 004 targets observed (1)
+293271581,98.9003,-62.6401,12.42,G011268;G011123
+
+# Sector 005 targets observed (3)
+24450633,82.3565,-32.8177,13.48,G011123
+219203188,92.6402,-48.7404,13.82,G011268;G011123
+293271581,98.9003,-62.6401,12.42,G011268;G011123
+
+# Sector 006 targets observed (3)
+24450633,82.3565,-32.8177,13.48,G011123
+219203188,92.6402,-48.7404,13.82,G011268;G011123
+293271581,98.9003,-62.6401,12.42,G011268;G011123
+
+# Sector 007 targets observed (3)
+234386436,112.8708,9.9397,14.78,G011123
+219203188,92.6402,-48.7404,13.82,G011268;G011123
+293271581,98.9003,-62.6401,12.42,G011268;G011123
+
+# Sector 008 targets observed (1)
+293271581,98.9003,-62.6401,12.42,G011268;G011123
+
+# Sector 009 targets observed (1)
+293271581,98.9003,-62.6401,12.42,G011268;G011123
+
+# Sector 010 targets observed (2)
+9560142,193.1002,-29.2487,12.8,G011235;G011123;G_TMAG_9.600
+293271581,98.9003,-62.6401,12.42,G011268;G011123
+
+# Sector 012 targets observed (1)
+293271581,98.9003,-62.6401,12.42,G011268;G011123
+
+# Sector 001 targets observed (1)
+355544723,320.3605,-54.0763,13.57,G011123
+
+# Sector 002 targets observed (1)
+293271581,98.9003,-62.6401,12.42,G011268;G011123
+
+# Sector 003 targets observed (1)
+293271581,98.9003,-62.6401,12.42,G011268;G011123
+
+# Sector 004 targets observed (1)
+293271581,98.9003,-62.6401,12.42,G011268;G011123
+
+# Sector 005 targets observed (3)
+24450633,82.3565,-32.8177,13.48,G011123
+219203188,92.6402,-48.7404,13.82,G011268;G011123
+293271581,98.9003,-62.6401,12.42,G011268;G011123
+
+# Sector 006 targets observed (3)
+24450633,82.3565,-32.8177,13.48,G011123
+219203188,92.6402,-48.7404,13.82,G011268;G011123
+293271581,98.9003,-62.6401,12.42,G011268;G011123
+
+# Sector 007 targets observed (3)
+234386436,112.8708,9.9397,14.78,G011123
+219203188,92.6402,-48.7404,13.82,G011268;G011123
+293271581,98.9003,-62.6401,12.42,G011268;G011123
+
+# Sector 008 targets observed (1)
+293271581,98.9003,-62.6401,12.42,G011268;G011123
+
+# Sector 009 targets observed (1)
+293271581,98.9003,-62.6401,12.42,G011268;G011123
+
+# Sector 010 targets observed (2)
+9560142,193.1002,-29.2487,12.8,G011235;G011123;G_TMAG_9.600
+293271581,98.9003,-62.6401,12.42,G011268;G011123
+
+# Sector 012 targets observed (1)
+293271581,98.9003,-62.6401,12.42,G011268;G011123
+
+# Sector 013 targets observed (2)
+320173862,293.9287,-59.1397,12.83,G011123
+293271581,98.9003,-62.6401,12.42,G011268;G011123
