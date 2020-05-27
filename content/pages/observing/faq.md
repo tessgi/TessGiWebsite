@@ -12,19 +12,47 @@ Save_as: faq.html
 
 **What is TESS?**
 
-The Transiting Exoplanet Survey Satellite (TESS) is a NASA-sponsored Astrophysics Explorer-class mission that is performing a 2-year all-sky survey to search for planets transiting nearby stars. The primary goal of TESS is to discover planets smaller than Neptune that transit stars bright enough to enable follow-up spectroscopic observations that can provide planet masses and atmospheric compositions. [More information can be found here](objectives.html).
+The Transiting Exoplanet Survey Satellite (TESS) is a NASA-sponsored Astrophysics Explorer-class mission. The TESS mission objective is to search for planets transiting near by stars via an almost all-sky survey. TESS is now coming to the end of its its primary two year mission (starting July 25, 2018). During this time TESS has detected 47 confirmed planets, with an additional 1837 candidates (as of May 26th 2020). For more information about the TESS primary mission please visit the NASA TESS [homepage](https://heasarc.gsfc.nasa.gov/docs/tess/objectives.html)
+
+**What is the TESS extended mission?**
+
+In July of 2020 TESS will finish its primary mission and enter into its extended mission. This extended mission will last for an additional two years and will be driven largely by  the guest investigator [guest investigator program](https://heasarc.gsfc.nasa.gov/docs/tess/proposing-investigations.html). For more information about the extended mission please visit (insert my page here).
+
+
+**Will there be opportunities for Guest Investigators to propose for short-cadence target observations and/or funding in the extended mission?**
+
+Yes! The GI program is continuing and will be a large part of the extended mission. First year (Cycle 3) proposals have already been called for and time allocated, but the Cycle 4 call is now out. Through this call the community can submit proposals for short-cadence target observations and/or funding. for additional information on how to apply for TESS Cycle 4 please see the [TESS Cycle 4 call](https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId=%7B4B9CAAB3-D398-183A-B1F3-EF963DF415C7%7D&path=open).
+
 
 **Where is TESS pointing now?**
 
 The current status of the TESS spacecraft can be found at [the MIT website](https://tess.mit.edu/observations/).
+`Tom you said that there might be some issues with the cycle3 table displayed here?`
 
-**Can I use TESS for my own science?**
+**Where will TESS point in its extended mission?**
 
-Yes! TESS data are made publicly available at the MAST for anyone to use. There is no proprietary period on TESS data.
+The observing strategy for Cycle 3 has been finalized and can be found on the [MIT observations page](https://tess.mit.edu/observations/).  Cycle 4 is still being finalized and will be announced soon. 
 
-<!-- There is an open solicitation for GI Cycle 2 proposals, which covers observations that will take place in the northern ecliptic hemisphere. The deadline for proposals is February 28, 2019. -->
 
-You can also propose to use archival data or to perform other TESS-related investigations via the following solicitations:
+**What are the TESS data products?**
+
+Current data products include:
+	- 2-minute cadence data for a select number of targets
+	- 30-minute full frame images.
+
+During the extended mission data products available will include:
+	- 20 second cadence data, allotted to ~1000 targets per sector.
+	- 2-minute cadence data for a select number of targets
+	- 10-minute full frame images.
+
+**Can I use TESS data for my own science?**
+Yes! TESS data are made publicly available at the [MAST](https://archive.stsci.edu/tess/) for anyone to use. There is no proprietary period on TESS data.
+
+There are several sites where you can down load TESS data products. The above MAST webpage lists all of these.
+
+**Can I propose to look at archival data?**
+ 
+Yes! You can propose to use archival data or to perform other TESS-related investigations via the following solicitations:
 
 * Investigations dominated by theoretical effort should respond to the Appendix D.4 Astrophysics Theory Program (ATP) solicitation, or Appendix E.3 the Exoplanet Research Program (XRP).
 * Investigations dominated by archival data analysis effort should respond to the Appendix D.2 Astrophysics Data Archive Program (ADAP) solicitation.
@@ -32,28 +60,14 @@ You can also propose to use archival data or to perform other TESS-related inves
 
 [More information can be found here](proposing-investigations.html). 
 
-**Will TESS have an extended mission?**
-
-TESS has a 2-year primary mission, where it is currently observing the southern ecliptic hemisphere in its first year of operations and will observe the northern ecliptic hemisphere in its second year of operations. The TESS team submitted a proposal requesting funding for an extended mission for TESS, to the 2019 NASA Senior Review of Operating Astrophysics Missions Call for Proposals. An announcement regarding the proposed extended mission was made in July 2019, extending TESS until 2022.
-
-**Where will TESS point in its extended mission?**
-
-The observing strategy for an extended mission is still being finalized and will be announced in the future once the team knows whether an extended mission for TESS will be funded.
-
-**Will there be opportunities for Guest Investigators to propose for short-cadence target observations and/or funding in the extended mission?**
-
-If TESS is funded for an extended mission, we anticipate the continuation of a GI program where the community can submit proposals for short-cadence target observations and/or funding.
-
 
 ## Proposing short-cadence targets
 
 **How many TESS 2-minute target slots will be available to TESS Guest Investigators?**
-
-At least 20,000 targets will be available to the GI program during the course of the 2-year baseline mission. This number may be higher depending on the demand.
+There will be a ten times increase in the number of 2-minute cadenced targets in the GI program, ~15,000 target slots in each sector.
 
 **Are there any restrictions on the types of targets that can be proposed through the TESS GI Program?**
-
-Proposals to detect planet transits within the 2-minute cadence data of the 100,000 top-prioritized CTL targets in either the southern or northern hemisphere are not solicited, and will be considered non-compliant. No restrictions are imposed on science using the full frame image data. Proposals for exoplanet detection and characterization using full frame image data are encouraged.
+There are not.
 
 **What version of the CTL should be checked before submitting a proposal?**
 
@@ -70,6 +84,8 @@ All targets in the CTL are included in the full TIC, from which the CTL is drawn
 **What if I can do my science with TESS full frame images, and don't need to propose for short-cadence targets?**
 
 Such proposals may request funding only, and will be allowed under the TESS GI Program.
+`Tom i have no real knowlage of CTL - could you please help here?`
+
 
 **What if I have an interesting and timely target that needs to be observed quickly and in short-cadence?**
 
@@ -81,7 +97,10 @@ Additionally, a fraction of the GI targets will be reserved for rapid turn-aroun
 
 **Will funds be available to support GI proposers?**
 
-Yes. TESS Guest Investigators at US Institutions may apply for funding to support their TESS Investigations. There are two levels of funding: small programs and large programs. We anticipate that a small program award will be around $50,000 and a typical large program award will be around $200,000.
+Yes. TESS Guest Investigators at US Institutions may apply for funding to support their TESS Investigations. There are four levels of funding: small programs, large programs, ground-based observing focused programs, and key projects.  
+We anticipate that a small program award will be around $50k and large program around $200k.
+Key projects are large multi-year programs and will be awarded $200k a year. Ground based observing programs should total $500K.
+The overall budget for a cycle is roughly $3M.
 
 **Will proposals asking for FFI-only data be funded?**
 
