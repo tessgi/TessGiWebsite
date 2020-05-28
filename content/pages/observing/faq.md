@@ -12,7 +12,7 @@ Save_as: faq.html
 
 **What is TESS?**
 
-The Transiting Exoplanet Survey Satellite (TESS) is a NASA-sponsored Astrophysics Explorer-class mission. The TESS mission objective is to search for planets transiting near by stars via an almost all-sky survey. TESS is now coming to the end of its its primary two year mission (starting July 25, 2018). During this time TESS has detected 47 confirmed planets, with an additional 1837 candidates (as of May 26th 2020). For more information about the TESS primary mission please visit the NASA TESS [homepage](https://heasarc.gsfc.nasa.gov/docs/tess/objectives.html)
+The Transiting Exoplanet Survey Satellite (TESS) is a NASA-sponsored Astrophysics Explorer-class mission. The TESS mission objective is to search for planets transiting near by stars via an almost all-sky survey. TESS is now coming to the end of its its primary two year mission (started in July 25, 2018). During this time TESS has detected thousands of candidates (as of May 26th 2020). For more information about the TESS primary mission please visit the NASA TESS [homepage](https://heasarc.gsfc.nasa.gov/docs/tess/objectives.html)
 
 **What is the TESS extended mission?**
 
@@ -27,7 +27,6 @@ Yes! The GI program is continuing and will be a large part of the extended missi
 **Where is TESS pointing now?**
 
 The current status of the TESS spacecraft can be found at [the MIT website](https://tess.mit.edu/observations/).
-`Tom you said that there might be some issues with the cycle3 table displayed here?`
 
 **Where will TESS point in its extended mission?**
 
@@ -64,27 +63,14 @@ Yes! You can propose to use archival data or to perform other TESS-related inves
 ## Proposing short-cadence targets
 
 **How many TESS 2-minute target slots will be available to TESS Guest Investigators?**
-There will be a ten times increase in the number of 2-minute cadenced targets in the GI program, ~15,000 target slots in each sector.
+There will be a ten times increase in the number of 2-minute cadenced targets in the GI program, ~12,000 target slots in each sector.
 
 **Are there any restrictions on the types of targets that can be proposed through the TESS GI Program?**
 There are not.
 
-**What version of the CTL should be checked before submitting a proposal?**
-
-[The latest version of the CTL can be found at MAST](https://archive.stsci.edu/tess/index.html). The CTL has a column called priority, which is what we use to evaluate what is in the top 100,000 targets in a given ecliptic hemisphere. <!-- CTL v5.0 was used to evaluate GI Cycle 1 proposals. -->
-
- **Where can I find the list of the 100,000 top-prioritized targets?**
-You can search the CTL at MAST for targets below ecliptic latitude of -6.0 and sort by priority. For GI Cycle 1, we [made a csv file available](data/core-science-targets-v2.csv) that contains the list of the top 100,000 priority targets in the southern ecliptic hemisphere. For GI Cycle 2, we [made a csv file available](data/core-science-targets-cycle2-v1.csv) that contains the top 100,000 priority targets in the northern ecliptic hemisphere.
-
-
-**I have heard that the CTL contains "special lists" of targets. What does that mean, and can my GI proposal include targets that are in those lists?**
-
-All targets in the CTL are included in the full TIC, from which the CTL is drawn. The CTL includes additional observed or calculated stellar properties relevant for transit detection, such as stellar radius. The methods employed to determine these stellar properties are designed for typical main sequence and subgiant stars of type F to M, and might not work reliably for certain other kinds of stars (e.g., white dwarfs). Therefore, the TESS Science Office has assembled "specially curated lists" of specific stars of interest for planet detection, in which the stellar parameters were determined using alternate methods than those used for the bulk of the CTL. More information is available in the [first TIC paper](http://adsabs.harvard.edu/abs/2017arXiv170600495S). There are no additional restrictions placed on these targets above beyond what is described in the [proposal call](proposing-investigations.html).
-
 **What if I can do my science with TESS full frame images, and don't need to propose for short-cadence targets?**
 
 Such proposals may request funding only, and will be allowed under the TESS GI Program.
-`Tom i have no real knowlage of CTL - could you please help here?`
 
 
 **What if I have an interesting and timely target that needs to be observed quickly and in short-cadence?**
@@ -97,10 +83,9 @@ Additionally, a fraction of the GI targets will be reserved for rapid turn-aroun
 
 **Will funds be available to support GI proposers?**
 
-Yes. TESS Guest Investigators at US Institutions may apply for funding to support their TESS Investigations. There are four levels of funding: small programs, large programs, ground-based observing focused programs, and key projects.  
+Yes. TESS Guest Investigators at US Institutions may apply for funding to support their TESS Investigations. There are three levels of funding: small programs, large programs, and key projects.  
 We anticipate that a small program award will be around $50k and large program around $200k.
-Key projects are large multi-year programs and will be awarded $200k a year. Ground based observing programs should total $500K.
-The overall budget for a cycle is roughly $3M.
+Key projects are large multi-year programs and will be awarded $200k a year. 
 
 **Will proposals asking for FFI-only data be funded?**
 
