@@ -16,7 +16,7 @@ The Transiting Exoplanet Survey Satellite (TESS) is a NASA-sponsored Astrophysic
 
 **What is the TESS extended mission?**
 
-In July of 2020 TESS will finish its primary mission and enter into its extended mission. This extended mission will last for an additional two years and will be driven largely by  the guest investigator [guest investigator program](https://heasarc.gsfc.nasa.gov/docs/tess/proposing-investigations.html). For more information about the extended mission please visit (insert my page here).
+In July of 2020 TESS will finish its primary mission and enter into its extended mission. This extended mission will last for an additional two years and will be driven largely by  the guest investigator [guest investigator program](https://heasarc.gsfc.nasa.gov/docs/tess/proposing-investigations.html).
 
 
 **Will there be opportunities for Guest Investigators to propose for short-cadence target observations and/or funding in the extended mission?**
