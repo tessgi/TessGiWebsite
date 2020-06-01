@@ -1,0 +1,10 @@
+# TESS Program G03007
+
+Title: Anchoring Planet Evolution Through Time
+
+PI: Zhou, George - Harvard-Smithsonian Center For Astrophysics
+
+Type: SMALL
+
+Summary: Super-Earths and Neptunes in close-in orbits are the most common types of planets around Sun-like stars. The search for planets around young stars is our best proxy to watching planet formation and evolution in action. Stars and planets are continuously been formed in the Solar neighborhood, and yet field young stars are an untapped regime for planet searches. The library of light curves that TESS is building provides an unique opportunity to search for young field stars and the planets they may host. We will search for these planets, estimate their ages, validate and confirm their presence. We will construct a distribution of physical and dynamical properties of small planets as a function of age: an evolution pathway that led to the dominant planet demographic around Sun-like stars.
+

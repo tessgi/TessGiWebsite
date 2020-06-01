@@ -1,0 +1,10 @@
+# TESS Program G03267
+
+Title: The Ground Truth:Automatic Cross-Calibration Of TESS And Ground Based Photometry For Transient & Highly Variable Events
+
+PI: Pritchard, Tyler - New York University
+
+Type: SMALL
+
+Summary: We propose to further develop and make available to the community a variant of this CPMmodel incorporating ground based data for easy cross calibration to make predictions andimage difference light-curves for sources inTESSFFIs, and to perform studies of transientand variable sources, especially Fast Rising Luminous Supernovae, tidal disruption events,and galactic compact object transients such as X-ray binaries and Cataclysmic Variables.
+

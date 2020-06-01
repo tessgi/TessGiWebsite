@@ -1,0 +1,10 @@
+# TESS Program G03141
+
+Title: Confirming And Characterizing Young Exoplanets
+
+PI: Newton, Elisabeth - Dartmouth College
+
+Type: SMALL
+
+Summary: In order to piece together how the planetary evolution process occurs, we need to make detailed studies of the few young planets that are accessible to in-depth follow- up. We propose to make 2 min cadence observations of confirmed and candidate young planets identified in Cycle 1 in order to improve our knowledge of secure detections and confirm the most promising candidate signals.
+

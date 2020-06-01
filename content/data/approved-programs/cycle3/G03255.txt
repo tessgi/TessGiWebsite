@@ -1,0 +1,10 @@
+# TESS Program G03255
+
+Title: Ages Of Young Moving Groups Using High-Frequency Delta Scuti Stars With Regular Spacings
+
+PI: Huber, Daniel - University Of Hawaii (Manoa)
+
+Type: SMALL
+
+Summary: Young moving groups are unique laboratories to probe fundamental processes in star and planet formation. However, the ages of moving groups are frequently poorly constrained, with age differences in the literature of up to a factor of two depending on the method used. Here we propose 2-minute cadence observations to perform the first systematic asteroseismic age determination for young moving groups, using a newly discovered class of high-frequency delta Scuti stars with regular frequency spacings. Our program will yield the first systematic asteroseismic age determination of young moving groups, probe the dynamical architectures of young stars through spin-axis inclination measurements, and shed light on the occurrence rate of delta Scuti stars with regular spacings.
+

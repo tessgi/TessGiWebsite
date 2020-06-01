@@ -1,0 +1,10 @@
+# TESS Program G03041
+
+Title: Tequila: TESS Exploration Of Quiescent And Low-Activity Supermassive Black Holes
+
+PI: Shen, Yue - University Of Illinois At Urbana-Champaign
+
+Type: LARGE
+
+Summary: We propose a large program (TEQUILA) to analyze TESS FFIs for all NGC+IC galaxies. It will exploit the precision photometry, high-cadence/multi-year baseline, and nearly all-sky coverage of TESS in the search for tenuous nuclear supermassive black hole (SMBH) accretion in the local galaxy population compiled in bright galaxy catalogs (e.g., NGC galaxies). The unique combination of TESS capabilities makes it the ideal facility for identifying and characterizing low-level SMBH accretion in the local universe. Based on TESS-detected nuclear variability from FFIs, TEQUILA will identify SMBHs at the centers of NGC galaxies, quantify the duty cycle of flares in low-rate accretion flows and measure their general variability properties.
+

@@ -1,0 +1,10 @@
+# TESS Program G03144
+
+Title: Providing Context For TESS Observations: Coverage Of TESS Sectors With The Zwicky Transient Facility
+
+PI: Prince, Thomas - California Institute Of Technology
+
+Type: LARGE
+
+Summary: TESS is an extremely powerful facility for studying a broad range of astrophysical objects. During Cycle 2, the Zwicky Transient Facility (ZTF) has been making nightly observations of the current TESS sector in g- and r-band in order to provide a multi-color, high-spatial resolution context for TESS FFI and 2-minute cadence observations. We have made all data from ZTF coverage of TESS sectors public, with nightly release of alert data on transient and variable objects as well as prompt release of light-curves of all ZTF-detectable objects within a TESS sector. In this proposal, we request funding to continue our program of observations of TESS fields during Cycle 3, enhance the legacy value of public ZTF data acquired in Cycle 2, as well as deliver Cycle 2&3 data to NExScI and MAST.
+

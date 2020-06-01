@@ -1,0 +1,10 @@
+# TESS Program G03281
+
+Title: Investigating Local Kinematic Structures With TESS
+
+PI: Faherty, Jacqueline - American Museum Of Natural History
+
+Type: SMALL
+
+Summary: The local volume around the Sun is a laboratory for studying all aspects of star and planet formation. That statement is especially true regarding co-moving, co-evolving young associations like those visualized in Figure 1. The European Space Agency s Gaia telescope (Lindegren et al. 2018) is revolutionizing our understanding of these groups and TESS is well placed to complement and enhance our knowledge of the evolution of stars and their planets in these young stellar associations. In the TESS Cycle 2 call, our team was awarded funds to begin investigating the age-rotation relation for 29 known moving groups and clusters near the Sun with members that span all spectral types (well into the M dwarfs) and are bright enough for TESS lightcurve analysis. Since the time of the last call for
+

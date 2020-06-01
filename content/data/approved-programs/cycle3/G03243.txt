@@ -1,0 +1,10 @@
+# TESS Program G03243
+
+Title: Accurate Masses For Extraordinary Red Giants
+
+PI: Carlberg, Joleen - Space Telescope Science Institute
+
+Type: SMALL
+
+Summary: Mass is a fundamental property of stars and is notoriously difficult to measure for red giant (RG) stars. The photometry provided by TESS and Kepler has proven to be a vital resource for measuring accurate RG masses thanks to the scaling relations that connect a star's characteristic oscillation frequencies to its surface gravity and mean density. We are undertaking a spectroscopic study of ~150 RGs to explore the relationship between planet hosting RGs and RGs with unusual properties suggestive of planet engulfment. We request resources to measure asteroseismic masses for the field RGs in our study that are covered by TESS, utilizing full frame images. Having accurate masses will allow us to assess whether our stellar samples are drawn from the same underlying mass population.
+
