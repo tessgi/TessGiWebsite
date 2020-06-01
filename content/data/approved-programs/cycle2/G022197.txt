@@ -50,3 +50,7 @@ Summary: TESS high quality light curves show not only the transit but the entire
 
 # Sector 024 targets observed (1)
 39903405,245.1514,41.0479,8.28,G022197;G022080;G022053
+
+# Sector 025 targets observed (2)
+39903405,245.1514,41.0479,8.28,G022197;G022080;G022053
+101721385,260.1162,38.2422,9.54,G022197;G022053
