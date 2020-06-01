@@ -2,7 +2,7 @@ Title: Cycle 3 selected programs announced
 Date: 2020-06-01 11:00
 Author: Tom Barclay
 
-On July, 2000 TESS will begin its extended mission. This also marks the beginning of Cycle 3 of the TESS GI program. There are a number of changes in how TESS operates that start with Cycle 3, including a new 20-s cadence mode, all FFI data being taken at 10-min cadence and a 10-fold increase in the number of GI program targets.
+On July 4, 2020 TESS will begin its extended mission. This also marks the beginning of Cycle 3 of the TESS GI program. There are a number of changes in how TESS operates that start with Cycle 3, including a new 20-s cadence mode, all FFI data being taken at 10-min cadence and a 10-fold increase in the number of GI program targets.
 
 We are excited to announce the [selected programs](approved-programs.html) from the Cycle 3 review of proposals. This as a particularly competitive process this year, with over 150 proposal received. The science investigations selected this year cover a broad range of topics, from studies of asteroids in our own Solar System to searching for counterparts of gamma-ray bursts.
 
