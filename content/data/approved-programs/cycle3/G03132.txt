@@ -1,0 +1,10 @@
+# TESS Program G03132
+
+Title: Asteroseismology Of Tic 350146296: The Shortest Period Rapidly Oscillating Ap Star With A Rich Pulsation Spectrum
+
+PI: Holdsworth, Daniel - University Of Central Lancashire
+
+Type: SMALL
+
+Summary: TIC 350146296 was discovered to be a member of the rare class of rapidly oscillating Ap stars through TESS observations. To date, it exhibits the highest pulsation frequencies of any of the roAp stars. These are above the theoretical limit expected in roAp stars, making this star a key for constraining non-adiabatic pulsation models of Ap stars. However, amplitudes in the current TESS data are suppressed by as much as 27%, caused by apodization, thus hampering the detection of further, low-amplitude modes that are required for a full asteroseismic model. We propose to observe TIC 350146296 in the newly available 20-sec cadence mode for the duration of cycle 3 as this star is in the CVZ. This is a prime example of how the shortest cadence observations will maximise TESS science results.
+

@@ -1,0 +1,10 @@
+# TESS Program G03256
+
+Title: TESS Serendipitous Transient Search
+
+PI: Ridden-Harper, Ryan - Space Telescope Science Institute
+
+Type: SMALL
+
+Summary: TESS has opened up the possibility to understand the nature and occurrence rates of rapid extragalactic transients. The TESS Serendipitous Transient Search (TESTS) builds upon the K2: Background survey, which has detected many transients serendipidously observed by Kepler, to search for rare Fast Evolving Luminous Transients (FELTs) in TESS data. We predict that 3-24 FELTs will be observed by TESS that are detectable to TESTS. We will provide the most comprehensive volumetric occurrence rate for FELTs by determining the magnitude limit, detection efficiency, and contamination factor for every TESS pixel. With TESTS we will produce a catalogue of all FELTs observed by TESS, establish the best occurrence rates, and the nature of these mysterious transients.
+

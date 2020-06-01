@@ -1,0 +1,10 @@
+# TESS Program G03080
+
+Title: Towards Constraints On Morning And Evening Terminators Of Distant Worlds With TESS
+
+PI: Espinoza, Nestor - Space Telescope Science Institute
+
+Type: SMALL
+
+Summary: The technique of transmission spectroscopy --- the wavelength-dependent change in the planetary radii due to opacity sources in its atmosphere --- has been one of the main workhorses of the field of exoplanet atmospheres in terms of providing constraints on the atmospheric elemental abundances in gas giant exoplanets. To date, this technique relies on one simple, key assumption: the terminator region we observe during transit is homogeneous. In this work, we aim to test this assumption, proposing to detect signatures of terminator inhomogeneities using the most precise transit lightcurves to be obtained by the TESS mission during its extended mission.
+

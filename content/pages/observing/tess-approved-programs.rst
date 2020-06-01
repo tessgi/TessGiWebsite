@@ -15,6 +15,17 @@ of a sector.
 You can click on the title of each program to read a summary
 of the research objectives.
 
+Cycle 3
+=======
+.. raw:: html
+
+    <p>
+    Cycle 3 contains all targets proposed through the Guest Investigator program for the third year of the TESS mission. All programs are to observe sources in the Southern Ecliptic hemisphere.
+    </p>
+
+
+.. include:: approved-programs/cycle3.html
+
 Cycle 2
 =======
 .. raw:: html

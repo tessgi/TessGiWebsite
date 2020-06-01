@@ -1,0 +1,10 @@
+# TESS Program G03264
+
+Title: Maximizing The Science Yield For Main Sequence And Subgiant Stars In The TESS Southern Continuous Viewing Zone
+
+PI: Van Saders, Jennifer - University Of Hawaii (Manoa)
+
+Type: LARGE
+
+Summary: We will have observed ~34,000 targets in the Southern Continuous Viewing Zone (SCVZ) with the APOGEE2-South H-band R~22,500 spectrograph by the end of TESS Cycle 3, ~14,500 of which are dwarfs and subgiants. This sample is broad and simply selected, enabling a correspondingly broad set of science cases. We propose to provide a curated catalog of TESS SCVZ stars with high-resolution spectroscopy and detailed stellar characterization: we will provide effective temperatures, detailed chemical abundances, and search for flares, convective granulation, and rotational modulation in all sample dwarfs and subgiants. We will use these observations to infer stellar masses, radii, luminosities, and ages using a combination of spectroscopic, photometric, and rotation-based proxies
+

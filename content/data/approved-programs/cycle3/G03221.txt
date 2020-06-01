@@ -1,0 +1,10 @@
+# TESS Program G03221
+
+Title: TESS Cycle 3 Observations Of Variable Hot Subdwarf Stars
+
+PI: Barlow, Brad - High Point University
+
+Type: SMALL
+
+Summary: Here we propose both 20s and 2min cadence TESS observations of known binary and pulsating hot subdwarf stars visible in Cycle 3. We have also identified a large number of candidate variable hot subdwarfs from their anomalously high Gaia flux errors and request 2min cadence data to confirm their variability. Collectively, these light curves will help (i) permit detailed asteroseismological analyses for an unprecedented number of pulsating hot subdwarfs; (ii) greatly increase the number of known and solved binaries; (iii) determine the influence substellar objects have on stellar evolution; (iv) constrain the presence of planetary companions through precise timings; and (v) generally improve our capacity to draw a statistically meaningful picture of this enigmatic stage of stellar evolution.
+

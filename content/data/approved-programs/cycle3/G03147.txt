@@ -1,0 +1,10 @@
+# TESS Program G03147
+
+Title: Asteroseismology Of Pre-Main Sequence Delta Scuti Stars
+
+PI: Zwintz, Konstanze - Universitat Innsbruck
+
+Type: SMALL
+
+Summary: Before TESS data became available, the field of asteroseismology was revolutionized by the high precision photometric time series obtained by the space missions MOST, CoRoT and Kepler. The main focus was lying on main sequence (MS) and post-MS stars, but first promising results were also achieved for the pre-MS stages. For a successful application of pre-MS asteroseismology we require the observational detection, resolution and identification of individual pulsation modes, and accurate theories of stellar structure and evolution. For many pre-MS delta Scuti stars, TESS is now the first space mission delivering high-quality, uninterrupted photometric time series which allows to tackle some of the open questions of early stellar evolution theory.
+

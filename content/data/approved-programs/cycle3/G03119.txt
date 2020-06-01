@@ -1,0 +1,10 @@
+# TESS Program G03119
+
+Title: A Library Of 20 Second Light Curves
+
+PI: Tayar, Jamie - University Of Hawaii (Manoa)
+
+Type: SMALL
+
+Summary: The addition of a 20-second cadence option to TESS opens up a new window into stellar variability. We know from studies of our own Sun that flares, oscillations, and convection can cause variations on timescales of seconds. However, the variation of other classes of stars at small amplitude and fast cadence are relatively unconstrained. We therefore propose to establish a library of 20 second cadence observations of bright, spectroscopically characterized stars across the HR diagram. This has the potential to identify new sources of variability at lower amplitude and shorter period than ever before. In addition, such well sampled light curves will offer opportunities to optimize the cadence of future surveys and to determine the timescales on which stars can be considered to be stable.
+

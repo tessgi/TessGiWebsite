@@ -1,0 +1,10 @@
+# TESS Program G03156
+
+Title: Halo Photometry Of Naked-Eye Stars With TESS
+
+PI: Pope, Benjamin - New York University
+
+Type: SMALL
+
+Summary: The most powerful tests of stellar structure and evolution come from the brightest stars in the night sky, for which complementary observational techniques (such as astrometry, asteroseismology, and interferometry) can be combined. So far, naked-eye stars (V<6) have rarely been observed with high-precision, high-cadence photometry from space telescopes such as Kepler/K2 due to the large number of pixels required to capture the saturated pixel columns. The key goal of this program is to adapt the novel technique of 'halo photometry' which our team has pioneered with K2 and TESS to perform photometry of extremely bright stars, and obtain high-precision 2-minute cadence light curves of all naked-eye stars, and 20-sec for several targets of special interest.
+

@@ -1,0 +1,10 @@
+# TESS Program G03186
+
+Title: Pulsations And Disks Of Be Stars As Tracers Of Stellar Structure, Evolution, Pulsation-Driven Mass Loss And Disk Physics
+
+PI: Labadie-Bartz, Jonathan - Universidade De Sao Paulo
+
+Type: SMALL
+
+Summary: Be stars are near-critically rotating non-radially pulsating B-type stars that episodically eject mass and form orbiting viscous 'decretion' disks. As such, they are valuable astrophysical laboratories for a variety of processes. Be stars show diverse behavior with widely ranging timescales and magnitudes, necessitating a statistical study of the class. They are bright and relatively common, but tend to lie near the Galactic plane and have largely been avoided by space photometry. TESS thus provides an excellent and rare opportunity to study Be stars, and in particular their pulsational properties which may hold the key as to what drives the enigmatic Be phenomenon. We will obtain spectra and polarization measurements simultaneous with the TESS observations of selected targets.
+
