@@ -47,3 +47,7 @@ Summary: We propose to observe a sample of 24 gamma-ray blazars with TESS, combi
 # Sector 024 targets observed (2)
 72806854,253.4676,39.7602,13.64,G022059;G022031
 256615539,299.9994,65.1485,14.46,G022059;G022031
+
+# Sector 025 targets observed (2)
+72806854,253.4676,39.7602,13.64,G022059;G022031
+256615539,299.9994,65.1485,14.46,G022059;G022031
