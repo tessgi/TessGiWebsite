@@ -1,0 +1,10 @@
+# TESS Program G03279
+
+Title: Leveraging The Synergy Between TESS And Speculoos: Hunting For Exoplanets Around The Nearest Late M Dwarfs
+
+PI: Guenther, Maximilian - Massachusetts Institute Of Technology
+
+Type: SMALL
+
+Summary: Late-type M dwarf exoplanet systems are ubiquitous and open new doors for detailed atmospheric characterization, but by itself, TESS is less effective for these ultra-cool stars. We thus propose a joint TESS and SPECULOOS effort to observe 277 carefully selected, nearby (<40 pc) M5 to M8 dwarfs with 2 min cadence in Cycle 3. On these targets, we can detect temperate Earth-sized planets at>3 sigma using TESS alone and SPECULOOS will be used to rapidly confirm those candidates, strongly expanding TESS reach and impact to the most interesting targets for atmospheric studies with JWST and the ELTs. We will also develop custom TESS 2 min data products, which we will make publicly available immediately, as a service to the community.
+

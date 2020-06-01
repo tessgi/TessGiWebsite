@@ -1,0 +1,10 @@
+# TESS Program G03135
+
+Title: Unlocking The Potential Of TESS And Sloan Digital Sky Survey: Synergy For Intermediate And High-Mass Stars
+
+PI: Johnson, Jennifer - Ohio State University
+
+Type: SMALL
+
+Summary: The properties of higher mass stars affects much of astrophysics: from the evolutoin of galaxies to the fate of planetary systems to the formation of compact objects. However, the theory of stellar structure and evolution for intermediate- and high-mass stars has major shortcomings, evident even on the main sequence. Resolving these issues requires confronting theoretical predictions with precise measurements of atmospheric and pulsational properties. To complement TESS's high quality light curve data, we propose measuring effective temperature, gravity, metallicity, vsini, and radial velocities for tens of thousands of stars with convective cores and radiative envelopes (M > 1.2 Msun) using the APOGEE high-resolution H-band spectrograph as part of the SDSS-V all-sky survey.
+

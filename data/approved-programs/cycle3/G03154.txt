@@ -1,0 +1,10 @@
+# TESS Program G03154
+
+Title: A Galaxy-Targeted For Fast-Evolving Transients With TESS
+
+PI: Villar, Victoria - Harvard University
+
+Type: SMALL
+
+Summary: The discovery of fast-evolving transients (FETs) has challenged our understanding of extragalactic time-domain astrophysics. However, ground-based transient surveys are inefficient at finding FETs due to their longer cadences. We propose to utilize TESS full-frame images to discover and analyze FETs with a galaxy-targeted search. Given current rate estimates, our search will discover 10-40 FETs during Cycle 3, increasing the sample of high-cadence FET light curves by an order of magnitude. We will make our light curves immediately available for public use and followup.
+

@@ -1,0 +1,10 @@
+# TESS Program G03227
+
+Title: Detecting Activity Cycles Using Stellar Flares
+
+PI: Davenport, James - University Of Washington
+
+Type: SMALL
+
+Summary: Activity cycles are the key to understanding the origin of the stellar magnetic dynamo, but are notoriously difficult to constrain for stars without expensive spectroscopic data. Flares offer a new way to reliably probe activity cycles using photometry alone. Using TESS 2-min data for a sample of stars already having legacy activity cycle spectroscopy observations, we will calibrate this flare-cycle connection, and establish benchmark flare rates for these key stars.
+

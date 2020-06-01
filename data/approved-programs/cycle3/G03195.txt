@@ -1,0 +1,10 @@
+# TESS Program G03195
+
+Title: Discovering Circumbinary Planets With TESS
+
+PI: Kostov, Veselin - NASA/GSFC
+
+Type: SMALL
+
+Summary: One of Kepler's most exciting breakthroughs was the discovery of circumbinary planets (CBPs). Only about a dozen were found, however, leaving a vast gap in our understanding -- similar to the state of exoplanet science 20 years ago when only hot Jupiters were known. TESS, and only TESS, will allow us to detect an order of magnitude more CBPs using a new technique we have developed and tested: the occurrence of multiple transits during one conjunction. In addition to enchanting individual-case discoveries and their intriguing dynamics, our sample will enable statistical studies of occurrence rates, formation, and habitability of CBPs (an astonishing ~30% of Kepler CBPs are in the habitable zone), as well as provide a deeper understanding of the formation and evolution of close binary stars.
+

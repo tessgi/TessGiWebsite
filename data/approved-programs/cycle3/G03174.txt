@@ -1,0 +1,10 @@
+# TESS Program G03174
+
+Title: Multi-Wavelength Superflares And Planetary Habitability
+
+PI: Howard, Ward - University Of North Carolina
+
+Type: SMALL
+
+Summary: Superflares (energies 10-1000X the largest solar flares) are often emitted by active M-dwarfs, raising questions about planetary habitability. Few superflares have been observed in multiple colors and at high enough cadence to resolve impulsive (10 s) flare emission. Observations are needed to characterize the flare processes in the stellar atmosphere and determine the effects of superflares on the atmospheres of rocky planets. We propose the largest survey of M-dwarf superflares, cataloguing their rapid emission profiles and temperatures with TESS 20 s cadence and simultaneous ground-based observations. 100 events will occur in Cycle 3 within the TESS FoV simultaneously to Evryscope observations, a 10X improvement in the number of superflares.
+

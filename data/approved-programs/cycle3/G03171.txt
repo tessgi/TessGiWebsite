@@ -1,0 +1,10 @@
+# TESS Program G03171
+
+Title: Measuring Long Rotation Periods From TESS Light Curves
+
+PI: Angus, Ruth - American Museum Of Natural History
+
+Type: LARGE
+
+Summary: TESS has great potential as a stellar rotation mission, especially with the extended light curves provided by cycle 3, however detrending methods that preserve stellar variability are required to measure rotation periods longer than around 15 days, even in the continuous viewing zones. We propose to develop methods for detrending TESS light curves that preserve stellar variability and allow rotation periods up to at least 50 days to be measured. We will use these methods to produce a catalog of stellar rotation periods, ranging from 0.1 to ~60 days, for all bright TESS stars in the South.
+

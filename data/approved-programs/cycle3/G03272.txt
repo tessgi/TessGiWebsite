@@ -1,0 +1,10 @@
+# TESS Program G03272
+
+Title: Two Minute TESS Data For Thousands Of Promising New Radial Velocity Target Stars
+
+PI: Burt, Jennifer - NASA JPL
+
+Type: SMALL
+
+Summary: Of the millions of stars that TESS will observe during Cycle 3 in either FFIs or 2-minute cadence, less than 2% are well suited to radial velocity follow up with the current generation of precision RV instruments. We propose to obtain 2-minute TESS photometry of 34,140 stars in the Southern Ecliptic Hemisphere whose effective temperatures and V- or T-magnitudes make them viable RV candidates. Planets found to orbit these stars will have the best chances of obtaining precision mass measurements. Such measurements will make these planets prime targets for future atmospheric characterization efforts with ground-based facilities such as NIRSPEC and ESPRESSO, and space-based missions including HST, JWST, and ARIEL. Of these stars, 21,425 were not previously observed in 2-minute cadence by TESS.
+
