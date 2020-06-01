@@ -1,0 +1,10 @@
+# TESS Program G03225
+
+Title: Long-Term Variability Of Ultracool Dwarfs With TESS
+
+PI: Pineda, J. Sebastian - University Of Colorado
+
+Type: SMALL
+
+Summary: We propose to compare new measurements using two-minute cadence data of southern hemisphere ultracool dwarf photometric variability with measurements from our initial work on these targets from Cycle 1 of the TESS mission. Revisiting our sample targets after a several year time base line provides a unique opportunity to not only characterize brightness modulations from rotational variability and/or flares in these stars with greater precision, but assess the extent to which these properties can change on several year time scales. This study provides a fundamentally new probe of long-term activity in the lowest-mass stars, and how their atmospheric physics may change going into the substellar regime.
+

@@ -1,0 +1,10 @@
+# TESS Program G03188
+
+Title: Establishing The TESS Mission'S Legacy Of Long-Period Planets
+
+PI: Villanueva, Steven - Massachusetts Institute Of Technology
+
+Type: LARGE
+
+Summary: We propose to complement TESS core science by adding several hundred new long-period planets and planet candidates. We will search for and vet single transit planet candidate (STPC) signals in Cycle 3 for targets for which we found STPCs in Cycle 1. We will also identify new STPCs in Cycle 3, and develop a parallel pipeline optimized for identifying STPCs around M dwarfs. These candidates will be released to the community in a timely fashion to allow efficient follow-up. As added value, our program will allow us to update the occurence rates of long-period giant exoplanets. This program will provide a large sample of temperate planet candidates transiting bright stars amenable to follow-up studies, enabling constraints on the composition and formation of long-period exoplanets.
+
