@@ -1,6 +1,6 @@
 # TESS Program G03284
 
-Title: High-Cadence Measurements Of The Orbital Evolution In Rare Short Period Cv Systems
+Title: High-Cadence Measurements Of The Orbital Evolution In Rare Short Period CV Systems
 
 PI: Schwab, Ellianna - University Of California (Berkeley)
 
