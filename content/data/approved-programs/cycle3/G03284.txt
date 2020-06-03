@@ -1,0 +1,10 @@
+# TESS Program G03284
+
+Title: High-Cadence Measurements Of The Orbital Evolution In Rare Short Period CV Systems
+
+PI: Schwab, Ellianna - University Of California (Berkeley)
+
+Type: SMALL
+
+Summary: Short-period (< 2 hr) cataclysmic variables (spCVs) play a crucial role in understanding fundamental white dwarf physics, binary evolution, progenitors models of supernovae, and the gravitational wave sky. We propose the first continuous high-cadence population study of 99 bright spCV candidates, including 30 systems that will be viewed for 9+ sectors. The short integration mode (20 s or 2 min) should lead to period recovery for even the tightest binaries in our sample and radial velocity followup will yield masses. Constraining system and component parameters, especially for eclipsing systems, will help uncover new coherent LISA sources.
+

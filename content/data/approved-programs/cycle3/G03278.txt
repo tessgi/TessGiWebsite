@@ -1,0 +1,10 @@
+# TESS Program G03278
+
+Title: Enriching Our View Of Multiplanet Systems Using TESS
+
+PI: Mayo, Andrew - University Of California (Berkeley)
+
+Type: SMALL
+
+Summary: One of the many exciting results from the Kepler mission was the discovery that multiplanet systems are common. We propose to enrich the sample of multiplanet systems by obtaining 20-sec cadence observations of 915 relatively bright stars known to host one or more planets or planet candidates. The main goals of our proposal are to discover additional planets in these systems by detecting transits and transit timing variations and increase the sample of long-period planets by detecting single transit events and estimating the orbital parameters of planets with uncertain orbital periods.
+

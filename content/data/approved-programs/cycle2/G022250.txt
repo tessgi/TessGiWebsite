@@ -23,3 +23,6 @@ Summary: The TESS mission is not currently targeting any significant number of l
 
 # Sector 024 targets observed (1)
 283414280,327.9162,59.2929,13.84,G022028;G022250
+
+# Sector 025 targets observed (1)
+142680352,255.7926,14.5103,5.87,G022103;G022250

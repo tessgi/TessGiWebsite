@@ -1,0 +1,10 @@
+# TESS Program G03268
+
+Title: The Confirmation And Characterization Of Small TESS Planets
+
+PI: Quinn, Samuel - Harvard-Smithsonian Center For Astrophysics
+
+Type: KEY PROJECT
+
+Summary: The most important legacy of TESS may be the discovery of small planets orbiting bright, nearby stars amenable to mass measurements with precise radial velocities and atmospheric characterization with future facilities like JWST and extremely large telescopes. The TESS extended mission promises to bolster this legacy further by finding planets that are smaller and longer-period than those from the prime mission. We have seen that ground-based follow-up is crucial for the identification of false positives and selection of the best targets for our community's most valuable resources. We propose for funding to continue our ground-based observing programs that, in the prime mission, represent a majority of the precise light curves and reconnaissance spectroscopy obtained by the community.
+

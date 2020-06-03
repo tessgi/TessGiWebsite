@@ -1,0 +1,10 @@
+# TESS Program G03273
+
+Title: Exploring The Star-Planet Connection Via Simultaneous TESS And Swift Observations Of Highly Active M Dwarfs
+
+PI: Vega, Laura - NASA/GSFC
+
+Type: SMALL
+
+Summary: M dwarfs stars are the most abundant stellar type and are known to frequently host small planets. M dwarfs exhibit high levels of activity, subjecting planets to significantly more radiation than we receive from the Sun. Just how much this affects their potential habitability remains unclear. We propose to study five highly active M dwarfs, three of which are known planets hosts, using simultaneous TESS 20-second cadence optical data and Swift's X-ray/ultraviolet observations. The combined data will provide a deeper understanding of M dwarf activity in unprecedented detail, enabling us to identify relations between optical, UV, and X-ray activity for low mass stars that will provide valuable inputs into exoplanet atmosphere and habitability models.
+

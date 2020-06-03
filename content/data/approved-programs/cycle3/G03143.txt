@@ -1,0 +1,10 @@
+# TESS Program G03143
+
+Title: Using TESS To Measure The Dynamical Evolution Of A Young Close Binary In A Triple System
+
+PI: Hebb, Leslie - Hobart And William Smith Colleges
+
+Type: SMALL
+
+Summary: We propose to obtain 2~min cadence observations of MML~48, a young eclipsing binary in a gravitationally bound triple system. The third star appears to be causing variations to both the epoch of the eclipses and the orbital period of the close binary system. Combining the requested observations with photometric and spectroscopic data from 2006 to the present will allow us not only to measure precisely the fundamental properties of the eclipsing stars, but importantly to directly observe the effects of 3-body interactions on the orbital properties of a close binary at a young age. Characterizing the orbits of the stars in such a young system, provides early constraints on the observed distribution of multiple systems giving insight into the formation mechanisms of close stellar binaries.
+
