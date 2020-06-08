@@ -1,0 +1,10 @@
+# TESS Program G022216
+
+Title: Short Timescale Accretion Variability In Young Low-Mass Stars
+
+PI: Robinson, Connor - Boston University
+
+Type: SMALL
+
+Summary: Young low-mass accreting stars known as classical T Tauri Stars (CTTS) show substantial variability on timescales as long as years. Short cadence light curves from limited K2 and ground-based studies show significant accretion variability on timescales down to a few minutes that remains relatively uncharacterized. To quantify short timescale variability in CTTS, we request 2 minute cadence observations of all of the bright CTTS in the Taurus star-forming region. Our target list consists of 15 CTTS which are the best targets for a study of accretion variability given the wealth of ancillary data. Multiple targets have archival HST UV observations, from which accretion properties have been determined and which will aid in our interpretation of the TESS data.
+
