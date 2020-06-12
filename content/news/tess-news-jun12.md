@@ -1,4 +1,4 @@
-Title: TESS Weekly Bulletin
+Title: TESS Weekly Bulletin: June 8th
 Date: 2020-06-12 14:00
 Author: Rebekah Hounsell
 
