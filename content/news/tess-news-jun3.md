@@ -6,14 +6,14 @@ Author: Rebekah Hounsell
 
 Hello TESS followers, and welcome to our fifth news bulletin! This week we are happy to announce the selection of our Cycle 3 extended mission targets, and highlight several papers now listed on arXiv.org.
 
-Within Cycle 3 the split of target types is as follows:
+Within Cycle 3 selected programs loosely fell into the following categories:
 
-* Planetary Science: 17
-* Active Galactic Nuclei/Blazers/Black	Hole Studies: 3
-* Transient/Variable Stars/Flaring Activity: 8
-* Stellar Studies: 16
-* Astro-seismology: 4
-* Comets: 1
+* Exoplanets: 16
+* Stellar astrophysics + asteroseismology: 3
+* Extragalactic science: 8
+* Binary stars: 16
+* Cool star activity: 4
+* Solar system science: 2
 
 This week's paper highlights are:
 
