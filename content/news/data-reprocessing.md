@@ -1,4 +1,4 @@
-Title: Reprocessed TESS Data Coming Soon
+Title: Reprocessed TESS data coming soon
 Date: 2020-06-12 12:00
 Author: Knicole Colon
 
