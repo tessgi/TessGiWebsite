@@ -1,0 +1,10 @@
+# TESS Program G011200
+
+Title: Stellar Surface Rotation, Angular Momentum Evolution, And Magnetism In Tess
+
+PI: Van Saders, Jennifer - University Of Hawaii (Manoa)
+
+Type: Large
+
+Summary: Rotation is a powerful and under-utilized stellar diagnostic: it carries information about the ages, masses, magnetism, and interaction histories of stars. We propose to utilize TESS Full-Frame Image data to measure surface rotation rates and photometric magnetic activity proxies in dwarf and subgiant stars in the Southern Continuous Viewing Zone and Asteroseismic Target List. This sample will enable important tests of unexpected behavior in the Kepler rotators, allow us to refine physical models of angular momentum evolution, provide anchors for period-age and activity-age relations, and ensure that the potential of rotation periods for stellar characterization is fully realized for broader science with TESS.                                                                                 
+
