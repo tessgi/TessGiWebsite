@@ -25,7 +25,7 @@ TESS observations of two bright PV Tel variables are presented within this paper
 
 
 3. **[The ASAS-SN Catalog of Variable Stars VIII: "Dipper" Stars in the Lupus Star-Forming Region](https://arxiv.org/abs/2005.14201)** *(Bredall et al 2020)* **:**
-T Tauri-like "dipper" stars are	the focus of this paper. These young stellar objects show variations caused by the	partial occultation of the star by circumstellar dust. Observations of these objects inform us of the planet-forming zones around the stars. The authors have examined 11 dipper stars in the Lupus star forming region in data from the All-Sky Automated Survey for Supernovae. The objects are characterized in this paper using data from the Las Cumbres Global Observatory Telescope and TESS (+ additional archival data). The authors determine that all stars examined are above or red-ward of the zero-age main sequence and have infrared excesses which suggest the presence of full circumbinary disks.
+T Tauri-like "dipper" stars are	the focus of this paper. These young stellar objects show variations caused by the	partial occultation of the star by circumstellar dust. Observations of these objects inform us of the planet-forming zones around the stars. The authors have examined 11 dipper stars in the Lupus star forming region in data from the All-Sky Automated Survey for Supernovae. The objects are characterized in this paper using data from the Las Cumbres Global Observatory Telescope and TESS (+ additional archival data). The authors determine that all stars examined are above or red-ward of the zero-age main sequence and have infrared excesses which suggest the presence of full circumstellar disks.
 
 ![v821cen](images/v821cen.png)
 

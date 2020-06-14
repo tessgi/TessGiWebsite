@@ -1,8 +1,8 @@
-Title: TESS Weekly Bulletin: June 8th
+Title: TESS Weekly Bulletin: June 12th
 Date: 2020-06-12 14:00
 Author: Rebekah Hounsell
 
-`STATUS UPDATE: Reprocessed TESS Data is Coming Soon! - reprocessed data for Sectors 1-19 will be ingested into the MAST archive over the next few months. See the [MAST News page](https://archive.stsci.edu/contents/newsletters/june-2020/reprocessed-tess-data-coming-soon?filterPage=news&filterName=news-filter) for more details.`
+STATUS UPDATE: Reprocessed TESS Data is Coming Soon! - reprocessed data for Sectors 1-19 will be ingested into the MAST archive over the next few months. See the [MAST News page](https://archive.stsci.edu/contents/newsletters/june-2020/reprocessed-tess-data-coming-soon?filterPage=news&filterName=news-filter) for more details.
 
 Hello TESS followers and welcome to this weeks news bulletin! This week we have three papers from the archive. 
 
