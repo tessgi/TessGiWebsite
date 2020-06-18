@@ -57,3 +57,6 @@ Summary: A comprehensive census and understanding of exoplanetary systems requir
 
 # Sector 025 targets observed (1)
 302771290,42.2313,69.6345,6.08,G022062;G022063
+
+# Sector 026 targets observed (1)
+8462730,279.1542,22.1075,6.73,G022063;G022062
