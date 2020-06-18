@@ -83,3 +83,6 @@ Summary: Quasi-periodic oscillations (QPOs) are fundamental properties of both s
 
 # Sector 025 targets observed (1)
 233068870,270.5717,64.2601,10.34,G022252;G022076;G022198;G022056;G022113
+
+# Sector 026 targets observed (1)
+219790149,264.6702,61.2334,11.97,G022252;G022113

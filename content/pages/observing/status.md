@@ -195,7 +195,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>North</td>
     <td>2020&nbsp;Jun&nbsp;08</td>
     <td>2020&nbsp;Jul&nbsp;04</td>
-    <td></td>
+    <td><a href='data/target_lists/sector026_targets_lists/GI_S026.csv'>Download</a></td>
     <td style="min-width: 12em;">Pointing shifted toward the North ecliptic pole.
     </td>
   </tr>
