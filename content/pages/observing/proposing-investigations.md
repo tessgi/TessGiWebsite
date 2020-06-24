@@ -5,9 +5,9 @@ Save_as: proposing-investigations.html
 
 The TESS Guest Investigator (GI) program is intended to enable the community to participate in science investigations using TESS. The program enables teams to propose the collection of new 2-minute and 20-second cadence targets, and provides funding to US investigators to analyze 2-minute and 20-second cadence and full-frame image (FFI) data.
 
-The TESS primary mission duration was two years. The first year was spent in the southern ecliptic hemisphere and corresponded to TESS GI program Cycle 1; the second year observed the northern ecliptic hemisphere and corresponded to Cycle 2. During the primary mission, the majority of the 2-minute cadence targets observed were taken from the [TESS Candidate Target list (CTL)](#candidate-target-list-ctl). Around 20,000 2-minute cadence target slots were assigned to the GI program during the 2-year prime mission.
+The TESS [primary mission](primary.html) duration was two years. The first year was spent in the southern ecliptic hemisphere and corresponded to TESS GI program Cycle 1; the second year observed the northern ecliptic hemisphere and corresponded to Cycle 2. During the primary mission, the majority of the 2-minute cadence targets observed were taken from the [TESS Candidate Target list (CTL)](#candidate-target-list-ctl). Around 20,000 2-minute cadence target slots were assigned to the GI program during the 2-year prime mission.
 
-Cycle 3 corresponds to the third year of TESS science, and is the first year of the TESS extended mission. There is no primary mission science during the TESS extended mission, scientific investigations are primarily supported by the TESS GI program. Targets for Cycle 3 will be in the southern ecliptic hemisphere.
+Cycle 3 corresponds to the third year of TESS science, and is the first year of the TESS [extended mission](extended.html). There is no primary mission science during the TESS extended mission, scientific investigations are primarily supported by the TESS GI program. Targets for Cycle 3 will be in the southern ecliptic hemisphere.
 
 The Guest Investigator program sees significant changes in the extended mission. Highlights include:
 
@@ -35,8 +35,7 @@ scientific/technical/management section
 
 There is no exclusive-use data rights to observations collected by TESS. All data will be made available through the [MAST public archive](http://archive.stsci.edu/tess/summary.html) once data processing and validation is complete. 
 
-**The deadline for Cycle 3 proposals is January 16, 2020 at 4.30pm.** Cycle 3 observations will begin July 5, 2020. 
-
+**The deadline for Cycle 3 proposals was January 16, 2020 at 4.30pm.** Cycle 3 observations will begin July 4th, 2020. 
 
 ### Permitted science areas
 
@@ -127,8 +126,6 @@ The 10-minute FFI cadence and 20-second cadence mode for individual targets are 
 
 Proposers wishing to utilize 10-minute FFI cadence or 20-second cadence observing modes during Cycle 3 must identify the impact upon their science goals if only 30-minute FFIs and 2-minute cadence modes are available at the time of the observations. If the program cannot achieve its science goals without 20-second cadence or 10-minute FFI modes, this must be stated.
 
-
-
 ### Eligibility
 
 Application to the TESS GI program is typically open to all investigators, including those from outside the U.S. under NASA's no-exchange-of-funds policy. 
@@ -195,7 +192,6 @@ Moving aperture targets should be flagged as requiring special handling at propo
 
 ### Target of Opportunity Observations
 Target of Opportunity Observations (TOOs) are designated for rapidly evolving phenomena whose occurrence is not predictable at the time of the proposal deadline. Due to TESS mission constraints, TOO-triggered target definitions can only be uploaded to the spacecraft during uplinks that occur once every 13.7 days. Details regarding the circumstances in which a TOO is "triggered" must be included in the scientific justification and on the target form. TOO proposals must also include an estimated duration of the event, as well as an estimated probability for triggering the observations; the latter will be used in the accounting of total allocated targets. TOOs remain active during the current cycle; TOOs not carried out during the cycle may be re-proposed to subsequent solicitations. TOO observations would commence after the spacecraft upload following the trigger event, which could be as long as 2 months after the event. The impact to science of such a potential delay must be addressed in proposals requesting TOO observations. 
-
 
 
 ## Solicitations
