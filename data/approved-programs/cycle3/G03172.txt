@@ -1,0 +1,10 @@
+# TESS Program G03172
+
+Title: A TESS Search For Distant Solar System Objects
+
+PI: Payne, Matthew - Smithsonian Astrophysical Observatory
+
+Type: KEY PROJECT
+
+Summary: We propose a two-cycle (Cycles 3 and 4), ``all-sky'' survey of the outer solar system using TESS full frame images (FFIs). We will use ``digital tracking'' techniques to efficiently ``shift-and-stack'' FFIs and thus detect moving objects as faint as I~22, well below the single-exposure limit. This shift-and-stack survey using FFI data will discover hundreds of bright Kuiper Belt Objects, Scattered-Disk Objects and Centaurs, and could discover/constrain Planet-9. The newly discovered objects will: (i) be easy to follow-up for physical characterization; (ii) provide a unique all-sky characterization of the size- and spatial-distribution of outer solar-system objects; and (iii) provide insights into rare populations well away from the ecliptic.
+
