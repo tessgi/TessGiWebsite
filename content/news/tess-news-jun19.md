@@ -1,5 +1,5 @@
-Title: TESS Weekly Bulletin: June 15th
-Date: 2020-06-18 13:00
+Title: TESS Weekly Bulletin: June 23th
+Date: 2020-06-23 13:00
 Author: Rebekah Hounsell
 
 `STATUS UPDATE: We have now started observing in Sector 26!`
