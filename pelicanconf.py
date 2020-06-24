@@ -84,45 +84,42 @@ PLUGINS = ['extract_toc']
 
 # Defines the menu items in the top bar
 MENUITEMS = (
-        ('News', 'archives.html'),
         ('Mission', (
             ('Objectives', 'objectives.html'),
             ('Telescope', 'the-tess-space-telescope.html'),
-            ('Operations', 'operations.html'),
-            ('Science', 'primary-science.html'),
-            ('Publications', 'publications.html'),
-            # ('Conferences', 'conferences.html'),
-            # ('Users Panel', 'users-panel.html'),
+            ('Primary Mission', 'primary.html'),
+            ('Extended Mission', 'extended.html'),
             )
          ),
-        ('Using TESS', (
-            ('Observing dates', 'status.html'),
-            ('Guest Investigator Program', 'proposing-investigations.html'),
-            ('Technical details', 'observing-technical.html'),
-            # ('Campaign fields', 'k2-fields.html'),
-            # ('Data release notes', 'k2-data-release-notes.html'),
-            ('Proposal tools', 'proposal-tools.html'),
-            ('Approved programs', 'approved-programs.html'),
-            #('Discretionary targets', 'ddt.html'),
-            #('FAQ', 'faq.html'),
-            # ('C9 Microlensing experiment', 'k2-c9.html'),
-            # ('C16 Supernova experiment', 'supernova-experiment'),
-            )
-         ),
-        ('Data analysis', (
-            ('Data access', 'data-access.html'),
-            #('Follow-up program', 'followup.html'),
-            ('Analysis software', 'software.html'),
-            #('Pipeline', 'pipeline.html'),
-            ('Community products', 'community.html'),
+        ('TESS Data', (
+            ('Data Pipeline', 'data-handel.html'),
+            ('Data Products', 'data-products.html'),
+            ('Data Access', 'data-access.html'),
+            ('Community Products', 'community.html'),
             ('Documentation', 'documentation.html'),
-            )
+        )
          ),
+        ('Observations', (
+            ('Technical Details', 'observing-technical.html'),
+            ('Sector Dates', 'sector.html'),
+            )
+        ),
+        ('Tools', (
+            ('TESS Software Tools', 'software.html'),
+          )
+        ),
+        ('Proposing', (
+            ('Guest Investigator Program', 'proposing-investigations.html'),
+            ('Proposal tools', 'proposal-tools.html'),
+            ('Approved GI Programs', 'approved-programs.html'),
+          )
+        ),
         ('Education & Outreach', (
             ('Resources', 'gallery.html'),
             ('Media support', 'media.html'),
             )
-         ),            
+         ),
+        ('News', 'archives.html'),
         ('FAQ', 'faq.html'),
         ('HEASARC', 'https://heasarc.gsfc.nasa.gov')
         )
