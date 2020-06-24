@@ -3,7 +3,6 @@ Save_as: software.html
 
 [TOC]
 
-<!-- ## Overview -->
 ## Observation planning
 
 
@@ -24,7 +23,7 @@ See our [proposal tools page](proposal-tools.html) for additional resources that
 
 ## TESS data analysis
 
-### [lightkurve](http://lightkurve.keplerscience.org)
+### [lightkurve](https://docs.lightkurve.org)
 Lightkurve is a Python-based package developed by the Kepler/K2 Guest
 Observer (GO) Office for use by the community to work with Kepler and K2 data. The TESS GI Office has partnered with the Kepler/K2 GO Office to develop lightkurve for use with TESS data. 
 
@@ -36,15 +35,6 @@ Lighkurve functionality:
 
 The lightkurve git repository is [here](https://github.com/KeplerGO/lightkurve).
 
-
-<!--
-1) Add a basic BLS interface and tutorials (cf. https://github.com/astropy/astropy/pull/7391 )
-2) Add basic seismology tools and tutorials (cf. https://github.com/KeplerGO/lightkurve/issues/114 )
-3) Add interactive data inspection widgets (cf. https://github.com/KeplerGO/lightkurve/pull/100 )
--->
-
-
-
 ### Tutorials
 
 Several tutorials exist to introduce the general user to TESS data
@@ -53,8 +43,6 @@ analysis.
 * [Data search tutorials from MAST can be found here](https://outerspace.stsci.edu/display/TESS/6.0+-+Data+Search+Tutorials).
 * [Python notebooks from MAST can be found here](https://github.com/spacetelescope/notebooks/tree/master/notebooks/MAST/TESS).
 * [Python notebooks from the Kepler/K2 GO Office can be found here](http://docs.lightkurve.org/).
-
-
 
 ## Community tools
 
