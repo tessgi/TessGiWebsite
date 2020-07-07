@@ -8,3 +8,13 @@ Type: SMALL
 
 Summary: TESS light curves show the entire orbital phase curve, including the transit, 2nd eclipse, and sinusoidal phase modulations. Those modulations are shaped by the star-planet gravitational interaction and by atmospheric processes in the planet s atmosphere. Our long term goal is a systematic study of all TESS phase curves of short period systems. Here we propose to expand our study to TESS Year 3. The combined Year 1 + Year 3 data will result in higher quality phase curves, and will allow looking for variations in the phase curve parameters (i.e. weather variability). Our project maximizes TESS s scientific potential by extracting all information encoded in the light curves, leading to characterization of a sample of massive planet atmospheres and studying star-planet tidal interaction.
 
+
+# Sector 027 targets observed (2 min: 8)
+231670397,319.9497,-58.1489,9.86,GI_03232;GI_03278;GI_03181;GI_03106
+238176110,357.8468,-70.1529,11.04,GI_03232;GI_03278;GI_03272;GI_03181;GI_03106
+267263253,7.3289,-76.304,9.22,GI_03232;GI_03278;GI_03181;GI_03106
+317057430,336.8809,-77.7185,7.26,GI_03232;GI_03106;GI_03251
+179317684,79.7683,-71.8955,10.87,GI_03232;GI_03278;GI_03181;GI_03106
+388104525,55.9337,-65.1938,11.6,GI_03232;GI_03278;GI_03181;GI_03106
+38846515,68.9599,-64.027,10.32,GI_03080;GI_03232;GI_03278;GI_03181;GI_03106
+271893367,112.9653,-73.606,10.9,GI_03080;GI_03232;GI_03278;GI_03181;GI_03106

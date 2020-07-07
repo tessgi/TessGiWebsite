@@ -1,0 +1,30 @@
+# TESS Program G03092
+
+Title: Hunting For Warm Giant Exoplanets In TESS' Extended Mission
+
+PI: Espinoza, Nestor - Space Telescope Science Institute
+
+Type: LARGE
+
+Summary: Transiting warm giant exoplanets (Rp>4RE, T<1000 K, P>10 days) are fundamental objects to study, as they are ideal laboratories for tests on planet formation and evolution. Their detection and characterization, however, is very challenging due to their longer periods (which makes them hard to detect from ground-based transit surveys), making TESS the ideal mission to detect &characterize them. In this proposal, we aim at detecting new warm giant exoplanets in TESS' extended mission, which we will couple with radial-velocity measurements to characterize the masses and architectures of these exciting systems. This will allow us to put strong constraints on the theories of giant planet formation, and provide to the community exciting new systems to characterize with HST and the upcoming JWST.
+
+
+# Sector 027 targets observed (2 min: 18)
+231630147,317.1594,-55.5652,11.94,GI_03092
+290403522,330.9581,-72.4409,10.29,GI_03188;GI_03092
+394287035,31.691,-81.2474,11.58,GI_03188;GI_03092
+358107516,51.2284,-73.9575,12.17,GI_03092
+52118080,17.2941,-70.0404,11.48,GI_03092
+179582003,80.4515,-69.9882,10.23,GI_03092
+272194883,117.1106,-76.2416,10.21,GI_03092
+167810285,104.8174,-65.4855,12.79,GI_03092
+176956893,100.8331,-66.9476,11.41,GI_03092
+278865869,100.8613,-55.8314,12.69,GI_03092
+279475245,105.0841,-59.0354,11.94,GI_03092
+300560295,112.9157,-68.1332,10.78,GI_03092
+348842168,98.8557,-57.2715,11.49,GI_03092
+349576261,112.01,-63.5178,11.53,GI_03092
+349972412,114.4673,-62.0783,12.55,GI_03092
+149059708,80.4038,-60.6153,12.94,GI_03092
+149601126,86.851,-60.5213,13.4,GI_03092
+382200986,81.8186,-54.9461,11.89,GI_03092

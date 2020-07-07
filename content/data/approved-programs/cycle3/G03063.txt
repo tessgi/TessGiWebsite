@@ -1,0 +1,17 @@
+# TESS Program G03063
+
+Title: Using TESS To Characterize Flares On Low-Mass Stars
+
+PI: Llama, Joe - Lowell Observatory
+
+Type: SMALL
+
+Summary: The atmospheres of planets evolve under the influence of their parent star. For planets orbiting within the habitable zone of low-mass stars, these effects can be magnified due to their proximity to the host star. We propose TESS two-minute light curves of the targets that will be observed by the NASA-funded Star-Planet Research CubeSat (SPARCS) to resolve the short-lived flares (typical lifetimes of a few hours), quantify the optical stellar rotational variability, and determine the flare-frequency distribution. There are 7 SPARCS target stars that will be observed by TESS in Cycle 2. The TESS and SPARCS data will provide multi-wavelength flare frequency distributions, rotational modulation, and total flare energies that will enable new scaling laws between the optical and UV.
+
+
+# Sector 027 targets observed (2 min: 5)
+441398770,310.4646,-32.4375,7.4,GI_03063;GI_03205;GI_03174;GI_03228;GI_03226;GI_03202
+441420236,311.2916,-31.343,6.75,GI_03263;GI_03273;GI_03141;GI_03063;GI_03205;GI_03272;GI_03227;GI_03228;GI_03226;GI_03202
+139754153,323.3912,-49.0137,6.68,GI_03063;GI_03272;GI_03227;GI_03228;GI_03226;GI_03106
+141025090,79.0006,-72.2322,9.62,GI_03063
+375058105,99.9581,-61.4778,8.46,GI_03063;GI_03227;GI_03272;GI_03202

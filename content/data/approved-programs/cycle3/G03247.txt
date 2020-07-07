@@ -1,0 +1,24 @@
+# TESS Program G03247
+
+Title: New Worlds Around Ancient Stars: Exploring The History Of Planet Formation With The Seamstress Survey
+
+PI: Rasmussen, Kaitlin - University Of Notre Dame
+
+Type: SMALL
+
+Summary: The Search for Exoplanets Around Metal-poor Stars with T(r)ESS (SEAMSTRESS) Survey seeks to answer the question: ``When and how did planet formation begin in the Universe?'' To achieve this, we have conducted a large-scale search for transits of metal-poor stars in TESS light curves and discovered 49 previously unknown planet candidates around host stars in the metallicity range $-$2.28 $<$ [Fe/H] $<$ $-$0.5, eight of which have lower [Fe/H] than any known transiting planet hosts.
+
+
+# Sector 027 targets observed (2 min: 12)
+327784219,312.5677,-74.0189,12.0,GI_03247
+372346776,315.9233,-66.5615,10.52,GI_03247
+401604346,313.6912,-72.8046,11.4,GI_03247
+355600246,325.1046,-54.0342,12.38,GI_03247
+278415929,117.2812,-80.894,10.84,GI_03247
+394721720,20.2783,-85.5907,11.8,GI_03247
+183301671,17.9954,-77.7388,12.02,GI_03247
+32000208,55.9206,-71.3675,11.2,GI_03247
+55386146,77.6257,-65.8339,11.75,GI_03247
+55527543,72.5843,-65.4674,12.38,GI_03247
+149990841,90.6625,-64.8194,11.57,GI_03278;GI_03247
+260130483,92.3054,-55.4038,10.64,GI_03278;GI_03247;GI_03068

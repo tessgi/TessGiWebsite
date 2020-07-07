@@ -1,0 +1,17 @@
+# TESS Program G03028
+
+Title: TESS Photometry Of Creme Eclipsing Binaries
+
+PI: Helminiak, Krzysztof - Copernicus Astronomical Center
+
+Type: SMALL
+
+Summary: We intend to obtain very high precision light curves of a sample of detached eclipsing and spectroscopic binaries, which we have been monitoring spectroscopically for the last few years within the Comprehensive Research with Echelles on the Most interesting Eclipsing binaries (CREME) project. The light curves will be combined with our precise radial velocity (RV) measurements in order to obtain accurate and precise, absolute stellar parameters. This is a continuation of a successful proposal from C1 and C2.
+
+
+# Sector 027 targets observed (2 min: 5)
+389613626,312.2797,-45.7035,8.25,GI_03028
+218922558,298.0921,-32.5611,7.66,GI_03028
+406347247,330.6703,-84.2651,11.03,GI_03028
+31529035,89.6509,-68.0808,11.14,GI_03028
+260269456,94.2528,-54.6341,11.34,GI_03028

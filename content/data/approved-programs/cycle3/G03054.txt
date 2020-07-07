@@ -1,0 +1,18 @@
+# TESS Program G03054
+
+Title: Asteroseimic Ages Of Stars In "Nyx"
+
+PI: Basu, Sarbani - Yale University
+
+Type: SMALL
+
+Summary: We propose to determine the ages of stars in Nyx, a recently discovered Galactic stream. There are two science questions that will be addressed in our study: (1) What are the ages of stars in the stream? (2) Is there a spread of ages among the stars? In answering these questions, we will be characterizing what may be the oldest subset of accreted stars near the Solar position.
+
+
+# Sector 027 targets observed (2 min: 6)
+30110707,73.5117,-66.4937,10.71,GI_03054
+55523592,72.1309,-62.4835,8.41,GI_03054
+141479174,86.9851,-76.4877,11.61,GI_03054
+142051349,97.6093,-75.8747,11.32,GI_03054
+262614905,116.693,-62.8054,11.16,GI_03054
+350764741,89.0144,-57.6446,11.95,GI_03054

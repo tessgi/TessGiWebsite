@@ -1,0 +1,15 @@
+# TESS Program G03201
+
+Title: Confirming Ultra-Hot Jupiters From TESS
+
+PI: Jackson, Brian - Boise State University
+
+Type: SMALL
+
+Summary: Ultra-hot Jupiters (UHJs) present opportunities and conundra. Their large masses and short periods facilitate follow-up, particularly of radial velocities. Observational evidence points to ongoing tidal decay of their orbits, demanding accurate ephemerides, and hot Jupiter phase curves evince highly dynamic meteorology. Unfortunately, among TESS candidates, these are among the most challenging to confirm since many false positive scenarios can mimic their signals, but focused light curve analyses and radial velocity measurements can surmount these difficulties. We propose to use Cycles-1 through -3 TESS data plus ground-based observations to confirm UHJ candidates. We will also search for out-of-transit photometric variations to reveal meteorology and masses.
+
+
+# Sector 027 targets observed (2 min: 3)
+143257766,293.3893,-45.8927,10.41,GI_03278;GI_03201;GI_03251
+369960846,173.8098,-88.0962,13.46,GI_03278;GI_03201
+270507305,98.8932,-79.7157,11.57,GI_03278;GI_03201

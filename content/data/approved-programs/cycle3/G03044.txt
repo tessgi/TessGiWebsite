@@ -1,0 +1,28 @@
+# TESS Program G03044
+
+Title: Searching For Quasi-Periodic Oscillations In Accreting White Dwarf Binaries
+
+PI: Scaringi, Simone - Texas Tech University
+
+Type: SMALL
+
+Summary: Pairs of quasi-periodic oscillations (QPOs) in X-ray binaries have been observed and studied for several years at X-ray wavelengths. These QPOs display tight coupling between their frequencies such that the ratio of the QPOs is constant throughout several observed systems. More recently claims of similar QPOs to those observed in X-ray binaries have been claimed in accreting white dwarf systems at optical wavelengths on timescales ranging from 20 seconds to a few hours. However those results have been based on very few QPO cycle counts and limited to ground-based photometry of a handful of systems. We propose TESS 20 second cadence observations of a sample of 74 accreting white dwarfs to search for and characterize QPOs in these systems in order to constrain their elusive physical origin.
+
+
+# Sector 027 targets observed (2 min: 16)
+79880315,296.9191,-42.0076,10.21,GI_03221;GI_03071;GI_03044
+374347766,302.032,-69.8165,15.47,GI_03221;GI_03071;GI_03044
+410442849,319.7081,-64.4204,14.62,GI_03221;GI_03044
+355544723,320.3606,-54.0763,13.65,GI_03255;GI_03221;GI_03071;GI_03044
+320173862,293.9288,-59.1397,12.98,GI_03071;GI_03044
+327915196,1.6403,-69.0094,14.89,GI_03071;GI_03044
+412064070,0.4798,-67.1287,14.33,GI_03071;GI_03044
+261376909,92.9334,-81.8229,13.28,GI_03071;GI_03044
+376985426,76.9747,-79.8562,14.44,GI_03221;GI_03071;GI_03044
+25133286,62.2984,-71.2948,13.58,GI_03284;GI_03240;GI_03124;GI_03071;GI_03044
+471013553,85.8925,-68.3728,15.8,GI_03071;GI_03044
+471013582,91.1287,-71.4231,16.1,GI_03044
+293271581,98.9003,-62.6401,12.47,GI_03221;GI_03071;GI_03044
+350297825,83.7107,-58.028,14.13,GI_03221;GI_03071;GI_03044
+350765919,89.3022,-59.5905,14.18,GI_03221;GI_03071;GI_03044
+382256692,82.3691,-58.9128,14.14,GI_03221;GI_03071;GI_03044
