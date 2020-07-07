@@ -8,3 +8,11 @@ Type: LARGE
 
 Summary: Eclipsing binaries (EBs) provide benchmark measurements of stellar masses and radii that are the foundation of theoretical stellar astrophysics. Large areas of parameter space remain poorly constrained by observations, however, particularly at low masses and young ages. From the few sources that have been studied in this regime, models have been unable to simultaneously describe their observed properties (M, R, T, L). A thorough test of theoretical models requires a sample of EBs that spans both mass and age. TESS will provide the first dataset capable of finding EBs on this scale. We therefore propose for targeted 2-m cadence observations of 174 EBs discovered by our team that reside in young clusters and moving groups. This analysis will provide a global test of early stellar evolution.
 
+
+# Sector 027 targets observed (2 min: 6)
+234284556,335.6661,-63.0577,11.89,GI_03265;GI_03226
+79403459,320.2496,-52.4784,7.93,GI_03265;GI_03130
+38820496,7.1966,-67.8627,13.3,GI_03265;GI_03226;GI_03052
+383390264,192.5885,-88.1211,8.76,GI_03141;GI_03265;GI_03278
+177309964,103.4526,-75.7038,13.1,GI_03265;GI_03264;GI_03202;GI_03052
+55497266,71.7076,-60.569,9.97,GI_03265;GI_03264;GI_03226

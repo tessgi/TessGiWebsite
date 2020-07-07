@@ -1,0 +1,24 @@
+# TESS Program G03223
+
+Title: Magnetic Ob[A] Stars With TESS: Probing Their Evolutionary And Rotational Properties - The Mobster Project
+
+PI: David-Uraz, Alexandre - University Of Delaware
+
+Type: SMALL
+
+Summary: We propose a photometric survey of magnetic OBA stars using TESS to detect and characterize three types of variability of these objects: rotational modulation, stochastic variations and pulsations. This will lead to precise rotational period determinations and will help probe magnetospheric structure and surface spots. Detecting pulsations will provide a means to link surface magnetism to the internal structure and better understand surface spindown due to magnetic braking, yielding critical information for stellar evolution models. Given its high precision, rapid cadence and long temporal baseline, TESS provides us with a unique opportunity to detect all three forms of variability, which will prove critical in testing and improving our knowledge of these stars.
+
+
+# Sector 027 targets observed (2 min: 12)
+237336864,347.3663,-63.6536,9.24,GI_03255;GI_03223;GI_03252
+277688819,329.2365,-61.8464,7.06,GI_03223;GI_03252
+262956098,9.8142,-83.033,8.14,GI_03223
+348717688,45.1534,-81.9021,9.12,GI_03223;GI_03252
+280051011,43.5749,-73.4528,8.01,GI_03223
+32035258,56.3493,-71.6579,6.37,GI_03223
+279511712,105.8128,-59.178,5.8,GI_03059;GI_03223
+279573219,106.0764,-56.7497,5.2,GI_03223
+358467049,119.1927,-60.8161,8.74,GI_03059;GI_03223
+358467700,119.0944,-61.2839,9.3,GI_03223
+372913684,119.5121,-60.6147,7.64,GI_03059;GI_03223
+410451752,119.8644,-60.7964,9.57,GI_03223

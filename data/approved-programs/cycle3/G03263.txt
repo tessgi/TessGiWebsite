@@ -8,3 +8,6 @@ Type: LARGE
 
 Summary: We propose to use the NASA Infrared Telescope Facility (IRTF) iSHELL spectrometer to confirm and with the radial velocity (RV) method measure the masses of planets discovered by NASA TESS mission orbiting bright K and M dwarf host stars. We also propose to make (mostly) 2 min cadence observations of confirmed and candidate planets identified in Cycle 1 that we are observing with iSHELL in order to confirm the candidates and to constrain bulk densities to inform the exoplanet mass-radius relation. For AU Mic and its planetary system, we propose a 20 second shared risk cadence to better time-resolve the frequent flares present.
 
+
+# Sector 027 targets observed (2 min: 1)
+441420236,311.2916,-31.343,6.75,GI_03263;GI_03273;GI_03141;GI_03063;GI_03205;GI_03272;GI_03227;GI_03228;GI_03226;GI_03202

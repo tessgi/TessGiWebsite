@@ -8,3 +8,6 @@ Type: SMALL
 
 Summary: We propose to observe pulsating subdwarf B (sdB) stars to determine orbital solutions for possible wide binary and/or substellar companions using the light-time delay in pulsation times, which is called the pulsation timing method. TESS is an ideal instrument to measure pulsation timings of pulsating sdB stars. Plausible sdB formation channels are common-envelope (CE) ejection, stable Roche-lobe overflow (RLOF), and binary white-dwarf merger. Among these, the CE channel results in short period binary systems (P < 10 days) and the RLOF channel results in long period binary systems (P > 500 days). About 150 short-period sdB systems were studied so far. However, not many long-period sdB systems were studied and more samples are needed to constrain the RLOF channel.
 
+
+# Sector 027 targets observed (2 min: 1)
+139723188,322.8862,-49.9525,15.45,GI_03234;GI_03221

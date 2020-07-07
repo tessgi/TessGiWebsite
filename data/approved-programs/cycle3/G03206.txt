@@ -1,0 +1,17 @@
+# TESS Program G03206
+
+Title: Short-Term Variability Of Southern Symbiotic Stars
+
+PI: Merc, Jaroslav - Charles University In Prague
+
+Type: SMALL
+
+Summary: We propose the observations of 41 southern symbiotic stars selected from the New Online Database of Symbiotic Variables with a 2-minute cadence mode of TESS during the Cycle 3. Such data provide the unique opportunity to reveal and study the low-amplitude short-term variability of symbiotic stars on the time scales of minutes at unprecedented levels and could be a valuable input to the models the inner regions of symbiotic systems and disks studying physical conditions in them.
+
+
+# Sector 027 targets observed (2 min: 5)
+126658353,315.0264,-42.6458,9.93,GI_03206
+1922202431,292.7607,-73.619,10.99,GI_03206
+466125998,295.6058,-68.1265,8.7,GI_03206
+421990485,301.0773,-55.7259,10.88,GI_03071;GI_03206
+346727757,299.9514,-82.8771,10.1,GI_03206
