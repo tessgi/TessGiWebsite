@@ -182,7 +182,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>South</td>
     <td>2020&nbsp;Jul&nbsp;04</td>
     <td>2020&nbsp;Jul&nbsp;30</td>
-    <td></td>
+    <td><a href='data/target_lists/sector027_targets_lists/GI_S027.csv'>Download</a></td>
     <td style="min-width: 12em;">
       First TESS extended mission field, Cycle 3 begins
     </td>
@@ -512,6 +512,36 @@ The data from each sector are required to be available at the MAST no later than
 Illustrations showing all targets (in red) observed at 2-minute
 cadence for each camera and sector.
 
+<div class="row">
+    <div class="col-md-6 text-center">
+      <a href="images/sector-plots/sector-plots.025.jpeg">
+        <img id="s025" src="images/sector-plots/sector-plots.025.jpeg" class="img-responsive">
+        Sector 25
+      </a>
+    </div>
+    <div class="col-md-6 text-center">
+      <a href="images/sector-plots/sector-plots.026.jpeg">
+        <img id="s026" src="images/sector-plots/sector-plots.026.jpeg" class="img-responsive">
+        Sector 26
+      </a>
+    </div>
+</div>
+<br>
+<div class="row">
+    <div class="col-md-6 text-center">
+      <a href="images/sector-plots/sector-plots.023.jpeg">
+        <img id="s023" src="images/sector-plots/sector-plots.023.jpeg" class="img-responsive">
+        Sector 23
+      </a>
+    </div>
+    <div class="col-md-6 text-center">
+      <a href="images/sector-plots/sector-plots.024.jpeg">
+        <img id="s024" src="images/sector-plots/sector-plots.024.jpeg" class="img-responsive">
+        Sector 24
+      </a>
+    </div>
+</div>
+<br>
 <div class="row">
     <div class="col-md-6 text-center">
       <a href="images/sector-plots/sector-plots.021.jpeg">
