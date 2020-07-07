@@ -1,0 +1,13 @@
+# TESS Program G03229
+
+Title: Photometric Follow-Up Of The Southern Post-Common Envelope Binaries
+
+PI: Merc, Jaroslav - Charles University In Prague
+
+Type: SMALL
+
+Summary: Eclipsing post-common envelope binaries (HW Vir systems) are highly important for resolving the poorly understood, very short-lived common envelope phase of stellar evolution. We apply for the time-resolved photometry of 18 known or newly discovered southern HW Vir systems in order to obtain light curves covering their complete orbit. A combination of the length of observations and 2-minute cadence mode of the TESS will allow to well sample the eclipses in these systems with a short duration. Obtained data will allow us to obtain the orbital parameters with the precision not achievable by the ground-based observations and will be used in the modeling of the unique reflection effect observed in these systems.
+
+
+# Sector 027 targets observed (2 min: 1)
+425064757,82.918,-69.8836,11.36,GI_03221;GI_03229

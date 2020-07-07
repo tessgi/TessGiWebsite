@@ -1,0 +1,15 @@
+# TESS Program G03280
+
+Title: Searching For Inhomogeneous Cloud Cover On Hot Jupiters
+
+PI: Kaye, Laurel - University Of Oxford
+
+Type: SMALL
+
+Summary: Clouds are highly ubiquitous in planetary systems, and their abundance and configuration greatly impacts our ability to constrain their atmospheres. Large east/west temperature gradients in planets with equilibrium temperatures of around 1500K are predicted to lead to the accumulation of asymmetric equatorial clouds, and observations of asymmetric optical phase curves in a handful of planets lend initial evidence in support of this east/west discrepancy. Another, more recently proposed method for detecting these clouds suggests that residuals will appear in the primary transits themselves when fit to light curves that fail to take into account cloud inhomogenieties. We propose to use TESS's 20 second cadence to search for these effects in several hot Jupiters with large atmospheric scale h
+
+
+# Sector 027 targets observed (2 min: 3)
+92352620,313.7833,-34.1358,9.64,GI_03278;GI_03280;GI_03181;GI_03106
+25155310,63.375,-69.2265,10.61,GI_03080;GI_03278;GI_03280;GI_03106
+149603524,87.1398,-63.9883,9.71,GI_03080;GI_03278;GI_03280;GI_03181;GI_03106

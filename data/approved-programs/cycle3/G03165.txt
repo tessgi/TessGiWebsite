@@ -1,0 +1,13 @@
+# TESS Program G03165
+
+Title: Measuring True Spin-Orbit Angles Of Planets Transiting High-Mass Stars With TESS
+
+PI: Ahlers, Johnathon - NASA/GSFC & Usra
+
+Type: SMALL
+
+Summary: We propose to probe the formation history and orbital evolution of seven giant planets orbiting high-mass stars using TESS photometry. Specifically, we will constrain the planets' current-day orbit geometries by measuring the planets' orbital tilts relative to their host stars' rotation planes (i.e., their true spin-orbit angles). Our findings will contribute toward understanding the mechanisms responsible for causing spin-orbit misalignment. This project will be carried out over six months, measuring the true spin-orbit angles of seven planets in the southern sky that will be observed (or re-observed) during Cycle 3.
+
+
+# Sector 027 targets observed (2 min: 1)
+389352124,311.0428,-39.2256,9.05,GI_03278;GI_03165;GI_03181;GI_03106
