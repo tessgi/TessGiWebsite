@@ -514,6 +514,22 @@ cadence for each camera and sector.
 
 <div class="row">
     <div class="col-md-6 text-center">
+      <a href="images/sector-plots/sector-plots.027.jpeg">
+        <img id="s027" src="images/sector-plots/sector-plots.027.jpeg" class="img-responsive">
+        Sector 27
+      </a>
+    </div>
+    <div class="col-md-6 text-center">
+      <a href="images/sector-plots/sector-plots.026.jpeg">
+<!--         <img id="s026" src="images/sector-plots/sector-plots.026.jpeg" class="img-responsive">
+        Sector 26 -->
+      </a>
+    </div>
+</div>
+<br>
+
+<div class="row">
+    <div class="col-md-6 text-center">
       <a href="images/sector-plots/sector-plots.025.jpeg">
         <img id="s025" src="images/sector-plots/sector-plots.025.jpeg" class="img-responsive">
         Sector 25
