@@ -73,11 +73,11 @@ Additional resources can be found below:
 
   <tr>
     <td style="width: 35em;"><a
-    href='data/tess-response-function-v1.0.csv'>TESS bandpass response function</a></td>
+    href='data/tess-response-function-v2.0.csv'>TESS bandpass response function</a></td>
     <td> </td>
   </tr>
 
-  <tr>
+<!--   <tr>
     <td style="width: 35em;"><a
     href='data/core-science-targets-v2.csv'>Top 100,000 priority
     targets in the southern ecliptic hemisphere</a></td>
@@ -89,7 +89,7 @@ Additional resources can be found below:
     href='data/core-science-targets-cycle2-v1.csv'>Top 100,000 priority
     targets in the northern ecliptic hemisphere</a></td>
     <td> </td>
-  </tr>
+  </tr> -->
 
 </table>
 
