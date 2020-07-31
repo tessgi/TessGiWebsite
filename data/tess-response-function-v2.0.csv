@@ -1,9 +1,8 @@
 # TESS Instrument Response Function
-# Source: Roland Verderspek, POC
-# Author: Tom Barclay (NASA GSFC)
-# version: 2.0
-# date: 2020/07/30
-# feedback: tesshelp@bigbang.gsfc.nasa.gov
+# Source: Roland Verderspek, POC, Kavli/MIT
+# Version: 2.0
+# Date: 2020/07/30
+# Feedback: tesshelp@bigbang.gsfc.nasa.gov
  
 # Wavelength (nm), lambda Transmission
 300,0
