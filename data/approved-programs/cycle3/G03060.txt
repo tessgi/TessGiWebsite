@@ -10,5 +10,5 @@ Summary: Metallic-line A (Am) stars show abundance anomalies produced by diffusi
 
 
 # Sector 027 targets observed (2 min: 2)
-1992751647,309.1312,-26.5414,9.55,GI_03255;GI_03060
-1992945158,311.8337,-26.4152,7.25,GI_03255;GI_03060
+1992751647,309.1312,-26.5414,9.55,G03255;G03060
+1992945158,311.8337,-26.4152,7.25,G03255;G03060
