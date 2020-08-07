@@ -10,4 +10,4 @@ Summary: Eclipsing post-common envelope binaries (HW Vir systems) are highly imp
 
 
 # Sector 027 targets observed (2 min: 1)
-425064757,82.918,-69.8836,11.36,GI_03221;GI_03229
+425064757,82.918,-69.8836,11.36,G03221;G03229

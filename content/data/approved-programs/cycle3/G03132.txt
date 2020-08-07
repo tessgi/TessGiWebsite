@@ -10,4 +10,4 @@ Summary: TIC 350146296 was discovered to be a member of the rare class of rapidl
 
 
 # Sector 027 targets observed (2 min: 1)
-350146296,115.7396,-63.7019,9.17,GI_03132;GI_03255;GI_03252
+350146296,115.7396,-63.7019,9.17,G03132;G03255;G03252
