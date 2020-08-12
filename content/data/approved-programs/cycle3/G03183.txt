@@ -10,4 +10,4 @@ Summary: Recently, a system of three small planets were discovered orbiting the 
 
 
 # Sector 027 targets observed (2 min: 1)
-150428135,97.0954,-65.5784,10.91,GI_03183;GI_03264;GI_03278;GI_03068
+150428135,97.0954,-65.5784,10.91,G03183;G03264;G03278;G03068
