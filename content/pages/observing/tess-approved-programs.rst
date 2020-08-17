@@ -26,6 +26,24 @@ Cycle 3
 
 .. include:: approved-programs/cycle3.html
 
+Sector 28
+=========
+.. raw:: html
+
+    <ul class="list-group">
+        <li class="list-group-item">
+          <i class="fa fa-calendar fa-margin"></i>
+          July 30, 2020 - Aug 26, 2020
+        </li>
+        <li class="list-group-item">
+            <i class="fa fa-download fa-margin"></i>
+            <a href="data/target_lists/sector028_targets_lists/GI_S028.csv">2 min target list (csv)</a>
+            <a href="data/target_lists/sector028_targets_lists/GI_20s_S028.csv">20 s target list (csv)</a>
+        </li>
+    </ul>
+
+.. include:: approved-programs/sector028.html
+
 Sector 27
 =========
 .. raw:: html
@@ -37,7 +55,8 @@ Sector 27
         </li>
         <li class="list-group-item">
             <i class="fa fa-download fa-margin"></i>
-            <a href="data/target_lists/sector027_targets_lists/GI_S027.csv">Target list (csv)</a>
+            <a href="data/target_lists/sector027_targets_lists/GI_S027.csv">2 min target list (csv)</a>
+            <a href="data/target_lists/sector027_targets_lists/GI_20s_S027.csv">20 s target list (csv)</a>
         </li>
     </ul>
 
