@@ -1,0 +1,13 @@
+# TESS Program G03185
+
+Title: Ngts M-Dwarfs Of Interest
+
+PI: Bayliss, Daniel - University Of Warwick
+
+Type: SMALL
+
+Summary: We propose to use TESS 2-min cadence data to investigate M-dwarfs of interest from the Next Generation Transit Survey (NGTS) that show short duration transits/eclipses. These include confirmed planets transiting M-dwarfs, m-dwarf/white dwarf systems, and MM eclipsing binaries. All targets show short timescale events that necessitate 2-minute cadence rather than the 10-minute cadence from the FFIs.
+
+
+# Sector 028 targets observed (2 min: 1, 20 s: 0.0)
+197570458,325.9944,-38.0177,13.08,G03185;G03052

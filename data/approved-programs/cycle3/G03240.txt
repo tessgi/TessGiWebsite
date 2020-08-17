@@ -9,6 +9,10 @@ Type: SMALL
 Summary: Cataclysmic variables provide the cleanest available natural laboratories to investigate the physics of accretion. The timing capabilities and sensitivity of TESS are well matched to the timescales and amplitudes of accretion variability in these sources. The combination provides an opportunity to test and refine the paradigms of stellar accretion with high-precision, uniform data containing no diurnal gaps. We propose a continuation of our multifaceted observational and modeling program that has the potential to measure the spatial structure of model dependent disk parameters. Like the Kepler/K2 mission, the analysis of TESS observations of CVs will significantly impact our understanding of accretion dynamics and the nature of astrophysical viscosity.
 
 
-# Sector 027 targets observed (2 min: 2)
+# Sector 027 targets observed (2 min: 2, 20 s: 1.0)
 650005800,58.8251,-82.4363,18.56,G03240
-25133286,62.2984,-71.2948,13.58,G03284;G03240;G03124;G03071;G03044
+25133286,62.2984,-71.2948,13.58,G03284;G03240;G03124;G03071;G03044;20SECONDTARGET
+
+# Sector 028 targets observed (2 min: 2, 20 s: 0.0)
+650005800,58.8251,-82.4363,18.56,G03240
+369705840,32.4622,-63.311,14.28,G03240;G03071;G03044

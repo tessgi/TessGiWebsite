@@ -9,5 +9,8 @@ Type: SMALL
 Summary: TIC 350146296 was discovered to be a member of the rare class of rapidly oscillating Ap stars through TESS observations. To date, it exhibits the highest pulsation frequencies of any of the roAp stars. These are above the theoretical limit expected in roAp stars, making this star a key for constraining non-adiabatic pulsation models of Ap stars. However, amplitudes in the current TESS data are suppressed by as much as 27%, caused by apodization, thus hampering the detection of further, low-amplitude modes that are required for a full asteroseismic model. We propose to observe TIC 350146296 in the newly available 20-sec cadence mode for the duration of cycle 3 as this star is in the CVZ. This is a prime example of how the shortest cadence observations will maximise TESS science results.
 
 
-# Sector 027 targets observed (2 min: 1)
-350146296,115.7396,-63.7019,9.17,G03132;G03255;G03252
+# Sector 027 targets observed (2 min: 1, 20 s: 1.0)
+350146296,115.7396,-63.7019,9.17,G03132;G03255;G03252;20SECONDTARGET
+
+# Sector 028 targets observed (2 min: 1, 20 s: 1.0)
+350146296,115.7396,-63.7019,9.17,G03132;G03255;G03252;20SECONDTARGET

@@ -9,8 +9,8 @@ Type: SMALL
 Summary: Pairs of quasi-periodic oscillations (QPOs) in X-ray binaries have been observed and studied for several years at X-ray wavelengths. These QPOs display tight coupling between their frequencies such that the ratio of the QPOs is constant throughout several observed systems. More recently claims of similar QPOs to those observed in X-ray binaries have been claimed in accreting white dwarf systems at optical wavelengths on timescales ranging from 20 seconds to a few hours. However those results have been based on very few QPO cycle counts and limited to ground-based photometry of a handful of systems. We propose TESS 20 second cadence observations of a sample of 74 accreting white dwarfs to search for and characterize QPOs in these systems in order to constrain their elusive physical origin.
 
 
-# Sector 027 targets observed (2 min: 16)
-79880315,296.9191,-42.0076,10.21,G03221;G03071;G03044
+# Sector 027 targets observed (2 min: 16, 20 s: 2.0)
+79880315,296.9191,-42.0076,10.21,G03221;G03071;G03044;20SECONDTARGET
 374347766,302.032,-69.8165,15.47,G03221;G03071;G03044
 410442849,319.7081,-64.4204,14.62,G03221;G03044
 355544723,320.3606,-54.0763,13.65,G03255;G03221;G03071;G03044
@@ -19,10 +19,24 @@ Summary: Pairs of quasi-periodic oscillations (QPOs) in X-ray binaries have been
 412064070,0.4798,-67.1287,14.33,G03071;G03044
 261376909,92.9334,-81.8229,13.28,G03071;G03044
 376985426,76.9747,-79.8562,14.44,G03221;G03071;G03044
-25133286,62.2984,-71.2948,13.58,G03284;G03240;G03124;G03071;G03044
+25133286,62.2984,-71.2948,13.58,G03284;G03240;G03124;G03071;G03044;20SECONDTARGET
 471013553,85.8925,-68.3728,15.8,G03071;G03044
 471013582,91.1287,-71.4231,16.1,G03044
 293271581,98.9003,-62.6401,12.47,G03221;G03071;G03044
+350297825,83.7107,-58.028,14.13,G03221;G03071;G03044
+350765919,89.3022,-59.5905,14.18,G03221;G03071;G03044
+382256692,82.3691,-58.9128,14.14,G03221;G03071;G03044
+
+# Sector 028 targets observed (2 min: 12, 20 s: 0.0)
+206670480,343.7675,-34.8216,16.29,G03071;G03044
+155918174,5.3885,-51.7097,14.56,G03071;G03044
+121422158,341.8002,-42.7441,12.51,G03221;G03071;G03044
+327915196,1.6403,-69.0094,14.89,G03071;G03044
+412064070,0.4798,-67.1287,14.33,G03071;G03044
+369705840,32.4622,-63.311,14.28,G03240;G03071;G03044
+376985426,76.9747,-79.8562,14.44,G03221;G03071;G03044
+471013553,85.8925,-68.3728,15.8,G03071;G03044
+471013582,91.1287,-71.4231,16.1,G03044
 350297825,83.7107,-58.028,14.13,G03221;G03071;G03044
 350765919,89.3022,-59.5905,14.18,G03221;G03071;G03044
 382256692,82.3691,-58.9128,14.14,G03221;G03071;G03044

@@ -9,7 +9,10 @@ Type: SMALL
 Summary: In order to piece together how the planetary evolution process occurs, we need to make detailed studies of the few young planets that are accessible to in-depth follow- up. We propose to make 2 min cadence observations of confirmed and candidate young planets identified in Cycle 1 in order to improve our knowledge of secure detections and confirm the most promising candidate signals.
 
 
-# Sector 027 targets observed (2 min: 3)
-441420236,311.2916,-31.343,6.75,G03263;G03273;G03141;G03063;G03205;G03272;G03227;G03228;G03226;G03202
-410214986,354.9158,-69.1961,7.85,G03141;G03278;G03130;G03227;G03181;G03106;G03251;G03102
-383390264,192.5885,-88.1211,8.76,G03141;G03265;G03278
+# Sector 027 targets observed (2 min: 3, 20 s: 3.0)
+441420236,311.2916,-31.343,6.75,G03263;G03273;G03141;G03063;G03205;G03272;G03227;G03228;G03226;G03202;20SECONDTARGET
+410214986,354.9158,-69.1961,7.85,G03141;G03278;G03130;G03227;G03181;G03106;G03251;G03102;20SECONDTARGET
+383390264,192.5885,-88.1211,8.76,G03141;G03265;G03278;20SECONDTARGET
+
+# Sector 028 targets observed (2 min: 1, 20 s: 1.0)
+410214986,354.9158,-69.1961,7.85,G03141;G03278;G03130;G03227;G03181;G03106;G03251;G03102;20SECONDTARGET
