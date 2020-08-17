@@ -9,7 +9,7 @@ Type: SMALL
 Summary: The first generation of stars and planets must be deprived of metals. Such a metal-poor environment poses challenges for planet formation, especially at short orbital distances where formation through core accretion dominates. Halo stars can serve as a test ground for planet formation at low metallicity. By searching for planets around halo stars, we will address questions regarding planet formation in extremely metal-poor environments ([Fe/H]$<$-1): when and under what circumstances do the first planets form, and what are their chemical composition and internal structure? We propose a program that involves both searching for planets using TESS data and interpreting the results with modeling and follow-up observations.
 
 
-# Sector 027 targets observed (2 min: 1035, 20 s: 0.0)
+# Sector 027 targets observed (2 min: 1035, 20 s: 0)
 101174495,299.0183,-51.0589,14.96,G03120
 101177153,299.2243,-48.8739,14.0,G03120
 101311946,300.0952,-49.2963,13.56,G03120
@@ -1046,7 +1046,7 @@ Summary: The first generation of stars and planets must be deprived of metals. S
 382157951,80.8381,-55.7412,14.12,G03120
 382189128,81.3367,-55.5813,14.98,G03120
 
-# Sector 028 targets observed (2 min: 505, 20 s: 0.0)
+# Sector 028 targets observed (2 min: 505, 20 s: 0)
 159877072,331.6749,-37.7732,13.43,G03120
 197642672,328.3871,-41.1974,14.74,G03120
 197647317,328.9242,-39.4912,14.71,G03120

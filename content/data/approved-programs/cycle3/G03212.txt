@@ -9,7 +9,7 @@ Type: LARGE
 Summary: The KESPRINT planet team proposes to use TESS 2-minute cadence data to search for planets in a sample of 6101 stars with significantly sub-solar metallicity. The goal is to determine the planet-formation history of the various stellar populations of our Milky Way Galaxy. These stars are all selected from large spectroscopic surveys, and thus the sample is extremely well characterized and well understood. We will attempt to conduct an asteroseismic analysis on the brightest of the target stars, in order to refine the stellar parameters. We will search these lightcurves for transiting planets, and will perform follow-up observations and detailed system modeling on promising candidate planets in order to validate and/or confirm the candidates as planets.
 
 
-# Sector 027 targets observed (2 min: 1180, 20 s: 1.0)
+# Sector 027 targets observed (2 min: 1180, 20 s: 1)
 101277216,299.9569,-49.5714,9.49,G03251;G03212
 101358943,300.3967,-51.1121,10.64,G03212
 101398453,300.4096,-48.0955,11.43,G03212
@@ -1191,7 +1191,7 @@ Summary: The KESPRINT planet team proposes to use TESS 2-minute cadence data to 
 55557427,72.7269,-60.2799,11.43,G03212
 55780619,75.26,-60.2444,11.51,G03212
 
-# Sector 028 targets observed (2 min: 1204, 20 s: 1.0)
+# Sector 028 targets observed (2 min: 1204, 20 s: 1)
 115041083,315.8516,-35.9677,11.14,G03212
 129638968,321.2148,-36.4684,11.98,G03212
 139066135,319.0368,-43.1829,12.1,G03212

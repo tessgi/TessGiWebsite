@@ -9,7 +9,7 @@ Type: SMALL
 Summary: Here we propose both 20s and 2min cadence TESS observations of known binary and pulsating hot subdwarf stars visible in Cycle 3. We have also identified a large number of candidate variable hot subdwarfs from their anomalously high Gaia flux errors and request 2min cadence data to confirm their variability. Collectively, these light curves will help (i) permit detailed asteroseismological analyses for an unprecedented number of pulsating hot subdwarfs; (ii) greatly increase the number of known and solved binaries; (iii) determine the influence substellar objects have on stellar evolution; (iv) constrain the presence of planetary companions through precise timings; and (v) generally improve our capacity to draw a statistically meaningful picture of this enigmatic stage of stellar evolution.
 
 
-# Sector 027 targets observed (2 min: 471, 20 s: 120.0)
+# Sector 027 targets observed (2 min: 471, 20 s: 120)
 101430261,300.8985,-49.3855,16.24,G03221
 101454745,301.3887,-47.9304,14.11,G03221
 101512805,301.4825,-48.2696,13.66,G03221;20SECONDTARGET
@@ -482,7 +482,7 @@ Summary: Here we propose both 20s and 2min cadence TESS observations of known bi
 471015229,73.5687,-60.7544,16.33,G03221
 471015269,80.0625,-53.4583,16.53,G03221
 
-# Sector 028 targets observed (2 min: 313, 20 s: 86.0)
+# Sector 028 targets observed (2 min: 313, 20 s: 86)
 115149033,316.8972,-38.1119,15.03,G03221
 129683429,321.9015,-41.7557,16.28,G03207;G03221;G03124
 144193687,327.6783,-43.6746,13.79,G03221

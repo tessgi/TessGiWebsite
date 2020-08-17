@@ -9,7 +9,7 @@ Type: LARGE
 Summary: Asteroseismology is one of the most powerful methods to determine fundamental properties of solar-type stars. However, the currently known sample of stars with asteroseismic detections is small, and many of them are too faint to have the independent constraints necessary to constrain poorly understood stellar interior physics such as convection. Here we propose 2-minute and 20-second cadence observations for the TESS Asteroseismic Science Consortium (TASC) that will double the Cycle 1 asteroseismic yield of solar-type stars, allowing us to (i) establish the first catalog of asteroseismic benchmark stars in the southern ecliptic hemisphere, (ii) probe the physics of stellar convection in solar-type stars and (iii) investigate the efficiency of convective mode excitation for hot stars.
 
 
-# Sector 027 targets observed (2 min: 4573, 20 s: 42.0)
+# Sector 027 targets observed (2 min: 4573, 20 s: 42)
 101175205,299.0426,-49.9525,8.23,G03251
 101177418,299.1061,-49.2539,11.38,G03251
 101177686,299.1956,-49.6219,8.04,G03251
@@ -4584,7 +4584,7 @@ Summary: Asteroseismology is one of the most powerful methods to determine funda
 55850410,76.0175,-61.517,10.74,G03251
 55850719,76.0966,-62.266,8.94,G03251
 
-# Sector 028 targets observed (2 min: 3893, 20 s: 42.0)
+# Sector 028 targets observed (2 min: 3893, 20 s: 42)
 115105263,316.3971,-36.4656,8.0,G03251
 115114305,316.7946,-38.0688,10.46,G03251
 115148795,316.8808,-38.6915,7.1,G03251

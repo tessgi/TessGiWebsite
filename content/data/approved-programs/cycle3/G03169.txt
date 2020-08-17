@@ -9,7 +9,7 @@ Type: SMALL
 Summary: RR Lyrae and Cepheid stars play an important role in astrophysics as standard candles, and population tracers. Photometric space missions revealed several new phenomena in them, but were limited by sample size. We propose to observe 211 bright RR Lyrae and Cepheid variables in the southern sky with TESS, to exploit the benefits of the 2-minute sampling. We will investigate the short, shockwave-induced bumps and humps in the light curves, and the structure of the low-amplitude, high-order harmonic peaks in the frequency spectra. We will quantify the amount of period jitter and other cycle-to-cycle instabilities. This way we will test features that are important constraints for the non-linear stellar pulsation models, and may not be fully reproduced in them yet.
 
 
-# Sector 027 targets observed (2 min: 26, 20 s: 0.0)
+# Sector 027 targets observed (2 min: 26, 20 s: 0)
 129081118,302.0672,-45.5203,10.21,G03169
 166463208,298.8412,-48.448,11.87,G03169
 299891213,296.4499,-40.9386,11.84,G03169
@@ -37,7 +37,7 @@ Summary: RR Lyrae and Cepheid stars play an important role in astrophysics as st
 150166721,93.5047,-61.473,9.07,G03169
 374910314,88.7859,-62.9742,10.67,G03169
 
-# Sector 028 targets observed (2 min: 26, 20 s: 0.0)
+# Sector 028 targets observed (2 min: 26, 20 s: 0)
 129710422,322.0262,-37.1599,12.61,G03169
 197693113,329.8786,-36.3917,12.68,G03169
 204528074,327.3325,-34.2054,12.06,G03169

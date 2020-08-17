@@ -9,7 +9,7 @@ Type: SMALL
 Summary: The formation of hot Jupiters can be constrained by the existence of closely-orbiting small companions to hot Jupiters. We have already conducted a small-scale search for these companions in the available Cycle 1 TESS 2-minute cadence data, finding 10 possible new planets, but not every known hot Jupiter system was observed at this cadence. We propose to observe the remaining Southern Ecliptic Hemisphere hot Jupiter systems with TESS's 2-minute cadence in a search for small nearby companions that could help constrain the formation mechanism of hot Jupiter systems. This would generate the first complete and uniform survey of hot Jupiter systems down to the precision of TESS, allowing for more detailed population analysis of this mysterious class of planets.
 
 
-# Sector 027 targets observed (2 min: 18, 20 s: 17.0)
+# Sector 027 targets observed (2 min: 18, 20 s: 17)
 100566492,309.5112,-48.4621,11.12,G03278;G03181;G03106;20SECONDTARGET
 369455629,311.6734,-41.821,11.45,G03278;G03181;G03106;20SECONDTARGET
 389352124,311.0428,-39.2256,9.05,G03278;G03165;G03181;G03106;20SECONDTARGET
@@ -29,7 +29,7 @@ Summary: The formation of hot Jupiters can be constrained by the existence of cl
 271893367,112.9653,-73.606,10.9,G03080;G03232;G03278;G03181;G03106;20SECONDTARGET
 149603524,87.1398,-63.9883,9.71,G03080;G03278;G03280;G03181;G03106;20SECONDTARGET
 
-# Sector 028 targets observed (2 min: 21, 20 s: 21.0)
+# Sector 028 targets observed (2 min: 21, 20 s: 21)
 207077681,320.7629,-40.0485,12.31,G03278;G03181;G03106;20SECONDTARGET
 289793076,316.9615,-26.0967,13.16,G03278;G03106;G03181;20SECONDTARGET
 290131778,319.6996,-26.6165,7.88,G03232;G03278;G03181;20SECONDTARGET

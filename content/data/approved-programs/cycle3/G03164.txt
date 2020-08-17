@@ -9,5 +9,5 @@ Type: SMALL
 Summary: We request support to analyze and model FFI and short cadence data for all exceptionally dusty main sequence stars observable by TESS in Cycle 3. Large amounts of dust seen in the inner planetary systems around these stars is indicative of transient collisional events between massive, rocky bodies. We believe TESS-detected stochastic variability and eclipses in the optical lightcurves of two systems are caused by dust orbiting the star ejected by a large-scale collisional event. Identification of more such systems and analyzing their lightcurves would enable robust mapping of the distribution and evolution of ejecta from large-scale collisional events thus providing critical input to models and theories describing rocky planet formation and evolution processes.
 
 
-# Sector 028 targets observed (2 min: 1, 20 s: 0.0)
+# Sector 028 targets observed (2 min: 1, 20 s: 0)
 220496487,345.303,-58.9728,11.07,G03164

@@ -9,10 +9,10 @@ Type: SMALL
 Summary: Massive stars play an outsized role in the evolution of the universe and models of their structure and evolution are fundamental to our understanding of astrophysical topics as diverse as star formation, stellar winds, and the evolution of the interstellar medium. Improvement of the models can only come through confrontation with observations, and high-precision asteroseismology constitutes the ideal observation set. This project is a continuation of a Cycle 1 program to re-observe targets originally observed from space for asteroseismology using the WIRE satellite two decades ago. We request additional observations because we find that the frequency resolution from only one year of TESS data is marginal for uniquely identifying pulsation mode frequencies required for asteroseismology.
 
 
-# Sector 027 targets observed (2 min: 2, 20 s: 0.0)
+# Sector 027 targets observed (2 min: 2, 20 s: 0)
 219974785,306.4124,-56.7355,8.23,G03091
 308395911,120.0832,-63.5673,4.98,G03059;G03156;G03091;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25
 
-# Sector 028 targets observed (2 min: 2, 20 s: 0.0)
+# Sector 028 targets observed (2 min: 2, 20 s: 0)
 306829961,121.982,-68.6169,4.55,G03059;G03156;G03091;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25
 308395911,120.0832,-63.5673,4.98,G03059;G03156;G03091;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25

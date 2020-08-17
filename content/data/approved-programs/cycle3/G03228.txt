@@ -9,7 +9,7 @@ Type: SMALL
 Summary: The physics of flares is still poorly understood. As a subset of this problem, the physics of quasi-periodic pulsations (QPP) on flares is also poorly understood. Dozens of hypotheses for QPP causation have been proposed, but limited observational data means that we are not yet able to test those hypotheses. Many stellar (as opposed to solar) QPP events previously recorded have periods on the order of hours. Recent observations in GALEX and NGTS suggest that QPPs are present in some flares in UV and white light bands at periods of less than a few minutes. This project targets nearby M dwarfs with 20-second cadence to address the question of whether QPPs with periods of a few minutes are common at optical wavelengths across a broad range of flare energies.
 
 
-# Sector 027 targets observed (2 min: 54, 20 s: 15.0)
+# Sector 027 targets observed (2 min: 54, 20 s: 15)
 129078199,301.9806,-42.0917,11.32,G03228;G03274
 129138718,302.4652,-47.5282,11.71,G03228;G03274
 61799536,289.1806,-45.8917,7.63,G03227;G03228
@@ -65,7 +65,7 @@ Summary: The physics of flares is still poorly understood. As a subset of this p
 235048515,82.7382,-53.516,9.25,G03272;G03228
 381949148,76.447,-57.5531,7.36,G03174;G03272;G03227;G03228;20SECONDTARGET
 
-# Sector 028 targets observed (2 min: 48, 20 s: 16.0)
+# Sector 028 targets observed (2 min: 48, 20 s: 16)
 165096120,322.7066,-40.7162,10.48,G03250;G03228;G03274;20SECONDTARGET
 197736350,330.6283,-37.0822,9.19,G03250;G03228;20SECONDTARGET
 270503578,324.6891,-33.6683,10.02,G03250;G03272;G03228;G03274;20SECONDTARGET
