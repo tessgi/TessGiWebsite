@@ -9,7 +9,7 @@ Type: SMALL
 Summary: Young moving groups are unique laboratories to probe fundamental processes in star and planet formation. However, the ages of moving groups are frequently poorly constrained, with age differences in the literature of up to a factor of two depending on the method used. Here we propose 2-minute cadence observations to perform the first systematic asteroseismic age determination for young moving groups, using a newly discovered class of high-frequency delta Scuti stars with regular frequency spacings. Our program will yield the first systematic asteroseismic age determination of young moving groups, probe the dynamical architectures of young stars through spin-axis inclination measurements, and shed light on the occurrence rate of delta Scuti stars with regular spacings.
 
 
-# Sector 027 targets observed (2 min: 512, 20 s: 7.0)
+# Sector 027 targets observed (2 min: 512, 20 s: 7)
 101274703,299.6276,-49.9581,10.42,G03255
 114788209,300.9855,-39.9287,8.29,G03255
 128681085,299.3718,-42.0449,9.53,G03255
@@ -523,7 +523,7 @@ Summary: Young moving groups are unique laboratories to probe fundamental proces
 382259669,82.6859,-57.1601,6.73,G03255
 382268382,83.062,-55.5815,11.08,G03255
 
-# Sector 028 targets observed (2 min: 371, 20 s: 7.0)
+# Sector 028 targets observed (2 min: 371, 20 s: 7)
 139113415,319.666,-44.3242,9.37,G03255
 152283049,329.1982,-34.3824,11.43,G03255
 159693287,318.3825,-40.1391,9.89,G03255

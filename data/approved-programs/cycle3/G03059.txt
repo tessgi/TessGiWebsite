@@ -9,7 +9,7 @@ Type: SMALL
 Summary: Massive stars are important metal factories in the Universe and progenitors of core-collapse supernovae. However, a major shortcoming of stellar evolution models is their large uncertainties for interior rotation and convective core overshooting. This is because we lack detailed observational constraints on massive star interiors. Fortunately, most massive stars pulsate in gravity and pressure modes, which are extremely sensitive to a star's interior physics. The TESS mission is providing the first long-term and high-precision photometric data set for a large sample of massive stars. In this project, asteroseismology applied to 2-min TESS light curves will allow us to mitigate these large uncertainties currently in stellar evolution theory.
 
 
-# Sector 027 targets observed (2 min: 346, 20 s: 5.0)
+# Sector 027 targets observed (2 min: 346, 20 s: 5)
 61516388,288.2485,-47.161,9.97,G03059
 369457005,311.584,-39.1994,5.59,G03059
 34803944,307.085,-31.4518,10.46,G03059
@@ -357,7 +357,7 @@ Summary: Massive stars are important metal factories in the Universe and progeni
 55295028,76.804,-61.805,9.33,G03059;G03186;G03209
 55746262,74.9044,-60.9541,9.7,G03059
 
-# Sector 028 targets observed (2 min: 342, 20 s: 4.0)
+# Sector 028 targets observed (2 min: 342, 20 s: 4)
 115177591,317.1722,-37.2427,6.96,G03059
 152283270,329.2315,-35.3597,7.5,G03059
 197641601,328.4829,-37.365,2.1,G03156;G03059;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25

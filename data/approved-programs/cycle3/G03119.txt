@@ -9,7 +9,7 @@ Type: SMALL
 Summary: The addition of a 20-second cadence option to TESS opens up a new window into stellar variability. We know from studies of our own Sun that flares, oscillations, and convection can cause variations on timescales of seconds. However, the variation of other classes of stars at small amplitude and fast cadence are relatively unconstrained. We therefore propose to establish a library of 20 second cadence observations of bright, spectroscopically characterized stars across the HR diagram. This has the potential to identify new sources of variability at lower amplitude and shorter period than ever before. In addition, such well sampled light curves will offer opportunities to optimize the cadence of future surveys and to determine the timescales on which stars can be considered to be stable.
 
 
-# Sector 027 targets observed (2 min: 54, 20 s: 54.0)
+# Sector 027 targets observed (2 min: 54, 20 s: 54)
 140802488,74.8902,-73.0826,8.49,G03119;20SECONDTARGET
 231091547,68.8387,-68.2292,9.02,G03119;20SECONDTARGET
 231097055,69.3867,-69.1873,10.57,G03119;20SECONDTARGET
@@ -65,7 +65,7 @@ Summary: The addition of a 20-second cadence option to TESS opens up a new windo
 220414682,71.1125,-59.3213,8.71,G03119;G03264;G03096;G03251;20SECONDTARGET
 55557707,73.0714,-60.394,10.77,G03119;20SECONDTARGET
 
-# Sector 028 targets observed (2 min: 50, 20 s: 50.0)
+# Sector 028 targets observed (2 min: 50, 20 s: 50)
 220414682,71.1125,-59.3213,8.71,G03119;G03264;G03096;G03251;20SECONDTARGET
 231091547,68.8387,-68.2292,9.02,G03119;20SECONDTARGET
 231097055,69.3867,-69.1873,10.57,G03119;20SECONDTARGET

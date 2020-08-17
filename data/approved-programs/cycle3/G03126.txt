@@ -9,7 +9,7 @@ Type: SMALL
 Summary: Kepler showed that the transiting exoplanet population is strongly sculpted by atmospheric escape. The best observational probe of escape is transit spectroscopy with H I Lyman alpha. However, neutral hydrogen in the ISM completely attenuates the core of the line even for the closest stars, hiding the key bound region of a planet's exosphere. High radial velocity stars offer a solution, as transit signals will be Doppler shifted out of the ISM's 100\% attenuation zone. We propose to search for large, short-period planets around 402 nearby, bright, high radial velocity stars to find planet candidates that will be suitable for Lyman alpha transmission spectroscopy with the HST. We expect to find ~10 planets, which will likely become benchmark systems for directly probing atmospheric escape.
 
 
-# Sector 027 targets observed (2 min: 46, 20 s: 2.0)
+# Sector 027 targets observed (2 min: 46, 20 s: 2)
 79660594,295.7195,-45.0829,8.59,G03126;G03227;G03272
 80060642,297.8121,-44.2926,9.52,G03126
 126802186,316.9107,-47.3229,9.59,G03126
@@ -57,7 +57,7 @@ Summary: Kepler showed that the transiting exoplanet population is strongly scul
 350520348,86.3056,-59.9231,8.43,G03126;G03272;G03096;G03053
 55652063,74.0014,-61.1664,10.37,G03126;G03274
 
-# Sector 028 targets observed (2 min: 40, 20 s: 3.0)
+# Sector 028 targets observed (2 min: 40, 20 s: 3)
 2027657632,325.5436,-41.1266,7.79,G03126;G03227
 2027779587,325.1164,-37.7283,8.9,G03126
 253928127,338.3802,-35.4453,7.16,G03272;G03126;G03227

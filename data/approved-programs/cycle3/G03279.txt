@@ -9,7 +9,7 @@ Type: SMALL
 Summary: Late-type M dwarf exoplanet systems are ubiquitous and open new doors for detailed atmospheric characterization, but by itself, TESS is less effective for these ultra-cool stars. We thus propose a joint TESS and SPECULOOS effort to observe 277 carefully selected, nearby (<40 pc) M5 to M8 dwarfs with 2 min cadence in Cycle 3. On these targets, we can detect temperate Earth-sized planets at>3 sigma using TESS alone and SPECULOOS will be used to rapidly confirm those candidates, strongly expanding TESS reach and impact to the most interesting targets for atmospheric studies with JWST and the ELTs. We will also develop custom TESS 2 min data products, which we will make publicly available immediately, as a service to the community.
 
 
-# Sector 027 targets observed (2 min: 10, 20 s: 0.0)
+# Sector 027 targets observed (2 min: 10, 20 s: 0)
 1927442942,290.3737,-29.2628,17.78,G03279;G03274
 232064183,340.4338,-61.328,14.91,G03279;G03274
 201688405,300.5566,-54.4343,13.84,G03225;G03279;G03202;G03274
@@ -21,7 +21,7 @@ Summary: Late-type M dwarf exoplanet systems are ubiquitous and open new doors f
 220429097,72.9037,-58.3184,14.01,G03225;G03279;G03202;G03274
 350745242,88.8129,-54.0514,14.67,G03279;G03274
 
-# Sector 028 targets observed (2 min: 12, 20 s: 0.0)
+# Sector 028 targets observed (2 min: 12, 20 s: 0)
 253923299,337.7246,-33.9763,15.03,G03279;G03274
 207073870,323.8105,-31.896,15.01,G03279;G03274
 232064183,340.4338,-61.328,14.91,G03279;G03274

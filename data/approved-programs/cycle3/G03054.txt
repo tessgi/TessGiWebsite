@@ -9,7 +9,7 @@ Type: SMALL
 Summary: We propose to determine the ages of stars in Nyx, a recently discovered Galactic stream. There are two science questions that will be addressed in our study: (1) What are the ages of stars in the stream? (2) Is there a spread of ages among the stars? In answering these questions, we will be characterizing what may be the oldest subset of accreted stars near the Solar position.
 
 
-# Sector 027 targets observed (2 min: 6, 20 s: 2.0)
+# Sector 027 targets observed (2 min: 6, 20 s: 2)
 30110707,73.5117,-66.4937,10.71,G03054
 55523592,72.1309,-62.4835,8.41,G03054
 141479174,86.9851,-76.4877,11.61,G03054;20SECONDTARGET
@@ -17,7 +17,7 @@ Summary: We propose to determine the ages of stars in Nyx, a recently discovered
 262614905,116.693,-62.8054,11.16,G03054;20SECONDTARGET
 350764741,89.0144,-57.6446,11.95,G03054
 
-# Sector 028 targets observed (2 min: 6, 20 s: 2.0)
+# Sector 028 targets observed (2 min: 6, 20 s: 2)
 30110707,73.5117,-66.4937,10.71,G03054
 55523592,72.1309,-62.4835,8.41,G03054
 141479174,86.9851,-76.4877,11.61,G03054;20SECONDTARGET

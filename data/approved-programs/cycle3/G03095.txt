@@ -9,7 +9,7 @@ Type: SMALL
 Summary: Evolved massive stars are observed in a broad menagerie of physical states, all of which are variable on timescales from minutes to decades. Studying their interiors, surfaces, and winds provides powerful constraints on their evolution. We propose to construct a legacy archive of homogeneous, high precision light curves of Galactic evolved massive stars, while simultaneously collecting continuous observations of hundreds of stars in the Magellanic Clouds. These observations will allow us to explore recently-discovered pulsations and stochastic variability across the upper HR diagram. Our proposed observations are well within the capabilities of TESS, allowing us to gather an unprecedented sample of light curves that will inform massive star research for years to come.
 
 
-# Sector 027 targets observed (2 min: 230, 20 s: 0.0)
+# Sector 027 targets observed (2 min: 230, 20 s: 0)
 180609595,12.2624,-73.3614,11.22,G03095
 180609829,11.9114,-73.1302,10.97,G03095
 180609896,12.0263,-73.1106,11.12,G03095
@@ -241,7 +241,7 @@ Summary: Evolved massive stars are observed in a broad menagerie of physical sta
 389749856,87.2619,-70.0417,10.56,G03059;G03095
 389749953,87.2069,-70.0661,10.68,G03095
 
-# Sector 028 targets observed (2 min: 237, 20 s: 0.0)
+# Sector 028 targets observed (2 min: 237, 20 s: 0)
 180609595,12.2624,-73.3614,11.22,G03095
 180609829,11.9114,-73.1302,10.97,G03095
 180609896,12.0263,-73.1106,11.12,G03095

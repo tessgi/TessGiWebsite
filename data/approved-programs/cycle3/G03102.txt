@@ -9,7 +9,7 @@ Type: SMALL
 Summary: Accurate ages provide essential constraints on questions ranging from exoplanet habitability to the Galaxy's chemical evolution. Gyrochronology, an empirical relation between rotation and age, is potentially one of the best ways to determine stellar ages. We propose to test several competing gyrochronology models using wide stellar binaries in the TESS Cycle 3 fields. Such noninteracting coeval pairs can help unravel degeneracies in the rotation-activity-metallicity vs. age relations for main sequence stars. Moreover, they span a much broader range in age and metallicity than stellar clusters, which often have mixed populations and have lost low mass stars. The project will also compare flaring rates from the TESS data and chromospheric activity using LAMOST spectra.
 
 
-# Sector 027 targets observed (2 min: 596, 20 s: 4.0)
+# Sector 027 targets observed (2 min: 596, 20 s: 4)
 128879552,300.7484,-47.4617,11.3,G03102
 128879556,300.7487,-47.4648,11.29,G03102
 129036595,301.7766,-45.5506,11.07,G03102
@@ -607,7 +607,7 @@ Summary: Accurate ages provide essential constraints on questions ranging from e
 734548585,88.8988,-55.931,11.43,G03102
 734603429,80.0402,-55.9728,11.05,G03102
 
-# Sector 028 targets observed (2 min: 523, 20 s: 3.0)
+# Sector 028 targets observed (2 min: 523, 20 s: 3)
 115113541,316.7065,-36.5102,9.94,G03102
 115113544,316.707,-36.5111,9.44,G03102
 139115449,319.9813,-45.3825,11.58,G03102

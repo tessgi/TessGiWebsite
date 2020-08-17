@@ -9,7 +9,7 @@ Type: LARGE
 Summary: Transiting warm giant exoplanets (Rp>4RE, T<1000 K, P>10 days) are fundamental objects to study, as they are ideal laboratories for tests on planet formation and evolution. Their detection and characterization, however, is very challenging due to their longer periods (which makes them hard to detect from ground-based transit surveys), making TESS the ideal mission to detect &characterize them. In this proposal, we aim at detecting new warm giant exoplanets in TESS' extended mission, which we will couple with radial-velocity measurements to characterize the masses and architectures of these exciting systems. This will allow us to put strong constraints on the theories of giant planet formation, and provide to the community exciting new systems to characterize with HST and the upcoming JWST.
 
 
-# Sector 027 targets observed (2 min: 18, 20 s: 0.0)
+# Sector 027 targets observed (2 min: 18, 20 s: 0)
 231630147,317.1594,-55.5652,11.94,G03092
 290403522,330.9581,-72.4409,10.29,G03188;G03092
 394287035,31.691,-81.2474,11.58,G03188;G03092
@@ -29,7 +29,7 @@ Summary: Transiting warm giant exoplanets (Rp>4RE, T<1000 K, P>10 days) are fund
 149601126,86.851,-60.5213,13.4,G03092
 382200986,81.8186,-54.9461,11.89,G03092
 
-# Sector 028 targets observed (2 min: 31, 20 s: 1.0)
+# Sector 028 targets observed (2 min: 31, 20 s: 1)
 207078179,320.844,-38.5325,11.13,G03272;G03092
 206666063,343.4042,-31.8191,11.76,G03092;G03274
 278705277,334.7919,-39.2423,12.14,G03092

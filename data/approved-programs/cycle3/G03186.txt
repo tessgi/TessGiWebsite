@@ -9,7 +9,7 @@ Type: SMALL
 Summary: Be stars are near-critically rotating non-radially pulsating B-type stars that episodically eject mass and form orbiting viscous 'decretion' disks. As such, they are valuable astrophysical laboratories for a variety of processes. Be stars show diverse behavior with widely ranging timescales and magnitudes, necessitating a statistical study of the class. They are bright and relatively common, but tend to lie near the Galactic plane and have largely been avoided by space photometry. TESS thus provides an excellent and rare opportunity to study Be stars, and in particular their pulsational properties which may hold the key as to what drives the enigmatic Be phenomenon. We will obtain spectra and polarization measurements simultaneous with the TESS observations of selected targets.
 
 
-# Sector 027 targets observed (2 min: 9, 20 s: 0.0)
+# Sector 027 targets observed (2 min: 9, 20 s: 0)
 61566852,288.4341,-42.4134,9.88,G03186
 230953115,287.2892,-55.8224,8.11,G03186
 464643264,287.6589,-60.0458,7.52,G03186
@@ -20,7 +20,7 @@ Summary: Be stars are near-critically rotating non-radially pulsating B-type sta
 372913367,119.4413,-60.8263,8.92,G03186;G03209
 55295028,76.804,-61.805,9.33,G03059;G03186;G03209
 
-# Sector 028 targets observed (2 min: 8, 20 s: 0.0)
+# Sector 028 targets observed (2 min: 8, 20 s: 0)
 281741629,12.2554,-56.097,10.51,G03186;G03059
 260820871,348.0549,-70.1132,9.06,G03186;G03059
 55295028,76.804,-61.805,9.33,G03059;G03186;G03209

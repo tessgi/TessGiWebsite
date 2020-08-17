@@ -9,7 +9,7 @@ Type: LARGE
 Summary: We propose to complement TESS core science by adding several hundred new long-period planets and planet candidates. We will search for and vet single transit planet candidate (STPC) signals in Cycle 3 for targets for which we found STPCs in Cycle 1. We will also identify new STPCs in Cycle 3, and develop a parallel pipeline optimized for identifying STPCs around M dwarfs. These candidates will be released to the community in a timely fashion to allow efficient follow-up. As added value, our program will allow us to update the occurence rates of long-period giant exoplanets. This program will provide a large sample of temperate planet candidates transiting bright stars amenable to follow-up studies, enabling constraints on the composition and formation of long-period exoplanets.
 
 
-# Sector 027 targets observed (2 min: 30, 20 s: 3.0)
+# Sector 027 targets observed (2 min: 30, 20 s: 3)
 425650962,286.2984,-35.5271,9.13,G03188
 469755907,292.2545,-38.1219,11.89,G03188
 341196641,314.4639,-65.7455,11.12,G03188;G03272
@@ -41,7 +41,7 @@ Summary: We propose to complement TESS core science by adding several hundred ne
 149625812,87.0407,-65.0391,9.75,G03188
 231815813,85.9045,-52.6791,11.78,G03188
 
-# Sector 028 targets observed (2 min: 37, 20 s: 4.0)
+# Sector 028 targets observed (2 min: 37, 20 s: 4)
 229053991,331.7503,-31.6999,9.33,G03188
 229055790,331.9659,-34.0238,9.14,G03188;G03272
 47316976,340.3077,-28.0327,8.97,G03188;G03278;G03251;20SECONDTARGET

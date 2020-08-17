@@ -9,7 +9,7 @@ Type: SMALL
 Summary: One of the many exciting results from the Kepler mission was the discovery that multiplanet systems are common. We propose to enrich the sample of multiplanet systems by obtaining 20-sec cadence observations of 915 relatively bright stars known to host one or more planets or planet candidates. The main goals of our proposal are to discover additional planets in these systems by detecting transits and transit timing variations and increase the sample of long-period planets by detecting single transit events and estimating the orbital parameters of planets with uncertain orbital periods.
 
 
-# Sector 027 targets observed (2 min: 184, 20 s: 182.0)
+# Sector 027 targets observed (2 min: 184, 20 s: 182)
 101230735,299.291,-48.9345,9.66,G03278;G03272;20SECONDTARGET
 128790976,300.213,-43.9827,7.22,G03278;G03251;20SECONDTARGET
 143257766,293.3893,-45.8927,10.41,G03278;G03201;G03251;20SECONDTARGET
@@ -195,7 +195,7 @@ Summary: One of the many exciting results from the Kepler mission was the discov
 382068562,79.6569,-55.8885,11.36,G03278;G03272;20SECONDTARGET
 55525572,72.694,-60.9055,9.85,G03278;G03251;G03068;20SECONDTARGET
 
-# Sector 028 targets observed (2 min: 178, 20 s: 178.0)
+# Sector 028 targets observed (2 min: 178, 20 s: 178)
 129637892,321.115,-37.8502,9.03,G03278;20SECONDTARGET
 147203645,323.1961,-44.0181,10.73,G03278;G03272;20SECONDTARGET
 207077681,320.7629,-40.0485,12.31,G03278;G03181;G03106;20SECONDTARGET

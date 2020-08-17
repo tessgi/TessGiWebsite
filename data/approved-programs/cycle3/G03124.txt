@@ -9,7 +9,7 @@ Type: SMALL
 Summary: We propose a mix of 20-second- and 2-min-cadence observations of more than 1800 known or candidate white dwarfs visible in Cycle 3 of the TESS mission. A main objective is to search these white dwarfs for transits of remnant planetary systems with at least 2-min-cadence observations; transits of Earth-sized white dwarfs are likely to be very deep but also very short, just a few minutes, requiring high-speed observations. Our proposed 20-second observations will also enable asteroseismology of a large sample of known and high-likelihood pulsating white dwarfs, continuing the space-based revolution into the interiors of pulsating white dwarfs.
 
 
-# Sector 027 targets observed (2 min: 244, 20 s: 31.0)
+# Sector 027 targets observed (2 min: 244, 20 s: 31)
 101359698,300.4472,-50.0014,15.52,G03207;G03124
 128879934,300.953,-47.8013,16.07,G03207;G03124
 129031954,301.5416,-43.9321,15.59,G03207;G03124
@@ -255,7 +255,7 @@ Summary: We propose a mix of 20-second- and 2-min-cadence observations of more t
 734606940,81.4403,-54.7356,16.83,G03207;G03124
 737482923,96.0504,-55.4813,16.41,G03124
 
-# Sector 028 targets observed (2 min: 221, 20 s: 35.0)
+# Sector 028 targets observed (2 min: 221, 20 s: 35)
 129683429,321.9015,-41.7557,16.28,G03207;G03221;G03124
 147112823,321.508,-42.4146,15.29,G03207;G03124
 147423571,327.412,-43.1041,16.13,G03207;G03124

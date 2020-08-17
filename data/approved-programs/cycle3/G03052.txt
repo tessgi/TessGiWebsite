@@ -9,7 +9,7 @@ Type: SMALL
 Summary: TESS has observed an order of magnitude more low mass stars in short cadence mode than Kepler. This has allowed us to determine the energy and rate of flares in a large sample finding that, surprisingly, flares do not appear preferentially when the dominant starspot is close to face-on. It has also allowed us to identify more than 200 low mass single stars with rotation periods shorter than 1 day. Contrary to expectations, many of these do not show evidence for flare activity. Here we bid to observe all low mass stars which were observed in Cycle 1 in short cadence to be observed again in Cycle 3. This will enable us to answer questions such as how the flare rate and energy and spot coverage varies over a timescale of months to several years.
 
 
-# Sector 027 targets observed (2 min: 529, 20 s: 20.0)
+# Sector 027 targets observed (2 min: 529, 20 s: 20)
 101277769,299.94,-50.3475,11.49,G03052
 166280989,295.5878,-50.0078,12.64,G03052
 300213340,297.9002,-40.4236,11.29,G03274;G03052
@@ -540,7 +540,7 @@ Summary: TESS has observed an order of magnitude more low mass stars in short ca
 55604374,73.6575,-60.2346,11.83,G03174;G03052;20SECONDTARGET
 55651278,73.9001,-60.8617,12.51,G03264;G03052
 
-# Sector 028 targets observed (2 min: 549, 20 s: 16.0)
+# Sector 028 targets observed (2 min: 549, 20 s: 16)
 115190256,317.4667,-39.8385,12.56,G03202;G03052
 139090254,319.3919,-44.7433,10.88,G03052
 147250411,323.9403,-42.3099,13.74,G03226;G03052
