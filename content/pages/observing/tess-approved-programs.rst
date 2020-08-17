@@ -37,7 +37,7 @@ Sector 28
         </li>
         <li class="list-group-item">
             <i class="fa fa-download fa-margin"></i>
-            <a href="data/target_lists/sector028_targets_lists/GI_S028.csv">2 min target list (csv)</a>
+            <a href="data/target_lists/sector028_targets_lists/GI_S028.csv">2 min target list (csv)</a>, 
             <a href="data/target_lists/sector028_targets_lists/GI_20s_S028.csv">20 s target list (csv)</a>
         </li>
     </ul>
@@ -55,7 +55,7 @@ Sector 27
         </li>
         <li class="list-group-item">
             <i class="fa fa-download fa-margin"></i>
-            <a href="data/target_lists/sector027_targets_lists/GI_S027.csv">2 min target list (csv)</a>
+            <a href="data/target_lists/sector027_targets_lists/GI_S027.csv">2 min target list (csv)</a>, 
             <a href="data/target_lists/sector027_targets_lists/GI_20s_S027.csv">20 s target list (csv)</a>
         </li>
     </ul>

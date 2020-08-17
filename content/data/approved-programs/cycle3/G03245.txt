@@ -9,9 +9,14 @@ Type: SMALL
 Summary: Although the Kepler spacecraft offered many groundbreaking insights into cataclysmic variable stars (CVs), it observed very few magnetic CVs, which are semi-detached binaries containing a magnetized, accreting white dwarf. These systems show variability at all timescales probed by TESS, and with TESS's excellent all-sky coverage, it will observe far more magnetic CVs than did Kepler. We propose to observe a selection of these systems in order to test theories of magnetic accretion in a way that has not been possible with ground-based photometry. For two of our targets, we further propose that they be observed at the 20-second cadence if it is available.
 
 
-# Sector 027 targets observed (2 min: 5)
+# Sector 027 targets observed (2 min: 5, 20 s: 0.0)
 143410687,294.6495,-46.216,16.28,G03245;G03071
 404055841,292.1348,-50.0263,15.5,G03245;G03071
 231666244,318.9213,-58.6818,16.55,G03245;G03071
 320842011,299.2982,-57.6397,18.33,G03245
+234340131,37.7135,-68.7015,16.88,G03245;G03071
+
+# Sector 028 targets observed (2 min: 3, 20 s: 0.0)
+2027639719,324.485,-43.7039,18.84,G03245
+231044546,28.5038,-59.797,15.67,G03245;G03124
 234340131,37.7135,-68.7015,16.88,G03245;G03071

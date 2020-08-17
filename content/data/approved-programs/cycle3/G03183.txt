@@ -9,5 +9,8 @@ Type: SMALL
 Summary: Recently, a system of three small planets were discovered orbiting the early M-dwarf, TOI-700. The two inner planets, TOI-700 b and c, are sub-Neptune in size (1.04 and 2.65 Earth radii) and orbit with periods of 9.98 and 16.05 days. However, the third planet in the system, TOI-700 d, is only 20% larger than the Earth and orbits within the conservative habitable zone of its star with a period of 37.5 day. With extensive characterization observations in progress or being planned, we want to improve our understanding of the TOI-700 architecture and study any short duration flaring activity that could significantly impact the potential for habitability and would have been missed in the 2-minute cycle 1 observations. Therefore, we propose for 20-second cadence observations of TOI-700 to discov
 
 
-# Sector 027 targets observed (2 min: 1)
-150428135,97.0954,-65.5784,10.91,G03183;G03264;G03278;G03068
+# Sector 027 targets observed (2 min: 1, 20 s: 1.0)
+150428135,97.0954,-65.5784,10.91,G03183;G03264;G03278;G03068;20SECONDTARGET
+
+# Sector 028 targets observed (2 min: 1, 20 s: 1.0)
+150428135,97.0954,-65.5784,10.91,G03183;G03264;G03278;G03068;20SECONDTARGET

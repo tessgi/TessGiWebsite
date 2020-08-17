@@ -9,5 +9,8 @@ Type: SMALL
 Summary: We propose to investigate three possible physical origins of the optical variability in gamma-ray blazars: jet turbulence, mini-jets in the jet, and changes in the jet Doppler factor. The observable characteristics derived from light curves are lengths and strengths of flares, year-to-year baseline brightness changes, and slopes of power spectral densities. Combinations of characteristics point to specific physical origins. Our targets are the optically brightest gamma-ray blazars in the southern ecliptic hemisphere from our accepted Cycle 1 proposal. We will use 10-min FFI data for 43 targets to measure the power spectral densities and baseline brightness, and we will use 2-min cadence on the 7 brightest targets to measure the lengths and strengths of flares on the shortest timescales.
 
 
-# Sector 027 targets observed (2 min: 1)
+# Sector 027 targets observed (2 min: 1, 20 s: 0.0)
 101620268,302.3558,-48.8316,14.28,G03026;G03118
+
+# Sector 028 targets observed (2 min: 1, 20 s: 0.0)
+229013191,329.7169,-30.2256,13.54,G03012;G03026;G03118

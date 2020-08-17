@@ -9,5 +9,5 @@ Type: SMALL
 Summary: We propose to probe the formation history and orbital evolution of seven giant planets orbiting high-mass stars using TESS photometry. Specifically, we will constrain the planets' current-day orbit geometries by measuring the planets' orbital tilts relative to their host stars' rotation planes (i.e., their true spin-orbit angles). Our findings will contribute toward understanding the mechanisms responsible for causing spin-orbit misalignment. This project will be carried out over six months, measuring the true spin-orbit angles of seven planets in the southern sky that will be observed (or re-observed) during Cycle 3.
 
 
-# Sector 027 targets observed (2 min: 1)
-389352124,311.0428,-39.2256,9.05,G03278;G03165;G03181;G03106
+# Sector 027 targets observed (2 min: 1, 20 s: 1.0)
+389352124,311.0428,-39.2256,9.05,G03278;G03165;G03181;G03106;20SECONDTARGET
