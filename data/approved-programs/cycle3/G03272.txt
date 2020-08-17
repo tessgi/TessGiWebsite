@@ -9,7 +9,7 @@ Type: SMALL
 Summary: Of the millions of stars that TESS will observe during Cycle 3 in either FFIs or 2-minute cadence, less than 2% are well suited to radial velocity follow up with the current generation of precision RV instruments. We propose to obtain 2-minute TESS photometry of 34,140 stars in the Southern Ecliptic Hemisphere whose effective temperatures and V- or T-magnitudes make them viable RV candidates. Planets found to orbit these stars will have the best chances of obtaining precision mass measurements. Such measurements will make these planets prime targets for future atmospheric characterization efforts with ground-based facilities such as NIRSPEC and ESPRESSO, and space-based missions including HST, JWST, and ARIEL. Of these stars, 21,425 were not previously observed in 2-minute cadence by TESS.
 
 
-# Sector 027 targets observed (2 min: 3640, 20 s: 47.0)
+# Sector 027 targets observed (2 min: 3640, 20 s: 47)
 101230735,299.291,-48.9345,9.66,G03278;G03272;20SECONDTARGET
 101359202,300.4433,-50.7185,10.74,G03272
 101359948,300.3501,-49.6729,10.48,G03272
@@ -3651,7 +3651,7 @@ Summary: Of the millions of stars that TESS will observe during Cycle 3 in eithe
 55780996,75.4851,-60.5119,9.72,G03272;G03053
 55781680,75.4063,-62.0892,8.7,G03272
 
-# Sector 028 targets observed (2 min: 5856, 20 s: 71.0)
+# Sector 028 targets observed (2 min: 5856, 20 s: 71)
 115148914,316.819,-38.3997,11.34,G03272
 115149949,316.8447,-36.1684,10.62,G03272
 115150962,317.0067,-37.8373,9.18,G03272

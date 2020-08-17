@@ -9,7 +9,7 @@ Type: SMALL
 Summary: The main scientific aim of this proposal is to obtain the first statistically significant sample of black holes (BH) in detached binary systems. Discovering and characterizing these systems is crucial for constraining binary evolution models and core-collapse supernova mechanisms. We have selected a sample of 2573 objects enriched in BHs that exhibit large RV variations in LAMOST, SDSS, and Gaia data. We would like to use their TESS light curves to search for low-amplitude periodic photometric variations due to ellipsoidal modulation, relativistic beaming, and self-lensing. By combining the currently available radial velocity data and TESS photometry we will be able to create a large sample of BH candidates in non-interacting binary systems, which we will follow up to confirm their nature.
 
 
-# Sector 027 targets observed (2 min: 152, 20 s: 0.0)
+# Sector 027 targets observed (2 min: 152, 20 s: 0)
 101621362,302.3741,-50.3302,11.57,G03166
 115107944,316.5954,-41.9113,13.18,G03166
 1990636318,310.422,-42.001,11.89,G03166
@@ -163,7 +163,7 @@ Summary: The main scientific aim of this proposal is to obtain the first statist
 410448693,118.01,-61.9599,10.95,G03166
 737171677,97.9646,-62.6283,11.1,G03166
 
-# Sector 028 targets observed (2 min: 138, 20 s: 0.0)
+# Sector 028 targets observed (2 min: 138, 20 s: 0)
 159628414,317.8272,-36.8351,12.2,G03166
 159746746,319.2624,-38.5153,11.49,G03166
 159837886,320.2634,-38.3263,11.8,G03166

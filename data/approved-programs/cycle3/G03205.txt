@@ -9,7 +9,7 @@ Type: SMALL
 Summary: The first year of the TESS all-sky survey discovered a large number of flaring Solartype star targets (~25,734) in the Southern Hemisphere; especially the discovery of TIC43472154, a star that produced ~200 superflares in a year. It is imperative to obtain a large sample of flaring solar-type stars with the TESS 20-sec cadence along with low mass stars for comparison studies in constraining the processes of solar and stellar flares governing magnetic reconnection. Stellar atmospheres contain a plethora of waves such as QPPs and acoustic oscillations. The occurrence of oscillatory waves and pulsations associated with flares puts additional constraints on the interpretation and understanding of the fundamental processes operating in both solar and stellar flares.
 
 
-# Sector 027 targets observed (2 min: 37, 20 s: 37.0)
+# Sector 027 targets observed (2 min: 37, 20 s: 37)
 441398770,310.4646,-32.4375,7.4,G03063;G03205;G03174;G03228;G03226;G03202;20SECONDTARGET
 441420236,311.2916,-31.343,6.75,G03263;G03273;G03141;G03063;G03205;G03272;G03227;G03228;G03226;G03202;20SECONDTARGET
 419610509,320.3535,-66.9165,8.09,G03205;G03227;G03202;20SECONDTARGET
@@ -48,7 +48,7 @@ Summary: The first year of the TESS all-sky survey discovered a large number of 
 260268898,93.9849,-54.3055,11.06,G03205;20SECONDTARGET
 260351540,94.804,-58.0541,8.28,G03205;G03272;G03096;G03202;G03053;G03251;20SECONDTARGET
 
-# Sector 028 targets observed (2 min: 47, 20 s: 47.0)
+# Sector 028 targets observed (2 min: 47, 20 s: 47)
 71274771,330.5681,-42.1764,10.2,G03205;G03202;G03226;20SECONDTARGET
 206537793,332.9263,-20.7388,11.24,G03205;G03202;G03226;20SECONDTARGET
 302116397,322.5448,-24.192,9.85,G03205;20SECONDTARGET

@@ -9,13 +9,13 @@ Type: SMALL
 Summary: Our Cycle 3 TESS GI proposal is to observe and analyze a sample of 31 bright, non-Blazhko, first-overtone (RRc), RR Lyrae variables with the 2-minute cadence program. Our goal is to investigate temporal variability in the primary radial pulsation mode, fo, and the well known non-radial pulsation mode, fx, found in most RRc stars (fo/fx ~ 0.61). For stars with the fx mode, we will also explore variability in any identifiable half-integer, sub-harmonic frequencies. Our ultimate goal is to compare the short-term and long-term variability in order to constrain the period-shifting effect seen in many RRc stars. We will also use the subset of our sample which has published kinematic observations to help constrain the physical properties that produce this non-radial mode.
 
 
-# Sector 027 targets observed (2 min: 4, 20 s: 0.0)
+# Sector 027 targets observed (2 min: 4, 20 s: 0)
 101433435,301.1311,-53.872,10.85,G03204;G03169
 292826577,275.0021,-83.8346,11.28,G03204
 238870487,38.3282,-73.612,11.81,G03204;G03169
 30531417,74.8072,-69.5951,11.12,G03204;G03252;G03169
 
-# Sector 028 targets observed (2 min: 7, 20 s: 0.0)
+# Sector 028 targets observed (2 min: 7, 20 s: 0)
 214912448,341.8947,-39.0593,10.3,G03204;G03169
 206460831,330.725,-21.5257,10.64,G03204;G03169
 209394970,325.5259,-25.4748,11.33,G03204;G03169

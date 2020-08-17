@@ -9,7 +9,7 @@ Type: SMALL
 Summary: The most powerful tests of stellar structure and evolution come from the brightest stars in the night sky, for which complementary observational techniques (such as astrometry, asteroseismology, and interferometry) can be combined. So far, naked-eye stars (V<6) have rarely been observed with high-precision, high-cadence photometry from space telescopes such as Kepler/K2 due to the large number of pixels required to capture the saturated pixel columns. The key goal of this program is to adapt the novel technique of 'halo photometry' which our team has pioneered with K2 and TESS to perform photometry of extremely bright stars, and obtain high-precision 2-minute cadence light curves of all naked-eye stars, and 20-sec for several targets of special interest.
 
 
-# Sector 027 targets observed (2 min: 191, 20 s: 2.0)
+# Sector 027 targets observed (2 min: 191, 20 s: 2)
 101354316,300.1671,-49.6086,3.98,G03156;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25
 128790255,300.1105,-43.0432,4.43,G03156;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25
 254141367,286.6873,-41.5403,4.59,G03156;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25
@@ -202,7 +202,7 @@ Summary: The most powerful tests of stellar structure and evolution come from th
 381949122,76.3774,-57.472,4.22,G03156;G03227;G03251;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25;20SECONDTARGET
 382198789,81.5802,-58.9123,4.32,G03156;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25
 
-# Sector 028 targets observed (2 min: 181, 20 s: 2.0)
+# Sector 028 targets observed (2 min: 181, 20 s: 2)
 129649472,321.5965,-37.8295,4.63,G03156;G03106;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25
 139121623,320.0395,-45.0219,3.97,G03156;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25
 159672173,318.2642,-39.4256,4.83,G03227;G03156;G03251;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25

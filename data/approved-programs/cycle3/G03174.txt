@@ -9,7 +9,7 @@ Type: SMALL
 Summary: Superflares (energies 10-1000X the largest solar flares) are often emitted by active M-dwarfs, raising questions about planetary habitability. Few superflares have been observed in multiple colors and at high enough cadence to resolve impulsive (10 s) flare emission. Observations are needed to characterize the flare processes in the stellar atmosphere and determine the effects of superflares on the atmospheres of rocky planets. We propose the largest survey of M-dwarf superflares, cataloguing their rapid emission profiles and temperatures with TESS 20 s cadence and simultaneous ground-based observations. 100 events will occur in Cycle 3 within the TESS FoV simultaneously to Evryscope observations, a 10X improvement in the number of superflares.
 
 
-# Sector 027 targets observed (2 min: 57, 20 s: 57.0)
+# Sector 027 targets observed (2 min: 57, 20 s: 57)
 270038761,311.7142,-28.4873,11.42,G03174;G03272;G03202;G03274;20SECONDTARGET
 441398770,310.4646,-32.4375,7.4,G03063;G03205;G03174;G03228;G03226;G03202;20SECONDTARGET
 441420874,311.2884,-32.3679,10.77,G03174;20SECONDTARGET
@@ -68,7 +68,7 @@ Summary: Superflares (energies 10-1000X the largest solar flares) are often emit
 382258517,82.578,-53.9764,9.41,G03174;G03226;G03202;20SECONDTARGET
 55604374,73.6575,-60.2346,11.83,G03174;G03052;20SECONDTARGET
 
-# Sector 028 targets observed (2 min: 78, 20 s: 78.0)
+# Sector 028 targets observed (2 min: 78, 20 s: 78)
 197598732,327.438,-41.6427,10.99,G03174;G03272;G03274;20SECONDTARGET
 152877086,337.3561,-39.0917,11.86,G03174;20SECONDTARGET
 47424873,342.2839,-28.8569,11.11,G03174;G03272;G03202;20SECONDTARGET

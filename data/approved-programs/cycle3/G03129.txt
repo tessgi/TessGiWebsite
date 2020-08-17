@@ -9,7 +9,7 @@ Type: SMALL
 Summary: We propose 2-minute cadence observations of 137 low mass stars visible in Cycle 3 and identified as hosting transiting objects in TESS Cycle 1 Full Frame Image data. Our primary objective is to obtain precise radii for the transiting companions in order to study the population statistics for giant planets orbiting low mass stars. Due to the large planet-to-star radius ratios of these systems, the planets are often observed in grazing or near-grazing orbits. In order to precisely measure the radius of the transiting object, we therefore need a robust measurement of the impact parameter. Due to the short transit durations of our targets, we require 2-minute cadence observations in order to achieve a sufficiently high temporal sampling of the in-transit data.
 
 
-# Sector 027 targets observed (2 min: 49, 20 s: 0.0)
+# Sector 027 targets observed (2 min: 49, 20 s: 0)
 126565862,314.1396,-44.363,15.26,G03129
 369215499,313.8517,-40.2579,14.33,G03129
 389471462,312.6993,-38.0871,13.55,G03129
@@ -60,7 +60,7 @@ Summary: We propose 2-minute cadence observations of 137 low mass stars visible 
 374861595,88.5897,-64.1298,14.08,G03129
 382160069,80.8918,-57.8877,14.39,G03129
 
-# Sector 028 targets observed (2 min: 82, 20 s: 0.0)
+# Sector 028 targets observed (2 min: 82, 20 s: 0)
 147083431,321.2047,-46.1579,15.09,G03129
 147331955,325.6584,-42.5867,15.82,G03129
 197757891,331.5058,-37.286,14.36,G03129

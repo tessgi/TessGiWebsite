@@ -9,7 +9,7 @@ Type: SMALL
 Summary: We propose to perform a focused search for the gravitational self-lensing signature using the TESS Cycle 3 data in order to make the first discovery of a detached compact object with a stellar companion based on gravitational self-lensing. Detection and characterization of non-interacting black holes or neutron stars with stellar companions would enable their population studies and testing of binary formation and evolution models. Towards this purpose, we propose a 2-minute target selection towards systems that are likely to have compact companions with detectable self-lensing signatures.
 
 
-# Sector 027 targets observed (2 min: 123, 20 s: 0.0)
+# Sector 027 targets observed (2 min: 123, 20 s: 0)
 101452948,301.1945,-50.3668,13.79,G03254
 128722889,299.845,-42.4883,10.91,G03254
 128972446,301.4277,-46.882,11.45,G03254
@@ -134,7 +134,7 @@ Summary: We propose to perform a focused search for the gravitational self-lensi
 382031719,78.8999,-54.1034,12.11,G03254
 55272118,76.4464,-62.1663,12.18,G03254
 
-# Sector 028 targets observed (2 min: 92, 20 s: 0.0)
+# Sector 028 targets observed (2 min: 92, 20 s: 0)
 197711992,330.3025,-40.1112,12.59,G03166;G03254
 204498643,326.7908,-35.7949,13.18,G03254
 207076474,320.0983,-40.2924,11.99,G03166;G03254

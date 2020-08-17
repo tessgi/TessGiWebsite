@@ -9,7 +9,7 @@ Type: SMALL
 Summary: Exoplanet characterization is a critical component of current exoplanetary science. In particular, characterization of known exoplanetary systems enables studies of planetary structure and atmospheres, system architectures, orbital dynamics, and the refinement of exoplanet host star properties. This proposal continues our highly successful Cycle 1 & 2 programs and aims to ensure that all known southern hemisphere exoplanet host stars are included in the TESS Cycle 3 target list. The three main science goals of the observations are: (a) observations of potential transits and phase variations, (b) refined transit ephemerides enabling spectroscopic follow-up with future space-based facilities, and (c) detailed stellar properties through astroseismology modeling.
 
 
-# Sector 027 targets observed (2 min: 49, 20 s: 23.0)
+# Sector 027 targets observed (2 min: 49, 20 s: 23)
 100566492,309.5112,-48.4621,11.12,G03278;G03181;G03106;20SECONDTARGET
 369455629,311.6734,-41.821,11.45,G03278;G03181;G03106;20SECONDTARGET
 389352124,311.0428,-39.2256,9.05,G03278;G03165;G03181;G03106;20SECONDTARGET
@@ -60,7 +60,7 @@ Summary: Exoplanet characterization is a critical component of current exoplanet
 149603524,87.1398,-63.9883,9.71,G03080;G03278;G03280;G03181;G03106;20SECONDTARGET
 374859347,88.5171,-60.0238,6.25,G03272;G03227;G03106
 
-# Sector 028 targets observed (2 min: 67, 20 s: 30.0)
+# Sector 028 targets observed (2 min: 67, 20 s: 30)
 129649472,321.5965,-37.8295,4.63,G03156;G03106;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25
 197686484,329.3334,-37.7643,6.95,G03227;G03106;G03251
 207077681,320.7629,-40.0485,12.31,G03278;G03181;G03106;20SECONDTARGET

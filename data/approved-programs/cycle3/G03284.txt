@@ -9,7 +9,7 @@ Type: SMALL
 Summary: Short-period (< 2 hr) cataclysmic variables (spCVs) play a crucial role in understanding fundamental white dwarf physics, binary evolution, progenitors models of supernovae, and the gravitational wave sky. We propose the first continuous high-cadence population study of 99 bright spCV candidates, including 30 systems that will be viewed for 9+ sectors. The short integration mode (20 s or 2 min) should lead to period recovery for even the tightest binaries in our sample and radial velocity followup will yield masses. Constraining system and component parameters, especially for eclipsing systems, will help uncover new coherent LISA sources.
 
 
-# Sector 027 targets observed (2 min: 54, 20 s: 54.0)
+# Sector 027 targets observed (2 min: 54, 20 s: 54)
 140579075,68.221,-77.6084,15.03,G03284;20SECONDTARGET
 260892806,72.4679,-81.8664,16.77,G03284;20SECONDTARGET
 274213609,29.9016,-84.4069,16.25,G03284;20SECONDTARGET
@@ -65,7 +65,7 @@ Summary: Short-period (< 2 hr) cataclysmic variables (spCVs) play a crucial role
 734560548,89.8385,-54.8701,17.4,G03284;20SECONDTARGET
 734616311,82.4365,-53.2644,14.41,G03284;20SECONDTARGET
 
-# Sector 028 targets observed (2 min: 53, 20 s: 53.0)
+# Sector 028 targets observed (2 min: 53, 20 s: 53)
 350152284,53.1024,-78.5643,16.74,G03284;20SECONDTARGET
 425825409,19.1492,-77.1432,17.09,G03284;20SECONDTARGET
 612298741,16.8791,-74.9693,17.51,G03284;20SECONDTARGET

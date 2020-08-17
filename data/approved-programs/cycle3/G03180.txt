@@ -9,8 +9,8 @@ Type: SMALL
 Summary: AM CVns are binaries with 5<P_orb<66 mins in which a white dwarf accretes He-rich material from another WD. Only few systems are known so far and their outbursts not well understood. Recent studies that include more data and exclude upper limits have shown that the relation P_orb and superoutburst duration is much flatter than believed. Likely the relations between P_{orb} and recurrence time, and amplitude are strongly affected as well. This has implications for accretion models in AM CVns. For TESS Cycle 3 we request the monitoring of 5 systems at 2 mins cadence and 7 targets at 30 mins cadence to: 1) determine P_orb for 3 systems during outburst, 2) study the characteristics of the outbursts and test existing relations, 3) compare the outbursts of AM CVns and H-rich CVs.
 
 
-# Sector 027 targets observed (2 min: 1, 20 s: 0.0)
+# Sector 027 targets observed (2 min: 1, 20 s: 0)
 735229757,96.8354,-75.226,20.36,G03180
 
-# Sector 028 targets observed (2 min: 1, 20 s: 0.0)
+# Sector 028 targets observed (2 min: 1, 20 s: 0)
 735229757,96.8354,-75.226,20.36,G03180

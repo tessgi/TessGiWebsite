@@ -9,7 +9,7 @@ Type: SMALL
 Summary: Exomoons remain persistently evasive to modern astronomy. Their detection holds much promise regarding how planetary systems form and evolve. Recently, we discovered a novel means of identifying exomoons using transit timing variations (TTVs) that is applicable to TESS data. Orbital stability demands that moons will be sufficiently short period that their associated TTV signal will always be above the Nyquist frequency (undersampled). Our new work shows that exomoons appear as longer period TTV aliases, piling up close to the Nyquist frequency, unlike planet-planet TTV signals that are preferentially longer period. We identify 63 Southern TOIs capable of hosting potentially detectable moons using TESS, which we will analyze with this approach to identify exomoon candidates for follow-up.
 
 
-# Sector 027 targets observed (2 min: 28, 20 s: 26.0)
+# Sector 027 targets observed (2 min: 28, 20 s: 26)
 389525208,313.2614,-38.5949,10.07,G03251;G03068
 451606970,285.0498,-84.4482,10.03,G03278;G03068;20SECONDTARGET
 319259194,71.6509,-78.5616,9.53,G03278;G03068;20SECONDTARGET
@@ -39,7 +39,7 @@ Summary: Exomoons remain persistently evasive to modern astronomy. Their detecti
 350618622,87.4018,-54.9103,8.58,G03278;G03068;20SECONDTARGET
 55525572,72.694,-60.9055,9.85,G03278;G03251;G03068;20SECONDTARGET
 
-# Sector 028 targets observed (2 min: 33, 20 s: 28.0)
+# Sector 028 targets observed (2 min: 33, 20 s: 28)
 155995204,7.6586,-52.0493,13.53,G03068
 281781375,12.9763,-59.3439,9.22,G03278;G03068;20SECONDTARGET
 220518305,41.4677,-64.3207,10.29,G03068

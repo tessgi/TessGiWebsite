@@ -9,7 +9,7 @@ Type: LARGE
 Summary: Delta Scuti and roAp stars are classes of pulsators sharing the same region of the HR diagram. For decades their pulsations were thought to have different origins, but data from TESS revealed an apparent overlap in their pulsation properties questioning our understanding of the excitation mechanisms at work. We propose to: 1) characterize the statistical distributions of the scaled pulsation frequencies in these pulsators, including the determination of the so far unknown high-frequency end of the roAp star phenomena and; 2) establish whether hybrid delta Scuti-roAp stars exist. These results, which will be key to advance our understanding of the origin of the pulsation in this region of the HR diagram, can now be achieved thanks to the survey-nature of TESS and its 20-sec cadence mode.
 
 
-# Sector 027 targets observed (2 min: 288, 20 s: 26.0)
+# Sector 027 targets observed (2 min: 288, 20 s: 26)
 128790295,300.1938,-43.1037,10.27,G03252
 128798617,300.404,-42.4078,9.14,G03255;G03252
 129211570,303.0932,-46.1667,8.91,G03252
@@ -299,7 +299,7 @@ Summary: Delta Scuti and roAp stars are classes of pulsators sharing the same re
 382258769,82.5664,-54.6857,10.66,G03252
 55271188,76.2756,-60.1366,10.05,G03252
 
-# Sector 028 targets observed (2 min: 191, 20 s: 17.0)
+# Sector 028 targets observed (2 min: 191, 20 s: 17)
 197614651,327.871,-40.0448,9.23,G03252
 197686479,329.259,-37.7468,5.86,G03255;G03252
 197759259,331.5552,-41.3105,8.68,G03252

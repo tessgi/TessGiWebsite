@@ -9,7 +9,7 @@ Type: KEY PROJECT
 Summary: Studies of small close-in planets have revealed a gap in their radius distribution whose central radius shifts to smaller sizes with decreasing stellar mass in broad agreement with physical models of the emergence of the radius valley. Thermally driven mass loss and gas-poor formation models can explain the existence of the radius valley but make distinct predictions regarding its central radius versus stellar mass with the model discrepancies being greatest around the lowest mass M dwarfs. We propose to target a uniform sample of mid-to-late M dwarfs in the TESS extended mission to resolve the central radius of the valley. Comparison of these measurements to the valley around Sun-like stars will enable the distinction between competing radius valley emergence models versus stellar mass.
 
 
-# Sector 027 targets observed (2 min: 583, 20 s: 31.0)
+# Sector 027 targets observed (2 min: 583, 20 s: 31)
 101354483,300.2808,-49.8055,12.49,G03274
 128706893,299.435,-45.8103,13.84,G03274
 128797629,300.3198,-42.6636,13.34,G03274
@@ -594,7 +594,7 @@ Summary: Studies of small close-in planets have revealed a gap in their radius d
 55652063,74.0014,-61.1664,10.37,G03126;G03274
 55745883,74.8821,-61.8843,10.2,G03264;G03274
 
-# Sector 028 targets observed (2 min: 550, 20 s: 32.0)
+# Sector 028 targets observed (2 min: 550, 20 s: 32)
 129680641,321.7733,-38.7515,11.77,G03274
 144201151,328.2903,-42.4123,13.73,G03274
 144218285,328.5719,-43.6036,12.41,G03274

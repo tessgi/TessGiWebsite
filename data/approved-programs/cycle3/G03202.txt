@@ -9,7 +9,7 @@ Type: SMALL
 Summary: We propose to use TESS 20-second cadence data to study flares on 976 low mass stars which are known to exhibit flares during TESS Cycle 1. This is the first time a large and systematic study of the flares on low mass stars will be performed using higher cadence data. We will use this data to i) study flare frequency distributions (FFDs) for a wider range of flare energies than previously observed by the Kepler and TESS missions, ii) examine if FFDs of some flaring stars follow broken power laws, iii) study variation of flare rates as a function of spectral types and ages, iv) develop flare model based on more precise rise and decay time scales, and v) develop flare analysis software 'xoflare' which will make flare studies more convenient in future.
 
 
-# Sector 027 targets observed (2 min: 218, 20 s: 52.0)
+# Sector 027 targets observed (2 min: 218, 20 s: 52)
 115190256,317.4667,-39.8385,12.56,G03202;G03052
 126805047,317.1597,-42.7489,11.94,G03202;G03226
 126945045,318.6401,-42.2319,13.15,G03202;G03226
@@ -229,7 +229,7 @@ Summary: We propose to use TESS 20-second cadence data to study flares on 976 lo
 382258517,82.578,-53.9764,9.41,G03174;G03226;G03202;20SECONDTARGET
 55663720,74.2119,-60.0309,12.53,G03264;G03202
 
-# Sector 028 targets observed (2 min: 229, 20 s: 65.0)
+# Sector 028 targets observed (2 min: 229, 20 s: 65)
 115190256,317.4667,-39.8385,12.56,G03202;G03052
 126945045,318.6401,-42.2319,13.15,G03202;G03226
 207080123,320.969,-39.1385,10.88,G03202;G03226;G03274

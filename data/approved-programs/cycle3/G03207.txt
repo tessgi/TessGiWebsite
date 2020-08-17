@@ -9,7 +9,7 @@ Type: SMALL
 Summary: Many white dwarfs have been found to have their surfaces "polluted" by remnant rocky bodies from their progenitors' planetary systems. These polluted white dwarfs are our best observational probe of exoplanet interior chemical compositions, which they can reveal with exquisite sensitivity. However, without a good understanding of the origins of white dwarf pollution, it is impossible to fully leverage the information about chemical compositions from the pollution on their surfaces. Using TESS we will study the origins and process of white dwarf pollution by identifying transiting disintegrating minor planets on their way to polluting white dwarfs. This will help to properly interpret the information about planetary compositions from the surfaces of white dwarfs.
 
 
-# Sector 027 targets observed (2 min: 570, 20 s: 30.0)
+# Sector 027 targets observed (2 min: 570, 20 s: 30)
 101359698,300.4472,-50.0014,15.52,G03207;G03124
 128879934,300.953,-47.8013,16.07,G03207;G03124
 129031954,301.5416,-43.9321,15.59,G03207;G03124
@@ -581,7 +581,7 @@ Summary: Many white dwarfs have been found to have their surfaces "polluted" by 
 737365188,93.0211,-59.6891,17.13,G03207
 737562486,90.1586,-54.8495,17.19,G03207
 
-# Sector 028 targets observed (2 min: 575, 20 s: 41.0)
+# Sector 028 targets observed (2 min: 575, 20 s: 41)
 129683429,321.9015,-41.7557,16.28,G03207;G03221;G03124
 147112823,321.508,-42.4146,15.29,G03207;G03124
 147249287,323.8012,-44.607,17.11,G03207

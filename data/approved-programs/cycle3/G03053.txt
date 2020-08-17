@@ -9,7 +9,7 @@ Type: SMALL
 Summary: TESS has observed thousands of solar-type stars during its initial 2-year mission. Returning to sectors and observing these stars again will open doors into the study of magnetic variability and allow for the search of stellar cycles much like the Sun. In this proposal, we would like to return to observe solar-type stars from Cycle 1 which were a part of our initial study to investigate if the stars exhibit any changing magnetic behaviour.
 
 
-# Sector 027 targets observed (2 min: 443, 20 s: 11.0)
+# Sector 027 targets observed (2 min: 443, 20 s: 11)
 61275837,287.2106,-42.4288,7.08,G03227;G03053;G03251
 97919620,289.6782,-41.7081,9.82,G03053
 97914505,289.5534,-38.3851,7.62,G03227;G03053
@@ -454,7 +454,7 @@ Summary: TESS has observed thousands of solar-type stars during its initial 2-ye
 55780996,75.4851,-60.5119,9.72,G03272;G03053
 55848818,75.8311,-62.1982,10.97,G03053
 
-# Sector 028 targets observed (2 min: 430, 20 s: 10.0)
+# Sector 028 targets observed (2 min: 430, 20 s: 10)
 214772274,341.64,-39.4792,8.83,G03272;G03053
 229066844,345.1178,-33.7459,7.83,G03053;G03251
 278634010,333.8975,-39.0143,8.52,G03272;G03053

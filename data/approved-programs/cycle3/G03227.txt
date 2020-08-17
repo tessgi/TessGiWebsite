@@ -9,7 +9,7 @@ Type: SMALL
 Summary: Activity cycles are the key to understanding the origin of the stellar magnetic dynamo, but are notoriously difficult to constrain for stars without expensive spectroscopic data. Flares offer a new way to reliably probe activity cycles using photometry alone. Using TESS 2-min data for a sample of stars already having legacy activity cycle spectroscopy observations, we will calibrate this flare-cycle connection, and establish benchmark flare rates for these key stars.
 
 
-# Sector 027 targets observed (2 min: 280, 20 s: 18.0)
+# Sector 027 targets observed (2 min: 280, 20 s: 18)
 101400058,300.6497,-50.0549,7.57,G03227
 129277485,303.3614,-46.2014,7.69,G03227;G03251
 158403855,289.0736,-48.4665,7.51,G03227;G03251
@@ -291,7 +291,7 @@ Summary: Activity cycles are the key to understanding the origin of the stellar 
 381949122,76.3774,-57.472,4.22,G03156;G03227;G03251;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25;20SECONDTARGET
 381949148,76.447,-57.5531,7.36,G03174;G03272;G03227;G03228;20SECONDTARGET
 
-# Sector 028 targets observed (2 min: 291, 20 s: 16.0)
+# Sector 028 targets observed (2 min: 291, 20 s: 16)
 139112038,319.6155,-43.3345,6.16,G03227;G03272;G03251
 139120863,320.0214,-42.6788,7.7,G03227
 147113992,321.7575,-44.8075,6.69,G03272;G03227;G03251
