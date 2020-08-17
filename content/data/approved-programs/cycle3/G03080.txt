@@ -9,9 +9,16 @@ Type: SMALL
 Summary: The technique of transmission spectroscopy --- the wavelength-dependent change in the planetary radii due to opacity sources in its atmosphere --- has been one of the main workhorses of the field of exoplanet atmospheres in terms of providing constraints on the atmospheric elemental abundances in gas giant exoplanets. To date, this technique relies on one simple, key assumption: the terminator region we observe during transit is homogeneous. In this work, we aim to test this assumption, proposing to detect signatures of terminator inhomogeneities using the most precise transit lightcurves to be obtained by the TESS mission during its extended mission.
 
 
-# Sector 027 targets observed (2 min: 5)
-25155310,63.375,-69.2265,10.61,G03080;G03278;G03280;G03106
-38846515,68.9599,-64.027,10.32,G03080;G03232;G03278;G03181;G03106
-55652896,73.9799,-63.2604,11.57,G03080;G03278;G03106;G03068
-271893367,112.9653,-73.606,10.9,G03080;G03232;G03278;G03181;G03106
-149603524,87.1398,-63.9883,9.71,G03080;G03278;G03280;G03181;G03106
+# Sector 027 targets observed (2 min: 5, 20 s: 5)
+25155310,63.375,-69.2265,10.61,G03080;G03278;G03280;G03106;20SECONDTARGET
+38846515,68.9599,-64.027,10.32,G03080;G03232;G03278;G03181;G03106;20SECONDTARGET
+55652896,73.9799,-63.2604,11.57,G03080;G03278;G03106;G03068;20SECONDTARGET
+271893367,112.9653,-73.606,10.9,G03080;G03232;G03278;G03181;G03106;20SECONDTARGET
+149603524,87.1398,-63.9883,9.71,G03080;G03278;G03280;G03181;G03106;20SECONDTARGET
+
+# Sector 028 targets observed (2 min: 5, 20 s: 5)
+25155310,63.375,-69.2265,10.61,G03080;G03278;G03280;G03106;20SECONDTARGET
+38846515,68.9599,-64.027,10.32,G03080;G03232;G03278;G03181;G03106;20SECONDTARGET
+55652896,73.9799,-63.2604,11.57,G03080;G03278;G03106;G03068;20SECONDTARGET
+271893367,112.9653,-73.606,10.9,G03080;G03232;G03278;G03181;G03106;20SECONDTARGET
+149603524,87.1398,-63.9883,9.71,G03080;G03278;G03280;G03181;G03106;20SECONDTARGET

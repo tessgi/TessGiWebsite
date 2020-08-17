@@ -9,5 +9,5 @@ Type: SMALL
 Summary: M dwarfs stars are the most abundant stellar type and are known to frequently host small planets. M dwarfs exhibit high levels of activity, subjecting planets to significantly more radiation than we receive from the Sun. Just how much this affects their potential habitability remains unclear. We propose to study five highly active M dwarfs, three of which are known planets hosts, using simultaneous TESS 20-second cadence optical data and Swift's X-ray/ultraviolet observations. The combined data will provide a deeper understanding of M dwarf activity in unprecedented detail, enabling us to identify relations between optical, UV, and X-ray activity for low mass stars that will provide valuable inputs into exoplanet atmosphere and habitability models.
 
 
-# Sector 027 targets observed (2 min: 1)
-441420236,311.2916,-31.343,6.75,G03263;G03273;G03141;G03063;G03205;G03272;G03227;G03228;G03226;G03202
+# Sector 027 targets observed (2 min: 1, 20 s: 1)
+441420236,311.2916,-31.343,6.75,G03263;G03273;G03141;G03063;G03205;G03272;G03227;G03228;G03226;G03202;20SECONDTARGET
