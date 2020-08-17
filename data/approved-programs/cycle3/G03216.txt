@@ -9,7 +9,7 @@ Type: SMALL
 Summary: M-dwarfs are enticing targets for small transiting planets in the habitable zone. TESS will find hundreds, some bright enough for atmospheric probing by JWST. However, the field is frustrated by poor constraints on the host M-dwarfs. The EBLM program was created to solve this. Through EBLM over 400 eclipsing binaries have been found with F/G + M stars, with 11+ years of spectroscopy to unveil masses and metallicities. We now require TESS short cadence lightcurves to obtain primary and secondary eclipses, and hence measure the radius and temperature. We propose to re-observe our Cycle 1 sample to improve the SNR, and request funding to develop the most comprehensive sample of M-dwarfs known, and significantly refine the mass-radius-composition-temperature relation.
 
 
-# Sector 027 targets observed (2 min: 26)
+# Sector 027 targets observed (2 min: 26, 20 s: 1.0)
 143291764,293.607,-42.3868,11.93,G03216
 61135882,286.995,-45.9576,12.78,G03216
 115115136,316.7963,-39.7664,11.4,G03216
@@ -33,6 +33,32 @@ Summary: M-dwarfs are enticing targets for small transiting planets in the habit
 167526485,100.5139,-60.6703,9.82,G03216
 167554898,101.3156,-61.0913,9.68,G03216;G03251
 167812449,104.7825,-61.8398,11.24,G03216;G03251
-260128333,92.1331,-59.5409,11.49,G03278;G03216;G03068
+260128333,92.1331,-59.5409,11.49,G03278;G03216;G03068;20SECONDTARGET
+350480660,85.9645,-57.1634,11.31,G03216
+382188882,81.3531,-55.0199,10.66,G03216
+
+# Sector 028 targets observed (2 min: 24, 20 s: 1.0)
+207081058,331.8676,-41.8155,9.94,G03216
+214299966,339.1681,-36.9441,10.46,G03216
+253922296,338.1261,-31.2442,9.92,G03216
+301980639,329.6372,-21.6823,11.84,G03216
+211376134,320.7411,-32.4881,10.17,G03216
+300903537,321.5468,-28.8808,12.3,G03216
+235009317,352.646,-61.9744,11.82,G03216
+139256217,347.1905,-46.1102,11.0,G03216
+143924219,332.7032,-48.8907,8.32,G03216;G03251
+219322317,328.3188,-55.9855,12.19,G03216
+39018208,12.0895,-66.1603,11.1,G03216
+52079677,17.3041,-67.919,11.9,G03216
+260756218,347.2697,-67.6433,12.69,G03216
+38850860,8.9191,-69.8143,11.51,G03216
+167201539,96.8807,-67.7717,10.97,G03216
+167208380,97.3089,-67.4198,11.64,G03216
+167812449,104.7825,-61.8398,11.24,G03216;G03251
+167526485,100.5139,-60.6703,9.82,G03216
+167554898,101.3156,-61.0913,9.68,G03216;G03251
+219201178,92.7234,-52.8963,10.82,G03216
+260128333,92.1331,-59.5409,11.49,G03278;G03216;G03068;20SECONDTARGET
+260536927,96.9482,-59.2157,11.54,G03216
 350480660,85.9645,-57.1634,11.31,G03216
 382188882,81.3531,-55.0199,10.66,G03216

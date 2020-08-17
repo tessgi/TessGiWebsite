@@ -9,10 +9,17 @@ Type: SMALL
 Summary: We propose TESS observations of a select set of cool DC (He-rich) and DQ (trace C) white dwarfs. The objective is to detect coherent photometric modulations due to white dwarf rotation. Such variations have been observed in hotter DA (H-rich) white dwarfs, where frozen-in magnetic spots produce azimuthal photospheric asymmetries. Due to the low temperatures and the lack of spectroscopic hydrogen, magnetic fields are hard to detect in DQ and DC stars. Detections of coherent modulations in DQ or DC stars would be strong evidence for the existence of magnetic fields. There is strong observational and theoretical evidence that white dwarf magnetic fields are the signature of binary merger events which would help account for the well-established lack of white dwarfs in binary systems.
 
 
-# Sector 027 targets observed (2 min: 6)
-201730948,303.1364,-59.9556,15.17,G03207;G03124;G03178
+# Sector 027 targets observed (2 min: 6, 20 s: 1.0)
+201730948,303.1364,-59.9556,15.17,G03207;G03124;G03178;20SECONDTARGET
 325341805,337.6489,-75.2672,15.7,G03207;G03124;G03178
 325341811,337.6758,-75.2424,15.49,G03207;G03124;G03178
 426018482,43.2004,-75.3777,16.23,G03207;G03178
 300013123,107.2145,-67.1093,15.38,G03207;G03124;G03178
 220476416,75.6804,-55.4446,16.11,G03207;G03124;G03178
+
+# Sector 028 targets observed (2 min: 5, 20 s: 2.0)
+53950266,328.7537,-27.843,15.81,G03207;G03124;G03178
+140045537,329.4094,-51.011,14.24,G03174;G03207;G03124;G03178;20SECONDTARGET
+426018482,43.2004,-75.3777,16.23,G03207;G03178
+300013123,107.2145,-67.1093,15.38,G03207;G03124;G03178
+306826966,121.7288,-66.3063,13.69,G03207;G03124;G03178;20SECONDTARGET

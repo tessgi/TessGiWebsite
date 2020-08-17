@@ -9,10 +9,17 @@ Type: SMALL
 Summary: Prior to the era of regular space-based photometry, oscillations in solar-like stars were detectable only through heroic radial-velocity efforts from the ground or, in a handful of cases, from earlier space missions such as WIRE, MOST, and CoRoT. In contrast, Kepler allowed us to determine fundamental asteroseismic parameters for hundreds of main sequence stars as well as thousands of red giants. However, despite these successes, a gap remains at the bottom of the main sequence in the asteroseismic HR diagram. Here we propose to attempt to fill that gap using TESS 20-s cadence data. TESS is ideally suited to photometric detection of M dwarf oscillations due to its unique combination of red sensitivity and short observing cadence.
 
 
-# Sector 027 targets observed (2 min: 6)
-142086812,98.4235,-75.6284,8.2,G03107;G03174;G03227;G03228
-142086813,98.4373,-75.6235,8.97,G03107;G03174;G03228;G03274
-150139182,92.7519,-65.2101,9.51,G03107;G03126;G03264;G03272
-278779899,99.9029,-55.6096,8.09,G03107;G03227;G03272;G03228
-220473309,75.1967,-57.2566,8.46,G03107;G03227;G03272;G03226;G03202;G03052
-260004324,91.0917,-55.3111,10.14,G03264;G03107;G03278;G03272
+# Sector 027 targets observed (2 min: 6, 20 s: 6.0)
+142086812,98.4235,-75.6284,8.2,G03107;G03174;G03227;G03228;20SECONDTARGET
+142086813,98.4373,-75.6235,8.97,G03107;G03174;G03228;G03274;20SECONDTARGET
+150139182,92.7519,-65.2101,9.51,G03107;G03126;G03264;G03272;20SECONDTARGET
+278779899,99.9029,-55.6096,8.09,G03107;G03227;G03272;G03228;20SECONDTARGET
+220473309,75.1967,-57.2566,8.46,G03107;G03227;G03272;G03226;G03202;G03052;20SECONDTARGET
+260004324,91.0917,-55.3111,10.14,G03264;G03107;G03278;G03272;20SECONDTARGET
+
+# Sector 028 targets observed (2 min: 5, 20 s: 5.0)
+220473309,75.1967,-57.2566,8.46,G03107;G03227;G03272;G03226;G03202;G03052;20SECONDTARGET
+142086812,98.4234,-75.6284,8.2,G03107;G03174;G03227;G03228;20SECONDTARGET
+142086813,98.4373,-75.6235,8.97,G03107;G03174;G03228;G03274;20SECONDTARGET
+260004324,91.0917,-55.311,10.14,G03264;G03107;G03278;G03272;20SECONDTARGET
+278779899,99.9029,-55.6096,8.09,G03107;G03227;G03272;G03228;20SECONDTARGET
