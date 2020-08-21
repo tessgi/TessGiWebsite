@@ -34,7 +34,7 @@ THEME = "themes/pelican-bootstrap3-kepler"
 BOOTSTRAP_THEME = 'cosmo'
 BOOTSTRAP_FLUID = False
 
-BANNER = "images/tess-banner-inverted_v2.jpg"
+BANNER = "images/bn1.jpeg"
 HIDE_SITENAME = False
 
 IGNORE_FILES = [
@@ -89,57 +89,59 @@ MENUITEMS = (
             ('Telescope', 'the-tess-space-telescope.html'),
             ('Primary Mission', 'primary.html'),
             ('Extended Mission', 'extended.html'),
-            )
-         ),
+            ('Publications', 'publications.html'),
+                    )
+        ),
         ('TESS Data', (
             ('Data Pipeline', 'data-handel.html'),
             ('Data Products', 'data-products.html'),
             ('Data Access', 'data-access.html'),
             ('Community Products', 'community.html'),
             ('Documentation', 'documentation.html'),
-        )
-         ),
+                      )
+        ),
         ('Observations', (
             ('Technical Details', 'observing-technical.html'),
             ('Sector Dates', 'sector.html'),
-            )
+                         )
         ),
         ('Tools', (
-            ('TESS Software Tools', 'software.html'),
-          )
+            ('Proposal & Observation Tools', 'proposal-tools.html'),
+            ('Data analysis Tools', 'tools2.html'),
+            ('Community Tools', 'tools3.html'),
+                  )
         ),
         ('Proposing', (
-            ('Guest Investigator Program', 'proposing-investigations.html'),
-            ('Proposal tools', 'proposal-tools.html'),
+            ('Guest Investigator Proposals', 'proposing-investigations.html'),
+            ("Director's Discretionary Target program", 'ddt.html'),
+            ('Proposal Tips', 'proposal-tips.html'),
+            ('Proposal Templates', 'proposal-templates.html'),
             ('Approved GI Programs', 'approved-programs.html'),
-          )
+                      )
         ),
         ('Education & Outreach', (
             ('Resources', 'gallery.html'),
             ('Media support', 'media.html'),
-            )
-         ),
+                                 )
+        ),
         ('News', 'archives.html'),
         ('FAQ', 'faq.html'),
-        ('HEASARC', 'https://heasarc.gsfc.nasa.gov')
         )
 
 # Defines the "key information" box on the front page
 KEY_INFORMATION = (
-    # ('Proposal submission page', 'https://heasarc.gsfc.nasa.gov/ark/rps/'),
+    ('The TESS extended mission', 'extended.html'),
+    ('Telescope Information', 'the-tess-space-telescope.html'),
+    ('Understanding TESS data products', 'data-products.html'),
+    ('How to access the data', 'data-access.html'),
     ('Web TESS Target Tool', 'https://heasarc.gsfc.nasa.gov/cgi-bin/tess/webtess/wtv.py'),
-    #('Observatory Guide', 'documentation.html'),
-    ('Observing dates', 'https://heasarc.gsfc.nasa.gov/docs/tess/status.html'),
-    ('Data at MAST', 'http://archive.stsci.edu/tess/summary.html'),    
+    ('Observing dates', 'sector.html'),
+    ('Proposing science', 'proposing-investigations.html'),
     ('Frequently asked questions', 'faq.html'),
-    ('Volunteer to serve on a review panel',
-        'https://goo.gl/forms/p4ZqiTQSEHjbM6nz2'),
+    ('Volunteer to serve on a review','https://goo.gl/forms/p4ZqiTQSEHjbM6nz2'),
     ('Do you have a news-worthy TESS result?', 'media.html'),
-    ('Contact us', 'helpdesk.html'),
-    # ('Cycle 1 Proposal submission',
-    #     '[https://heasarc.gsfc.nasa.gov/ark/rps/'),
-    # ('Simulated data', 'data-access.html#simulated-data'),
-) # make the simulated data link work!
+    )
+
 
 # Defines the "important dates" box on the front page
 IMPORTANT_DATES = (
