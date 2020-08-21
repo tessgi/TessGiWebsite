@@ -97,7 +97,11 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <link href="{{ SITEURL }}/theme/css/exoplanet_archive_icons.css" rel="stylesheet">
     <link href="{{ SITEURL }}/theme/css/mission_icons.css" rel="stylesheet">
-
+    <link href="{{ SITEURL }}/theme/css/photobanner.css" rel="stylesheet">
+    <link href="{{ SITEURL }}/theme/css/slide-container.css" rel="stylesheet">
+    <link href="{{ SITEURL }}/theme/css/slide-transition.css" rel="stylesheet"> 
+    <link href="{{ SITEURL }}/theme/css/slide-transition2.css" rel="stylesheet"> 
+    
     <link href="{{ SITEURL }}/theme/css/pygments/{{ PYGMENTS_STYLE|default('native') }}.css" rel="stylesheet">
     {% if 'tipue_search' in PLUGINS %}
     <link href="{{ SITEURL}}/theme/tipuesearch/tipuesearch.css" rel="stylesheet">
@@ -189,7 +193,7 @@ in August 2015, using pelican-bootstrap and flatly.
             </ul>
             
             {% if RELATEDSITES %}
-            <ul class="nav navbar-nav navbar-right">
+            <ul class="nav navbar-nav">
                 <li>
                     <a href="{{ SITEURL }}/helpdesk.html"><i class="fa fa-info-circle fa-lg"></i> Helpdesk</a>
                 </li>
