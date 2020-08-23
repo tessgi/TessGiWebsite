@@ -1,0 +1,16 @@
+# TESS Program G03127
+
+Title: Optical Studies Of Thermonuclear Burst Recurrence Times
+
+PI: Maccarone, Thomas - Texas Tech University
+
+Type: SMALL
+
+Summary: Thermonuclear bursts on the surfaces of neutron stars are excellent probes of nuclear physics. Understanding the relationship between the burst recurrence times and the accretion rates onto the neutron stars has traditionally been challenging for X-ray telescopes because the satellites best suited to measure the bursts are in low Earth orbit, with occulations on timescales comparable to the burst recurrence timescales. The X-ray bursts are accompanied by optical bursts from reprocesing in the outer accretion disks, and with the 20-second cadence capability on TESS, it is finally possible to detect the bursts for a large sample of neutron stars. Here we propose to measure the burst recurrence rates using 20-second cadence data on 15 accreting neutron stars.
+
+
+# Sector 027 targets observed (2 min: 1, 20 s: 1)
+300863975,117.1243,-67.7569,18.22,G03127;20SECONDTARGET
+
+# Sector 028 targets observed (2 min: 1, 20 s: 1)
+300863975,117.1243,-67.7569,18.22,G03127;20SECONDTARGET

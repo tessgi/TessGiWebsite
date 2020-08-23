@@ -1,0 +1,25 @@
+# TESS Program G03182
+
+Title: Towards Consistency Between Rotational And Seismic Ages For Bright Field Stars
+
+PI: Barnes, Sydney - Leibniz-Institut Fur Astrophysik Potsdam (Aip)
+
+Type: SMALL
+
+Summary: We request 20sec cadence observations with TESS for a carefully curated sample of cool stars that our team considers to be the best-characterized in terms of rotation and activity indicators. The aim is to derive asteroseismic properties for this sample, to enable the best-possible comparison between the seismic and rotational evolutionary states of the stars, including ideally, ages.
+
+
+# Sector 027 targets observed (2 min: 5, 20 s: 1)
+100606047,309.7592,-49.3313,6.76,G03272;G03227;G03182;G03251
+212354618,310.4788,-27.216,8.58,G03272;G03182
+320004517,293.2869,-54.5328,8.09,G03278;G03272;G03182;20SECONDTARGET
+267083739,0.1673,-69.6764,7.48,G03272;G03227;G03182
+273418879,343.9163,-75.4647,8.11,G03227;G03228;G03182
+
+# Sector 028 targets observed (2 min: 6, 20 s: 0)
+200665593,2.8781,-49.6295,8.47,G03182;G03102
+281498595,6.1793,-53.9842,6.67,G03227;G03182;G03251
+71314712,330.6327,-47.6776,8.24,G03182
+231836962,24.4731,-60.5115,6.76,G03272;G03227;G03182;G03106;G03251
+267083739,0.1673,-69.6764,7.48,G03272;G03227;G03182
+273418879,343.9162,-75.4647,8.11,G03227;G03228;G03182

@@ -1,0 +1,27 @@
+# TESS Program G03035
+
+Title: Asteroseismology Of Late-Type Dwarfs
+
+PI: Basu, Sarbani - Yale University
+
+Type: SMALL
+
+Summary: We propose to do an asteroseismic characterization of late-type dwarfs. These stars pulsate very rapidly, and the new 20 second cadence mode of TESS is ideal for observing these stars. There are three science goals of this investigation: (1) To determine the mass, radius and ages of these stars; (2) To examine whether the mass-radius relationship in these lower-mass main-sequence stars is the same those of the earlier-type main-sequence stars; and (3) To extend the age-activity relation to lower masses.
+
+
+# Sector 027 targets observed (2 min: 6, 20 s: 1)
+409891396,302.1989,-66.1885,2.84,G03272;G03156;G03227;G03035;G03251;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25
+351604689,310.0146,-60.5521,4.61,G03227;G03156;G03035;G03251;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25
+277774779,343.6638,-70.0733,5.47,G03227;G03035;G03106;G03251
+327303574,310.4373,-75.3517,5.93,G03227;G03035;G03106;G03251
+261136679,84.3019,-80.4631,5.11,G03272;G03278;G03227;G03035;G03106;G03251;20SECONDTARGET
+394234013,24.4872,-82.9743,5.3,G03227;G03035;G03251
+
+# Sector 028 targets observed (2 min: 7, 20 s: 1)
+394125166,348.5334,-62.7024,5.42,G03035;G03106;G03251
+161265414,341.5353,-48.9791,6.04,G03227;G03035;G03251
+161314759,343.4099,-48.5987,5.47,G03227;G03035;G03106;G03251
+281667171,10.1169,-59.4521,5.37,G03227;G03035;G03251
+277774779,343.6638,-70.0733,5.47,G03227;G03035;G03106;G03251
+394234013,24.4872,-82.9743,5.3,G03227;G03035;G03251
+261136679,84.302,-80.4631,5.11,G03272;G03278;G03227;G03035;G03106;G03251;20SECONDTARGET

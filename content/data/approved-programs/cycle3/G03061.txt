@@ -1,0 +1,13 @@
+# TESS Program G03061
+
+Title: Searching For Shock-Induced Brightenings In Cepheid Light Curves
+
+PI: Guzik, Joyce - New Mexico Consortium & Los Alamos National Laboratory
+
+Type: SMALL
+
+Summary: We propose to observe 73 Cepheids during TESS Cycle 3 in 2-min cadence. The prototype delta Cep shows phased brightenings in X-ray from Chandra and XMM data According to Engle et al. (2017), "If additional Cepheids are confirmed to show phased X-ray variations, then delta Cep will be the prototype of a new class of pulsation-induced X-ray variables." Our objective is to determine whether Cepheids show transient, possibly phased, brightenings in their optical light curves, which would motivate X-ray observations. 2-min cadence is needed to time-resolve the rise of a brightening event, and to increase S/N to detect a low-amplitude event. 2-min cadence is also needed to reveal features in Cepheid light curves caused by turbulence, etc., that will inform envelope and atmosphere models.
+
+
+# Sector 027 targets observed (2 min: 1, 20 s: 0)
+149346418,83.4063,-62.4898,3.26,G03156;G03061;G03169;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25

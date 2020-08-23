@@ -1,0 +1,19 @@
+# TESS Program G03118
+
+Title: Unveiling Blazar Variability On The Shortest Observable Time Scales. Ii
+
+PI: Raiteri, Claudia - Istituto Nazionale Di Astrofisica (Inaf)
+
+Type: SMALL
+
+Summary: Blazars are active galactic nuclei exhibiting extreme variability on different time scales, down to minutes. Their emission is dominated by non-thermal radiation from a relativistic jet pointing toward us, with consequent Doppler beaming. We propose 2 min cadence observations of a small sample of optically and gamma-ray bright blazars to investigate their variability on the shortest accessible time scales. We will analyse TESS light curves with time series methods to infer the most plausible scenarios for blazar variability in general, and microvariability in particular. Multiband photometric and polarimetric supporting observations by the WEBT Collaboration and other ground-based facilities, and space high-energy observations by Fermi and Swift will maximize the scientific return.
+
+
+# Sector 027 targets observed (2 min: 2, 20 s: 0)
+101620268,302.3558,-48.8316,14.28,G03026;G03118
+177181728,105.1302,-66.1792,14.86,G03118
+
+# Sector 028 targets observed (2 min: 3, 20 s: 0)
+147285145,324.8507,-42.589,14.99,G03118
+229013191,329.7169,-30.2256,13.54,G03012;G03026;G03118
+177181728,105.1302,-66.1792,14.86,G03118

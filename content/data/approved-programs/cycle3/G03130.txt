@@ -8,3 +8,11 @@ Type: SMALL
 
 Summary: Planets are not born in their final state; their orbital and physical properties change as they interact with other planets and their greater environment. Young planets offer a window into these processes as well as a direct probe of the formation and evolution of planetary systems. However, the known sample of young transiting planets remains small, missing the smallest planets (proto-Earths) as well as those in the critical 50-150 Myr range. We propose an expanded search for young planets using Cycle 3 TESS data. Unlike earlier surveys, here we focus on the trove of marginal and unconfirmed detections from our Cycle 1 search, where additional TESS data is critical to distinguish stellar from planetary signals.
 
+
+# Sector 027 targets observed (2 min: 2, 20 s: 1)
+79403459,320.2496,-52.4784,7.93,G03265;G03130
+410214986,354.9158,-69.1961,7.85,G03141;G03278;G03130;G03227;G03181;G03106;G03251;G03102;20SECONDTARGET
+
+# Sector 028 targets observed (2 min: 2, 20 s: 2)
+206609630,22.5497,-59.5833,12.19,G03130;G03278;20SECONDTARGET
+410214986,354.9158,-69.1961,7.85,G03141;G03278;G03130;G03227;G03181;G03106;G03251;G03102;20SECONDTARGET

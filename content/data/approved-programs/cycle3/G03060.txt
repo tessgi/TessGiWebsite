@@ -1,0 +1,23 @@
+# TESS Program G03060
+
+Title: Why Do Some Am Stars Pulsate? Characterizing Variability For Am Stars Having Detailed Spectroscopic Abundances
+
+PI: Guzik, Joyce - New Mexico Consortium & Los Alamos National Laboratory
+
+Type: SMALL
+
+Summary: Metallic-line A (Am) stars show abundance anomalies produced by diffusive settling and radiative levitation which should reduce the He abundance in the pulsation driving region and inhibit pulsations. Nevertheless, many Am stars show gamma Dor, delta Sct, and higher frequency roAp-star like modes, and some also show magnetic activity. Neither the pulsation driving mechanisms, nor the origin of the magnetic fields or abundance anomalies are well understood. This proposal is a follow-on to our TESS Cycle 2 proposal, for which 2-min cadence data is being taken on Am stars having detailed spectroscopic abundance determinations. For Cycle 3, we propose to extend observations to 49 additional chemically-peculiar stars to provide a definitive set of constraints to address these problems.
+
+
+# Sector 027 targets observed (2 min: 2, 20 s: 0)
+1992751647,309.1312,-26.5414,9.55,G03255;G03060
+1992945158,311.8337,-26.4152,7.25,G03255;G03060
+
+# Sector 028 targets observed (2 min: 7, 20 s: 0)
+137837596,335.5904,-18.2772,9.85,G03060
+206464379,331.0413,-21.7799,7.64,G03060
+69750857,336.8,-19.4433,8.36,G03251;G03060
+1992873233,318.6896,-25.9113,8.31,G03060
+29671013,315.4388,-26.8811,6.02,G03060
+300272058,321.0626,-25.5613,7.82,G03060
+302334615,320.5273,-24.2259,9.16,G03060
