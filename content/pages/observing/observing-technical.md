@@ -29,17 +29,17 @@ The typical noise achieved in each individual TESS sector is described in the [D
 The [TESS Instrument Handbook and Data Release Notes](documentation.html) should be consulted for the latest information regarding observing saturated stars with TESS. 
 
 The amount of charge deposited by a star of magnitude m into the peak pixel depends on the fraction of the total charge in the peak pixel: this value generally ranges from 0.2 to
-0.4 in the TESS images. The TESS cameras create 15,000 e−/s for a star of m = 10: thus, a star of m = 5 will create 3 × 106 electrons in a two-second exposure. For a flux fraction
-of 0.3, the charge in the peak pixel is 9 × 105 e−, leading to a bloom length of 5 rows; similarly, a star of m = 2.5 will create a bloom of 50 rows. A key feature of the CCID-80 CCDs used on TESS is their ability to conserve charge even from very saturated stars. Pre-launch ground tests showed that charge will be conserved for stars at least as bright as 4th magnitude. Measurements of charge conservation using flight data are in progress.
+0.4 in the TESS images. The TESS cameras create 15,000 e−/s for a star of m = 10: thus, a star of m = 5 will create 3 × 10<sup>6</sup> electrons in a two-second exposure. For a flux fraction
+of 0.3, the charge in the peak pixel is 9 × 10<sup>5</sup> e−, leading to a bloom length of 5 rows; similarly, a star of m = 2.5 will create a bloom of 50 rows. A key feature of the CCID-80 CCDs used on TESS is their ability to conserve charge even from very saturated stars. Pre-launch ground tests showed that charge will be conserved for stars at least as bright as 4th magnitude. Measurements of charge conservation using flight data are in progress.
 
-Saturation is anticipated in the central pixel at I_C = 7.5. This, however, does not represent the bright limit for precise photometry. Excess charge from saturated pixels is conserved and spread across adjacent pixels in a CCD column until the excess reaches a CCD boundary. This leads to "bleed trails" extending above and below a saturated pixel, similar to what is seen for bright stars in Kepler/K2 photometry. Precision photometry can still be achieved by creating a photometric aperture that is large enough to encompass all excess charge. The TESS bright limit is anticipated to be I_C=4. 
+Saturation is anticipated in the central pixel at I<sub>C</sub> = 7.5. This, however, does not represent the bright limit for precise photometry. Excess charge from saturated pixels is conserved and spread across adjacent pixels in a CCD column until the excess reaches a CCD boundary. This leads to "bleed trails" extending above and below a saturated pixel, similar to what is seen for bright stars in Kepler/K2 photometry. Precision photometry can still be achieved by creating a photometric aperture that is large enough to encompass all excess charge. The TESS bright limit is anticipated to be I<sub>C</sub>=4. 
 
 ### Point Spread Function
 TESS was designed as a high precision photometer and not as an imager, as such the photometric stability and minimization of noise was more important than a compact pointspread function (PSF).
 
 The TESS PSF varies significantly across the focal plane due primarily to the optics. Instead of a PSF, TESS has a pixel response function (PRF), which represents the observed appearance of the point sources. 
 
-The TESS PRF was created by the SPOC by fitting to micro-dithered data taken during PRF commissioning exercises. PRF models for sectors 1-3 can be found [here](https://archive.stsci.edu/missions/tess/models/prf_fitsfiles/start_s0001/), with sector 4 onwards [here](https://archive.stsci.edu/missions/tess/models/prf_fitsfiles/start_s0004/).
+The TESS PRF was created by the SPOC by fitting to micro-dithered data taken during PRF commissioning exercises. PRF models for sectors 1-3 can be found [here](https://archive.stsci.edu/missions/tess/models/prf_fitsfiles/start_s0001/), with sector 4 onwards [here](https://archive.stsci.edu/missions/tess/models/prf_fitsfiles/start_s0004/). Additional resources for the TESS PRF can be found on [MAST](https://archive.stsci.edu/tess/all_products.html).
 
 <p align="center">
   <img width="800" height="270" src="/images/tess_psf.png">

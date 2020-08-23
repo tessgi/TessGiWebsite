@@ -26,7 +26,7 @@ At the  TESS  orbit perigee (varies between 12-20 Earth radii), science operatio
 
 TESS began regular science operations on July 25, 2018. In the 2-year [prime mission](primary.html), TESS monitored over 200,000 main-sequence dwarf stars with four wide-field optical CCD cameras to detect periodic drops in brightness caused by planetary transits. Photometry of these pre-selected targets is recorded every 2 minutes. TESS also obtains full-frame images (FFIs) of the entire, four camera field-of-view (24 x 96 degrees) at a cadence of 30 minutes to facilitate additional science, see the [data products page](data-products.html) 
 
-TESS was approved for an [extended mission](extended.html) that starts in July 2020. In the extended mission TESS will change focus to become a community science focused mission. A new 20-second cadence data mode will be introduced and the FFI cadence will be changed to 10-minutes.
+TESS was approved for an [extended mission](extended.html) that started in July 2020. In the extended mission TESS has change focus to become a community science mission. A new 20-second cadence data mode has been introduced, and the FFI cadence has changed to 10-minutes.
 
 <br/>
 <img class="img-responsive" style="max-width:80%;" src="images/mission/tess_first_light_quarter.jpg">
@@ -52,7 +52,7 @@ NASA's Goddard Space Flight Center (GSFC) provides project management, systems e
 
 The spacecraft is operated by Northrop Grumman Innovation Systems. This includes mission operations at the Mission Operation Center. 
 
-The data are processed by the Science Processing Operations Center (SPOC) at [NASA Ames Research Center](https://www.nasa.gov/ames/tess-pipeline). For more information about the TESS data pipeline see the [data handling page](data-handling.html).
+The data are processed by the Science Processing Operations Center (SPOC) at [NASA Ames Research Center](https://www.nasa.gov/ames/tess-pipeline). For more information about the TESS data pipeline see the [data handling page](data-handel.html).
 
 All TESS raw and processed data are made publicly available through the Mikulski Archive for Space Telescopes (MAST), operated by the Space Telescope Science Institute (STScI), see our [data access page](data-access.html) for more information.  
 
@@ -61,5 +61,5 @@ All TESS raw and processed data are made publicly available through the Mikulski
 
 The TESS Mission has a robust [Guest Investigator Program](proposing-investigations.html) (GI program) that is managed by the TESS Science Support Center at NASA Goddard Space Flight Center. Under the GI program, the astrophysics community may propose new 2 minute and 20 second cadence targets and investigations using the FFI data. TESS GI calls for proposals occur once per year and are announced within the NASA ROSES solicitation. About 200,000 targets will be available for each GI program cycle during the extended mission.
 
-The TESS GI program welcomes proposals including, but not exclusive to, exoplanet, stellar, extragalactic, and solar system science. For specific guidelines on proposing targets through the GI program, visit our [Proposal Preparation](proposing-investigations.html) page.
+The TESS GI program welcomes proposals including, but not exclusive to, exoplanet, stellar, extragalactic, and solar system science. For specific guidelines on proposing targets through the GI program, visit our [proposal](proposing-investigations.html) page.
 

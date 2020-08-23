@@ -70,3 +70,11 @@ The TESS [Science Writer's Guide](https://www.nasa.gov/sites/default/files/atoms
 
 
 
+## Additional Exoplanet Resouces
+
+[NASA's exoplanet page](https://exoplanets.nasa.gov) contains a variety of useful information and resources that can be used for education and outreach. The [multimedia link](https://exoplanets.nasa.gov/multimedia/exoplanet-travel-bureau/?page=0&per_page=25&order=pub_date+desc%2C+id+desc&search=&category=122%3A174) allows  the user to download various posters, videos, and infographics.
+
+<br/>
+<img class="img-responsive" style="max-width:80%;" src="images/AUMic.pdf">
+*NASA's AU Microscopii feature poster, avalible for download [here](https://exoplanets.nasa.gov/resources/2237/flares-of-fury-poster/). Image Credit: NASA-JPL/Caltech*
+<br/>

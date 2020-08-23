@@ -1,4 +1,3 @@
-
 Title: Documentation
 Save_as: documentation.html
 
@@ -74,29 +73,14 @@ Additional resources can be found below:
 
   <tr>
     <td style="width: 35em;"><a
-    href='data/tess-response-function-v1.0.csv'>TESS bandpass response function</a></td>
-    <td> </td>
-  </tr>
-
-  <tr>
-    <td style="width: 35em;"><a
-    href='data/core-science-targets-v2.csv'>Top 100,000 priority
-    targets in the southern ecliptic hemisphere</a></td>
-    <td> </td>
-  </tr>
-
-  <tr>
-    <td style="width: 35em;"><a
-    href='data/core-science-targets-cycle2-v1.csv'>Top 100,000 priority
-    targets in the northern ecliptic hemisphere</a></td>
+    href='data/tess-response-function-v2.0.csv'>TESS bandpass response function</a></td>
     <td> </td>
   </tr>
 
 </table>
 
-
 ## TESS Observatory Guide
-A number of documents have been created to describe the TESS mission. We recommend that users start with the **[TESS Observatory Guide](docs/TESS_observatory_guide_v1.1.pdf)**. This guide serves two purposes. The first is to provide a comprehensive description of the TESS observatory design, operations, and capabilities. The second is to provide potential Guest Investigator (GI) proposers detailed information regarding the TESS GI program. This includes descriptions of GI program procedures, services, and tools. 
+A number of documents have been created to describe the TESS mission. An initial document which might be useful to a first time user is the **[TESS Observatory Guide](docs/TESS_observatory_guide_v1.1.pdf)**. Although now dated this guide provide a comprehensive description of the TESS observatory design, operations, and capabilities. Note that the proposal section of the guide refers to the [prime mission]() only and that users wishing to apply for time should refer to the [extended mission](primary.html) [guest investigator page](proposing-investigations.html).
 
 
 ## TESS project papers
@@ -118,7 +102,7 @@ The TESS Science Processing Operations Center (SPOC) at NASA Ames
 Research Center developed a TESS data processing pipeline that
 generates calibrated pixels and light curves, searches for periodic
 transit events, and generates validation products for the transit-like
-features in the light curves. All TESS SPOC data products are or will be archived to the Mikulski Archive for Space Telescopes (MAST).
+features in the light curves. All TESS SPOC data products are or will be archived to the [Mikulski Archive for Space Telescopes (MAST)](https://archive.stsci.edu/tess/).
 
 A description of the SPOC pipeline can be found here: [Jenkins et al., 2016](http://adsabs.harvard.edu/abs/2016SPIE.9913E..3EJ). A PDF version of the article can be downloaded [here](docs/jenkinsSPIE2016-copyright.pdf) provided acknowledgement of the full SPIE citation: Jenkins et al. 2016. "The TESS science processing operations center", Proc. SPIE 9913, Software and Cyberinfrastructure for Astronomy IV, 99133E (August 8, 2016); [doi:10.1117/12.2233418](http://dx.doi.org/10.1117/12.2233418). 
 

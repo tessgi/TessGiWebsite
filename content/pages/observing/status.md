@@ -3,38 +3,15 @@ Save_as: status.html
 
 [TOC]
 
-<!-- <img class="img-responsive" style="max-width:67%;" src="images/giprogram/timeline.jpg" alt="TESS CSC timeline"> -->
+TESS launched April 18, 2018 at 6:51 p.m. EDT from Cape Canaveral Air Force Station in Florida atop a SpaceX Falcon 9 rocket. Regular science operations with TESS began on July 25, 2018. TESS is now within its extended mission and observing one [sector](primary.html#sky-coverage) at a time. TESS will continue to [tile the sky](extended.html#observing-strategy) with 27.4 day-long sectors during its now [extended mission](extended.html).
 
-TESS launched April 18, 2018 at 6:51 p.m. EDT from Cape Canaveral Air
-Force Station in Florida atop a SpaceX Falcon 9 rocket. Regular
-science operations with TESS began on July 25, 2018. TESS is now executing its survey, observing one [sector](https://heasarc.gsfc.nasa.gov/docs/tess/operations.html#field-of-view) at a time. TESS will continue to [tile the sky](https://heasarc.gsfc.nasa.gov/docs/tess/operations.html#observing-strategy) with 27.4 day-long sectors during its 2 year prime mission, and continuing into extended mission. 
+## Sector Dates
 
-<!-- 
-
-<br/>
-<img class="img-responsive" style="max-width:67%;" src="images/tess-launch.jpg">TESS launched successfully on April 18, 2018. TESS will begin collecting science data after a 60 day commissioning period.
-*Image Credit: NASA/Kim Shiflett*
-<br/>
-
-<br/>
-<img class="img-responsive" style="max-width:67%;" src="images/tess-launch-separation.jpg">A camera mounted on the Falcon 9 second stage shows the TESS spacecraft separating from the vehicle. At 7:53 p.m., the twin solar arrays that will power the spacecraft successfully deployed.
-*Image Credit: NASA TV*
-<br/> -->
-
-
-
-
-<!-- The dates in the table below are from our nominal plan. -->
-
-<!-- <br/> -->
-<!-- <img class="img-responsive" style="max-width:67%;" src="images/mission/tess_observingsectorschematic_Winnpresentation.png">
-<br/> -->
-## Sector dates
-The start and end dates for each sector, and the list of GI targets (csv
-file) observed in each sector, are below. The MAST provide an up to date [summary of TESS data available at the archive](https://outerspace.stsci.edu/display/TESS/TESS+Holdings+Available+by+MAST+Service).
+The start and end dates for each sector, and the list of GI targets (csv file) observed in each sector, are below. The MAST provide an up to date [summary of TESS data available at the archive](https://outerspace.stsci.edu/display/TESS/TESS+Holdings+Available+by+MAST+Service).
 Information on how to download the data can be found [here](data-access.html). The spacecraft pointing positions are [available from MIT](https://tess.mit.edu/observations/).
 
-The data from each sector are required to be available at the MAST no later than 2 months after the observations for a given sector are completed. However, the data are routinely downloaded, processed through the pipeline, and released at MAST on shorter timescales than this. The data for each sector typically available within 1 month of the end date for a given sector. <b>Users are encouraged to check the [MAST status page](https://outerspace.stsci.edu/display/TESS/TESS+Holdings+Available+by+MAST+Service) to check on the data availability for particular sectors</b>.
+The data from each sector are required to be available at the MAST no later than 2 months after the observations for a given sector are completed. However, the data are routinely downloaded, processed through the pipeline, and released at MAST on shorter timescales than this. The data for each sector typically available within 1 month of the end date for a given sector. <b>Users are encouraged to check the [MAST status page](https://outerspace.stsci.edu/display/TESS/TESS+Holdings+Available+by+MAST+Service) to check on the data availability for particular sectors
+
 
 <div class="panel panel-primary">
   <div class="panel-heading">
@@ -182,7 +159,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>South</td>
     <td>2020&nbsp;Jul&nbsp;04</td>
     <td>2020&nbsp;Jul&nbsp;30</td>
-    <td></td>
+    <td><a href='data/target_lists/sector027_targets_lists/GI_S027.csv'>Download</a></td>
     <td style="min-width: 12em;">
       First TESS extended mission field, Cycle 3 begins
     </td>
@@ -456,6 +433,52 @@ The data from each sector are required to be available at the MAST no later than
     <td style="min-width: 12em;"></td>
   </tr>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   </table>
 </div>
 </div>
@@ -466,6 +489,51 @@ The data from each sector are required to be available at the MAST no later than
 Illustrations showing all targets (in red) observed at 2-minute
 cadence for each camera and sector.
 
+<div class="row">
+    <div class="col-md-6 text-center">
+      <a href="images/sector-plots/sector-plots.027.jpeg">
+        <img id="s027" src="images/sector-plots/sector-plots.027.jpeg" class="img-responsive">
+        Sector 27
+      </a>
+    </div>
+    <div class="col-md-6 text-center">
+      <a href="images/sector-plots/sector-plots.026.jpeg">
+<!--         <img id="s026" src="images/sector-plots/sector-plots.026.jpeg" class="img-responsive">
+        Sector 26 -->
+      </a>
+    </div>
+</div>
+<br>
+<div class="row">
+    <div class="col-md-6 text-center">
+      <a href="images/sector-plots/sector-plots.025.jpeg">
+        <img id="s025" src="images/sector-plots/sector-plots.025.jpeg" class="img-responsive">
+        Sector 25
+      </a>
+    </div>
+    <div class="col-md-6 text-center">
+      <a href="images/sector-plots/sector-plots.026.jpeg">
+        <img id="s026" src="images/sector-plots/sector-plots.026.jpeg" class="img-responsive">
+        Sector 26
+      </a>
+    </div>
+</div>
+<br>
+<div class="row">
+    <div class="col-md-6 text-center">
+      <a href="images/sector-plots/sector-plots.023.jpeg">
+        <img id="s023" src="images/sector-plots/sector-plots.023.jpeg" class="img-responsive">
+        Sector 23
+      </a>
+    </div>
+    <div class="col-md-6 text-center">
+      <a href="images/sector-plots/sector-plots.024.jpeg">
+        <img id="s024" src="images/sector-plots/sector-plots.024.jpeg" class="img-responsive">
+        Sector 24
+      </a>
+    </div>
+</div>
+<br>
 <div class="row">
     <div class="col-md-6 text-center">
       <a href="images/sector-plots/sector-plots.021.jpeg">

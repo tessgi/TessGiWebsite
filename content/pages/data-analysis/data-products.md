@@ -12,6 +12,7 @@ From these two second integrations there are several data products produced by t
 <br/>
 *Representation of how the 2 min postage stamps and 30 min FFIs are created.*
 
+The [TESS mission page at MAST](https://archive.stsci.edu/tess/all_products.html) contains the latest news and updates on TESS products. 
 There are three main data products produced by the TESS pipeline, these are discussed below.
 
 ### Full Frame Images
@@ -45,8 +46,9 @@ If a target is observed in more than one sector, multiple TPFs will be created f
 To understand more about TPS and how to use the data please visit [this page](https://github.com/spacetelescope/notebooks/blob/master/notebooks/MAST/TESS/beginner_how_to_use_tp/beginner_how_to_use_tp.ipynb).
 
 There are two flavors of TPFs,
-*20 second (2020 - Cycle 3 product)
-*2 minute (2018 onwards)
+
+* 20 second (Cycle 3 product)
+* 2 minute (2018 onwards)
 
 
 ### [Light curve files](https://imagine.gsfc.nasa.gov/science/toolbox/timing1.html)

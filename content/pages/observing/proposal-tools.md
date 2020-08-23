@@ -1,10 +1,9 @@
-Title: Proposal tools
+Title: Proposal and Observation Tools
 Save_as: proposal-tools.html
 
 [TOC]
 
-
-
+Below we outline tools that will help the user plan their observations, and so aid with propsals.
 
 ## Target list creation
 The first stop for TESS GI proposers when preparing their proposals should be the [STScI/MAST TESS pages](https://archive.stsci.edu/tess/). Here, proposers can follow tutorials to learn how to access the Target Input Catalog (TIC) and Candidate Target List (CTL), crossmatch their targets with these catalogs, and create output files with relevant target information required for the GI call. The TESS GI program office requires that if a target is in the TIC, GI proposers must provide only the following columns from the TIC in comma separated value (csv) format:
@@ -27,14 +26,6 @@ In addition to the above six columns, the following additional columns can be pr
 11. Swift time request (ksec)
 12. Remarks
 
-
-## Software tools
-
-We have developed software to aid in the development of GI proposals: 
-
-<!--[TVGuide](#tvguide) helps with determining whether a target is observable in Cycle 1, and [ticgen](#ticgen) is used to calculate the brightness of a target in the TESS bandpass. In addition, resources have been created by various other team to aid in writing proposals. 
-
-We have [created a webtool](https://heasarc.gsfc.nasa.gov/cgi-bin/tess/webtess/wtv.py) that implements the functionality of ticgen and tvguide. This is our recommended avenue to accessing these utilities. -->
 
 ### Web TESS Viewing tool
 The [Web TESS Viewing (WTV) tool](https://heasarc.gsfc.nasa.gov/cgi-bin/tess/webtess/wtv.py) allows users to check whether a target potentially falls within the TESS field of view (FOV). In addition, WTV can be used to calculate the brightness of a target in the TESS bandpass.
@@ -170,6 +161,14 @@ and this would output:
 
 This code is build using the algorithms from the TESS Input Catalog publication from [Stassun et al. (2017)](https://arxiv.org/abs/1706.00495).
 
+### [TESS-Point](https://github.com/christopherburke/tess-point)
+
+This is a High Precision TESS pointing tool. It will convert target
+coordinates given in Right Ascension and Declination to TESS detector
+pixel coordinates for the first 13 TESS observing sectors (Year 1)
+focused on the southern ecliptic plane. It can also query MAST to
+obtain detector pixel coordinates for a star by TIC ID only. It provides the target ecliptic coordinates, sector number, camera number, detector number, and pixel column and row.
+If there is no output, then the target is not visible to TESS.
 
 
 ### Filtergraph
@@ -198,11 +197,6 @@ Additional pre-made figures are available on the CTL Filtergraph page. Users may
 ## Core science targets
 To aid in proposal preparation we have [made a csv file available](data/core-science-targets-cycle2-v1.csv) that contains the top 100,000 priority targets in the northern ecliptic hemisphere.-->
 
-## Proposal templates
-We have made available proposal templates to aid users in writing GI proposals. Use of these templates is not required. 
 
-* [MS Word](docs/tessgi_template_cycle3.docx)
-* [Latex](docs/tessgi_template_cycle3.tex)
-* [PDF](docs/tessgi_template_cycle3.pdf)
 
 

@@ -41,28 +41,5 @@ Ground-based observing focused programs are also solicited provided that they su
 
 Within Cycle 3 TESS will observe each sector continuously for two spacecraft orbits, ~28 days. The 10-minute and 20-second sub images taken during Cycle 3 will be considered 'shared  risk', as possible modifications to the observing plan may occur following testing and evaluation.
 
-## Information on the call for GI proposals
-
-* Large programs and Key Projects will be allowed a 5-page limit for the scientific/technical/management section.
-* References are not included in the page limit for proposals.
-* Joint TESS-Swift proposals are called for. There will be 100 ks of Swift time available for TESS-focused projects. 
-* Proposals aimed at detecting small planets in 2-minute cadenced data solicited.
-
-As with data collected during the primary mission there is no proprietary period for data obtained through TESS observations. 
-Data is made available through [MAST](https://archive.stsci.edu/missions-and-data/transiting-exoplanet-survey-satellite-tess).
-
-GI proposals may include theoretical components, software development, and/or data simulation that strengthens the proposal, 
-but at least 70% of the work effort should be focused on exploiting TESS data products. This rule however does not apply to ground-based
-observing proposals. Proposed investigations must also focus on using the relevant Cycles data, i.e., not Cycles 1 or 2.
-
-Funding is only available to scientists at US based institutes whom are identified as the Principal Investigator (PI). Sub-awards are made available only to Civil Servant Co-Is that are eligible for direct sub-awards. Funding will be initiated only after the first data for targets have been uploaded to MAST.
-
-The Cycle 3 review process has already taken place with targets selected, for additional information on how to apply for TESS Cycle 4 please see the [TESS Cycle 4 NRA](https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId={4B9CAAB3-D398-183A-B1F3-EF963DF415C7}&path=open)
-
-
-
-
-
-
-
+For more information about proposing within the extended mission please see the [proposal](proposing-investigations.html) page.
 

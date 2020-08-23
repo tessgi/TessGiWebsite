@@ -3,7 +3,7 @@ Save_as: data-access.html
 
 [TOC]
 
-## MAST tools
+## The Mikulski Archive for Space Telescopes (MAST)
 
 The *official* archive for TESS mission data products is the
 [Mikulski Archive for Space Telescopes (MAST)](https://archive.stsci.edu/tess)
@@ -16,13 +16,37 @@ MAST has created a [Summary page](http://archive.stsci.edu/tess/summary.html) wi
 
 Download light curves, target pixel, and data validation files for a few targets.
 Download full frame images for a few CCDs.
-Conduct small searches within the TIC or CTL.
+Conduct small searches within the TESS Input Catalog (TIC) or Candidate Target List (CTL) as discussed below.
 Find data from other missions for your target.
+
+
+### TESS Input Catalog (TIC)
+To meet the primary mission goals, an all-sky catalog was generated to act as a basis for target selection. The TESS Target Selection Working Group (TSWG) was tasked with the creation and maintenance of the catalog with the aim of compiling every optically luminous, persistent object in the sky down to the limits of available wide-field photometric catalogs including both point sources and extended sources. This enables the selection of optimal targets to search for small transiting planets and allows flux contamination to be calculated in an optimal aperture for each target (critical due to the 21 arcsec TESS pixels). The resulting catalog is the source from which the >200,000 primary mission targets will be selected and is known as the TESS Input Catalog (TIC).
+
+The TIC was assembled based on the Gaia DR2 catalog, and augmented with data from many additional catalogs to create a full list of point sources and extended sources that could be observed by TESS. The input catalog data are used to determine the physical and observational parameters of many of the TIC stars, including stellar radius, stellar mass, and effective temperature. TIC-8 includes 1.7 billion point sources and about 100 million extended sources. A visual overview of the input catalogs and methodology used to construct the TIC is shown in the schematic below.
+
+<br/>
+<img class="img-responsive" style="max-width:90%;" src="images/giprogram/tic8_overview_figure2.png">
+*Overview of the photometric catalogs used to construct the TESS Input Catalog (TIC). Yellow arrows depict the order that catalogs are cross-matched and/or merged. The final TIC (TIC-8 as of 2019-06-01) is represented by the green box at the upper right. Image Credit: [Stassun et al. 2019](https://ui.adsabs.harvard.edu/abs/2019arXiv190510694S/abstract).*
+<br/>
+
+The TIC can be directly accessed through the [Mikulski Archive for Space Telescopes (MAST) Portal](https://mast.stsci.edu/portal/Mashup/Clients/Mast/Portal.html). First the user must select MAST Catalogs as the collection and then TESS Input v8 as the Mission. A full description of the assembly, content, and properties of the TIC can be found in [“The Revised Tess Input Catalog And Candidate Target List”](https://arxiv.org/pdf/1905.10694.pdf) paper.
+
+### The Candidate Target List (CTL)
+A subset of the TIC is the Candidate Target List. This is a set of targets selected as likely good targets for transit detection and consists of two main components.
+
+  - All TIC stars brighter than TESS magnitude 13, and an estimated stellar radii smaller than R&#8855;.
+  - All stars included in the curated Cool Dwarf Catalog (CDC).
+
+The CTL is a list of ~9.5 million stars, each evaluated according to a metric that prioritizes the star for transit detection, which incorporate the T-mag, stellar radius, estimated flux contamination, and number of sectors of observation. To search the CTL data please go to the MAST Portal as above, select MAST Catalogs as the collection and then TESS CTL v8.01 as the Mission.
+
+For more information on the TIC and CTL please visit the [MIT page](https://tess.mit.edu/science/tess-input-catalogue/).
 
 ### [MAST API/astroquery](https://astroquery.readthedocs.io/en/latest/mast/mast.html)
 
 Search for, and retrieve, TESS data products programmatically based on a list of coordinates or target names.
 Interact with observational data, TIC, and CTL catalogs in programs you write.
+
 
 ### [exo.MAST](https://exo.mast.stsci.edu/)
 
@@ -81,7 +105,7 @@ The [TESS mission page at MAST](https://archive.stsci.edu/tess/all_products.html
 * False positive working group tables
 * Observed targets by quarter
 
-
+For more information about the specific products that TESS provides see our [data products page](data-products.html).
 
 
 
