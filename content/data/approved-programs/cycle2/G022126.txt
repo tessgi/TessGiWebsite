@@ -51,3 +51,6 @@ Summary: We propose to use TESS to observe thirteen eclipsing cataclysmic variab
 
 # Sector 024 targets observed (1)
 219107776,271.0599,67.9035,13.93,G022126;G022071
+
+# Sector 026 targets observed (1)
+219107776,271.0599,67.9035,13.93,G022126;G022071
