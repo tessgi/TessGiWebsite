@@ -21,7 +21,7 @@ You can access the full publication list:
 
  * [TESS publications >>](tpub.html)
 
-Or seach by topic:
+Or search by topic:
 
  * [Exoplanet publications >>](tpub-exoplanets.html)
  * [Astrophysics publications >>](tpub-astrophysics.html)
