@@ -3,7 +3,7 @@ Save_as: proposal-tools.html
 
 [TOC]
 
-Below we outline tools that will help the user plan their observations, and so aid with propsals.
+Below we outline tools that will help the user plan their observations, and so aid with proposals.
 
 ## Target list creation
 The first stop for TESS GI proposers when preparing their proposals should be the [STScI/MAST TESS pages](https://archive.stsci.edu/tess/). Here, proposers can follow tutorials to learn how to access the Target Input Catalog (TIC) and Candidate Target List (CTL), crossmatch their targets with these catalogs, and create output files with relevant target information required for the GI call. The TESS GI program office requires that if a target is in the TIC, GI proposers must provide only the following columns from the TIC in comma separated value (csv) format:
@@ -17,7 +17,7 @@ The first stop for TESS GI proposers when preparing their proposals should be th
 
 Since adherence to this format is critical for target list uploads to the [Remote Proposal System](https://heasarc.gsfc.nasa.gov/ark/rps/) (RPS) website, the MAST has provided a [custom tutorial](https://archive.stsci.edu/tess/tutorials/goddard_format.html) to show GI proposers how to select and output these columns for their target lists. Please follow this tutorial to provide a compliant target list. 
 
-In addition to the above six columns, the following additional columns can be provided as nessessary (the columns order must not change):
+In addition to the above six columns, the following additional columns can be provided as necessary (the columns order must not change):
 
 7. Common name of target
 8. Extended flag
@@ -41,7 +41,7 @@ The [Web TESS Viewing (WTV) tool](https://heasarc.gsfc.nasa.gov/cgi-bin/tess/web
 
 The website implements the functionality of both [tvguide](#tvguide) and [ticgen](#ticgen) in a handy online tool.
 
-We recommend users start by using the webtool before experimenting with the command line tools. -->
+We recommend users start by using the web-tool before experimenting with the command line tools. -->
 
 
 <!--
@@ -116,7 +116,7 @@ For example,
     TESS mag = 10.09, calculated using V/J/Ks.
     1-sigma scatter in 60 min = 212 ppm.
 
-You can provide any combination of these mangitudes
+You can provide any combination of these magnitudes
 
 * -T TMAG, --Tmag TMAG TESS magnitude of the source
 * -J JMAG, --Jmag JMAG J magnitude of the source
@@ -125,7 +125,7 @@ You can provide any combination of these mangitudes
 * -G GMAG, --Gmag GMAG Gaia magnitude of the source
 * -H HMAG, --Hmag HMAG H magnitude of the source
 * -B BMAG, --Bmag BMAG B magnitude of the source
-* --Bphmag BPHMAG B photgraphic magnitude of the source
+* --Bphmag BPHMAG B photographic magnitude of the source
 
 
 

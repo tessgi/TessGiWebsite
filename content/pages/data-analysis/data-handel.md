@@ -4,7 +4,7 @@ Save_as: data-handel.html
 [TOC]
 
 The flow of data from the spacecraft to its final archive involves participation from multiple institutions that make up the TESS project team.
-The TESS data processing pipeline itself was developed by the Science Processing Operations Center (SPOC) at NASA Ames Research Center and builds on the legacy of the Kepler data processing pipeline. A brief overview of how TESS data is hangled and the pipline is presented below, more details can be found in the SPOC paper available in the [documentation page](documentation.html).
+The TESS data processing pipeline itself was developed by the Science Processing Operations Center (SPOC) at NASA Ames Research Center and builds on the legacy of the Kepler data processing pipeline. A brief overview of how TESS data is handled and the pipeline is presented below, more details can be found in the SPOC paper available in the [documentation page](documentation.html).
 
 ## Pipeline overview
 

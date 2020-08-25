@@ -66,7 +66,7 @@ A video illustrating the TESS survey strategy, along with the pathway to the spa
 
 ### Pointing shifts
 
-In the second year of the primay mission TESS obsered the northern ecliptic hemisphere. The cameras were oriented along a line of ecliptic longitude (as they were in Year 1), with that longitude determined by the anti-solar longitude at the mid-point of the sector. For most of Year 2, the camera array was oriented such that Camera 4 was centered on the northern ecliptic pole: in this orientation, the southernmost edge of Camera 1 was ~6° from the ecliptic.
+In the second year of the primary mission TESS observed the northern ecliptic hemisphere. The cameras were oriented along a line of ecliptic longitude (as they were in Year 1), with that longitude determined by the anti-solar longitude at the mid-point of the sector. For most of Year 2, the camera array was oriented such that Camera 4 was centered on the northern ecliptic pole: in this orientation, the southernmost edge of Camera 1 was ~6° from the ecliptic.
 
 However, for Sectors 14 and 15, scattered light from the Earth and Moon was a significant problem in Cameras 1 and 2, reducing the available observing time for exoplanet transits by as much as 75% in those cameras. To reduce the impact of scattered light, the field-of-view of the camera array was shifted north by 31° with respect to its nominal pointing in Sectors 14 and 15.
 

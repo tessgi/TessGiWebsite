@@ -4,7 +4,7 @@ Save_as: tools3.html
 [TOC]
 
 This list includes tools and software developed specifically for TESS data, as well as tools developed for Kepler and K2 that can be used or modified for TESS. The data formats are similar for Kepler/K2 and TESS: target pixel files (TPF) and full frame images (FFIs). Kepler and K2 had three data modes: long cadence (30 min) and short cadence (1 min) postage stamps (TPFs), and
-quarterly FFIs (30 min). TESS has two data modes, short cadence (2 min and 20 second) postage stamps, and 30 min or 10 min cadence FFIs. Note that 30 min cadenced data is only avalible for TESS Cycles 1 and 2, with 10 min cadence data in Cycles 3 and 4.
+quarterly FFIs (30 min). TESS has two data modes, short cadence (2 min and 20 second) postage stamps, and 30 min or 10 min cadence FFIs. Note that 30 min cadenced data is only available for TESS Cycles 1 and 2, with 10 min cadence data in Cycles 3 and 4.
 
 Many tools are under development, and some are more robust than others. The TESS GI Office plans to update this list as new tools, software, and tutorials become available. If you have any tools you would like us to include, please contact us at [tesshelp@bigbang.gsfc.nasa.gov](mailto:tesshelp@bigbang.gsfc.nasa.gov).
 

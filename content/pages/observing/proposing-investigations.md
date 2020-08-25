@@ -7,7 +7,7 @@ The TESS Guest Investigator (GI) program is intended to enable the community to 
 
 The TESS [primary mission](primary.html) duration was two years. The first year was spent in the southern ecliptic hemisphere and corresponded to TESS GI program Cycle 1; the second year observed the northern ecliptic hemisphere and corresponded to Cycle 2. During the primary mission, the majority of the 2-minute cadence targets observed were taken from the [TESS Candidate Target list (CTL)](#candidate-target-list-ctl). Around 20,000 2-minute cadence target slots were assigned to the GI program during the 2-year prime mission
 
-Cycle 3 corresponds to the third year of TESS science, and is the first year of the TESS [extended mission](extended.html). There is no primary mission science during the TESS extended mission, scientific investigations are primarily supported by the TESS GI program. Cycle 3 begain in July 2020 with targets observed in the southern ecliptic hemisphere.
+Cycle 3 corresponds to the third year of TESS science, and is the first year of the TESS [extended mission](extended.html). There is no primary mission science during the TESS extended mission, scientific investigations are primarily supported by the TESS GI program. Cycle 3 began in July 2020 with targets observed in the southern ecliptic hemisphere.
 
 There is no exclusive-use data rights to observations collected by TESS. All data is made available through the [MAST public archive](http://archive.stsci.edu/tess/summary.html) once data processing and validation is complete.
 
@@ -34,11 +34,11 @@ There are typically three categories of TESS GI proposals; investigators are fre
 
 * Small proposals - proposals of limited scope.
 * Large proposals - proposals of wide-ranging scope and science yield. Large proposals must deliver a clear benefit for the broader scientific community.
-* Key projects - large multi-year programs with a very broad scope. These were a new proposal category that were avalible in Cycle 3 only and have a maximum duration of 27 months. 
+* Key projects - large multi-year programs with a very broad scope. These were a new proposal category that were available in Cycle 3 only and have a maximum duration of 27 months. 
 
 Note that Large programs and Key Projects have a five-page limit for the scientific/technical/management section, references are not included in the page limits. Other proposals have a four page limit.
 
-Within the small and large programs there are additional kinds of projetcs that can be put forward, these are described below.
+Within the small and large programs there are additional kinds of projects that can be put forward, these are described below.
 
 ### Ground-based observation focused projects
 Proposals that support the acquisition and analysis of scientific data from ground-based telescopes are solicited. Such ground-based measurements must directly support the analysis and/or interpretation of TESS scientific data. Ground-based focused proposals should be identified in ARK/RPS as such and will be reviewed in a panel separately from other proposals submitted to the TESS GI program. All size programs are encouraged, and proposers should identify their program as a Small or Large program.
@@ -58,19 +58,19 @@ During the extended mission there are no reserved targets or restricted science 
 Proposals aimed at detecting small planets in 2-minute cadence data are therefore now solicited.
 
 ## Availability of funds
-It is anticipated that > $3.0M will be avalible in Cycle 4. Note that additional unfunded GI targets may be selected and observed, if target resources permit. TESS 2-minute and 20-second cadence observations are open to all scientists at U.S. or non-U.S. institutions. TESS GI funding is open to all individuals who are identified as Principal Investigators and employed at U.S. institutions. Scientists participating in the TESS mission, including members of the Follow-up Team, are permitted to propose to the GI program and are subject to the same program rules as the rest of the science community. 
+It is anticipated that > $3.0M will be available in Cycle 4. Note that additional unfunded GI targets may be selected and observed, if target resources permit. TESS 2-minute and 20-second cadence observations are open to all scientists at U.S. or non-U.S. institutions. TESS GI funding is open to all individuals who are identified as Principal Investigators and employed at U.S. institutions. Scientists participating in the TESS mission, including members of the Follow-up Team, are permitted to propose to the GI program and are subject to the same program rules as the rest of the science community. 
 
 The dollar amounts assigned to each proposal category are maximum award amounts and are roughly listed below,
 
- * Small proposals - $50,000. 
- * Large proposals - $200,000.
+ * Small proposals - $70,000. 
+ * Large proposals - $250,000.
  * Ground-based projects - $500,000
  
 Funding for selected programs typically starts upon availability of data to the public archive at [MAST](data-access.html). Note that there is no exclusive use period associated with any TESS data. 
 
 ## Writing the proposal
 
-The GI office welcomes proposals addressing compelling scientific questions in almost any area of astrophysics and planetary science provided the required observations are amenable to the operational characteristics and constraints of the mission. The science motivation may include, but is not limited to, exoplanet detection and characterization, stellar astrophysics, galactic and extragalactic astrophysics, and solar system science. 
+The GI office welcomes proposals addressing compelling scientific questions in almost any area of astrophysics and planetary science provided the required observations are amenable to the operational characteristics and constraints of the mission. The science motivation may include, but is not limited to; exoplanet detection and characterization, stellar astrophysics, galactic and extragalactic astrophysics, and solar system science. 
 
 The primary purpose of the TESS Guest Investigator Program is to enhance and maximize the science return from TESS. The program facilitates and supports both 2-minute and 20-second cadence observations with TESS and research undertaken with the FFIs. Any area of astrophysics may be proposed.
 
@@ -148,7 +148,7 @@ Target of Opportunity Observations (TOOs) are designated for rapidly evolving ph
 ## Submission process
 The TESS GI program uses a two-phase proposal process. A Phase-1 proposal shall comprise the science/technical justification; proposals requesting funds need to include a budget narrative, describing in sufficient detail how the proposed funds will be used to achieve the goals outlined in the proposal. Only proposers whose Phase-1 proposals are accepted will be invited to submit budget proposals in Phase-2. It is not necessary for the PI of the Phase-2 proposal to be the science PI. Proposal content, including the list of investigators, should remain consistent between Phase-1 and Phase-2 proposals. All proposal materials will be submitted electronically. 
 
-* All Proposers must submit their Phase-1 proposals electronically through the [Astrophysics Research Knowledgebase (ARK)/ Remote Proposal System (RPS) website](http://heasarc.gsfc.nasa.gov/ark/rps/). If you haven't used ARK/RPS before, we suggest signing up for an account well before the GI proposal deadline; please refer to [the ARK/RPS instructions for TESS](http://heasarc.gsfc.nasa.gov/ark/tess/help.html).
+* All Proposers must submit their Phase-1 proposals electronically through the [Astrophysics Research Knowledge-base (ARK)/ Remote Proposal System (RPS) website](http://heasarc.gsfc.nasa.gov/ark/rps/). If you haven't used ARK/RPS before, we suggest signing up for an account well before the GI proposal deadline; please refer to [the ARK/RPS instructions for TESS](http://heasarc.gsfc.nasa.gov/ark/tess/help.html).
 
 * You must "verify" the form, and pass the checks, before you can submit your proposal.
 
