@@ -4,8 +4,7 @@ Author: Rebekah Hounsell
 
 `STATUS UPDATE: Sector 28 has ended and Sector 29 has started!`.
 
-Welcome TESS followers to our weekly news bulletin! This week is slightly longer than usual since we missed last weeks, as such we present four TESS papers from the archive.
-
+Welcome TESS followers to our weekly news bulletin!
 
 **[The TOI-763 system: sub-Neptunes orbiting a Sun-like star](https://arxiv.org/abs/2008.12535)** *(Fridlund et. al., 2020) :*
 
