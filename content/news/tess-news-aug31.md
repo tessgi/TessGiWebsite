@@ -9,7 +9,7 @@ Welcome TESS followers to our weekly news bulletin! This week is slightly longer
 
 **[The TOI-763 system: sub-Neptunes orbiting a Sun-like star](https://arxiv.org/abs/2008.12535)** *(Fridlund et. al., 2020) :*
 
-In this paper the authors report the discovery of a planetary system orbiting TOI-763, also known as CD-29 7945. This is a bright (V = 10.2), high proper motion G-type dwarf star. Using spectra the star was found to be slightly smaller than the Sun, a little older, and with a similar metallically. The system was observed in TESS sector 10 data and using the light curve two planet candidates were found to be transiting the star. TESS and HARPS high-precision radial velocity follow-up measurements were used to confirm the planets. The authors determine the mass, radii, and bulk densities for the two planets,they also discovered a third potential planet.
+In this paper the authors report the discovery of a planetary system orbiting TOI-763, also known as CD-29 7945. This is a bright (V = 10.2), high proper motion G-type dwarf star. Using spectra the star was found to be slightly smaller than the Sun, a little older, and with a similar metallically. The system was observed in TESS sector 10 data and using the light curve two planet candidates were found to be transiting the star. TESS and HARPS high-precision radial velocity follow-up measurements were used to confirm the planets. The authors determine the mass, radii, and bulk densities for the two planets, they also discovered a third potential planet.
 
 The inner most planet, TOI-763 b, has an orbital period of P<sub>b</sub> = 5.6 days, a mass of M<sub>b</sub> =9.8 M⊕, and a radius of R<sub>b</sub> = 2.37 R⊕. TOI-763 c, has an orbital period of P<sub>c</sub> = 12.3 days, M<sub>c</sub> = 9.3 M⊕, and a radius of R<sub>c</sub> = 2.87 R⊕. The third outermost planet candidate orbits the star with a period of 48 days. Although not yet confirmed as a planet, if it were it would have a minimum mass of M<sub>d</sub> = 9.5 M⊕. The paper goes on to discuss the importance and implications of the system in terms of the geometrical arrangements of planets orbiting G-type stars.
 
@@ -44,7 +44,7 @@ The results of the investigation suggest that binary interaction is always requi
 
 ![Burt](images/Burt.png)
 
-**Fig 1:** *Taken from Burt et. al., (2020). Top panel is the TESS TOI-824 SAP flux, middle is the PDCSAP flux, and the bottom is the PDCSAP flux deterended. The light purple points are the 2 min data and the darker are the same data binned over 30 min cadence. The dark blue lines are the locations of the transit events identified in the TESS data validation report.*
+**Fig 1:** *Taken from Burt et. al., (2020). Top panel is the TESS TOI-824 SAP flux, middle is the PDCSAP flux, and the bottom is the PDCSAP flux de-terended. The light purple points are the 2 min data and the darker are the same data binned over 30 min cadence. The dark blue lines are the locations of the transit events identified in the TESS data validation report.*
 
 ![CastroSegura](images/CastroSegura.png)
 
