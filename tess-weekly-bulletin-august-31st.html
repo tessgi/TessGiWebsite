@@ -17,7 +17,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - TESS Science Support Center" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2020-08-31" />
+    <meta name="dc.date.modified" content="2020-09-01" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Users of TESS Data" />
     <meta name="dc.identifier" content="https://heasarc.gsfc.nasa.gov/docs/tess/" />
@@ -40,13 +40,13 @@ in August 2015, using pelican-bootstrap and flatly.
 <link rel="canonical" href="./tess-weekly-bulletin-august-31st.html">
 
         <meta name="author" content="Rebekah Hounsell" />
-        <meta name="description" content="STATUS UPDATE: Sector 28 has ended and Sector 29 has started!. Welcome TESS followers to our weekly news bulletin! The TOI-763 system: sub-Neptunes orbiting a Sun-like star (Fridlund et. al., 2020) : In this paper the authors report the discovery of a planetary system orbiting TOI-763, also known as CD-29 7945 …" />
+        <meta name="description" content="STATUS UPDATE: Sector 28 has ended and Sector 29 has started!. Welcome TESS followers to our weekly news bulletin! This week is slightly longer than usual since we missed last weeks, as such we present four TESS papers from the archive. The TOI-763 system: sub-Neptunes orbiting a Sun-like star (Fridlund …" />
 
         <meta property="og:site_name" content="TESS" />
         <meta property="og:type" content="article"/>
         <meta property="og:title" content="TESS Weekly Bulletin: August 31st"/>
         <meta property="og:url" content="./tess-weekly-bulletin-august-31st.html"/>
-        <meta property="og:description" content="STATUS UPDATE: Sector 28 has ended and Sector 29 has started!. Welcome TESS followers to our weekly news bulletin! The TOI-763 system: sub-Neptunes orbiting a Sun-like star (Fridlund et. al., 2020) : In this paper the authors report the discovery of a planetary system orbiting TOI-763, also known as CD-29 7945 …"/>
+        <meta property="og:description" content="STATUS UPDATE: Sector 28 has ended and Sector 29 has started!. Welcome TESS followers to our weekly news bulletin! This week is slightly longer than usual since we missed last weeks, as such we present four TESS papers from the archive. The TOI-763 system: sub-Neptunes orbiting a Sun-like star (Fridlund …"/>
         <meta property="article:published_time" content="2020-08-31" />
             <meta property="article:section" content="news" />
             <meta property="article:author" content="Rebekah Hounsell" />
@@ -64,7 +64,11 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <link href="./theme/css/exoplanet_archive_icons.css" rel="stylesheet">
     <link href="./theme/css/mission_icons.css" rel="stylesheet">
-
+    <link href="./theme/css/photobanner.css" rel="stylesheet">
+    <link href="./theme/css/slide-container.css" rel="stylesheet">
+    <link href="./theme/css/slide-transition.css" rel="stylesheet"> 
+    <link href="./theme/css/slide-transition2.css" rel="stylesheet"> 
+    
     <link href="./theme/css/pygments/native.css" rel="stylesheet">
     <link rel="stylesheet" href="./theme/css/style.css" type="text/css"/>
 
@@ -98,34 +102,49 @@ in August 2015, using pelican-bootstrap and flatly.
         </div>
         <div class="collapse navbar-collapse navbar-ex1-collapse">
             <ul class="nav navbar-nav">
-                            <li><a href="./archives.html">News</a></li>
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Mission <b class="caret"></b></a>
                             <ul class="dropdown-menu">
                                 <li><a href="./objectives.html">Objectives</a></li>
                                 <li><a href="./the-tess-space-telescope.html">Telescope</a></li>
-                                <li><a href="./operations.html">Operations</a></li>
-                                <li><a href="./primary-science.html">Science</a></li>
+                                <li><a href="./primary.html">Primary Mission</a></li>
+                                <li><a href="./extended.html">Extended Mission</a></li>
                                 <li><a href="./publications.html">Publications</a></li>
                             </ul>
                         </li>
                         <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Using TESS <b class="caret"></b></a>
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">TESS Data <b class="caret"></b></a>
                             <ul class="dropdown-menu">
-                                <li><a href="./status.html">Observing dates</a></li>
-                                <li><a href="./proposing-investigations.html">Guest Investigator Program</a></li>
-                                <li><a href="./observing-technical.html">Technical details</a></li>
-                                <li><a href="./proposal-tools.html">Proposal tools</a></li>
-                                <li><a href="./approved-programs.html">Approved programs</a></li>
+                                <li><a href="./data-handel.html">Data Pipeline</a></li>
+                                <li><a href="./data-products.html">Data Products</a></li>
+                                <li><a href="./data-access.html">Data Access</a></li>
+                                <li><a href="./community.html">Community Products</a></li>
+                                <li><a href="./documentation.html">Documentation</a></li>
                             </ul>
                         </li>
                         <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Data analysis <b class="caret"></b></a>
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Observations <b class="caret"></b></a>
                             <ul class="dropdown-menu">
-                                <li><a href="./data-access.html">Data access</a></li>
-                                <li><a href="./software.html">Analysis software</a></li>
-                                <li><a href="./community.html">Community products</a></li>
-                                <li><a href="./documentation.html">Documentation</a></li>
+                                <li><a href="./observing-technical.html">Technical Details</a></li>
+                                <li><a href="./sector.html">Sector Dates</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tools <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="./proposal-tools.html">Proposal & Observation Tools</a></li>
+                                <li><a href="./tools2.html">Data analysis Tools</a></li>
+                                <li><a href="./tools3.html">Community Tools</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Proposing <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="./proposing-investigations.html">Guest Investigator Proposals</a></li>
+                                <li><a href="./ddt.html">Director's Discretionary Target program</a></li>
+                                <li><a href="./proposal-tips.html">Proposal Tips</a></li>
+                                <li><a href="./proposal-templates.html">Proposal Templates</a></li>
+                                <li><a href="./approved-programs.html">Approved GI Programs</a></li>
                             </ul>
                         </li>
                         <li class="dropdown">
@@ -135,11 +154,11 @@ in August 2015, using pelican-bootstrap and flatly.
                                 <li><a href="./media.html">Media support</a></li>
                             </ul>
                         </li>
+                            <li><a href="./archives.html">News</a></li>
                             <li><a href="./faq.html">FAQ</a></li>
-                            <li><a href="https://heasarc.gsfc.nasa.gov">HEASARC</a></li>
             </ul>
             
-            <ul class="nav navbar-nav navbar-right">
+            <ul class="nav navbar-nav">
                 <li>
                     <a href="./helpdesk.html"><i class="fa fa-info-circle fa-lg"></i> Helpdesk</a>
                 </li>
@@ -183,9 +202,9 @@ in August 2015, using pelican-bootstrap and flatly.
 
     </span>
 </p><!-- /.post-info -->                <p><code>STATUS UPDATE: Sector 28 has ended and Sector 29 has started!</code>.</p>
-<p>Welcome TESS followers to our weekly news bulletin!</p>
+<p>Welcome TESS followers to our weekly news bulletin! This week is slightly longer than usual since we missed last weeks, as such we present four TESS papers from the archive.</p>
 <p><strong><a href="https://arxiv.org/abs/2008.12535">The TOI-763 system: sub-Neptunes orbiting a Sun-like star</a></strong> <em>(Fridlund et. al., 2020) :</em></p>
-<p>In this paper the authors report the discovery of a planetary system orbiting TOI-763, also known as CD-29 7945. This is a bright (V = 10.2), high proper motion G-type dwarf star. Using spectra the star was found to be slightly smaller than the Sun, a little older, and with a similar metallically. The system was observed in TESS sector 10 data and using the light curve two planet candidates were found to be transiting the star. TESS and HARPS high-precision radial velocity follow-up measurements were used to confirm the planets. The authors determine the mass, radii, and bulk densities for the two planets, they also discovered a third potential planet.</p>
+<p>In this paper the authors report the discovery of a planetary system orbiting TOI-763, also known as CD-29 7945. This is a bright (V = 10.2), high proper motion G-type dwarf star. Using spectra the star was found to be slightly smaller than the Sun, a little older, and with a similar metallically. The system was observed in TESS sector 10 data and using the light curve two planet candidates were found to be transiting the star. TESS and HARPS high-precision radial velocity follow-up measurements were used to confirm the planets. The authors determine the mass, radii, and bulk densities for the two planets,they also discovered a third potential planet.</p>
 <p>The inner most planet, TOI-763 b, has an orbital period of P<sub>b</sub> = 5.6 days, a mass of M<sub>b</sub> =9.8 M⊕, and a radius of R<sub>b</sub> = 2.37 R⊕. TOI-763 c, has an orbital period of P<sub>c</sub> = 12.3 days, M<sub>c</sub> = 9.3 M⊕, and a radius of R<sub>c</sub> = 2.87 R⊕. The third outermost planet candidate orbits the star with a period of 48 days. Although not yet confirmed as a planet, if it were it would have a minimum mass of M<sub>d</sub> = 9.5 M⊕. The paper goes on to discuss the importance and implications of the system in terms of the geometrical arrangements of planets orbiting G-type stars.</p>
 <p><strong><a href="https://arxiv.org/abs/2008.11732">TOI-824 b: A New Planet on the Lower Edge of the Hot Neptune Desert</a></strong> <em>( Burt et. al., 2020) :</em></p>
 <p>The authors present the detection of a hot Neptune exoplanet orbiting TOI-824 (SCR J1448-5735) using TESS data. TOI-824 is a close by (d = 64 pc) K4V star. The orbital period of the planet is given as 1.393 days and the radius as 2.93 R⊕. The planet was confirmed using radial velocity measurements from the Planet Finder Spectrograph and the High Accuracy Radial velocity Planet Searcher. Data from these instruments indicate the planets mass as 18.47 M⊕, with a density of  4.03 g cm<sup>-3</sup> making it twice as dense as Neptune.</p>
@@ -202,7 +221,7 @@ in August 2015, using pelican-bootstrap and flatly.
 <p>A shortage of hot subdwarfs are found with candidate common proper motion companions, considering the frequency of such systems among progenitors. The authors identify only 16 candidates after probing 2938 hot subdwarfs with good astrometry. Out of those, at least six seem to be hierarchical triple systems, in which the hot subdwarf is part of an inner binary. </p>
 <p>The results of the investigation suggest that binary interaction is always required for the formation of hot subdwarfs.</p>
 <p><img alt="Burt" src="images/Burt.png" /></p>
-<p><strong>Fig 1:</strong> <em>Taken from Burt et. al., (2020). Top panel is the TESS TOI-824 SAP flux, middle is the PDCSAP flux, and the bottom is the PDCSAP flux de-terended. The light purple points are the 2 min data and the darker are the same data binned over 30 min cadence. The dark blue lines are the locations of the transit events identified in the TESS data validation report.</em></p>
+<p><strong>Fig 1:</strong> <em>Taken from Burt et. al., (2020). Top panel is the TESS TOI-824 SAP flux, middle is the PDCSAP flux, and the bottom is the PDCSAP flux deterended. The light purple points are the 2 min data and the darker are the same data binned over 30 min cadence. The dark blue lines are the locations of the transit events identified in the TESS data validation report.</em></p>
 <p><img alt="CastroSegura" src="images/CastroSegura.png" /></p>
 <p><strong>Fig 2:</strong> <em>Taken from Castro Segura et. al., (2020). TESS light curve of V341 Ara from sector 21. The high-cadence light curve shows the complexity of the super-orbital modulation. The inserts are zoomins of the hi lighted regions. The orbital and superhump modulations are superimposed to the main signal with an amplitude roughly 3% of the dominant one can be appreciated. The ∼ 1 day data gap is due the perigee passage of the spacecraft while downloading the data. Taken from Balona (2020). Examples of A star flares in the TESS data. The maximum of the flare intensity is taken as the zero-point in time. Time is given in hrs and intensity in parts per thousand.</em></p>
 <p><img alt="Pelisoli" src="images/Pelisoli.png" /></p>
