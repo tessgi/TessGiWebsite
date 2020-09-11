@@ -2,7 +2,7 @@ Title: TESS Weekly Bulletin: September 11th
 Date: 2020-09-11 10:00
 Author: Rebekah Hounsell
 
-`STATUS UPDATE: Sector 27 date comes out Monday! We are still in Sector 29. The target lists for Sectors 29 and 30 are online and can be found` [here](https://heasarc.gsfc.nasa.gov/docs/tess/status.html).
+`STATUS UPDATE: Sector 27 data comes out Monday! We are still in Sector 29. The target lists for Sectors 29 and 30 are online and can be found` [here](https://heasarc.gsfc.nasa.gov/docs/tess/status.html).
 
 Hello TESS followers and welcome to our weekly news bulletin! This week there are multiple papers posted to the archive that use TESS data, well done authors! This bulletin features three of these papers.
 
