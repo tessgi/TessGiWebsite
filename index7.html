@@ -17,7 +17,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - TESS Science Support Center" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2020-09-01" />
+    <meta name="dc.date.modified" content="2020-09-11" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Users of TESS Data" />
     <meta name="dc.identifier" content="https://heasarc.gsfc.nasa.gov/docs/tess/" />
@@ -61,11 +61,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <link href="./theme/css/exoplanet_archive_icons.css" rel="stylesheet">
     <link href="./theme/css/mission_icons.css" rel="stylesheet">
-    <link href="./theme/css/photobanner.css" rel="stylesheet">
-    <link href="./theme/css/slide-container.css" rel="stylesheet">
-    <link href="./theme/css/slide-transition.css" rel="stylesheet"> 
-    <link href="./theme/css/slide-transition2.css" rel="stylesheet"> 
-    
+
     <link href="./theme/css/pygments/native.css" rel="stylesheet">
     <link rel="stylesheet" href="./theme/css/style.css" type="text/css"/>
 
@@ -99,49 +95,34 @@ in August 2015, using pelican-bootstrap and flatly.
         </div>
         <div class="collapse navbar-collapse navbar-ex1-collapse">
             <ul class="nav navbar-nav">
+                            <li><a href="./archives.html">News</a></li>
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Mission <b class="caret"></b></a>
                             <ul class="dropdown-menu">
                                 <li><a href="./objectives.html">Objectives</a></li>
                                 <li><a href="./the-tess-space-telescope.html">Telescope</a></li>
-                                <li><a href="./primary.html">Primary Mission</a></li>
-                                <li><a href="./extended.html">Extended Mission</a></li>
+                                <li><a href="./operations.html">Operations</a></li>
+                                <li><a href="./primary-science.html">Science</a></li>
                                 <li><a href="./publications.html">Publications</a></li>
                             </ul>
                         </li>
                         <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">TESS Data <b class="caret"></b></a>
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Using TESS <b class="caret"></b></a>
                             <ul class="dropdown-menu">
-                                <li><a href="./data-handel.html">Data Pipeline</a></li>
-                                <li><a href="./data-products.html">Data Products</a></li>
-                                <li><a href="./data-access.html">Data Access</a></li>
-                                <li><a href="./community.html">Community Products</a></li>
+                                <li><a href="./status.html">Observing dates</a></li>
+                                <li><a href="./proposing-investigations.html">Guest Investigator Program</a></li>
+                                <li><a href="./observing-technical.html">Technical details</a></li>
+                                <li><a href="./proposal-tools.html">Proposal tools</a></li>
+                                <li><a href="./approved-programs.html">Approved programs</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Data analysis <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="./data-access.html">Data access</a></li>
+                                <li><a href="./software.html">Analysis software</a></li>
+                                <li><a href="./community.html">Community products</a></li>
                                 <li><a href="./documentation.html">Documentation</a></li>
-                            </ul>
-                        </li>
-                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Observations <b class="caret"></b></a>
-                            <ul class="dropdown-menu">
-                                <li><a href="./observing-technical.html">Technical Details</a></li>
-                                <li><a href="./sector.html">Sector Dates</a></li>
-                            </ul>
-                        </li>
-                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tools <b class="caret"></b></a>
-                            <ul class="dropdown-menu">
-                                <li><a href="./proposal-tools.html">Proposal & Observation Tools</a></li>
-                                <li><a href="./tools2.html">Data analysis Tools</a></li>
-                                <li><a href="./tools3.html">Community Tools</a></li>
-                            </ul>
-                        </li>
-                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Proposing <b class="caret"></b></a>
-                            <ul class="dropdown-menu">
-                                <li><a href="./proposing-investigations.html">Guest Investigator Proposals</a></li>
-                                <li><a href="./ddt.html">Director's Discretionary Target program</a></li>
-                                <li><a href="./proposal-tips.html">Proposal Tips</a></li>
-                                <li><a href="./proposal-templates.html">Proposal Templates</a></li>
-                                <li><a href="./approved-programs.html">Approved GI Programs</a></li>
                             </ul>
                         </li>
                         <li class="dropdown">
@@ -151,11 +132,11 @@ in August 2015, using pelican-bootstrap and flatly.
                                 <li><a href="./media.html">Media support</a></li>
                             </ul>
                         </li>
-                            <li><a href="./archives.html">News</a></li>
                             <li><a href="./faq.html">FAQ</a></li>
+                            <li><a href="https://heasarc.gsfc.nasa.gov">HEASARC</a></li>
             </ul>
             
-            <ul class="nav navbar-nav">
+            <ul class="nav navbar-nav navbar-right">
                 <li>
                     <a href="./helpdesk.html"><i class="fa fa-info-circle fa-lg"></i> Helpdesk</a>
                 </li>
@@ -166,106 +147,60 @@ in August 2015, using pelican-bootstrap and flatly.
     </div>
 </div> <!-- /.navbar -->
 <!-- Banner -->
-<head>
-  <link rel="stylesheet" href="/Users/hounsell/Desktop/NEW_TESS_WEBB/TessGiWebsite/themes/pelican-bootstrap3-kepler/static/css/slide-transition.css">
-</head>
+<style>
+	#banner{
+	    background-image:url("./images/tess-banner-inverted_v2.jpg");
+	}
+</style>
 
-<body>
-  <slider>
-    <slide>
-	<text-block>
-	  <b>TESS</b><br>
-	  Science Support Center
-	</text-block>
-    </slide>
-    <slide>
-	<p><b>FIRST LIGHT</b>
-	<br></br>TESS took this snapshot of the Large Magellanic Cloud and the bright
-	star R Doradus with just a single detector of one of its cameras on Tuesday, Aug 7th 2018. The frame is part of the southern
-	sky TESS captured in its “first light” science image as part of its initial round of data collection.
-	<br></br>For more information see <a href='https://www.nasa.gov/feature/goddard/2018/nasa-s-tess-shares-first-science-image-in-hunt-to-fin\d-new-worlds'><u>here</u></a>
-	<br></br><i>Image Credit: NASA/MIT/TESS</i></p>
-	<text-block>
-	  <b>TESS</b><br>
-	  Science Support Center
-	</text-block>
-    </slide>
-	
-    <slide><p>
-	<b>Comet Catching</b>
-	<br></br>Before TESS began science operations, the planet hunter sent back a stunning sequence of serendipitous images showing the motion of a comet. This is comet C/2018 N1, mapped here over a 17 hour period by TESS on June 25th 2018.
-	<br></br>For more information see <a href='https://www.nasa.gov/feature/goddard/2018/nasa-s-planet-hunting-tess-catches-a-comet-before-starting-science'><u>here</u></a>
-	<br></br><i>Massachusetts Institute of Technology/NASA’s Goddard Space Flight Center</i></p>
-      <text-block>
-	<b>TESS</b><br>
-	Science Support Center
-      </text-block>
-    </slide>
-	
-    <slide><p>
-	<b>M Dwarf</b>
-	<br></br>Illustration of NASA's Transiting Exoplanet Survey Satellite observing an M dwarf star with orbiting planets.
-	<br></br>For more infomation look <a href="https://www.nasa.gov/image-feature/goddard/2018/tess-illustration"><u>here</u></a>
-	<br></br><i>Image Credit: NASA's Goddard Space Flight Center.</i></p>
-	<text-block>
-          <b>TESS</b><br>
-          Science Support Center
-	</text-block>
-    </slide>
-	
-    <slide><p>
-	<b>Lava Planet</b>
-	<br></br>Illustration of NASA's Transiting Exoplanet Survey Satellite in front of a lava
-	planet orbiting its host star.
-	<br></br>For more information look <a href='https://www.nasa.gov/image-feature/goddard/2018/tess-illustration-1'><u>here</u></a>
-	<br></br><i>Image Credit: NASA's Goddard Space Flight Center.</i></p>
-	<text-block>
-          <b>TESS</b><br>
-          Science Support Center
-	</text-block>
-    </slide>
-	
-    <slide><p>
-	<b>Worlds orbiting other stars</b>
-	<br></br>The worlds are called“exoplanets,” and they come in a wide variety
-	of sizes, from gas giants larger than Jupiter to small, rocky planets about as big around as Earth or Mars.
-	This rocky super-Earth is an illustration of the type of planets future telescopes, like NASA's TESS,
-	hope to find outside our solar system.
-	<br></br>For more information look <a href='https://www.nasa.gov/image-feature/nasas-tess-mission-hopes-to-find-exoplanets-beyond-our-solar-system'><u>here</u></a>
-	<br></br><i>Image Credit: ESO/M. Kornmesser.</i></p>
-	<text-block>
-          <b>TESS</b><br>
-          Science Support Center
-	</text-block>
-    </slide>
-	
-    <slide><p>
-	<b>AU Mic b</b>
-	<br></br>Located less than 32 light-years from Earth, AU Microscopii is among the youngest planetary systems ever observed by astronomers, and its star throws vicious temper tantrums. NASA celebrates this discovery with a new poster — based on real science — in its popular Galaxy of Horrors series.
-	<br></br>For more information look <a href='https://www.nasa.gov/feature/goddard/2020/nasa-s-tess-spitzer-missions-discover-a-world-orbiting-a-unique-young-star'><u>here</u></a>
-	<br></br><i>Image Credit: NASA-JPL/Caltech</i></p>
-	<text-block>
-          <b>TESS</b><br>
-          Science Support Center
-	</text-block>
-    </slide>
-	
-    <slide><p>
-	<b>LHS 3844b</b>
-	<br></br>Discovered in 2018 by NASA's Transiting Exoplanet Satellite Survey (TESS) mission,
-	planet LHS 3844b is located 48.6 light-years from Earth and has a radius 1.3 times that of Earth.
-	<br></br>For more information look <a href='https://www.nasa.gov/image-feature/a-glimpse-of-a-rocky-exoplanets-surface'><u>here</u></a>
-        <br></br><i>Image Credit:/JPL-Caltech</i></p>
-	<text-block>
-          <b>TESS</b><br>
-          Science Support Center
-	</text-block>
-    </slide>
+<div id="banner">
+	<div class="container">
+		<div class="copy">
+			<h1>TESS</h1>
+				<p class="intro">Science Support Center</p>
+		</div>
+	</div>
+</div><!-- End Banner -->
 
-  </slider>
-  
-</body><!-- End Banner -->
 
+<div class="container container-wide container-icons">
+<div class="container">
+      <div class="row">
+        <div class="col-md-4">
+          <h2>
+            <i class="fa fa-lg fa-margin exoplanet-icon-transit-borderless"></i>
+            <a href="objectives.html">TESS mission</a>
+          </h2>
+          <p>
+            The Transiting Exoplanet Survey Satellite (TESS) is a two-year survey that will discover exoplanets in orbit around bright stars.  
+          </p>
+          <p>
+            <a class="btn btn-primary" href="objectives.html">More &raquo;</a>
+          </p>
+        </div>
+        <div class="col-md-4">
+          <h2>
+            <i class="fa fa-lg fa-margin exoplanet-icon-light-curve-borderless"></i>
+            <a href="proposing-investigations.html">Proposing science</a>
+          </h2>
+          <p>
+            The TESS Guest Investigator Program is an annual call where scientists can propose new observations and receive funding and support.
+          </p>
+          <p><a class="btn btn-primary" href="proposing-investigations.html">More &raquo;</a></p>
+        </div>
+        <div class="col-md-4">
+          <h2>
+            <i class="fa fa-lg fa-margin exoplanet-icon-planet-multi-borderless"></i>
+            <a href="data-access.html">Data access</a>
+          </h2>
+          <p>
+            Access data, documentation, data analysis software, and find information on the follow-up observing program.
+          </p>
+          <p><a class="btn btn-primary" href="data-access.html">More &raquo;</a></p>
+        </div>
+      </div>
+</div>
+</div>
 
 <div class="container">
 
@@ -397,78 +332,16 @@ in August 2015, using pelican-bootstrap and flatly.
 </div>
 </a> -->
 
-<!-- key information panel -->
-<div class="panel panel-default">
-  <div class="panel-heading">
-    <h4 class="panel-title"><i class="fa fa-search fa-lg"></i><span class="icon-label"><strong>Key Information</strong></span></h4>
-  </div>
-  <div>
-    <h4>
-      &nbsp;&nbsp;
-      <i class="fa fa-lg fa-margin exoplanet-icon-transit-borderless"></i>
-      <a href="extended.html">The TESS extended mission</a>
-      <p></p>
-
-      &nbsp;&nbsp;
-      <i class="fa fa-lg fa-margin exoplanet-icon-observatory-borderless"></i>
-      <a href="the-tess-space-telescope.html">Telescope information</a>
-      <p></p>
-
-      &nbsp;&nbsp;
-      <i class="fa fa-lg fa-margin exoplanet-icon-light-curve-borderless"></i>
-      <a href="data-products.html">Understanding TESS data products</a>
-      <p></p>
-
-      &nbsp;&nbsp;
-      <i class="fa fa-lg fa-margin exoplanet-icon-download-borderless"></i>
-      <a href="data-access.html">How to access the data</a>
-      <p></p>
-
-      &nbsp;&nbsp;
-      <i class="fa fa-lg fa-margin exoplanet-icon-planet-confirmed-borderless"></i>
-      <a href="https://heasarc.gsfc.nasa.gov/cgi-bin/tess/webtess/wtv.py">Web TESS Target Tool</a>
-      <p></p>
-      
-      &nbsp;&nbsp;
-      <i class="fa fa-lg fa-margin exoplanet-icon-planet-multi-borderless"></i>
-      <a href="sector.html">Observing dates</a>
-      <p></p>
-
-      &nbsp;&nbsp;
-      <i class="fa fa-lg fa-margin exoplanet-icon-book-borderless"></i>
-      <a href="proposing-investigations.html">Proposing science</a>
-      <p></p>
-
-      &nbsp;&nbsp;
-      <i class="fa fa-lg fa-margin exoplanet-icon-question-borderless"></i>
-      <a href="faq.md">Frequently asked questions</a>
-      <p></p>
-
-      &nbsp;&nbsp;
-      <i class="fa fa-lg fa-margin exoplanet-icon-discussion-borderless"></i>
-      <a href="https://goo.gl/forms/p4ZqiTQSEHjbM6nz2">Volunteer to serve on a review</a>
-      <p></p>
-
-      &nbsp;&nbsp;
-      <i class="fa fa-lg fa-margin exoplanet-icon-plot-borderless"></i>
-      <a href="media.html">Do you a have news-worthy TESS &nbsp;&nbsp;&nbsp;result?</a>
-      <p></p>
-      
-    </h4>
-  </div>
-</div>
-
 <!-- Mailing list subscribe -->
 <div class="panel panel-default">
   <div class="panel-heading">
-    <h4 class="panel-title"><i class="fa fa-envelope-o fa-lg"></i><span class="icon-label"><strong>Subscribe to our mailing list</strong></span></h4>
+    <h4 class="panel-title"><i class="fa fa-envelope-o fa-lg"></i><span class="icon-label">Subscribe to our mailing list</span></h4>
   </div>
   <div class="panel-body entry-content">
     <!-- Begin MailChimp Signup Form -->
     <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
     <div id="mc_embed_signup">
-    <form action="//nasa.us15.list-manage.com/subscribe/post?u=157ce755ac3a9b51b8ab7373b&amp;id=c62f997f18" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscri\
-be-form" class="validate" target="_blank" novalidate>
+    <form action="//nasa.us15.list-manage.com/subscribe/post?u=157ce755ac3a9b51b8ab7373b&amp;id=c62f997f18" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
         <div id="mc_embed_signup_scroll">
     <div class="mc-field-group">
       <label for="mce-EMAIL">Email address </label>
@@ -483,18 +356,61 @@ be-form" class="validate" target="_blank" novalidate>
         </div>
     </form>
    </div>
-    <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Arr\
-ay(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict\
-(true);</script>
+    <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
     <!--End mc_embed_signup-->
   </div>
 </div>
 
+<!-- Key information panel -->
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h4 class="panel-title"><i class="fa fa-paperclip fa-lg"></i><span class="icon-label">Key information</span></h4>
+  </div>
+  <div class="panel-body entry-content">
+    <ul class="list-group">
+      <li class="list-group-item">
+          <a href="https://heasarc.gsfc.nasa.gov/cgi-bin/tess/webtess/wtv.py">
+              Web TESS Target Tool &raquo;
+          </a>
+      </li>
+      <li class="list-group-item">
+          <a href="https://heasarc.gsfc.nasa.gov/docs/tess/status.html">
+              Observing dates &raquo;
+          </a>
+      </li>
+      <li class="list-group-item">
+          <a href="http://archive.stsci.edu/tess/summary.html">
+              Data at MAST &raquo;
+          </a>
+      </li>
+      <li class="list-group-item">
+          <a href="faq.html">
+              Frequently asked questions &raquo;
+          </a>
+      </li>
+      <li class="list-group-item">
+          <a href="https://goo.gl/forms/p4ZqiTQSEHjbM6nz2">
+              Volunteer to serve on a review panel &raquo;
+          </a>
+      </li>
+      <li class="list-group-item">
+          <a href="media.html">
+              Do you have a news-worthy TESS result? &raquo;
+          </a>
+      </li>
+      <li class="list-group-item">
+          <a href="helpdesk.html">
+              Contact us &raquo;
+          </a>
+      </li>
+    </ul>
+  </div>
+</div>
 
 <!-- Important dates panel -->
 <div class="panel panel-default">
   <div class="panel-heading">
-    <h4 class="panel-title"><i class="fa fa-calendar fa-lg"></i><span class="icon-label"><strong>Important dates</strong></span></h4>
+    <h4 class="panel-title"><i class="fa fa-calendar fa-lg"></i><span class="icon-label">Important dates</span></h4>
   </div>
   <div class="panel-body">
     <ul class="list-group">
@@ -509,9 +425,9 @@ ay(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]=
 </div>
 
 <!-- Upcoming Meetings panel -->
-<div class="panel panel-default">
+<!-- <div class="panel panel-default">
   <div class="panel-heading">
-    <h4 class="panel-title"><i class="fa fa-group fa-lg"></i><span class="icon-label"><strong>Upcoming meetings</strong></span></h4>
+    <h4 class="panel-title"><i class="fa fa-group fa-lg"></i><span class="icon-label">Upcoming meetings</span></h4>
   </div>
   <div class="panel-body">
     <ul class="list-group">
@@ -521,14 +437,7 @@ ay(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]=
       </li>
     </ul>
   </div>
-</div>
-
-
-<!-- Twitter panel -->
-<div>
-  <!-- Code provided by Twitter: -->  
-  <a class="twitter-timeline" data-width="360" data-height="400" href="https://twitter.com/tesshelp">Tweets by us</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
+</div> -->
 
 <!-- Dashboard -->
 <!-- <div class="panel panel-default">
@@ -551,6 +460,11 @@ ay(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]=
   </div>
 </div> -->
 
+<!-- Twitter panel -->
+<div>
+  <!-- Code provided by Twitter: -->  
+  <a class="twitter-timeline" data-width="360" data-height="400" href="https://twitter.com/tesshelp">Tweets by us</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
 
 <!-- Special-purpose panel -->
 <!--

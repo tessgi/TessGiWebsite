@@ -1,0 +1,10 @@
+# TESS Program G011229
+
+Title: Precovery Of Orbital Periods For TESS Single Transits With Kelt
+
+PI: Pepper, Joshua - Lehigh University
+
+Type: Small
+
+Summary: About 20% of the TESS transit detections will be for planets with only a single transit in the TESS light curve. These systems are especially interesting, since they represent planets at longer orbital periods and therefore a much wider range of equilibrium temperatures. However, without an accurate periods for those planets, it is not possible to schedule future transit observations to measure atmospheric properties or other characteristics. We propose a project that will apply existing photometric data from the KELT transit survey to precover the ephemerides for a significant subset of the TESS single-transit events, including Neptunes out to 25-day periods and Jupiters out to 300-day periods. This effort can be applied to planets detected in both the 2-minute data and the FFIs.         
+

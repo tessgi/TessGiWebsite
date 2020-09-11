@@ -1,0 +1,10 @@
+# TESS Program G011103
+
+Title: Difference Imaging Of Star Clusters At Low Galactic Latitude
+
+PI: Hartman, Joel - Princeton University
+
+Type: Large
+
+Summary: We propose to produce, and make public, light curves for all ~100,000 known star cluster members brighter than T = 16 observed in the TESS full-frame images during Cycle 1. The light curves will be generated using an image subtraction photometry procedure which is essential for very crowded regions, and which we have applied successfully to observations obtained with very similar instruments to TESS. We will search the light curves for transiting planets, expecting to triple the number of transiting planets known in clusters, which will shed light on the timescales for processes in planet formation, evolution, and migration. The public data set will also be a gold mine for stellar astrophysics, including studies of gyrochronology, variability and tests of stellar evolution.                
+
