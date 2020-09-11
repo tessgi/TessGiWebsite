@@ -1,0 +1,13 @@
+# TESS Program G03241
+
+Title: Asteroseismology Of Hot White Dwarf Stars And Planetary Nebula Nuclei
+
+PI: Kawaler, Steven - Iowa State University
+
+Type: SMALL
+
+Summary: This program will obtain short cadence data on known pulsating hot white dwarf (GW Vir) stars, and pulsating planetary nebula nuclei (PNNVs). The main science goal is to explore the coherence of the known oscillations. K2 data showed that some of the longer-period modes in GW Vir itself showed evidence of unexpected stochastic behavior, similar to what is seen in long-period modes in cooler white dwarfs. We plan to study this effect in known hot pulsators. The high duty cycle and long duration of TESS light curves, which far exceed what is available from ground-based studies, are needed. While 2 minute integrations will suffice for all targets, some have short periods for which aliasing may be an issue, so 20 second integrations are preferred for those stars.
+
+
+# Sector 030 targets observed (2 min: 1, 20 s: 1)
+3905338,11.7638,-11.872,12.31,G03241;20SECONDTARGET
