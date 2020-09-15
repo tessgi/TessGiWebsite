@@ -17,7 +17,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - TESS Science Support Center" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2020-09-14" />
+    <meta name="dc.date.modified" content="2020-09-15" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Users of TESS Data" />
     <meta name="dc.identifier" content="https://heasarc.gsfc.nasa.gov/docs/tess/" />
@@ -61,7 +61,11 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <link href="./theme/css/exoplanet_archive_icons.css" rel="stylesheet">
     <link href="./theme/css/mission_icons.css" rel="stylesheet">
-
+    <link href="./theme/css/photobanner.css" rel="stylesheet">
+    <link href="./theme/css/slide-container.css" rel="stylesheet">
+    <link href="./theme/css/slide-transition.css" rel="stylesheet"> 
+    <link href="./theme/css/slide-transition2.css" rel="stylesheet"> 
+    
     <link href="./theme/css/pygments/native.css" rel="stylesheet">
     <link rel="stylesheet" href="./theme/css/style.css" type="text/css"/>
 
@@ -95,34 +99,49 @@ in August 2015, using pelican-bootstrap and flatly.
         </div>
         <div class="collapse navbar-collapse navbar-ex1-collapse">
             <ul class="nav navbar-nav">
-                            <li><a href="./archives.html">News</a></li>
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Mission <b class="caret"></b></a>
                             <ul class="dropdown-menu">
                                 <li><a href="./objectives.html">Objectives</a></li>
                                 <li><a href="./the-tess-space-telescope.html">Telescope</a></li>
-                                <li><a href="./operations.html">Operations</a></li>
-                                <li><a href="./primary-science.html">Science</a></li>
+                                <li><a href="./primary.html">Primary Mission</a></li>
+                                <li><a href="./extended.html">Extended Mission</a></li>
                                 <li><a href="./publications.html">Publications</a></li>
                             </ul>
                         </li>
                         <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Using TESS <b class="caret"></b></a>
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">TESS Data <b class="caret"></b></a>
                             <ul class="dropdown-menu">
-                                <li><a href="./status.html">Observing dates</a></li>
-                                <li><a href="./proposing-investigations.html">Guest Investigator Program</a></li>
-                                <li><a href="./observing-technical.html">Technical details</a></li>
-                                <li><a href="./proposal-tools.html">Proposal tools</a></li>
-                                <li><a href="./approved-programs.html">Approved programs</a></li>
+                                <li><a href="./data-handel.html">Data Pipeline</a></li>
+                                <li><a href="./data-products.html">Data Products</a></li>
+                                <li><a href="./data-access.html">Data Access</a></li>
+                                <li><a href="./community.html">Community Products</a></li>
+                                <li><a href="./documentation.html">Documentation</a></li>
                             </ul>
                         </li>
                         <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Data analysis <b class="caret"></b></a>
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Observations <b class="caret"></b></a>
                             <ul class="dropdown-menu">
-                                <li><a href="./data-access.html">Data access</a></li>
-                                <li><a href="./software.html">Analysis software</a></li>
-                                <li><a href="./community.html">Community products</a></li>
-                                <li><a href="./documentation.html">Documentation</a></li>
+                                <li><a href="./observing-technical.html">Technical Details</a></li>
+                                <li><a href="./sector.html">Sector Dates</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tools <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="./proposal-tools.html">Proposal & Observation Tools</a></li>
+                                <li><a href="./tools2.html">Data analysis Tools</a></li>
+                                <li><a href="./tools3.html">Community Tools</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Proposing <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="./proposing-investigations.html">Guest Investigator Proposals</a></li>
+                                <li><a href="./ddt.html">Director's Discretionary Target program</a></li>
+                                <li><a href="./proposal-tips.html">Proposal Tips</a></li>
+                                <li><a href="./proposal-templates.html">Proposal Templates</a></li>
+                                <li><a href="./approved-programs.html">Approved GI Programs</a></li>
                             </ul>
                         </li>
                         <li class="dropdown">
@@ -132,11 +151,11 @@ in August 2015, using pelican-bootstrap and flatly.
                                 <li><a href="./media.html">Media support</a></li>
                             </ul>
                         </li>
+                            <li><a href="./archives.html">News</a></li>
                             <li><a href="./faq.html">FAQ</a></li>
-                            <li><a href="https://heasarc.gsfc.nasa.gov">HEASARC</a></li>
             </ul>
             
-            <ul class="nav navbar-nav navbar-right">
+            <ul class="nav navbar-nav">
                 <li>
                     <a href="./helpdesk.html"><i class="fa fa-info-circle fa-lg"></i> Helpdesk</a>
                 </li>
@@ -210,22 +229,9 @@ TESS</a>.</p>
 <td style="width: 35em;"><a href="data/tess-response-function-v2.0.csv">TESS bandpass response function</a></td>
 <td> </td>
 </tr>
-<!--   <tr>
-    <td style="width: 35em;"><a
-    href='data/core-science-targets-v2.csv'>Top 100,000 priority
-    targets in the southern ecliptic hemisphere</a></td>
-    <td> </td>
-  </tr>
-
-  <tr>
-    <td style="width: 35em;"><a
-    href='data/core-science-targets-cycle2-v1.csv'>Top 100,000 priority
-    targets in the northern ecliptic hemisphere</a></td>
-    <td> </td>
-  </tr> -->
 </table>
 <h2 id="tess-observatory-guide">TESS Observatory Guide</h2>
-<p>A number of documents have been created to describe the TESS mission. We recommend that users start with the <strong><a href="docs/TESS_observatory_guide_v1.1.pdf">TESS Observatory Guide</a></strong>. This guide serves two purposes. The first is to provide a comprehensive description of the TESS observatory design, operations, and capabilities. The second is to provide potential Guest Investigator (GI) proposers detailed information regarding the TESS GI program. This includes descriptions of GI program procedures, services, and tools. </p>
+<p>A number of documents have been created to describe the TESS mission. An initial document which might be useful to a first time user is the <strong><a href="docs/TESS_observatory_guide_v1.1.pdf">TESS Observatory Guide</a></strong>. Although now dated this guide provide a comprehensive description of the TESS observatory design, operations, and capabilities. Note that the proposal section of the guide refers to the <a href="">prime mission</a> only and that users wishing to apply for time should refer to the <a href="primary.html">extended mission</a> <a href="proposing-investigations.html">guest investigator page</a>.</p>
 <h2 id="tess-project-papers">TESS project papers</h2>
 <p>A description of the TESS observatory and science mission: <a href="http://adsabs.harvard.edu/abs/2015JATIS...1a4003R">Ricker et al., 2015, JATIS, 1, 014003</a></p>
 <p>TESS science yield predictions: <a href="http://adsabs.harvard.edu/abs/2015ApJ...809...77S">Sullivan et al., 2015, ApJ, 809, 77</a> and <a href="http://adsabs.harvard.edu/abs/2017ApJ...837...99S">erratum</a></p>
@@ -237,7 +243,7 @@ TESS</a>.</p>
 Research Center developed a TESS data processing pipeline that
 generates calibrated pixels and light curves, searches for periodic
 transit events, and generates validation products for the transit-like
-features in the light curves. All TESS SPOC data products are or will be archived to the Mikulski Archive for Space Telescopes (MAST).</p>
+features in the light curves. All TESS SPOC data products are or will be archived to the <a href="https://archive.stsci.edu/tess/">Mikulski Archive for Space Telescopes (MAST)</a>.</p>
 <p>A description of the SPOC pipeline can be found here: <a href="http://adsabs.harvard.edu/abs/2016SPIE.9913E..3EJ">Jenkins et al., 2016</a>. A PDF version of the article can be downloaded <a href="docs/jenkinsSPIE2016-copyright.pdf">here</a> provided acknowledgement of the full SPIE citation: Jenkins et al. 2016. "The TESS science processing operations center", Proc. SPIE 9913, Software and Cyberinfrastructure for Astronomy IV, 99133E (August 8, 2016); <a href="http://dx.doi.org/10.1117/12.2233418">doi:10.1117/12.2233418</a>. </p>
 <p>The SPOC pipeline is based on the Kepler Science Processing Pipeline, which is documented <a href="http://adsabs.harvard.edu/abs/2010ApJ...713L..87J">here</a>, and references therein.</p>
 <p>The <a href="https://archive.stsci.edu/missions/tess/doc/EXP-TESS-ARC-ICD-TM-0014.pdf">TESS Science Data Products Description Document</a> describes data product formats. Files are produced primarily by the TESS Science Processing Operations Center (SPOC) at NASA Ames Research Center.</p>
@@ -322,7 +328,7 @@ features in the light curves. All TESS SPOC data products are or will be archive
       <!-- NASA logo and notices -->
       <div class="row" style="margin-top:2em;">
          <div class="col-md-10"> <a href="http://www.nasa.gov/"><img src="./images/NASA_logo_vector_lg.png" width="30" alt="NASA Logo"></a> 
-         Last modified: Fri 11 September 2020
+         Last modified: Mon 31 August 2020
             &middot; Editor: Thomas Barclay &middot; NASA Official: Patricia T Boyd 
             &middot; <a href="http://www.nasa.gov/about/highlights/HP_Privacy.html">Privacy Policy and Important Notices</a><p></p>         </div>
          <div class="col-md-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
