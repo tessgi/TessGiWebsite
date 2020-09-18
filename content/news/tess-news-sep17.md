@@ -36,7 +36,7 @@ WD 1856 b’s close proximity to its WD host is unusual as the creation of a WD 
 
 ![Zwintz](images/Zwintz.png)
 
-**Fig 1:** *Taken from Zwintz et. al., (2020). Top panel presets the complete TESS light curve with sectors 17 and 18 indicated by red marks. The bottom panel is a 4 day mom indicating the pulsational variability.*
+**Fig 1:** *Taken from Zwintz et. al., (2020). Top panel presets the complete TESS light curve with sectors 17 and 18 indicated by red marks. The bottom panel is a 4 day zoom indicating the pulsational variability.*
 
 ![wd1856](images/wd_1856.png)
 
