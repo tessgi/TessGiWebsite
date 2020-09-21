@@ -1,0 +1,10 @@
+# TESS Program G022136
+
+Title: The Rotational Period Relation Across Young Moving Groups
+
+PI: Faherty, Jacqueline - American Museum Of Natural History
+
+Type: SMALL
+
+Summary: The 150 pc volume around the Sun is a laboratory for studying all aspects of star and planet formation. That statement is especially true regarding co-moving, co-evolving young associations. Gaia is revolutionizing our understanding of young groups of stars and TESS is well placed to immediately begin complimenting and enhancing our knowledge of these stellar associations and their planetary systems. For this proposal, our team has recovered 3578 confirmed or high-probability members of young moving groups that will have full frame images. We propose to use these stars to establish the rotational period relation for solar to M dwarf stars across 3.7 Myr (Epsilon Cha) - 750 Myr (Hyades) moving groups as well as confirm candidate members through their fits to the relations.
+

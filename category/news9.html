@@ -17,7 +17,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - TESS Science Support Center" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2020-09-15" />
+    <meta name="dc.date.modified" content="2020-09-21" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Users of TESS Data" />
     <meta name="dc.identifier" content="https://heasarc.gsfc.nasa.gov/docs/tess/" />
@@ -62,11 +62,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <link href="../theme/css/exoplanet_archive_icons.css" rel="stylesheet">
     <link href="../theme/css/mission_icons.css" rel="stylesheet">
-    <link href="../theme/css/photobanner.css" rel="stylesheet">
-    <link href="../theme/css/slide-container.css" rel="stylesheet">
-    <link href="../theme/css/slide-transition.css" rel="stylesheet"> 
-    <link href="../theme/css/slide-transition2.css" rel="stylesheet"> 
-    
+
     <link href="../theme/css/pygments/native.css" rel="stylesheet">
     <link rel="stylesheet" href="../theme/css/style.css" type="text/css"/>
 
@@ -100,49 +96,34 @@ in August 2015, using pelican-bootstrap and flatly.
         </div>
         <div class="collapse navbar-collapse navbar-ex1-collapse">
             <ul class="nav navbar-nav">
+                            <li><a href="../archives.html">News</a></li>
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Mission <b class="caret"></b></a>
                             <ul class="dropdown-menu">
                                 <li><a href="../objectives.html">Objectives</a></li>
                                 <li><a href="../the-tess-space-telescope.html">Telescope</a></li>
-                                <li><a href="../primary.html">Primary Mission</a></li>
-                                <li><a href="../extended.html">Extended Mission</a></li>
+                                <li><a href="../operations.html">Operations</a></li>
+                                <li><a href="../primary-science.html">Science</a></li>
                                 <li><a href="../publications.html">Publications</a></li>
                             </ul>
                         </li>
                         <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">TESS Data <b class="caret"></b></a>
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Using TESS <b class="caret"></b></a>
                             <ul class="dropdown-menu">
-                                <li><a href="../data-handel.html">Data Pipeline</a></li>
-                                <li><a href="../data-products.html">Data Products</a></li>
-                                <li><a href="../data-access.html">Data Access</a></li>
-                                <li><a href="../community.html">Community Products</a></li>
+                                <li><a href="../status.html">Observing dates</a></li>
+                                <li><a href="../proposing-investigations.html">Guest Investigator Program</a></li>
+                                <li><a href="../observing-technical.html">Technical details</a></li>
+                                <li><a href="../proposal-tools.html">Proposal tools</a></li>
+                                <li><a href="../approved-programs.html">Approved programs</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Data analysis <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="../data-access.html">Data access</a></li>
+                                <li><a href="../software.html">Analysis software</a></li>
+                                <li><a href="../community.html">Community products</a></li>
                                 <li><a href="../documentation.html">Documentation</a></li>
-                            </ul>
-                        </li>
-                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Observations <b class="caret"></b></a>
-                            <ul class="dropdown-menu">
-                                <li><a href="../observing-technical.html">Technical Details</a></li>
-                                <li><a href="../sector.html">Sector Dates</a></li>
-                            </ul>
-                        </li>
-                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tools <b class="caret"></b></a>
-                            <ul class="dropdown-menu">
-                                <li><a href="../proposal-tools.html">Proposal & Observation Tools</a></li>
-                                <li><a href="../tools2.html">Data analysis Tools</a></li>
-                                <li><a href="../tools3.html">Community Tools</a></li>
-                            </ul>
-                        </li>
-                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Proposing <b class="caret"></b></a>
-                            <ul class="dropdown-menu">
-                                <li><a href="../proposing-investigations.html">Guest Investigator Proposals</a></li>
-                                <li><a href="../ddt.html">Director's Discretionary Target program</a></li>
-                                <li><a href="../proposal-tips.html">Proposal Tips</a></li>
-                                <li><a href="../proposal-templates.html">Proposal Templates</a></li>
-                                <li><a href="../approved-programs.html">Approved GI Programs</a></li>
                             </ul>
                         </li>
                         <li class="dropdown">
@@ -152,11 +133,11 @@ in August 2015, using pelican-bootstrap and flatly.
                                 <li><a href="../media.html">Media support</a></li>
                             </ul>
                         </li>
-                            <li><a href="../archives.html">News</a></li>
                             <li><a href="../faq.html">FAQ</a></li>
+                            <li><a href="https://heasarc.gsfc.nasa.gov">HEASARC</a></li>
             </ul>
             
-            <ul class="nav navbar-nav">
+            <ul class="nav navbar-nav navbar-right">
                 <li>
                     <a href="../helpdesk.html"><i class="fa fa-info-circle fa-lg"></i> Helpdesk</a>
                 </li>
@@ -173,6 +154,20 @@ in August 2015, using pelican-bootstrap and flatly.
     <div class="row">
         <div class="col-lg-12">
 
+            <article>
+                <h2><a href="../tess-pointing-during-year-2.html">TESS pointing during Year 2</a></h2>
+                <div class="summary"><p>During certain sectors of Year 2, the Earth and/or Moon are very close to or inside the pre-planned fields-of-view of cameras 1 and 2 for long periods, reducing the number of days useful for transit detections by those two cameras to as few as 7-10 days per sector. The …</p>
+                    <a class="btn btn-default btn-xs" href="../tess-pointing-during-year-2.html">more ...</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
+                <h2><a href="../hst-tess-advisory-committee-call-for-white-papers.html">HST-TESS Advisory Committee Call for White Papers</a></h2>
+                <div class="summary"><p>The HST-TESS Advisory Committee chartered by the STScI Director invites input from the astronomical community on the use of HST for follow-up observations of TESS exoplanet discoveries, including HST preparatory and supporting observations for JWST follow-up of TESS-discovered planets.  Further information on example topics, format, and white paper authorship can …</p>
+                    <a class="btn btn-default btn-xs" href="../hst-tess-advisory-committee-call-for-white-papers.html">more ...</a>
+                </div>
+            </article>
+            <hr/>
             <article>
                 <h2><a href="../arkrps-submission-page-now-open.html">ARK/RPS submission page now open</a></h2>
                 <div class="summary"><p>The proposal <a href="https://heasarc.gsfc.nasa.gov/ark/rps/">submission page for TESS Cycle 2 proposals</a> is now open. Proposals are due at 4.30pm eastern time on March 14, 2019. </p>
@@ -193,22 +188,6 @@ in August 2015, using pelican-bootstrap and flatly.
                 <div class="summary"><p>The TESS team is looking forward to sharing our excitement about the first science results, our high expectations for the two-year science survey, and our plans for the extended mission, at the upcoming winter AAS meeting in Seattle next month.</p>
 <p>Stop by our booth in the exhibit hall to find …</p>
                     <a class="btn btn-default btn-xs" href="../tess-sessions-at-the-aas-meeting-january-2019.html">more ...</a>
-                </div>
-            </article>
-            <hr/>
-            <article>
-                <h2><a href="../sector-1-and-2-data-now-available-at-mast.html">Sector 1 and 2 data now available at MAST</a></h2>
-                <div class="summary"><p>The first batch of TESS mission data is now available through <a href="http://archive.stsci.edu/tess/">MAST</a>. This release includes all data from Sectors 1 and 2, observed between July 25 and September 20, 2018. This includes both FFI and 2-min cadence data.</p>
-<p>The first release of the TESS instrument handbook is also available, as …</p>
-                    <a class="btn btn-default btn-xs" href="../sector-1-and-2-data-now-available-at-mast.html">more ...</a>
-                </div>
-            </article>
-            <hr/>
-            <article>
-                <h2><a href="../web-tess-viewing-tool-updated-for-cycle-2.html">Web TESS Viewing Tool updated for Cycle 2</a></h2>
-                <div class="summary"><p>The popular tool for determining when a target will be observed by TESS -- <a href="https://heasarc.gsfc.nasa.gov/cgi-bin/tess/webtess/wtv.py">Web TESS Viewing Tool (WTV)</a> -- has been updated to include both year 1 and year 2 of TESS.</p>
-<p>Below is an image of the first Cycle 2 sector, showing just camera 3. The Kepler field is overlaid …</p>
-                    <a class="btn btn-default btn-xs" href="../web-tess-viewing-tool-updated-for-cycle-2.html">more ...</a>
                 </div>
             </article>
             <hr/>
@@ -309,7 +288,7 @@ in August 2015, using pelican-bootstrap and flatly.
       <!-- NASA logo and notices -->
       <div class="row" style="margin-top:2em;">
          <div class="col-md-10"> <a href="http://www.nasa.gov/"><img src="../images/NASA_logo_vector_lg.png" width="30" alt="NASA Logo"></a> 
-         Last modified: Mon 31 August 2020
+         Last modified: Fri 18 September 2020
             &middot; Editor: Thomas Barclay &middot; NASA Official: Patricia T Boyd 
             &middot; <a href="http://www.nasa.gov/about/highlights/HP_Privacy.html">Privacy Policy and Important Notices</a><p></p>         </div>
          <div class="col-md-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>

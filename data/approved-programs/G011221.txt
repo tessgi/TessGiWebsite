@@ -1,0 +1,10 @@
+# TESS Program G011221
+
+Title: The Mass-Radius-Luminosity-Rotation Relation For M Dwarfs Determined From TESS Eclipsing Binaries
+
+PI: Muirhead, Philip - Boston University
+
+Type: Small
+
+Summary: We propose to determine accurate relationships to convert M dwarf absolute magnitudes and rotational periods to stellar masses and radii. We will achieve this by searching for, discovering and characterizing new low-mass stellar eclipsing binary stars in the TESS full-frame images. Our team has the tools and experience necessary to successfully execute the proposed research and achieve the proposed goals: The PI leads the TESS Cool Dwarf Team that produced the TESS Cool Dwarf Catalog. The Co-I, BU Ph.D. candidate E. Han, leads a robust in-house data reduction and ground-based follow-up program for Kepler eclipsing binary stars currently funded by a NASA XRP award. With funding from the TESS Cycle-1 program we will apply our existing Kepler pipeline to the TESS FFI data.                    
+

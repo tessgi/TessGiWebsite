@@ -1,0 +1,10 @@
+# TESS Program G022177
+
+Title: A Systematic Discovery And Study Of Eclipsing Pulsational Variables: Delta Scutis, Rr Lyrae, And Cepheids
+
+PI: Bloom, Joshua - University Of California (Berkeley)
+
+Type: SMALL
+
+Summary: Pulsating variable stars (PVs) in the instability strip are critical tools in Galactic structure studies and modern cosmology, representing key transition states in stellar evolution. Yet the masses and radii, fundamental quantities in comparing PVs with theory, are difficult to infer directly from observations. We propose to use TESS full-frame images to discover delta Scuti, RR Lyrae, and Cepheids in eclipsing systems. Eclipses, lasting >hours, with depths of order >0.5 1% are expected in binary systems with >days orbital periods. Discovery of an eclipsing RR Lyrae would be a first and new eclipsing delta Scuti and Cepheids would add to the precious few known. We will release catalogs of TESS PVs and undertake phased-resolved spectroscopic followup to determine mass and radii.
+
