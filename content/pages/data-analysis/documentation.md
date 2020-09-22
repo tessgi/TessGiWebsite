@@ -50,8 +50,8 @@ TESS](https://archive.stsci.edu/tess/index.html#documents).
   </tr>
 
   <tr>
-    <td style="width: 35em;"><a href='https://archive.stsci.edu/missions/tess/doc/EXP-TESS-ARC-ICD-TM-0014.pdf'>TESS Science Data Products Description Document</a></td>
-    <td>Tenenbaum and Jenkins 2018</td>
+    <td style="width: 35em;"><a href='https://archive.stsci.edu/missions/tess/doc/EXP-TESS-ARC-ICD-TM-0014-Rev-F.pdf'>TESS Science Data Products Description Document</a></td>
+    <td>Twicken et al., 2020</td>
   </tr>
 
   <tr>
