@@ -4,6 +4,14 @@ Save_as: tpub-exoplanets-by-month.html
 [TOC]
 
 
+2020-10
+-------
+
+1. [SYSTEMATIC PHASE CURVE STUDY OF KNOWN TRANSITING SYSTEMS FROM YEAR ONE OF THE TESS MISSION](http://adsabs.harvard.edu/abs/2020AJ....160..155W)  
+Wong, Ian, Shporer, Avi, Daylan, Tansu, et al.    
+2020, refereed ([2020AJ....160..155W](http://adsabs.harvard.edu/abs/2020AJ....160..155W))  
+
+
 2020-09
 -------
 
@@ -52,7 +60,7 @@ Weiss, Lauren M., Dai, Fei, Huber, Daniel, et al.
 2020, not refereed ([2020arXiv200903071W](http://adsabs.harvard.edu/abs/2020arXiv200903071W))  
 
 12. [A SUPER-EARTH AND A SUB-NEPTUNE ORBITING THE BRIGHT, QUIET M3 DWARF TOI-1266](http://adsabs.harvard.edu/abs/2020arXiv200904317D)  
-Demory, B. -O., Pozuelos, F. J., Maqueo Gomez Chew, Y., et al.    
+Demory, B. -O., Pozuelos, F. J., Gomez Maqueo Chew, Y., et al.    
 2020, not refereed ([2020arXiv200904317D](http://adsabs.harvard.edu/abs/2020arXiv200904317D))  
 
 
@@ -326,10 +334,6 @@ Cooke, Benjamin F., Pollacco, Don, Lendl, Monika, et al.
 7. [THE CARMENES SEARCH FOR EXOPLANETS AROUND M DWARFS. TWO PLANETS ON THE OPPOSITE SIDES OF THE RADIUS GAP TRANSITING THE NEARBY M DWARF LP 729-54](http://adsabs.harvard.edu/abs/2020arXiv200301140N)  
 Nowak, G., Luque, R., Parviainen, H., et al.    
 2020, not refereed ([2020arXiv200301140N](http://adsabs.harvard.edu/abs/2020arXiv200301140N))  
-
-8. [SYSTEMATIC PHASE CURVE STUDY OF KNOWN TRANSITING SYSTEMS FROM YEAR 1 OF THE TESS MISSION](http://adsabs.harvard.edu/abs/2020arXiv200306407W)  
-Wong, Ian, Shporer, Avi, Daylan, Tansu, et al.    
-2020, not refereed ([2020arXiv200306407W](http://adsabs.harvard.edu/abs/2020arXiv200306407W))  
 
 
 2020-02
