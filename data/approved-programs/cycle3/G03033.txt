@@ -1,0 +1,13 @@
+# TESS Program G03033
+
+Title: Testing The Oblique Pulsator Model With Simultaneous Ground-Based And TESS 20-Sec Photometry
+
+PI: Holdsworth, Daniel - University Of Central Lancashire
+
+Type: SMALL
+
+Summary: HD 6532 is a well studied member of the class of pulsationally variable stars called the rapidly oscillating Ap (roAp) stars. TESS Cycle 1 observations of HD 6532 revealed a very different pulsation mode geometry than that previously observed from the ground. With simultaneous TESS and ground-based multicolour photometry, we aim to investigate the origin of the observed differences, thus testing the oblique pulsator model, which is used to describe the pulsations in the roAp stars, in a way that has never been attempted before. The results will have the ability to discredit a widely used model, show that the star has changed its pulsation axis, or allow for the 3D modelling of the atmosphere of a star with photometry alone. To achieve our goals, we request the 20-sec cadence mode of TESS.
+
+
+# Sector 030 targets observed (2 min: 1, 20 s: 1)
+326185137,16.4819,-26.729,8.35,G03033;G03252;20SECONDTARGET

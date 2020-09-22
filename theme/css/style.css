@@ -21,11 +21,6 @@ div[id]:before, h1[id]:before, h2[id]:before, h3[id]:before, h4[id]:before {
   overflow-x: auto;
 }
 
-.blackandwhite {
-    filter: gray;
-    filter: grayscale(100%);
-}}
-
 /* for list-groups nested within a list-group-item, reset the bottom margin */
 .list-group-item > .list-group {
     margin-bottom: 0px;

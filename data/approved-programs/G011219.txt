@@ -1,0 +1,10 @@
+# TESS Program G011219
+
+Title: Understanding Giant Planet Migration In Our Solar System
+
+PI: Ryan, Erin - NASA/GSFC
+
+Type: Small
+
+Summary: Utilization of our Solar System as the model planetary system long has implications for exoplanetary studies. Complementary to exoplanetary studies which have found a high proportion of giant planets to their host stars, evidence within our own Solar System has been found for migration of the giant planets during the Solar System's Terrible Twos. Dynamical models suggest that some Kuiper Belt Objects, comets and Jovian resonant asteroids originated in the same source reservoir but unfortunately studies of surface composition are inadequate to test this hypothesis. We therefore propose to use TESS FFI data to study the Jupiter resonant asteroid populations in an effort to determine where they originated.                                                                                        
+

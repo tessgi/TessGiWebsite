@@ -1,0 +1,10 @@
+# TESS Program G022102
+
+Title: Planetary Archeology: Exploring The Planet Population Around Evolved Stars With TESS
+
+PI: Huber, Daniel - University Of Hawaii (Manoa)
+
+Type: SMALL
+
+Summary: Stars undergo dramatic changes as they evolve into red giants, providing a unique opportunity to study the response of exoplanets to changing irradiation, tides and mass loss in a manner that is not possible on the main sequence. We propose to use TESS full-frame images to detect and characterize giant planets transiting red-giant stars. Our program will combine transits, asteroseismology and radial velocities to address key questions such as (i) the occurrence of giant planets as a function of stellar mass, metallicity and evolutionary state and (ii) the mechanism(s) responsible for the inflation of hot Jupiters. Our program is the first near-all-sky survey that systematically combines asteroseismology and transit photometry to precisely characterize exoplanets orbiting evolved stars.
+
