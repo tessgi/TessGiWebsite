@@ -7,7 +7,7 @@ in August 2015, using pelican-bootstrap and flatly.
 >
 
 <head>
-    <title>TESS Director's Discretionary Target (DDT) program - TESS Science Support Center</title>
+    <title>Director's Discretionary Target (DDT) program - TESS Science Support Center</title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
@@ -37,16 +37,16 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <link href="./images/favicon.png" rel="icon">
 
-<link rel="canonical" href="./pages/tess-directors-discretionary-target-ddt-program.html">
+<link rel="canonical" href="./pages/directors-discretionary-target-ddt-program.html">
 
         <meta name="author" content="Thomas Barclay" />
-        <meta name="description" content="" />
+        <meta name="description" content="The DDT and out-of-cycle Target of Opportunity processes for TESS will draw heavily on those used successfully for the NuStar Explorer mission. Requests and targets will be submitted through a form on the MIT TESS website. The requests will be reviewed by the TESS PI, a science expert selected by …" />
 
     <meta property="og:site_name" content="TESS" />
     <meta property="og:type" content="article"/>
-    <meta property="og:title" content="TESS Director&#39;s Discretionary Target (DDT) program"/>
-    <meta property="og:url" content="./pages/tess-directors-discretionary-target-ddt-program.html"/>
-    <meta property="og:description" content="" />
+    <meta property="og:title" content="Director&#39;s Discretionary Target (DDT) program"/>
+    <meta property="og:url" content="./pages/directors-discretionary-target-ddt-program.html"/>
+    <meta property="og:description" content="The DDT and out-of-cycle Target of Opportunity processes for TESS will draw heavily on those used successfully for the NuStar Explorer mission. Requests and targets will be submitted through a form on the MIT TESS website. The requests will be reviewed by the TESS PI, a science expert selected by …" />
         <meta property="og:image"
               content="./images/logo-for-twitter.jpeg"/>
 
@@ -61,7 +61,11 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <link href="./theme/css/exoplanet_archive_icons.css" rel="stylesheet">
     <link href="./theme/css/mission_icons.css" rel="stylesheet">
-
+    <link href="./theme/css/photobanner.css" rel="stylesheet">
+    <link href="./theme/css/slide-container.css" rel="stylesheet">
+    <link href="./theme/css/slide-transition.css" rel="stylesheet"> 
+    <link href="./theme/css/slide-transition2.css" rel="stylesheet"> 
+    
     <link href="./theme/css/pygments/native.css" rel="stylesheet">
     <link rel="stylesheet" href="./theme/css/style.css" type="text/css"/>
 
@@ -95,34 +99,49 @@ in August 2015, using pelican-bootstrap and flatly.
         </div>
         <div class="collapse navbar-collapse navbar-ex1-collapse">
             <ul class="nav navbar-nav">
-                            <li><a href="./archives.html">News</a></li>
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Mission <b class="caret"></b></a>
                             <ul class="dropdown-menu">
                                 <li><a href="./objectives.html">Objectives</a></li>
                                 <li><a href="./the-tess-space-telescope.html">Telescope</a></li>
-                                <li><a href="./operations.html">Operations</a></li>
-                                <li><a href="./primary-science.html">Science</a></li>
+                                <li><a href="./primary.html">Primary Mission</a></li>
+                                <li><a href="./extended.html">Extended Mission</a></li>
                                 <li><a href="./publications.html">Publications</a></li>
                             </ul>
                         </li>
                         <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Using TESS <b class="caret"></b></a>
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">TESS Data <b class="caret"></b></a>
                             <ul class="dropdown-menu">
-                                <li><a href="./status.html">Observing dates</a></li>
-                                <li><a href="./proposing-investigations.html">Guest Investigator Program</a></li>
-                                <li><a href="./observing-technical.html">Technical details</a></li>
-                                <li><a href="./proposal-tools.html">Proposal tools</a></li>
-                                <li><a href="./approved-programs.html">Approved programs</a></li>
+                                <li><a href="./data-handel.html">Data Pipeline</a></li>
+                                <li><a href="./data-products.html">Data Products</a></li>
+                                <li><a href="./data-access.html">Data Access</a></li>
+                                <li><a href="./community.html">Community Products</a></li>
+                                <li><a href="./documentation.html">Documentation</a></li>
                             </ul>
                         </li>
                         <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Data analysis <b class="caret"></b></a>
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Observations <b class="caret"></b></a>
                             <ul class="dropdown-menu">
-                                <li><a href="./data-access.html">Data access</a></li>
-                                <li><a href="./software.html">Analysis software</a></li>
-                                <li><a href="./community.html">Community products</a></li>
-                                <li><a href="./documentation.html">Documentation</a></li>
+                                <li><a href="./observing-technical.html">Technical Details</a></li>
+                                <li><a href="./sector.html">Sector Dates</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tools <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="./proposal-tools.html">Proposal & Observation Tools</a></li>
+                                <li><a href="./tools2.html">Data analysis Tools</a></li>
+                                <li><a href="./tools3.html">Community Tools</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Proposing <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="./proposing-investigations.html">Guest Investigator Proposals</a></li>
+                                <li><a href="./ddt.html">Director's Discretionary Target program</a></li>
+                                <li><a href="./proposal-tips.html">Proposal Tips</a></li>
+                                <li><a href="./proposal-templates.html">Proposal Templates</a></li>
+                                <li><a href="./approved-programs.html">Approved GI Programs</a></li>
                             </ul>
                         </li>
                         <li class="dropdown">
@@ -132,11 +151,11 @@ in August 2015, using pelican-bootstrap and flatly.
                                 <li><a href="./media.html">Media support</a></li>
                             </ul>
                         </li>
+                            <li><a href="./archives.html">News</a></li>
                             <li><a href="./faq.html">FAQ</a></li>
-                            <li><a href="https://heasarc.gsfc.nasa.gov">HEASARC</a></li>
             </ul>
             
-            <ul class="nav navbar-nav navbar-right">
+            <ul class="nav navbar-nav">
                 <li>
                     <a href="./helpdesk.html"><i class="fa fa-info-circle fa-lg"></i> Helpdesk</a>
                 </li>
@@ -153,53 +172,24 @@ in August 2015, using pelican-bootstrap and flatly.
     <div class="row">
         <div class="col-lg-12">
 
-    <div class="col-sm-12">
+    <div class="col-sm-9" data-spy="scroll" data-target="#sidebarCol">
         <section id="content" class="body">
-            <h1 class="entry-title">TESS Director's Discretionary Target (DDT) program</h1>
+            <h1 class="entry-title">Director's Discretionary Target (DDT) program</h1>
             <div class="entry-content">
-                <!-- PAGE NOT USED, DDT info at bottom of proposing investigations
- -->
-
-<!-- The [DDT and out-of-cycle Target of Opportunity](https://tess.mit.edu/science/ddt/) processes for TESS will draw heavily on those used successfully for the NuStar Explorer mission. Requests and targets will be submitted through a form on the [MIT TESS website](https://tess.mit.edu/science/ddt/). The requests will be reviewed by the TESS PI, a science expert selected by the TESS PI, and the TESS operations team. Approved targets will be posted on the MIT TESS website, along with the expected time(s) of observation.  There is no proprietary period for approved DDT observations. Data from a DDT observation will be delivered to the TESS archives concurrently with the non-DDT data from the sector in which the DDT is observed. -->
-
-<!-- ## Proposal Information
-
-A DDT request should consist of <2 pages of text including all
-figures, tables, and references, no smaller than 13-point font, and
-submitted in .pdf format via email to [keplergo@mail.arc.nasa.gov](keplergo@mail.arc.nasa.gov).
-All DDT requests must include:
-
-* a strong scientific justification;
-* a description of the long-term legacy value of the program;
-* a justification for why the request was not submitted during the previous Call for Proposals;
-* a separate target table (does not count toward the 2-page limit; the required format as well as a [template for the target table can be found here]().
-
-Beause e-mail may occasionally get lost, you should expect to receive a notification of receipt after submitting your proposal.
-
-In all DDT submissions, please specify the institution and email address
-of the principal investigator and include the campaign for which
-targets are being proposed in the subject line of the email (e.g. *K2
-C14 DDT proposal*).
-
-Target overlap with the current GO target list will not be considered unless short cadence observations are being requested of a current long cadence target. Requests for DDT cannot be used to resubmit all or part of a proposal that was rejected by the normal peer review process. DDT proposals from every institution are encouraged.
-
-DDT proposals are reviewed for both technical feasibility by someone in the project office and for scientific value by an outside reviewer.  The results of these reviews are sent to the K2 Project Scientist for approval and, if approved, the targets are placed into the observing list for the upcoming campaign.  An email reply to the proposer, stating the fate of the DDT request, will be sent out by the GO Office approximately one month before the start of the campaign for which targets were proposed.
-
-## Proposal Deadlines
-
-To ensure that approved targets are able to be included in the final
-target lists for each campaign, proposals must be submitted via email
-to [keplergo@mail.arc.nasa.gov](keplergo@mail.arc.nasa.gov) by 23:59 PT (Pacific Time) on the following dates:
-
-* **February 23, 2017 for Campaign 14**
-* **May 25, 2017 for Campaign 15**
-* **September 7, 2017 for Campaign 16**
-
-The fixed locations and observing windows of Campaigns 14, 15, and 16 are provided [at the field information page](k2-fields.html).  -->
+                
+<p>The <a href="https://tess.mit.edu/science/ddt/">DDT and out-of-cycle Target of Opportunity</a> processes for TESS will draw heavily on those used successfully for the NuStar Explorer mission. Requests and targets will be submitted through a form on the <a href="https://tess.mit.edu/science/ddt/">MIT TESS website</a>. The requests will be reviewed by the TESS PI, a science expert selected by the TESS PI, and the TESS operations team. Approved targets will be posted on the MIT TESS website, along with the expected time(s) of observation.  There is no proprietary period for approved DDT observations. Data from a DDT observation will be delivered to the TESS archives concurrently with the non-DDT data from the sector in which the DDT is observed.</p>
+<p>A number of targets per sector have been reserved for targets which are not covered in the GI target lists, yet may warrant inclusion as targets. Proposals for DDT targets can be submitted through MIT's <a href="https://tess.mit.edu/science/ddt/">DDT program page</a>.</p>
             </div>
         </section>
     </div>
 
+        <nav class="col-sm-3 visible-sm visible-md visible-lg bs-docs-sidebar" id="sidebarCol">
+            <div class="nav nav-stacked fixed" id="mytoc">
+            <div class="toc">
+<ul></ul>
+</div>
+            </div>
+        </nav>
         </div>
     </div>
 </div>
@@ -252,7 +242,7 @@ The fixed locations and observing windows of Campaigns 14, 15, and 16 are provid
       <!-- NASA logo and notices -->
       <div class="row" style="margin-top:2em;">
          <div class="col-md-10"> <a href="http://www.nasa.gov/"><img src="./images/NASA_logo_vector_lg.png" width="30" alt="NASA Logo"></a> 
-         Last modified: Fri 18 September 2020
+         Last modified: Mon 31 August 2020
             &middot; Editor: Thomas Barclay &middot; NASA Official: Patricia T Boyd 
             &middot; <a href="http://www.nasa.gov/about/highlights/HP_Privacy.html">Privacy Policy and Important Notices</a><p></p>         </div>
          <div class="col-md-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
@@ -273,5 +263,24 @@ The fixed locations and observing windows of Campaigns 14, 15, and 16 are provid
 <!-- Analytics scripts -->
 
 
+        <script>
+          $('#mytoc').affix({
+                offset: {
+                  top: 50
+                }
+          });
+          $('body').scrollspy({
+              target: '#sidebarCol',
+              offset: 100
+          });
+
+          // Fix for issue #32:
+          function refreshScrollspy() {
+                $('[data-spy="scroll"]').each(function() {
+                    $(this).scrollspy('refresh');
+                });
+          }
+          $("img").bind('load', refreshScrollspy);
+        </script>
 </body>
 </html>

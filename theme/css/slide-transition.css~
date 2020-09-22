@@ -1,0 +1,110 @@
+body {
+    width: 1250px;
+    height: 300px;
+    padding: 0;
+    margin: 0px;
+}
+slider {
+    display: block;
+    width: 1250px;
+    height: 300px;
+    background-color: black;
+    overflow: hidden;
+    
+}
+slider > * {
+    position: absolute;
+    display: block;
+    width: 1250px;
+    height: 300px;
+    background: black;
+    animation: slide 30s infinite;
+    overflow: hidden;
+}
+
+slide:nth-child(1){
+    
+    animation-delay: -1s;
+    background-image: url(https://svs.gsfc.nasa.gov/vis/a010000/a013000/a013069/TESSFLleadimagefeature.jpg);
+    background-size: cover;
+    background-position: center;
+    
+}
+
+slide:nth-child(2){
+    left: 100%;
+    animation-delay: 5s;
+    background-image: url(https://svs.gsfc.nasa.gov/vis/a010000/a012700/a012727/TESSMDwarfwhaze.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+slide:nth-child(3){
+    left: 100%;
+    animation-delay: 10s;
+    background-image: url(https://svs.gsfc.nasa.gov/vis/a010000/a012700/a012727/TESSLavaPlanet31_print.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+slide:nth-child(4){
+    left: 100%;
+    animation-delay: 15s;
+    background-image: url(https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/superearth20180412-16.jpg);
+    background-size: cover
+    background-position: center;
+}
+
+slide:nth-child(5){
+    left: 100%;
+    animation-delay: 20s;
+    background-image: url(https://exoplanets.nasa.gov/system/resources/detail_files/2237_FLARES_RGB_small.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+slide:nth-child(6){
+    left: 100%;
+    animation-delay: 25s;
+    background-image: url(https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/ssc2019-14c.jpg);
+    background-size: cover
+    background-position: center;
+}
+
+slide p{
+    position: absolute;
+    top: 8px;
+    right: 16px;
+    font-family: Exo 2;
+    font-size: 15px;
+    text-align: center;
+    width: 30%;
+    height: 100%;
+    margin-top: 0%;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    color: black;
+    background: lightgray
+}
+
+
+text-block {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+  font-family: Exo 2;
+  text-align: right;
+  font-size: 50px;
+  color: white;
+ 
+}
+
+@keyframes slide {
+    0% { left: 100%; width: 100%}
+    5% { left: 0%;}
+    25% { left: 0%;}
+    30% { left: -100%; width: 100%;}
+    30.0001% { left: -100%; width: 0%;}
+    100% { left: 100%; width: 0%;}
+}

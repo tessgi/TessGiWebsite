@@ -62,7 +62,11 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <link href="../theme/css/exoplanet_archive_icons.css" rel="stylesheet">
     <link href="../theme/css/mission_icons.css" rel="stylesheet">
-
+    <link href="../theme/css/photobanner.css" rel="stylesheet">
+    <link href="../theme/css/slide-container.css" rel="stylesheet">
+    <link href="../theme/css/slide-transition.css" rel="stylesheet"> 
+    <link href="../theme/css/slide-transition2.css" rel="stylesheet"> 
+    
     <link href="../theme/css/pygments/native.css" rel="stylesheet">
     <link rel="stylesheet" href="../theme/css/style.css" type="text/css"/>
 
@@ -96,34 +100,49 @@ in August 2015, using pelican-bootstrap and flatly.
         </div>
         <div class="collapse navbar-collapse navbar-ex1-collapse">
             <ul class="nav navbar-nav">
-                            <li><a href="../archives.html">News</a></li>
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Mission <b class="caret"></b></a>
                             <ul class="dropdown-menu">
                                 <li><a href="../objectives.html">Objectives</a></li>
                                 <li><a href="../the-tess-space-telescope.html">Telescope</a></li>
-                                <li><a href="../operations.html">Operations</a></li>
-                                <li><a href="../primary-science.html">Science</a></li>
+                                <li><a href="../primary.html">Primary Mission</a></li>
+                                <li><a href="../extended.html">Extended Mission</a></li>
                                 <li><a href="../publications.html">Publications</a></li>
                             </ul>
                         </li>
                         <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Using TESS <b class="caret"></b></a>
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">TESS Data <b class="caret"></b></a>
                             <ul class="dropdown-menu">
-                                <li><a href="../status.html">Observing dates</a></li>
-                                <li><a href="../proposing-investigations.html">Guest Investigator Program</a></li>
-                                <li><a href="../observing-technical.html">Technical details</a></li>
-                                <li><a href="../proposal-tools.html">Proposal tools</a></li>
-                                <li><a href="../approved-programs.html">Approved programs</a></li>
+                                <li><a href="../data-handel.html">Data Pipeline</a></li>
+                                <li><a href="../data-products.html">Data Products</a></li>
+                                <li><a href="../data-access.html">Data Access</a></li>
+                                <li><a href="../community.html">Community Products</a></li>
+                                <li><a href="../documentation.html">Documentation</a></li>
                             </ul>
                         </li>
                         <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Data analysis <b class="caret"></b></a>
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Observations <b class="caret"></b></a>
                             <ul class="dropdown-menu">
-                                <li><a href="../data-access.html">Data access</a></li>
-                                <li><a href="../software.html">Analysis software</a></li>
-                                <li><a href="../community.html">Community products</a></li>
-                                <li><a href="../documentation.html">Documentation</a></li>
+                                <li><a href="../observing-technical.html">Technical Details</a></li>
+                                <li><a href="../sector.html">Sector Dates</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tools <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="../proposal-tools.html">Proposal & Observation Tools</a></li>
+                                <li><a href="../tools2.html">Data analysis Tools</a></li>
+                                <li><a href="../tools3.html">Community Tools</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Proposing <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="../proposing-investigations.html">Guest Investigator Proposals</a></li>
+                                <li><a href="../ddt.html">Director's Discretionary Target program</a></li>
+                                <li><a href="../proposal-tips.html">Proposal Tips</a></li>
+                                <li><a href="../proposal-templates.html">Proposal Templates</a></li>
+                                <li><a href="../approved-programs.html">Approved GI Programs</a></li>
                             </ul>
                         </li>
                         <li class="dropdown">
@@ -133,11 +152,11 @@ in August 2015, using pelican-bootstrap and flatly.
                                 <li><a href="../media.html">Media support</a></li>
                             </ul>
                         </li>
+                            <li><a href="../archives.html">News</a></li>
                             <li><a href="../faq.html">FAQ</a></li>
-                            <li><a href="https://heasarc.gsfc.nasa.gov">HEASARC</a></li>
             </ul>
             
-            <ul class="nav navbar-nav navbar-right">
+            <ul class="nav navbar-nav">
                 <li>
                     <a href="../helpdesk.html"><i class="fa fa-info-circle fa-lg"></i> Helpdesk</a>
                 </li>
@@ -154,20 +173,6 @@ in August 2015, using pelican-bootstrap and flatly.
     <div class="row">
         <div class="col-lg-12">
 
-            <article>
-                <h2><a href="../error-in-a-small-number-of-tic-v5-surface-gravities.html">Error in a small number of TIC v5 surface gravities</a></h2>
-                <div class="summary"><p>The surface gravities reported in column 67 of the TESS Input Catalog version 5 (TIC-5), do not accurately represent the expected surface gravities using the reported values for mass (column 73) and radii (column 71). This only affects stars where the stellar properties were calculated using available parallax information (the …</p>
-                    <a class="btn btn-default btn-xs" href="../error-in-a-small-number-of-tic-v5-surface-gravities.html">more ...</a>
-                </div>
-            </article>
-            <hr/>
-            <article>
-                <h2><a href="../exofop-tess-now-online.html">ExoFOP-TESS now online</a></h2>
-                <div class="summary"><p><a href="https://exofop.ipac.caltech.edu/tess/">ExoFOP-TESS</a> is a web-based service developed and operated by the <a href="http://nexsci.caltech.edu">NASA Exoplanet Science Institute</a> (NExScI) and the <a href="https://exoplanetarchive.ipac.caltech.edu">NASA Exoplanet Archive</a> to optimize resources and facilitate collaboration in follow-up studies of targets observed by TESS. <a href="https://exofop.ipac.caltech.edu">ExoFOP</a> serves as a repository for community-gathered follow-up data by allowing upload and display of data …</p>
-                    <a class="btn btn-default btn-xs" href="../exofop-tess-now-online.html">more ...</a>
-                </div>
-            </article>
-            <hr/>
             <article>
                 <h2><a href="../tess-guest-investigator-cycle-1-released.html">TESS Guest Investigator Cycle 1 released</a></h2>
                 <div class="summary"><p><strong>UPDATE: the proposal deadline has been changed to October 6, 2017</strong></p>
@@ -188,6 +193,20 @@ The session will be at 1.30pm on Wednesday Jun 21 and will focus on allowing the
                 <h2><a href="../tess-team-at-aas-230.html">TESS team at AAS 230</a></h2>
                 <div class="summary"><p>The <a href="https://aas.org/meetings/aas230">230th American Astronomical Society</a> is just around the corner. Team members from TESS's Science Support Center will be there to represent the mission. Come find us at at our booth where we will be joined by NExScI, Kepler/K2 and the Exoplanet Program Office. We will be available to …</p>
                     <a class="btn btn-default btn-xs" href="../tess-team-at-aas-230.html">more ...</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
+                <h2><a href="../tess-observatory-guide-now-available.html">TESS Observatory Guide now available</a></h2>
+                <div class="summary"><p>To aid in the development in potential TESS science investigations we have created a <a href="docs/TESS_observatory_guide_v1.1.pdf">TESS Observatory Guide</a>. This document serves two purposes. The first is to provide a comprehensive description of the TESS  observatory design, operations, and capabilities. The second is to provide potential proposers detailed information relevant to preparing …</p>
+                    <a class="btn btn-default btn-xs" href="../tess-observatory-guide-now-available.html">more ...</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
+                <h2><a href="../volunteer-to-review-proposals.html">Volunteer to review proposals</a></h2>
+                <div class="summary"><p>The TESS Science Support Center is responsible for organizing the review of proposals submitted to the TESS Guest Investigator program. Our first cycle deadline will be on September 29, 2017, with the in-person peer review likely taking place in mid-December. We are currently looking for volunteers with expertise in astrophysics …</p>
+                    <a class="btn btn-default btn-xs" href="../volunteer-to-review-proposals.html">more ...</a>
                 </div>
             </article>
             <hr/>
@@ -288,7 +307,7 @@ The session will be at 1.30pm on Wednesday Jun 21 and will focus on allowing the
       <!-- NASA logo and notices -->
       <div class="row" style="margin-top:2em;">
          <div class="col-md-10"> <a href="http://www.nasa.gov/"><img src="../images/NASA_logo_vector_lg.png" width="30" alt="NASA Logo"></a> 
-         Last modified: Fri 18 September 2020
+         Last modified: Mon 31 August 2020
             &middot; Editor: Thomas Barclay &middot; NASA Official: Patricia T Boyd 
             &middot; <a href="http://www.nasa.gov/about/highlights/HP_Privacy.html">Privacy Policy and Important Notices</a><p></p>         </div>
          <div class="col-md-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
