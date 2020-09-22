@@ -17,7 +17,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - TESS Science Support Center" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2020-09-21" />
+    <meta name="dc.date.modified" content="2020-09-22" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Users of TESS Data" />
     <meta name="dc.identifier" content="https://heasarc.gsfc.nasa.gov/docs/tess/" />
@@ -40,13 +40,13 @@ in August 2015, using pelican-bootstrap and flatly.
 <link rel="canonical" href="./pages/tess-publications.html">
 
         <meta name="author" content="Thomas Barclay" />
-        <meta name="description" content="2020 TESS ASTEROSEISMOLOGY OF THE KNOWN PLANET HOST STAR Λ2 FORNACIS Nielsen, M. B., Ball, W. H., Standing, M. R., et al. 2020, refereed (2020A&amp;A...641A..25N) HIDDEN WORLDS: DYNAMICAL ARCHITECTURE PREDICTIONS OF UNDETECTED PLANETS IN MULTI-PLANET SYSTEMS AND APPLICATIONS TO TESS SYSTEMS Dietrich, Jeremy, Apai, Dániel 2020 …" />
+        <meta name="description" content="2020 HIDDEN WORLDS: DYNAMICAL ARCHITECTURE PREDICTIONS OF UNDETECTED PLANETS IN MULTI-PLANET SYSTEMS AND APPLICATIONS TO TESS SYSTEMS Dietrich, Jeremy, Apai, Dániel 2020, refereed (2020AJ....160..107D) PHOTOMETRIC DETECTION OF INTERNAL GRAVITY WAVES IN UPPER MAIN-SEQUENCE STARS. II. COMBINED TESS PHOTOMETRY AND HIGH-RESOLUTION SPECTROSCOPY Bowman, D. M., Burssens, S., Simón-Díaz, S …" />
 
     <meta property="og:site_name" content="TESS" />
     <meta property="og:type" content="article"/>
     <meta property="og:title" content="TESS publications"/>
     <meta property="og:url" content="./pages/tess-publications.html"/>
-    <meta property="og:description" content="2020 TESS ASTEROSEISMOLOGY OF THE KNOWN PLANET HOST STAR Λ2 FORNACIS Nielsen, M. B., Ball, W. H., Standing, M. R., et al. 2020, refereed (2020A&amp;A...641A..25N) HIDDEN WORLDS: DYNAMICAL ARCHITECTURE PREDICTIONS OF UNDETECTED PLANETS IN MULTI-PLANET SYSTEMS AND APPLICATIONS TO TESS SYSTEMS Dietrich, Jeremy, Apai, Dániel 2020 …" />
+    <meta property="og:description" content="2020 HIDDEN WORLDS: DYNAMICAL ARCHITECTURE PREDICTIONS OF UNDETECTED PLANETS IN MULTI-PLANET SYSTEMS AND APPLICATIONS TO TESS SYSTEMS Dietrich, Jeremy, Apai, Dániel 2020, refereed (2020AJ....160..107D) PHOTOMETRIC DETECTION OF INTERNAL GRAVITY WAVES IN UPPER MAIN-SEQUENCE STARS. II. COMBINED TESS PHOTOMETRY AND HIGH-RESOLUTION SPECTROSCOPY Bowman, D. M., Burssens, S., Simón-Díaz, S …" />
         <meta property="og:image"
               content="./images/logo-for-twitter.jpeg"/>
 
@@ -61,7 +61,11 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <link href="./theme/css/exoplanet_archive_icons.css" rel="stylesheet">
     <link href="./theme/css/mission_icons.css" rel="stylesheet">
-
+    <link href="./theme/css/photobanner.css" rel="stylesheet">
+    <link href="./theme/css/slide-container.css" rel="stylesheet">
+    <link href="./theme/css/slide-transition.css" rel="stylesheet"> 
+    <link href="./theme/css/slide-transition2.css" rel="stylesheet"> 
+    
     <link href="./theme/css/pygments/native.css" rel="stylesheet">
     <link rel="stylesheet" href="./theme/css/style.css" type="text/css"/>
 
@@ -95,34 +99,49 @@ in August 2015, using pelican-bootstrap and flatly.
         </div>
         <div class="collapse navbar-collapse navbar-ex1-collapse">
             <ul class="nav navbar-nav">
-                            <li><a href="./archives.html">News</a></li>
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Mission <b class="caret"></b></a>
                             <ul class="dropdown-menu">
                                 <li><a href="./objectives.html">Objectives</a></li>
                                 <li><a href="./the-tess-space-telescope.html">Telescope</a></li>
-                                <li><a href="./operations.html">Operations</a></li>
-                                <li><a href="./primary-science.html">Science</a></li>
+                                <li><a href="./primary.html">Primary Mission</a></li>
+                                <li><a href="./extended.html">Extended Mission</a></li>
                                 <li><a href="./publications.html">Publications</a></li>
                             </ul>
                         </li>
                         <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Using TESS <b class="caret"></b></a>
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">TESS Data <b class="caret"></b></a>
                             <ul class="dropdown-menu">
-                                <li><a href="./status.html">Observing dates</a></li>
-                                <li><a href="./proposing-investigations.html">Guest Investigator Program</a></li>
-                                <li><a href="./observing-technical.html">Technical details</a></li>
-                                <li><a href="./proposal-tools.html">Proposal tools</a></li>
-                                <li><a href="./approved-programs.html">Approved programs</a></li>
+                                <li><a href="./data-handel.html">Data Pipeline</a></li>
+                                <li><a href="./data-products.html">Data Products</a></li>
+                                <li><a href="./data-access.html">Data Access</a></li>
+                                <li><a href="./community.html">Community Products</a></li>
+                                <li><a href="./documentation.html">Documentation</a></li>
                             </ul>
                         </li>
                         <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Data analysis <b class="caret"></b></a>
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Observations <b class="caret"></b></a>
                             <ul class="dropdown-menu">
-                                <li><a href="./data-access.html">Data access</a></li>
-                                <li><a href="./software.html">Analysis software</a></li>
-                                <li><a href="./community.html">Community products</a></li>
-                                <li><a href="./documentation.html">Documentation</a></li>
+                                <li><a href="./observing-technical.html">Technical Details</a></li>
+                                <li><a href="./sector.html">Sector Dates</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tools <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="./proposal-tools.html">Proposal & Observation Tools</a></li>
+                                <li><a href="./tools2.html">Data analysis Tools</a></li>
+                                <li><a href="./tools3.html">Community Tools</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Proposing <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="./proposing-investigations.html">Guest Investigator Proposals</a></li>
+                                <li><a href="./ddt.html">Director's Discretionary Target program</a></li>
+                                <li><a href="./proposal-tips.html">Proposal Tips</a></li>
+                                <li><a href="./proposal-templates.html">Proposal Templates</a></li>
+                                <li><a href="./approved-programs.html">Approved GI Programs</a></li>
                             </ul>
                         </li>
                         <li class="dropdown">
@@ -132,11 +151,11 @@ in August 2015, using pelican-bootstrap and flatly.
                                 <li><a href="./media.html">Media support</a></li>
                             </ul>
                         </li>
+                            <li><a href="./archives.html">News</a></li>
                             <li><a href="./faq.html">FAQ</a></li>
-                            <li><a href="https://heasarc.gsfc.nasa.gov">HEASARC</a></li>
             </ul>
             
-            <ul class="nav navbar-nav navbar-right">
+            <ul class="nav navbar-nav">
                 <li>
                     <a href="./helpdesk.html"><i class="fa fa-info-circle fa-lg"></i> Helpdesk</a>
                 </li>
@@ -161,109 +180,9 @@ in August 2015, using pelican-bootstrap and flatly.
 <h2 id="2020">2020</h2>
 <ol>
 <li>
-<p><a href="http://adsabs.harvard.edu/abs/2020A&amp;A...641A..25N">TESS ASTEROSEISMOLOGY OF THE KNOWN PLANET HOST STAR Λ<sup>2</sup> FORNACIS</a><br/>
-Nielsen, M. B., Ball, W. H., Standing, M. R., et al.  <br/>
-2020, refereed (<a href="http://adsabs.harvard.edu/abs/2020A&amp;A...641A..25N">2020A&amp;A...641A..25N</a>)  </p>
-</li>
-<li>
 <p><a href="http://adsabs.harvard.edu/abs/2020AJ....160..107D">HIDDEN WORLDS: DYNAMICAL ARCHITECTURE PREDICTIONS OF UNDETECTED PLANETS IN MULTI-PLANET SYSTEMS AND APPLICATIONS TO TESS SYSTEMS</a><br/>
 Dietrich, Jeremy, Apai, Dániel  <br/>
 2020, refereed (<a href="http://adsabs.harvard.edu/abs/2020AJ....160..107D">2020AJ....160..107D</a>)  </p>
-</li>
-<li>
-<p><a href="http://adsabs.harvard.edu/abs/2020AJ....160..111M">KELT-25 B AND KELT-26 B: A HOT JUPITER AND A SUBSTELLAR COMPANION TRANSITING YOUNG A STARS OBSERVED BY TESS</a><br/>
-Martínez, Romy Rodríguez, Gaudi, B. Scott, Rodriguez, Joseph E., et al.  <br/>
-2020, refereed (<a href="http://adsabs.harvard.edu/abs/2020AJ....160..111M">2020AJ....160..111M</a>)  </p>
-</li>
-<li>
-<p><a href="http://adsabs.harvard.edu/abs/2020AJ....160..113B">HD 191939: THREE SUB-NEPTUNES TRANSITING A SUN-LIKE STAR ONLY 54 PC AWAY</a><br/>
-Badenas-Agusti, Mariona, Günther, Maximilian N., Daylan, Tansu, et al.  <br/>
-2020, refereed (<a href="http://adsabs.harvard.edu/abs/2020AJ....160..113B">2020AJ....160..113B</a>)  </p>
-</li>
-<li>
-<p><a href="http://adsabs.harvard.edu/abs/2020AJ....160..114C">THE MULTIPLANET SYSTEM TOI-421</a><br/>
-Carleo, Ilaria, Gandolfi, Davide, Barragán, Oscar, et al.  <br/>
-2020, refereed (<a href="http://adsabs.harvard.edu/abs/2020AJ....160..114C">2020AJ....160..114C</a>)  </p>
-</li>
-<li>
-<p><a href="http://adsabs.harvard.edu/abs/2020AJ....160..116G">THE FIRST HABITABLE-ZONE EARTH-SIZED PLANET FROM TESS. I. VALIDATION OF THE TOI-700 SYSTEM</a><br/>
-Gilbert, Emily A., Barclay, Thomas, Schlieder, Joshua E., et al.  <br/>
-2020, refereed (<a href="http://adsabs.harvard.edu/abs/2020AJ....160..116G">2020AJ....160..116G</a>)  </p>
-</li>
-<li>
-<p><a href="http://adsabs.harvard.edu/abs/2020AJ....160..117R">THE FIRST HABITABLE-ZONE EARTH-SIZED PLANET FROM TESS. II. SPITZER CONFIRMS TOI-700 D</a><br/>
-Rodriguez, Joseph E., Vanderburg, Andrew, Zieba, Sebastian, et al.  <br/>
-2020, refereed (<a href="http://adsabs.harvard.edu/abs/2020AJ....160..117R">2020AJ....160..117R</a>)  </p>
-</li>
-<li>
-<p><a href="http://adsabs.harvard.edu/abs/2020AJ....160..118S">THE FIRST HABITABLE-ZONE EARTH-SIZED PLANET FROM TESS. III. CLIMATE STATES AND CHARACTERIZATION PROSPECTS FOR TOI-700 D</a><br/>
-Suissa, Gabrielle, Wolf, Eric T., Kopparapu, Ravi kumar, et al.  <br/>
-2020, refereed (<a href="http://adsabs.harvard.edu/abs/2020AJ....160..118S">2020AJ....160..118S</a>)  </p>
-</li>
-<li>
-<p><a href="http://adsabs.harvard.edu/abs/2020AJ....160..129K">TRANSITS OF KNOWN PLANETS ORBITING A NAKED-EYE STAR</a><br/>
-Kane, Stephen R., Yalçınkaya, Selçuk, Osborn, Hugh P., et al.  <br/>
-2020, refereed (<a href="http://adsabs.harvard.edu/abs/2020AJ....160..129K">2020AJ....160..129K</a>)  </p>
-</li>
-<li>
-<p><a href="http://adsabs.harvard.edu/abs/2020AJ....160..133M">TOI 694B AND TIC 220568520B: TWO LOW-MASS COMPANIONS NEAR THE HYDROGEN-BURNING MASS LIMIT ORBITING SUN-LIKE STARS</a><br/>
-Mireles, Ismael, Shporer, Avi, Grieves, Nolan, et al.  <br/>
-2020, refereed (<a href="http://adsabs.harvard.edu/abs/2020AJ....160..133M">2020AJ....160..133M</a>)  </p>
-</li>
-<li>
-<p><a href="http://adsabs.harvard.edu/abs/2020AJ....160..147C">A WARM JUPITER TRANSITING AN M DWARF: A TESS SINGLE-TRANSIT EVENT CONFIRMED WITH THE HABITABLE-ZONE PLANET FINDER</a><br/>
-Cañas, Caleb I., Stefansson, Gudmundur, Kanodia, Shubham, et al.  <br/>
-2020, refereed (<a href="http://adsabs.harvard.edu/abs/2020AJ....160..147C">2020AJ....160..147C</a>)  </p>
-</li>
-<li>
-<p><a href="http://adsabs.harvard.edu/abs/2020AdSpR..66.1123M">TESS PHOTOMETRY OF THE ASYNCHRONOUS POLAR CD IND: A SHORT PERIOD ANALOG OF BY CAM</a><br/>
-Mason, Paul A., Morales, John F., Littlefield, Colin, et al.  <br/>
-2020, refereed (<a href="http://adsabs.harvard.edu/abs/2020AdSpR..66.1123M">2020AdSpR..66.1123M</a>)  </p>
-</li>
-<li>
-<p><a href="http://adsabs.harvard.edu/abs/2020arXiv200902330N">A PSF-BASED APPROACH TO TESS HIGH QUALITY DATA OF STELLAR CLUSTERS (PATHOS) -- III. EXPLORING THE PROPERTIES OF YOUNG ASSOCIATIONS THROUGH THEIR VARIABLES, DIPPERS, AND CANDIDATE EXOPLANETS</a><br/>
-Nardiello, D.  <br/>
-2020, not refereed (<a href="http://adsabs.harvard.edu/abs/2020arXiv200902330N">2020arXiv200902330N</a>)  </p>
-</li>
-<li>
-<p><a href="http://adsabs.harvard.edu/abs/2020arXiv200902332L">AN UNUSUALLY LOW DENSITY ULTRA-SHORT PERIOD SUPER-EARTH AND THREE MINI-NEPTUNES AROUND THE OLD STAR TOI-561</a><br/>
-Lacedelli, G., Malavolta, L., Borsato, L., et al.  <br/>
-2020, not refereed (<a href="http://adsabs.harvard.edu/abs/2020arXiv200902332L">2020arXiv200902332L</a>)  </p>
-</li>
-<li>
-<p><a href="http://adsabs.harvard.edu/abs/2020arXiv200903071W">THE TESS-KECK SURVEY II: MASSES OF THREE SUB-NEPTUNES TRANSITING THE GALACTIC THICK-DISK STAR TOI-561</a><br/>
-Weiss, Lauren M., Dai, Fei, Huber, Daniel, et al.  <br/>
-2020, not refereed (<a href="http://adsabs.harvard.edu/abs/2020arXiv200903071W">2020arXiv200903071W</a>)  </p>
-</li>
-<li>
-<p><a href="http://adsabs.harvard.edu/abs/2020arXiv200903321P">ASASSN-14KO IS A PERIODIC NUCLEAR TRANSIENT IN ESO 253-G003</a><br/>
-Payne, Anna V., Shappee, Benjamin J., Hinkle, Jason T., et al.  <br/>
-2020, not refereed (<a href="http://adsabs.harvard.edu/abs/2020arXiv200903321P">2020arXiv200903321P</a>)  </p>
-</li>
-<li>
-<p><a href="http://adsabs.harvard.edu/abs/2020arXiv200903378M">TIC 278825952: A TRIPLY ECLIPSING HIERARCHICAL TRIPLE SYSTEM WITH THE MOST INTRINSICALLY CIRCULAR OUTER ORBIT</a><br/>
-Mitnyan, T., Borkovits, T., Rappaport, S. A., et al.  <br/>
-2020, not refereed (<a href="http://adsabs.harvard.edu/abs/2020arXiv200903378M">2020arXiv200903378M</a>)  </p>
-</li>
-<li>
-<p><a href="http://adsabs.harvard.edu/abs/2020arXiv200903872C">A KELT-TESS ECLIPSING BINARY IN A YOUNG TRIPLE SYSTEM ASSOCIATED WITH A "STELLAR STRING" THEIA 301</a><br/>
-Clark Cunningham, Joni-Marie, Felix, Dax L., Dixon, Don M., et al.  <br/>
-2020, not refereed (<a href="http://adsabs.harvard.edu/abs/2020arXiv200903872C">2020arXiv200903872C</a>)  </p>
-</li>
-<li>
-<p><a href="http://adsabs.harvard.edu/abs/2020arXiv200904310A">STELLAR FLARES VERSUS LUMINOSITY: XUV-INDUCED ATMOSPHERIC ESCAPE AND PLANETARY HABITABILITY</a><br/>
-Atri, Dimitra, Carberry Mogan, Shane R.  <br/>
-2020, not refereed (<a href="http://adsabs.harvard.edu/abs/2020arXiv200904310A">2020arXiv200904310A</a>)  </p>
-</li>
-<li>
-<p><a href="http://adsabs.harvard.edu/abs/2020arXiv200904317D">A SUPER-EARTH AND A SUB-NEPTUNE ORBITING THE BRIGHT, QUIET M3 DWARF TOI-1266</a><br/>
-Demory, B. -O., Pozuelos, F. J., Maqueo Gomez Chew, Y., et al.  <br/>
-2020, not refereed (<a href="http://adsabs.harvard.edu/abs/2020arXiv200904317D">2020arXiv200904317D</a>)  </p>
-</li>
-<li>
-<p><a href="http://adsabs.harvard.edu/abs/2020arXiv200904784Z">BETA CAS: THE FIRST DELTA SCUTI STAR WITH A DYNAMO MAGNETIC FIELD</a><br/>
-Zwintz, K., Neiner, C., Kochukhov, O., et al.  <br/>
-2020, not refereed (<a href="http://adsabs.harvard.edu/abs/2020arXiv200904784Z">2020arXiv200904784Z</a>)  </p>
 </li>
 <li>
 <p><a href="http://adsabs.harvard.edu/abs/2020A&amp;A...640A..36B">PHOTOMETRIC DETECTION OF INTERNAL GRAVITY WAVES IN UPPER MAIN-SEQUENCE STARS. II. COMBINED TESS PHOTOMETRY AND HIGH-RESOLUTION SPECTROSCOPY</a><br/>
@@ -296,19 +215,14 @@ Kanodia, Shubham, Cañas, Caleb I., Stefansson, Gudmundur, et al.  <br/>
 2020, refereed (<a href="http://adsabs.harvard.edu/abs/2020ApJ...899...29K">2020ApJ...899...29K</a>)  </p>
 </li>
 <li>
-<p><a href="http://adsabs.harvard.edu/abs/2020ApJ...899L..13H">LIMITS ON THE SPIN-ORBIT ANGLE AND ATMOSPHERIC ESCAPE FOR THE 22 MYR OLD PLANET AU MIC B</a><br/>
-Hirano, Teruyuki, Krishnamurthy, Vigneshwaran, Gaidos, Eric, et al.  <br/>
-2020, refereed (<a href="http://adsabs.harvard.edu/abs/2020ApJ...899L..13H">2020ApJ...899L..13H</a>)  </p>
-</li>
-<li>
 <p><a href="http://adsabs.harvard.edu/abs/2020RNAAS...4..135M">THE LARGE FLUX VARIATIONS OF 17 COM A AS RECORDED BY FUSE</a><br/>
 Monier, Richard  <br/>
 2020, not refereed (<a href="http://adsabs.harvard.edu/abs/2020RNAAS...4..135M">2020RNAAS...4..135M</a>)  </p>
 </li>
 <li>
-<p><a href="http://adsabs.harvard.edu/abs/2020ApJ...899..136B">OPTICAL VARIABILITY OF THE DWARF AGN NGC 4395 FROM THE TRANSITING EXOPLANET SURVEY SATELLITE</a><br/>
-Burke, Colin J., Shen, Yue, Chen, Yu-Ching, et al.  <br/>
-2020, refereed (<a href="http://adsabs.harvard.edu/abs/2020ApJ...899..136B">2020ApJ...899..136B</a>)  </p>
+<p><a href="http://adsabs.harvard.edu/abs/2020ApJ...899L..13H">LIMITS ON THE SPIN-ORBIT ANGLE AND ATMOSPHERIC ESCAPE FOR THE 22 MYR OLD PLANET AU MIC B</a><br/>
+Hirano, Teruyuki, Krishnamurthy, Vigneshwaran, Gaidos, Eric, et al.  <br/>
+2020, refereed (<a href="http://adsabs.harvard.edu/abs/2020ApJ...899L..13H">2020ApJ...899L..13H</a>)  </p>
 </li>
 <li>
 <p><a href="http://adsabs.harvard.edu/abs/2020arXiv200803351Y">ASTRAEA: PREDICTING LONG ROTATION PERIODS WITH 27-DAY LIGHT CURVES</a><br/>
@@ -431,6 +345,11 @@ Armstrong, David J., Lopez, Théo A., Adibekyan, Vardan, et al.  <br/>
 2020, refereed (<a href="http://adsabs.harvard.edu/abs/2020Natur.583...39A">2020Natur.583...39A</a>)  </p>
 </li>
 <li>
+<p><a href="http://adsabs.harvard.edu/abs/2020arXiv200700497N">TESS ASTEROSEISMOLOGY OF THE KNOWN PLANET HOST STAR $\LAMBDA^2$ FORNACIS</a><br/>
+Nielsen, M. B., Ball, W. H., Standing, M. R., et al.  <br/>
+2020, not refereed (<a href="http://adsabs.harvard.edu/abs/2020arXiv200700497N">2020arXiv200700497N</a>)  </p>
+</li>
+<li>
 <p><a href="http://adsabs.harvard.edu/abs/2020arXiv200700678I">THE $K2$ &amp;AMP $TESS$ SYNERGY I: UPDATED EPHEMERIDES AND PARAMETERS FOR K2-114, K2-167, K2-237, &amp;AMP K2-261</a><br/>
 Ikwut-Ukwa, Mma, Rodriguez, Joseph E., Bieryla, Allyson, et al.  <br/>
 2020, not refereed (<a href="http://adsabs.harvard.edu/abs/2020arXiv200700678I">2020arXiv200700678I</a>)  </p>
@@ -451,9 +370,19 @@ Damasso, M., Sozzetti, A., Lovis, C., et al.  <br/>
 2020, not refereed (<a href="http://adsabs.harvard.edu/abs/2020arXiv200706410D">2020arXiv200706410D</a>)  </p>
 </li>
 <li>
+<p><a href="http://adsabs.harvard.edu/abs/2020arXiv200707098C">A WARM JUPITER TRANSITING AN M DWARF: A TESS SINGLE TRANSIT EVENT CONFIRMED WITH THE HABITABLE-ZONE PLANET FINDER</a><br/>
+Cañas, Caleb I., Stefansson, Gudmundur, Kanodia, Shubham, et al.  <br/>
+2020, not refereed (<a href="http://adsabs.harvard.edu/abs/2020arXiv200707098C">2020arXiv200707098C</a>)  </p>
+</li>
+<li>
 <p><a href="http://adsabs.harvard.edu/abs/2020arXiv200707999W">MULTI-WAVELENGTH VARIABILITY OF BL LACERTAE MEASURED WITH HIGH TIME RESOLUTION</a><br/>
 Weaver, Zachary R., Williamson, K. E., Jorstad, S. G., et al.  <br/>
 2020, not refereed (<a href="http://adsabs.harvard.edu/abs/2020arXiv200707999W">2020arXiv200707999W</a>)  </p>
+</li>
+<li>
+<p><a href="http://adsabs.harvard.edu/abs/2020arXiv200710995K">TRANSITS OF KNOWN PLANETS ORBITING A NAKED-EYE STAR</a><br/>
+Kane, Stephen R., Yalçınkaya, Selçuk, Osborn, Hugh P., et al.  <br/>
+2020, not refereed (<a href="http://adsabs.harvard.edu/abs/2020arXiv200710995K">2020arXiv200710995K</a>)  </p>
 </li>
 <li>
 <p><a href="http://adsabs.harvard.edu/abs/2020arXiv200711564K">ORBITAL MISALIGNMENT OF THE SUPER-EARTH $\PI$ MEN C WITH THE SPIN OF ITS STAR</a><br/>
@@ -556,9 +485,9 @@ Malla, Sai Prathyusha, Stello, Dennis, Huber, Daniel, et al.  <br/>
 2020, refereed (<a href="http://adsabs.harvard.edu/abs/2020MNRAS.496.5423M">2020MNRAS.496.5423M</a>)  </p>
 </li>
 <li>
-<p><a href="http://adsabs.harvard.edu/abs/2020MNRAS.498..332M">THE TESS LIGHT CURVE OF AI PHOENICIS</a><br/>
+<p><a href="http://adsabs.harvard.edu/abs/2020MNRAS.tmp.1795M">THE TESS LIGHT CURVE OF AI PHOENICIS</a><br/>
 Maxted, P. F. L., Gaulme, Patrick, Graczyk, D., et al.  <br/>
-2020, refereed (<a href="http://adsabs.harvard.edu/abs/2020MNRAS.498..332M">2020MNRAS.498..332M</a>)  </p>
+2020, refereed (<a href="http://adsabs.harvard.edu/abs/2020MNRAS.tmp.1795M">2020MNRAS.tmp.1795M</a>)  </p>
 </li>
 <li>
 <p><a href="http://adsabs.harvard.edu/abs/2020Natur.582..497P">A PLANET WITHIN THE DEBRIS DISK AROUND THE PRE-MAIN-SEQUENCE STAR AU MICROSCOPII</a><br/>
@@ -609,6 +538,11 @@ Palle, E., Oshagh, M, Casasayas-Barris, N., et al.  <br/>
 <p><a href="http://adsabs.harvard.edu/abs/2020arXiv200613675A">THE YOUNGEST PLANET TO HAVE A SPIN-ORBIT ALIGNMENT MEASUREMENT AU MIC B</a><br/>
 Addison, Brett C., Horner, Jonathan, Wittenmyer, Robert A., et al.  <br/>
 2020, not refereed (<a href="http://adsabs.harvard.edu/abs/2020arXiv200613675A">2020arXiv200613675A</a>)  </p>
+</li>
+<li>
+<p><a href="http://adsabs.harvard.edu/abs/2020arXiv200614019M">TOI 694 B AND TIC 220568520 B: TWO LOW-MASS COMPANIONS NEAR THE HYDROGEN BURNING MASS LIMIT ORBITING SUN-LIKE STARS</a><br/>
+Mireles, Ismael, Shporer, Avi, Grieves, Nolan, et al.  <br/>
+2020, not refereed (<a href="http://adsabs.harvard.edu/abs/2020arXiv200614019M">2020arXiv200614019M</a>)  </p>
 </li>
 <li>
 <p><a href="http://adsabs.harvard.edu/abs/2020A&amp;A...637A..36B">OPTICAL PHASE CURVE OF THE ULTRA-HOT JUPITER WASP-121B</a><br/>
@@ -674,6 +608,11 @@ Edwards, Billy, Changeat, Quentin, Yip, Kai Hou, et al.  <br/>
 <p><a href="http://adsabs.harvard.edu/abs/2020Natur.581..147B">VERY REGULAR HIGH-FREQUENCY PULSATION MODES IN YOUNG INTERMEDIATE-MASS STARS</a><br/>
 Bedding, Timothy R., Murphy, Simon J., Hey, Daniel R., et al.  <br/>
 2020, refereed (<a href="http://adsabs.harvard.edu/abs/2020Natur.581..147B">2020Natur.581..147B</a>)  </p>
+</li>
+<li>
+<p><a href="http://adsabs.harvard.edu/abs/2020arXiv200504491B">OPTICAL VARIABILITY OF THE DWARF AGN NGC 4395 FROM THE TRANSITING EXOPLANET SURVEY SATELLITE</a><br/>
+Burke, Colin J., Shen, Yue, Chen, Yu-Ching, et al.  <br/>
+2020, not refereed (<a href="http://adsabs.harvard.edu/abs/2020arXiv200504491B">2020arXiv200504491B</a>)  </p>
 </li>
 <li>
 <p><a href="http://adsabs.harvard.edu/abs/2020arXiv200505153C">AN UNUSUAL TRANSMISSION SPECTRUM FOR THE SUB-SATURN KELT-11B SUGGESTIVE OF A SUB-SOLAR WATER ABUNDANCE</a><br/>
@@ -966,6 +905,11 @@ Giacalone, Steven, Dressing, Courtney D.  <br/>
 2020, not refereed (<a href="http://adsabs.harvard.edu/abs/2020arXiv200200691G">2020arXiv200200691G</a>)  </p>
 </li>
 <li>
+<p><a href="http://adsabs.harvard.edu/abs/2020arXiv200203958B">HD 191939: THREE SUB-NEPTUNES TRANSITING A SUN-LIKE STAR ONLY 54 PC AWAY</a><br/>
+Badenas-Agusti, Mariona, Günther, Maximilian N., Daylan, Tansu, et al.  <br/>
+2020, not refereed (<a href="http://adsabs.harvard.edu/abs/2020arXiv200203958B">2020arXiv200203958B</a>)  </p>
+</li>
+<li>
 <p><a href="http://adsabs.harvard.edu/abs/2020A&amp;A...633A..20A">ABOUT THE EXISTENCE OF WARM H-RICH PULSATING WHITE DWARFS</a><br/>
 Althaus, Leandro G., Córsico, Alejandro H., Uzundag, Murat, et al.  <br/>
 2020, refereed (<a href="http://adsabs.harvard.edu/abs/2020A&amp;A...633A..20A">2020A&amp;A...633A..20A</a>)  </p>
@@ -1024,6 +968,21 @@ Carrillo, Andreia, Hawkins, Keith, Bowler, Brendan P., et al.  <br/>
 <p><a href="http://adsabs.harvard.edu/abs/2020MNRAS.494..750E">PLANET HUNTERS TESS I: TOI 813, A SUBGIANT HOSTING A TRANSITING SATURN-SIZED PLANET ON AN 84-DAY ORBIT</a><br/>
 Eisner, N. L., Barragán, O., Aigrain, S., et al.  <br/>
 2020, refereed (<a href="http://adsabs.harvard.edu/abs/2020MNRAS.494..750E">2020MNRAS.494..750E</a>)  </p>
+</li>
+<li>
+<p><a href="http://adsabs.harvard.edu/abs/2020arXiv200100952G">THE FIRST HABITABLE ZONE EARTH-SIZED PLANET FROM TESS. I: VALIDATION OF THE TOI-700 SYSTEM</a><br/>
+Gilbert, Emily A., Barclay, Thomas, Schlieder, Joshua E., et al.  <br/>
+2020, not refereed (<a href="http://adsabs.harvard.edu/abs/2020arXiv200100952G">2020arXiv200100952G</a>)  </p>
+</li>
+<li>
+<p><a href="http://adsabs.harvard.edu/abs/2020arXiv200100954R">THE FIRST HABITABLE ZONE EARTH-SIZED PLANET FROM TESS II: $SPITZER$ CONFIRMS TOI-700 D</a><br/>
+Rodriguez, Joseph E., Vanderburg, Andrew, Zieba, Sebastian, et al.  <br/>
+2020, not refereed (<a href="http://adsabs.harvard.edu/abs/2020arXiv200100954R">2020arXiv200100954R</a>)  </p>
+</li>
+<li>
+<p><a href="http://adsabs.harvard.edu/abs/2020arXiv200100955S">THE FIRST HABITABLE ZONE EARTH-SIZED PLANET FROM TESS. III: CLIMATE STATES AND CHARACTERIZATION PROSPECTS FOR TOI-700 D</a><br/>
+Suissa, Gabrielle, Wolf, Eric T., Kopparapu, Ravi kumar, et al.  <br/>
+2020, not refereed (<a href="http://adsabs.harvard.edu/abs/2020arXiv200100955S">2020arXiv200100955S</a>)  </p>
 </li>
 <li>
 <p><a href="http://adsabs.harvard.edu/abs/2020arXiv200104534B">MOBSTER: IDENTIFYING CANDIDATE MAGNETIC O STARS THROUGH ROTATIONAL MODULATION OF TESS PHOTOMETRY</a><br/>
@@ -1992,7 +1951,7 @@ Gangestad, Joseph W., Henning, Gregory A., Persinger, Randy R., et al.  <br/>
       <!-- NASA logo and notices -->
       <div class="row" style="margin-top:2em;">
          <div class="col-md-10"> <a href="http://www.nasa.gov/"><img src="./images/NASA_logo_vector_lg.png" width="30" alt="NASA Logo"></a> 
-         Last modified: Fri 18 September 2020
+         Last modified: Mon 31 August 2020
             &middot; Editor: Thomas Barclay &middot; NASA Official: Patricia T Boyd 
             &middot; <a href="http://www.nasa.gov/about/highlights/HP_Privacy.html">Privacy Policy and Important Notices</a><p></p>         </div>
          <div class="col-md-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>

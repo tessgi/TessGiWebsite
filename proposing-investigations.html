@@ -7,7 +7,7 @@ in August 2015, using pelican-bootstrap and flatly.
 >
 
 <head>
-    <title>Guest Investigator Program - TESS Science Support Center</title>
+    <title>Guest Investigator Proposals - TESS Science Support Center</title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
@@ -17,7 +17,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - TESS Science Support Center" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2020-09-21" />
+    <meta name="dc.date.modified" content="2020-09-22" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Users of TESS Data" />
     <meta name="dc.identifier" content="https://heasarc.gsfc.nasa.gov/docs/tess/" />
@@ -37,15 +37,15 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <link href="./images/favicon.png" rel="icon">
 
-<link rel="canonical" href="./pages/guest-investigator-program.html">
+<link rel="canonical" href="./pages/guest-investigator-proposals.html">
 
         <meta name="author" content="Thomas Barclay" />
         <meta name="description" content="The TESS Guest Investigator (GI) program is intended to enable the community to participate in science investigations using TESS. The program enables teams to propose the collection of new 2-minute and 20-second cadence targets, and provides funding to US investigators to analyze 2-minute and 20-second cadence and full-frame image (FFI …" />
 
     <meta property="og:site_name" content="TESS" />
     <meta property="og:type" content="article"/>
-    <meta property="og:title" content="Guest Investigator Program"/>
-    <meta property="og:url" content="./pages/guest-investigator-program.html"/>
+    <meta property="og:title" content="Guest Investigator Proposals"/>
+    <meta property="og:url" content="./pages/guest-investigator-proposals.html"/>
     <meta property="og:description" content="The TESS Guest Investigator (GI) program is intended to enable the community to participate in science investigations using TESS. The program enables teams to propose the collection of new 2-minute and 20-second cadence targets, and provides funding to US investigators to analyze 2-minute and 20-second cadence and full-frame image (FFI …" />
         <meta property="og:image"
               content="./images/logo-for-twitter.jpeg"/>
@@ -61,7 +61,11 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <link href="./theme/css/exoplanet_archive_icons.css" rel="stylesheet">
     <link href="./theme/css/mission_icons.css" rel="stylesheet">
-
+    <link href="./theme/css/photobanner.css" rel="stylesheet">
+    <link href="./theme/css/slide-container.css" rel="stylesheet">
+    <link href="./theme/css/slide-transition.css" rel="stylesheet"> 
+    <link href="./theme/css/slide-transition2.css" rel="stylesheet"> 
+    
     <link href="./theme/css/pygments/native.css" rel="stylesheet">
     <link rel="stylesheet" href="./theme/css/style.css" type="text/css"/>
 
@@ -95,34 +99,49 @@ in August 2015, using pelican-bootstrap and flatly.
         </div>
         <div class="collapse navbar-collapse navbar-ex1-collapse">
             <ul class="nav navbar-nav">
-                            <li><a href="./archives.html">News</a></li>
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Mission <b class="caret"></b></a>
                             <ul class="dropdown-menu">
                                 <li><a href="./objectives.html">Objectives</a></li>
                                 <li><a href="./the-tess-space-telescope.html">Telescope</a></li>
-                                <li><a href="./operations.html">Operations</a></li>
-                                <li><a href="./primary-science.html">Science</a></li>
+                                <li><a href="./primary.html">Primary Mission</a></li>
+                                <li><a href="./extended.html">Extended Mission</a></li>
                                 <li><a href="./publications.html">Publications</a></li>
                             </ul>
                         </li>
                         <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Using TESS <b class="caret"></b></a>
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">TESS Data <b class="caret"></b></a>
                             <ul class="dropdown-menu">
-                                <li><a href="./status.html">Observing dates</a></li>
-                                <li><a href="./proposing-investigations.html">Guest Investigator Program</a></li>
-                                <li><a href="./observing-technical.html">Technical details</a></li>
-                                <li><a href="./proposal-tools.html">Proposal tools</a></li>
-                                <li><a href="./approved-programs.html">Approved programs</a></li>
+                                <li><a href="./data-handel.html">Data Pipeline</a></li>
+                                <li><a href="./data-products.html">Data Products</a></li>
+                                <li><a href="./data-access.html">Data Access</a></li>
+                                <li><a href="./community.html">Community Products</a></li>
+                                <li><a href="./documentation.html">Documentation</a></li>
                             </ul>
                         </li>
                         <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Data analysis <b class="caret"></b></a>
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Observations <b class="caret"></b></a>
                             <ul class="dropdown-menu">
-                                <li><a href="./data-access.html">Data access</a></li>
-                                <li><a href="./software.html">Analysis software</a></li>
-                                <li><a href="./community.html">Community products</a></li>
-                                <li><a href="./documentation.html">Documentation</a></li>
+                                <li><a href="./observing-technical.html">Technical Details</a></li>
+                                <li><a href="./sector.html">Sector Dates</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tools <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="./proposal-tools.html">Proposal & Observation Tools</a></li>
+                                <li><a href="./tools2.html">Data analysis Tools</a></li>
+                                <li><a href="./tools3.html">Community Tools</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Proposing <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="./proposing-investigations.html">Guest Investigator Proposals</a></li>
+                                <li><a href="./ddt.html">Director's Discretionary Target program</a></li>
+                                <li><a href="./proposal-tips.html">Proposal Tips</a></li>
+                                <li><a href="./proposal-templates.html">Proposal Templates</a></li>
+                                <li><a href="./approved-programs.html">Approved GI Programs</a></li>
                             </ul>
                         </li>
                         <li class="dropdown">
@@ -132,11 +151,11 @@ in August 2015, using pelican-bootstrap and flatly.
                                 <li><a href="./media.html">Media support</a></li>
                             </ul>
                         </li>
+                            <li><a href="./archives.html">News</a></li>
                             <li><a href="./faq.html">FAQ</a></li>
-                            <li><a href="https://heasarc.gsfc.nasa.gov">HEASARC</a></li>
             </ul>
             
-            <ul class="nav navbar-nav navbar-right">
+            <ul class="nav navbar-nav">
                 <li>
                     <a href="./helpdesk.html"><i class="fa fa-info-circle fa-lg"></i> Helpdesk</a>
                 </li>
@@ -155,127 +174,98 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <div class="col-sm-9" data-spy="scroll" data-target="#sidebarCol">
         <section id="content" class="body">
-            <h1 class="entry-title">Guest Investigator Program</h1>
+            <h1 class="entry-title">Guest Investigator Proposals</h1>
             <div class="entry-content">
                 
-<p>The TESS Guest Investigator (GI) program is intended to enable the community to participate in science investigations using TESS. The program enables teams to propose the collection of new 2-minute and 20-second cadence targets, and provides funding to US investigators to analyze 2-minute and 20-second cadence and full-frame image (FFI) data.</p>
-<p>The TESS primary mission duration was two years. The first year was spent in the southern ecliptic hemisphere and corresponded to TESS GI program Cycle 1; the second year observed the northern ecliptic hemisphere and corresponded to Cycle 2. During the primary mission, the majority of the 2-minute cadence targets observed were taken from the <a href="#candidate-target-list-ctl">TESS Candidate Target list (CTL)</a>. Around 20,000 2-minute cadence target slots were assigned to the GI program during the 2-year prime mission.</p>
-<p>Cycle 3 corresponds to the third year of TESS science, and is the first year of the TESS extended mission. There is no primary mission science during the TESS extended mission, scientific investigations are primarily supported by the TESS GI program. Targets for Cycle 3 will be in the southern ecliptic hemisphere.</p>
-<p>The Guest Investigator program sees significant changes in the extended mission. Highlights include:</p>
+<p>The TESS Guest Investigator (GI) program is intended to enable the community to participate in science investigations using TESS. The program enables teams to propose the collection of new 2-minute and 20-second cadence targets, and provides funding to US investigators to analyze 2-minute and 20-second cadence and full-frame image (FFI) data. All proposals are managed by the <a href="helpdesk.html">GI office</a>.</p>
+<p>The TESS <a href="primary.html">primary mission</a> duration was two years. The first year was spent in the southern ecliptic hemisphere and corresponded to TESS GI program Cycle 1; the second year observed the northern ecliptic hemisphere and corresponded to Cycle 2. During the primary mission, the majority of the 2-minute cadence targets observed were taken from the <a href="#candidate-target-list-ctl">TESS Candidate Target list (CTL)</a>. Around 20,000 2-minute cadence target slots were assigned to the GI program during the 2-year prime mission</p>
+<p>Cycle 3 corresponds to the third year of TESS science, and is the first year of the TESS <a href="extended.html">extended mission</a>. There is no primary mission science during the TESS extended mission, scientific investigations are primarily supported by the TESS GI program. Cycle 3 began in July 2020 with targets observed in the southern ecliptic hemisphere.</p>
+<p>There is no exclusive-use data rights to observations collected by TESS. All data is made available through the <a href="http://archive.stsci.edu/tess/summary.html">MAST public archive</a> once data processing and validation is complete.</p>
+<p><strong>The Cycle 4 call will come out in the fall of 2020, however the solicitation can already be found <a href="https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=735965/solicitationId=%7B4B9CAAB3-D398-183A-B1F3-EF963DF415C7%7D/viewSolicitationDocument=1/ROSES%202020%20SoS%20Guidebook%20062320.pdf">here</a>.</strong></p>
+<p>Below we describe some of the GI products available in the extended mission and how to propose for Cycle 4 time.</p>
+<h2 id="proposal-products">Proposal Products</h2>
 <ul>
-<li>A new 20-second cadence mode will potentially be available. Once
-commissioned, approximately 1,000 target slots per sector will be
-available in this mode. Guest Investigator (GI) observations in this
-mode will be collected at "shared risk"</li>
-<li>A 10-fold increase in the number of 2-minute cadence targets is
-available to the GI program. More than 15,000 target slots will be
-available in each sector; a total of approximately 200,000 target
-slots are available in Cycle 3, facilitating very large GI programs</li>
-<li>The full-frame image cadence is planned to be reduced from 30
-minutes to 10 minutes. This change in cadence will be considered
-a "shared risk"</li>
-<li>A new Key Project proposal category is available. These programs
-have a maximum duration of 27 months</li>
-<li>Ground-based observing focused programs are solicited provided
-they support the analysis and/or interpretation of TESS data</li>
-<li>Large programs and Key Projects have a 5-page limit for the
-scientific/technical/management section</li>
-<li>References are not included in the page limits</li>
-<li>Up to 100 ks of Swift time will be available for joint TESS-Swift proposals</li>
-<li>Starting in Cycle 3, proposals aimed at detecting small planets in
-2-minute cadence data are solicited.</li>
+<li>
+<p>A new 20-second cadence mode is now available as part of the extended mission. Approximately 1,000 target slots per sector are available in this mode. Observations in this mode are collected at "shared risk".</p>
+</li>
+<li>
+<p>As in the primary mission 2-minute cadence targets are available, but with a 10-fold increase. More than 15,000 target slots are available in each sector. For Cycle 3 there were a total of ~200,000 target slots, facilitating very large GI programs.</p>
+</li>
+<li>
+<p>Full-frame images are also available, but with a cadence reduced from 30 minutes to 10 minutes. This change in cadence was considered a "shared risk".</p>
+</li>
 </ul>
-<p>There is no exclusive-use data rights to observations collected by TESS. All data will be made available through the <a href="http://archive.stsci.edu/tess/summary.html">MAST public archive</a> once data processing and validation is complete. </p>
-<p><strong>The deadline for Cycle 3 proposals is January 16, 2020 at 4.30pm.</strong> Cycle 3 observations will begin July 5, 2020. </p>
-<h3 id="permitted-science-areas">Permitted science areas</h3>
-<p>We welcome proposals addressing compelling scientific questions in almost any area of astrophysics and planetary science provided the required observations are amenable to the operational characteristics and constraints of the mission. The science motivation may include, but is not limited to, exoplanet detection and characterization, stellar astrophysics, galactic and extragalactic astrophysics, and solar system science. </p>
-<p>The primary purpose of the TESS Guest Investigator Program is to enhance and maximize the science return from TESS. The program facilitates and supports both 2-minute and 20-second cadence observations with TESS and research undertaken with the FFIs. Any area of astrophysics may be proposed.</p>
-<p>Proposals may utilize any combination of 2-minute cadence, 20-second cadence, and the full-frame image data. All science proposals must be compelling and carefully justified scientifically and technically. </p>
-<p>The scientific justification of a GI proposal should focus on a compelling investigation
-that requires the collection of new TESS data or new ground-based data that supports
-the analysis and/or interpretation of TESS data. The proposed TESS Guest Investigation must clearly enhance the science return of the TESS mission. The proposal may include limited theoretical components, software development and/or data simulation that strengthens the proposal. At least 70% of the work effort should be focused on exploiting TESS data products, except in the case of ground-based observing focused proposals. </p>
-<p>Proposals that are focused on ground-based observing programs must have a clear science driver and describe how the ground-based component is both feasible and required for analysis and/or interpretation of TESS data. 
-Proposals must clearly describe the plans to make any new software or supporting data publicly available. Proposals must clearly describe the plans to make any new software, higher level data products and/or supporting data publicly available. Software developed with TESS GI funds must add value to the TESS science community, be free, and open source. Ground-based data collected with TESS GI funding support must be made publicly available in a timely fashion at either the NASA Exoplanet Science Institute (NExScI) <a href="https://exofop.ipac.caltech.edu">ExoFOP service</a> or as a <a href="http://archive.stsci.edu/hlsp/">MAST High-Level Science Product</a>. Other data products created with TESS GI funding support should be archived as a MAST High-Level Science Product (http://archive.stsci.edu/hlsp/).</p>
-<h3 id="evaluation-criteria">Evaluation criteria</h3>
-<p>Proposals submitted in response to <a href="https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId={21B53A82-2F78-9C26-3CA6-B9FEFE2AF929}&amp;path=open">the Cycle 3 GI call</a> will be evaluated 
-with respect to the criteria specified 
-in Section C.2 of the <a href="http://www.hq.nasa.gov/office/procurement/nraguidebook/">NASA Guidebook for Proposers</a>, which are intrinsic merit,
-relevance to the GI solicitation, 
-and the realism/reasonableness of the proposed work effort and resources. 
-In addition to the factors for intrinsic merit 
-given in the NASA Guidebook for Proposers, 
-intrinsic merit includes the following factors:</p>
-<ul>
-<li>The suitability of using the TESS survey and data products for the proposed
-investigation (not applicable for ground-based observing focused programs,
-although ground-based programs should make clear the need for ground-based
-data in order to analyze or interpret TESS data);</li>
-<li>The suitability of using the TESS survey and data products for the proposed investigation; </li>
-<li>The degree to which the proposed investigation places demands upon mission
-resources (this includes justification of the observing cadence requested and the
-impact on science if a given observing mode is not available during Cycle 3); and</li>
-<li>The degree to which the proposed investigation capitalizes on the unique
-capabilities of TESS.</li>
-</ul>
-<p>Proposers must take into account the difference between science that can be achieved exclusively using full-frame image data and science that requires new observations at 2-minute and 20-second cadence. </p>
-<p>All proposals are peer-reviewed and ranked by a panel of professional volunteers, followed by ratification from NASA Headquarters. The members of the peer-review panel will not be disclosed. The deliberations of the panel will be disclosed to PIs only after ratification by the selecting official. We anticipate that all proposals focused on ground-based observing will be reviewed by a single panel.</p>
-<p>NASA recognizes and supports the benefits of having diverse and inclusive
-scientific, engineering, and technology communities and fully expects that such values
-will be reflected in the composition of all panels and teams including peer review panels
-(science, engineering, and technology), proposal teams, science definition teams, and
-mission and instrument teams.</p>
-<h3 id="ground-based-observations-focused-projects">Ground-based observations focused projects</h3>
-<p>Proposals that support the acquisition and analysis of scientific data from ground-based telescopes are solicited. Such ground-based measurements must directly support the analysis and/or interpretation of TESS scientific data.
-Up to $500,000 is anticipated to be available to programs that focus on ground-based
-observing. Ground-based focused proposals should be identified in ARK/RPS as such
-and will be reviewed in a panel separately from other proposals submitted to the TESS
-GI program. All size programs are encouraged, and proposers should identify their
-program as a Small or Large program. </p>
-<h3 id="joint-hst-and-swift-programs">Joint HST and Swift programs</h3>
-<p>To foster correlative observations, TESS has established joint observing programs with
-the Hubble Space Telescope (HST) and the Neil Gehrels Swift Observatory. </p>
-<p>Proposals for joint HST observations should be submitted through the HST GO program and the TESS targets will be recommended by that review.</p>
-<p>The TESS Guest Investigator program can also award Swift observations through a
-joint program with the Swift mission. Observing time under this program will be awarded
-only to proposals that require use of both observatories to meet the primary science
-goals. Up to 100 ks Swift time will be available through this program. TESS GI funding
-is available to successful U.S.-based investigators who request Swift observing time
-through the TESS GI process. No funds will be awarded from the Swift project for joint
-investigations proposed to this TESS program element. These proposals will be evaluated for on their technical feasibility by members of the Swift team. Proposers should consult the <a href="https://swift.gsfc.nasa.gov/">Swift website</a> for information on Swift. </p>
-<h3 id="availability-of-funds">Availability of funds</h3>
-<p>It is anticipated that up to $3.0M in Cycle 3 will be available through this solicitation. Note that additional unfunded Guest Investigation targets may be selected and observed, if target resources permit. TESS 2-minute and 20-second cadence observations are open to all scientists at U.S. or non-U.S. institutions. TESS GI funding is open to all individuals who are identified as Principal Investigators and employed at U.S. institutions. Scientists participating in the TESS mission, including members of the Follow-up Team, are permitted to propose to the GI program and are subject to the same program rules as the rest of the science community. </p>
-<p>There are typically three categories of TESS GI proposals; investigators are free to select the category that best reflects their scope of their proposed work. The dollar amounts assigned to each proposal category are maximum award amounts.</p>
-<ul>
-<li>Small proposals - proposals of limited scope that have maximum budgets $50,000. </li>
-<li>Large proposals - proposals of wide-ranging scope and science yield. Large proposals must deliver a clear benefit for the broader scientific community and have maximum budgets of $200,000.</li>
-<li>Key projects - large multi-year programs with very broad scope and budgets of up to $200,000 per year. We anticipate awarding at least one Key Project that proposes many tens of thousands of 2-minute cadence targets. </li>
-</ul>
-<p>Funding for selected programs typically starts upon availability 
-of data to the public archive 
-at <a href="data-access.html">MAST</a>. 
-Note that there is no exclusive use period associated with any TESS data. </p>
 <h3 id="shared-risk-science">Shared risk science</h3>
 <p>The 10-minute FFI cadence and 20-second cadence mode for individual targets are "shared risk" observations. "Shared risk" means that details of the instrument and pipeline performance for these observing modes has not been fully tested at the time of the release of this call. These shared risk modes are not guaranteed to be available for the entire duration of Cycle 3, and the quality of the shared risk data returned to PIs may not meet expectations. These modes will be made available for science as soon as is feasible after the start of Cycle 3. </p>
-<p>Proposers wishing to utilize 10-minute FFI cadence or 20-second cadence observing modes during Cycle 3 must identify the impact upon their science goals if only 30-minute FFIs and 2-minute cadence modes are available at the time of the observations. If the program cannot achieve its science goals without 20-second cadence or 10-minute FFI modes, this must be stated.</p>
-<h3 id="eligibility">Eligibility</h3>
+<p>Proposers wishing to utilize 10-minute FFI cadence or 20-second cadence observing modes during Cycle 4 must identify the impact upon their science goals if only 30-minute FFIs and 2-minute cadence modes are available at the time of the observations. If the program cannot achieve its science goals without 20-second cadence or 10-minute FFI modes, this must be stated.</p>
+<h2 id="proposal-types">Proposal Types</h2>
+<p>There are typically three categories of TESS GI proposals; investigators are free to select the category that best reflects their scope of their proposed work.</p>
+<ul>
+<li>Small proposals - proposals of limited scope.</li>
+<li>Large proposals - proposals of wide-ranging scope and science yield. Large proposals must deliver a clear benefit for the broader scientific community.</li>
+<li>Key projects - large multi-year programs with a very broad scope. These were a new proposal category that were available in Cycle 3 only and have a maximum duration of 27 months. </li>
+</ul>
+<p>Note that Large programs and Key Projects have a five-page limit for the scientific/technical/management section, references are not included in the page limits. Other proposals have a four page limit.</p>
+<p>Within the small and large programs there are additional kinds of projects that can be put forward, these are described below.</p>
+<h3 id="ground-based-observation-focused-projects">Ground-based observation focused projects</h3>
+<p>Proposals that support the acquisition and analysis of scientific data from ground-based telescopes are solicited. Such ground-based measurements must directly support the analysis and/or interpretation of TESS scientific data. Ground-based focused proposals should be identified in ARK/RPS as such and will be reviewed in a panel separately from other proposals submitted to the TESS GI program. All size programs are encouraged, and proposers should identify their program as a Small or Large program.</p>
+<h3 id="joint-hst-and-swift-programs">Joint HST and Swift programs</h3>
+<p>To foster correlative observations, TESS has established joint observing programs with the Hubble Space Telescope (HST) and the Neil Gehrels Swift Observatory.
+Proposals for joint HST observations should be submitted through the HST GO program and the TESS targets will be recommended by that review.</p>
+<p>The TESS Guest Investigator program can also award Swift observations through a joint program with the Swift mission. Observing time under this program will be awarded
+only to proposals that require use of both observatories to meet the primary science goals. Up to 100 ks Swift time will be available through this program. </p>
+<p>TESS GI funding is available to successful U.S.-based investigators who request Swift observing time through the TESS GI process. No funds will be awarded from the Swift project for joint
+investigations proposed to this TESS program element. These proposals will be evaluated on their technical feasibility by members of the Swift team. Proposers should consult the <a href="https://swift.gsfc.nasa.gov/">Swift website</a> for information on Swift.</p>
+<h3 id="core-science-targets">Core science targets</h3>
+<p>During the extended mission there are no reserved targets or restricted science areas.
+Proposals aimed at detecting small planets in 2-minute cadence data are therefore now solicited.</p>
+<h2 id="availability-of-funds">Availability of funds</h2>
+<p>It is anticipated that &gt; $3.0M will be available in Cycle 4. Note that additional unfunded GI targets may be selected and observed, if target resources permit. TESS 2-minute and 20-second cadence observations are open to all scientists at U.S. or non-U.S. institutions. TESS GI funding is open to all individuals who are identified as Principal Investigators and employed at U.S. institutions. Scientists participating in the TESS mission, including members of the Follow-up Team, are permitted to propose to the GI program and are subject to the same program rules as the rest of the science community. </p>
+<p>The dollar amounts assigned to each proposal category are maximum award amounts and are roughly listed below,</p>
+<ul>
+<li>Small proposals - $70,000. </li>
+<li>Large proposals - $250,000.</li>
+<li>Ground-based projects - $500,000</li>
+</ul>
+<p>Funding for selected programs typically starts upon availability of data to the public archive at <a href="data-access.html">MAST</a>. Note that there is no exclusive use period associated with any TESS data. </p>
+<h2 id="writing-the-proposal">Writing the proposal</h2>
+<p>The GI office welcomes proposals addressing compelling scientific questions in almost any area of astrophysics and planetary science provided the required observations are amenable to the operational characteristics and constraints of the mission. The science motivation may include, but is not limited to; exoplanet detection and characterization, stellar astrophysics, galactic and extragalactic astrophysics, and solar system science. </p>
+<p>The primary purpose of the TESS Guest Investigator Program is to enhance and maximize the science return from TESS. The program facilitates and supports both 2-minute and 20-second cadence observations with TESS and research undertaken with the FFIs. Any area of astrophysics may be proposed.</p>
+<p>Proposals may utilize any combination of 2-minute cadence, 20-second cadence, and the full-frame image data. All science proposals must be compelling and carefully justified scientifically and technically. </p>
+<h3 id="evaluation-criteria">Evaluation criteria</h3>
+<p>When writing a proposal the user should consider the following,</p>
+<ul>
+<li>The scientific justification of a GI proposal should focus on a compelling investigation that requires the collection of new TESS data or new ground-based data that supports the analysis and/or interpretation of TESS data.</li>
+<li>The proposed TESS Guest Investigation must clearly enhance the science return of the TESS mission.</li>
+<li>The proposal may include limited theoretical components, software development and/or data simulation that strengthens the proposal.<ul>
+<li>Proposals must clearly describe the plans to make any new software, higher level data products and/or supporting data publicly available</li>
+<li>Software developed with TESS GI funds must add value to the TESS science community, be free, and open source.</li>
+</ul>
+</li>
+<li>At least 70% of the work effort should be focused on exploiting TESS data products, except in the case of ground-based observing focused proposals.</li>
+<li>Proposals that are focused on ground-based observing programs must have a clear science driver and describe how the ground-based component is both feasible and required for analysis and/or interpretation of TESS data.<ul>
+<li>Ground-based data collected with TESS GI funding support must be made publicly available in a timely fashion at either the NASA Exoplanet Science  Institute (NExScI) <a href="https://exofop.ipac.caltech.edu">ExoFOP service</a> or as a <a href="http://archive.stsci.edu/hlsp/">MAST High-Level Science Product</a></li>
+</ul>
+</li>
+<li>Other data products created with TESS GI funding support should be archived as a MAST High-Level Science Product (http://archive.stsci.edu/hlsp/).</li>
+</ul>
+<p>In addition proposals submitted in response to the <a href="https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=735965/solicitationId=%7B4B9CAAB3-D398-183A-B1F3-EF963DF415C7%7D/viewSolicitationDocument=1/ROSES%202020%20SoS%20Guidebook%20062320.pdf">Cycle 4 GI call</a> will be evaluated with respect to the criteria specified in Section C.2 of the <a href="http://www.hq.nasa.gov/office/procurement/nraguidebook/">NASA Guidebook for Proposers</a>, which are intrinsic merit, relevance to the GI solicitation, and the realism/reasonableness of the proposed work effort and resources. Intrinsic merit includes the following factors:</p>
+<ul>
+<li>The suitability of using the TESS survey and data products for the proposed investigation (not applicable for ground-based observing focused programs, although ground-based programs should make clear the need for ground-based data in order to analyze or interpret TESS data);</li>
+<li>The suitability of using the TESS survey and data products for the proposed investigation </li>
+<li>The degree to which the proposed investigation places demands upon mission resources (this includes justification of the observing cadence requested and the impact on science if a given observing mode is not available during Cycle 4); and</li>
+<li>The degree to which the proposed investigation capitalizes on the unique capabilities of TESS.</li>
+</ul>
+<p>Proposers must take into account the difference between science that can be achieved exclusively using full-frame image data and science that requires new observations at 2-minute and 20-second cadence. </p>
+<p>Example proposal templates can be found <a href="proposal-templates.html">here</a>.</p>
+<h2 id="eligibility">Eligibility</h2>
 <p>Application to the TESS GI program is typically open to all investigators, including those from outside the U.S. under NASA's no-exchange-of-funds policy. </p>
 <p>Investigators who are not affiliated with a U.S. institution are not eligible for funding through this program, but may submit proposals that will be reviewed and ranked along with eligible proposals for the purpose of allocating targets.</p>
 <p>Funding through the NASA TESS GI Program is available only to scientists at U.S. institutions who are identified as the Principal Investigators (PIs). U.S. based Co-Investigators (Co-Is) on foreign-led proposals do not qualify for funding. Funding for accepted target proposals will be initiated only after the relevant observations have begun. Proposers from non-U.S. institutions are strongly encouraged to include a letter of commitment promising financial support.</p>
 <p>In accordance with Public Law 113--76, Division B, Title V, Section 532, NASA cannot support bilateral participation, collaboration, or coordination with China or any Chinese-owned company or entity, whether funded or performed under a no-exchange-of-funds arrangement. See Section III(c) of the ROSES-2016 NRA for more information on these restrictions. </p>
 <p>The PI of a Phase-1 proposal does not need to be the same as the Phase-2 PI for the budget proposal. A Phase-1 PI is not required to be eligible to hold a grant at their institution. This enables junior scientists to PI Phase-1 proposals.</p>
-<h2 id="target-selection">Target selection</h2>
-<p>The TESS Input Catalog (TIC) is a catalog of approximately half a billion objects generated to assist in planning and executing observations and data reduction. The TIC includes detailed information about the characteristics of more than 2 million stars that have been identified as potential targets for the TESS Planet Search. The TIC also includes basic information for optically luminous persistent astronomical objects that may influence the photometry of TESS targets. The TIC can be queried on the <a href="https://archive.stsci.edu/tess/">MAST website</a>.</p>
-<h3 id="tess-input-catalog-tic">TESS Input Catalog (TIC)</h3>
-<p>To meet the primary mission goals, an all-sky catalog was generated to act as a basis for target selection. The TESS Target Selection Working Group (TSWG) was tasked with the creation and maintenance of the catalog with the aim of compiling every optically luminous, persistent object in the sky down to the limits of available wide-field photometric catalogs including both point sources and extended sources. This enables the selection of optimal targets to search for small transiting planets and allows flux contamination to be calculated in an optimal aperture for each target (critical due to the 21 arcsec TESS pixels). The resulting catalog is the source from which the &gt;200,000 primary mission targets will be selected and is known as the TESS Input Catalog (TIC).</p>
-<p>The TIC was assembled based on the Gaia DR2 catalog, and augmented with data from many additional catalogs to create a full list of point sources and extended sources that could be observed by TESS. The input catalog data are used to determine the physical and observational parameters of many of the TIC stars, including stellar radius, stellar mass, and effective temperature. TIC-8 includes 1.7 billion point sources and about 100 million extended sources. A visual overview of the input catalogs and methodology used to construct the TIC is shown in the schematic below.</p>
-<p><br/>
-<img class="img-responsive" src="images/giprogram/tic8_overview_figure2.png" style="max-width:90%;"/>
-<em>Overview of the photometric catalogs used to construct the TESS Input Catalog (TIC). Yellow arrows depict the order that catalogs are cross-matched and/or merged. The final TIC (TIC-8 as of 2019-06-01) is represented by the green box at the upper right. Image Credit: <a href="https://ui.adsabs.harvard.edu/abs/2019arXiv190510694S/abstract">Stassun et al. 2019</a>.</em>
-<br/></p>
-<h3 id="core-science-targets">Core science targets</h3>
-<p>During Cycle 3 there are no reserved targets or restricted science areas.</p>
-<h3 id="target-table">Target table</h3>
-<p>The TESS GI program office requires that if a target is in the TIC, GI proposers must provide only the following columns from the TIC in comma separated value (csv) format:</p>
+<h2 id="target-selection">Target Selection</h2>
+<p>Investigators can use the tools listed on the <a href="data-access.html">Accessing TESS data products page</a> to aid them in selecting targets. Note the TESS GI program office requires that if a target is in the <a href="data-access.html#TESS Input Catalog (TIC)">TIC</a>, GI proposers must provide only the following columns from the TIC in comma separated value (csv) format:</p>
 <ul>
 <li>TIC ID (if available)</li>
 <li>Right Ascension (decimal degrees)</li>
@@ -293,7 +283,7 @@ Note that there is no exclusive use period associated with any TESS data. </p>
 <li>Swift time request (ksec)</li>
 <li>Remarks</li>
 </ul>
-<p>Proposal tools and tips to help create target tables can be found on our <a href="proposal-tools.html">proposal tools page</a>. We encourage users to follow <a href="https://archive.stsci.edu/tess/tutorials/goddard_format.html">this custom tutorial</a> provided by the MAST.</p>
+<p>Additional proposal tools can  be found on our <a href="data-access.html">data access page</a> with proposal tips provided <a href="proposal-tips.html">here</a>. We encourage users to follow <a href="https://archive.stsci.edu/tess/tutorials/goddard_format.html">this custom tutorial</a> provided by the MAST.</p>
 <p>We have provided two example target tables with the format we require.</p>
 <ul>
 <li><a href="data/MAST_TIC_Proxima_Cen.csv">A sample of stars around Proxima Cen</a></li>
@@ -301,82 +291,13 @@ Note that there is no exclusive use period associated with any TESS data. </p>
 </ul>
 <h3 id="moving-targets">Moving targets</h3>
 <p>Moving aperture targets should be flagged as requiring special handling at proposal submission. Specify in the comments of the target list that this is a moving target. The proposal should discuss in the science case both the minimum and ideal acceptable duration of observations of the target. We will work with the proposal team to generate a delivery format for their targets of interest. Note that this is only necessary if 2-minute/20-second cadence data is requested. </p>
-<h3 id="target-of-opportunity-observations">Target of Opportunity Observations</h3>
+<h2 id="target-of-opportunity-observations">Target of Opportunity Observations</h2>
 <p>Target of Opportunity Observations (TOOs) are designated for rapidly evolving phenomena whose occurrence is not predictable at the time of the proposal deadline. Due to TESS mission constraints, TOO-triggered target definitions can only be uploaded to the spacecraft during uplinks that occur once every 13.7 days. Details regarding the circumstances in which a TOO is "triggered" must be included in the scientific justification and on the target form. TOO proposals must also include an estimated duration of the event, as well as an estimated probability for triggering the observations; the latter will be used in the accounting of total allocated targets. TOOs remain active during the current cycle; TOOs not carried out during the cycle may be re-proposed to subsequent solicitations. TOO observations would commence after the spacecraft upload following the trigger event, which could be as long as 2 months after the event. The impact to science of such a potential delay must be addressed in proposals requesting TOO observations. </p>
-<h2 id="solicitations">Solicitations</h2>
-<p>The proposal solicitation is available from the <a href="https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId={21B53A82-2F78-9C26-3CA6-B9FEFE2AF929}&amp;path=open">NSPIRES website</a>. Please read this document carefully.</p>
-<!-- ### FAQs   -->
-<!-- * **What are the proposal deadlines?**<br/>
-The deadlines for GO Cycle 5 have passed.  Stay tuned for a call
-for GO Cycle 6.
-
-* **What are the anticipated dates of the campaigns included in the
-current solicitation?**<br/>
-Campaign 14: 2017 May 31 - Aug 19 <br/>
-Campaign 15: 2017 Aug 23 - Nov 20 <br/>
-Campaign 16: 2017 Dec 07 - 2018 Feb 25 <br/>
-Start and stop dates for all campaigns are approximate, flexible and
-could be overtaken by unanticipated operational events.<br/>
-
-* **Where are the fields located on the sky for the campaigns included in the
-current solicitation?**<br/>
-The pointings for all K2 campaigns can be found on the <a
-href="k2-fields.html">fields page.</a> Proposers
-should be aware that changes were made to the pointing for Campaign 16 and should only propose for
- targets that are on active silicon in the updated Campaign 16
- field.  All investigators *must* update their version of the
-<a href="software.html#k2fov">K2fov target selection tool</a>
-to account for the recent changes to Campaign 16. <br/>
-
-* **Should I submit one proposal or two?**<br/>
-  In the interest of efficiency, proposers are requested *NOT* to provide separate proposals with identical science cases for each of the campaigns. If the same science goals are spread across both campaigns, please provide one science justification and two target tables, one for each field.<br/>
-
-* **How do I select targets on silicon?**<br/>
-  In order to avoid inefficiency for proposers, you are encouraged to
-  use the <a href="software.html#k2fov">K2fov tool</a> to
-  determine whether your targets fall upon silicon and propose only
-  those that do. The precision of this tool is a few 4x4 arcsec
-  detector pixels. <br/>
-
-* **Should I apply for targets that do not fall on silicon?**<br/>
-  Please, no. Proposing off-silicon targets is a waste of energy for proposers, reviewers and project staff. Use <a href="software.html#k2fov">K2fov</a> and apply only for targets that fall upon silicon (output flag "2").<br/>
-
-* **What is the K2 Ecliptic Plane Input Catalog (EPIC)?**<br/>
-  Proposers are asked to submit targets that have been selected from the <a href="http://archive.stsci.edu/k2/epic/search.php">EPIC</a>. The EPIC plays the same role for K2 that the <a href="http://adsabs.harvard.edu/abs/2011AJ....142..112B">Kepler Input Catalog (KIC)</a> played for Kepler target selection. The primary purpose of the catalog is to define photometric apertures for each potential target by providing celestial positions and Kepler bandpass magnitudes. EPIC parameters are produced by source matching existing multi-band catalogs and calculating color corrections for the Kepler bandpass. Documentation describing the compilation of the EPIC is provided <a href="http://archive.stsci.edu/k2/epic.pdf">here</a>.<br/>
-
-* **What type of science targets can be proposed?**<br/>
-  There are no constraints on the type of science or science target that can be proposed.<br/>
-
-* **How many targets can be proposed?**<br/>
-  Both long cadence (30-min exposure) and short cadence (1-min
-  exposure) targets will be observed during each Campaign. There are
-  no constraints whatsoever on the number of targets that can be
-  proposed. The total long cadence target list is expected to be
-  between 10,000 and 20,000 targets per Campaign. Approximately 50 to 100 short cadence targets are anticipated per Campaign.<br/>
-
-* **How many pixels around each target will be collected?**<br/>
-  The number of pixels collected for each target depends on the
-  target's Kepler magnitude.  For Kp = 12, the target pixel masks include
-  approximately 100 pixels.  Extra halos of pixels will be added to K2 masks in order to capture uncertainties in field acquisition (currently a pixel) and pointing drift over time (currently a pixel).<br/>
-
-* **Are there bright or faint magnitude limits?**<br/>
-  There are no faint limits upon the brightness of targets that can be
-  proposed. Bright targets will be significantly more expensive in
-  terms of pixel usage. Targets brighter than 3rd magnitude in the
-  Kepler bandpass cannot be observed because charge bleeding along CCD
-  pixel columns will fall into collateral pixels of the
-  detector. Bright targets (Kp < 9) and short cadence targets require
-  strong, compelling science cases.<br/>
-
-* **How do I propose a moving target?**<br/>
- The proposal process is the same for a Solar System or moving target
- as it is for other targets. However, proposers should take note of
- recommendations when creating the [target table for moving targets](#target-table). -->
-<h3 id="submission-process">Submission process</h3>
+<h2 id="submission-process">Submission process</h2>
 <p>The TESS GI program uses a two-phase proposal process. A Phase-1 proposal shall comprise the science/technical justification; proposals requesting funds need to include a budget narrative, describing in sufficient detail how the proposed funds will be used to achieve the goals outlined in the proposal. Only proposers whose Phase-1 proposals are accepted will be invited to submit budget proposals in Phase-2. It is not necessary for the PI of the Phase-2 proposal to be the science PI. Proposal content, including the list of investigators, should remain consistent between Phase-1 and Phase-2 proposals. All proposal materials will be submitted electronically. </p>
 <ul>
 <li>
-<p>All Proposers must submit their Phase-1 proposals electronically through the <a href="http://heasarc.gsfc.nasa.gov/ark/rps/">Astrophysics Research Knowledgebase (ARK)/ Remote Proposal System (RPS) website</a>. If you haven't used ARK/RPS before, we suggest signing up for an account well before the GI proposal deadline; please refer to <a href="http://heasarc.gsfc.nasa.gov/ark/tess/help.html">the ARK/RPS instructions for TESS</a>.</p>
+<p>All Proposers must submit their Phase-1 proposals electronically through the <a href="http://heasarc.gsfc.nasa.gov/ark/rps/">Astrophysics Research Knowledge-base (ARK)/ Remote Proposal System (RPS) website</a>. If you haven't used ARK/RPS before, we suggest signing up for an account well before the GI proposal deadline; please refer to <a href="http://heasarc.gsfc.nasa.gov/ark/tess/help.html">the ARK/RPS instructions for TESS</a>.</p>
 </li>
 <li>
 <p>You must "verify" the form, and pass the checks, before you can submit your proposal.</p>
@@ -385,7 +306,7 @@ to account for the recent changes to Campaign 16. <br/>
 <p>Target tables for 2-min/20-second cadence observation proposals are to be submitted through ARK/RPS. There are two different ways to provide your target list: into the RPS target form itself, or as a separate CSV file upload - the latter will only become possible after you submit your RPS form. We strongly encourage proposers to submit a CSV file for target lists containing over 100 targets.</p>
 </li>
 <li>
-<p>The Scientific/Technical/Management section of proposals is limited to 4 pages for small programs and 5 pages for large programs and key projects, which <em>does not</em> includes references. No table of contents in the body of the proposal is required. No supporting material [e.g., curriculum vitae (CV), pending/current support] is required or permitted. An additional page can be used for a target table only.</p>
+<p>The Scientific/Technical/Management section of proposals is limited to 4 pages for small programs and 5 pages for large programs, which <em>does not</em> includes references. No table of contents in the body of the proposal is required. No supporting material [e.g., curriculum vitae (CV), pending/current support] is required or permitted. An additional page can be used for a target table only.</p>
 </li>
 <li>
 <p>Optional <a href="#proposal-templates">templates for the Scientific/Technical/Management are available below</a>.</p>
@@ -394,201 +315,15 @@ to account for the recent changes to Campaign 16. <br/>
 <p>The Scientific/Technical/Management section must be uploaded to the RPS website as a PDF file <em>after</em> you have submitted your RPS proposal form.</p>
 </li>
 </ul>
-<p>All proposal materials must be submitted electronically by 4:30 p.m. Eastern time on the due date for this program given in Section 3 in order to be included in the proposal review for this cycle of the TESS Guest Investigator program. Note that the 4:30 p.m. deadline supersedes the deadline stated in the Guidebook for Proposers and in the ROSES Summary of Solicitation. <strong>The proposal deadline for Cycle 3 is January 16, 2020.</strong></p>
-<p>NASA uses a single, uniform set of instructions for the submission of ROSES proposals. These instructions are given in the <a href="http://www.hq.nasa.gov/office/procurement/nraguidebook/">NASA Guidebook for Proposers</a>. TESS GI Proposers should follow these instructions, except where they are overridden by the instructions given in the ROSES Summary of Solicitation or in this Appendix. </p>
-<!-- K2 proposal submission is a 2-step process. Both steps are
-mandatory. To propose for Campaigns 14, 15 and 16, investigators are
-required to submit Step 1 through the NSPIRES website by <font color='black'>23:59 EST
-November 3, 2016</font> and are required to submit Step 2 to the NSPIRES
-website by <font color='black'>23:59 EST December 15, 2016</font>. All proposers need to register
-with NSPIRES in order to submit both parts of the proposal. The
-separation of the proposal into two steps is required in order to
-expedite the completion of review administration and target
-engineering before the start of Campaign 14. Detailed instructions for
-submitting a K2 proposal to the GO call are provided below:
-
-* If new to the NASA Solicitation and Proposal Integrated Review and
-  Evaluation System, NSPIRES,
-  [register on the NSPIRES website](https://nspires.nasaprs.com/external/aboutRegistration.do).
-
-* Familiarize yourself with the NASA Research Announcement (NRA) Research Opportunities in Space and Earth Sciences Announcement 2016 [(ROSES-2016)](https://nspires.nasaprs.com/external/solicitations/summary.do?method=init&solId={68C12087-132D-3814-9A87-5323BCE6CAB6}&path=open&redirectURL=%2Fexternal%2Fsolicitations%2Fsolicitations.do%3Fmethod%3Dopen%26stack%3Dpush). This document provides an overview of the NRA process and is a compilation of most solicitations within NASA's Science Mission Directorate.
-
-* Read the
-  [Cycle 5 K2 Research Announcement](https://nspires.nasaprs.com/external/solicitations/summary.do?method=init&solId={D68A4380-B327-7C96-04CF-02B0FC940DBF}&path=open). New
-  amendments to the NRA are publicized at NSPIRES. Check this page
-  regularly. 
-
-* [Submit Step 1 of
-      the proposal to NSPIRES](http://nspires.nasaprs.com/external/)
-      by <font color='black'>23:59 EST November 3, 2016</font>.  [Instructions for
-      Step 1 submission can be found here](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=498339/solicitationId=%7BD68A4380-B327-7C96-04CF-02B0FC940DBF%7D/viewSolicitationDocument=1/Step-1%20instructions%2002182016.pdf). 
-
-* [Submit Step 2 of
-      the proposal to NSPIRES](http://nspires.nasaprs.com/external/)
-      by <font color='black'>23:59 EST December 15, 2016</font>. 
-
-*  The generic content of the proposal is described in Sec 2.3 of the
-    <a
-    href="http://www.hq.nasa.gov/office/procurement/nraguidebook/proposer2016.pdf">2016
-    NRA Proposers Guide</a>. Page
-    limits and proposal content within the NRA Guide are amended
-    within the
-    [K2 GO Cycle 5 NRA](https://nspires.nasaprs.com/external/solicitations/summary.do?method=init&solId={D68A4380-B327-7C96-04CF-02B0FC940DBF}&path=open)
-    and are summarized in the table below.   The
-    right-hand column provides page limits for the package elements. Caveats to the page limits are provided as footnotes. *The page limits on this website override the NRA-generic limits within the handbook.*
-    The Scientific/Technical/Management section of the
-    Step 2 proposal, which consists of text, tables (excluding the
-    target table), and figures must not exceed four pages for
-    proposals in the Small category, or six pages for proposals in the
-    Large category. An additional 0.5 pages is allowed in Large proposals to describe
-    progress the proposers have made to delivering value-added
-    community resources.  References and the target table do not count against the four or
-    six page
-    limit, however, the
-completed package uploaded to NSPIRES for the Scientific/Technical/Management
-    section must not exceed 15 pages. If a large target
-table extends beyond the 15 page limit then truncate the table so that
-the page limit is not exceeded and make a note within the proposal
-that the table has been truncated. Page limits for the PI and Co-I biographies and
-    current and pending support are defined below, and are 
-    separate from the 15 page limit for the
-    Scientific/Technical/Management section.  PIs should not feel compelled to
-meet the page limits, but must submit all items appropriate to their
-proposal and should not exceed the page limits as defined below.
-
-
-<table class="table table-striped table-hover" style="max-width:70em;">
-  <thead>
-    <tr>
-      <th>Required Content for Step 2 Proposals</th>
-      <th>Page Limit</th>
-    </tr>
-  </thead>
-
-<tdata>
-
-<tr>
-    <td style="min-width: 5em;">Table of Contents </td>
-    <td>1</td>
-    </tr>
-
-<tr>
-    <td>Scientific Justification/Technical/Management Section, "Small" proposals<sup>†</sup> </td>
-    <td>4</td>
-    </tr>
-
-<tr>
-    <td>Scientific Justification/Technical/Management Section, "Large" proposals<sup>†</sup><sup>&Dagger;</sup> </td>
-    <td>6</td>
-    </tr>
-
-<tr>
-    <td>Target Table </td>
-    <td>as needed</td>
-    </tr>
-
-<tr>
-    <td>References</td>
-    <td>as needed</td>
-    </tr>
-
-<tr>
-    <td>PI Biography </td>
-    <td>2</td>
-    </tr>
-
-<tr>
-    <td>Co-I Biography </td>
-    <td>1 per Co-I</td>
-    </tr>
-
-<tr>
-    <td>Current and Pending Support </td>
-    <td>as needed</td>
-    </tr>
-
-</tdata>
-</table>
-<sup>†</sup>Includes text, tables, and figures. References and the
-required target table do not count against these four or six page limits, but the
-target table should be truncated in cases where it would cause this specific
-section to exceed 15 pages.<br/>
-<sup>&Dagger;</sup>An additional 0.5 pages is allowed in "Large" proposals to describe
-    progress the proposers have made to delivering value-added
-    community resources, but the Scientific/Technical/Management
-    section still must not exceed 15 pages.
-
-In summary, proposers should:
-
-  * Understand the scope of the
-        Guest Observer program. Science papers exploiting data from the Kepler and K2 mission can be found [here](publications.html).
-  * Familiarize yourself with the [technical documentation](data-products.html#documentation) for the mission.
-  * Develop and justify a science concept for observations
-          within Campaigns specific to the current GO Cycle <a href="fields.html"></a>.
-   * Identify appropriate targets for the proposed observations using the
-        <a href="http://archive.stsci.edu/k2/epic/search.php">K2 Target Search</a> page as the primary (but not exclusive) source list. This search page provides for the construction of short or long target lists based upon e.g. celestial cone searches, magnitude and color.
-   * Include a [Target Table](k2-proposing-targets.html#target-table)
-     as an integral component of the proposal and as a separate
-     submission to the Guest Observer Office at **keplergo@mail.arc.nasa.gov**. 
-   * Provide the administrative elements of the proposal
-          including a proposer biographical information, and a
-          statement of current and pending financial support.
-   * **Large proposals that anticipate delivery of a data product/products
-  to one of the NASA archives (e.g., MAST or the NASA Exoplanet
-  Database) for curation must also include a letter of acknowledgement from
-  the relevant archive.**
-   * **Although a detailed budget is not requested in either Step 1 or
-  Step 2 proposals, the Step 2 proposal should include either a
-  statement of work or a table summarizing the work effort.  If the
-  statement of work is included in the Scientific/Technical/Management
-  section it will count against the page limit for that section, but a
-  table can be included as a separate section that will not count
-  against the Scientific/Technical/Management section page limit .**  The
-  statement of work should clearly identify any and all members of the proposing team
-  who would receive funding under the proposed investigation. The
-  funding amounts will be determined formulaically based on target
-  allocation.**
-  * **Special instructions for non-US PIs**<br/>
-During the submission process, non-US PI-led proposals will need to be
-affiliated to a submitting organization. Do this by clicking on the
-"Account Mgmt" tab at the top of the NSPIRES page and follow the
-instructions. All non-US proposals should use the "Kepler Guest
-Observer Office" as your affiliation within NSPIRES. This is simply a
-fudge, albeit a required fudge, so that non-US PIs spend no more
-effort than this over the institutional endorsements that are
-mandatory for US investigators. When completing the proposal, there are a few obscure boxes on the standard form that need your attention. The organization name is "Kepler Guest Observer Office", doing business as the "Kepler Guest Observer Office". The DUNS number is "999999954" and the cage code is "ZZZ54". These details will make sense to you when you see the Step 2 proposal form. -->
-<h3 id="proposal-templates">Proposal templates</h3>
-<p>We have made available proposal templates to aid users in writing GI proposals. Use of these templates is not required. </p>
-<ul>
-<li><a href="docs/tessgi_template_cycle3.docx">MS Word</a></li>
-<li><a href="docs/tessgi_template_cycle3.tex">Latex</a></li>
-<li><a href="docs/tessgi_template_cycle3.pdf">PDF</a></li>
-</ul>
-<h3 id="proposal-tips">Proposal tips</h3>
-<p>Due to the observing strategy of the TESS mission, GI proposers should be aware of several details when composing a science case and target lists.</p>
-<ul>
-<li>
-<p>The exact location of the first observing sector (and therefore all subsequent observing sectors) in a given cycle is a sensitive function of the start date of observations in that cycle. The impact of the uncertainty in the exact sky locations of the TESS FOVs is that there is no guarantee that any given proposed target will not fall into a gap between sectors, camera CCDs, or camera FOVs. To mitigate this uncertainty, proposers are encouraged to consider target lists that include a number of similar sources distributed across the sky.</p>
-</li>
-<li>
-<p>Adjacent TESS observing sectors have overlapping regions near the ecliptic poles, providing longer-term continuous coverage for stars falling in these regions, which in turn provides sensitivity to smaller and longer-period planets. Objects within 12 deg of the ecliptic poles may be observed for ~1 year.</p>
-</li>
-<li>
-<p>Camera 4 is usually centered on the ecliptic pole and targets in this camera will be observed continuously for an entire cycle. This leads to a limitation in the number of 2-minute cadence targets that can be selected in the portion of sky covered by camera 4. </p>
-</li>
-<li>
-<p>Camera 1 is usually closest to the ecliptic plane and will be contaminated by stray light from the Earth and Moon during some observing sectors. More details on the impact of scattered light can be found in the <a href="documentation.html">Data Release Notes and the TESS Instrument Handbook</a>.</p>
-</li>
-<li>
-<p>Some cameras during some observing sectors cover portions of the Galactic plane and suffer from increased background contamination.</p>
-</li>
-<li>
-<p>A primary science target will nominally be observed nearly continuously for 27.4 days in a given TESS observing sector. However, mission requirements only require a minimum of 20 days of observations out of the 27.4 days possible per sector.  This requirement accounts for all sources of observing inefficiency, including repointing for data downlink and interruptions due to the Earth and/or Moon in a camera FOV. </p>
-</li>
-</ul>
-<h3 id="directors-discretionary-targets">Director's Discretionary Targets</h3>
-<p>The DDT and out-of-cycle Target of Opportunity processes for TESS will draw heavily on those used successfully for the NuStar Explorer mission. Requests and targets will be submitted through a form on the <a href="https://tess.mit.edu/science/ddt/">MIT TESS website</a>. The requests will be reviewed by the TESS PI, a science expert selected by the TESS PI, and the TESS operations team. Approved targets will be posted on the MIT TESS website, along with the expected time(s) of observation.  There is no proprietary period for approved DDT observations. Data from a DDT observation will be delivered to the TESS archives concurrently with the non-DDT data from the sector in which the DDT is observed.</p>
-<p>A number of targets per sector have been reserved for targets which are not covered in the exoplanet, asteroseismology, or GI target lists, yet may warrant inclusion as targets. Proposals for DDT targets can be submitted through MIT's <a href="https://tess.mit.edu/science/ddt/">DDT program page</a>.</p>
+<p>All proposal materials must be submitted electronically by 4:30 p.m. Eastern time on the due date for this program given in Section 3 in order to be included in the proposal review for this cycle of the TESS Guest Investigator program. Note that the 4:30 p.m. deadline supersedes the deadline stated in the Guidebook for Proposers and in the ROSES Summary of Solicitation. </p>
+<p>NASA uses a single, uniform set of instructions for the submission of ROSES proposals. These instructions are given in the <a href="http://www.hq.nasa.gov/office/procurement/nraguidebook/">NASA Guidebook for Proposers</a>. TESS GI Proposers should follow these instructions, except where they are overridden by the instructions given in the ROSES Summary of Solicitation.</p>
+<h2 id="review-process">Review process</h2>
+<p>All proposals are peer-reviewed and ranked by a panel of professional volunteers, followed by ratification from NASA Headquarters. The members of the peer-review panel will not be disclosed. The deliberations of the panel will be disclosed to PIs only after ratification by the selecting official. We anticipate that all proposals focused on ground-based observing will be reviewed by a single panel.</p>
+<p>NASA recognizes and supports the benefits of having diverse and inclusive
+scientific, engineering, and technology communities and fully expects that such values
+will be reflected in the composition of all panels and teams including peer review panels
+(science, engineering, and technology), proposal teams, science definition teams, and
+mission and instrument teams.</p>
             </div>
         </section>
     </div>
@@ -597,28 +332,29 @@ mandatory for US investigators. When completing the proposal, there are a few ob
             <div class="nav nav-stacked fixed" id="mytoc">
             <div class="toc">
 <ul>
-<li><a href="#permitted-science-areas">Permitted science areas</a></li>
-<li><a href="#evaluation-criteria">Evaluation criteria</a></li>
-<li><a href="#ground-based-observations-focused-projects">Ground-based observations focused projects</a></li>
-<li><a href="#joint-hst-and-swift-programs">Joint HST and Swift programs</a></li>
-<li><a href="#availability-of-funds">Availability of funds</a></li>
+<li><a href="#proposal-products">Proposal Products</a><ul>
 <li><a href="#shared-risk-science">Shared risk science</a></li>
-<li><a href="#eligibility">Eligibility</a></li>
-<li><a href="#target-selection">Target selection</a><ul>
-<li><a href="#tess-input-catalog-tic">TESS Input Catalog (TIC)</a></li>
+</ul>
+</li>
+<li><a href="#proposal-types">Proposal Types</a><ul>
+<li><a href="#ground-based-observation-focused-projects">Ground-based observation focused projects</a></li>
+<li><a href="#joint-hst-and-swift-programs">Joint HST and Swift programs</a></li>
 <li><a href="#core-science-targets">Core science targets</a></li>
-<li><a href="#target-table">Target table</a></li>
+</ul>
+</li>
+<li><a href="#availability-of-funds">Availability of funds</a></li>
+<li><a href="#writing-the-proposal">Writing the proposal</a><ul>
+<li><a href="#evaluation-criteria">Evaluation criteria</a></li>
+</ul>
+</li>
+<li><a href="#eligibility">Eligibility</a></li>
+<li><a href="#target-selection">Target Selection</a><ul>
 <li><a href="#moving-targets">Moving targets</a></li>
+</ul>
+</li>
 <li><a href="#target-of-opportunity-observations">Target of Opportunity Observations</a></li>
-</ul>
-</li>
-<li><a href="#solicitations">Solicitations</a><ul>
 <li><a href="#submission-process">Submission process</a></li>
-<li><a href="#proposal-templates">Proposal templates</a></li>
-<li><a href="#proposal-tips">Proposal tips</a></li>
-<li><a href="#directors-discretionary-targets">Director's Discretionary Targets</a></li>
-</ul>
-</li>
+<li><a href="#review-process">Review process</a></li>
 </ul>
 </div>
             </div>
@@ -675,7 +411,7 @@ mandatory for US investigators. When completing the proposal, there are a few ob
       <!-- NASA logo and notices -->
       <div class="row" style="margin-top:2em;">
          <div class="col-md-10"> <a href="http://www.nasa.gov/"><img src="./images/NASA_logo_vector_lg.png" width="30" alt="NASA Logo"></a> 
-         Last modified: Fri 18 September 2020
+         Last modified: Mon 31 August 2020
             &middot; Editor: Thomas Barclay &middot; NASA Official: Patricia T Boyd 
             &middot; <a href="http://www.nasa.gov/about/highlights/HP_Privacy.html">Privacy Policy and Important Notices</a><p></p>         </div>
          <div class="col-md-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
