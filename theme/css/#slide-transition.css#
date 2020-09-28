@@ -18,7 +18,7 @@ slider > * {
     width: 1250px;
     height: 300px;
     background: black;
-    animation: slide 110s infinite;
+    animation: slide 40s infinite;
     overflow: hidden;
 }
 
@@ -73,7 +73,7 @@ slide:nth-child(6){
 
 slide:nth-child(7){
     left: 100%;
-    animation-delay: 80s;
+    animation-delay: 30s;
     background-image: url(https://exoplanets.nasa.gov/system/resources/detail_files/2237_FLARES_RGB_small.jpg);
     background-size: cover;
     background-position: center;
@@ -81,7 +81,7 @@ slide:nth-child(7){
 
 slide:nth-child(8){
     left: 100%;
-    animation-delay: 95s;
+    animation-delay: 35s;
     background-image: url(https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/ssc2019-14c.jpg);
     background-size: cover
     background-position: center;
