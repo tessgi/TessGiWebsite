@@ -142,7 +142,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>South</td>
     <td>2020&nbsp;Oct&nbsp;21</td>
     <td>2020&nbsp;Nov&nbsp;19</td>
-    <td></td>
+    <td><a href='data/target_lists/sector031_targets_lists/GI_S031.csv'>Download</a></td>
     <td style="min-width: 12em;">
     </td>
   </tr>
