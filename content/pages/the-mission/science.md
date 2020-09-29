@@ -3,7 +3,7 @@ Save_as: primary-science.html
 
 [TOC]
 
-During the TESS primary mission, TESS is searching for planets outside of our solar system with a primary goal of finding nearby planets that are amenable to characterization with ground-based follow-up surveys. Specifically, the primary science requirements of the TESS mission are as follows:
+During the TESS primary mission, TESS searched for planets outside of our solar system with a primary goal of finding nearby planets that are amenable to characterization with ground-based follow-up surveys. Specifically, the primary science requirements of the TESS Prime Mission was as follows:
 
 1. Search over 200,000 stars to discover planet with periods <10 days and radii <2.5 Earth radii orbiting the brightest stars in the solar neighborhood and discover planets with radii at least 2.5 Earth radii distributed across the celestial sphere.
 
@@ -12,11 +12,11 @@ During the TESS primary mission, TESS is searching for planets outside of our so
 3. Determine the masses for at least 50 planets with radii <4 Earth radii. 
 
 
-TESS is surveying stars with spectral types ranging from F5 to M5 to search for transiting exoplanets. Additional follow-up with ground- and space-based missions, including NASA's James Webb Space Telescope, will allow astronomers to study the atmospheres of many of these planets.  The TESS legacy will be a catalog of the nearest and brightest main-sequence stars hosting transiting exoplanets. 
+TESS surveyed stars with spectral types ranging from F5 to M5 to search for transiting exoplanets. Additional follow-up with ground- and space-based missions, including NASA's James Webb Space Telescope, will allow astronomers to study the atmospheres of many of these planets.  The TESS legacy will be a catalog of the nearest and brightest main-sequence stars hosting transiting exoplanets. 
 
 In addition to its search for exoplanets, TESS allows scientists from the wider community to request targets for astrophysics research on approximately 10,000 additional objects through each cycle of its Guest Investigator program.
 
-During the extended mission, TESS will shift toward being a community resource with no preferential science case. Almost all of the observing resources will be allocated through the Guest Investigator Program.
+With the start the extended mission, TESS has shifted toward being a community resource with no preferential science case. Almost all of the observing resources are allocated through the Guest Investigator Program.
 
 
 ## The transit method
