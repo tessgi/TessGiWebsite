@@ -1,0 +1,19 @@
+# TESS Program G022078
+
+Title: The Power Spectrum And Structure Of Superhumps
+
+PI: Kemp, Jonathan - Middlebury College
+
+Type: SMALL
+
+Summary: "Superhumps" are periodic photometric waves in the light curves of compact stars accreting through a disk. They seem to arise from eccentric and wobble instabilities at the 3:1 resonance in accretion disks, and always produce a periodic signal several percent displaced from the orbital period. Several harmonics and sidebands of that primary signal are probably also present, but have never been clearly mapped out, due to inevitable interruptions in ground-based coverage. Our four targets for TESS coverage are the only cataclysmic variables which show both types of precession (apsidal and disk-wobble), and cry out for very long time series, which will elucidate the precise period structure, and relation between the two frequencies.
+
+
+# Sector 014 targets observed (1)
+193895999,306.8224,43.6893,16.79,G022078;G022116
+
+# Sector 015 targets observed (1)
+193895999,306.8224,43.6893,16.79,G022078;G022116
+
+# Sector 017 targets observed (1)
+440666925,7.5241,26.2906,14.7,G022078;G022126;G022071;G022141;G022254

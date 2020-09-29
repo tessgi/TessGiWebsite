@@ -1,0 +1,13 @@
+# TESS Program G03196
+
+Title: Tess' Opportunity To Measure Ttv Masses For Toi-270
+
+PI: Guenther, Maximilian - Massachusetts Institute Of Technology
+
+Type: SMALL
+
+Summary: TESS recently uncovered TOI-270 (TIC 259377017), a remarkable multi-planet system with a super-Earth and two temperate sub-Neptunes transiting a bright M3.5V dwarf with orbits near mean-motion resonance (5:3 and 2:1). Here, we propose for 20 s cadence in Cycle 3 to precisely measure the planets' transit timing variations (TTVs) for planet mass determinations and dynamical studies. Cycle 3 will add 18 new transits of planet b, 10 of c, and 6 of d. The 20 s data will improve TESS' transit timing precision from 2-3 min to <1 min, substantially contributing to our ongoing TTV monitoring campaign. Precise TTVs and masses are pivotal for atmospheric characterization, as TOI-270 provides an unique opportunity to compare atmospheres of multiple planets formed from the same protoplanetary nebula.
+
+
+# Sector 030 targets observed (2 min: 1, 20 s: 1)
+259377017,68.4163,-51.9578,10.5,G03196;G03278;G03106;G03274;20SECONDTARGET
