@@ -200,7 +200,7 @@ of 0.3, the charge in the peak pixel is 9 × 10<sup>5</sup> e−, leading to a b
 <p>The TESS PSF varies significantly across the focal plane due primarily to the optics. Instead of a PSF, TESS has a pixel response function (PRF), which represents the observed appearance of the point sources. </p>
 <p>The TESS PRF was created by the SPOC by fitting to micro-dithered data taken during PRF commissioning exercises. PRF models for sectors 1-3 can be found <a href="https://archive.stsci.edu/missions/tess/models/prf_fitsfiles/start_s0001/">here</a>, with sector 4 onwards <a href="https://archive.stsci.edu/missions/tess/models/prf_fitsfiles/start_s0004/">here</a>. Additional resources for the TESS PRF can be found on <a href="https://archive.stsci.edu/tess/all_products.html">MAST</a>.</p>
 <p align="center">
-<img height="270" src="/images/tess_psf.png" width="800"/>
+<img height="270" src="images/tess_psf.png" width="800"/>
 </p>
 <p><em>PRF from Sector 1, Camera 1.</em></p>
 <p>Physical WCS solutions can be used to convert the PRF image coordinates into the corresponding TESS CCD's.
@@ -212,7 +212,7 @@ For more information about the TESS PRF see page 49 of the <a href="https://arch
 <p>A key source of systematic noise comes from random pointing variations i.e., spacecraft jitter. This causes changes in the measured brightness as stars move across CCD pixels. The floor for this intrinsic noise is assumed to be 60 ppm on hourly timescales.</p>
 <h3 id="scattered-light">Scattered Light</h3>
 <p>Each camera has a lens hood to reduce the scattered light from the Earth and the Moon. Due to TESS's wide field of view and the physical restrictions of the Sun shade the lens hood is not 100% efficient. The effect  of the scattered  light on the CCD's can be seen in the video  below, typically the patchy brightness  is 2-6 times that of the nominal sky background and covers approximately 10-15% of the FoV. When the Earth is  below the level  of the sun shade there  is no scattered light. When the Earth or Moon is directly in the FoV of a camera the data is no longer viable.</p>
-<p><a href="https://www.youtube.com/watch?v=SP4QSF9G6FA" title="Scattered Light"><img alt="scatter.png" src="/images/scatter.png"/></a></p>
+<p><a href="https://www.youtube.com/watch?v=SP4QSF9G6FA" title="Scattered Light"><img alt="scatter.png" src="images/scatter.png"/></a></p>
 <p><em>A movie of how scattered light hits the CCD's in sector 19.</em></p>
 <p>For more information about scatterd light see section 7.3 of the <a href="https://archive.stsci.edu/missions/tess/doc/TESS_Instrument_Handbook_v0.1.pdf">instrument handbook</a></p>
 <h3 id="cosmic-rays">Cosmic Rays</h3>
