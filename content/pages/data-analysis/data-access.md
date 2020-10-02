@@ -54,6 +54,10 @@ Find MAST data (including TESS) for known planets and TOIs, matched to orbital p
 Plot sector-stitched DV light curves.
 Access to exoplanet parameters with references.
 
+### [ExoFOP-TESS](https://exofop.ipac.caltech.edu/tess/index.php)
+
+This website optimizes resources and facilitates collaboration in follow-up studies of targets observed by TESS. The website provides stellar parameters from the TESS Input Catalog (TIC), which is served by the MAST archive,  and planet parameters from the [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu).
+
 ### [TESSCut](https://mast.stsci.edu/tesscut/)
 
 Create time series pixel cutouts from the TESS full frame images.
@@ -81,7 +85,7 @@ The [TESS mission page at MAST](https://archive.stsci.edu/tess/all_products.html
 * Two-minute cadence target pixel files
 * Two-minute cadence light curves
 * Twenty-second cadence target pixel files
-* Twenty-secomd cadence light curves
+* Twenty-second cadence light curves
 * Data validation time series files
 * Full frame images (calibrated and uncertainty files)
 * Cotrending basis vectors files
