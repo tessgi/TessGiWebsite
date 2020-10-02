@@ -61,7 +61,11 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <link href="./theme/css/exoplanet_archive_icons.css" rel="stylesheet">
     <link href="./theme/css/mission_icons.css" rel="stylesheet">
-
+    <link href="./theme/css/photobanner.css" rel="stylesheet">
+    <link href="./theme/css/slide-container.css" rel="stylesheet">
+    <link href="./theme/css/slide-transition.css" rel="stylesheet"> 
+    <link href="./theme/css/slide-transition2.css" rel="stylesheet"> 
+    
     <link href="./theme/css/pygments/native.css" rel="stylesheet">
     <link rel="stylesheet" href="./theme/css/style.css" type="text/css"/>
 
@@ -95,34 +99,49 @@ in August 2015, using pelican-bootstrap and flatly.
         </div>
         <div class="collapse navbar-collapse navbar-ex1-collapse">
             <ul class="nav navbar-nav">
-                            <li><a href="./archives.html">News</a></li>
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Mission <b class="caret"></b></a>
                             <ul class="dropdown-menu">
                                 <li><a href="./objectives.html">Objectives</a></li>
                                 <li><a href="./the-tess-space-telescope.html">Telescope</a></li>
-                                <li><a href="./operations.html">Operations</a></li>
-                                <li><a href="./primary-science.html">Science</a></li>
+                                <li><a href="./primary.html">Primary Mission</a></li>
+                                <li><a href="./extended.html">Extended Mission</a></li>
                                 <li><a href="./publications.html">Publications</a></li>
                             </ul>
                         </li>
                         <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Using TESS <b class="caret"></b></a>
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">TESS Data <b class="caret"></b></a>
                             <ul class="dropdown-menu">
-                                <li><a href="./status.html">Observing dates</a></li>
-                                <li><a href="./proposing-investigations.html">Guest Investigator Program</a></li>
-                                <li><a href="./observing-technical.html">Technical details</a></li>
-                                <li><a href="./proposal-tools.html">Proposal tools</a></li>
-                                <li><a href="./approved-programs.html">Approved programs</a></li>
+                                <li><a href="./data-handel.html">Data Pipeline</a></li>
+                                <li><a href="./data-products.html">Data Products</a></li>
+                                <li><a href="./data-access.html">Data Access</a></li>
+                                <li><a href="./community.html">Community Products</a></li>
+                                <li><a href="./documentation.html">Documentation</a></li>
                             </ul>
                         </li>
                         <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Data analysis <b class="caret"></b></a>
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Observations <b class="caret"></b></a>
                             <ul class="dropdown-menu">
-                                <li><a href="./data-access.html">Data access</a></li>
-                                <li><a href="./software.html">Analysis software</a></li>
-                                <li><a href="./community.html">Community products</a></li>
-                                <li><a href="./documentation.html">Documentation</a></li>
+                                <li><a href="./observing-technical.html">Technical Details</a></li>
+                                <li><a href="./sector.html">Sector Dates</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tools <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="./proposal-tools.html">Proposal & Observation Tools</a></li>
+                                <li><a href="./tools2.html">Data analysis Tools</a></li>
+                                <li><a href="./tools3.html">Community Tools</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Proposing <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="./proposing-investigations.html">Guest Investigator Proposals</a></li>
+                                <li><a href="./ddt.html">Director's Discretionary Target program</a></li>
+                                <li><a href="./proposal-tips.html">Proposal Tips</a></li>
+                                <li><a href="./proposal-templates.html">Proposal Templates</a></li>
+                                <li><a href="./approved-programs.html">Approved GI Programs</a></li>
                             </ul>
                         </li>
                         <li class="dropdown">
@@ -132,11 +151,11 @@ in August 2015, using pelican-bootstrap and flatly.
                                 <li><a href="./media.html">Media support</a></li>
                             </ul>
                         </li>
+                            <li><a href="./archives.html">News</a></li>
                             <li><a href="./faq.html">FAQ</a></li>
-                            <li><a href="https://heasarc.gsfc.nasa.gov">HEASARC</a></li>
             </ul>
             
-            <ul class="nav navbar-nav navbar-right">
+            <ul class="nav navbar-nav">
                 <li>
                     <a href="./helpdesk.html"><i class="fa fa-info-circle fa-lg"></i> Helpdesk</a>
                 </li>
@@ -160,15 +179,16 @@ in August 2015, using pelican-bootstrap and flatly.
                 
 <h2 id="tess-follow-up-observing-program">TESS Follow-Up Observing Program</h2>
 <p>The TESS Follow-Up Observing Program (TFOP) is a large working group of astronomical observers brought together to primarily provide follow-up observations to support the TESS Mission's primary goal of measuring the masses for 50 planets smaller than 4 Earth radii. Stars hosting high priority planet candidates will be observed to establish reliable stellar parameters, confirm the existence of planets, refine their radii, and measure planet masses. </p>
-<p>The TFOP is led by the Smithsonian Astrophysical Observatory (SAO), in coordination with MIT, as part of the TESS Science Office. A goal of TFOP is to foster communication and coordination among the TESS Science Team members and the community in order to maximize scientific output and minimize duplication of effort. </p>
-<p>The TFOP is organized into five sub-groups: Seeing-Limited Photometry, Recon Spectroscopy, High-Resolution Imaging, Precise Radial Velocities, and Space-Based Photometry. TFOP observations are performed with committed time on the Las Cumbres Observatory Network (for photometry and spectroscopy), the MEarth (photometry) and TRES (spectroscopy) facilities, and numerous other facilities through the usual telescope time allocation processes. There are currently tens of working groups (each representing a team and facility from around the world) involved in TFOP and additional participation and follow-up programs are welcome. For more information and to apply to join TFOP, <a href="https://tess.mit.edu/followup/">check out the MIT website here</a>.</p>
+<p>The TFOP is led by the <a href="https://www.cfa.harvard.edu">Smithsonian Astrophysical Observatory</a> (SAO), in coordination with MIT, as part of the TESS Science Office. A goal of TFOP is to foster communication and coordination among the TESS Science Team members and the community in order to maximize scientific output and minimize duplication of effort. </p>
+<p>The TFOP is organized into five sub-groups: Seeing-Limited Photometry, Recon Spectroscopy, High-Resolution Imaging, Precise Radial Velocities, and Space-Based Photometry. TFOP observations are performed with committed time on the <a href="https://lco.global">Las Cumbres Observatory Network</a> (for photometry and spectroscopy), the MEarth (photometry) and TRES (spectroscopy) facilities, and numerous other facilities through the usual telescope time allocation processes. There are currently tens of working groups (each representing a team and facility from around the world) involved in TFOP and additional participation and follow-up programs are welcome. For more information and to apply to join TFOP, <a href="https://tess.mit.edu/followup/">check out the MIT website here</a>.</p>
 <p>Observations acquired via the TFOP are uploaded to the ExoFOP Repository, <a href="community.html#exofop-repository">described in further detail below</a>.</p>
 <h2 id="exofop-repository">ExoFOP Repository</h2>
 <p><a href="https://exofop.ipac.caltech.edu/">ExoFOP</a> is a web-based service developed and operated by the <a href="http://nexsci.caltech.edu">NASA Exoplanet Science Institute (NExScI)</a> originally for the Kepler and K2 Follow-Up Observation Programs. ExoFOP plays a key role in coordinating TESS Follow-Up Observing Program (TFOP) activities and hosting observations and tools. ExoFOP is a 'sand-box' for the community to share data and information regarding follow-up observations to help facilitate the efficient and effective use of community telescope resources. ExoFOP is connected to and integrated with the <a href="https://exoplanetarchive.ipac.caltech.edu">NASA Exoplanet Archive</a>.</p>
-<p>ExoFOP hosts a dedicated page for TESS, <a href="https://exofop.ipac.caltech.edu/tess/">ExoFOP-TESS</a>, with a format similar to the Kepler/K2 pages. <a href="https://exofop.ipac.caltech.edu/tess/">ExoFOP-TESS</a> contains overview pages for each of the 10.8 million stars in the TESS Candidate Target list.</p>
+<p>ExoFOP hosts a dedicated page for TESS, <a href="https://exofop.ipac.caltech.edu/tess/">ExoFOP-TESS</a>, with a format similar to the Kepler/K2 pages. <a href="https://exofop.ipac.caltech.edu/tess/">ExoFOP-TESS</a> contains overview pages for everything in TIC V8 (~1.7 billion targets).</p>
 <p>ExoFOP-TESS includes:</p>
 <ul>
 <li>Summaries of TESS-observed targets</li>
+<li>TOI/CTOI lists with candidate planet parameters</li>
 <li>Overviews of individual targets</li>
 <li>Summaries of observations</li>
 <li>Observing notes</li>
