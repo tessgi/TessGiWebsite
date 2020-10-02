@@ -132,7 +132,6 @@ MENUITEMS = (
 KEY_INFORMATION = (
     ('The TESS extended mission', 'extended.html'),
     ('Telescope Information', 'the-tess-space-telescope.html'),
-    ('Understanding TESS data products', 'data-products.html'),
     ('How to access the data', 'data-access.html'),
     ('Web TESS Target Tool', 'https://heasarc.gsfc.nasa.gov/cgi-bin/tess/webtess/wtv.py'),
     ('Observing dates', 'sector.html'),
