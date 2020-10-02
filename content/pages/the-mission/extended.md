@@ -15,12 +15,12 @@ A Cycle 3 call for proposals occurred on March 14th 2019, with Cycle 4 occurring
 TESS Cycle 3 will observe fields in the Southern Ecliptic Hemisphere and be collected during the first year of the extended mission, from July 2020 until June 2021. It will cover sectors 27-39 as shown below. 
 
 <br/>
-  <img class="img-responsive" style="max-width:90%;" src="/images/Cycle3sectors.png">
+  <img class="img-responsive" style="max-width:90%;" src="images/Cycle3sectors.png">
 <br/>
 *A depiction of the survey sectors for Cycle 3. Credit: Taken from the [TESS MIT Page](https://tess.mit.edu/observations/).*
 
 <br/>
-  <img class="img-responsive" style="max-width:75%;" src="/images/Cycle3table.png">
+  <img class="img-responsive" style="max-width:75%;" src="images/Cycle3table.png">
 <br/>
 *List of the sectors in Cycle 3. Details of the cameras, angles, and dates are provided. Credit: Taken from the [TESS MIT Page](https://tess.mit.edu/observations/).*
 
