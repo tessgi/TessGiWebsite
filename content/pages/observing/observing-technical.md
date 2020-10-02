@@ -42,7 +42,7 @@ The TESS PSF varies significantly across the focal plane due primarily to the op
 The TESS PRF was created by the SPOC by fitting to micro-dithered data taken during PRF commissioning exercises. PRF models for sectors 1-3 can be found [here](https://archive.stsci.edu/missions/tess/models/prf_fitsfiles/start_s0001/), with sector 4 onwards [here](https://archive.stsci.edu/missions/tess/models/prf_fitsfiles/start_s0004/). Additional resources for the TESS PRF can be found on [MAST](https://archive.stsci.edu/tess/all_products.html).
 
 <p align="center">
-  <img width="800" height="270" src="/images/tess_psf.png">
+  <img width="800" height="270" src="images/tess_psf.png">
 </p>
 
 *PRF from Sector 1, Camera 1.*
@@ -62,7 +62,7 @@ A key source of systematic noise comes from random pointing variations i.e., spa
 
 Each camera has a lens hood to reduce the scattered light from the Earth and the Moon. Due to TESS's wide field of view and the physical restrictions of the Sun shade the lens hood is not 100% efficient. The effect  of the scattered  light on the CCD's can be seen in the video  below, typically the patchy brightness  is 2-6 times that of the nominal sky background and covers approximately 10-15% of the FoV. When the Earth is  below the level  of the sun shade there  is no scattered light. When the Earth or Moon is directly in the FoV of a camera the data is no longer viable.
 
-[![scatter.png](/images/scatter.png)](https://www.youtube.com/watch?v=SP4QSF9G6FA "Scattered Light")
+[![scatter.png](images/scatter.png)](https://www.youtube.com/watch?v=SP4QSF9G6FA "Scattered Light")
 
 *A movie of how scattered light hits the CCD's in sector 19.*
 
