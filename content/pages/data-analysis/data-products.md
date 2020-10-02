@@ -8,7 +8,7 @@ During science operations the four camera take a continuous stream of images eac
 From these two second integrations there are several data products produced by the TESS mission, these include postage stamps, also known as target pixel files (TPFs), of selected targets and full-frame images (FFIs). Each of these products are created on-board and are co-adds of the two second exposures. Data products are provided in fits formats with multiple extensions which provide additional information on calibration, cosmic-ray rejection, and in the case of the TPFs aperture masks indicating the pixels used in [photometry](https://en.wikipedia.org/wiki/Photometry_(astronomy)#Absolute_photometry).
 
 <br/>
-<img class="img-responsive" style="max-width:90%;" src="/images/tess_onboard_formats.png"">
+<img class="img-responsive" style="max-width:90%;" src="images/tess_onboard_formats.png"">
 <br/>
 *Representation of how the 2 min postage stamps and 30 min FFIs are created.*
 
@@ -59,7 +59,7 @@ Light curve files contain flux time series data and are produced for each 2 min 
 To learn more about how to use light curve files please visit [this page](https://github.com/spacetelescope/notebooks/blob/master/notebooks/MAST/TESS/beginner_how_to_use_lc/beginner_how_to_use_lc.ipynb).
  
 <br/>
-<img class="img-responsive" style="max-width:90%;" src="/images/tess_ffi_phot.png">
+<img class="img-responsive" style="max-width:90%;" src="images/tess_ffi_phot.png">
 <br/>
 *Photometric data products.*
    
