@@ -26,49 +26,49 @@ In addition to the tutorials found [here](https://docs.lightkurve.org/tutorials/
 <tr>
     <td style="width: 15em;">
     <a href='Target-Pixel-Files.html'>Target Pixel File</a></td>
-    <td><a href="/Users/hounsell/Desktop/TESS_LK/lightkurve/docs/source/V2/Target-Pixel-Files.ipynb" download>Download</a></td>
+    <td><a href="tutorials/Target-Pixel-Files.ipynb" download>Download</a></td>
     <td>In this tutorial we learn about how to download TESS target pixel files from the archive, plot the data, access the metadata, and understand their properties and units.</td>
   </tr>
 
 <tr>
     <td style="width: 15em;">
     <a href='Full-Frame-Images.html'>Full Frame Images</a></td>
-    <td><a href="/Users/hounsell/Desktop/TESS_LK/lightkurve/docs/source/V2/Full-Frame-Images.ipynb" download>Download</a></td>
+    <td><a href="tutorials/Full-Frame-Images.ipynb" download>Download</a></td>
     <td>In this tutorial, we will learn how to use Lightkurve to download TESS Full Frame Images (FFIs) from the archive, cut out specific targets, plot the data, access the metadata, and understand their properties and units.</td>
   </tr>
 
 <tr>
     <td style="width: 15em;">
     <a href='LightCurve-objects.html'>LightCurve Ojects</a></td>
-    <td><a href="/Users/hounsell/Desktop/TESS_LK/lightkurve/docs/source/V2/LightCurve-objects.ipynb" download>Download</a></td>
+    <td><a href="tutorials/LightCurve-objects.ipynb" download>Download</a></td>
     <td> In this tutorial, we will learn how to use Lightkurve to create LightCurve objects using Simple Aperture Photometry, and plot up the resulting data.</td>
   </tr>
 
 <tr>
     <td style="width: 15em;">
     <a href='LightCurveFile-Objects.html'>LightCurveFile Objects</a></td>
-    <td><a href="/Users/hounsell/Desktop/TESS_LK/lightkurve/docs/source/V2/LightCurveFile-Objects.ipynb" download>Download</a></td>
+    <td><a href="tutorials/LightCurveFile-Objects.ipynb" download>Download</a></td>
     <td>Here we look at LightCurveFiles. Rather than being generated a Target Pixel File, these files have been pre-generated using NASA's TESS Data Processing Pipeline.</td>
   </tr>
 
 <tr>
     <td style="width: 15em;">
     <a href='Aperture-Photometry.html'>Aperture Photometry</a></td>
-    <td><a href="/Users/hounsell/Desktop/TESS_LK/lightkurve/docs/source/V2/Aperture-Photometry.ipynb" download>Download</a></td>
+    <td><a href="tutorials/Aperture-Photometry.ipynb" download>Download</a></td>
     <td>Aperture Photometry can be applied to TESS Target Pixel files in order to obtain light curves for an object of interest.</td>
   </tr>
 
 <tr>
     <td style="width: 15em;">
     <a href='Making-Custom-Apertures.html'>Making Custom Apertures</a></td>
-    <td><a href="/Users/hounsell/Desktop/TESS_LK/lightkurve/docs/source/V2/Making-Custom-Apertures.ipynb" download>Download</a></td>
+    <td><a href="tutorials/Making-Custom-Apertures.ipynb" download>Download</a></td>
     <td>There are some cases where you might want to produce your own aperture, this tutorial shows you how.</td> 
   </tr>
  
 <tr>
     <td style="width: 15em;">
-    <a href='Visual-inspection.ipynb.html'>Visual Inspection</a></td>
-    <td><a href="/Users/hounsell/Desktop/TESS_LK/lightkurve/docs/source/V2/Visual-inspection.ipynb" download>Download</a></td>
+    <a href='Visual-inspection.html'>Visual Inspection</a></td>
+    <td><a href="tutorials/Visual-inspection.ipynb" download>Download</a></td>
     <td>In this tutorial we learn how to interactively inspect our object of interest.</td>
   </tr>
 

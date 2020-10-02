@@ -17,11 +17,12 @@ Observations acquired via the TFOP are uploaded to the ExoFOP Repository, [descr
 ## ExoFOP Repository
 [ExoFOP](https://exofop.ipac.caltech.edu/) is a web-based service developed and operated by the [NASA Exoplanet Science Institute (NExScI)](http://nexsci.caltech.edu) originally for the Kepler and K2 Follow-Up Observation Programs. ExoFOP plays a key role in coordinating TESS Follow-Up Observing Program (TFOP) activities and hosting observations and tools. ExoFOP is a 'sand-box' for the community to share data and information regarding follow-up observations to help facilitate the efficient and effective use of community telescope resources. ExoFOP is connected to and integrated with the [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu).
 
-ExoFOP hosts a dedicated page for TESS, [ExoFOP-TESS](https://exofop.ipac.caltech.edu/tess/), with a format similar to the Kepler/K2 pages. [ExoFOP-TESS](https://exofop.ipac.caltech.edu/tess/) contains overview pages for each of the 10.8 million stars in the TESS Candidate Target list.
+ExoFOP hosts a dedicated page for TESS, [ExoFOP-TESS](https://exofop.ipac.caltech.edu/tess/), with a format similar to the Kepler/K2 pages. [ExoFOP-TESS](https://exofop.ipac.caltech.edu/tess/) contains overview pages for everything in TIC V8 (~1.7 billion targets).
 
 ExoFOP-TESS includes:
 
 * Summaries of TESS-observed targets
+* TOI/CTOI lists with candidate planet parameters
 * Overviews of individual targets
 * Summaries of observations
 * Observing notes

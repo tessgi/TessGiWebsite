@@ -21,7 +21,7 @@ Find data from other missions for your target.
 
 
 ### TESS Input Catalog (TIC)
-To meet the primary mission goals, an all-sky catalog was generated to act as a basis for target selection. The TESS Target Selection Working Group (TSWG) was tasked with the creation and maintenance of the catalog with the aim of compiling every optically luminous, persistent object in the sky down to the limits of available wide-field photometric catalogs including both point sources and extended sources. This enables the selection of optimal targets to search for small transiting planets and allows flux contamination to be calculated in an optimal aperture for each target (critical due to the 21 arcsec TESS pixels). The resulting catalog is the source from which the >200,000 primary mission targets will be selected and is known as the TESS Input Catalog (TIC).
+To meet the primary mission goals, an all-sky catalog was generated to act as a basis for target selection. The TESS Target Selection Working Group (TSWG) was tasked with the creation and maintenance of the catalog with the aim of compiling every optically luminous, persistent object in the sky down to the limits of available wide-field photometric catalogs including both point sources and extended sources. This enables the selection of optimal targets to search for small transiting planets and allows flux contamination to be calculated in an optimal aperture for each target (critical due to the 21 arcsec TESS pixels). The resulting catalog is the source from which the >200,000 primary mission targets were selected and is known as the TESS Input Catalog (TIC).
 
 The TIC was assembled based on the Gaia DR2 catalog, and augmented with data from many additional catalogs to create a full list of point sources and extended sources that could be observed by TESS. The input catalog data are used to determine the physical and observational parameters of many of the TIC stars, including stellar radius, stellar mass, and effective temperature. TIC-8 includes 1.7 billion point sources and about 100 million extended sources. A visual overview of the input catalogs and methodology used to construct the TIC is shown in the schematic below.
 
@@ -35,7 +35,7 @@ The TIC can be directly accessed through the [Mikulski Archive for Space Telesco
 ### The Candidate Target List (CTL)
 A subset of the TIC is the Candidate Target List. This is a set of targets selected as likely good targets for transit detection and consists of two main components.
 
-  - All TIC stars brighter than TESS magnitude 13, and an estimated stellar radii smaller than R&#8855;.
+  - All TIC stars brighter than TESS magnitude = 13, and an estimated stellar radii smaller than R&#8857;.
   - All stars included in the curated Cool Dwarf Catalog (CDC).
 
 The CTL is a list of ~9.5 million stars, each evaluated according to a metric that prioritizes the star for transit detection, which incorporate the T-mag, stellar radius, estimated flux contamination, and number of sectors of observation. To search the CTL data please go to the MAST Portal as above, select MAST Catalogs as the collection and then TESS CTL v8.01 as the Mission.

@@ -17,16 +17,11 @@ Below we describe some of the GI products available in the extended mission and 
 
 ## Proposal Products
 
-* A new 20-second cadence mode is now available as part of the extended mission. Approximately 1,000 target slots per sector are available in this mode. Observations in this mode are collected at "shared risk".
+* A new 20-second cadence mode is now available as part of the extended mission. Approximately 1,000 target slots per sector are available in this mode.
 
 * As in the primary mission 2-minute cadence targets are available, but with a 10-fold increase. More than 15,000 target slots are available in each sector. For Cycle 3 there were a total of ~200,000 target slots, facilitating very large GI programs.
 
-* Full-frame images are also available, but with a cadence reduced from 30 minutes to 10 minutes. This change in cadence was considered a "shared risk".
-
-### Shared risk science
-The 10-minute FFI cadence and 20-second cadence mode for individual targets are "shared risk" observations. "Shared risk" means that details of the instrument and pipeline performance for these observing modes has not been fully tested at the time of the release of this call. These shared risk modes are not guaranteed to be available for the entire duration of Cycle 3, and the quality of the shared risk data returned to PIs may not meet expectations. These modes will be made available for science as soon as is feasible after the start of Cycle 3. 
-
-Proposers wishing to utilize 10-minute FFI cadence or 20-second cadence observing modes during Cycle 4 must identify the impact upon their science goals if only 30-minute FFIs and 2-minute cadence modes are available at the time of the observations. If the program cannot achieve its science goals without 20-second cadence or 10-minute FFI modes, this must be stated.
+* Full-frame images are also available, but with a cadence reduced from 30 minutes to 10 minutes.
 
 ##Proposal Types
 

@@ -3,7 +3,7 @@ Save_as: primary.html
 
 [TOC]
 
-The TESS primary mission ran from July 25th 2018 until July 4th 2020 (note that ground-based follow up for the primary mission continued until 2021) . Within this two year mission TESS searched for planets outside of our solar system with a primary goal of finding nearby planets that are amenable to characterization with ground-based follow-up surveys. Specifically, the primary science requirements of the TESS mission were as follows:
+The TESS primary mission ran from July 25th 2018 until July 4th 2020 (note that ground-based follow up for the primary mission continues until 2021) . Within this two year mission TESS searched for planets outside of our solar system with a primary goal of finding nearby planets that are amenable to characterization with ground-based follow-up surveys. Specifically, the primary science requirements of the TESS mission were as follows:
 
 1. Search over 200,000 stars to discover planets with periods <10 days and radii <2.5 Earth radii orbiting the brightest stars in the solar neighborhood and discover planets with radii at least 2.5 Earth radii distributed across the celestial sphere.
 
@@ -37,7 +37,7 @@ TESS is equipped with four CCD cameras that have adjacent field-of-views to prod
 <img class="img-responsive" style="max-width:67%;" src="images/mission/tess_cameraFOVschematic_Winnpresentation.png">
 <br/>
 
-Since 2018 TESS has observed approximately 85% of the sky (an area 400 times larger than that monitored by Kepler), and as such has observe many more nearby, bright stars compared to the Kepler Mission.
+Since 2018 TESS has observed approximately 80% of the sky (an area 400 times larger than that monitored by Kepler), and as such has observe many more nearby, bright stars compared to the Kepler Mission.
 
 <br/>
 <img class="img-responsive" style="max-width:67%;" src="images/mission/tess_search_space.png">
@@ -72,15 +72,15 @@ However, for Sectors 14 and 15, scattered light from the Earth and Moon was a si
 
 When the cameras were shifted north, the northern ecliptic pole was located 7° from the center of Camera 3, and the southernmost edge of Camera 1 was at an ecliptic latitude of ~37°.  In addition, with this shift, the fields-of-view of Cameras 3 and 4 observed “on the other side of the pole”, thereby providing additional observations of parts of the sky that would otherwise only be observed in Sectors 20-22.
 
-Scattered light from the Earth and Moon was also expected to be a problem in Sectors 25 and 26 and, to a lesser extent, in Sectors 16 and 24.  The scattered light performance in Sectors 14 and 15 was reviewed, and it was decided that Sector 16 would also have its pointing shifted north. In addition, it was decided that Sectors 24, 25, and 26 would benefit from having their pointings shifted north as well.
+Scattered light from the Earth and Moon was also expected to be a problem in Sectors 25 and 26 and, to a lesser extent, in Sectors 16 and 24. The scattered light performance in Sectors 14 and 15 was reviewed, and it was decided that Sector 16 would also have its pointing shifted north. In addition, it was decided that Sectors 24, 25, and 26 would benefit from having their pointings shifted north as well.
 
 [Additional details on TESS observations can be found at the MIT TESS website](https://tess.mit.edu/observations/). The [Web TESS Viewing Tool (WTV)](https://heasarc.gsfc.nasa.gov/cgi-bin/tess/webtess/wtv.py) has been updated to reflect the change in pointing for Sectors 14, 15, and 16 as well as Sectors 24, 25, and 26.
 
-The sky coverage maps for Sectors 1-21 are given below in the ecliptic and celestial coordinate systems and show the shifted fields for Sectors 14, 15, and 16. 
+The sky coverage maps for Sectors 1-26 are given below in the ecliptic and celestial coordinate systems and show the shifted fields for Sectors 14, 15, 16 and 24, 25, 26. 
 
 *Sectors 14, 15, and 16 shifted north:*
-<img class="img-responsive" style="max-width:80%;" src="images/PM_ecl_S1-21_16up.png">
-<img class="img-responsive" style="max-width:80%;" src="images/PM_cel_S1-21_16up.png">
+<img class="img-responsive" style="max-width:90%;" src="images/y1sec.png">
+<img class="img-responsive" style="max-width:90%;" src="images/y2sec.png">
 
 
 ## Types of stars monitored

@@ -50,7 +50,7 @@ The TESS PRF was created by the SPOC by fitting to micro-dithered data taken dur
 Physical WCS solutions can be used to convert the PRF image coordinates into the corresponding TESS CCD's.
 For more information about the TESS PRF see page 49 of the [instrument handbook](https://archive.stsci.edu/files/live/sites/mast/files/home/missions-and-data/active-missions/tess/_documents/TESS_Instrument_Handbook_v0.1.pdf).
 
-Given the unusual nature of the TESS PRF, photometry of an object is typically obtained through the summation of all pixels within a given region. This region is referred to as an "aperture mask" and can be determined through the pipeline or can be selected  by the user,  unlike typical apertures TESS aperture is not circular. 
+Given the unusual nature of the TESS PRF, photometry of an object is typically obtained through the summation of all pixels within a given region. This region is referred to as an "aperture mask" and can be determined through the pipeline or can be selected  by the user,  unlike typical apertures, TESS apertures are not circular. 
 
 ### Crowding
 Because the TESS pixels are large (21 arcsec), the TESS photometry for many targets will be contaminated by nearby objects. One of the goals of the TIC is to provide the information needed to estimate the contamination in the TESS band. This cannot be determined accurately ahead of time because it will depend on the pixels selected for the aperture photometry of each target and the exact position of the target in the aperture. However, it is possible for the TIC to provide some guidance concerning the level of expected contamination, for example by providing the number of known objects and their total brightness in the TESS band for some suitable standard aperture and photometer Pixel Response Function (PRF). 
@@ -66,7 +66,13 @@ Each camera has a lens hood to reduce the scattered light from the Earth and the
 
 *A movie of how scattered light hits the CCD's in sector 19.*
 
+For more information about scatterd light see section 7.3 of the [instrument handbook](https://archive.stsci.edu/missions/tess/doc/TESS_Instrument_Handbook_v0.1.pdf)
+
 
 ### Cosmic Rays
 Cosmic-ray hits on the TESS CCD's are a significant source of noise. For FFIs this is  especially true and nearly half of the pixels in the 30 min FFIs are affected. Within the DHU a tools was developed to help mitigate the effect  of  the Cosmic-rays, images are  stacked and pixels are examined in groups of N. The highest and lowest values of the stack are removed, and the remaining sum are used to create the stack. Although this method of cosmic-ray rejection reduces contamination by a factor of  100,  some  low level outliers  still exist and can be seen within the data. These outliers  can however be removed via [TESS-zap](https://github.com/zkbt/tess-zap).
 
+For more information about cosmic-ray mitigation please see section 5.1 of the [instrument handbook]
+(https://archive.stsci.edu/files/live/sites/mast/files/home/missions-and-data/active-missions/tess/_documents/TESS_Instrument_Handbook_v0.1.pdf).
+
+Note that for the 20 second cadenced data produced in Cycles 3 and 4, cosmic-ray mitigation is turned off.

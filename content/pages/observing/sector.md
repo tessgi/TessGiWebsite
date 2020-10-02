@@ -10,7 +10,7 @@ TESS launched April 18, 2018 at 6:51 p.m. EDT from Cape Canaveral Air Force Stat
 The start and end dates for each sector, and the list of GI targets (csv file) observed in each sector, are below. The MAST provide an up to date [summary of TESS data available at the archive](https://outerspace.stsci.edu/display/TESS/TESS+Holdings+Available+by+MAST+Service).
 Information on how to download the data can be found [here](data-access.html). The spacecraft pointing positions are [available from MIT](https://tess.mit.edu/observations/).
 
-The data from each sector are required to be available at the MAST no later than 2 months after the observations for a given sector are completed. However, the data are routinely downloaded, processed through the pipeline, and released at MAST on shorter timescales than this. The data for each sector typically available within 1 month of the end date for a given sector. <b>Users are encouraged to check the [MAST status page](https://outerspace.stsci.edu/display/TESS/TESS+Holdings+Available+by+MAST+Service) to check on the data availability for particular sectors</b>.
+The data from each sector are required to be available at the MAST no later than 2 months after the observations for a given sector are completed. However, the data are routinely downloaded, processed through the pipeline, and released at MAST on shorter timescales than this. The data for each sector is typically available within 1 month of the end date for a given sector. <b>Users are encouraged to check the [MAST status page](https://outerspace.stsci.edu/display/TESS/TESS+Holdings+Available+by+MAST+Service) to check on the data availability for particular sectors</b>.
 
 <div class="panel panel-primary">
   <div class="panel-heading">
@@ -118,7 +118,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>South</td>
     <td>2020&nbsp;Oct&nbsp;21</td>
     <td>2020&nbsp;Nov&nbsp;19</td>
-    <td></td>
+    <td><a href='data/target_lists/sector031_targets_lists/GI_S031.csv'>Download</a></td>
     <td style="min-width: 12em;">
     </td>
   </tr>
@@ -128,7 +128,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>South</td>
     <td>2020&nbsp;Sep&nbsp;22</td>
     <td>2020&nbsp;Oct&nbsp;21</td>
-    <td></td>
+    <td><a href='data/target_lists/sector030_targets_lists/GI_S030.csv'>Download</a></td>
     <td style="min-width: 12em;">
     </td>
   </tr>
@@ -138,7 +138,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>South</td>
     <td>2020&nbsp;Aug&nbsp;26</td>
     <td>2020&nbsp;Sep&nbsp;22</td>
-    <td></td>
+    <td><a href='data/target_lists/sector029_targets_lists/GI_S029.csv'>Download</a></td>
     <td style="min-width: 12em;">
     </td>
   </tr>
@@ -148,7 +148,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>South</td>
     <td>2020&nbsp;Jul&nbsp;30</td>
     <td>2020&nbsp;Aug&nbsp;26</td>
-    <td></td>
+    <td><a href='data/target_lists/sector028_targets_lists/GI_S028.csv'>Download</a></td>
     <td style="min-width: 12em;">
     </td>
   </tr>
@@ -158,7 +158,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>South</td>
     <td>2020&nbsp;Jul&nbsp;04</td>
     <td>2020&nbsp;Jul&nbsp;30</td>
-    <td></td>
+    <td><a href='data/target_lists/sector027_targets_lists/GI_S027.csv'>Download</a></td>
     <td style="min-width: 12em;">
       First TESS extended mission field, Cycle 3 begins
     </td>

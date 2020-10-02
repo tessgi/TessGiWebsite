@@ -148,7 +148,7 @@ Note: `make quick` and `make devserver` both use agressive caching which allows 
 
 This site started off as the Kepler/K2 website, created by Thomas Barclay, Geert Barentsen, and Knicole Colón for the Kepler/K2 Guest Observer Office at NASA Ames.
 
-The TESS GI website is developed and maintained by Thomas Barclay, Elisa Quintana and Josh Schlieder at NASA Goddard
+The TESS GI website is developed and maintained by Thomas Barclay, Knicole Colón, and Rebekah Hounsell at NASA Goddard
 
 Created using the [Pelican package](getpelican.com) and the
 [pelican-bootstrap3 theme](https://github.com/DandyDev/pelican-bootstrap3).

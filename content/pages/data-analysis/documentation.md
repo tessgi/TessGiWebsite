@@ -45,13 +45,13 @@ TESS](https://archive.stsci.edu/tess/index.html#documents).
   </tr>
 
   <tr>
-    <td style="width: 35em;"><a href='https://ui.adsabs.harvard.edu/abs/2019AJ....158..138S'>TESS Input Catalog and Candidate Target List v8</a></td>
+    <td style="width: 35em;"><a href='https://ui.adsabs.harvard.edu/abs/2019AJ....158..138S'>The Revised TESS Input Catalog and Candidate Target List v8</a></td>
     <td>Stassun et al., 2019</td>
   </tr>
 
   <tr>
-    <td style="width: 35em;"><a href='https://archive.stsci.edu/missions/tess/doc/EXP-TESS-ARC-ICD-TM-0014.pdf'>TESS Science Data Products Description Document</a></td>
-    <td>Tenenbaum and Jenkins 2018</td>
+    <td style="width: 35em;"><a href='https://archive.stsci.edu/missions/tess/doc/EXP-TESS-ARC-ICD-TM-0014-Rev-F.pdf'>TESS Science Data Products Description Document</a></td>
+    <td>Twicken et al., 2020</td>
   </tr>
 
   <tr>
@@ -80,7 +80,7 @@ Additional resources can be found below:
 </table>
 
 ## TESS Observatory Guide
-A number of documents have been created to describe the TESS mission. An initial document which might be useful to a first time user is the **[TESS Observatory Guide](docs/TESS_observatory_guide_v1.1.pdf)**. Although now dated this guide provide a comprehensive description of the TESS observatory design, operations, and capabilities. Note that the proposal section of the guide refers to the [prime mission]() only and that users wishing to apply for time should refer to the [extended mission](primary.html) [guest investigator page](proposing-investigations.html).
+A number of documents have been created to describe the TESS mission. An initial document which might be useful to a first time user is the **[TESS Observatory Guide](docs/TESS_observatory_guide_v1.1.pdf)**. Although now dated, and superceded by the updated content of this website and the [TESS instrument handbook](https://archive.stsci.edu/missions/tess/doc/TESS_Instrument_Handbook_v0.1.pdf), this guide provides a comprehensive description of the TESS observatory design, operations, and capabilities. Note that the proposal section of the guide refers to the [prime mission]() only and that users wishing to submit a GI proposal in the extended mission should refer to the [extended mission](extended.html) [guest investigator page](proposing-investigations.html).
 
 
 ## TESS project papers
@@ -89,7 +89,7 @@ A description of the TESS observatory and science mission: [Ricker et al., 2015,
  
 TESS science yield predictions: [Sullivan et al., 2015, ApJ, 809, 77](http://adsabs.harvard.edu/abs/2015ApJ...809...77S) and [erratum](http://adsabs.harvard.edu/abs/2017ApJ...837...99S)
  
-TESS Input Catalog and Candidate Target List description: [Stassun et al., 2017, eprint arXiv:1706.00495](http://adsabs.harvard.edu/abs/2017arXiv170600495S)
+TESS Input Catalog and Candidate Target List description: [Stassun et al., 2018, ApJ, 156, 102](https://iopscience.iop.org/article/10.3847/1538-3881/aad050/pdf)
 
 
 A full list of TESS-related articles can be found on our

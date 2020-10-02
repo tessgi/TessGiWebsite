@@ -26,7 +26,7 @@ At the  TESS  orbit perigee (varies between 12-20 Earth radii), science operatio
 
 TESS began regular science operations on July 25, 2018. In the 2-year [prime mission](primary.html), TESS monitored over 200,000 main-sequence dwarf stars with four wide-field optical CCD cameras to detect periodic drops in brightness caused by planetary transits. Photometry of these pre-selected targets is recorded every 2 minutes. TESS also obtains full-frame images (FFIs) of the entire, four camera field-of-view (24 x 96 degrees) at a cadence of 30 minutes to facilitate additional science, see the [data products page](data-products.html) 
 
-TESS was approved for an [extended mission](extended.html) that started in July 2020. In the extended mission TESS has change focus to become a community science mission. A new 20-second cadence data mode has been introduced, and the FFI cadence has changed to 10-minutes.
+TESS was approved for an [extended mission](extended.html) that started in July 2020. In the extended mission TESS has changed focus to become a community science mission. A new 20-second cadence data mode has been introduced, and the FFI cadence has changed to 10-minutes.
 
 <br/>
 <img class="img-responsive" style="max-width:80%;" src="images/mission/tess_first_light_quarter.jpg">
