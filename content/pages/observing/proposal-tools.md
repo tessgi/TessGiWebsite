@@ -95,7 +95,7 @@ The code and documentation is hosted on [Github](https://github.com/tessgi/ticge
  Installation:
 
 Users will need to have a working version of Python 2 or 3 installed.
-If this requirement is met, tvguide can be installed using pip:
+If this requirement is met, ticgen can be installed using pip:
 
     pip install ticgen
 
@@ -165,8 +165,7 @@ This code is build using the algorithms from the TESS Input Catalog publication 
 
 This is a High Precision TESS pointing tool. It will convert target
 coordinates given in Right Ascension and Declination to TESS detector
-pixel coordinates for the first 13 TESS observing sectors (Year 1)
-focused on the southern ecliptic plane. It can also query MAST to
+pixel coordinates for both the [prime](primary.html) mission and the first year of the [extended](extended.html). It can also query MAST to
 obtain detector pixel coordinates for a star by TIC ID only. It provides the target ecliptic coordinates, sector number, camera number, detector number, and pixel column and row.
 If there is no output, then the target is not visible to TESS.
 
