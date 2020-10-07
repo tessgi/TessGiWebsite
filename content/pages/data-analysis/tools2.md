@@ -17,7 +17,7 @@ Lighkurve functionality:
 
 The lightkurve git repository is [here](https://github.com/KeplerGO/lightkurve).
 
-In addition to the tutorials found [here](https://docs.lightkurve.org/tutorials/index.html) you can find TESS specific tutorials listed below.
+Below we list tutorials that will help first time users get to grips with using python, Lightkurve, and understading TESS data products.
 
 
 ###
@@ -39,7 +39,7 @@ In addition to the tutorials found [here](https://docs.lightkurve.org/tutorials/
 
 <tr>
     <td style="width: 15em;">
-    <a href='LightCurve-objects.html'>LightCurve Ojects</a></td>
+    <a href='LightCurve-objects.html'>LightCurve Objects</a></td>
     <td><a href="tutorials/LightCurve-objects.ipynb" download>Download</a></td>
     <td> In this tutorial, we will learn how to use Lightkurve to create LightCurve objects using Simple Aperture Photometry, and plot up the resulting data.</td>
   </tr>
@@ -73,6 +73,9 @@ In addition to the tutorials found [here](https://docs.lightkurve.org/tutorials/
   </tr>
 
 </table>
+
+In addition to the tutorials listed above, there are several other tutorials that can be found [here](https://docs.lightkurve.org/tutorials/index.html). These are more advanced, TESS specific tutorials.
+
 
 ## Tutorials
 
