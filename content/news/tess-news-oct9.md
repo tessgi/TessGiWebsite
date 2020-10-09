@@ -2,7 +2,7 @@ Title: TESS Weekly Bulletin: October 9th
 Date: 2020-10-09 10:00
 Author: Rebekah Hounsell
 
-`STATUS UPDATE:  Check out our latest NASA feature` [here](https://www.nasa.gov/image-feature/goddard/2020/nasa-s-tess-creates-a-cosmic-vista-of-the-northern-sky) `in which you can see a beautiful northern sky mosaic created by TESS`. 
+`STATUS UPDATE:  Check out our latest NASA feature` [here,](https://www.nasa.gov/image-feature/goddard/2020/nasa-s-tess-creates-a-cosmic-vista-of-the-northern-sky) `in which you can see a beautiful northern sky mosaic created by TESS`. 
 
 Welcome TESS followers to our weekly news bulletin! This week we have three papers from the archive. 
 
