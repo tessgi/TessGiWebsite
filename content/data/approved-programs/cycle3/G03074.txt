@@ -11,6 +11,3 @@ Summary: There are very few stars for which the results of asteroseismology can 
 
 # Sector 029 targets observed (2 min: 1, 20 s: 0)
 102069549,17.3929,-46.2656,7.96,G03074;G03028
-
-# Sector 029 targets observed (2 min: 1, 20 s: 0)
-102069549,17.3929,-46.2656,7.96,G03074;G03028
