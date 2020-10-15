@@ -16,30 +16,28 @@ The Transiting Exoplanet Survey Satellite (TESS) is a NASA-sponsored Astrophysic
 
 **What is the TESS extended mission?**
 
-In July of 2020 TESS will finish its primary mission and enter into its extended mission. This extended mission will last for an additional two years and will be driven largely by  the guest investigator [guest investigator program](https://heasarc.gsfc.nasa.gov/docs/tess/proposing-investigations.html).
-
+In July of 2020 TESS finished its primary mission and entered into its extended mission. The extended mission will last until September 2022, and is driven largely by the guest investigator [guest investigator program](https://heasarc.gsfc.nasa.gov/docs/tess/proposing-investigations.html) program.
 
 **Will there be opportunities for Guest Investigators to propose for short-cadence target observations and/or funding in the extended mission?**
 
-Yes! The GI program is continuing and will be a large part of the extended mission. First year (Cycle 3) proposals have already been called for and time allocated, but the Cycle 4 call is now out. Through this call the community can submit proposals for short-cadence target observations and/or funding. for additional information on how to apply for TESS Cycle 4 please see the [TESS Cycle 4 call](https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId=%7B4B9CAAB3-D398-183A-B1F3-EF963DF415C7%7D&path=open).
-
+Yes! The GI program is continuing and is a large part of the extended mission. First year (Cycle 3) proposals have already been called for and time allocated, but the Cycle 4 call is now out. Through this call the community can submit proposals for short-cadence target observations and/or funding. for additional information on how to apply for TESS Cycle 4 please see the [TESS Cycle 4 call](https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId=%7B4B9CAAB3-D398-183A-B1F3-EF963DF415C7%7D&path=open).
 
 **Where is TESS pointing now?**
 
 The current status of the TESS spacecraft can be found at [the MIT website](https://tess.mit.edu/observations/).
 
-**Where will TESS point in its extended mission?**
+**Where is TESS pointing in its extended mission?**
 
-The observing strategy for Cycle 3 has been finalized and can be found on the [MIT observations page](https://tess.mit.edu/observations/).  Cycle 4 is still being finalized and will be announced soon. 
+The observing strategy for Cycle 3 has been finalized and can be found on the [MIT observations page](https://tess.mit.edu/observations/). Cycle 4 is still being finalized and will be announced soon. 
 
 
 **What are the TESS data products?**
 
-Current data products include:
+Within the [primary mission](primary.html) the data products included:
 	- 2-minute cadence data for a select number of targets
 	- 30-minute full frame images.
 
-During the extended mission data products available will include:
+In the [extended mission](extended.html) the data products available are:
 	- 20 second cadence data, allotted to ~1000 targets per sector.
 	- 2-minute cadence data for a select number of targets
 	- 10-minute full frame images.
@@ -62,8 +60,11 @@ Yes! You can propose to use archival data or to perform other TESS-related inves
 
 ## Proposing short-cadence targets
 
+**How many TESS 20-second target slots will be available to TESS Guest Investigators?**
+There will be ~600 target slots in each sector.
+
 **How many TESS 2-minute target slots will be available to TESS Guest Investigators?**
-There will be a ten times increase in the number of 2-minute cadenced targets in the GI program, ~12,000 target slots in each sector.
+There will be a ten times increase in the number of 2-minute cadenced targets in the GI program, ~16,000 target slots in each sector.
 
 **Are there any restrictions on the types of targets that can be proposed through the TESS GI Program?**
 There are not.
@@ -83,9 +84,12 @@ Additionally, a fraction of the GI targets will be reserved for rapid turn-aroun
 
 **Will funds be available to support GI proposers?**
 
-Yes. TESS Guest Investigators at US Institutions may apply for funding to support their TESS Investigations. There are three levels of funding: small programs, large programs, and key projects.  
-We anticipate that a small program award will be around $50k and large program around $200k.
-Key projects are large multi-year programs and will be awarded $200k a year. 
+Yes. TESS Guest Investigators at U.S.-based Institutions may apply for funding to support their TESS Investigations. There are three levels of funding:
+
+ * Small proposals ~ $70,000. (per award)
+ * Large proposals ~ $250,000 (per award)
+ * Ground-based projects - up to $500,000 (in total for this catagory)
+ 
 
 **Will proposals asking for FFI-only data be funded?**
 
@@ -111,7 +115,9 @@ The approximate date of data availability for a given sector can be found [on ou
 
 **How will TESS GI targets be processed?**
 
-TESS data processing takes place at the Science Processing Operation Center (SPOC), designed and operated at NASA Ames Research Center. The SPOC developed the image processing and transit photometry software, leveraging the Kepler Mission's Science Operations Center (SOC) pipeline software. More information on the Kepler software can be found [here](http://kepler.nasa.gov/science/ForScientists/papersAndDocumentation/SOCpapers). Additional information on the science data processing can be found [here](operations.html#science-data-processing).
+TESS data processing takes place at the Science Processing Operation Center (SPOC), designed and operated at NASA Ames Research Center. The SPOC developed the image processing and transit photometry software, leveraging the Kepler Mission's Science Operations Center (SOC) pipeline software. More information on the Kepler software can be found [here](http://kepler.nasa.gov/science/ForScientists/papersAndDocumentation/SOCpapers). Additional information on the science data processing pipeline can be found [here](data-handel.html).
+
+Note that both the 2-minute cadence and 20-second cadence data will be processed to produce target pixel files and light curves. FFI data will be processed and provided as calibrated images from which light curves can be obtained.
 
 
 ## Data analysis
@@ -136,7 +142,7 @@ You can request support for your exciting new science result from NASA Goddard's
 
 **Where can I send my suggestion for an idea I'd like to see incorporated into the TESS GI Program, or a software tool I'd like to suggest be developed?**
 
- We love feedback! Please contact our [helpdesk with any suggestions or questions](https://heasarc.gsfc.nasa.gov/cgi-bin/Feedback).
+ We love feedback! Please contact our [helpdesk](helpdesk.html) with any suggestions or questions.
 
 
 
