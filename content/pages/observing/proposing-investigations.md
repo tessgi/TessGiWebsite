@@ -13,7 +13,7 @@ There is no exclusive-use data rights to observations collected by TESS. All dat
 
 **The Cycle 4 call will come out in the fall of 2020, however the solicitation can already be found [here](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=735965/solicitationId=%7B4B9CAAB3-D398-183A-B1F3-EF963DF415C7%7D/viewSolicitationDocument=1/ROSES%202020%20SoS%20Guidebook%20062320.pdf). Cycle 4 will observe the northern ecliptic hemisphere between June 2021 and September 2022, slightly longer than a typical cycle and observing sectors 40-56.**
 
-Below we describe some of the GI products available in the extended mission and how to propose for Cycle 4 time. Note that beginning in Cycle 4, all Phase-1 proposals submitted to the TESS GI program will be evaluated folloing a dual-anonymous peer review process.
+Below we describe some of the GI products available in the extended mission and how to propose for Cycle 4 time. Note that beginning in Cycle 4, all Phase-1 proposals submitted to the TESS GI program will be evaluated following a dual-anonymous peer review process.
 
 ## Proposal Products
 
@@ -27,13 +27,13 @@ Below we describe some of the GI products available in the extended mission and 
 
 There are three categories of TESS GI proposals for Cycle 4; investigators are free to select the category that best reflects their scope of their proposed work.
 
-* Mini proposals - This is a new proposal category. These programs require minimal resources, up to 50 20-second cadence targets and 1,000 2-minute cadence targets. Proposals in this catagory are not eligible for funding.
+* Mini proposals - This is a new proposal category. These programs require minimal resources, up to 50 20-second cadence targets and 1,000 2-minute cadence targets. Proposals in this category are not eligible for funding.
 * Small proposals - Proposals of limited scope.
 * Large proposals - Proposals of wide-ranging scope and science yield. Large proposals must deliver a clear benefit for the broader scientific community.
 
-Mini proposals are limited to no more than two pages for the science/technical section. Small proposals are restricted to four pages for the science/technical section. Lare proposals should be a total of five pages long, where the additional page to the science/technical section is used to describe the benifits that the program will provide to the scienctific community. References are not included in the page limits.
+Mini proposals are limited to no more than two pages for the science/technical section. Small proposals are restricted to four pages for the science/technical section. Large proposals should be a total of five pages long, where the additional page to the science/technical section is used to describe the benefits that the program will provide to the scientific community. References are not included in the page limits.
 
-Note that within Cycle 3 an additional kind of propsal existed called Key projects. These were large multi-year programs with a very broad scope and a maximum duration of 27 months. Given their nature Key projects are no longer a proposal catagory in Cycle 4.
+Note that within Cycle 3 an additional kind of proposal existed called Key projects. These were large multi-year programs with a very broad scope and a maximum duration of 27 months. Given their nature Key projects are no longer a proposal category in Cycle 4.
 
 Within the small and large programs there are additional kinds of projects that can be put forward, these are described below.
 
@@ -68,7 +68,7 @@ The dollar amounts assigned to each proposal category are maximum award amounts 
 
  * Small proposals ~ $70,000. (per award)
  * Large proposals ~ $250,000 (per award)
- * Ground-based projects - up to $500,000 (in total for this catgergory)
+ * Ground-based projects - up to $500,000 (in total for this catagory)
  
 Funding for selected programs typically starts upon availability of data to the public archive at [MAST](data-access.html). Note that there is no exclusive use period associated with any TESS data.
 
@@ -110,7 +110,7 @@ Example proposal templates can be found on the [template page](proposal-template
 
 Investigations focused on the analysis of archival TESS data from Cycles 1, 2 and/or 3, are not compliant with this solicitation and should be submitted to the ROSES-2020 Astrophysics Data Analysis Program (ADAP; D.2) or the Exoplanet Research Program (XRP; E.3).
 
-Note also that due to the anonymous nature of Cycle 4 proposals, propsers must adhear to the requirements listed [here](proposing-investigations.html#specific-instructions-for-dual-anonymous-peer-review-phase-1-proposals).
+Note also that due to the anonymous nature of Cycle 4 proposals, prospers must adhere to the requirements listed [here](proposing-investigations.html#specific-instructions-for-dual-anonymous-peer-review-phase-1-proposals).
 
 ## Eligibility
 
@@ -169,7 +169,7 @@ Note that ToO observations are not permitted in proposals submitted to the Mini 
 ## Submission process
 The TESS GI program uses a two-phase proposal process. All proposal materials will be submitted electronically. A Phase-1 proposal shall comprise the science/technical justification; all proposals must include a one-paragraph work plan in the science/technical section except for proposal in the Mini category. This work plan must give details on how the proposed effort will be carried out, including the allocation of effort amongst investigators (expressed in terms of each participant’s role in the investigation to preserve the anonymity of the document)
 
-All proposals requesting funds must also provide upon submission a bottom-line budget number in the provided field of the Astrophysics Research Knowledgebase (ARK) RPS submission form; this number should not be included in the body of the proposal. Only proposers whose Phase-1 proposals are accepted will be invited to submit budget proposals in Phase-2. Proposal content must remain consistent between Phase-1 and Phase-2 proposals. It is not necessary for the PI of the Phase-2 proposal to be the science PI.
+All proposals requesting funds must also provide upon submission a bottom-line budget number in the provided field of the Astrophysics Research Knowledge-base (ARK) RPS submission form; this number should not be included in the body of the proposal. Only proposers whose Phase-1 proposals are accepted will be invited to submit budget proposals in Phase-2. Proposal content must remain consistent between Phase-1 and Phase-2 proposals. It is not necessary for the PI of the Phase-2 proposal to be the science PI.
 
 The Phase-1 peer review will be performed in a "dual-anonymous" manner, i.e., not only are proposers unaware of the identity of the members on the review panel, but the reviewers do not have explicit knowledge of the proposal teams (see Section 2.2.2 of the [call for proposals](insert link)). 
 
