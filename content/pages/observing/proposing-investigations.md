@@ -179,7 +179,7 @@ The Phase-1 peer review will be performed in a "dual-anonymous" manner, i.e., no
 
 * Target tables for 2-min/20-second cadence observation proposals are to be submitted through ARK/RPS. There are two different ways to provide your target list: into the RPS target form itself, or as a separate CSV file upload - the latter will only become possible after you submit your RPS form. We strongly encourage proposers to submit a CSV file for target lists containing over 100 targets.
 
-* The Scientific/Technical/Management section of proposals is limited to 2 pages for mini programs, 4 for small programs and 5 pages for large programs, which *does not* includes references. No table of contents in the body of the proposal is required. No supporting material [e.g., curriculum vitae (CV), pending/current support] is required or permitted. An additional page can be used for a target table only.
+* The Scientific/Technical/Management section of proposals is limited to 2 pages for mini programs, 4 for small programs and 5 pages for large programs, which *does not* include references. No table of contents in the body of the proposal is required. No supporting material [e.g., curriculum vitae (CV), pending/current support] is required or permitted. An additional page can be used for a target table only.
 
 * Optional [templates for the Scientific/Technical/Management are available below](proposal-templates.html).
 
