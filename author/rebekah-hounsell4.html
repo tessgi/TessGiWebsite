@@ -17,7 +17,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - TESS Science Support Center" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2020-10-14" />
+    <meta name="dc.date.modified" content="2020-10-16" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Users of TESS Data" />
     <meta name="dc.identifier" content="https://heasarc.gsfc.nasa.gov/docs/tess/" />
@@ -61,7 +61,11 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <link href="../theme/css/exoplanet_archive_icons.css" rel="stylesheet">
     <link href="../theme/css/mission_icons.css" rel="stylesheet">
-
+    <link href="../theme/css/photobanner.css" rel="stylesheet">
+    <link href="../theme/css/slide-container.css" rel="stylesheet">
+    <link href="../theme/css/slide-transition.css" rel="stylesheet"> 
+    <link href="../theme/css/slide-transition2.css" rel="stylesheet"> 
+    
     <link href="../theme/css/pygments/native.css" rel="stylesheet">
     <link rel="stylesheet" href="../theme/css/style.css" type="text/css"/>
 
@@ -95,34 +99,49 @@ in August 2015, using pelican-bootstrap and flatly.
         </div>
         <div class="collapse navbar-collapse navbar-ex1-collapse">
             <ul class="nav navbar-nav">
-                            <li><a href="../archives.html">News</a></li>
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Mission <b class="caret"></b></a>
                             <ul class="dropdown-menu">
                                 <li><a href="../objectives.html">Objectives</a></li>
                                 <li><a href="../the-tess-space-telescope.html">Telescope</a></li>
-                                <li><a href="../operations.html">Operations</a></li>
-                                <li><a href="../primary-science.html">Science</a></li>
+                                <li><a href="../primary.html">Primary Mission</a></li>
+                                <li><a href="../extended.html">Extended Mission</a></li>
                                 <li><a href="../publications.html">Publications</a></li>
                             </ul>
                         </li>
                         <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Using TESS <b class="caret"></b></a>
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">TESS Data <b class="caret"></b></a>
                             <ul class="dropdown-menu">
-                                <li><a href="../status.html">Observing dates</a></li>
-                                <li><a href="../proposing-investigations.html">Guest Investigator Program</a></li>
-                                <li><a href="../observing-technical.html">Technical details</a></li>
-                                <li><a href="../proposal-tools.html">Proposal tools</a></li>
-                                <li><a href="../approved-programs.html">Approved programs</a></li>
+                                <li><a href="../data-handel.html">Data Pipeline</a></li>
+                                <li><a href="../data-products.html">Data Products</a></li>
+                                <li><a href="../data-access.html">Data Access</a></li>
+                                <li><a href="../community.html">Community Products</a></li>
+                                <li><a href="../documentation.html">Documentation</a></li>
                             </ul>
                         </li>
                         <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Data analysis <b class="caret"></b></a>
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Observations <b class="caret"></b></a>
                             <ul class="dropdown-menu">
-                                <li><a href="../data-access.html">Data access</a></li>
-                                <li><a href="../software.html">Analysis software</a></li>
-                                <li><a href="../community.html">Community products</a></li>
-                                <li><a href="../documentation.html">Documentation</a></li>
+                                <li><a href="../observing-technical.html">Technical Details</a></li>
+                                <li><a href="../sector.html">Sector Dates</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tools <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="../proposal-tools.html">Proposal & Observation Tools</a></li>
+                                <li><a href="../tools2.html">Data analysis Tools</a></li>
+                                <li><a href="../tools3.html">Community Tools</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Proposing <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="../proposing-investigations.html">Guest Investigator Proposals</a></li>
+                                <li><a href="../ddt.html">Director's Discretionary Target program</a></li>
+                                <li><a href="../proposal-tips.html">Proposal Tips</a></li>
+                                <li><a href="../proposal-templates.html">Proposal Templates</a></li>
+                                <li><a href="../approved-programs.html">Approved GI Programs</a></li>
                             </ul>
                         </li>
                         <li class="dropdown">
@@ -132,11 +151,11 @@ in August 2015, using pelican-bootstrap and flatly.
                                 <li><a href="../media.html">Media support</a></li>
                             </ul>
                         </li>
+                            <li><a href="../archives.html">News</a></li>
                             <li><a href="../faq.html">FAQ</a></li>
-                            <li><a href="https://heasarc.gsfc.nasa.gov">HEASARC</a></li>
             </ul>
             
-            <ul class="nav navbar-nav navbar-right">
+            <ul class="nav navbar-nav">
                 <li>
                     <a href="../helpdesk.html"><i class="fa fa-info-circle fa-lg"></i> Helpdesk</a>
                 </li>
@@ -153,6 +172,14 @@ in August 2015, using pelican-bootstrap and flatly.
     <div class="row">
         <div class="col-lg-12">
 
+            <article>
+                <h2><a href="../tess-weekly-bulletin-june-12th.html">TESS Weekly Bulletin: June 12th</a></h2>
+                <div class="summary"><p>STATUS UPDATE: Reprocessed TESS Data is Coming Soon! - reprocessed data for Sectors 1-19 will be ingested into the MAST archive over the next few months. See the <a href="https://archive.stsci.edu/contents/newsletters/june-2020/reprocessed-tess-data-coming-soon?filterPage=news&amp;filterName=news-filter">MAST News page</a> for more details.</p>
+<p>Hello TESS followers and welcome to this weeks news bulletin! This week we have three papers from …</p>
+                    <a class="btn btn-default btn-xs" href="../tess-weekly-bulletin-june-12th.html">more ...</a>
+                </div>
+            </article>
+            <hr/>
             <article>
                 <h2><a href="../fifth-tess-weekly-bulletin.html">Fifth TESS Weekly Bulletin</a></h2>
                 <div class="summary"><p><code>STATUS UPDATE: Cycle 3 selections have now been made!</code></p>
@@ -192,14 +219,6 @@ This …</p></li></ol>
 <p><strong><a href="https://www.nature.com/articles/s41586-020-2226-8">Very regular high-frequency pulsation modes in young intermediate-mass stars</a></strong> <em>(Bedding et al., 2020)</em> <strong>:</strong>
 Some stars …</p></li></ol>
                     <a class="btn btn-default btn-xs" href="../second-tess-weekly-bulletin.html">more ...</a>
-                </div>
-            </article>
-            <hr/>
-            <article>
-                <h2><a href="../first-tess-weekly-bulletin.html">First TESS Weekly Bulletin</a></h2>
-                <div class="summary"><p><code>STATUS UPDATE: Sector 23 data went live at MAST this week and we are currently observing in Sector 24 until May 12.</code> </p>
-<p>Welcome TESS followers! We here in the TESS GI office plan to issue weekly news bulletins to keep you informed of all things TESS related and to also …</p>
-                    <a class="btn btn-default btn-xs" href="../first-tess-weekly-bulletin.html">more ...</a>
                 </div>
             </article>
             <hr/>
@@ -272,7 +291,7 @@ Some stars …</p></li></ol>
       <!-- NASA logo and notices -->
       <div class="row" style="margin-top:2em;">
          <div class="col-md-10"> <a href="http://www.nasa.gov/"><img src="../images/NASA_logo_vector_lg.png" width="30" alt="NASA Logo"></a> 
-         Last modified: Fri 09 October 2020
+         Last modified: Fri 16 October 2020
             &middot; Editor: Thomas Barclay &middot; NASA Official: Patricia T Boyd 
             &middot; <a href="http://www.nasa.gov/about/highlights/HP_Privacy.html">Privacy Policy and Important Notices</a><p></p>         </div>
          <div class="col-md-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>

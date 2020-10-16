@@ -11,3 +11,6 @@ Summary: HD 6532 is a well studied member of the class of pulsationally variable
 
 # Sector 030 targets observed (2 min: 1, 20 s: 1)
 326185137,16.4819,-26.729,8.35,G03033;G03252;20SECONDTARGET
+
+# Sector 030 targets observed (2 min: 1, 20 s: 1)
+326185137,16.4819,-26.729,8.35,G03033;G03252;20SECONDTARGET

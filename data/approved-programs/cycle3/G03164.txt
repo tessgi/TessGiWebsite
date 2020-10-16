@@ -11,3 +11,6 @@ Summary: We request support to analyze and model FFI and short cadence data for 
 
 # Sector 028 targets observed (2 min: 1, 20 s: 0)
 220496487,345.303,-58.9728,11.07,G03164
+
+# Sector 028 targets observed (2 min: 1, 20 s: 0)
+220496487,345.303,-58.9728,11.07,G03164
