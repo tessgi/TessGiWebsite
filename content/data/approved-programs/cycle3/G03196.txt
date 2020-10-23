@@ -11,6 +11,3 @@ Summary: TESS recently uncovered TOI-270 (TIC 259377017), a remarkable multi-pla
 
 # Sector 030 targets observed (2 min: 1, 20 s: 1)
 259377017,68.4163,-51.9578,10.5,G03196;G03278;G03106;G03274;20SECONDTARGET
-
-# Sector 030 targets observed (2 min: 1, 20 s: 1)
-259377017,68.4163,-51.9578,10.5,G03196;G03278;G03106;G03274;20SECONDTARGET
