@@ -17,7 +17,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - TESS Science Support Center" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2020-10-21" />
+    <meta name="dc.date.modified" content="2020-10-23" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Users of TESS Data" />
     <meta name="dc.identifier" content="https://heasarc.gsfc.nasa.gov/docs/tess/" />
@@ -40,13 +40,13 @@ in August 2015, using pelican-bootstrap and flatly.
 <link rel="canonical" href="./pages/tess-publications-by-month.html">
 
         <meta name="author" content="Thomas Barclay" />
-        <meta name="description" content="2020-10 A PRECISE ARCHITECTURE CHARACTERIZATION OF THE Π MENSAE PLANETARY SYSTEM★ Damasso, M., Sozzetti, A., Lovis, C., et al. 2020, refereed (2020A&amp;A...642A..31D) A SUPER-EARTH AND A SUB-NEPTUNE ORBITING THE BRIGHT, QUIET M3 DWARF TOI-1266 Demory, B. -O., Pozuelos, F. J., Gómez Maqueo Chew, Y., et al. 2020 …" />
+        <meta name="description" content="2020-10 SYSTEMATIC PHASE CURVE STUDY OF KNOWN TRANSITING SYSTEMS FROM YEAR ONE OF THE TESS MISSION Wong, Ian, Shporer, Avi, Daylan, Tansu, et al. 2020, refereed (2020AJ....160..155W) 2020-09 TESS ASTEROSEISMOLOGY OF THE KNOWN PLANET HOST STAR Λ2 FORNACIS Nielsen, M. B., Ball, W. H., Standing, M. R …" />
 
     <meta property="og:site_name" content="TESS" />
     <meta property="og:type" content="article"/>
     <meta property="og:title" content="TESS publications by month"/>
     <meta property="og:url" content="./pages/tess-publications-by-month.html"/>
-    <meta property="og:description" content="2020-10 A PRECISE ARCHITECTURE CHARACTERIZATION OF THE Π MENSAE PLANETARY SYSTEM★ Damasso, M., Sozzetti, A., Lovis, C., et al. 2020, refereed (2020A&amp;A...642A..31D) A SUPER-EARTH AND A SUB-NEPTUNE ORBITING THE BRIGHT, QUIET M3 DWARF TOI-1266 Demory, B. -O., Pozuelos, F. J., Gómez Maqueo Chew, Y., et al. 2020 …" />
+    <meta property="og:description" content="2020-10 SYSTEMATIC PHASE CURVE STUDY OF KNOWN TRANSITING SYSTEMS FROM YEAR ONE OF THE TESS MISSION Wong, Ian, Shporer, Avi, Daylan, Tansu, et al. 2020, refereed (2020AJ....160..155W) 2020-09 TESS ASTEROSEISMOLOGY OF THE KNOWN PLANET HOST STAR Λ2 FORNACIS Nielsen, M. B., Ball, W. H., Standing, M. R …" />
         <meta property="og:image"
               content="./images/logo-for-twitter.jpeg"/>
 
@@ -61,7 +61,11 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <link href="./theme/css/exoplanet_archive_icons.css" rel="stylesheet">
     <link href="./theme/css/mission_icons.css" rel="stylesheet">
-
+    <link href="./theme/css/photobanner.css" rel="stylesheet">
+    <link href="./theme/css/slide-container.css" rel="stylesheet">
+    <link href="./theme/css/slide-transition.css" rel="stylesheet"> 
+    <link href="./theme/css/slide-transition2.css" rel="stylesheet"> 
+    
     <link href="./theme/css/pygments/native.css" rel="stylesheet">
     <link rel="stylesheet" href="./theme/css/style.css" type="text/css"/>
 
@@ -95,34 +99,49 @@ in August 2015, using pelican-bootstrap and flatly.
         </div>
         <div class="collapse navbar-collapse navbar-ex1-collapse">
             <ul class="nav navbar-nav">
-                            <li><a href="./archives.html">News</a></li>
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Mission <b class="caret"></b></a>
                             <ul class="dropdown-menu">
                                 <li><a href="./objectives.html">Objectives</a></li>
                                 <li><a href="./the-tess-space-telescope.html">Telescope</a></li>
-                                <li><a href="./operations.html">Operations</a></li>
-                                <li><a href="./primary-science.html">Science</a></li>
+                                <li><a href="./primary.html">Primary Mission</a></li>
+                                <li><a href="./extended.html">Extended Mission</a></li>
                                 <li><a href="./publications.html">Publications</a></li>
                             </ul>
                         </li>
                         <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Using TESS <b class="caret"></b></a>
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">TESS Data <b class="caret"></b></a>
                             <ul class="dropdown-menu">
-                                <li><a href="./status.html">Observing dates</a></li>
-                                <li><a href="./proposing-investigations.html">Guest Investigator Program</a></li>
-                                <li><a href="./observing-technical.html">Technical details</a></li>
-                                <li><a href="./proposal-tools.html">Proposal tools</a></li>
-                                <li><a href="./approved-programs.html">Approved programs</a></li>
+                                <li><a href="./data-handel.html">Data Pipeline</a></li>
+                                <li><a href="./data-products.html">Data Products</a></li>
+                                <li><a href="./data-access.html">Data Access</a></li>
+                                <li><a href="./community.html">Community Products</a></li>
+                                <li><a href="./documentation.html">Documentation</a></li>
                             </ul>
                         </li>
                         <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Data analysis <b class="caret"></b></a>
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Observations <b class="caret"></b></a>
                             <ul class="dropdown-menu">
-                                <li><a href="./data-access.html">Data access</a></li>
-                                <li><a href="./software.html">Analysis software</a></li>
-                                <li><a href="./community.html">Community products</a></li>
-                                <li><a href="./documentation.html">Documentation</a></li>
+                                <li><a href="./observing-technical.html">Technical Details</a></li>
+                                <li><a href="./sector.html">Sector Dates</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tools <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="./proposal-tools.html">Proposal & Observation Tools</a></li>
+                                <li><a href="./tools2.html">Data analysis Tools</a></li>
+                                <li><a href="./tools3.html">Community Tools</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Proposing <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="./proposing-investigations.html">Guest Investigator Proposals</a></li>
+                                <li><a href="./ddt.html">Director's Discretionary Target program</a></li>
+                                <li><a href="./proposal-tips.html">Proposal Tips</a></li>
+                                <li><a href="./proposal-templates.html">Proposal Templates</a></li>
+                                <li><a href="./approved-programs.html">Approved GI Programs</a></li>
                             </ul>
                         </li>
                         <li class="dropdown">
@@ -132,11 +151,11 @@ in August 2015, using pelican-bootstrap and flatly.
                                 <li><a href="./media.html">Media support</a></li>
                             </ul>
                         </li>
+                            <li><a href="./archives.html">News</a></li>
                             <li><a href="./faq.html">FAQ</a></li>
-                            <li><a href="https://heasarc.gsfc.nasa.gov">HEASARC</a></li>
             </ul>
             
-            <ul class="nav navbar-nav navbar-right">
+            <ul class="nav navbar-nav">
                 <li>
                     <a href="./helpdesk.html"><i class="fa fa-info-circle fa-lg"></i> Helpdesk</a>
                 </li>
@@ -160,141 +179,9 @@ in August 2015, using pelican-bootstrap and flatly.
                 
 <h2 id="2020-10">2020-10</h2>
 <ol>
-<li>
-<p><a href="http://adsabs.harvard.edu/abs/2020A&amp;A...642A..31D">A PRECISE ARCHITECTURE CHARACTERIZATION OF THE Π MENSAE PLANETARY SYSTEM★</a><br/>
-Damasso, M., Sozzetti, A., Lovis, C., et al.  <br/>
-2020, refereed (<a href="http://adsabs.harvard.edu/abs/2020A&amp;A...642A..31D">2020A&amp;A...642A..31D</a>)  </p>
-</li>
-<li>
-<p><a href="http://adsabs.harvard.edu/abs/2020A&amp;A...642A..49D">A SUPER-EARTH AND A SUB-NEPTUNE ORBITING THE BRIGHT, QUIET M3 DWARF TOI-1266</a><br/>
-Demory, B. -O., Pozuelos, F. J., Gómez Maqueo Chew, Y., et al.  <br/>
-2020, refereed (<a href="http://adsabs.harvard.edu/abs/2020A&amp;A...642A..49D">2020A&amp;A...642A..49D</a>)  </p>
-</li>
-<li>
-<p><a href="http://adsabs.harvard.edu/abs/2020A&amp;A...642A..63Z">CZEV1731: THE UNIQUE DOUBLY ECLIPSING QUADRUPLE SYSTEM</a><br/>
-Zasche, P., Henzl, Z., Lehmann, H., et al.  <br/>
-2020, refereed (<a href="http://adsabs.harvard.edu/abs/2020A&amp;A...642A..63Z">2020A&amp;A...642A..63Z</a>)  </p>
-</li>
-<li>
-<p><a href="http://adsabs.harvard.edu/abs/2020A&amp;A...642A..64W">NEW BRITE-CONSTELLATION OBSERVATIONS OF THE ROAP STAR Α CIR</a><br/>
-Weiss, W. W., Fröhlich, H. -E., Kallinger, T., et al.  <br/>
-2020, refereed (<a href="http://adsabs.harvard.edu/abs/2020A&amp;A...642A..64W">2020A&amp;A...642A..64W</a>)  </p>
-</li>
-<li>
-<p><a href="http://adsabs.harvard.edu/abs/2020A&amp;A...642A.121L">PLANETARY SYSTEM LHS 1140 REVISITED WITH ESPRESSO AND TESS</a><br/>
-Lillo-Box, J., Figueira, P., Leleu, A., et al.  <br/>
-2020, refereed (<a href="http://adsabs.harvard.edu/abs/2020A&amp;A...642A.121L">2020A&amp;A...642A.121L</a>)  </p>
-</li>
-<li>
-<p><a href="http://adsabs.harvard.edu/abs/2020AJ....160..153B">TOI-824 B: A NEW PLANET ON THE LOWER EDGE OF THE HOT NEPTUNE DESERT</a><br/>
-Burt, Jennifer A., Nielsen, Louise D., Quinn, Samuel N., et al.  <br/>
-2020, refereed (<a href="http://adsabs.harvard.edu/abs/2020AJ....160..153B">2020AJ....160..153B</a>)  </p>
-</li>
-<li>
-<p><a href="http://adsabs.harvard.edu/abs/2020AJ....160..155W">SYSTEMATIC PHASE CURVE STUDY OF KNOWN TRANSITING SYSTEMS FROM YEAR ONE OF THE TESS MISSION</a><br/>
+<li><a href="http://adsabs.harvard.edu/abs/2020AJ....160..155W">SYSTEMATIC PHASE CURVE STUDY OF KNOWN TRANSITING SYSTEMS FROM YEAR ONE OF THE TESS MISSION</a><br/>
 Wong, Ian, Shporer, Avi, Daylan, Tansu, et al.  <br/>
-2020, refereed (<a href="http://adsabs.harvard.edu/abs/2020AJ....160..155W">2020AJ....160..155W</a>)  </p>
-</li>
-<li>
-<p><a href="http://adsabs.harvard.edu/abs/2020AJ....160..168L">ASTRAEA: PREDICTING LONG ROTATION PERIODS WITH 27 DAY LIGHT CURVES</a><br/>
-Lu, Yuxi Lucy, Angus, Ruth, Agüeros, Marcel A., et al.  <br/>
-2020, refereed (<a href="http://adsabs.harvard.edu/abs/2020AJ....160..168L">2020AJ....160..168L</a>)  </p>
-</li>
-<li>
-<p><a href="http://adsabs.harvard.edu/abs/2020AJ....160..174K">MULTIPLE TRANSITS DURING A SINGLE CONJUNCTION: IDENTIFYING TRANSITING CIRCUMBINARY PLANETARY CANDIDATES FROM TESS</a><br/>
-Kostov, Veselin B., Welsh, William F., Haghighipour, Nader, et al.  <br/>
-2020, refereed (<a href="http://adsabs.harvard.edu/abs/2020AJ....160..174K">2020AJ....160..174K</a>)  </p>
-</li>
-<li>
-<p><a href="http://adsabs.harvard.edu/abs/2020AJ....160..179M">TESS HUNT FOR YOUNG AND MATURING EXOPLANETS (THYME). III. A TWO-PLANET SYSTEM IN THE 400 MYR URSA MAJOR GROUP</a><br/>
-Mann, Andrew W., Johnson, Marshall C., Vanderburg, Andrew, et al.  <br/>
-2020, refereed (<a href="http://adsabs.harvard.edu/abs/2020AJ....160..179M">2020AJ....160..179M</a>)  </p>
-</li>
-<li>
-<p><a href="http://adsabs.harvard.edu/abs/2020AJ....160..187C">A KELT-TESS ECLIPSING BINARY IN A YOUNG TRIPLE SYSTEM ASSOCIATED WITH THE LOCAL "STELLAR STRING" THEIA 301</a><br/>
-Cunningham, Joni-Marie C., Feliz, Dax L., Dixon, Don M., et al.  <br/>
-2020, refereed (<a href="http://adsabs.harvard.edu/abs/2020AJ....160..187C">2020AJ....160..187C</a>)  </p>
-</li>
-<li>
-<p><a href="http://adsabs.harvard.edu/abs/2020AJ....160..193D">THE TESS-KECK SURVEY. III. A STELLAR OBLIQUITY MEASUREMENT OF TOI-1726 C</a><br/>
-Dai, Fei, Roy, Arpita, Fulton, Benjamin, et al.  <br/>
-2020, refereed (<a href="http://adsabs.harvard.edu/abs/2020AJ....160..193D">2020AJ....160..193D</a>)  </p>
-</li>
-<li>
-<p><a href="http://adsabs.harvard.edu/abs/2020ApJ...902...24D">SHORT-TERM VARIABILITY OF EVOLVED MASSIVE STARS WITH TESS. II. A NEW CLASS OF COOL, PULSATING SUPERGIANTS</a><br/>
-Dorn-Wallenstein, Trevor Z., Levesque, Emily M., Neugent, Kathryn F., et al.  <br/>
-2020, refereed (<a href="http://adsabs.harvard.edu/abs/2020ApJ...902...24D">2020ApJ...902...24D</a>)  </p>
-</li>
-<li>
-<p><a href="http://adsabs.harvard.edu/abs/2020MNRAS.498L..15S">THE TESS LIGHT CURVE OF THE ECCENTRIC ECLIPSING BINARY 1SWASP J011351.29+314909.7 - NO EVIDENCE FOR A VERY HOT M-DWARF COMPANION</a><br/>
-Swayne, Matthew I., Maxted, Pierre F. L., Hodžić, Vedad Kunovac, et al.  <br/>
-2020, refereed (<a href="http://adsabs.harvard.edu/abs/2020MNRAS.498L..15S">2020MNRAS.498L..15S</a>)  </p>
-</li>
-<li>
-<p><a href="http://adsabs.harvard.edu/abs/2020MNRAS.tmp.2853M">ANALYSIS OF ECLIPSING BINARIES IN MULTIPLE STELLAR SYSTEMS: THE CASE OF V1200 CENTAURI</a><br/>
-Marcadon, F., Hełminiak, K. G., Marques, J. P., et al.  <br/>
-2020, refereed (<a href="http://adsabs.harvard.edu/abs/2020MNRAS.tmp.2853M">2020MNRAS.tmp.2853M</a>)  </p>
-</li>
-<li>
-<p><a href="http://adsabs.harvard.edu/abs/2020MNRAS.tmp.2865S">A SEARCH FOR VARIABLE SUBDWARF B STARS IN TESS FULL FRAME IMAGES I. VARIABLE OBJECTS IN THE SOUTHERN ECLIPTIC HEMISPHERE</a><br/>
-Sahoo, S. K., Baran, A. S., Sanjayan, S., et al.  <br/>
-2020, refereed (<a href="http://adsabs.harvard.edu/abs/2020MNRAS.tmp.2865S">2020MNRAS.tmp.2865S</a>)  </p>
-</li>
-<li>
-<p><a href="http://adsabs.harvard.edu/abs/2020MNRAS.tmp.2873M">THE NATURE OF THE SYMBIOTIC CANDIDATE 2MASS J07363415+6538548 IN THE FIELD OF NGC 2403</a><br/>
-Merc, J., Gális, R., Kára, J., et al.  <br/>
-2020, refereed (<a href="http://adsabs.harvard.edu/abs/2020MNRAS.tmp.2873M">2020MNRAS.tmp.2873M</a>)  </p>
-</li>
-<li>
-<p><a href="http://adsabs.harvard.edu/abs/2020MNRAS.tmp.2925S">AN EXTREME-MASS RATIO, SHORT-PERIOD ECLIPSING BINARY CONSISTING OF A B DWARF PRIMARY AND A PRE-MAIN SEQUENCE M STAR COMPANION DISCOVERED BY KELT</a><br/>
-Stevens, Daniel J., Zhou, George, Johnson, Marshall C., et al.  <br/>
-2020, refereed (<a href="http://adsabs.harvard.edu/abs/2020MNRAS.tmp.2925S">2020MNRAS.tmp.2925S</a>)  </p>
-</li>
-<li>
-<p><a href="http://adsabs.harvard.edu/abs/2020MNRAS.tmp.2950M">PROPERTIES OF FLARES AND CMES ON EV LAC: POSSIBLE ERUPTING FILAMENT</a><br/>
-Muheki, Priscilla, Guenther, E. W., Mutabazi, T., et al.  <br/>
-2020, refereed (<a href="http://adsabs.harvard.edu/abs/2020MNRAS.tmp.2950M">2020MNRAS.tmp.2950M</a>)  </p>
-</li>
-<li>
-<p><a href="http://adsabs.harvard.edu/abs/2020arXiv201000604H">EVRYFLARE III: TEMPERATURE EVOLUTION AND HABITABILITY IMPACTS OF DOZENS OF SUPERFLARES OBSERVED SIMULTANEOUSLY BY EVRYSCOPE AND TESS</a><br/>
-Howard, Ward S., Corbett, Hank, Law, Nicholas M., et al.  <br/>
-2020, not refereed (<a href="http://adsabs.harvard.edu/abs/2020arXiv201000604H">2020arXiv201000604H</a>)  </p>
-</li>
-<li>
-<p><a href="http://adsabs.harvard.edu/abs/2020arXiv201001310C">KELT-11 B: ABUNDANCES OF WATER AND CONSTRAINTS ON CARBON-BEARING MOLECULES FROM THE HUBBLE TRANSMISSION SPECTRUM</a><br/>
-Changeat, Quentin, Edwards, Billy, Al-Refaie, Ahmed F., et al.  <br/>
-2020, not refereed (<a href="http://adsabs.harvard.edu/abs/2020arXiv201001310C">2020arXiv201001310C</a>)  </p>
-</li>
-<li>
-<p><a href="http://adsabs.harvard.edu/abs/2020arXiv201003570S">A HIGHLY ECCENTRIC WARM JUPITER ORBITING TIC 237913194</a><br/>
-Schlecker, Martin, Kossakowski, Diana, Brahm, Rafael, et al.  <br/>
-2020, not refereed (<a href="http://adsabs.harvard.edu/abs/2020arXiv201003570S">2020arXiv201003570S</a>)  </p>
-</li>
-<li>
-<p><a href="http://adsabs.harvard.edu/abs/2020arXiv201003711L">$\BETA$ CEPHEI PULSATIONS IN THE HIGH-MASS ECLIPSING SYSTEM CW CEPHEI</a><br/>
-Lee, Jae Woo, Hong, Kyeongsoo  <br/>
-2020, not refereed (<a href="http://adsabs.harvard.edu/abs/2020arXiv201003711L">2020arXiv201003711L</a>)  </p>
-</li>
-<li>
-<p><a href="http://adsabs.harvard.edu/abs/2020arXiv201004221S">MOBSTER -- V: DISCOVERY OF A MAGNETIC COMPANION STAR TO THE MAGNETIC $\BETA$ CEP PULSATOR HD 156424</a><br/>
-Shultz, M. E., Rivinius, Th., Wade, G. A., et al.  <br/>
-2020, not refereed (<a href="http://adsabs.harvard.edu/abs/2020arXiv201004221S">2020arXiv201004221S</a>)  </p>
-</li>
-<li>
-<p><a href="http://adsabs.harvard.edu/abs/2020arXiv201006596V">HIGH-CADENCE, EARLY-TIME OBSERVATIONS OF CORE-COLLAPSE SUPERNOVAE FROM THE TESS PRIME MISSION</a><br/>
-Vallely, P. J., Kochanek, C. S., Stanek, K. Z., et al.  <br/>
-2020, not refereed (<a href="http://adsabs.harvard.edu/abs/2020arXiv201006596V">2020arXiv201006596V</a>)  </p>
-</li>
-<li>
-<p><a href="http://adsabs.harvard.edu/abs/2020arXiv201007323B">ROBUST ASTEROSEISMIC PROPERTIES OF THE BRIGHT PLANET HOST HD 38529</a><br/>
-Ball, Warrick H., Chaplin, William J., Nielsen, Martin B., et al.  <br/>
-2020, not refereed (<a href="http://adsabs.harvard.edu/abs/2020arXiv201007323B">2020arXiv201007323B</a>)  </p>
-</li>
-<li>
-<p><a href="http://adsabs.harvard.edu/abs/2020arXiv201009766K">WHICH STARS CAN SEE EARTH AS A TRANSITING EXOPLANET?</a><br/>
-Kaltenegger, L., Pepper, J.  <br/>
-2020, not refereed (<a href="http://adsabs.harvard.edu/abs/2020arXiv201009766K">2020arXiv201009766K</a>)  </p>
-</li>
+2020, refereed (<a href="http://adsabs.harvard.edu/abs/2020AJ....160..155W">2020AJ....160..155W</a>)  </li>
 </ol>
 <h2 id="2020-09">2020-09</h2>
 <ol>
@@ -359,6 +246,11 @@ Mason, Paul A., Morales, John F., Littlefield, Colin, et al.  <br/>
 2020, refereed (<a href="http://adsabs.harvard.edu/abs/2020AdSpR..66.1123M">2020AdSpR..66.1123M</a>)  </p>
 </li>
 <li>
+<p><a href="http://adsabs.harvard.edu/abs/2020ApJS..250...20C">A SEARCH FOR ROTATION PERIODS IN 1000 TESS OBJECTS OF INTEREST</a><br/>
+Canto Martins, B. L., Gomes, R. L., Messias, Y. S., et al.  <br/>
+2020, refereed (<a href="http://adsabs.harvard.edu/abs/2020ApJS..250...20C">2020ApJS..250...20C</a>)  </p>
+</li>
+<li>
 <p><a href="http://adsabs.harvard.edu/abs/2020ApJ...900..137W">MULTIWAVELENGTH VARIABILITY OF BL LACERTAE MEASURED WITH HIGH TIME RESOLUTION</a><br/>
 Weaver, Z. R., Williamson, K. E., Jorstad, S. G., et al.  <br/>
 2020, refereed (<a href="http://adsabs.harvard.edu/abs/2020ApJ...900..137W">2020ApJ...900..137W</a>)  </p>
@@ -374,19 +266,9 @@ Shi, Fangfei, Kurtz, Donald, Saio, Hideyuki, et al.  <br/>
 2020, refereed (<a href="http://adsabs.harvard.edu/abs/2020ApJ...901...15S">2020ApJ...901...15S</a>)  </p>
 </li>
 <li>
-<p><a href="http://adsabs.harvard.edu/abs/2020ApJS..250...20C">A SEARCH FOR ROTATION PERIODS IN 1000 TESS OBJECTS OF INTEREST</a><br/>
-Canto Martins, B. L., Gomes, R. L., Messias, Y. S., et al.  <br/>
-2020, refereed (<a href="http://adsabs.harvard.edu/abs/2020ApJS..250...20C">2020ApJS..250...20C</a>)  </p>
-</li>
-<li>
-<p><a href="http://adsabs.harvard.edu/abs/2020MNRAS.498.6034M">TIC 278825952: A TRIPLY ECLIPSING HIERARCHICAL TRIPLE SYSTEM WITH THE MOST INTRINSICALLY CIRCULAR OUTER ORBIT</a><br/>
-Mitnyan, T., Borkovits, T., Rappaport, S. A., et al.  <br/>
-2020, refereed (<a href="http://adsabs.harvard.edu/abs/2020MNRAS.498.6034M">2020MNRAS.498.6034M</a>)  </p>
-</li>
-<li>
-<p><a href="http://adsabs.harvard.edu/abs/2020MNRAS.498.5972N">A PSF-BASED APPROACH TO TESS HIGH QUALITY DATA OF STELLAR CLUSTERS (PATHOS) - III. EXPLORING THE PROPERTIES OF YOUNG ASSOCIATIONS THROUGH THEIR VARIABLES, DIPPERS, AND CANDIDATE EXOPLANETS</a><br/>
+<p><a href="http://adsabs.harvard.edu/abs/2020arXiv200902330N">A PSF-BASED APPROACH TO TESS HIGH QUALITY DATA OF STELLAR CLUSTERS (PATHOS) -- III. EXPLORING THE PROPERTIES OF YOUNG ASSOCIATIONS THROUGH THEIR VARIABLES, DIPPERS, AND CANDIDATE EXOPLANETS</a><br/>
 Nardiello, D.  <br/>
-2020, refereed (<a href="http://adsabs.harvard.edu/abs/2020MNRAS.498.5972N">2020MNRAS.498.5972N</a>)  </p>
+2020, not refereed (<a href="http://adsabs.harvard.edu/abs/2020arXiv200902330N">2020arXiv200902330N</a>)  </p>
 </li>
 <li>
 <p><a href="http://adsabs.harvard.edu/abs/2020arXiv200902332L">AN UNUSUALLY LOW DENSITY ULTRA-SHORT PERIOD SUPER-EARTH AND THREE MINI-NEPTUNES AROUND THE OLD STAR TOI-561</a><br/>
@@ -404,6 +286,11 @@ Payne, Anna V., Shappee, Benjamin J., Hinkle, Jason T., et al.  <br/>
 2020, not refereed (<a href="http://adsabs.harvard.edu/abs/2020arXiv200903321P">2020arXiv200903321P</a>)  </p>
 </li>
 <li>
+<p><a href="http://adsabs.harvard.edu/abs/2020MNRAS.tmp.2589M">TIC 278825952: A TRIPLY ECLIPSING HIERARCHICAL TRIPLE SYSTEM WITH THE MOST INTRINSICALLY CIRCULAR OUTER ORBIT</a><br/>
+Mitnyan, T., Borkovits, T., Rappaport, S. A., et al.  <br/>
+2020, refereed (<a href="http://adsabs.harvard.edu/abs/2020MNRAS.tmp.2589M">2020MNRAS.tmp.2589M</a>)  </p>
+</li>
+<li>
 <p><a href="http://adsabs.harvard.edu/abs/2020arXiv200903872C">A KELT-TESS ECLIPSING BINARY IN A YOUNG TRIPLE SYSTEM ASSOCIATED WITH A "STELLAR STRING" THEIA 301</a><br/>
 Clark Cunningham, Joni-Marie, Felix, Dax L., Dixon, Don M., et al.  <br/>
 2020, not refereed (<a href="http://adsabs.harvard.edu/abs/2020arXiv200903872C">2020arXiv200903872C</a>)  </p>
@@ -412,6 +299,11 @@ Clark Cunningham, Joni-Marie, Felix, Dax L., Dixon, Don M., et al.  <br/>
 <p><a href="http://adsabs.harvard.edu/abs/2020arXiv200904310A">STELLAR FLARES VERSUS LUMINOSITY: XUV-INDUCED ATMOSPHERIC ESCAPE AND PLANETARY HABITABILITY</a><br/>
 Atri, Dimitra, Carberry Mogan, Shane R.  <br/>
 2020, not refereed (<a href="http://adsabs.harvard.edu/abs/2020arXiv200904310A">2020arXiv200904310A</a>)  </p>
+</li>
+<li>
+<p><a href="http://adsabs.harvard.edu/abs/2020arXiv200904317D">A SUPER-EARTH AND A SUB-NEPTUNE ORBITING THE BRIGHT, QUIET M3 DWARF TOI-1266</a><br/>
+Demory, B. -O., Pozuelos, F. J., Gomez Maqueo Chew, Y., et al.  <br/>
+2020, not refereed (<a href="http://adsabs.harvard.edu/abs/2020arXiv200904317D">2020arXiv200904317D</a>)  </p>
 </li>
 <li>
 <p><a href="http://adsabs.harvard.edu/abs/2020arXiv200904784Z">BETA CAS: THE FIRST DELTA SCUTI STAR WITH A DYNAMO MAGNETIC FIELD</a><br/>
@@ -465,11 +357,6 @@ Hirano, Teruyuki, Krishnamurthy, Vigneshwaran, Gaidos, Eric, et al.  <br/>
 <p><a href="http://adsabs.harvard.edu/abs/2020RNAAS...4..135M">THE LARGE FLUX VARIATIONS OF 17 COM A AS RECORDED BY FUSE</a><br/>
 Monier, Richard  <br/>
 2020, not refereed (<a href="http://adsabs.harvard.edu/abs/2020RNAAS...4..135M">2020RNAAS...4..135M</a>)  </p>
-</li>
-<li>
-<p><a href="http://adsabs.harvard.edu/abs/2020PASP..132h4403L">SIMULATIONS PREDICTING THE ABILITY OF MULTI-COLOR SIMULTANEOUS PHOTOMETRY TO DISTINGUISH TESS CANDIDATE EXOPLANETS FROM FALSE POSITIVES</a><br/>
-Louie, Dana R., Narita, Norio, Fukui, Akihiko, et al.  <br/>
-2020, refereed (<a href="http://adsabs.harvard.edu/abs/2020PASP..132h4403L">2020PASP..132h4403L</a>)  </p>
 </li>
 <li>
 <p><a href="http://adsabs.harvard.edu/abs/2020arXiv200803351Y">ASTRAEA: PREDICTING LONG ROTATION PERIODS WITH 27-DAY LIGHT CURVES</a><br/>
@@ -580,6 +467,11 @@ Ramsay, Gavin, Doyle, J. Gerry, Doyle, Lauren  <br/>
 2020, refereed (<a href="http://adsabs.harvard.edu/abs/2020MNRAS.497.2320R">2020MNRAS.497.2320R</a>)  </p>
 </li>
 <li>
+<p><a href="http://adsabs.harvard.edu/abs/2020MNRAS.tmpL.132S">THE TESS LIGHT CURVE OF THE ECCENTRIC ECLIPSING BINARY 1SWASP J011351.29+314909.7 - NO EVIDENCE FOR A VERY HOT M-DWARF COMPANION</a><br/>
+Swayne, Matthew I., Maxted, Pierre F. L., Hodžić, Vedad Kunovac, et al.  <br/>
+2020, refereed (<a href="http://adsabs.harvard.edu/abs/2020MNRAS.tmpL.132S">2020MNRAS.tmpL.132S</a>)  </p>
+</li>
+<li>
 <p><a href="http://adsabs.harvard.edu/abs/2020Natur.583...39A">A REMNANT PLANETARY CORE IN THE HOT-NEPTUNE DESERT</a><br/>
 Armstrong, David J., Lopez, Théo A., Adibekyan, Vardan, et al.  <br/>
 2020, refereed (<a href="http://adsabs.harvard.edu/abs/2020Natur.583...39A">2020Natur.583...39A</a>)  </p>
@@ -593,6 +485,11 @@ Ikwut-Ukwa, Mma, Rodriguez, Joseph E., Bieryla, Allyson, et al.  <br/>
 <p><a href="http://adsabs.harvard.edu/abs/2020arXiv200705528B">HAT-P-58B -- HAT-P-64B: SEVEN PLANETS TRANSITING BRIGHT STARS</a><br/>
 Bakos, G. Á., Hartman, J. D., Bhatti, W., et al.  <br/>
 2020, not refereed (<a href="http://adsabs.harvard.edu/abs/2020arXiv200705528B">2020arXiv200705528B</a>)  </p>
+</li>
+<li>
+<p><a href="http://adsabs.harvard.edu/abs/2020arXiv200706410D">A PRECISE ARCHITECTURE CHARACTERIZATION OF THE $\PI$ MEN PLANETARY SYSTEM</a><br/>
+Damasso, M., Sozzetti, A., Lovis, C., et al.  <br/>
+2020, not refereed (<a href="http://adsabs.harvard.edu/abs/2020arXiv200706410D">2020arXiv200706410D</a>)  </p>
 </li>
 <li>
 <p><a href="http://adsabs.harvard.edu/abs/2020arXiv200711564K">ORBITAL MISALIGNMENT OF THE SUPER-EARTH $\PI$ MEN C WITH THE SPIN OF ITS STAR</a><br/>
@@ -673,7 +570,7 @@ Battley, Matthew P., Pollacco, Don, Armstrong, David J.  <br/>
 2020, refereed (<a href="http://adsabs.harvard.edu/abs/2020MNRAS.496.1197B">2020MNRAS.496.1197B</a>)  </p>
 </li>
 <li>
-<p><a href="http://adsabs.harvard.edu/abs/2020MNRAS.496.3257B">THE ASAS-SN CATALOGUE OF VARIABLE STARS - VIII. 'DIPPER' STARS IN THE LUPUS STAR-FORMING REGION</a><br/>
+<p><a href="http://adsabs.harvard.edu/abs/2020MNRAS.496.3257B">THE ASAS-SN CATALOGUE OF VARIABLE STARS ─ VIII. 'DIPPER' STARS IN THE LUPUS STAR-FORMING REGION</a><br/>
 Bredall, J. W., Shappee, B. J., Gaidos, E., et al.  <br/>
 2020, refereed (<a href="http://adsabs.harvard.edu/abs/2020MNRAS.496.3257B">2020MNRAS.496.3257B</a>)  </p>
 </li>
@@ -726,6 +623,11 @@ von Essen, C., Mallonn, M., Cowan, N. B., et al.  <br/>
 <p><a href="http://adsabs.harvard.edu/abs/2020arXiv200610292B">THE TESS PHASE CURVE OF KELT-1B SUGGESTS A HIGH DAYSIDE ALBEDO</a><br/>
 Beatty, Thomas G., Wong, Ian, Fetherolf, Tara, et al.  <br/>
 2020, not refereed (<a href="http://adsabs.harvard.edu/abs/2020arXiv200610292B">2020arXiv200610292B</a>)  </p>
+</li>
+<li>
+<p><a href="http://adsabs.harvard.edu/abs/2020arXiv200610765L">SIMULATIONS PREDICTING THE ABILITY OF MULTI-COLOR SIMULTANEOUS PHOTOMETRY TO DISTINGUISH TESS CANDIDATE EXOPLANETS FROM FALSE POSITIVES</a><br/>
+Louie, Dana R., Narita, Norio, Fukui, Akihiko, et al.  <br/>
+2020, not refereed (<a href="http://adsabs.harvard.edu/abs/2020arXiv200610765L">2020arXiv200610765L</a>)  </p>
 </li>
 <li>
 <p><a href="http://adsabs.harvard.edu/abs/2020arXiv200611180S">A MINI-NEPTUNE AND A VENUS-ZONE PLANET IN THE RADIUS VALLEY ORBITING THE NEARBY M2-DWARF TOI-1266: VALIDATION WITH THE HABITABLE-ZONE PLANET FINDER</a><br/>
@@ -812,7 +714,7 @@ Bedding, Timothy R., Murphy, Simon J., Hey, Daniel R., et al.  <br/>
 </li>
 <li>
 <p><a href="http://adsabs.harvard.edu/abs/2020arXiv200505153C">AN UNUSUAL TRANSMISSION SPECTRUM FOR THE SUB-SATURN KELT-11B SUGGESTIVE OF A SUB-SOLAR WATER ABUNDANCE</a><br/>
-Colón, Knicole D., Kreidberg, Laura, Welbanks, Luis, et al.  <br/>
+Colón, Knicole D., Kreidberg, Laura, Line, Michael, et al.  <br/>
 2020, not refereed (<a href="http://adsabs.harvard.edu/abs/2020arXiv200505153C">2020arXiv200505153C</a>)  </p>
 </li>
 <li>
@@ -973,6 +875,11 @@ Carleo, Ilaria, Gandolfi, Davide, Barragán, Oscar, et al.  <br/>
 Daylan, Tansu, Pingle, Kartik, Wright, Jasmine, et al.  <br/>
 2020, not refereed (<a href="http://adsabs.harvard.edu/abs/2020arXiv200411314D">2020arXiv200411314D</a>)  </p>
 </li>
+<li>
+<p><a href="http://adsabs.harvard.edu/abs/2020arXiv200500047M">TESS HUNT FOR YOUNG AND MATURING EXOPLANETS (THYME) III: A TWO-PLANET SYSTEM IN THE 400 MYR URSA MAJOR GROUP</a><br/>
+Mann, Andrew W., Johnson, Marshall C., Vanderburg, Andrew, et al.  <br/>
+2020, not refereed (<a href="http://adsabs.harvard.edu/abs/2020arXiv200500047M">2020arXiv200500047M</a>)  </p>
+</li>
 </ol>
 <h2 id="2020-03">2020-03</h2>
 <ol>
@@ -1042,7 +949,7 @@ Handler, G., Kurtz, D. W., Rappaport, S. A., et al.  <br/>
 2020, refereed (<a href="http://adsabs.harvard.edu/abs/2020NatAs...4..684H">2020NatAs...4..684H</a>)  </p>
 </li>
 <li>
-<p><a href="http://adsabs.harvard.edu/abs/2020arXiv200301140N">THE CARMENES SEARCH FOR EXOPLANETS AROUND M DWARFS. TWO PLANETS ON THE OPPOSITE SIDES OF THE RADIUS GAP TRANSITING THE NEARBY M DWARF LTT 3780</a><br/>
+<p><a href="http://adsabs.harvard.edu/abs/2020arXiv200301140N">THE CARMENES SEARCH FOR EXOPLANETS AROUND M DWARFS. TWO PLANETS ON THE OPPOSITE SIDES OF THE RADIUS GAP TRANSITING THE NEARBY M DWARF LP 729-54</a><br/>
 Nowak, G., Luque, R., Parviainen, H., et al.  <br/>
 2020, not refereed (<a href="http://adsabs.harvard.edu/abs/2020arXiv200301140N">2020arXiv200301140N</a>)  </p>
 </li>
@@ -1173,11 +1080,6 @@ Addison, Brett C., Wright, Duncan J., Nicholson, Belinda A., et al.  <br/>
 2020, not refereed (<a href="http://adsabs.harvard.edu/abs/2020arXiv200107345A">2020arXiv200107345A</a>)  </p>
 </li>
 <li>
-<p><a href="http://adsabs.harvard.edu/abs/2020IAUS..354..300H">TESS LIGHT CURVES OF LOW-MASS DETACHED ECLIPSING BINARIES</a><br/>
-Hełminiak, Krzysztof G., Jordán, Andrés, Espinoza, Nestor, et al.  <br/>
-2020, not refereed (<a href="http://adsabs.harvard.edu/abs/2020IAUS..354..300H">2020IAUS..354..300H</a>)  </p>
-</li>
-<li>
 <p><a href="http://adsabs.harvard.edu/abs/2020svos.conf..101C">THE PROTOTYPE STAR Γ DORADUS OBSERVED BY TESS</a><br/>
 Christophe, S., Antoci, V., Brunsden, E., et al.  <br/>
 2020, not refereed (<a href="http://adsabs.harvard.edu/abs/2020svos.conf..101C">2020svos.conf..101C</a>)  </p>
@@ -1259,6 +1161,11 @@ Rodríguez Martínez, Romy, Gaudi, B. Scott, Rodriguez, Joseph E., et al.  <br/>
 <p><a href="http://adsabs.harvard.edu/abs/2019arXiv191202687D">MOBSTER: ESTABLISHING A PICTURE OF MAGNETIC MASSIVE STARS AS A POPULATION</a><br/>
 David-Uraz, Alexandre, Neiner, Coralie, Sikora, James, et al.  <br/>
 2019, not refereed (<a href="http://adsabs.harvard.edu/abs/2019arXiv191202687D">2019arXiv191202687D</a>)  </p>
+</li>
+<li>
+<p><a href="http://adsabs.harvard.edu/abs/2019arXiv191204043H">TESS LIGHT CURVES OF LOW-MASS DETACHED ECLIPSING BINARIES</a><br/>
+Hełminiak, Krzysztof G., Jordán, Andrés, Espinoza, Nestor, et al.  <br/>
+2019, not refereed (<a href="http://adsabs.harvard.edu/abs/2019arXiv191204043H">2019arXiv191204043H</a>)  </p>
 </li>
 <li>
 <p><a href="http://adsabs.harvard.edu/abs/2019arXiv191204121M">WHAT IS NEW WITH LANDSTREET STAR HD 37776 (V901 ORI)?</a><br/>
@@ -2250,7 +2157,7 @@ Gangestad, Joseph W., Henning, Gregory A., Persinger, Randy R., et al.  <br/>
       <!-- NASA logo and notices -->
       <div class="row" style="margin-top:2em;">
          <div class="col-md-10"> <a href="http://www.nasa.gov/"><img src="./images/NASA_logo_vector_lg.png" width="30" alt="NASA Logo"></a> 
-         Last modified: Fri 16 October 2020
+         Last modified: Fri 23 October 2020
             &middot; Editor: Thomas Barclay &middot; NASA Official: Patricia T Boyd 
             &middot; <a href="http://www.nasa.gov/about/highlights/HP_Privacy.html">Privacy Policy and Important Notices</a><p></p>         </div>
          <div class="col-md-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
