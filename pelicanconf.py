@@ -94,7 +94,7 @@ MENUITEMS = (
                     )
         ),
         ('TESS Data', (
-            ('Data Pipeline', 'data-handel.html'),
+            ('Data Pipeline', 'data-handling.html'),
             ('Data Products', 'data-products.html'),
             ('Data Access', 'data-access.html'),
             ('Community Products', 'community.html'),
