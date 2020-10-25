@@ -159,8 +159,14 @@ IMPORTANT_DATES = (
             # ('<b>16 January 2020</b>',
             #  'Cycle 3 proposals due',
             #  'proposing_investigations.html',), # link to a news item?
-            ('<b>5 July 2020</b>',
-             'Cycle 3 observations begin',
+            # ('<b>5 July 2020</b>',
+            #  'Cycle 3 observations begin',
+            #  'status.html',), # link to a news item?
+            ('<b>22 January 2020</b>',
+             'Cycle 4 proposals due',
+             'proposing_investigations.html',), # link to a news item?
+            ('<b>25 June 2020</b>',
+             'Cycle 4 observations begin',
              'status.html',), # link to a news item?
          )
 
