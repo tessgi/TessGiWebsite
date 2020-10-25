@@ -1,0 +1,10 @@
+# TESS Program G022045
+
+Title: All Sky Galactic Archeology With TESS
+
+PI: Pinsonneault, Marc - Ohio State University
+
+Type: LARGE
+
+Summary: We propose an ambitious campaign for extracting granulation parameters and asteroseismic parameters for large samples of evolved stars in the TESS fields. Even with the minimum 27 day baseline we estimate that up to 2.3 million targets could have at least some measurable asteroseismic parameters, covering a substantial fraction of the Galaxy and permitting unprecedented galactic archeology studies. We justify our predicted yields and present a comprehensive analysis and follow-up plan to take advantage of the unique capabilities of TESS as a stellar population discovery engine.
+
