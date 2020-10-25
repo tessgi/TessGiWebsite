@@ -97,10 +97,10 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <link href="{{ SITEURL }}/theme/css/exoplanet_archive_icons.css" rel="stylesheet">
     <link href="{{ SITEURL }}/theme/css/mission_icons.css" rel="stylesheet">
-    <link href="{{ SITEURL }}/theme/css/photobanner.css" rel="stylesheet">
+<!--     <link href="{{ SITEURL }}/theme/css/photobanner.css" rel="stylesheet">
     <link href="{{ SITEURL }}/theme/css/slide-container.css" rel="stylesheet">
     <link href="{{ SITEURL }}/theme/css/slide-transition.css" rel="stylesheet"> 
-    <link href="{{ SITEURL }}/theme/css/slide-transition2.css" rel="stylesheet"> 
+    <link href="{{ SITEURL }}/theme/css/slide-transition2.css" rel="stylesheet">  -->
     
     <link href="{{ SITEURL }}/theme/css/pygments/{{ PYGMENTS_STYLE|default('native') }}.css" rel="stylesheet">
     {% if 'tipue_search' in PLUGINS %}
@@ -157,7 +157,7 @@ in August 2015, using pelican-bootstrap and flatly.
             </a>
         </div>
         <div class="collapse navbar-collapse navbar-ex1-collapse">
-            <ul class="nav navbar-nav">
+            <ul class="nav navbar-nav navbar-nav">
                 {% for title, link in MENUITEMS %}
                     {% if link is string %}
                         {% if "http" in link%}

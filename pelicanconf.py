@@ -34,7 +34,7 @@ THEME = "themes/pelican-bootstrap3-kepler"
 BOOTSTRAP_THEME = 'cosmo'
 BOOTSTRAP_FLUID = False
 
-BANNER = "images/bn1.jpeg"
+BANNER = "images/tess-banner-inverted_v2.jpg"
 HIDE_SITENAME = False
 
 IGNORE_FILES = [
@@ -89,6 +89,7 @@ MENUITEMS = (
             ('Telescope', 'the-tess-space-telescope.html'),
             ('Primary Mission', 'primary.html'),
             ('Extended Mission', 'extended.html'),
+            ('FAQ', 'faq.html'),
             ('Publications', 'publications.html'),
                     )
         ),
@@ -103,6 +104,7 @@ MENUITEMS = (
         ('Observations', (
             ('Technical Details', 'observing-technical.html'),
             ('Sector Dates', 'sector.html'),
+            ('Approved GI Programs', 'approved-programs.html'),
                          )
         ),
         ('Tools', (
@@ -116,16 +118,14 @@ MENUITEMS = (
             ("Director's Discretionary Target program", 'ddt.html'),
             ('Proposal Tips', 'proposal-tips.html'),
             ('Proposal Templates', 'proposal-templates.html'),
-            ('Approved GI Programs', 'approved-programs.html'),
                       )
         ),
-        ('Education & Outreach', (
-            ('Resources', 'gallery.html'),
-            ('Media support', 'media.html'),
-                                 )
-        ),
-        ('News', 'archives.html'),
-        ('FAQ', 'faq.html'),
+        # ('Education & Outreach', (
+        #     ('Resources', 'gallery.html'),
+        #     ('Media support', 'media.html'),
+        #                          )
+        # ),
+        # 
         )
 
 # Defines the "key information" box on the front page
