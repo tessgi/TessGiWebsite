@@ -97,7 +97,7 @@ live: html-live
 
 quinn: live
 	git push quinn live
-	git push quinn master
+	git push quinn main
 
 
 
