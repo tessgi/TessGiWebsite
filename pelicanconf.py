@@ -75,7 +75,7 @@ STATIC_PATHS = (['images', 'data', 'docs'])
 
 # Directories that contain html files we want to exclude
 # because they are sub-pages included through rst includes
-PAGE_EXCLUDES = ['pages/observing/approved-programs', 'pages/data-analysis/tutorials']
+PAGE_EXCLUDES = ['pages/observing/approved-programs', ]
 
 # The fancy table of contents sidebar requires a plugin
 PLUGIN_PATHS = [os.path.join(os.path.dirname(os.path.realpath(__file__)),
