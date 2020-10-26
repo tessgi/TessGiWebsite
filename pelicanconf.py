@@ -90,6 +90,7 @@ MENUITEMS = (
             ('Primary Mission', 'primary.html'),
             ('Extended Mission', 'extended.html'),
             ('FAQ', 'faq.html'),
+            ('Outreach Resources', 'gallery.html'),
             ('Publications', 'publications.html'),
                     )
         ),
