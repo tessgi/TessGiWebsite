@@ -212,7 +212,7 @@ plot the data, also using *Lightkurve*.
 
 
 
-.. image:: Target-Pixel-Files_files/Target-Pixel-Files_13_0.png
+.. image:: images/Target-Pixel-Files_files/Target-Pixel-Files_13_0.png
 
 
 The above figure indicates the pixels on the CCD camera, with which L
@@ -930,7 +930,7 @@ from each TPF in that CCD.
 
 
 
-.. image:: Target-Pixel-Files_files/Target-Pixel-Files_52_0.png
+.. image:: images/Target-Pixel-Files_files/Target-Pixel-Files_52_0.png
 
 
 From looking at the color scale on both plots, you may see that the
@@ -953,7 +953,7 @@ spacecraft.
 
 
 
-.. image:: Target-Pixel-Files_files/Target-Pixel-Files_54_0.png
+.. image:: images/Target-Pixel-Files_files/Target-Pixel-Files_54_0.png
 
 
 In this case the background is low and the star is bright, so it doesn’t

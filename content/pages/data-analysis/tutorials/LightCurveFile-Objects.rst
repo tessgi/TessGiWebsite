@@ -211,7 +211,7 @@ Lets now plot the lightcurve up for the object.
 
 
 
-.. image:: LightCurveFile-Objects_files/LightCurveFile-Objects_17_0.png
+.. image:: images/LightCurveFile-Objects_files/LightCurveFile-Objects_17_0.png
 
 
 SAP and PDCSAP lightcurves
@@ -234,7 +234,7 @@ keyword while plotting.
 
 
 
-.. image:: LightCurveFile-Objects_files/LightCurveFile-Objects_19_0.png
+.. image:: images/LightCurveFile-Objects_files/LightCurveFile-Objects_19_0.png
 
 
 In brief:
@@ -293,7 +293,7 @@ example, we can set the title as follow:
 
 
 
-.. image:: LightCurveFile-Objects_files/LightCurveFile-Objects_21_1.png
+.. image:: images/LightCurveFile-Objects_files/LightCurveFile-Objects_21_1.png
 
 
 Now lets fold and bin our data to look at the transit as we did in the
@@ -306,7 +306,7 @@ Now lets fold and bin our data to look at the transit as we did in the
 
 
 
-.. image:: LightCurveFile-Objects_files/LightCurveFile-Objects_23_0.png
+.. image:: images/LightCurveFile-Objects_files/LightCurveFile-Objects_23_0.png
 
 
 Metadata

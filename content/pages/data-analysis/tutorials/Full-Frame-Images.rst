@@ -136,7 +136,7 @@ tutorial <Target-Pixel-Files.html>`__, for example lets plot the object.
 
 
 
-.. image:: Full-Frame-Images_files/Full-Frame-Images_11_0.png
+.. image:: images/Full-Frame-Images_files/Full-Frame-Images_11_0.png
 
 
 Great we now see our object of interest and the surrounding region. As

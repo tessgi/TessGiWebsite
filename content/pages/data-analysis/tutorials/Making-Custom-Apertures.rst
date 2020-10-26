@@ -96,7 +96,7 @@ Lets plot the data.
 
 
 
-.. image:: Making-Custom-Apertures_files/Making-Custom-Apertures_11_0.png
+.. image:: images/Making-Custom-Apertures_files/Making-Custom-Apertures_11_0.png
 
 
 Our object of interest should be located at the center of the image.
@@ -167,7 +167,7 @@ Lets now plot this up and see what it looks like.
 
 
 
-.. image:: Making-Custom-Apertures_files/Making-Custom-Apertures_17_0.png
+.. image:: images/Making-Custom-Apertures_files/Making-Custom-Apertures_17_0.png
 
 
 Oh no! It looks like the bright object next to our object of interest
@@ -198,7 +198,7 @@ aperture arrays are boolean, based on this lets make up a new array.
 
 
 
-.. image:: Making-Custom-Apertures_files/Making-Custom-Apertures_20_1.png
+.. image:: images/Making-Custom-Apertures_files/Making-Custom-Apertures_20_1.png
 
 
 Ok that is much better. Lets take a look at the lightcurve data using
@@ -255,7 +255,7 @@ Great! Now lets plot this lightcurve.
 
 
 
-.. image:: Making-Custom-Apertures_files/Making-Custom-Apertures_24_1.png
+.. image:: images/Making-Custom-Apertures_files/Making-Custom-Apertures_24_1.png
 
 
 Above we see that the object looks to have some sort of variability.

@@ -180,7 +180,7 @@ keyword.
 
 
 
-.. image:: Aperture-Photometry_files/Aperture-Photometry_13_0.png
+.. image:: images/Aperture-Photometry_files/Aperture-Photometry_13_0.png
 
 
 We now see the SPOC *optimal* aperture mask overlaid on top of our
@@ -274,7 +274,7 @@ up and see what it looks like.
 
 
 
-.. image:: Aperture-Photometry_files/Aperture-Photometry_21_0.png
+.. image:: images/Aperture-Photometry_files/Aperture-Photometry_21_0.png
 
 
 We see that this is slightly different to the *optimal* aperture
@@ -304,7 +304,7 @@ within boolean arrays, based on this lets make up a new array.
 
 
 
-.. image:: Aperture-Photometry_files/Aperture-Photometry_24_1.png
+.. image:: images/Aperture-Photometry_files/Aperture-Photometry_24_1.png
 
 
 OK great, it looks like we have covered our object,but not included too
@@ -362,7 +362,7 @@ and examine the difference.
 
 
 
-.. image:: Aperture-Photometry_files/Aperture-Photometry_29_0.png
+.. image:: images/Aperture-Photometry_files/Aperture-Photometry_29_0.png
 
 
 .. code:: ipython3
@@ -371,7 +371,7 @@ and examine the difference.
 
 
 
-.. image:: Aperture-Photometry_files/Aperture-Photometry_30_0.png
+.. image:: images/Aperture-Photometry_files/Aperture-Photometry_30_0.png
 
 
 As you can see the lightcurves from the two apertures look very
