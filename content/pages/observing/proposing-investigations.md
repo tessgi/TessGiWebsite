@@ -9,13 +9,15 @@ The next opportunity is TESS Cycle 4, which begins observations in June 2021 and
 
 There is no exclusive-use data rights to observations collected by TESS. All data is made available through the [MAST public archive](http://archive.stsci.edu/tess/summary.html) once data processing and validation is complete.
 
-**The Cycle 4 solicitation can already be found [here](https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId={4B9CAAB3-D398-183A-B1F3-EF963DF415C7}&path=open).** Cycle 4 is longer than a typical cycle and lasting approximately 15 months.
+The Cycle 4 solicitation can be found [on NSPIRES](https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId={4B9CAAB3-D398-183A-B1F3-EF963DF415C7}&path=open). Cycle 4 is longer than a typical cycle and lasting approximately 15 months.
 
 Beginning in Cycle 4, all Phase-1 proposals submitted to the TESS GI program will be evaluated following a dual-anonymous peer review process.
 
+**Proposal will be due at 4.30pm on January 22, 2021**.
+
 ## Proposal Products
 
-* Approximately 600 target slots per sector are available through the GI program. 
+* Approximately 600 20 second cadence target slots per sector are available through the GI program. 
 
 * More than 15,000 target slots are available in each sector for 2-min cadence data per sector, facilitating very large GI programs.
 
