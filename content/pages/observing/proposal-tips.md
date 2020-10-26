@@ -5,7 +5,7 @@ Save_as: proposal-tips.html
 
 Due to the observing strategy of the TESS mission, GI proposers should be aware of several details when composing a science case and target lists.
 
-* The exact location of the first observing sector (and therefore all subsequent observing sectors) in a given cycle is a sensitive function of the start date of observations in that cycle. The impact of the uncertainty in the exact sky locations of the TESS FOVs is that there is no guarantee that any given proposed target will not fall into a gap between sectors, camera CCDs, or camera FOVs. To mitigate this uncertainty, proposers are encouraged to consider target lists that include a number of similar sources distributed across the sky.
+* The exact location of observing sector is subject to change. The impact of the uncertainty in the exact sky locations of the TESS FOVs is that there is no guarantee that any given proposed target will not fall into a gap between sectors, camera CCDs, or camera FOVs. To mitigate this uncertainty, proposers are encouraged to consider target lists that include a number of similar sources distributed across the sky.
 
 * Adjacent TESS observing sectors have overlapping regions near the ecliptic poles, providing longer-term continuous coverage for stars falling in these regions, which in turn provides sensitivity to smaller and longer-period planets. Objects within 12 deg of the ecliptic poles may be observed for ~1 year.
 
@@ -15,4 +15,4 @@ Due to the observing strategy of the TESS mission, GI proposers should be aware 
 
 * Some cameras during some observing sectors cover portions of the Galactic plane and suffer from increased background contamination.
 
-* A primary science target will nominally be observed nearly continuously for 27.4 days in a given TESS observing sector. However, mission requirements only require a minimum of 20 days of observations out of the 27.4 days possible per sector.  This requirement accounts for all sources of observing inefficiency, including repointing for data downlink and interruptions due to the Earth and/or Moon in a camera FOV. 
+* A target will nominally be observed nearly continuously for 27.4 days in a given TESS observing sector. However, mission requirements only require a minimum of 20 days of observations out of the 27.4 days possible per sector.  This requirement accounts for all sources of observing inefficiency, including repointing for data downlink and interruptions due to the Earth and/or Moon in a camera FOV. 
