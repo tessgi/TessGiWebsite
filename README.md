@@ -121,9 +121,10 @@ Note that it may take up to 5-10 minutes for changes to become visible after
 ## Style guide
 We want to maintain a consistent style across the website. Rules include
 1. Titles should be written in sentence case, not title case (i.e. This is a title, not This is a Title)
-1. We refer to ourselves as the TESS Community Science Center, or TESS Comm Sci Center.
+1. We refer to ourselves as the TESS Science Support Center.
 1. We do not use two spaces after a period.
 1. We always use the Oxford comma (i.e. titles are written in sentence case, we use one space after a period, and we use an Oxford comma.)
+1. Always use light curve not light curve
 1. Capitalization: 
     * TESS Guest Investigator program
     * full-frame image
