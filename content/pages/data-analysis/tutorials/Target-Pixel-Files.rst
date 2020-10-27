@@ -755,7 +755,7 @@ telescope.
     NAXIS : 2448  18944
 
 
-Flux & Time
+Flux & time
 -----------
 
 The most interesting data in a *TESS* ``TargetPixelFile`` object are the
@@ -908,7 +908,7 @@ cadence number.
 You can use normal ``numpy`` methods on these arrays to find the mean
 etc!
 
-Understanding the Flux
+Understanding the flux
 ^^^^^^^^^^^^^^^^^^^^^^
 
 When plotting data using the plot() function as we did above, what you

@@ -179,7 +179,7 @@ Specify an aperture array
 -------------------------
 
 We need to define a new aperture array such that our aperture will cover
-our object of interest. In our previous tutorial (XXX) we learn that
+our object of interest. In our [previous tutorial](Aperture-Photometry-Tutorial.html) we learn that
 aperture arrays are boolean, based on this lets make up a new array.
 
 .. code:: ipython3
