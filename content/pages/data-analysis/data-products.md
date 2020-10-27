@@ -32,16 +32,16 @@ To understand more about FFIs and how to use the data please visit [this page](h
 *Schematic of a TESS CCD*
 
 
-### Target pixel files (TPFs)
-The target pixel files are the rawest form of target-specific data that will be available at MAST. For each 2 minute or 20 second cadence target in an observing sector, TESS only acquires the pixels contained within a predefined mask. These pixels are used to create the data found in the light curve files. Each target pixel file packages these pixels as a time series of images in a binary FITS table. The intent of these files is to provide the data necessary to perform photometry on the raw or calibrated data when needed (or desired) to understand (or improve) the automated results of the TESS pipeline.
+### Target Pixel Files (TPFs)
+The Target Pixel Files are the rawest form of target-specific data that will be available at MAST. For each 2 minute or 20 second cadence target in an observing sector, TESS only acquires the pixels contained within a predefined mask. These pixels are used to create the data found in the light curve files. Each target pixel file packages these pixels as a time series of images in a binary FITS table. The intent of these files is to provide the data necessary to perform photometry on the raw or calibrated data when needed (or desired) to understand (or improve) the automated results of the TESS pipeline.
 In the binary table, the pixel values are encoded as images. Each element in the binary table contains the pixels from a single cadence.
 
-A sample image from a TESS mission target pixel file is shown below:
+A sample image from a TESS mission Target Pixel File is shown below:
 
 <br/>
 <img class="img-responsive" style="max-width:67%;" src="images/data/tess_tpf.png">
 <br/>
-*An example of a target pixel file. The pixel column and row number are indicated along with the flux in electrons per second.*
+*An example of a Target Pixel File. The pixel column and row number are indicated along with the flux in electrons per second.*
 
 If a target is observed in more than one sector, multiple TPFs will be created for that target but they may be made available in separate deliveries to the MAST. The images in the TPF will have dimensions equal to the bounding box of the pixels that were collected for that target. Depending on the location of the target on a CCD, a TPF may therefore contain pixels that do not contain stored data. TPFs will have several HDUs: a primary header, a binary table of images header and data, the aperture mask image header and data, and the cosmic ray correction binary table header and data. The aperture mask image provided with each TPF file indicates the pixels that were collected for the target and which of those pixels were used for photometry.
 
@@ -53,8 +53,8 @@ There are two flavors of TPFs,
 * 20 second cadence (Cycle 3 and onward)
 
 
-### [Light curve files](https://imagine.gsfc.nasa.gov/science/toolbox/timing1.html)
-Light curve files contain flux time series data and are produced for each 2 min and 20 second cadenced target (from the TPFs) using simple aperture photometry. These are used to search for transiting planets and other astrophysical phenomena. The flux and uncertainties are provided at each cadence, with NaNs filling in any missing data values. TESS light curves are FITS format files that contain the output of the photometric extraction and subsequent systematics removal (cotrending) performed by the SPOC algorithms. A single light curve file contains the data for one target for on observing sector. Identical to the case for TPFs, if a target was observed in more than one TESS sector, multiple light curve files will be created but they may be made available on the MAST in separate deliveries. Light curve files will also consist of several HDUs: a primary header, the light curve photometry binary table header and data, and the aperture mask image header and data. The aperture mask image provided with each light curve is the same as that provided with the corresponding target TPF file.
+### [Light Curve Files](https://imagine.gsfc.nasa.gov/science/toolbox/timing1.html)
+Light Curve Files contain flux time series data and are produced for each 2 min and 20 second cadenced target (from the TPFs) using Simple Aperture Photometry (SAP). These are used to search for transiting planets and other astrophysical phenomena. The flux and uncertainties are provided at each cadence, with NaNs filling in any missing data values. TESS light curves are FITS format files that contain the output of the photometric extraction and subsequent systematics removal (cotrending) performed by the SPOC algorithms. A single Light Curve File contains the data for one target for on observing sector. Identical to the case for TPFs, if a target was observed in more than one TESS sector, multiple Light Curve Files will be created but they may be made available on the MAST in separate deliveries. Light Curve Files will also consist of several HDUs: a primary header, the light curve photometry binary table header and data, and the aperture mask image header and data. The aperture mask image provided with each light curve is the same as that provided with the corresponding target TPF file.
 
 To learn more about how to use light curve files please visit [this page](https://github.com/spacetelescope/notebooks/blob/master/notebooks/MAST/TESS/beginner_how_to_use_lc/beginner_how_to_use_lc.ipynb).
  
@@ -63,7 +63,7 @@ To learn more about how to use light curve files please visit [this page](https:
 <br/>
 *Photometric data products.*
    
-## Secondary Data Products
+## Secondary data products
 There are several secondary TESS data products, these include the following 
 
 ### Collateral data
@@ -93,6 +93,6 @@ Auxiliary data consists of focal plane characterization files, engineering and t
 Co-trending basis vectors (CBVs) represent the set of systematic trends present in the ensemble flux data. CBVs are provided for each operational sector of the mission. These are derived by the TESS pipeline from a Principle Component Analysis and used to mitigate systematic artifacts within the target light curves. If TESS users see residual systematic problems within their light curve data, the CBVs can be employed in performing a manual photometric correction, more tailored towards the user's science.
 
 
-### Simulated Data
+### Simulated data
 During the development of a space mission, several End-to-End tests are conducted, which include testing the pipeline and the data transfer between different institutions. To do this various data products are simulated, these data can be very useful to the community, and aid potential TESS users in the development of tools and in assessing the feasibility of an investigation. Data for the "End-To-End 6" can be found [here](http://archive.stsci.edu/tess/ete-6.html).
 
