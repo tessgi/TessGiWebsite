@@ -1,4 +1,4 @@
-Title: Guest Investigator Proposals
+Title: Guest Investigator proposals
 Save_as: proposing-investigations.html
 
 [TOC]
@@ -56,7 +56,7 @@ Important information and useful tools for Cycle 4 proposals are highlighted in 
 
   
 
-## Proposal Products
+## Proposal products
 
 * Approximately 600 20 second cadence target slots per sector are available through the GI program. 
 
@@ -64,7 +64,7 @@ Important information and useful tools for Cycle 4 proposals are highlighted in 
 
 * Full-frame images are also available, but with a cadence of 10 minutes.
 
-##Proposal Types
+##Proposal types
 
 There are three categories of TESS GI proposals for Cycle 4; investigators are free to select the category that best reflects their scope of their proposed work.
 
@@ -158,7 +158,7 @@ In accordance with Public Law 113--76, Division B, Title V, Section 532, NASA ca
 
 The PI of a Phase-1 proposal does not need to be the same as the Phase-2 PI for the budget proposal. A Phase-1 PI is not required to be eligible to hold a grant at their institution. This enables junior scientists to PI Phase-1 proposals.
 
-## Target Selection
+## Target selection
 
 Proposals requesting postage stamp targets are required to submit a target list. Targets must be submitted electronically, at the same time as the science proposal, via the [Remote Proposal System (RPS)](https://heasarc.gsfc.nasa.gov/ark/rps/). 
 
@@ -189,7 +189,7 @@ We have provided two example target tables with the format we require.
 * [A sample of stars around Proxima Cen](data/MAST_TIC_Proxima_Cen.csv)
 * [The whole of globular cluster Omega Cen](data/omega_cen_target_table_ex.csv)
 
-###On-source Monitoring Times
+###On-source monitoring times
 The [viewing tool](https://heasarc.gsfc.nasa.gov/cgi-bin/tess/webtess/wtv.py) may be consulted to estimate the duration of visibility of targets to be proposed. 
 
 ### Moving targets
@@ -226,7 +226,7 @@ All proposal materials must be submitted electronically by 4:30 p.m. Eastern tim
 
 NASA uses a single, uniform set of instructions for the submission of ROSES proposals. These instructions are given in the [NASA Guidebook for Proposers](http://www.hq.nasa.gov/office/procurement/nraguidebook/). TESS GI Proposers should follow these instructions, except where they are overridden by the instructions given in the ROSES Summary of Solicitation.
 
-###Specific Instructions for Dual-Anonymous Peer Review Phase-1 Proposals
+###Specific instructions for dual-anonymous peer review Phase-1 proposals
 
 Cycle 4 will have a dual-anonymous peer review. Under this system the reviewers do not have knowledge of the proposal teams while they perform their scientific evaluation of the proposal.
 
@@ -251,7 +251,7 @@ As stated above Cycle 4 will be a dual-anonymous peer review. In order to meet t
 
 NASA recognizes and supports the benefits of having diverse and inclusive scientific, engineering, and technology communities and fully expects that such values will be reflected in the composition of all panels and teams including peer review panels (science, engineering, and technology), proposal teams, science definition teams, and mission and instrument teams.
 
-##Submission and Evaluation of Phase-2 proposals
+##Submission and evaluation of Phase-2 proposals
 Subject to the availability of funding, successful Phase-1 proposers will be contacted by the TESS Program Scientist and invited to submit a budget proposal in Phase-2. Upon notification of selection of a Phase-1 proposal, a proposer must respond as follows:
 
 * Follow the instructions for submitting a Phase-2 proposal given in the selection notification from the Phase-1 review.
