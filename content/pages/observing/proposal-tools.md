@@ -1,4 +1,4 @@
-Title: Proposal and Observation Tools
+Title: Proposal and observation tools
 Save_as: proposal-tools.html
 
 [TOC]
