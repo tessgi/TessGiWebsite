@@ -189,8 +189,9 @@ ay(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]=
   </div>
   <div class="panel-body">
     <ul class="list-group">
-      {% for name, link in MEETINGS %}
+      {% for date, name, link in MEETINGS %}
       <li class="list-group-item">
+	  {{ date }}<br>
           <a href="{{ link }}">
               {{ name }}
           </a>
