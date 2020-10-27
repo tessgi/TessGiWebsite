@@ -1,0 +1,87 @@
+Title: Data Analysis Tools
+Save_as: data-analysis-tools.html
+
+[TOC]
+
+Several tools exist to help the user obtain and examine TESS data, below we outline these tools.
+
+## [lightkurve](https://docs.lightkurve.org)
+Lightkurve is a Python-based package developed by the Kepler/K2 Guest
+Observer (GO) Office for use by the community to work with Kepler and K2 data. The TESS GI Office has partnered with the Kepler/K2 GO Office to develop lightkurve for use with TESS data. 
+
+Lighkurve functionality:
+
+* Reading, writing, and interacting with pipeline products (TPFs, LightCurve files, etc) 
+* Extracting lightcurves from pixels using custom aperture photometry or custom PSF fitting. 
+* Removing trends or correcting systematics using widely-used, non-controversial methods (SavGol, CBVs, SFF, ...)
+
+The lightkurve git repository is [here](https://github.com/KeplerGO/lightkurve).
+
+Below we list tutorials that will help first time users get to grips with using python, Lightkurve, and understading TESS data products.
+
+
+###
+<table class="table table-striped table-hover" style="max-width:55em;">
+
+<tr>
+    <td style="width: 15em;">
+    <a href='Target-Pixel-File-Tutorial.html'>Target Pixel File Tutorial</a></td>
+    <td><a href="docs/tutorials/Target-Pixel-File-Tutorial.ipynb" download>Download</a></td>
+    <td>In this tutorial we learn about how to download TESS target pixel files from the archive, plot the data, access the metadata, and understand their properties and units.</td>
+  </tr>
+
+<tr>
+    <td style="width: 15em;">
+    <a href='Full-Frame-Image-Tutorial.html'>Full Frame Image Tutorial</a></td>
+    <td><a href="docs/tutorials/Full-Frame-Image-Tutorial.ipynb" download>Download</a></td>
+    <td>In this tutorial, we will learn how to use Lightkurve to download TESS Full Frame Images (FFIs) from the archive, cut out specific targets, plot the data, access the metadata, and understand their properties and units.</td>
+  </tr>
+
+<tr>
+    <td style="width: 15em;">
+    <a href='LightCurve-object-Tutorial.html'>LightCurve Object Tutorial</a></td>
+    <td><a href="docs/tutorials/LightCurve-object-Tutorial.ipynb" download>Download</a></td>
+    <td> In this tutorial, we will learn how to use Lightkurve to create LightCurve objects using Simple Aperture Photometry, and plot up the resulting data.</td>
+  </tr>
+
+<tr>
+    <td style="width: 15em;">
+    <a href='LightCurveFile-Object-Tutorial.html'>LightCurveFile Object Tutorial</a></td>
+    <td><a href="docs/tutorials/LightCurveFile-Object-Tutorial.ipynb" download>Download</a></td>
+    <td>Here we look at LightCurveFiles. Rather than being generated a Target Pixel File, these files have been pre-generated using NASA's TESS Data Processing Pipeline.</td>
+  </tr>
+
+<tr>
+    <td style="width: 15em;">
+    <a href='Aperture-Photometry-Tutorial.html'>Aperture Photometry Tutorial</a></td>
+    <td><a href="docs/tutorials/Aperture-Photometry-Tutorial.ipynb" download>Download</a></td>
+    <td>Aperture Photometry can be applied to TESS Target Pixel files in order to obtain light curves for an object of interest.</td>
+  </tr>
+
+<tr>
+    <td style="width: 15em;">
+    <a href='Making-Custom-Apertures-Tutorial.html'>Making Custom Apertures Tutorial</a></td>
+    <td><a href="docs/tutorials/Making-Custom-Apertures-Tutorial.ipynb" download>Download</a></td>
+    <td>There are some cases where you might want to produce your own aperture, this tutorial shows you how.</td> 
+  </tr>
+ 
+<tr>
+    <td style="width: 15em;">
+    <a href='Visual-inspection-Tutorial.html'>Visual Inspection Tutorial</a></td>
+    <td><a href="docs/tutorials/Visual-inspection-Tutorial.ipynb" download>Download</a></td>
+    <td>In this tutorial we learn how to interactively inspect our object of interest.</td>
+  </tr>
+
+</table>
+
+In addition to the tutorials listed above, there are several other tutorials that can be found [here](https://docs.lightkurve.org/tutorials/index.html). These are more advanced, TESS specific tutorials.
+
+
+## Tutorials
+
+Several tutorials exist to introduce the general user to TESS data
+analysis.
+
+* [Data search tutorials from MAST can be found here](https://outerspace.stsci.edu/display/TESS/6.0+-+Data+Search+Tutorials).
+* [Python notebooks from MAST can be found here](https://github.com/spacetelescope/notebooks/tree/master/notebooks/MAST/TESS).
+* [Python notebooks from the Kepler/K2 GO Office can be found here](http://docs.lightkurve.org/).
