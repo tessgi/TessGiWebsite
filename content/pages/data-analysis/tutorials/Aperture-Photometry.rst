@@ -19,7 +19,7 @@ pipeline or how to examine them.
 
 In this proposal we will cover the following, - How apertures are
 defined. - How can we examine a pre-defined aperture. - How we can
-define and modify an aperture and recover the lightcurve.
+define and modify an aperture and recover the light curve.
 
 SPOC Apertures
 --------------
@@ -57,7 +57,7 @@ Defining Terms
 -  Target Pixel File (TPF): A file containing the original CCD pixel
    observations from which light curves are extracted.
 
--  LightCurve Object: Obtained from a TPF and contains lightcurve
+-  LightCurve Object: Obtained from a TPF and contains light curve
    information derived using simple aperture photometry.
 
 -  LightCurveFile Object: Obtained from MAST and contains both SAP flux
@@ -308,7 +308,7 @@ within boolean arrays, based on this lets make up a new array.
 
 
 OK great, it looks like we have covered our object,but not included too
-much background. Lets now make this into a lightcurve.
+much background. Lets now make this into a light curve.
 
 .. code:: ipython3
 
@@ -349,11 +349,11 @@ much background. Lets now make this into a lightcurve.
 
 
 
-Compare Data & Lightcurves
+Compare Data & Light curves
 --------------------------
 
-We have now created lightcurve objects using both the SPOC pre-defined
-aperture and a mask of our own devising. Lets plot these lightcurves up
+We have now created light curve objects using both the SPOC pre-defined
+aperture and a mask of our own devising. Lets plot these light curves up
 and examine the difference.
 
 .. code:: ipython3
@@ -374,7 +374,7 @@ and examine the difference.
 .. image:: images/Aperture-Photometry_files/Aperture-Photometry_30_0.png
 
 
-As you can see the lightcurves from the two apertures look very
+As you can see the light curves from the two apertures look very
 different. It looks as if the aperture we have defined manually may have
 less background or contaminating flux from scattered than the SPOC
 aperture. We will learn more about contamination in our `next
