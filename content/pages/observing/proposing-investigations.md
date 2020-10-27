@@ -9,11 +9,52 @@ The next opportunity is TESS Cycle 4, which begins observations in June 2021 and
 
 There is no exclusive-use data rights to observations collected by TESS. All data is made available through the [MAST public archive](http://archive.stsci.edu/tess/summary.html) once data processing and validation is complete.
 
-The Cycle 4 solicitation can be found [on NSPIRES](https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId={4B9CAAB3-D398-183A-B1F3-EF963DF415C7}&path=open). Cycle 4 is longer than a typical cycle and lasting approximately 15 months.
+Important information and useful tools for Cycle 4 proposals are hilighted in the table below.
 
-Beginning in Cycle 4, all Phase-1 proposals submitted to the TESS GI program will be evaluated following a dual-anonymous peer review process.
+###
+<table class="table table-striped table-hover" style="max-width:55em;">
 
-**Proposal will be due at 4.30pm on January 22, 2021**.
+  <tr>
+    <td style="width: 15em;">
+     The  Cycle 4 solicitation is now avalibe on [NSPIRES](https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId={4B9CAAB3-D398-183A-B1F3-EF963DF415C7}&path=open).</td>
+  </tr>
+
+
+  <tr>
+    <td style="width: 15em;">
+     **The Cycle 4 proposal deadline is 4.30pm on January 22, 2021** </td>
+  </tr>
+
+
+  <tr>
+    <td style="width: 15em;">
+    Cycle 4 is longer than a typical cycle and will last approximately 15 months </td>
+  </tr>
+
+
+  <tr>
+    <td style="width: 15em;">
+     Starting Cycle 4, all Phase-1 proposals submitted to the TESS GI program will be evaluated following a dual-anonymous peer review process </td>
+  </tr>
+
+  <tr>
+    <td style="width: 15em;">
+     Cycle 4 proposal templates are being created and when finailzed will be found on our [proposal templates page](proposal-templates.html)  </td>
+  </tr>
+
+  <tr>
+    <td style="width: 15em;">
+     The Web TESS Viewing (WTV) tool which allows users to check whether a target potentially falls within the TESS field of view, is currently being updated for Cycle 4, and can be found [here](https://heasarc.gsfc.nasa.gov/cgi-bin/tess/webtess/wtv.py) </td>
+  </tr>
+
+ <tr>
+    <td style="width: 15em;">
+     Other useful tools for the planing of observations and the creation of a Phase-1 can be found on our [proposal tools page](proposal-tools.html) </td>
+  </tr>
+
+</table>
+
+  
 
 ## Proposal Products
 
@@ -141,7 +182,7 @@ additional columns that should be included if necessary are
 
 If a proposed target does not appear in the TIC, the information required to append the target to the TIC must be provided.
 
-Additional proposal tools can  be found on our [data access page](data-access.html) with proposal tips provided [here](proposal-tips.html). We encourage users to follow [this custom tutorial](https://archive.stsci.edu/tess/tutorials/goddard_format.html) provided by the MAST.
+Additional tools can  be found on our [proposal tool](proposal-tools.html) and  [data access](data-access.html) pages. We encourage users to follow [this custom tutorial](https://archive.stsci.edu/tess/tutorials/goddard_format.html) provided by the MAST.
 
 We have provided two example target tables with the format we require.
 
