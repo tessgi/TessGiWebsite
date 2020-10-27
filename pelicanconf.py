@@ -110,8 +110,8 @@ MENUITEMS = (
         ),
         ('Tools', (
             ('Proposal & Observation Tools', 'proposal-tools.html'),
-            ('Data analysis Tools', 'tools2.html'),
-            ('Community Tools', 'tools3.html'),
+            ('Data analysis Tools', 'data-analysis-tools.html'),
+            ('Community Tools', 'community-tools.html'),
                   )
         ),
         ('Proposing', (
