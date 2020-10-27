@@ -5,7 +5,7 @@ Target Pixel Files
 Understanding TargetPixelFile objects
 =====================================
 
-Learning Goals
+Learning goals
 --------------
 
 In this tutorial we will learn the following, - What a TESS Target Pixel
@@ -64,7 +64,7 @@ plotting.
     import lightkurve as lk
     import matplotlib.pyplot as plt
 
-Defining Terms
+Defining terms
 --------------
 
 -  Target Pixel File (TPF): A file containing the original CCD pixel
@@ -75,7 +75,7 @@ Defining Terms
 -  Sector: One of TESS’s 28 (to date) observing periods, approximately
    ~27 days in duration.
 
-Downloading Data
+Downloading data
 ----------------
 
 The TPFs of stars observed by the *TESS* mission are stored on the

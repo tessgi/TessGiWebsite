@@ -2,17 +2,17 @@ Visual inspection
 #################
 :save_as: Visual-inspection-Tutorial.html
 
-Visual Inspection of an Object
+Visual inspection of an object
 ==============================
 
-In the `Aperture Photometry tutorial <Aperture-Photometry.html>`__ we
+In the `Aperture Photometry tutorial <Aperture-Photometry-Tutorial.html>`__ we
 learned how to make our own apertures and ensure that they covered the
 right object. Now we need to understand how to interpret and examine our
 lightcurves.
 
 In this tutorial we learn the following, - How to interactively inspect
 our object of interest using the *Lightcurve* interact tool. - What
-features in a lightcurve may be caused by certain anomalies or by
+features in a light curve may be caused by certain anomalies or by
 contamination from another star. - How to create and store aperture
 arrays via an interactive tool.
 
@@ -31,13 +31,13 @@ This tutorial requires: - `Lightkurve <https://docs.lightkurve.org>`__ -
     import matplotlib.pyplot as plt
     import numpy as np
 
-Defining Terms
+Defining terms
 --------------
 
 -  Target Pixel File (TPF): A file containing the original CCD pixel
    observations from which light curves are extracted.
 
--  LightCurve Object: Obtained from a TPF and contains lightcurve
+-  LightCurve Object: Obtained from a TPF and contains light curve
    information derived using simple aperture photometry.
 
 -  LightCurveFile Object: Obtained from MAST and contains both SAP flux
@@ -103,12 +103,12 @@ the data for sector 8, and cut out a region of 10 x 10 pixels.
 
 
 
-Plot and Inspect the Data
+Plot and inspect the data
 -------------------------
 
 FFI cut outs do not have a SPOC defined *optimal* apertures, we must
 therefore define our own as in the previous `Aperture Photometry
-Tutorial <Aperture-Photometry.html>`__. We can define our mask initially
+Tutorial <Aperture-Photometry-Tutorial.html>`__. We can define our mask initially
 using a threshold cut as shown below.
 
 .. code:: ipython3
@@ -144,7 +144,7 @@ was covered. We have to correct this by specifying a mask array.
 
 
 OK phew! Our object is now covered by the aperture. Lets take a look at
-the lightcurve data using this aperture.
+the light curve data using this aperture.
 
 .. code:: ipython3
 
@@ -211,10 +211,10 @@ Lets use this tool and see what happens.
     </script>
 
 
-Above you will see a lightcurve plot to the left, and a TPF postage
+Above you will see a light curve plot to the left, and a TPF postage
 stamp to the right.
 
-In the lightcurve plot you can move the large bottom left slider to
+In the light curve plot you can move the large bottom left slider to
 change the location of the vertical red bar, which indicates which
 cadence is being shown in the TPF postage stamp image.
 
@@ -249,10 +249,10 @@ Lets move the cadence slider to a the peak flux date, so somewhere
 around 1435 days. If you do this you see that the entire TPF becomes
 completely yellow indicating saturation! What could be causing this?
 
-Scattered Light
+Scattered light
 ~~~~~~~~~~~~~~~
 
-Given the repetative nature of the lightcurve and the saturation
+Given the repetative nature of the light curve and the saturation
 observed upon inspection it is likely that this issue is caused by
 scattered light. Each camera has a lens hood to reduce the scattered
 light from the Earth and the Moon. Due to TESS’s wide field of view and
@@ -291,10 +291,10 @@ several different modes that you can access,
 
 Interaction modes:
 
--  Clicking on a single pixel shows the time-series lightcurve of that
+-  Clicking on a single pixel shows the time-series light curve of that
    pixel alone.
 
--  Shift-clicking on multiple pixels shows the lightcurve using that
+-  Shift-clicking on multiple pixels shows the light curve using that
    pixel mask.
 
 -  Shift-clicking on an already-selected pixel will de-select that
@@ -309,9 +309,9 @@ Interaction modes:
    dragging in the middle.
 
 -  The cadence slider updates the postage stamp image at the position of
-   the vertical red bar in the lightcurve.
+   the vertical red bar in the light curve.
 
--  Clicking on a position in the lightcurve automatically seeks to that
+-  Clicking on a position in the light curve automatically seeks to that
    Cadence Number.
 
 -  The left and right arrows can be clicked to increment the cadence
@@ -321,12 +321,12 @@ One of the most useful applications of the interact tool is the ability
 to select pixels that make up your aperture. You can do this via
 shift-clicking on multiple pixels until you have created your pixel
 mask. Once satisfied you can then save your aperture and subsequent
-lightcurve as fits file by clicking the green ``save lightcurve``
+light curve as fits file by clicking the green ``save lightcurve``
 button.
 
 A limitation to *Lightkurve* is that each TPF is inspected one at a
 time, this can be difficult when you want to create multiple custom
-apertures and obtain a lightcurve over many sectors for a given object.
+apertures and obtain a light curve over many sectors for a given object.
 A work around to this is described below.
 
 An alternative aperture selection tool
@@ -483,6 +483,4 @@ look at the flux in that aperture and plot up its light curve.
 
 We have now demonstrated how to interactively inspect TPF files and
 select apertures in multiple ways. We have learned about scattered light
-and how it can dominate a light curve. In our `next
-tutorial <Removing-Scattered-light.html>`__ we will learn how to remove
-such sources of noise that might affect our lightcurve.
+and how it can dominate a light curve.

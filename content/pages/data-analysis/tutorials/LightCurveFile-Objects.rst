@@ -2,16 +2,16 @@ LightCurveFile Objects
 ######################
 :save_as: LightCurveFile-Object-Tutorial.html
 
-Understanding LightCurveFile Objects
+Understanding LightCurveFile objects
 ====================================
 
-Learning Goals
+Learning goals
 --------------
 
-In our `LightCurve Object tutorial <LightCurve-objects.html>`__ we
-looked at how to obtain an object of interests lightcurve from its
+In our `LightCurve object tutorial <LightCurve-object-Tutorial.html>`__ we
+looked at how to obtain an object of interests light curve from its
 ``TargetPixelFile`` (TPF; see our `TargetPixelFile
-tutorial <Target-Pixel-Files.html>`__) using Simple Aperture Photometry
+tutorial <Target-Pixel-File-Tutorial.html>`__) using Simple Aperture Photometry
 (SAP).
 
 In this tutorial we will demonstrate the difference between a
@@ -21,7 +21,7 @@ and a
 and will cover the following, - What is a ``LightCurveFile``. - What is
 Pre-search Data Conditioning SAP flux (PSDCSAP). - How can we examine
 its ``metadata``. - How we use it to create and examine an objects
-lightcurve.
+light curve.
 
 What is a LightCurveFile object?
 --------------------------------
@@ -38,8 +38,8 @@ What is Pre-search Data Conditioning SAP flux?
 ``TESSLightCurveFile`` objects have some level of processing (more
 details `here <https://arxiv.org/pdf/1207.3093.pdf>`__) and allow you to
 access the two kinds of flux; the Simple Aperture Photometry flux (SAP)
-flux as discussed in the `LightCurve Objects
-tutorial <LightCurve-objects.html>`__, and the Pre-search Data
+flux as discussed in the `LightCurve object
+tutorial <LightCurve-object-Tutorial.html>`__, and the Pre-search Data
 Conditioning SAP flux (PDCSAP) flux. With PDCSAP flux long term trends
 have been removed from the data using so-called Co-trending Basis
 Vectors (CBVs). PDCSAP flux is usually cleaner data than the SAP flux
@@ -55,13 +55,13 @@ This tutorial requires that you import lightkurve
     %matplotlib inline 
     import lightkurve as lk
 
-Defining Terms
+Defining terms
 --------------
 
 -  Target Pixel File (TPF): A file containing the original CCD pixel
    observations from which light curves are extracted.
 
--  LightCurve Object: Obtained from a TPF and contains lightcurve
+-  LightCurve Object: Obtained from a TPF and contains light curve
    information derived using simple aperture photometry.
 
 -  LightCurveFile Object: Obtained from MAST and contains both SAP flux
@@ -80,7 +80,7 @@ Defining Terms
    Basis Vectors (CBVs). PDCSAP flux is usually cleaner data than the
    SAP flux and will have fewer systematic trends.
 
-Downloading the Data
+Downloading the data
 --------------------
 
 We can read in a light curve file from the TESS mission using
@@ -200,10 +200,10 @@ all of them by calling the object by itself:
 Note that unlike the table generated via a ``LightCurve Object``, this
 table contains the SAP flux and PDCSAP flux!
 
-Plotting the lightcurve
+Plotting the light curve
 -----------------------
 
-Lets now plot the lightcurve up for the object.
+Lets now plot the light curve up for the object.
 
 .. code:: ipython3
 
@@ -214,7 +214,7 @@ Lets now plot the lightcurve up for the object.
 .. image:: images/LightCurveFile-Objects_files/LightCurveFile-Objects_17_0.png
 
 
-SAP and PDCSAP lightcurves
+SAP and PDCSAP light curves
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 By default, a
@@ -297,7 +297,7 @@ example, we can set the title as follow:
 
 
 Now lets fold and bin our data to look at the transit as we did in the
-`LightCurve Object tutorial <LightCurve-object.html>`__. Remember the
+`LightCurve object tutorial <LightCurve-object-Tutorial.html>`__. Remember the
 ``lcf.flux`` default is the PDCSAP flux this time!
 
 .. code:: ipython3

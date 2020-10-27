@@ -2,13 +2,13 @@ LightCurve objects
 ##################
 :save_as: LightCurve-object-Tutorial.html
 
-Understanding LightCurve Objects
+Understanding LightCurve objects
 ================================
 
-Learning Goals
+Learning goals
 --------------
 
-In our `TargetPixelFile tutorial <Target-Pixel-Files.html>`__ we
+In our `TargetPixelFile tutorial <Target-Pixel-File-Tutorial.html>`__ we
 learned, how to obtain data files for our objects of interest and how to
 examine the ``metadata`` stored in the headers.
 
@@ -50,13 +50,13 @@ This tutorial requires that you import *Lightkurve*.
     %matplotlib inline 
     import lightkurve as lk
 
-Defining Terms
+Defining terms
 --------------
 
 -  Target Pixel File (TPF): A file containing the original CCD pixel
    observations from which light curves are extracted.
 
--  LightCurve Object: Obtained from a TPF and contains lightcurve
+-  LightCurve Object: Obtained from a TPF and contains light curve
    information derived using simple aperture photometry.
 
 -  Cadence: The rate at which TESS photometric observations are stored.
@@ -120,7 +120,7 @@ first sector, sector 2 and download that.
 
 
 
-Creating and analizing the LightCurve Object
+Creating and analizing the LightCurve object
 --------------------------------------------
 
 Great we now have our TPF! Lets convert this TPF into a
@@ -175,9 +175,9 @@ pipeline aperture, which sums all the pixels in its defined mask.
 We’ve built a new ``TESSLightCurve`` object called ``lc``. Note although
 we used the SPOC aperture mask you can pass your own aperture,
 (specified by a boolean ``numpy`` array) as seen in the `Making Custom
-Apertures tutorial <Making-Custom-Apertures.html>`__.
+Apertures tutorial <Making-Custom-Apertures-Tutorial.html>`__.
 
-The above table displays all the lightcurve data.
+The above table displays all the light curve data.
 
 Metadata
 --------
@@ -199,7 +199,7 @@ As with a TPF you can access the meta data very simply.
 
 
 Of course you still have access to time and flux attributes. In a
-lightcurve, there is only one flux point for every cadence.
+light curve, there is only one flux point for every cadence.
 
 .. code:: ipython3
 
@@ -220,7 +220,7 @@ lightcurve, there is only one flux point for every cadence.
 You can also check the Combined Differential Photometric Precision
 (CDPP) RMS per transit duration noise metric (see `Gilliland et al.,
 2011 <https://iopscience.iop.org/article/10.1088/0067-0049/197/1/6/pdf>`__
-for more details) of the lightcurve using the built in method
+for more details) of the light curve using the built in method
 `estimate_cdpp <https://docs.lightkurve.org/api/lightkurve.lightcurve.FoldedLightCurve.html#lightkurve.lightcurve.FoldedLightCurve.estimate_cdpp>`__:
 
 .. code:: ipython3
@@ -239,7 +239,7 @@ for more details) of the lightcurve using the built in method
 The above is the Savitzky-Golay CDPP noise metric in units
 parts-per-million (ppm)
 
-Plotting the lightcurve
+Plotting the light curve
 -----------------------
 
 We can now use the built in ``plot`` function on the ``TESSLightCurve``

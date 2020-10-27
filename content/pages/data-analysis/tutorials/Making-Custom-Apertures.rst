@@ -6,10 +6,10 @@ Making Custom Apertures
 How to perform aperture photometry with custom apertures
 ========================================================
 
-Learning Goals
+Learning goals
 --------------
 
-We have discussed in `previous tutorials <XX>`__ how Simple Aperture
+We have discussed in the `previous tutorial <Aperture-Photometry-Tutorial.html>`__ how Simple Aperture
 Photometry works (SAP). A set of pixels in the image are chosen and we
 sum those to produce a single flux value. We sum the same pre-selected
 pixels for every image at each time slice to produce a light curve.
@@ -175,7 +175,7 @@ was covered, not our object. We have to correct this. We can do this K
 it looks like our object is covered nicely by the aperture, lets see
 what the light curve looks like!
 
-Specify an Aperture Array
+Specify an aperture array
 -------------------------
 
 We need to define a new aperture array such that our aperture will cover
@@ -201,7 +201,7 @@ aperture arrays are boolean, based on this lets make up a new array.
 .. image:: images/Making-Custom-Apertures_files/Making-Custom-Apertures_20_1.png
 
 
-Ok that is much better. Lets take a look at the lightcurve data using
+Ok that is much better. Lets take a look at the light curve data using
 this aperture.
 
 .. code:: ipython3
@@ -239,7 +239,7 @@ this aperture.
     Length = 963 rows
 
 
-Great! Now lets plot this lightcurve.
+Great! Now lets plot this light curve.
 
 .. code:: ipython3
 
@@ -269,4 +269,4 @@ we are seeing.
 What about the two bright peaks though, this is unlikely from our object
 of interest. It might be useful to visually inspect these cadences to
 better understand what is happening. We can learn how to do this in the
-`next tutorial! <Visual-inspection.h>`__
+`next tutorial! <Visual-inspection-Tutorial.html>`__

@@ -5,7 +5,7 @@ Full Frame Images
 Understanding Full Frame Images
 ===============================
 
-Learning Goals
+Learning goals
 --------------
 
 In this tutorial we will learn the following, - What a TESS Full Frame
@@ -44,7 +44,7 @@ Cosmic Ray Mitigated (CRM) FFIs are the same as FFIs except they will
 are collected with the on-board cosmic ray mitigation enabled.
 
 Sometimes an object of interest isn’t in a TPF (see the `TPF
-tutorial <Target-Pixel-Files.html>`__) but is in an FFI and as such the
+tutorial <Target-Pixel-File-Tutorial.html>`__) but is in an FFI and as such the
 user may wish to create a cut out of the object in this FFI and work
 with this object only.
 
@@ -60,7 +60,7 @@ This tutorial requires that you import *Lightkurve* only.
     %matplotlib inline 
     import lightkurve as lk
 
-Defining Terms
+Defining terms
 --------------
 
 -  Target Pixel File (TPF): A file containing the original CCD pixel
@@ -74,7 +74,7 @@ Defining Terms
 -  Sector: One of TESS’s 27 (to date) observing periods, approximately
    ~27 days in duration.
 
-Downloading Data
+Downloading data
 ----------------
 
 The *TESS* FFIs are stored on the `Mikulksi Archive for Space
@@ -127,7 +127,7 @@ The default is a meager 5 × 5 square. Let’s go with 10 pixels square.
 The above code has created a variable named ``tpfs_s4`` which is a
 Python object of type ``TessTargetPixelFile`` This can then be treated
 and examined the same way as in the previous `Target Pixel File
-tutorial <Target-Pixel-Files.html>`__, for example lets plot the object.
+tutorial <Target-Pixel-File-Tutorial.html>`__, for example lets plot the object.
 
 .. code:: ipython3
 
@@ -141,7 +141,7 @@ tutorial <Target-Pixel-Files.html>`__, for example lets plot the object.
 
 Great we now see our object of interest and the surrounding region. As
 indicated in the previous `Target Pixel File
-tutorial <Target-Pixel-Files.html>`__, we can examine the header of this
+tutorial <Target-Pixel-File-Tutorial.html>`__, we can examine the header of this
 file via,
 
 .. code:: ipython3

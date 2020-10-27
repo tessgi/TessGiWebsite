@@ -2,15 +2,15 @@ Aperture Photometry
 ###################
 :save_as: Aperture-Photometry-Tutorial.html
 
-Understanding Aperture Photometry & Making Custom Apertures.
+Understanding aperture photometry & making custom apertures.
 ============================================================
 
-Learning Goals
+Learning goals
 --------------
 
 In our previous tutorials (`LightCurve
-Objects <LightCurve-objects.html>`__ and `LightCurveFile
-Objects <LightCurveFile-Objects.html>`__) we learned about aperture
+object <LightCurve-object-Tutorial.html>`__ and `LightCurveFile
+object <LightCurveFile-Object-Tutorial.html>`__) we learned about aperture
 photometry and the Simple Aperture Photometry (SAP) and Pre-search Data
 Conditioning SAP (PDCSAP) flux.
 
@@ -21,7 +21,7 @@ In this proposal we will cover the following, - How apertures are
 defined. - How can we examine a pre-defined aperture. - How we can
 define and modify an aperture and recover the light curve.
 
-SPOC Apertures
+SPOC apertures
 --------------
 
 In aperture photometry A set of pixels in the image are chosen and we
@@ -51,7 +51,7 @@ Imports
 This tutorial requires: - `Lightkurve <https://docs.lightkurve.org>`__ -
 `Matplotlib <https://matplotlib.org/>`__ - `numpy <https://numpy.org>`__
 
-Defining Terms
+Defining terms
 --------------
 
 -  Target Pixel File (TPF): A file containing the original CCD pixel
@@ -83,7 +83,7 @@ Defining Terms
     import lightkurve as lk
     import matplotlib.pyplot as plt
 
-Downloading the Data
+Downloading the data
 --------------------
 
 For this tutorial lets use the `L 98-59
@@ -281,7 +281,7 @@ We see that this is slightly different to the *optimal* aperture
 previously defined. It also looks like there might be too many
 background pixels included. Lets see if we can adjust this.
 
-Specify an Aperture Array
+Specify an aperture array
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 We need to define a new aperture array such that our aperture will cover
@@ -349,7 +349,7 @@ much background. Lets now make this into a light curve.
 
 
 
-Compare Data & Light curves
+Compare data & light curves
 --------------------------
 
 We have now created light curve objects using both the SPOC pre-defined
@@ -378,4 +378,4 @@ As you can see the light curves from the two apertures look very
 different. It looks as if the aperture we have defined manually may have
 less background or contaminating flux from scattered than the SPOC
 aperture. We will learn more about contamination in our `next
-tutorial <Visual-inspection.html>`__.
+tutorial <Visual-inspection-Tutorial.html>`__.
