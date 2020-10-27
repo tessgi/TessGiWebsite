@@ -1,7 +1,7 @@
 Title: TESS Helpdesk
 Save_as: helpdesk.html
 
-### TESS Science Support Center Team
+### TESS Science Support Center team
 
 The Guest Investigator (GI) office is part of the TESS Science Support Center at GSFC, and helps the community to access and analyze data collected within the mission. The GI office is also responsible for running the $3M annual GI proposal competition.
 
