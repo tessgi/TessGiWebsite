@@ -22,7 +22,7 @@ The nominal perigee and apogee of of the elliptical orbit are 17 Earth radii and
 
 At the  TESS  orbit perigee (varies between 12-20 Earth radii), science operations are interrupted for no more than 16 h to point TESS's antenna toward Earth, downlink data, and resume observing. This timeframe includes the nominal 4-h period for Ka-band science data downlink using NASA's Deep Space Network (DSN). TESS will also use its hydrazine thrusters to unload angular momentum built up from solar photon pressure at perigee and throughout the orbit.
 
-## Science Operations
+## Science operations
 
 TESS began regular science operations on July 25, 2018. In the 2-year [prime mission](primary.html), TESS monitored over 200,000 main-sequence dwarf stars with four wide-field optical CCD cameras to detect periodic drops in brightness caused by planetary transits. Photometry of these pre-selected targets is recorded every 2 minutes. TESS also obtains full-frame images (FFIs) of the entire, four camera field-of-view (24 x 96 degrees) at a cadence of 30 minutes to facilitate additional science, see the [data products page](data-products.html) 
 
@@ -44,7 +44,7 @@ The TESS Mission is designed to survey over 85% of the sky (an area of sky 400 t
 *The TESS Mission will discover new Earths and super-Earths in the solar neighborhood. Image Credit: NASA*
 <br/>
 
-## TESS Mission Organization
+## TESS mission organization
 
 The TESS Mission is led by the [Massachusetts Institute of Technology](https://tess.mit.edu) (MIT), which is responsible for the overall direction of the mission. The TESS Science Office (TSO) is a partnership between MIT's Physics Department and Kavli Institute for Astrophysics and Space Research and the Smithsonian Astrophysical Observatory. The TESS Science Office analyzes the science data and organizes the co-investigators, collaborators, and working groups. The MIT Lincoln Laboratory led the science camera development and construction. 
 
@@ -57,7 +57,7 @@ The data are processed by the Science Processing Operations Center (SPOC) at [NA
 All TESS raw and processed data are made publicly available through the Mikulski Archive for Space Telescopes (MAST), operated by the Space Telescope Science Institute (STScI), see our [data access page](data-access.html) for more information.  
 
 
-## TESS Guest Investigator Program
+## TESS Guest Investigator program
 
 The TESS Mission has a robust [Guest Investigator Program](proposing-investigations.html) (GI program) that is managed by the TESS Science Support Center at NASA Goddard Space Flight Center. Under the GI program, the astrophysics community may propose new 2 minute and 20 second cadence targets and investigations using the FFI data. TESS GI calls for proposals occur once per year and are announced within the NASA ROSES solicitation. About 200,000 targets will be available for each GI program cycle during the extended mission.
 
