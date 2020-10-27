@@ -164,12 +164,12 @@ IMPORTANT_DATES = (
             # ('<b>5 July 2020</b>',
             #  'Cycle 3 observations begin',
             #  'status.html',), # link to a news item?
-            ('<b>13 January 2020</b>',
-             'AAS special session: Atmospheric characterization of TESS exoplanets',
-             'https://aas.org/meetings/aas237',),
-            ('<b>14 January 2020</b>',
-             'AAS special session: Mining TESS data with machine learning and other advanced methods',
-             'https://aas.org/meetings/aas237',),
+            #('<b>13 January 2020</b>',
+            # 'AAS special session: Atmospheric characterization of TESS exoplanets',
+            # 'https://aas.org/meetings/aas237',),
+            #('<b>14 January 2020</b>',
+            # 'AAS special session: Mining TESS data with machine learning and other advanced methods',
+            # 'https://aas.org/meetings/aas237',),
             ('<b>22 January 2020</b>',
              'Cycle 4 proposals due',
              'proposing_investigations.html',), # link to a news item?
@@ -179,7 +179,14 @@ IMPORTANT_DATES = (
          )
 
 # Defines the "meetings" box on the front page
-#MEETINGS = (
+MEETINGS = (
+           ('<b>13 January 2020</b>',
+             'AAS special session: Atmospheric characterization of TESS exoplanets',
+             'https://aas.org/meetings/aas237',),
+            ('<b>14 January 2020</b>',
+             'AAS special session: Mining TESS data with machine learning and other advanced methods',
+             'https://aas.org/meetings/aas237',),
+            )
 #             # ('<b>4–8 Jun 2017</b><br>'
 #             #  'AAS 230th Meeting',
 #             #  'tess-community-science-center-team-at-aas-230.html'),
