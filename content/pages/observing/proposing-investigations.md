@@ -16,7 +16,7 @@ Important information and useful tools for Cycle 4 proposals are highlighted in 
 
   <tr>
     <td style="width: 15em;">
-     The  Cycle 4 solicitation is now available on [NSPIRES](https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId={4B9CAAB3-D398-183A-B1F3-EF963DF415C7}&path=open).</td>
+     The  Cycle 4 solicitation is now available on <a href="https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId={4B9CAAB3-D398-183A-B1F3-EF963DF415C7}&path=open)">NSPIRES</a>.</td>
   </tr>
 
 
