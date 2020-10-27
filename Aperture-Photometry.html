@@ -1,0 +1,514 @@
+<!DOCTYPE html>
+<!--
+Crafted with ♥ by Geert Barentsen, Thomas Barclay & Knicole colon at NASA Ames
+in August 2015, using pelican-bootstrap and flatly.
+-->
+<html lang="en"
+>
+
+<head>
+    <title>Aperture Photometry - TESS Science Support Center</title>
+    <!-- Using the latest rendering mode for IE -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!--Custom meta data-->
+
+    <meta name="dc.title" content="NASA - TESS Science Support Center" />
+    <meta name="dc.format" content="text/html" />
+    <meta name="dc.date.modified" content="2020-10-26" />
+    <meta name="dc.language" content="en" />
+    <meta name="dc.description" content="Resources and Information for Users of TESS Data" />
+    <meta name="dc.identifier" content="https://heasarc.gsfc.nasa.gov/docs/tess/" />
+    <meta name="dc.audience" content="Astronomers, Astrophysicists, Scientists, Researchers" />
+    <meta name="dc.subject.discipline" content="Astrophysics, Astronomy" />
+    <meta name="orgcode" content="667">
+    <meta name="rno" content="Thomas.Barclay">
+    <meta name="content-owner" content="Thomas.Barclay">
+    <meta name="webmaster" content="Thomas.Barclay">
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:description" content="Transiting Exoplanet Survey Satellite is a NASA Mission to Study Stars, Planets and Galaxies." />
+    <meta name="twitter:title" content="NASA - TESS Science Support Center" />
+    <meta name="twitter:site" content="@NASA_TESS" />
+    <meta name="twitter:creator" content="@NASA_TESS" />
+    <meta name="twitter:image" content="https://heasarc.gsfc.nasa.gov/docs/tess/images/logo-for-twitter.jpeg" />
+
+
+    <link href="./images/favicon.png" rel="icon">
+
+<link rel="canonical" href="./pages/aperture-photometry.html">
+
+        <meta name="author" content="Thomas Barclay" />
+        <meta name="description" content="Understanding Aperture Photometry &amp; Making Custom Apertures. Learning Goals In our previous tutorials (LightCurve Objects and LightCurveFile Objects) we learned about aperture photometry and the Simple Aperture Photometry (SAP) and Pre-search Data Conditioning SAP (PDCSAP) flux. We have not however discussed how these apertures are chosen by the pipeline or how …" />
+
+    <meta property="og:site_name" content="TESS" />
+    <meta property="og:type" content="article"/>
+    <meta property="og:title" content="Aperture Photometry"/>
+    <meta property="og:url" content="./pages/aperture-photometry.html"/>
+    <meta property="og:description" content="Understanding Aperture Photometry &amp; Making Custom Apertures. Learning Goals In our previous tutorials (LightCurve Objects and LightCurveFile Objects) we learned about aperture photometry and the Simple Aperture Photometry (SAP) and Pre-search Data Conditioning SAP (PDCSAP) flux. We have not however discussed how these apertures are chosen by the pipeline or how …" />
+        <meta property="og:image"
+              content="./images/logo-for-twitter.jpeg"/>
+
+
+    <!-- Why use Helvetica Neue when you can have Lato? -->
+    <!-- Why use Lato when you can have Nunito? -->
+    <link href="./theme/css/nunito.css" rel="stylesheet">
+
+    <!-- Bootstrap -->
+        <link rel="stylesheet" href="./theme/css/bootstrap.cosmo.min.css" type="text/css"/>
+    <link href="./theme/css/font-awesome.min.css" rel="stylesheet">
+
+    <link href="./theme/css/exoplanet_archive_icons.css" rel="stylesheet">
+    <link href="./theme/css/mission_icons.css" rel="stylesheet">
+<!--     <link href="./theme/css/photobanner.css" rel="stylesheet">
+    <link href="./theme/css/slide-container.css" rel="stylesheet">
+    <link href="./theme/css/slide-transition.css" rel="stylesheet"> 
+    <link href="./theme/css/slide-transition2.css" rel="stylesheet">  -->
+    
+    <link href="./theme/css/pygments/native.css" rel="stylesheet">
+    <link rel="stylesheet" href="./theme/css/style.css" type="text/css"/>
+
+    <link href="./feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="TESS ATOM Feed"/>
+    <link href="./feeds/all.rss.xml" type="application/rss+xml" rel="alternate" title="TESS RSS Feed"/>
+
+</head>
+<body>
+
+<!-- Print a warning message that this is not the official site -->
+
+<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+
+  <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a href="./" class="navbar-brand">
+<img src="./images/NASA_logo_vector_lg.png" width="32"/> TESS            </a>
+        </div>
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav navbar-nav">
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Mission <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="./objectives.html">Objectives</a></li>
+                                <li><a href="./the-tess-space-telescope.html">Telescope</a></li>
+                                <li><a href="./primary.html">Primary Mission</a></li>
+                                <li><a href="./extended.html">Extended Mission</a></li>
+                                <li><a href="./faq.html">FAQ</a></li>
+                                <li><a href="./gallery.html">Outreach Resources</a></li>
+                                <li><a href="./publications.html">Publications</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">TESS Data <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="./data-handling.html">Data Pipeline</a></li>
+                                <li><a href="./data-products.html">Data Products</a></li>
+                                <li><a href="./data-access.html">Data Access</a></li>
+                                <li><a href="./community.html">Community Products</a></li>
+                                <li><a href="./documentation.html">Documentation</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Observations <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="./observing-technical.html">Technical Details</a></li>
+                                <li><a href="./sector.html">Sector Dates</a></li>
+                                <li><a href="./approved-programs.html">Approved GI Programs</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tools <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="./proposal-tools.html">Proposal & Observation Tools</a></li>
+                                <li><a href="./tools2.html">Data analysis Tools</a></li>
+                                <li><a href="./tools3.html">Community Tools</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Proposing <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="./proposing-investigations.html">Guest Investigator Proposals</a></li>
+                                <li><a href="./ddt.html">Director's Discretionary Target program</a></li>
+                                <li><a href="./proposal-tips.html">Proposal Tips</a></li>
+                                <li><a href="./proposal-templates.html">Proposal Templates</a></li>
+                            </ul>
+                        </li>
+            </ul>
+            
+            <ul class="nav navbar-nav">
+                <li>
+                    <a href="./helpdesk.html"><i class="fa fa-info-circle fa-lg"></i> Helpdesk</a>
+                </li>
+            </ul>
+            
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+</div> <!-- /.navbar -->
+<!-- Banner -->
+<!-- End Banner -->
+
+<div class="container">
+    <div class="row">
+        <div class="col-lg-12">
+
+    <div class="col-sm-12">
+        <section id="content" class="body">
+            <h1 class="entry-title">Aperture Photometry</h1>
+            <div class="entry-content">
+                <div class="section" id="understanding-aperture-photometry-making-custom-apertures">
+<h2>Understanding Aperture Photometry &amp; Making Custom Apertures.</h2>
+<div class="section" id="learning-goals">
+<h3>Learning Goals</h3>
+<p>In our previous tutorials (<a class="reference external" href="LightCurve-objects.html">LightCurve
+Objects</a> and <a class="reference external" href="LightCurveFile-Objects.html">LightCurveFile
+Objects</a>) we learned about aperture
+photometry and the Simple Aperture Photometry (SAP) and Pre-search Data
+Conditioning SAP (PDCSAP) flux.</p>
+<p>We have not however discussed how these apertures are chosen by the
+pipeline or how to examine them.</p>
+<p>In this proposal we will cover the following, - How apertures are
+defined. - How can we examine a pre-defined aperture. - How we can
+define and modify an aperture and recover the lightcurve.</p>
+</div>
+<div class="section" id="spoc-apertures">
+<h3>SPOC Apertures</h3>
+<p>In aperture photometry A set of pixels in the image are chosen and we
+sum those to produce a single flux value. The
+<a class="reference external" href="https://heasarc.gsfc.nasa.gov/docs/tess/pipeline.html">SPOC</a>
+produces an <em>optimal aperture</em>, which is used by default in
+<em>Lightkurve</em>, and determined by the <a class="reference external" href="https://github.com/nasa/kepler-pipeline">data processing
+pipeline</a>. This is the
+default aperture used by <em>Lightkurve</em> and is optimized to ensure that
+the stellar signal has a high signal to noise ratio, with minimal
+contamination from the background.</p>
+<p>We sum these same pre-selected pixels for every image at each cadence to
+produce a light curve.</p>
+<p>There are however, some cases where you might want to produce your own
+aperture. The field may be crowded, or you may wish to change the
+aperture size to change the relative contribution of the background.
+<em>Lightkurve</em> offers tools to select pixels programmatically.</p>
+<p>We will show you how to examine the pre-selected aperture and how to
+modify it if you wish.</p>
+</div>
+<div class="section" id="imports">
+<h3>Imports</h3>
+<p>This tutorial requires: - <a class="reference external" href="https://docs.lightkurve.org">Lightkurve</a> -
+<a class="reference external" href="https://matplotlib.org/">Matplotlib</a> - <a class="reference external" href="https://numpy.org">numpy</a></p>
+</div>
+<div class="section" id="defining-terms">
+<h3>Defining Terms</h3>
+<ul class="simple">
+<li>Target Pixel File (TPF): A file containing the original CCD pixel
+observations from which light curves are extracted.</li>
+<li>LightCurve Object: Obtained from a TPF and contains lightcurve
+information derived using simple aperture photometry.</li>
+<li>LightCurveFile Object: Obtained from MAST and contains both SAP flux
+and PSDCSAP flux.</li>
+<li>Cadence: The rate at which TESS photometric observations are stored.</li>
+<li>Sector: One of TESS’s 27 (to date) observing periods, approximately
+~27 days in duration.</li>
+<li>Simple Aperture Photometry (SAP): The act of summing all pixel values
+in a pre-defined aperture as a function of time.</li>
+<li>Pre-search Data Conditioning SAP flux (PDCSAP) flux : SAP flux from
+which long term trends have been removed using so-called Co-trending
+Basis Vectors (CBVs). PDCSAP flux is usually cleaner data than the
+SAP flux and will have fewer systematic trends.</li>
+</ul>
+<pre class="code ipython3 literal-block">
+<span class="o">%</span><span class="k">matplotlib</span> inline
+<span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="nn">np</span>
+<span class="kn">import</span> <span class="nn">lightkurve</span> <span class="k">as</span> <span class="nn">lk</span>
+<span class="kn">import</span> <span class="nn">matplotlib.pyplot</span> <span class="k">as</span> <span class="nn">plt</span>
+</pre>
+</div>
+<div class="section" id="downloading-the-data">
+<h3>Downloading the Data</h3>
+<p>For this tutorial lets use the <a class="reference external" href="https://arxiv.org/pdf/1903.08017.pdf">L 98-59
+System</a> again, focusing on
+planet c. First let’s search for a TPF for this object.</p>
+<pre class="code ipython3 literal-block">
+<span class="n">search_result</span> <span class="o">=</span> <span class="n">lk</span><span class="o">.</span><span class="n">search_targetpixelfile</span><span class="p">(</span><span class="s1">'TIC 307210830'</span><span class="p">)</span>
+<span class="n">search_result</span>
+</pre>
+SearchResult containing 7 data products.
+
+<table id="table140331758223544">
+<thead><tr><th>#</th><th>observation</th><th>author</th><th>target_name</th><th>productFilename</th><th>distance</th></tr></thead>
+<tr><td>0</td><td>TESS Sector 2</td><td>SPOC</td><td>307210830</td><td>tess2018234235059-s0002-0000000307210830-0121-s_tp.fits</td><td>0.0</td></tr>
+<tr><td>1</td><td>TESS Sector 5</td><td>SPOC</td><td>307210830</td><td>tess2018319095959-s0005-0000000307210830-0125-s_tp.fits</td><td>0.0</td></tr>
+<tr><td>2</td><td>TESS Sector 8</td><td>SPOC</td><td>307210830</td><td>tess2019032160000-s0008-0000000307210830-0136-s_tp.fits</td><td>0.0</td></tr>
+<tr><td>3</td><td>TESS Sector 9</td><td>SPOC</td><td>307210830</td><td>tess2019058134432-s0009-0000000307210830-0139-s_tp.fits</td><td>0.0</td></tr>
+<tr><td>4</td><td>TESS Sector 10</td><td>SPOC</td><td>307210830</td><td>tess2019085135100-s0010-0000000307210830-0140-s_tp.fits</td><td>0.0</td></tr>
+<tr><td>5</td><td>TESS Sector 11</td><td>SPOC</td><td>307210830</td><td>tess2019112060037-s0011-0000000307210830-0143-s_tp.fits</td><td>0.0</td></tr>
+<tr><td>6</td><td>TESS Sector 12</td><td>SPOC</td><td>307210830</td><td>tess2019140104343-s0012-0000000307210830-0144-s_tp.fits</td><td>0.0</td></tr>
+</table><p>Lets pick and download the data for sector 2.</p>
+<pre class="code ipython3 literal-block">
+<span class="n">tpf_file</span> <span class="o">=</span> <span class="n">search_result</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span><span class="o">.</span><span class="n">download</span><span class="p">()</span>
+<span class="n">tpf_file</span>
+</pre>
+<pre class="literal-block">
+TessTargetPixelFile(TICID: 307210830)
+</pre>
+<p>We now have a TPF file for our object in sector 2. The optimal aperture
+is stored in the TPF as the <tt class="docutils literal">pipeline_mask</tt> property. We can have a
+look at it by calling it here:</p>
+<pre class="code ipython3 literal-block">
+<span class="n">tpf_file</span><span class="o">.</span><span class="n">pipeline_mask</span>
+</pre>
+<pre class="literal-block">
+array([[False, False, False, False, False, False, False, False, False,
+        False, False],
+       [False, False, False, False, False, False, False, False, False,
+        False, False],
+       [False, False, False, False, False, False, False, False, False,
+        False, False],
+       [False, False, False, False, False, False, False, False, False,
+        False, False],
+       [False, False, False, False, False, False, False, False, False,
+        False, False],
+       [False, False, False, False,  True,  True,  True, False, False,
+        False, False],
+       [False, False, False, False,  True,  True,  True,  True, False,
+        False, False],
+       [False, False, False, False,  True,  True,  True,  True, False,
+        False, False],
+       [False, False, False, False, False,  True,  True, False, False,
+        False, False],
+       [False, False, False, False, False, False, False, False, False,
+        False, False],
+       [False, False, False, False, False, False, False, False, False,
+        False, False]])
+</pre>
+<p>As you can see, it is a boolean array detailing which pixels are
+included. We can plot this aperture over the top of our TPF using the
+<tt class="docutils literal">plot()</tt> function, and passing in the mask to the <tt class="docutils literal">aperture_mask</tt>
+keyword.</p>
+<pre class="code ipython3 literal-block">
+<span class="n">tpf_file</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">aperture_mask</span><span class="o">=</span><span class="n">tpf_file</span><span class="o">.</span><span class="n">pipeline_mask</span><span class="p">);</span>
+</pre>
+<img alt="" src="images/Aperture-Photometry_files/Aperture-Photometry_13_0.png" />
+<p>We now see the SPOC <em>optimal</em> aperture mask overlaid on top of our
+object of interest.</p>
+<p>Using the provided optimal aperture in <tt class="docutils literal">pipeline_mask</tt> and the TPF we
+can perform simple aperture photometry via the
+<a class="reference external" href="https://docs.lightkurve.org/api/lightkurve.targetpixelfile.TessTargetPixelFile.html#lightkurve.targetpixelfile.TessTargetPixelFile.extract_aperture_photometry">extract_aperture_photometry</a>
+function as shown below,</p>
+<pre class="code ipython3 literal-block">
+<span class="n">lc</span> <span class="o">=</span> <span class="n">tpf_file</span><span class="o">.</span><span class="n">extract_aperture_photometry</span><span class="p">()</span>
+<span class="n">lc</span>
+</pre>
+<i>TessLightCurve targetid=307210830 length=18317</i>
+<table id="table140331223478512" class="table-striped table-bordered table-condensed">
+<thead><tr><th>time</th><th>flux</th><th>flux_err</th><th>centroid_col</th><th>centroid_row</th><th>cadenceno</th><th>quality</th></tr></thead>
+<thead><tr><th></th><th>electron / s</th><th>electron / s</th><th>pix</th><th>pix</th><th></th><th></th></tr></thead>
+<thead><tr><th>object</th><th>float32</th><th>float32</th><th>float64</th><th>float64</th><th>int32</th><th>int32</th></tr></thead>
+<tr><td>1354.1088231272427</td><td>21566.349609375</td><td>16.116119384765625</td><td>664.6090864691554</td><td>339.4764484490161</td><td>91191</td><td>0</td></tr>
+<tr><td>1354.1102119888994</td><td>21563.88671875</td><td>16.118038177490234</td><td>664.6261723169015</td><td>339.46842003296774</td><td>91192</td><td>0</td></tr>
+<tr><td>1354.112989712153</td><td>21475.162109375</td><td>16.089221954345703</td><td>664.606630403678</td><td>339.4604662968742</td><td>91194</td><td>0</td></tr>
+<tr><td>1354.1143785738097</td><td>21583.30859375</td><td>16.12527084350586</td><td>664.6414481151693</td><td>339.4832617761526</td><td>91195</td><td>0</td></tr>
+<tr><td>1354.1157674355243</td><td>21575.640625</td><td>16.121679306030273</td><td>664.6354584758038</td><td>339.4735678477034</td><td>91196</td><td>0</td></tr>
+<tr><td>1354.1171562971804</td><td>21563.1015625</td><td>16.115528106689453</td><td>664.6334974032626</td><td>339.472138768046</td><td>91197</td><td>0</td></tr>
+<tr><td>1354.1185451588947</td><td>21552.935546875</td><td>16.112627029418945</td><td>664.625177003332</td><td>339.46675685339096</td><td>91198</td><td>0</td></tr>
+<tr><td>1354.1199340205515</td><td>21532.90234375</td><td>16.10567855834961</td><td>664.6301979867933</td><td>339.4699372207359</td><td>91199</td><td>0</td></tr>
+<tr><td>1354.1213228822667</td><td>21533.828125</td><td>16.105731964111328</td><td>664.6262018316135</td><td>339.46553338843</td><td>91200</td><td>0</td></tr>
+<tr><td>...</td><td>...</td><td>...</td><td>...</td><td>...</td><td>...</td><td>...</td></tr>
+<tr><td>1381.5001032523294</td><td>21262.494140625</td><td>16.291688919067383</td><td>664.5744500858646</td><td>339.3513278016392</td><td>110913</td><td>0</td></tr>
+<tr><td>1381.5014921207378</td><td>21289.828125</td><td>16.302898406982422</td><td>664.5797804765874</td><td>339.3491398520347</td><td>110914</td><td>0</td></tr>
+<tr><td>1381.5028809891458</td><td>21266.3515625</td><td>16.29288673400879</td><td>664.5790106545255</td><td>339.3513312907625</td><td>110915</td><td>0</td></tr>
+<tr><td>1381.5042698574382</td><td>21234.845703125</td><td>16.279603958129883</td><td>664.5730941550626</td><td>339.3555631381705</td><td>110916</td><td>0</td></tr>
+<tr><td>1381.5056587258466</td><td>21244.953125</td><td>16.281909942626953</td><td>664.5782007755507</td><td>339.3468316465567</td><td>110917</td><td>0</td></tr>
+<tr><td>1381.5070475942555</td><td>21210.7578125</td><td>16.267162322998047</td><td>664.5770708377116</td><td>339.3442359060069</td><td>110918</td><td>0</td></tr>
+<tr><td>1381.508436462548</td><td>21231.01171875</td><td>16.27315330505371</td><td>664.5786574675517</td><td>339.34217245510536</td><td>110919</td><td>0</td></tr>
+<tr><td>1381.5098253309563</td><td>21250.466796875</td><td>16.277507781982422</td><td>664.5722297003167</td><td>339.3513272975753</td><td>110920</td><td>0</td></tr>
+<tr><td>1381.5112141992488</td><td>21236.35546875</td><td>16.2720890045166</td><td>664.582152318805</td><td>339.3452178427711</td><td>110921</td><td>0</td></tr>
+<tr><td>1381.5126030676577</td><td>21265.83984375</td><td>16.278945922851562</td><td>664.5729270180528</td><td>339.349710493043</td><td>110922</td><td>0</td></tr>
+</table><p>The same result can also be obtained via,</p>
+<pre class="literal-block">
+lc = tpf_file.to_lightcurve(aperture_mask=tpf_file.pipeline_mask)
+</pre>
+</div>
+<div class="section" id="creating-your-own-masks">
+<h3>Creating your own masks</h3>
+<p>You don’t necessarily have to pass in the <tt class="docutils literal">pipeline_mask</tt> to the
+<tt class="docutils literal">plot()</tt> function, it can be any mask you choose yourself, provided it
+is the right shape. We will now explain how to adjust this mask using
+the
+<a class="reference external" href="https://docs.lightkurve.org/api/lightkurve.targetpixelfile.TessTargetPixelFile.html?highlight=create_threshold_mask#lightkurve.targetpixelfile.TessTargetPixelFile.create_threshold_mask">create_threshold_mask</a>
+function. This method will identify the pixels in the TPF which show a
+median flux that is brighter than threshold times the standard deviation
+above the overall median. The standard deviation is estimated in a
+robust way by multiplying the Median Absolute Deviation (MAD) with
+1.4826. In this example we will pick 10 as our threshold.</p>
+<pre class="code ipython3 literal-block">
+<span class="n">target_mask</span> <span class="o">=</span> <span class="n">tpf_file</span><span class="o">.</span><span class="n">create_threshold_mask</span><span class="p">(</span><span class="n">threshold</span><span class="o">=</span><span class="mi">10</span><span class="p">,</span> <span class="n">reference_pixel</span><span class="o">=</span><span class="s1">'center'</span><span class="p">)</span>
+<span class="n">n_target_pixels</span> <span class="o">=</span> <span class="n">target_mask</span><span class="o">.</span><span class="n">sum</span><span class="p">()</span>
+<span class="n">n_target_pixels</span>
+</pre>
+<pre class="literal-block">
+13
+</pre>
+<p>We have now created a target mask which covers 13 pixels. Lets plot this
+up and see what it looks like.</p>
+<pre class="code ipython3 literal-block">
+<span class="n">tpf_file</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">aperture_mask</span><span class="o">=</span><span class="n">target_mask</span><span class="p">,</span> <span class="n">mask_color</span><span class="o">=</span><span class="s1">'r'</span><span class="p">);</span>
+</pre>
+<img alt="" src="images/Aperture-Photometry_files/Aperture-Photometry_21_0.png" />
+<p>We see that this is slightly different to the <em>optimal</em> aperture
+previously defined. It also looks like there might be too many
+background pixels included. Lets see if we can adjust this.</p>
+<div class="section" id="specify-an-aperture-array">
+<h4>Specify an Aperture Array</h4>
+<p>We need to define a new aperture array such that our aperture will cover
+our object of interest only. We have seen that apertures are defined
+within boolean arrays, based on this lets make up a new array.</p>
+<pre class="code ipython3 literal-block">
+<span class="n">aper_new</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">zeros</span><span class="p">(</span><span class="n">tpf_file</span><span class="o">.</span><span class="n">shape</span><span class="p">[</span><span class="mi">1</span><span class="p">:],</span> <span class="n">dtype</span><span class="o">=</span><span class="nb">bool</span><span class="p">)</span>
+<span class="n">aper_new</span><span class="p">[</span><span class="mi">5</span><span class="p">:</span><span class="mi">8</span><span class="p">,</span> <span class="mi">4</span><span class="p">:</span><span class="mi">7</span><span class="p">]</span> <span class="o">=</span> <span class="kc">True</span>
+<span class="n">tpf_file</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">aperture_mask</span><span class="o">=</span><span class="n">aper_new</span><span class="p">,</span> <span class="n">mask_color</span><span class="o">=</span><span class="s1">'red'</span><span class="p">)</span>
+</pre>
+<pre class="literal-block">
+&lt;matplotlib.axes._subplots.AxesSubplot at 0x7fa1790b85c0&gt;
+</pre>
+<img alt="" src="images/Aperture-Photometry_files/Aperture-Photometry_24_1.png" />
+<p>OK great, it looks like we have covered our object,but not included too
+much background. Lets now make this into a lightcurve.</p>
+<pre class="code ipython3 literal-block">
+<span class="n">target_lc_new</span> <span class="o">=</span> <span class="n">tpf_file</span><span class="o">.</span><span class="n">to_lightcurve</span><span class="p">(</span><span class="n">aperture_mask</span><span class="o">=</span><span class="n">aper_new</span><span class="p">)</span>
+<span class="n">target_lc_new</span>
+</pre>
+<i>TessLightCurve targetid=307210830 length=18317</i>
+<table id="table140331496638336" class="table-striped table-bordered table-condensed">
+<thead><tr><th>time</th><th>flux</th><th>flux_err</th><th>centroid_col</th><th>centroid_row</th><th>cadenceno</th><th>quality</th></tr></thead>
+<thead><tr><th></th><th>electron / s</th><th>electron / s</th><th>pix</th><th>pix</th><th></th><th></th></tr></thead>
+<thead><tr><th>object</th><th>float32</th><th>float32</th><th>float64</th><th>float64</th><th>int32</th><th>int32</th></tr></thead>
+<tr><td>1354.1088231272427</td><td>20049.26953125</td><td>15.38568115234375</td><td>664.5377949438838</td><td>339.37615072204693</td><td>91191</td><td>0</td></tr>
+<tr><td>1354.1102119888994</td><td>20029.6015625</td><td>15.380707740783691</td><td>664.5539189658597</td><td>339.3674922369538</td><td>91192</td><td>0</td></tr>
+<tr><td>1354.112989712153</td><td>19982.47265625</td><td>15.365057945251465</td><td>664.5351012281784</td><td>339.36145689194564</td><td>91194</td><td>0</td></tr>
+<tr><td>1354.1143785738097</td><td>19994.115234375</td><td>15.368595123291016</td><td>664.5664578479</td><td>339.38061605675574</td><td>91195</td><td>0</td></tr>
+<tr><td>1354.1157674355243</td><td>20003.728515625</td><td>15.371517181396484</td><td>664.5610361707227</td><td>339.37135598634495</td><td>91196</td><td>0</td></tr>
+<tr><td>1354.1171562971804</td><td>19999.60546875</td><td>15.368359565734863</td><td>664.5594608485563</td><td>339.3702259541033</td><td>91197</td><td>0</td></tr>
+<tr><td>1354.1185451588947</td><td>20019.8046875</td><td>15.375614166259766</td><td>664.5527183393958</td><td>339.3662359200094</td><td>91198</td><td>0</td></tr>
+<tr><td>1354.1199340205515</td><td>19982.787109375</td><td>15.361979484558105</td><td>664.5567752197887</td><td>339.36859919546725</td><td>91199</td><td>0</td></tr>
+<tr><td>1354.1213228822667</td><td>20002.78515625</td><td>15.369135856628418</td><td>664.5538246562905</td><td>339.3650181579328</td><td>91200</td><td>0</td></tr>
+<tr><td>...</td><td>...</td><td>...</td><td>...</td><td>...</td><td>...</td><td>...</td></tr>
+<tr><td>1381.5001032523294</td><td>19974.763671875</td><td>15.560335159301758</td><td>664.5105008707154</td><td>339.2613672501821</td><td>110913</td><td>0</td></tr>
+<tr><td>1381.5014921207378</td><td>19988.509765625</td><td>15.56753158569336</td><td>664.5151411160459</td><td>339.25840629283164</td><td>110914</td><td>0</td></tr>
+<tr><td>1381.5028809891458</td><td>19959.5</td><td>15.55550765991211</td><td>664.5136800320821</td><td>339.2605986305007</td><td>110915</td><td>0</td></tr>
+<tr><td>1381.5042698574382</td><td>19942.931640625</td><td>15.547529220581055</td><td>664.5087002343405</td><td>339.2654600563855</td><td>110916</td><td>0</td></tr>
+<tr><td>1381.5056587258466</td><td>19961.890625</td><td>15.553683280944824</td><td>664.514156119857</td><td>339.2574522478159</td><td>110917</td><td>0</td></tr>
+<tr><td>1381.5070475942555</td><td>19938.53515625</td><td>15.542488098144531</td><td>664.5135819475233</td><td>339.25510331494837</td><td>110918</td><td>0</td></tr>
+<tr><td>1381.508436462548</td><td>19942.68359375</td><td>15.544118881225586</td><td>664.513915654913</td><td>339.25242635657816</td><td>110919</td><td>0</td></tr>
+<tr><td>1381.5098253309563</td><td>19965.841796875</td><td>15.549737930297852</td><td>664.5082952466375</td><td>339.2615657982662</td><td>110920</td><td>0</td></tr>
+<tr><td>1381.5112141992488</td><td>19945.671875</td><td>15.542808532714844</td><td>664.5173951664624</td><td>339.25568362598784</td><td>110921</td><td>0</td></tr>
+<tr><td>1381.5126030676577</td><td>19982.890625</td><td>15.55328369140625</td><td>664.5085713660441</td><td>339.2605124583506</td><td>110922</td><td>0</td></tr>
+</table></div>
+</div>
+<div class="section" id="compare-data-lightcurves">
+<h3>Compare Data &amp; Lightcurves</h3>
+<p>We have now created lightcurve objects using both the SPOC pre-defined
+aperture and a mask of our own devising. Lets plot these lightcurves up
+and examine the difference.</p>
+<pre class="code ipython3 literal-block">
+<span class="n">lc</span><span class="o">.</span><span class="n">plot</span><span class="p">();</span>
+</pre>
+<img alt="" src="images/Aperture-Photometry_files/Aperture-Photometry_29_0.png" />
+<pre class="code ipython3 literal-block">
+<span class="n">target_lc_new</span><span class="o">.</span><span class="n">plot</span><span class="p">();</span>
+</pre>
+<img alt="" src="images/Aperture-Photometry_files/Aperture-Photometry_30_0.png" />
+<p>As you can see the lightcurves from the two apertures look very
+different. It looks as if the aperture we have defined manually may have
+less background or contaminating flux from scattered than the SPOC
+aperture. We will learn more about contamination in our <a class="reference external" href="Visual-inspection.html">next
+tutorial</a>.</p>
+</div>
+</div>
+
+            </div>
+        </section>
+    </div>
+
+        </div>
+    </div>
+</div>
+
+<div class="container container-wide" style="margin-top: 1.5em;">
+  <footer>
+
+     <div class="container">
+
+      <!-- Partner logos -->  
+      <div class="row">
+        <div class="col-md-10"> 
+          <a href="http://tess.mit.edu/"><img src="./images/partners/mit-logo.png" width="80" alt="MIT Logo"></a> &nbsp;&nbsp;&nbsp;
+         <a href="http://www.nasa.gov/"><img src="./images/NASA_logo_vector_lg.png" width="60" alt="NASA Logo"></a> &nbsp;&nbsp;&nbsp;
+         <a href="https://www.cfa.harvard.edu/"><img src="./images/partners/cfa-logo.png" width="55" alt="CfA Logo"></a> &nbsp;&nbsp;&nbsp;
+<!--          <a href="https://www.ll.mit.edu/"><img src="./images/partners/lincoln-laboratory.png" width="50" alt="Lincoln Labs Logo"></a> &nbsp;&nbsp;&nbsp; -->
+         <a href="https://http://www.northropgrumman.com/"><img src="./images/partners/Northrop_Grumman.png" width="176" alt="Orbital ATK Logo"></a> &nbsp;&nbsp;&nbsp;
+         <a href="http://www.stsci.edu/"><img src="./images/partners/stsci_logo2.png" width="110" alt="STScI Logo"></a> 
+        </div>
+      </div>
+
+      
+      <!-- Related websites -->  
+      <div class="row">
+        <div class="col-xs-12">
+          <h5><i class="fa fa-external-link"></i><span class="icon-label">Related websites:</span></h5>
+          <a href="https://nasa.gov/tess" target="_blank">
+                  News, Media, and Education Resources
+              </a>
+          <br/>
+          <a href="http://tess.mit.edu/" target="_blank">
+                  TESS @ MIT
+              </a>
+          <br/>
+          <a href="http://archive.stsci.edu/tess" target="_blank">
+                  TESS @ MAST
+              </a>
+          <br/>
+          <a href="https://heasarc.gsfc.nasa.gov/" target="_blank">
+                  High Energy Astrophysics Science Archive Research Center
+              </a>
+          <br/>
+          <a href="http://exoplanetarchive.ipac.caltech.edu" target="_blank">
+                  NASA Exoplanet Archive @ IPAC
+              </a>
+          <br/>
+        </div>
+      </div>
+
+      <!-- NASA logo and notices -->
+      <div class="row" style="margin-top:2em;">
+         <div class="col-md-10"> <a href="http://www.nasa.gov/"><img src="./images/NASA_logo_vector_lg.png" width="30" alt="NASA Logo"></a> 
+         Last modified: Sun 25 October 2020
+            &middot; Editor: Thomas Barclay &middot; NASA Official: Patricia T Boyd 
+            &middot; <a href="http://www.nasa.gov/about/highlights/HP_Privacy.html">Privacy Policy and Important Notices</a><p></p>         </div>
+         <div class="col-md-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
+      </div>
+    </div>
+
+  </footer>
+</div>
+<script src="./theme/js/jquery.min.js"></script>
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="./theme/js/bootstrap.min.js"></script>
+
+<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
+<script src="./theme/js/respond.min.js"></script>
+
+    <script src="./theme/js/bodypadding.js"></script>
+<!-- Analytics scripts -->
+<script language="javascript" id="_fed_an_ua_tag" src="//dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=NASA"></script>
+<script language="javascript" id="_fed_an_ua_tag" src="//dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=NASA&subagency=GSFC&dclink=true"></script>
+
+
+</body>
+</html>
