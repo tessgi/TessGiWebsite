@@ -1,4 +1,4 @@
-Title: Observing Technical Details
+Title: Observing technical details
 Save_as: observing-technical.html
 
 [TOC]
@@ -55,10 +55,10 @@ Given the unusual nature of the TESS PRF, photometry of an object is typically o
 ### Crowding
 Because the TESS pixels are large (21 arcsec), the TESS photometry for many targets will be contaminated by nearby objects. One of the goals of the TIC is to provide the information needed to estimate the contamination in the TESS band. This cannot be determined accurately ahead of time because it will depend on the pixels selected for the aperture photometry of each target and the exact position of the target in the aperture. However, it is possible for the TIC to provide some guidance concerning the level of expected contamination, for example by providing the number of known objects and their total brightness in the TESS band for some suitable standard aperture and photometer Pixel Response Function (PRF). 
 
-### Pointing Jitter
+### Pointing jitter
 A key source of systematic noise comes from random pointing variations i.e., spacecraft jitter. This causes changes in the measured brightness as stars move across CCD pixels. The floor for this intrinsic noise is assumed to be 60 ppm on hourly timescales.
 
-### Scattered Light
+### Scattered light
 
 Each camera has a lens hood to reduce the scattered light from the Earth and the Moon. Due to TESS's wide field of view and the physical restrictions of the Sun shade the lens hood is not 100% efficient. The effect  of the scattered  light on the CCD's can be seen in the video  below, typically the patchy brightness  is 2-6 times that of the nominal sky background and covers approximately 10-15% of the FoV. When the Earth is  below the level  of the sun shade there  is no scattered light. When the Earth or Moon is directly in the FoV of a camera the data is no longer viable.
 
@@ -69,7 +69,7 @@ Each camera has a lens hood to reduce the scattered light from the Earth and the
 For more information about scatterd light see section 7.3 of the [instrument handbook](https://archive.stsci.edu/missions/tess/doc/TESS_Instrument_Handbook_v0.1.pdf)
 
 
-### Cosmic Rays
+### Cosmic rays
 Cosmic-ray hits on the TESS CCD's are a significant source of noise. For FFIs this is  especially true and nearly half of the pixels in the 30 min FFIs are affected. Within the DHU a tools was developed to help mitigate the effect  of  the Cosmic-rays, images are  stacked and pixels are examined in groups of N. The highest and lowest values of the stack are removed, and the remaining sum are used to create the stack. Although this method of cosmic-ray rejection reduces contamination by a factor of  100,  some  low level outliers  still exist and can be seen within the data. These outliers  can however be removed via [TESS-zap](https://github.com/zkbt/tess-zap).
 
 For more information about cosmic-ray mitigation please see section 5.1 of the [instrument handbook]
