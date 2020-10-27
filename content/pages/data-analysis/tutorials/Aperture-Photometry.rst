@@ -1,6 +1,6 @@
 Aperture Photometry
 ###################
-:save_as: Aperture-Photometry.html
+:save_as: Aperture-Photometry-Tutorial.html
 
 Understanding Aperture Photometry & Making Custom Apertures.
 ============================================================

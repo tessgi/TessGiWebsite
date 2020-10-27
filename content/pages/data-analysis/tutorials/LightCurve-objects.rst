@@ -1,6 +1,6 @@
 LightCurve objects
 ##################
-:save_as: LightCurve-objects.html
+:save_as: LightCurve-object-Tutorial.html
 
 Understanding LightCurve Objects
 ================================

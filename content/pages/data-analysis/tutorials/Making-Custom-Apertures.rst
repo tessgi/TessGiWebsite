@@ -1,6 +1,6 @@
 Making Custom Apertures
 #######################
-:save_as: Making-Custom-Apertures.html
+:save_as: Making-Custom-Apertures-Tutorial.html
 
 
 How to perform aperture photometry with custom apertures

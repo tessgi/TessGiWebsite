@@ -1,6 +1,6 @@
 Visual inspection
 #################
-:save_as: Visual-inspection.html
+:save_as: Visual-inspection-Tutorial.html
 
 Visual Inspection of an Object
 ==============================

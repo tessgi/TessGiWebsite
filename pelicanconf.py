@@ -117,7 +117,6 @@ MENUITEMS = (
         ('Proposing', (
             ('Guest Investigator Proposals', 'proposing-investigations.html'),
             ("Director's Discretionary Target program", 'ddt.html'),
-            ('Proposal Tips', 'proposal-tips.html'),
             ('Proposal Templates', 'proposal-templates.html'),
                       )
         ),
