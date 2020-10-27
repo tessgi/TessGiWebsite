@@ -40,13 +40,13 @@ in August 2015, using pelican-bootstrap and flatly.
 <link rel="canonical" href="./pages/lightcurve-objects.html">
 
         <meta name="author" content="Thomas Barclay" />
-        <meta name="description" content="Understanding LightCurve Objects Learning Goals In our TargetPixelFile tutorial we learned, how to obtain data files for our objects of interest and how to examine the metadata stored in the headers. In this tutorial we will learn the following, - How to use Lightkurve to create a `TESSLightCurve &lt;https://docs.lightkurve …" />
+        <meta name="description" content="Understanding LightCurve Objects Learning Goals In our TargetPixelFile tutorial we learned, how to obtain data files for our objects of interest and how to examine the metadata stored in the headers. In this tutorial we will learn the following, - How to use Lightkurve to create a TESSLightCurve object. - How to …" />
 
     <meta property="og:site_name" content="TESS" />
     <meta property="og:type" content="article"/>
     <meta property="og:title" content="LightCurve objects"/>
     <meta property="og:url" content="./pages/lightcurve-objects.html"/>
-    <meta property="og:description" content="Understanding LightCurve Objects Learning Goals In our TargetPixelFile tutorial we learned, how to obtain data files for our objects of interest and how to examine the metadata stored in the headers. In this tutorial we will learn the following, - How to use Lightkurve to create a `TESSLightCurve &lt;https://docs.lightkurve …" />
+    <meta property="og:description" content="Understanding LightCurve Objects Learning Goals In our TargetPixelFile tutorial we learned, how to obtain data files for our objects of interest and how to examine the metadata stored in the headers. In this tutorial we will learn the following, - How to use Lightkurve to create a TESSLightCurve object. - How to …" />
         <meta property="og:image"
               content="./images/logo-for-twitter.jpeg"/>
 
@@ -178,7 +178,7 @@ learned, how to obtain data files for our objects of interest and how to
 examine the <tt class="docutils literal">metadata</tt> stored in the headers.</p>
 <p>In this tutorial we will learn the following, - How to use <em>Lightkurve</em>
 to create a
-<tt class="docutils literal">`TESSLightCurve</tt> &lt;<a class="reference external" href="https://docs.lightkurve.org/api/lightkurve.lightcurve.TessLightCurve.html#lightkurve.lightcurve.TessLightCurve">https://docs.lightkurve.org/api/lightkurve.lightcurve.TessLightCurve.html#lightkurve.lightcurve.TessLightCurve</a>&gt;`__
+<a class="reference external" href="https://docs.lightkurve.org/api/lightkurve.lightcurve.TessLightCurve.html#lightkurve.lightcurve.TessLightCurve">TESSLightCurve</a>
 object. - How to examine the object data, and understand its format. -
 What is simple aperture photometry (SAP). - How to plot a light curve.</p>
 </div>
@@ -228,7 +228,7 @@ in a pre-defined aperture as a function of time.</li>
 System</a> focusing on planet c.</p>
 <p>First we search for appropriate Target Pixel Files on
 <a class="reference external" href="https://archive.stsci.edu/tess/">MAST</a> using the
-<tt class="docutils literal">`search_targetpixelfile</tt> &lt;<a class="reference external" href="https://docs.lightkurve.org/api/lightkurve.search.search_targetpixelfile.html?highlight=search_targetpixelfile">https://docs.lightkurve.org/api/lightkurve.search.search_targetpixelfile.html?highlight=search_targetpixelfile</a>&gt;`__
+<a class="reference external" href="https://docs.lightkurve.org/api/lightkurve.search.search_targetpixelfile.html?highlight=search_targetpixelfile">search_targetpixelfile</a>
 function.</p>
 <pre class="code ipython3 literal-block">
 <span class="n">search</span> <span class="o">=</span> <span class="n">lk</span><span class="o">.</span><span class="n">search_targetpixelfile</span><span class="p">(</span><span class="s1">'TIC 307210830 c'</span><span class="p">)</span>
@@ -259,11 +259,11 @@ TessTargetPixelFile(TICID: 307210830)
 <h3>Creating and analizing the LightCurve Object</h3>
 <p>Great we now have our TPF! Lets convert this TPF into a
 <tt class="docutils literal">TessLightCurve</tt> object using the
-<tt class="docutils literal">`to_lightcurve</tt> &lt;<a class="reference external" href="https://docs.lightkurve.org/api/lightkurve.targetpixelfile.TessTargetPixelFile.html#lightkurve.targetpixelfile.TessTargetPixelFile.to_lightcurve">https://docs.lightkurve.org/api/lightkurve.targetpixelfile.TessTargetPixelFile.html#lightkurve.targetpixelfile.TessTargetPixelFile.to_lightcurve</a>&gt;`__
+<a class="reference external" href="https://docs.lightkurve.org/api/lightkurve.targetpixelfile.TessTargetPixelFile.html#lightkurve.targetpixelfile.TessTargetPixelFile.to_lightcurve">to_lightcurve</a>
 function.</p>
 <p>To create the SAP lightcurve we will pass an <strong>aperture_mask</strong> to the
 <tt class="docutils literal">to_lightcurve</tt> function. The default is to use the
-<tt class="docutils literal">`SPOC</tt> &lt;<a class="reference external" href="https://heasarc.gsfc.nasa.gov/docs/tess/pipeline.html">https://heasarc.gsfc.nasa.gov/docs/tess/pipeline.html</a>&gt;`__
+<a class="reference external" href="https://heasarc.gsfc.nasa.gov/docs/tess/pipeline.html">SPOC</a>
 pipeline aperture, which sums all the pixels in its defined mask.</p>
 <pre class="code ipython3 literal-block">
 <span class="n">lc</span> <span class="o">=</span> <span class="n">tpf</span><span class="o">.</span><span class="n">to_lightcurve</span><span class="p">(</span><span class="n">aperture_mask</span><span class="o">=</span><span class="n">tpf</span><span class="o">.</span><span class="n">pipeline_mask</span><span class="p">)</span>
@@ -325,7 +325,7 @@ lightcurve, there is only one flux point for every cadence.</p>
 (CDPP) RMS per transit duration noise metric (see <a class="reference external" href="https://iopscience.iop.org/article/10.1088/0067-0049/197/1/6/pdf">Gilliland et al.,
 2011</a>
 for more details) of the lightcurve using the built in method
-<tt class="docutils literal">`estimate_cdpp</tt> &lt;<a class="reference external" href="https://docs.lightkurve.org/api/lightkurve.lightcurve.FoldedLightCurve.html#lightkurve.lightcurve.FoldedLightCurve.estimate_cdpp">https://docs.lightkurve.org/api/lightkurve.lightcurve.FoldedLightCurve.html#lightkurve.lightcurve.FoldedLightCurve.estimate_cdpp</a>&gt;`__:</p>
+<a class="reference external" href="https://docs.lightkurve.org/api/lightkurve.lightcurve.FoldedLightCurve.html#lightkurve.lightcurve.FoldedLightCurve.estimate_cdpp">estimate_cdpp</a>:</p>
 <pre class="code ipython3 literal-block">
 <span class="n">lc</span><span class="o">.</span><span class="n">estimate_cdpp</span><span class="p">()</span>
 </pre>
@@ -340,7 +340,7 @@ parts-per-million (ppm)</p>
 <p>We can now use the built in <tt class="docutils literal">plot</tt> function on the <tt class="docutils literal">TESSLightCurve</tt>
 object to plot the time series. You can pass <tt class="docutils literal">plot</tt> any keywords you
 would normally pass to
-<tt class="docutils literal">`matplotlib.pyplot.plot</tt> &lt;<a class="reference external" href="https://matplotlib.org/3.1.3/api/_as_gen/matplotlib.pyplot.plot.html">https://matplotlib.org/3.1.3/api/_as_gen/matplotlib.pyplot.plot.html</a>&gt;`__.</p>
+<a class="reference external" href="https://matplotlib.org/3.1.3/api/_as_gen/matplotlib.pyplot.plot.html">matplotlib.pyplot.plot</a>.</p>
 <pre class="code ipython3 literal-block">
 <span class="o">%</span><span class="k">matplotlib</span> inline
 <span class="n">lc</span><span class="o">.</span><span class="n">plot</span><span class="p">();</span>
@@ -350,20 +350,20 @@ would normally pass to
 <div class="section" id="manipulating-the-light-curve">
 <h3>Manipulating the light curve</h3>
 <p>There are a set of useful functions in
-<tt class="docutils literal">`LightCurve</tt> &lt;<a class="reference external" href="https://docs.lightkurve.org/api/lightkurve.lightcurve.LightCurve.html#lightkurve.lightcurve.LightCurve">https://docs.lightkurve.org/api/lightkurve.lightcurve.LightCurve.html#lightkurve.lightcurve.LightCurve</a>&gt;`__
+<a class="reference external" href="https://docs.lightkurve.org/api/lightkurve.lightcurve.LightCurve.html#lightkurve.lightcurve.LightCurve">LightCurve</a>
 objects which you can use to work with the data. These include: *
-<tt class="docutils literal">`flatten()</tt> &lt;<a class="reference external" href="https://docs.lightkurve.org/api/lightkurve.lightcurve.LightCurve.html#lightkurve.lightcurve.LightCurve.flatten">https://docs.lightkurve.org/api/lightkurve.lightcurve.LightCurve.html#lightkurve.lightcurve.LightCurve.flatten</a>&gt;`__:
+<a class="reference external" href="https://docs.lightkurve.org/api/lightkurve.lightcurve.LightCurve.html#lightkurve.lightcurve.LightCurve.flatten">flatten()</a>:
 Remove long term trends using a <a class="reference external" href="https://en.wikipedia.org/wiki/Savitzky%E2%80%93Golay_filter">Savitzky–Golay
 filter</a>
 *
-<tt class="docutils literal">`remove_outliers()</tt> &lt;<a class="reference external" href="https://docs.lightkurve.org/api/lightkurve.lightcurve.LightCurve.html#lightkurve.lightcurve.LightCurve.remove_outliers">https://docs.lightkurve.org/api/lightkurve.lightcurve.LightCurve.html#lightkurve.lightcurve.LightCurve.remove_outliers</a>&gt;`__:
+<a class="reference external" href="https://docs.lightkurve.org/api/lightkurve.lightcurve.LightCurve.html#lightkurve.lightcurve.LightCurve.remove_outliers">remove_outliers()</a>:
 Remove outliers using simple sigma clipping *
-<tt class="docutils literal">`remove_nans()</tt> &lt;<a class="reference external" href="https://docs.lightkurve.org/api/lightkurve.lightcurve.LightCurve.html#lightkurve.lightcurve.LightCurve.remove_nans">https://docs.lightkurve.org/api/lightkurve.lightcurve.LightCurve.html#lightkurve.lightcurve.LightCurve.remove_nans</a>&gt;`__:
+<a class="reference external" href="https://docs.lightkurve.org/api/lightkurve.lightcurve.LightCurve.html#lightkurve.lightcurve.LightCurve.remove_nans">remove_nans()</a>:
 Remove infinite or NaN values (these can occur during thruster firings)
 *
-<tt class="docutils literal">`fold()</tt> &lt;<a class="reference external" href="https://docs.lightkurve.org/api/lightkurve.lightcurve.LightCurve.html#lightkurve.lightcurve.LightCurve.fold">https://docs.lightkurve.org/api/lightkurve.lightcurve.LightCurve.html#lightkurve.lightcurve.LightCurve.fold</a>&gt;`__:
+<a class="reference external" href="https://docs.lightkurve.org/api/lightkurve.lightcurve.LightCurve.html#lightkurve.lightcurve.LightCurve.fold">fold()</a>:
 Fold the data at a particular period *
-<tt class="docutils literal">`bin()</tt> &lt;<a class="reference external" href="https://docs.lightkurve.org/api/lightkurve.lightcurve.LightCurve.html#lightkurve.lightcurve.LightCurve.bin">https://docs.lightkurve.org/api/lightkurve.lightcurve.LightCurve.html#lightkurve.lightcurve.LightCurve.bin</a>&gt;`__:
+<a class="reference external" href="https://docs.lightkurve.org/api/lightkurve.lightcurve.LightCurve.html#lightkurve.lightcurve.LightCurve.bin">bin()</a>:
 Reduce the time resolution of the array, taking the average value in
 each bin.</p>
 <p>We can use these simply on a light curve object</p>

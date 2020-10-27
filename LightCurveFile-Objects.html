@@ -40,13 +40,13 @@ in August 2015, using pelican-bootstrap and flatly.
 <link rel="canonical" href="./pages/lightcurvefile-objects.html">
 
         <meta name="author" content="Thomas Barclay" />
-        <meta name="description" content="Understanding LightCurveFile Objects Learning Goals In our LightCurve Object tutorial we looked at how to obtain an object of interests lightcurve from its TargetPixelFile (TPF; see our TargetPixelFile tutorial) using Simple Aperture Photometry (SAP). In this tutorial we will demonstrate the difference between a `TESSLightCurve &lt;https://docs.lightkurve.org/api …" />
+        <meta name="description" content="Understanding LightCurveFile Objects Learning Goals In our LightCurve Object tutorial we looked at how to obtain an object of interests lightcurve from its TargetPixelFile (TPF; see our TargetPixelFile tutorial) using Simple Aperture Photometry (SAP). In this tutorial we will demonstrate the difference between a TESSLightCurve and a TESSLightCurveFile, and will …" />
 
     <meta property="og:site_name" content="TESS" />
     <meta property="og:type" content="article"/>
     <meta property="og:title" content="LightCurveFile Objects"/>
     <meta property="og:url" content="./pages/lightcurvefile-objects.html"/>
-    <meta property="og:description" content="Understanding LightCurveFile Objects Learning Goals In our LightCurve Object tutorial we looked at how to obtain an object of interests lightcurve from its TargetPixelFile (TPF; see our TargetPixelFile tutorial) using Simple Aperture Photometry (SAP). In this tutorial we will demonstrate the difference between a `TESSLightCurve &lt;https://docs.lightkurve.org/api …" />
+    <meta property="og:description" content="Understanding LightCurveFile Objects Learning Goals In our LightCurve Object tutorial we looked at how to obtain an object of interests lightcurve from its TargetPixelFile (TPF; see our TargetPixelFile tutorial) using Simple Aperture Photometry (SAP). In this tutorial we will demonstrate the difference between a TESSLightCurve and a TESSLightCurveFile, and will …" />
         <meta property="og:image"
               content="./images/logo-for-twitter.jpeg"/>
 
@@ -179,9 +179,9 @@ looked at how to obtain an object of interests lightcurve from its
 tutorial</a>) using Simple Aperture Photometry
 (SAP).</p>
 <p>In this tutorial we will demonstrate the difference between a
-<tt class="docutils literal">`TESSLightCurve</tt> &lt;<a class="reference external" href="https://docs.lightkurve.org/api/lightkurve.lightcurve.TessLightCurve.html?highlight=tesslightcurve">https://docs.lightkurve.org/api/lightkurve.lightcurve.TessLightCurve.html?highlight=tesslightcurve</a>&gt;`__
+<a class="reference external" href="https://docs.lightkurve.org/api/lightkurve.lightcurve.TessLightCurve.html?highlight=tesslightcurve">TESSLightCurve</a>
 and a
-<tt class="docutils literal">`TESSLightCurveFile</tt> &lt;<a class="reference external" href="https://docs.lightkurve.org/api/lightkurve.lightcurvefile.TessLightCurveFile.html?highlight=tesslightcurvefiles">https://docs.lightkurve.org/api/lightkurve.lightcurvefile.TessLightCurveFile.html?highlight=tesslightcurvefiles</a>&gt;`__,
+<a class="reference external" href="https://docs.lightkurve.org/api/lightkurve.lightcurvefile.TessLightCurveFile.html?highlight=tesslightcurvefiles">TESSLightCurveFile</a>,
 and will cover the following, - What is a <tt class="docutils literal">LightCurveFile</tt>. - What is
 Pre-search Data Conditioning SAP flux (PSDCSAP). - How can we examine
 its <tt class="docutils literal">metadata</tt>. - How we use it to create and examine an objects
@@ -238,9 +238,9 @@ SAP flux and will have fewer systematic trends.</li>
 <div class="section" id="downloading-the-data">
 <h3>Downloading the Data</h3>
 <p>We can read in a light curve file from the TESS mission using
-<tt class="docutils literal">`TESSLightCurveFile</tt> &lt;<a class="reference external" href="https://docs.lightkurve.org/api/lightkurve.lightcurvefile.TessLightCurveFile.html?highlight=esslightcurvefile">https://docs.lightkurve.org/api/lightkurve.lightcurvefile.TessLightCurveFile.html?highlight=esslightcurvefile</a>&gt;`__.
+<a class="reference external" href="https://docs.lightkurve.org/api/lightkurve.lightcurvefile.TessLightCurveFile.html?highlight=esslightcurvefile">TESSLightCurveFile</a>.
 We can use the
-<tt class="docutils literal">`search_lightcurve()</tt> &lt;<a class="reference external" href="https://docs.lightkurve.org/api/lightkurve.search.search_lightcurvefile.html#lightkurve.search.search_lightcurvefile">https://docs.lightkurve.org/api/lightkurve.search.search_lightcurvefile.html#lightkurve.search.search_lightcurvefile</a>&gt;`__
+<a class="reference external" href="https://docs.lightkurve.org/api/lightkurve.search.search_lightcurvefile.html#lightkurve.search.search_lightcurvefile">search_lightcurve()</a>
 function to fetch the files from the data archive.</p>
 <p>To demonstrate, lets use the <a class="reference external" href="https://arxiv.org/pdf/1903.08017.pdf">L 98-59
 System</a> again, focusing on
@@ -266,7 +266,7 @@ examples of its use in the <a class="reference external" href="https://docs.ligh
 documentation</a>.</p>
 <p>Like <tt class="docutils literal">search_targetpixelfile</tt> the <tt class="docutils literal">search_lightcurve</tt> function
 returns a
-<tt class="docutils literal">`SearchResult</tt> &lt;<a class="reference external" href="https://docs.lightkurve.org/api/lightkurve.search.SearchResult.html">https://docs.lightkurve.org/api/lightkurve.search.SearchResult.html</a>&gt;`__
+<a class="reference external" href="https://docs.lightkurve.org/api/lightkurve.search.SearchResult.html">SearchResult</a>
 object which has several convenient operations. For example, we can
 select the first data product in the list as follows,</p>
 <pre class="code ipython3 literal-block">
@@ -282,7 +282,7 @@ SearchResult containing 1 data products.
 <span class="n">lcf</span> <span class="o">=</span> <span class="n">search_result</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span><span class="o">.</span><span class="n">download</span><span class="p">()</span>
 </pre>
 <p>The <tt class="docutils literal">lcf</tt> variable we have obtained in this way is a
-<tt class="docutils literal">`TessLightCurve</tt> &lt;<a class="reference external" href="http://docs.lightkurve.org/api/lightkurve.lightcurve.TessLightCurve.html">http://docs.lightkurve.org/api/lightkurve.lightcurve.TessLightCurve.html</a>&gt;`__
+<a class="reference external" href="http://docs.lightkurve.org/api/lightkurve.lightcurve.TessLightCurve.html">TessLightCurve</a>
 object. This object contains time, flux and flux error information, as
 well as a whole lot of data about spacecraft systematics. We can view
 all of them by calling the object by itself:</p>
@@ -327,7 +327,7 @@ table contains the SAP flux and PDCSAP flux!</p>
 <div class="section" id="sap-and-pdcsap-lightcurves">
 <h4>SAP and PDCSAP lightcurves</h4>
 <p>By default, a
-<tt class="docutils literal">`TESSLightCurveFiles</tt> &lt;<a class="reference external" href="http://docs.lightkurve.org/api/lightkurve.lightcurve.TessLightCurve.html">http://docs.lightkurve.org/api/lightkurve.lightcurve.TessLightCurve.html</a>&gt;`__
+<a class="reference external" href="http://docs.lightkurve.org/api/lightkurve.lightcurve.TessLightCurve.html">TESSLightCurveFiles</a>
 will set the PDCSAP flux to its <tt class="docutils literal">.flux</tt> property.</p>
 <p>To compare the PDCSAP and the SAP flux, we can use the <tt class="docutils literal">column</tt>
 keyword while plotting.</p>

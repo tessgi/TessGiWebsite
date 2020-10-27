@@ -206,7 +206,7 @@ directly handle its detailed file structure.</p>
 potential sources of noise or systematic trends.</p>
 <p>In this tutorial we’ll cover the basics of working with TPFs in
 <em>Lightkurve</em> using the
-<tt class="docutils literal">`TessTargetPixelFile</tt> &lt;<a class="reference external" href="https://docs.lightkurve.org/api/lightkurve.targetpixelfile.TessTargetPixelFile.html?highlight=tesstargetpixelfile">https://docs.lightkurve.org/api/lightkurve.targetpixelfile.TessTargetPixelFile.html?highlight=tesstargetpixelfile</a>&gt;`__
+<a class="reference external" href="https://docs.lightkurve.org/api/lightkurve.targetpixelfile.TessTargetPixelFile.html?highlight=tesstargetpixelfile">TessTargetPixelFile</a>
 class.</p>
 </div>
 <div class="section" id="imports">
@@ -240,7 +240,7 @@ with metadata about the observations, such as the CCD used.</p>
 about the astronomical background, and the recommended aperture for
 extracting flux.</p>
 <p>You can search for a TPF using the
-<tt class="docutils literal">`search_targetpixelfile()</tt> &lt;<a class="reference external" href="https://docs.lightkurve.org/api/lightkurve.search.search_targetpixelfile.html#lightkurve.search.search_targetpixelfile">https://docs.lightkurve.org/api/lightkurve.search.search_targetpixelfile.html#lightkurve.search.search_targetpixelfile</a>&gt;`__
+<a class="reference external" href="https://docs.lightkurve.org/api/lightkurve.search.search_targetpixelfile.html#lightkurve.search.search_targetpixelfile">search_targetpixelfile()</a>
 function. This will search for the right file in the MAST data archive.</p>
 <p>Note here that <tt class="docutils literal">search_targetpixelfile</tt> can take several inputs as
 listed below, only the first is required,</p>
@@ -274,7 +274,7 @@ SearchResult containing 7 data products.
 <tr><td>5</td><td>TESS Sector 11</td><td>SPOC</td><td>307210830</td><td>tess2019112060037-s0011-0000000307210830-0143-s_tp.fits</td><td>0.0</td></tr>
 <tr><td>6</td><td>TESS Sector 12</td><td>SPOC</td><td>307210830</td><td>tess2019140104343-s0012-0000000307210830-0144-s_tp.fits</td><td>0.0</td></tr>
 </table><p>The search function returns a
-<tt class="docutils literal">`SearchResult</tt> &lt;<a class="reference external" href="https://docs.lightkurve.org/api/lightkurve.search.SearchResult.html">https://docs.lightkurve.org/api/lightkurve.search.SearchResult.html</a>&gt;`__
+<a class="reference external" href="https://docs.lightkurve.org/api/lightkurve.search.SearchResult.html">SearchResult</a>
 object, displaying a list.</p>
 <p>In this list, each row represents a different observing period. We find
 that <em>TESS</em> recorded 7 sectors of data for this target across 1 year.
@@ -333,7 +333,7 @@ Sector.</p>
 <p>It looks like our star is isolated, so we can extract a light-curve by
 simply summing up all the pixel values in each image. To do this we use
 the
-<tt class="docutils literal">`to_lightcurve</tt> &lt;<a class="reference external" href="https://docs.lightkurve.org/api/lightkurve.targetpixelfile.KeplerTargetPixelFile.html#lightkurve.targetpixelfile.KeplerTargetPixelFile.to_lightcurve">https://docs.lightkurve.org/api/lightkurve.targetpixelfile.KeplerTargetPixelFile.html#lightkurve.targetpixelfile.KeplerTargetPixelFile.to_lightcurve</a>&gt;`__
+<a class="reference external" href="https://docs.lightkurve.org/api/lightkurve.targetpixelfile.KeplerTargetPixelFile.html#lightkurve.targetpixelfile.KeplerTargetPixelFile.to_lightcurve">to_lightcurve</a>
 function which collects the flux of an object from specified pixels,
 i.e., an aperture mask. How to do this is explained within the
 <a class="reference external" href="LightCurve-objects.html">LightCurve Objects</a> tutorial.</p>
@@ -341,7 +341,7 @@ i.e., an aperture mask. How to do this is explained within the
 <h4>Note</h4>
 <p>You can also download TPF FITS files from the archive by hand, store
 them on your local disk, and open them using the
-<tt class="docutils literal"><span class="pre">`lk.open(&lt;filename&gt;)</span></tt> &lt;<a class="reference external" href="http://docs.lightkurve.org/api/lightkurve.search.open.html?highlight=open#lightkurve.search.open">http://docs.lightkurve.org/api/lightkurve.search.open.html?highlight=open#lightkurve.search.open</a>&gt;`__
+<a class="reference external" href="http://docs.lightkurve.org/api/lightkurve.search.open.html?highlight=open#lightkurve.search.open">lk.open(&lt;filename&gt;)</a>
 function. This function will return a <tt class="docutils literal">TessTargetPixelFile</tt> object
 just as in the above example.</p>
 </div>
@@ -407,7 +407,7 @@ CRSPOC  =                    F / SPOC cosmic ray cleaning enabled
 CHECKSUM= 'OGRBPEO9OEOAOEO7'   / HDU checksum updated 2019-02-10T15:15:39Z
 </pre>
 <p>This is an AstroPy
-<tt class="docutils literal">`astropy.io.fits.Header</tt> &lt;<a class="reference external" href="https://docs.astropy.org/en/stable/io/fits/api/headers.html">https://docs.astropy.org/en/stable/io/fits/api/headers.html</a>&gt;`__
+<a class="reference external" href="https://docs.astropy.org/en/stable/io/fits/api/headers.html">astropy.io.fits.Header</a>
 object, which has many convenient features. For example, you can
 retrieve the value of an individual keyword as follows:</p>
 <pre class="code ipython3 literal-block">

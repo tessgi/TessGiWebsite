@@ -186,7 +186,7 @@ select pixels programmatically.</p>
 <p>First, let’s load a target pixel file. Let’s choose Gaia object
 DR25290850609994130560. This object was observed in TESS FFI data. We’ll
 use the
-<tt class="docutils literal">`search_tesscut</tt> &lt;<a class="reference external" href="https://docs.lightkurve.org/api/lightkurve.search.search_tesscut.html">https://docs.lightkurve.org/api/lightkurve.search.search_tesscut.html</a>&gt;`__
+<a class="reference external" href="https://docs.lightkurve.org/api/lightkurve.search.search_tesscut.html">search_tesscut</a>
 function to download a cut out of the target in a single sector. You can
 determine which sectors the target was observed in using the <a class="reference external" href="https://mast.stsci.edu/portal/Mashup/Clients/Mast/Portal.html">MAST TESS
 portal</a>.</p>
@@ -266,7 +266,7 @@ red circles we can see that our object of interest is indeed the center
 object and not the bright object.</p>
 <p>Because we created this TPF from a FFI there is no predefined SPOC
 aperture and as such we have to make our own. We can do this via the
-<tt class="docutils literal">`create_threshold_mask</tt> &lt;<a class="reference external" href="https://docs.lightkurve.org/api/lightkurve.targetpixelfile.TessTargetPixelFile.html?highlight=create_threshold_mask#lightkurve.targetpixelfile.TessTargetPixelFile.create_threshold_mask">https://docs.lightkurve.org/api/lightkurve.targetpixelfile.TessTargetPixelFile.html?highlight=create_threshold_mask#lightkurve.targetpixelfile.TessTargetPixelFile.create_threshold_mask</a>&gt;`__.
+<a class="reference external" href="https://docs.lightkurve.org/api/lightkurve.targetpixelfile.TessTargetPixelFile.html?highlight=create_threshold_mask#lightkurve.targetpixelfile.TessTargetPixelFile.create_threshold_mask">create_threshold_mask</a>.
 This method will identify the pixels in the TPF which show a median flux
 that is brighter than threshold times the standard deviation above the
 overall median. The standard deviation is estimated in a robust way by

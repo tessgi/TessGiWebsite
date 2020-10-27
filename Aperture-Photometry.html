@@ -305,7 +305,7 @@ keyword.</p>
 object of interest.</p>
 <p>Using the provided optimal aperture in <tt class="docutils literal">pipeline_mask</tt> and the TPF we
 can perform simple aperture photometry via the
-<tt class="docutils literal">`extract_aperture_photometry()</tt> &lt;<a class="reference external" href="https://docs.lightkurve.org/api/lightkurve.targetpixelfile.TessTargetPixelFile.html#lightkurve.targetpixelfile.TessTargetPixelFile.extract_aperture_photometry">https://docs.lightkurve.org/api/lightkurve.targetpixelfile.TessTargetPixelFile.html#lightkurve.targetpixelfile.TessTargetPixelFile.extract_aperture_photometry</a>&gt;`__
+<a class="reference external" href="https://docs.lightkurve.org/api/lightkurve.targetpixelfile.TessTargetPixelFile.html#lightkurve.targetpixelfile.TessTargetPixelFile.extract_aperture_photometry">extract_aperture_photometry</a>
 function as shown below,</p>
 <pre class="code ipython3 literal-block">
 <span class="n">lc</span> <span class="o">=</span> <span class="n">tpf_file</span><span class="o">.</span><span class="n">extract_aperture_photometry</span><span class="p">()</span>
@@ -347,7 +347,7 @@ lc = tpf_file.to_lightcurve(aperture_mask=tpf_file.pipeline_mask)
 <tt class="docutils literal">plot()</tt> function, it can be any mask you choose yourself, provided it
 is the right shape. We will now explain how to adjust this mask using
 the
-<tt class="docutils literal">`create_threshold_mask</tt> &lt;<a class="reference external" href="https://docs.lightkurve.org/api/lightkurve.targetpixelfile.TessTargetPixelFile.html?highlight=create_threshold_mask#lightkurve.targetpixelfile.TessTargetPixelFile.create_threshold_mask">https://docs.lightkurve.org/api/lightkurve.targetpixelfile.TessTargetPixelFile.html?highlight=create_threshold_mask#lightkurve.targetpixelfile.TessTargetPixelFile.create_threshold_mask</a>&gt;`__
+<a class="reference external" href="https://docs.lightkurve.org/api/lightkurve.targetpixelfile.TessTargetPixelFile.html?highlight=create_threshold_mask#lightkurve.targetpixelfile.TessTargetPixelFile.create_threshold_mask">create_threshold_mask</a>
 function. This method will identify the pixels in the TPF which show a
 median flux that is brighter than threshold times the standard deviation
 above the overall median. The standard deviation is estimated in a
