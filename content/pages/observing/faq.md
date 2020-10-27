@@ -1,4 +1,4 @@
-Title: TESS GI Program Frequently Asked Questions
+Title: TESS GI program frequently asked questions
 Save_as: faq.html
 
 [TOC]
@@ -53,7 +53,7 @@ Yes! You can propose to use archival data or to perform other TESS-related inves
 
 * Investigations dominated by theoretical effort should respond to the Appendix D.4 Astrophysics Theory Program (ATP) solicitation, or Appendix E.3 the Exoplanet Research Program (XRP).
 * Investigations dominated by archival data analysis effort should respond to the Appendix D.2 Astrophysics Data Archive Program (ADAP) solicitation.
-* Investigations dominated by ground-based data collection and/or analysis efforts should respond to the Appendix E.3 the Exoplanet Research Program (XRP), or the NSF Astronomy and Astrophysics Research Grants Program (AAG).
+* Investigations dominated by ground-based data collection and/or analysis efforts should respond to the Appendix E.3 the Exoplanet Research Program (XRP), or the NSF Astronomy and Astrophysics Research Grants program (AAG).
 
 [More information can be found here](proposing-investigations.html). 
 
@@ -66,12 +66,12 @@ There will be ~600 target slots in each sector.
 **How many TESS 2-minute target slots will be available to TESS Guest Investigators?**
 There will be a ten times increase in the number of 2-minute cadenced targets in the GI program, ~16,000 target slots in each sector.
 
-**Are there any restrictions on the types of targets that can be proposed through the TESS GI Program?**
+**Are there any restrictions on the types of targets that can be proposed through the TESS GI program?**
 There are not.
 
 **What if I can do my science with TESS full frame images, and don't need to propose for short-cadence targets?**
 
-Such proposals may request funding only, and will be allowed under the TESS GI Program.
+Such proposals may request funding only, and will be allowed under the TESS GI program.
 
 
 **What if I have an interesting and timely target that needs to be observed quickly and in short-cadence?**
@@ -124,11 +124,11 @@ Note that both the 2-minute cadence and 20-second cadence data will be processed
 
 **What tools are available to help me prepare my GI proposal?**
 
-The GI Program Office has made several tools available to assist proposers in developing their observing programs. [These proposal tools can be found here](proposal-tools.html).
+The GI program Office has made several tools available to assist proposers in developing their observing programs. [These proposal tools can be found here](proposal-tools.html).
 
 **What tools exist to help me analyze TESS data?**
 
-There are a number of tools available for data analysis, developed both by the GI Program Office and by the community. [These analysis tools can be found here](software.html).
+There are a number of tools available for data analysis, developed both by the GI program Office and by the community. [These analysis tools can be found here](software.html).
 
 **I see an interesting feature in my TESS light curve. What could it be?**
 
@@ -140,7 +140,7 @@ Some common sources of anomalous light curves features include the target star b
 
 You can request support for your exciting new science result from NASA Goddard's Astrophysics Divisions Communications Team by following the instructions [on this webpage](media.html). People are encouraged to submit requests for media support 6 weeks before the paper is expected to be published by a journal.
 
-**Where can I send my suggestion for an idea I'd like to see incorporated into the TESS GI Program, or a software tool I'd like to suggest be developed?**
+**Where can I send my suggestion for an idea I'd like to see incorporated into the TESS GI program, or a software tool I'd like to suggest be developed?**
 
  We love feedback! Please contact our [helpdesk](helpdesk.html) with any suggestions or questions.
 
