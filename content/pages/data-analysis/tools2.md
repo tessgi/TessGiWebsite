@@ -54,7 +54,7 @@ Below we list tutorials that will help first time users get to grips with using 
 <tr>
     <td style="width: 15em;">
     <a href='Aperture-Photometry.html'>Aperture Photometry</a></td>
-    <td><a href="Aperture-Photometry.ipynb" download>Download</a></td>
+    <td><a href="docs/tutorials/Aperture-Photometry.ipynb" download>Download</a></td>
     <td>Aperture Photometry can be applied to TESS Target Pixel files in order to obtain light curves for an object of interest.</td>
   </tr>
 
