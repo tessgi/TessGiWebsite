@@ -5,7 +5,7 @@ Save_as: sector.html
 
 TESS launched April 18, 2018 at 6:51 p.m. EDT from Cape Canaveral Air Force Station in Florida atop a SpaceX Falcon 9 rocket. Regular science operations with TESS began on July 25, 2018. TESS is now within its extended mission and observing one [sector](primary.html#sky-coverage) at a time. TESS will continue to [tile the sky](extended.html#observing-strategy) with 27.4 day-long sectors during its now [extended mission](extended.html).
 
-## Sector Dates
+## Sector dates
 
 The start and end dates for each sector, and the list of GI targets (csv file) observed in each sector, are below. The MAST provide an up to date [summary of TESS data available at the archive](https://outerspace.stsci.edu/display/TESS/TESS+Holdings+Available+by+MAST+Service).
 Information on how to download the data can be found [here](data-access.html). The spacecraft pointing positions are [available from MIT](https://tess.mit.edu/observations/).
