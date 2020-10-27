@@ -1,6 +1,6 @@
 LightCurveFile Objects
 ######################
-:save_as: LightCurveFile-Objects.html
+:save_as: LightCurveFile-Object-Tutorial.html
 
 Understanding LightCurveFile Objects
 ====================================

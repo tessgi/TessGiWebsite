@@ -1,6 +1,6 @@
 Full Frame Images
 #####################
-:save_as: Full-Frame-Images.html
+:save_as: Full-Frame-Image-Tutorial.html
 
 Understanding Full Frame Images
 ===============================

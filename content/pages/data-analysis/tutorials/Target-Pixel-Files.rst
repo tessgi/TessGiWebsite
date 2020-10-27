@@ -1,6 +1,6 @@
 Target Pixel Files
 ##################
-:save_as: Target-Pixel-Files.html
+:save_as: Target-Pixel-File-Tutorial.html
 
 Understanding TargetPixelFile objects
 =====================================
