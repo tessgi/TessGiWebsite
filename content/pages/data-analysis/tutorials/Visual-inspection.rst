@@ -58,7 +58,7 @@ Downloading data
 We will be using `Gaia object
 DR25290850609994130560 <https://arxiv.org/pdf/2005.12281.pdf>`__ in this
 tutorial. This object was observed in TESS FFI data. We’ll use the
-```search_tesscut`` <https://docs.lightkurve.org/api/lightkurve.search.search_tesscut.html>`__
+`search_tesscut <https://docs.lightkurve.org/api/lightkurve.search.search_tesscut.html>`__
 function to download a cut out of the target in all sectors observed.
 You can determine which sectors the target was observed in using the
 `MAST TESS
@@ -177,7 +177,7 @@ of interest. It might be useful to visually inspect these cadences to
 better understand what is happening.
 
 One tool provided by *Lightkurve* to investigate such an event is
-```interact`` <https://docs.lightkurve.org/api/lightkurve.targetpixelfile.TessTargetPixelFile.html?highlight=interact#lightkurve.targetpixelfile.TessTargetPixelFile.interact>`__.
+`interact <https://docs.lightkurve.org/api/lightkurve.targetpixelfile.TessTargetPixelFile.html?highlight=interact#lightkurve.targetpixelfile.TessTargetPixelFile.interact>`__.
 Lets use this tool and see what happens.
 
 .. code:: ipython3

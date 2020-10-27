@@ -48,7 +48,7 @@ potential sources of noise or systematic trends.
 
 In this tutorial we’ll cover the basics of working with TPFs in
 *Lightkurve* using the
-```TessTargetPixelFile`` <https://docs.lightkurve.org/api/lightkurve.targetpixelfile.TessTargetPixelFile.html?highlight=tesstargetpixelfile>`__
+`TessTargetPixelFile <https://docs.lightkurve.org/api/lightkurve.targetpixelfile.TessTargetPixelFile.html?highlight=tesstargetpixelfile>`__
 class.
 
 Imports
@@ -88,7 +88,7 @@ about the astronomical background, and the recommended aperture for
 extracting flux.
 
 You can search for a TPF using the
-```search_targetpixelfile()`` <https://docs.lightkurve.org/api/lightkurve.search.search_targetpixelfile.html#lightkurve.search.search_targetpixelfile>`__
+`search_targetpixelfile() <https://docs.lightkurve.org/api/lightkurve.search.search_targetpixelfile.html#lightkurve.search.search_targetpixelfile>`__
 function. This will search for the right file in the MAST data archive.
 
 Note here that ``search_targetpixelfile`` can take several inputs as
@@ -137,7 +137,7 @@ terrestrial-sized planets.
 
 
 The search function returns a
-```SearchResult`` <https://docs.lightkurve.org/api/lightkurve.search.SearchResult.html>`__
+`SearchResult <https://docs.lightkurve.org/api/lightkurve.search.SearchResult.html>`__
 object, displaying a list.
 
 In this list, each row represents a different observing period. We find
@@ -227,7 +227,7 @@ Sector.
 It looks like our star is isolated, so we can extract a light-curve by
 simply summing up all the pixel values in each image. To do this we use
 the
-```to_lightcurve`` <https://docs.lightkurve.org/api/lightkurve.targetpixelfile.KeplerTargetPixelFile.html#lightkurve.targetpixelfile.KeplerTargetPixelFile.to_lightcurve>`__
+`to_lightcurve <https://docs.lightkurve.org/api/lightkurve.targetpixelfile.KeplerTargetPixelFile.html#lightkurve.targetpixelfile.KeplerTargetPixelFile.to_lightcurve>`__
 function which collects the flux of an object from specified pixels,
 i.e., an aperture mask. How to do this is explained within the
 `LightCurve Objects <LightCurve-objects.html>`__ tutorial.
@@ -237,7 +237,7 @@ Note
 
 You can also download TPF FITS files from the archive by hand, store
 them on your local disk, and open them using the
-```lk.open(<filename>)`` <http://docs.lightkurve.org/api/lightkurve.search.open.html?highlight=open#lightkurve.search.open>`__
+`lk.open(<filename>) <http://docs.lightkurve.org/api/lightkurve.search.open.html?highlight=open#lightkurve.search.open>`__
 function. This function will return a ``TessTargetPixelFile`` object
 just as in the above example.
 
@@ -313,7 +313,7 @@ passbands, its movement and position on the sky, and its location on
 
 
 This is an AstroPy
-```astropy.io.fits.Header`` <https://docs.astropy.org/en/stable/io/fits/api/headers.html>`__
+`astropy.io.fits.Header <https://docs.astropy.org/en/stable/io/fits/api/headers.html>`__
 object, which has many convenient features. For example, you can
 retrieve the value of an individual keyword as follows:
 

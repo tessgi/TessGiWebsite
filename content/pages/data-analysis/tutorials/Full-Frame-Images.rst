@@ -83,7 +83,7 @@ Telescopes <https://archive.stsci.edu/tess/>`__ (MAST) archive.
 First, let’s create a TPF for an object of interest, let’s choose Gaia
 object DR25290850609994130560. This object was observed in the *TESS*
 FFI data only. We’ll use the
-```search_tesscut`` <https://docs.lightkurve.org/api/lightkurve.search.search_tesscut.html>`__
+`search_tesscut <https://docs.lightkurve.org/api/lightkurve.search.search_tesscut.html>`__
 function to download a cut out of the target in a chosen sector. You can
 determine which sectors the target was observed in using the `MAST TESS
 portal <https://mast.stsci.edu/portal/Mashup/Clients/Mast/Portal.html>`__.
