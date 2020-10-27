@@ -9,14 +9,14 @@ The next opportunity is TESS Cycle 4, which begins observations in June 2021 and
 
 There is no exclusive-use data rights to observations collected by TESS. All data is made available through the [MAST public archive](http://archive.stsci.edu/tess/summary.html) once data processing and validation is complete.
 
-Important information and useful tools for Cycle 4 proposals are hilighted in the table below.
+Important information and useful tools for Cycle 4 proposals are hi-lighted in the table below.
 
 ###
 <table class="table table-striped table-hover" style="max-width:55em;">
 
   <tr>
     <td style="width: 15em;">
-     The  Cycle 4 solicitation is now avalibe on [NSPIRES](https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId={4B9CAAB3-D398-183A-B1F3-EF963DF415C7}&path=open).</td>
+     The  Cycle 4 solicitation is now available on [NSPIRES](https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId={4B9CAAB3-D398-183A-B1F3-EF963DF415C7}&path=open).</td>
   </tr>
 
 
@@ -39,7 +39,7 @@ Important information and useful tools for Cycle 4 proposals are hilighted in th
 
   <tr>
     <td style="width: 15em;">
-     Cycle 4 proposal templates are being created and when finailzed will be found on our [proposal templates page](proposal-templates.html)  </td>
+     Cycle 4 proposal templates are being created and when finalized will be found on our [proposal templates page](proposal-templates.html)  </td>
   </tr>
 
   <tr>
@@ -219,7 +219,7 @@ The Phase-1 peer review will be performed in a "dual-anonymous" manner, i.e., no
 
 * Proposals from non-U.S. institutions are acceptable and will only be considered on a no-exchange-of-funds basis. Non-U.S. proposals will be reviewed to the same standards as proposals from U.S. institutions and selected solely by NASA. 
 
-*All proposals must include a upload a separate "Expertise and Resources - Not Anonymized" document.
+*All proposals must include a separate "Expertise and Resources - Not Anonymized" document.
 
 
 All proposal materials must be submitted electronically by 4:30 p.m. Eastern time on the due date for this program given in Section 3 in order to be included in the proposal review for this cycle of the TESS Guest Investigator program. Note that the 4:30 p.m. deadline supersedes the deadline stated in the Guidebook for Proposers and in the ROSES Summary of Solicitation. 
