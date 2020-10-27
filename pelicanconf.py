@@ -139,6 +139,8 @@ KEY_INFORMATION = (
     ('Frequently asked questions', 'faq.html'),
     ('Volunteer to serve on a review','https://goo.gl/forms/p4ZqiTQSEHjbM6nz2'),
     ('Do you have a news-worthy TESS result?', 'media.html'),
+    ('Outreach Resources', 'gallery.html'),
+    ('Publications', 'publications.html')
     )
 
 
@@ -162,6 +164,8 @@ IMPORTANT_DATES = (
             # ('<b>5 July 2020</b>',
             #  'Cycle 3 observations begin',
             #  'status.html',), # link to a news item?
+            ('<b>13 January 2020</b>', 'AAS special session: Atmospheric characterization of TESS exoplanets',)
+            ('<b>14 January 2020</b>', 'AAS special session: Mining TESS data with machine learning and other advanced methods',)
             ('<b>22 January 2020</b>',
              'Cycle 4 proposals due',
              'proposing_investigations.html',), # link to a news item?
