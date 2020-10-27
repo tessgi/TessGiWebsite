@@ -6,7 +6,7 @@ Save_as: gallery.html
 
 
 ## TESS gallery
-A gallery of TESS videos, animations, still images, and other resources are maintained by NASA Goddard's Scientific Visualization Studio (SVS). Visit the [TESS Gallery](https://svs.gsfc.nasa.gov/Gallery/TESS.html) to access the latest graphics that are downloadable in a wide range of formats.
+A gallery of TESS videos, animations, still images, and other resources are maintained by NASA Goddard's Scientific Visualization Studio (SVS). Visit the [TESS gallery](https://svs.gsfc.nasa.gov/Gallery/TESS.html) to access the latest graphics that are downloadable in a wide range of formats.
 
 <br/>
 <img class="img-responsive" style="max-width:80%;" src="images/tess-svs.png">
@@ -19,7 +19,7 @@ A gallery of TESS videos, animations, still images, and other resources are main
 You can download files to create your very own TESS. This includes a paper model and files to create a 3D printed TESS spacecraft. All the details are [on our Github site](https://github.com/tessgi/tess-3d-printing-model).
 
 
-[3d printed model](https://github.com/tessgi/tess-3d-printing-model) | [Paper model](https://github.com/tessgi/tess-3d-printing-model) |
+[3D printed model](https://github.com/tessgi/tess-3d-printing-model) | [Paper model](https://github.com/tessgi/tess-3d-printing-model) |
 :-------------------------|:-------------------------
 <img class="img-responsive" style="max-width:80%;" src="images/tess_3d_model_1.jpg"> | <img class="img-responsive" style="max-width:80%;" src="images/tess_paper_model_1.jpg">
 <br/>
@@ -70,7 +70,7 @@ The TESS [Science Writer's Guide](https://www.nasa.gov/sites/default/files/atoms
 
 
 
-## Additional Exoplanet Resources
+## Additional exoplanet resources
 
 [NASA's exoplanet page](https://exoplanets.nasa.gov) contains a variety of useful information and resources that can be used for education and outreach. The [multimedia link](https://exoplanets.nasa.gov/multimedia/exoplanet-travel-bureau/?page=0&per_page=25&order=pub_date+desc%2C+id+desc&search=&category=122%3A174) allows  the user to download various posters, videos, and infographics.
 
