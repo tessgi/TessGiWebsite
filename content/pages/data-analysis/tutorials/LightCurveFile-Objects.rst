@@ -201,7 +201,7 @@ Note that unlike the table generated via a ``LightCurve Object``, this
 table contains the SAP flux and PDCSAP flux!
 
 Plotting the light curve
------------------------
+------------------------
 
 Lets now plot the light curve up for the object.
 
