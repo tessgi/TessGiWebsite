@@ -215,7 +215,7 @@ Lets now plot the light curve up for the object.
 
 
 SAP and PDCSAP light curves
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 By default, a
 `TESSLightCurveFiles <http://docs.lightkurve.org/api/lightkurve.lightcurve.TessLightCurve.html>`__
