@@ -240,7 +240,7 @@ The above is the Savitzky-Golay CDPP noise metric in units
 parts-per-million (ppm)
 
 Plotting the light curve
------------------------
+------------------------
 
 We can now use the built in ``plot`` function on the ``TESSLightCurve``
 object to plot the time series. You can pass ``plot`` any keywords you
