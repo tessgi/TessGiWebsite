@@ -350,7 +350,7 @@ much background. Lets now make this into a light curve.
 
 
 Compare data & light curves
---------------------------
+---------------------------
 
 We have now created light curve objects using both the SPOC pre-defined
 aperture and a mask of our own devising. Lets plot these light curves up
