@@ -41,8 +41,8 @@ The authors then went on to do a blind search of sectors 18 and 19 to further te
 
 ![Maciejewski](images/Maciejewski.png)
 
-**Fig 2.** *Taken from Maciejewski et. al., 2020. Phase folded light curves with the best fitting models applied. Residuals are plotted below each light curve. Typical median error bars are shown to the left of each panel. Short cadence data is green with long cadence being blue.*
+**Fig 2.** *Taken from Maciejewski et. al., 2020. TESS phase folded light curves with the best fitting models applied. Short cadence data is green with long cadence being blue. Residuals are plotted below each light curve. Typical median error bars are shown to the left of each panel.*
 
 ![Sha](images/Sha.png)
 
-**Fig 3.** *Taken from Sha et. al., (2020). TESS detrended and phase folded 30 min cadenced light curve of TOI-954. This is after dilution and focuses on the transit with binning of 20 min.*
+**Fig 3.** *Taken from Sha et. al., (2020). TESS detrended and phase folded 30 min cadenced light curve of TOI-954. This is after dilution, and focuses on the transit with binning of 20 min.*
