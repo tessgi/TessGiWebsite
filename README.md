@@ -156,19 +156,23 @@ Created using the [Pelican package](getpelican.com) and the
 
 
 ## Citation
-coming at a later date
 
-<!-- You can cite the Kepler/K2 Science Website in your publications using its [DOI identifier](http://dx.doi.org/10.5281/zenodo.44393)
+You can cite the TESS Science Support Center Website in your publications using its [DOI identifier](https://doi.org/10.5281/zenodo.4156283)
 or using the following BibTex code:
 ```
-@misc{tom_barclay_2016_44393,
+@software{tom_barclay_2020_4156283,
   author       = {Tom Barclay and
                   Geert Barentsen and
-                  Knicole Colon},
-  title        = {KeplerScienceWebsite: 20160106},
-  month        = jan,
-  year         = 2016,
-  doi          = {10.5281/zenodo.44393},
-  url          = {http://dx.doi.org/10.5281/zenodo.44393}
+                  Knicole Colon and
+                  Elisa Quintana and
+                  Rebekah Hounsell},
+  title        = {tessgi/TessGiWebsite: First v2.0 website build},
+  month        = oct,
+  year         = 2020,
+  publisher    = {Zenodo},
+  version      = {2.0},
+  doi          = {10.5281/zenodo.4156283},
+  url          = {https://doi.org/10.5281/zenodo.4156283}
 }
-``` -->
+```
+
