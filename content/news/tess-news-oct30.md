@@ -1,6 +1,8 @@
-Title: TESS Weekly Bulletin: October 29th
-Date: 2020-10-29 10:00
+Title: TESS Weekly Bulletin: October 30th
+Date: 2020-10-30 10:00
 Author: Rebekah Hounsell
+
+`STATUS UPDATE: The Cycle 4 solicitation is now available on` [NSPIRES](https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId={4B9CAAB3-D398-183A-B1F3-EF963DF415C7}&path=open))`. The Phase-1 deadline is January 22nd 2021`
 
 
 Welcome TESS followers to a special Halloween edition of the TESS news bulletin! This week we have three papers from the archive in addition to a new spooky feature!.
