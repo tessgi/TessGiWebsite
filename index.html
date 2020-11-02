@@ -158,20 +158,281 @@ in August 2015, using pelican-bootstrap and flatly.
     </div>
 </div> <!-- /.navbar -->
 <!-- Banner -->
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-    #banner{
-        background-image:url("./images/tess-banner-inverted_v2.jpg");
-    }
-</style>
+* {box-sizing: border-box}
+body {font-family: Exo 2; margin:0}
+.mySlides {display: none}
+/*img {vertical-align: center;}*/
 
-<div id="banner">
-    <div class="container">
-        <div class="copy">
-            <h1>TESS</h1>
-                <p class="intro">Science Support Center</p>
-        </div>
+/* Slideshow container */
+.slideshow-container {
+    max-width: 100%;
+    height: 300px;
+    position: relative;
+    margin: auto;
+    overflow: hidden;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -150px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 50px;
+  padding: 20px 20px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: left;
+  text-shadow: -5px 5px 5px black;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+.slidep{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    font-size: 1.0vw;
+    text-align: center;
+    width: 30%;
+    height: 100%;
+    margin-top: 0%;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    color: black;
+    background: lightgray
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .prev, .next,.text {font-size: 11px}
+}
+</style>
+</head>
+<body>
+
+
+<div class="slideshow-container">
+
+  <div class="mySlides">
+    <img src="images/tess-banner-inverted_v2.jpg" width="100%"  height="300px">
+    <div class="text">
+      <b style="font-size:4vw;">TESS</b>
+      <p style="font-size:4vw;">Science Support Center</p>
     </div>
-</div> <!-- End Banner -->
+  </div>
+
+  <div class="mySlides">
+    <img src="images/tess_first_light-tb.jpg" width="100%"  style="vertical-align:bottom" >
+    <div class="text">
+      <b style="font-size:4vw;">TESS</b>
+      <p style="font-size:4vw;">Science Support Center</p>
+    </div>
+    <div class = "slidep">
+      <p><b>FIRST LIGHT</b>
+	<br></br>On Tuesday, Aug 7th 2018 NASA's Transiting Exoplanet Satellite Survey took its “first light” science image.
+	This image was of the Large Magellanic Cloud and the bright star R Doradus.
+	<br></br>For more information see <a href='https://www.nasa.gov/feature/goddard/2018/nasa-s-tess-shares-first-science-image-in-hunt-to-fin\d-new-worlds'><u>here</u></a>
+	<br></br><i>Image Credit: NASA/MIT/TESS</i></p>
+    </div>
+  </div>
+
+  <div class="mySlides">
+    <img src="images/tess_comet_1041_0.gif" width="100%"   height="300px">
+    <div class="text">
+      <b style="font-size:4vw;">TESS</b>
+      <p style="font-size:4vw;">Science Support Center</p>
+    </div>
+    <div class = "slidep">
+      <p><b>Comet Catching</b>
+	<br></br>Before NASA's Transiting Exoplanet Satellite Survey began science operations, the planet hunter sent back
+	a stunning sequence of serendipitous images showing the motion of a comet. This is comet C/2018 N1, mapped here over a 17 hour period by TESS on June 25th 2018.
+	<br></br>For more information see <a href='https://www.nasa.gov/feature/goddard/2018/nasa-s-planet-hunting-tess-catches-a-comet-before-starting-science'><u>here</u></a>
+	<br></br><i>Massachusetts Institute of Technology/NASA’s Goddard Space Flight Center</i></p>
+    </div>
+  </div>
+
+  <div class="mySlides">
+    <img src="images/Mosaic.jpg" width="100%"  style="vertical-align:bottom">
+    <div class="text">
+      <b style="font-size:4vw;">TESS</b>
+      <p style="font-size:4vw;">Science Support Center</p>
+    </div>
+    <div class = "slidep">
+      <p><b>Northern Sky Mosaic</b>
+	<br></br> During its second year of operation TESS observed the northern hemisphere. Combining 208 images taken by TESS, this mosaic of the northern sky was created. Many celestial objects can be seen within this image, but most noticeable is the arc of the Milky Way - our home. 
+	<br></br>For more information look <a href="https://www.nasa.gov/image-feature/goddard/2020/nasa-s-tess-creates-a-cosmic-vista-of-the-northern-skyn"><u>here</u></a>
+	<br></br><i>Image Credit: NASA/MIT/TESS and Ethan Kruse (USRA).</i></p>
+    </div>
+  </div>
+
+  <div class="mySlides">
+    <img src="images/2246_Graveyard_ENGLISH_Web_RGB.jpg" width="100%"  style="vertical-align:bottom">
+    <div class="text">
+      <b style="font-size:4vw;">TESS</b>
+      <p style="font-size:4vw;">Science Support Center</p>
+    </div>
+    <div class = "slidep">
+      <p><b>Galactic Graveyard</b>
+	<br></br>MACS 2129-1 is a massive 'dead' disk galaxy. It stopped making stars only a few billion years after the Big Bang! It is now a cosmic cemetery of red dying stars.
+	<br></br>For more information about this cosmic horror see <a href='https://exoplanets.nasa.gov/resources/2246/galactic-graveyard/'><u>here</u></a>
+	<br></br><i>Image Credit: NASA-JPL/Caltech.</i></p>
+    </div>
+  </div>
+
+  <div class="mySlides">
+    <img src="images/superearth20180412-16.jpg" width="100%"  height="400">
+    <div class="text">
+      <b style="font-size:4vw;">TESS</b>
+      <p style="font-size:4vw;">Science Support Center</p>
+    </div>
+    <div class = "slidep">
+      <p><b>Worlds orbiting other stars</b>
+	<br></br>The worlds orbiting other stars are called “exoplanets,” and they come in a wide variety
+	of sizes, from gas giants larger than Jupiter to small, rocky planets about as big around as Earth or Mars.
+	This rocky super-Earth is an illustration of the type of planet NASA's Transiting Exoplanet Satellite Survey can find.
+	<br></br>For more information look <a href='https://www.nasa.gov/image-feature/nasas-tess-mission-hopes-to-find-exoplanets-beyond-our-solar-system'><u>here</u></a>
+	<br></br><i>Image Credit: ESO/M. Kornmesser.</i></p>
+    </div>
+  </div>
+
+  <div class="mySlides">
+    <img src="images/2237_FLARES_RGB_small.jpg" width="100%" style="vertical-align:bottom">
+    <div class="text">
+      <b style="font-size:4vw;">TESS</b>
+      <p style="font-size:4vw;">Science Support Center</p>
+    </div>
+    <div class = "slidep">
+      <p><b>AU Mic b</b>
+	<br></br>AU Microscopii is among the youngest planetary system observed by astronomers.
+	The planet is located less than 32 light-years from Earth and its host star throws vicious temper tantrums!
+	<br></br>For more information look <a href='https://www.nasa.gov/feature/goddard/2020/nasa-s-tess-spitzer-missions-discover-a-world-orbiting-a-unique-young-star'>
+	  <u>here</u></a>
+	<br></br><i>Image Credit: NASA-JPL/Caltech.</i></p>
+    </div>
+  </div>
+
+  <div class="mySlides">
+    <img src="images/ssc2019-14c.jpg" style="width:100%" height="500px">
+    <div class="text">
+      <b style="font-size:4vw;">TESS</b>
+      <p style="font-size:4vw;">Science Support Center</p>
+    </div>
+    <div class = "slidep">
+      <p><b>LHS 3844b</b>
+	<br></br>Discovered in 2018 by NASA's Transiting Exoplanet Satellite Survey,
+	LHS 3844b is a rocky planet located 48.6 light-years away with a radius 1.3 times that of Earth.
+	The host to this planet is a cool M dwarf star, one of the most common and long-lived type stars in our galaxy.
+	<br></br>For more information look <a href='https://www.nasa.gov/image-feature/a-glimpse-of-a-rocky-exoplanets-surface'><u>here</u></a>
+	<br></br><i>Image Credit:/JPL-Caltech</i></p>
+    </div>
+  </div>
+
+</div>
+<br>
+
+<!--The dots and circles-->
+<div style="text-align:center">
+  <span class="dot" onclick="currentSlide(1)"></span> 
+  <span class="dot" onclick="currentSlide(2)"></span> 
+  <span class="dot" onclick="currentSlide(3)"></span>
+  <span class="dot" onclick="currentSlide(4)"></span> 
+  <span class="dot" onclick="currentSlide(5)"></span> 
+  <span class="dot" onclick="currentSlide(6)"></span>
+  <span class="dot" onclick="currentSlide(7)"></span> 
+  <span class="dot" onclick="currentSlide(8)"></span>
+</div>
+
+<script>
+var slideIndex = 0;
+showSlides();
+
+  function currentSlide(n) {
+      showSlides(slide_index = n);
+      
+  }
+  
+  function showSlides(){
+      var i;
+      var slides = document.getElementsByClassName("mySlides");
+      for (i = 0; i < slides.length; i++) {
+	  slides[i].style.display = "none"; 
+      }
+
+      slideIndex++;
+      if (slideIndex > slides.length) {slideIndex = 1} 
+      slides[slideIndex-1].style.display = "block"; 
+      setTimeout(showSlides, 20000); // Change image every 2 seconds
+  }
+  
+</script>
+
+</body>
+</html> 
+<!-- End Banner -->
 
 
 <div class="container">
@@ -180,6 +441,17 @@ in August 2015, using pelican-bootstrap and flatly.
 <div class="col-md-8">
 
 <h2 style="padding-bottom:0.3em;">News for scientists</h2>
+            <article>
+                <div><b><a href="./tess-weekly-bulletin-october-30th.html">TESS Weekly Bulletin: October 30th</a></b>
+                </div>
+                <span class="categories-timestamp"><time datetime="2020-10-30T10:00:00-04:00">30 Oct 2020</time></span>  
+                <div class="summary entry-content" style="padding-top: 0.5em; "><p><code>STATUS UPDATE: The Cycle 4 solicitation is now available on</code> <a href="https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId={4B9CAAB3-D398-183A-B1F3-EF963DF415C7}&amp;path=open">NSPIRES</a><code>. The Phase-1 deadline is January 22nd 2021</code></p>
+<p>Welcome TESS followers to a special Halloween edition of the TESS news bulletin! This week we have three papers from the archive in addition to a new spooky feature!.</p>
+<p>With Halloween this ...</p>
+                    <a class="btn btn-default btn-xs" href="./tess-weekly-bulletin-october-30th.html">More &raquo;</a>
+                </div>
+            </article>
+            <hr/>
             <article>
                 <div><b><a href="./cycle-4-proposal-deadline-january-22.html">Cycle 4 Proposal Deadline January 22</a></b>
                 </div>
@@ -220,15 +492,6 @@ in August 2015, using pelican-bootstrap and flatly.
 <p>First, the notices.</p>
 <p>The TESS GI office is running a special session at this <a href="https://aas.org/meetings/aas237">winters AAS</a>. The session ...</p>
                     <a class="btn btn-default btn-xs" href="./tess-weekly-bulletin-october-1st.html">More &raquo;</a>
-                </div>
-            </article>
-            <hr/>
-            <article>
-                <div><b><a href="./first-tess-extended-mission-now-available.html">First TESS Extended Mission now available</a></b>
-                </div>
-                <span class="categories-timestamp"><time datetime="2020-09-29T11:00:00-04:00">29 Sep 2020</time></span>  
-                <div class="summary entry-content" style="padding-top: 0.5em; "><p>Data from Sector 27 - the first of the TESS Extended Mission - is now available at the <a href="http://archive.stsci.edu/tess/">MAST archive</a>. All data is in the Southern Ecliptic Hemisphere and covers a region that overlaps the Prime Mission Sector 1 field. This is the first time, TESS users can get their hands on ...</p>
-                    <a class="btn btn-default btn-xs" href="./first-tess-extended-mission-now-available.html">More &raquo;</a>
                 </div>
             </article>
             <hr/>
@@ -562,7 +825,7 @@ ay(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]=
       <!-- NASA logo and notices -->
       <div class="row" style="margin-top:2em;">
          <div class="col-md-10"> <a href="http://www.nasa.gov/"><img src="./images/NASA_logo_vector_lg.png" width="30" alt="NASA Logo"></a> 
-         Last modified: Sun 25 October 2020
+         Last modified: Fri 30 October 2020
             &middot; Editor: Thomas Barclay &middot; NASA Official: Patricia T Boyd 
             &middot; <a href="http://www.nasa.gov/about/highlights/HP_Privacy.html">Privacy Policy and Important Notices</a><p></p>         </div>
          <div class="col-md-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
