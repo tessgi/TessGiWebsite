@@ -108,7 +108,11 @@ body {font-family: Exo 2; margin:0}
 
 /* On smaller screens, decrease text size */
 @media only screen and (max-width: 300px) {
-  .prev, .next,.text {font-size: 11px}
+    .prev, .next,.text {font-size: 11px}
+    .mySlides{
+	display: none;
+    }
+    
 }
 </style>
 </head>
@@ -276,17 +280,13 @@ body {font-family: Exo 2; margin:0}
 
   
 /*var slideIndex = 0;
-showSlides();
+  showSlides();
 
   function currentSlide(n) {
       showSlides(slide_index = n);
-      
-  }
+      }
 
-
-
-  
- var timer = null;
+  var timer = null;
   
   function showSlides(){
       var i;
