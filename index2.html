@@ -427,11 +427,12 @@ showSlides();
       slideIndex++;
       if (slideIndex > slides.length) {slideIndex = 1} 
       slides[slideIndex-1].style.display = "block"; 
-      var timer = setInterval(showSlides, 20000); // Change image every 2 seconds
+      var timer = setInterval(showSlides, 20000); // Change image every 20 seconds
   }
 
-  function myStopFunction() {
-  clearInterval(timer);
+  function reset_timer(time){
+      clearInterval(timer);
+      var timer = setInterval( ... , 20000);
   }
   
   
