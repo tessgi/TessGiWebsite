@@ -94,7 +94,7 @@ MENUITEMS = (
             ('Publications', 'publications.html'),
                     )
         ),
-        ('TESS data & tools', (
+        ('Data & tools', (
             ('Data pipeline', 'data-handling.html'),
             ('Data products', 'data-products.html'),
             ('Data access', 'data-access.html'),
