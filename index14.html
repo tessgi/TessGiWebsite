@@ -204,7 +204,7 @@ body {font-family: Exo 2; margin:0}
 .prev:hover, .next:hover {
   background-color: rgba(0,0,0,0.8);
 }
-/* font-size: 50px;*/
+
 /* Caption text */
 .text {
   color: white;
@@ -269,17 +269,13 @@ body {font-family: Exo 2; margin:0}
   to {opacity: 1}
 }
 
+/*  (min-width: 1500px)
+    text {font-size: 75px;}*/
+
 /* On smaller screens dont show classes */
-*@media screen and (max-width: 1000px) {
+*@media (max-width: 1000px) {
     .prev,.next,.slidep {display: none;}
- 
 }
-
-@media screen and (min-width: 1500px) {
-    .text {font-size: 75px;}
- 
-}
-
 
 </style>
 </head>
