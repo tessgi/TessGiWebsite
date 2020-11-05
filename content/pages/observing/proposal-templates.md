@@ -14,8 +14,8 @@ All Cycle 4 templates are avalible in several formats below,
     <td style="width: 15em;">
     <td>Template for small and large proposals</td>
     <td><a href="docs/tessgi_smalllarge_template_cycle4.txt" download>Latex</a></td>
-    <td><a href="docs/tessgi_small&large_template_cycle4.docx" download>Word</a></td>
-    <td><a href="docs/tessgi_small&large_template_cycle4.pdf" download>PDF</a></td>
+    <td><a href="docs/tessgi_smalllarge_template_cycle4.docx" download>Word</a></td>
+    <td><a href="docs/tessgi_smalllarge_template_cycle4.pdf" download>PDF</a></td>
     </tr>
 
 <tr>
