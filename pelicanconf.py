@@ -94,11 +94,13 @@ MENUITEMS = (
             ('Publications', 'publications.html'),
                     )
         ),
-        ('TESS data', (
+        ('Data & tools', (
             ('Data pipeline', 'data-handling.html'),
             ('Data products', 'data-products.html'),
             ('Data access', 'data-access.html'),
+            ('Data analysis tools', 'data-analysis-tools.html'),
             ('Community products', 'community.html'),
+            ('Community tools', 'community-tools.html'),
             ('Documentation', 'documentation.html'),
                       )
         ),
@@ -108,14 +110,9 @@ MENUITEMS = (
             ('Approved GI programs', 'approved-programs.html'),
                          )
         ),
-        ('Tools', (
-            ('Proposal & observation tools', 'proposal-tools.html'),
-            ('Data analysis tools', 'data-analysis-tools.html'),
-            ('Community tools', 'community-tools.html'),
-                  )
-        ),
         ('Proposing', (
             ('Guest Investigator Proposals', 'proposing-investigations.html'),
+            ('Proposal & observation tools', 'proposal-tools.html'),
             ("Director's Discretionary Target program", 'ddt.html'),
             ('Proposal templates', 'proposal-templates.html'),
                       )
