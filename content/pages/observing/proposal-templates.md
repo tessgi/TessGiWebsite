@@ -28,7 +28,7 @@ All Cycle 4 templates are avalible in several formats below,
 
 <tr>
     <td style="width: 15em;">
-    <td>Template for small and large proposals</td>
+    <td>Template for team expertise</td>
     <td><a href="docs/tessgi_teamexpertise_template_cycle4.txt" download>Latex</a></td>
     <td><a href="docs/tessgi_teamexpertise_template_cycle4.docx" download>Word</a></td>
     <td><a href="docs/tessgi_teamexpertise_template_cycle4.pdf" download>PDF</a></td>
