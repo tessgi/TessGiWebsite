@@ -26,6 +26,24 @@ Cycle 3
 
 .. include:: approved-programs/cycle3.html
 
+Sector 32
+=========
+.. raw:: html
+
+    <ul class="list-group">
+        <li class="list-group-item">
+          <i class="fa fa-calendar fa-margin"></i>
+          Nov 19, 2020 - Dec 17, 2020
+        </li>
+        <li class="list-group-item">
+            <i class="fa fa-download fa-margin"></i>
+            <a href="data/target_lists/sector032_targets_lists/GI_S032.csv">2 min target list (csv)</a>, 
+            <a href="data/target_lists/sector032_targets_lists/GI_20s_S032.csv">20 s target list (csv)</a>
+        </li>
+    </ul>
+
+.. include:: approved-programs/sector032.html
+
 Sector 31
 =========
 .. raw:: html
