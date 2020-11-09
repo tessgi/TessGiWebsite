@@ -35,3 +35,6 @@ Summary: Our Cycle 3 TESS GI proposal is to observe and analyze a sample of 31 b
 
 # Sector 031 targets observed (2 min: 1, 20 s: 0)
 30531417,74.8072,-69.595,11.12,G03204;G03252;G03169
+
+# Sector 032 targets observed (2 min: 1, 20 s: 0)
+30531417,74.8072,-69.595,11.12,G03204;G03252;G03169

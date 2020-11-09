@@ -19,3 +19,6 @@ Summary: We propose to observe pulsating subdwarf B (sdB) stars to determine orb
 # Sector 030 targets observed (2 min: 2, 20 s: 2)
 248949857,20.9302,-5.0961,11.96,G03234;G03221;20SECONDTARGET
 220573709,47.46,-64.1757,14.95,G03234;G03221;20SECONDTARGET
+
+# Sector 032 targets observed (2 min: 1, 20 s: 1)
+167746025,80.8561,-39.1983,15.61,G03234;G03221;20SECONDTARGET
