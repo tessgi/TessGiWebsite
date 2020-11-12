@@ -69,6 +69,14 @@ The TESS [Science Writer's Guide](https://www.nasa.gov/sites/default/files/atoms
 -->
 
 
+##Citizen scientists
+Want to discover your own exoplanets using TESS data? Try 
+[Planet Hunters](planethunters.org) or [Planet Patrol](exoplanetpatrol.org). 
+You'll find more NASA citizen science projects at science.nasa.gov/citizenscience
+
+<img class="img-responsive" style="max-width:80%;" src="images/planetpatrol.png"> | <img class="img-responsive" style="max-width:80%;" src="images/planethunters.png">
+
+
 
 ## Additional exoplanet resources
 
