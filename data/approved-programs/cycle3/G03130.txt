@@ -19,7 +19,3 @@ Summary: Planets are not born in their final state; their orbital and physical p
 
 # Sector 029 targets observed (2 min: 1, 20 s: 1)
 206609630,22.5497,-59.5833,12.19,G03130;G03278;20SECONDTARGET
-
-# Sector 032 targets observed (2 min: 2, 20 s: 0)
-93125144,84.8466,-19.5584,9.68,G03130;G03278
-14091631,77.2505,-36.461,10.54,G03130;G03265
