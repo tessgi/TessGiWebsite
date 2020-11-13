@@ -1,5 +1,5 @@
-Title: TESS Weekly Bulletin: November 12th
-Date: 2020-11-12 10:00
+Title: TESS Weekly Bulletin: November 13th
+Date: 2020-11-13 10:00
 Author: Rebekah Hounsell
 
 `STATUS UPDATE: New FFI light curves have been created and are now available on MAST!`
