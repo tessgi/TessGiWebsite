@@ -14,6 +14,3 @@ Summary: M dwarfs stars are the most abundant stellar type and are known to freq
 
 # Sector 030 targets observed (2 min: 1, 20 s: 1)
 610210976,18.1349,-16.9953,12.3,G03273;G03205;G03227;20SECONDTARGET
-
-# Sector 032 targets observed (2 min: 1, 20 s: 1)
-160329609,91.2175,-34.5579,9.65,G03273;G03265;G03205;G03250;G03174;G03228;G03226;G03202;G03274;20SECONDTARGET

@@ -24,6 +24,3 @@ Summary: We propose the observations of 41 southern symbiotic stars selected fro
 
 # Sector 031 targets observed (2 min: 1, 20 s: 0)
 332890609,34.8368,-2.9791,2.26,G03156;G03206;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25
-
-# Sector 032 targets observed (2 min: 1, 20 s: 0)
-24603068,80.578,-8.6661,4.72,G03156;G03206;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25
