@@ -49,3 +49,7 @@ A list of currently available HLSP for TESS can be found [here at MAST](https://
 * [Data Products From TESS Data Alerts](https://archive.stsci.edu/prepds/tess-data-alerts/) (PI: Roland Vanderspek)
 * [TESS Data For Asteroseismology Lightcurves](http://archive.stsci.edu/hlsp/tasoc) (PI: Rasmus Handberg)
 * [Cluster Difference Imaging Photometric Survey](http://archive.stsci.edu/hlsp/cdips) (PI: Luke Bouma)
+* [eleanor FFI Light Curves From TESS](http://archive.stsci.edu/prepds/eleanor) (PI: Benjamin Montet)
+* [A PSF-Based Approach to TESS High Quality Data Of Stellar Clusters](http://archive.stsci.edu/hlsp/pathos) (PI: Domenico Nardiello)
+* [TESS Light Curves From Full Frame Images](https://archive.stsci.edu/hlsp/tess-spoc) (PI: Douglas A. Caldwell)
+* [TESS Lightcurves From The MIT Quick-Look Pipeline](https://archive.stsci.edu/hlsp/qlp) (PI: Chelsea X. Huang)
