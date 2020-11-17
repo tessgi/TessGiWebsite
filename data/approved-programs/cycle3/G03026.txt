@@ -17,3 +17,6 @@ Summary: We propose to investigate three possible physical origins of the optica
 
 # Sector 031 targets observed (2 min: 1, 20 s: 0)
 206713861,54.8071,-17.6002,16.31,G03026
+
+# Sector 032 targets observed (2 min: 1, 20 s: 0)
+167744793,80.7416,-36.4586,14.86,G03026
