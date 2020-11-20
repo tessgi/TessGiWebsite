@@ -9,9 +9,7 @@ Welcome TESS followers to our weekly news bulletin. This week we have one import
 
 First the notification,
 
-At stated above the TESS Cycle 4 submission process for proposals is now live, with submission hosted at the [NASA ARK/RPS page](https://heasarc.gsfc.nasa.gov/ark/rps/). There are several additions to the TESS ARK/RPS page this cycle. These include options to submit new Mini proposals that only request targets and joint TESS/Fermi programs. We also note that Cycle 4 is the first TESS proposal cycle to be dual anonymous.  Each proposal now requires non-anonymous team expertise document to be uploaded during the submission process.
-
-You can also find useful Cycle 4 proposal templates [here](proposal-templates.html).
+At stated above the TESS Cycle 4 submission process for proposals is now live, with submission hosted at the [NASA ARK/RPS page](https://heasarc.gsfc.nasa.gov/ark/rps/). There are several additions to the page which include options to submit new Mini proposals and joint TESS/Fermi programs. Note that Cycle 4 is  also the first TESS proposal cycle to be dual anonymous. For more information please check out our [guest investigator proposal page](http://localhost:8000/proposing-investigations.html) in addition to the submission page. You can also find useful Cycle 4 proposal templates [here](proposal-templates.html).
 
 Now on to our featured papers,
 
