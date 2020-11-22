@@ -7,6 +7,17 @@ The TESS Guest Investigator (GI) program is intended to enable the community to 
 
 The next opportunity is TESS Cycle 4, which begins observations in June 2021 and ends in September 2022, covering observing sectors 40-56. Scientific investigations executed by TESS primarily supported by the TESS GI program. Observations in Cycle 4 will cover the Northern Ecliptic Hemisphere and the Ecliptic Plane.
 
+<div class="row">
+    <div class="col-md-6 text-center">
+        <img id="Y4_ecl" src="images/Y4_only_ecl.png" class="img-responsive">
+        Cycle 4 fields in Ecliptic coordinates
+    </div>
+    <div class="col-md-6 text-center">
+        <img id="Y4_cel" src="images/Y4_only_cel.png" class="img-responsive">
+        Cycle 4 fields in Celestial coordinates
+    </div>
+</div>
+<br>
 There is no exclusive-use data rights to observations collected by TESS. All data is made available through the [MAST public archive](http://archive.stsci.edu/tess/summary.html) once data processing and validation is complete.
 
 Important information and useful tools for Cycle 4 proposals are highlighted in the table below.
