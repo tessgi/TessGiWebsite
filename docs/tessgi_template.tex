@@ -1,0 +1,256 @@
+%% LaTeX template for the science justification & technical
+%% feasibility to be submitted as part of a TESS Guest Investigator
+%% Program proposal. This template is based on the proposal template
+%% used by the NuSTAR mission.
+%%
+%% TESS Guest Investigator Proposal Cycle 1 template
+%% V1.0
+%% 2017-08-04
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%% DOCUMENT FORMAT %%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%% The default font was chosen to be easily readable while allowing
+%% sufficient material to be included.
+
+%% Please note that the proposal will be printed on US Letter size paper,
+%% 8.5 in x 11 in, and that formatting the text for other sizes will
+%% generally cause layout problems and may result in text being cut
+%% off near the edges. PLEASE DO NOT CHANGE THE 'LETTERPAPER' OPTION
+%% IN THE DOCUMENTCLASS COMMAND.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%% Default format: 11pt single column %%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%% NOTE: NASA ROSES requires body font size to be no smaller than 15 
+%% characters per inch (equivalent to Times Roman 12 point).
+%%
+%% Minimum margin size is 1 inch from top, bottom, and sides.
+
+\documentclass[letterpaper,11pt]{article}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%% HOW TO INCLUDE FIGURES %%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%% Please see the ``Included packages'' section below.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%% Included packages %%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\usepackage{graphics,graphicx}
+\usepackage[colorlinks]{hyperref}
+\hypersetup{urlcolor=blue}
+\usepackage{cleveref}
+
+%% Feel free to modify the included packages list to use your
+%% favorite packages. 
+
+%% In the graphics and graphicx packages, Postscript and eps figures
+%% can be included using the \includegraphics command. The graphics
+%% package is part of standard LaTeX2e and provides a basic way of including a
+%% figure. The graphicx package is not standard, but extends the
+%% \includegraphics command to make it more user-friendly. If graphicx
+%% is not available on your system please remove it from the list of
+%% included packages above.  
+
+%% Syntax:
+%% In the graphics package:
+%%
+%% \begin{figure}
+%% \includegraphics[llx,lly][urx,ury]{file}
+%% \end{figure}
+%%
+%% where ll denotes 'lower left' and ur 'upper right' and the x and y
+%% values are the coordinates of the PostScript bounding box in
+%% points. There are 72 points in an inch.
+%%
+%% In the graphicx package:
+%% 
+%% \begin{figure}
+%% \includegraphics[key=val,key=val,...]{file}
+%% \end{figure}
+%%
+%% where some of the useful keys are: angle, width, height,
+%% keepaspectratio (='true' or 'false') and scale. Bounding box values
+%% can be given as [bb=llx lly urx ury].
+%%
+%% In either case you have to use LaTeX figure placement commands to
+%% position the figure on the page; \includegraphics will not do
+%% that. Both these commands also have other options that are listed
+%% in the LaTeX manual (for the graphics package) and in 'The LaTeX
+%% Graphics Companion' (for the graphicx package).
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%% Page dimensions %%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\setlength{\textwidth}{6.5in} 
+\setlength{\textheight}{9in}
+\setlength{\topmargin}{-0.0625in} 
+\setlength{\oddsidemargin}{0in}
+\setlength{\evensidemargin}{0in} 
+\setlength{\headheight}{0in}
+\setlength{\headsep}{0in} 
+\setlength{\hoffset}{0in}
+\setlength{\voffset}{0in}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%% Section heading format %%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\makeatletter
+\renewcommand{\section}{\@startsection%
+{section}{1}{0mm}{-\baselineskip}%
+{0.5\baselineskip}{\normalfont\Large\bfseries}}%
+\makeatother
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%% Some Useful Abbreviations %%%%% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newcommand{\tess}{{\it TESS}}
+\newcommand{\jwst}{{\it JWST}}
+\newcommand{\kepler}{{\it Kepler}}
+\newcommand{\ktwo}{{K2}}
+\newcommand{\hst}{{\it HST}}
+\newcommand{\msun}{$M_{\odot}$}
+\newcommand{\rsun}{$R_{\odot}$}
+\newcommand{\lsun}{$L_{\odot}$}
+\newcommand{\re}{$R_{\oplus}$}
+\newcommand{\me}{$M_{\oplus}$}
+\newcommand{\rj}{$R_{\textrm{\scriptsize Jup}}$}
+\newcommand{\mj}{$M_{\textrm{\scriptsize Jup}}$}
+\newcommand{\ms}{m~s$^{-1}$}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%% Start of document %%%%% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+\pagestyle{plain}
+\pagenumbering{arabic}
+
+
+ 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%% Title of proposal %%%%% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{center} 
+\bfseries\uppercase{%
+%%
+%% ENTER TITLE OF PROPOSAL BELOW THIS LINE
+REPLACE THIS LINE WITH THE TITLE
+%%
+%%
+}
+\end{center}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%% Body of science justification %%%%%
+%%%%% and technical feasibility     %%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\noindent{The recommended sections for a TESS GI proposal are shown below. Feel free to change section 
+headings as necessary, but this is the suggested minimal information that should be included in the proposal. 
+This Science/Technical section of the proposal is limited to 4 pages including figures and references.} 
+
+
+\section{Introduction}
+
+Summarize the problem being addressed and give an overview of how your investigation will help. 
+Why \tess, why now?
+
+
+\section{Scientific Justification}
+
+Provide text and figures that justify the scientific need for \tess\ observations and analyses here. 
+Justify your choice of cadence. When applicable, justify your choice of new 2 min cadence observations. 
+If your program includes theoretical, simulation, or ground-based observing components (limited to no 
+more than 30\% effort), describe why these efforts are critical in addition to \tess\ observations.
+
+
+%% Trigger Criteria section:
+%% comment this section out on proposals not asking for
+%% Target of Opportunity (ToO) observations.
+
+\subsection{({\it Only} For ToO Proposals) Trigger Criteria}
+
+If the proposed investigation includes Targets of Opportunity (ToO's), describe also the circumstances 
+under which a ToO is triggered, an estimated duration of the event(s), and an estimated probability for 
+triggering the observations. Also discuss the potential science impact imposed by the delay in upload 
+of the event due to \tess\ orbit/uplink constraints.
+
+
+\section{Analysis Plan}
+
+Discuss how you plan to analyze the \tess\ data. This includes the development of software tools.
+
+
+\section{Technical Feasibility}
+
+Provide text and figures showing that the proposed \tess\ investigations are feasible; consider the 
+\tess\ survey strategy, target observability, and required signal-to-noise, etc. The \tess\ Science 
+Support Center (\href{https://heasarc.gsfc.nasa.gov/docs/tess/}{TSSC}) makes several tools available to help estimate these quantities.
+
+
+\section{Expected Impact}
+
+Summarize the expected science return of the proposed investigations and the expected benefit 
+to the community, including new data products and software tools to be made publicly available.
+
+
+\section{Budget Justification}
+
+For Principal Investigators at U.S. based institutions, provide a brief (1 paragraph) description of 
+the anticipated funding required and how the proposed funds will be used to achieve the goals 
+outlined in the proposal. 
+
+
+\section{References}
+
+List of references. References {\it are included} when considering the proposal 4 page limit.
+
+
+\section{Target Table}
+
+When necessary to justify your proposal, provide a list of targets using the below example as 
+a template for format. This target table is designed to aid reviewers and need only provide a 
+representative sample of the complete target list uploaded to RPS. Full target tables should be 
+submitted electronically with the Phase-1 proposal. Please limit this target table to only 1 page. 
+The table is {\it not included} in the 4 page limit of the Science/Technical section. Proposals including 
+a target table may be up to 5 pages in length, but only the target table may appear on page 5.
+
+\begin{center}
+\begin{tabular}{ | c | c | c | c | c | c | c | }
+\hline
+TIC ID          &      Common      &     RA             &      Dec          &      TESS       &       Obj.        &      Comments \\       
+                    &      Name           &     (deg)          &      (deg)        &      mag         &       Type       &                         \\     
+\hline
+\hline
+388857263  &  Prox Cen          &  217.428793  &  -62.679592  &  7.36             &    M Dwarf    & 2 min cad., RV planet \\ \hline
+                    &                           &                       &                      &                      &                     &                                     \\ \hline
+                    &                           &                       &                      &                      &                     &                                     \\ \hline
+                    &                           &                       &                      &                      &                     &                                     \\ \hline
+                    &                           &                       &                      &                      &                     &                                     \\ \hline
+\end{tabular}
+\end{center}   
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%% End of document %%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\end{document}
+
