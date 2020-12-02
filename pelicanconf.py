@@ -90,6 +90,7 @@ MENUITEMS = (
             ('Primary mission', 'primary.html'),
             ('Extended mission', 'extended.html'),
             ('FAQ', 'faq.html'),
+            ('Citizen Science', 'citizenscience.html'),
             ('Outreach resources', 'gallery.html'),
             ('Publications', 'publications.html'),
                     )
@@ -133,7 +134,7 @@ KEY_INFORMATION = (
     ('Web TESS Target Tool', 'https://heasarc.gsfc.nasa.gov/cgi-bin/tess/webtess/wtv.py'),
     ('Observing dates', 'sector.html'),
     ('Proposing science', 'proposing-investigations.html'),
-    ('Frequently asked questions', 'faq.html'),
+    ('Citizen Science projects', 'citizenscience.html'),
     ('Volunteer to serve on a review','https://goo.gl/forms/p4ZqiTQSEHjbM6nz2'),
     ('Do you have a news-worthy TESS result?', 'media.html'),
     ('Outreach Resources', 'gallery.html'),
