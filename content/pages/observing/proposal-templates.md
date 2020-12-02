@@ -1,8 +1,6 @@
 Title: Proposal templates
 Save_as: proposal-templates.html
 
-[TOC]
-
 Proposal templates are available to aid in writing TESS GI proposals. Use of these templates is not required. 
 
 All Cycle 4 templates are avalible in several formats below,
