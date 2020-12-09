@@ -1,0 +1,10 @@
+# TESS Program G011098
+
+Title: The Brightest Blazars
+
+PI: Wehrle, Ann - Space Science Institute
+
+Type: Small
+
+Summary: We propose to use the 30-minute-integration light curves of the 100 brightest blazars observable with TESS in Cycle 1 to see if the two classes of blazars (Flat Spectrum Radio Quasars and BL Lac Objects) emit variable optical light via the same or different physical processes in their relativistic jets. For five blazars near the south ecliptic pole, we will measure the incidence of flares and the fraction of time spent in high and low states for a full year. Our targets are gamma-ray blazars or candidate gamma-ray blazars pointed within 5 degrees to our line of sight; their emission is almost purely from the jets. The TESS time resolution will separate out individual flares and track fractal-variable emission on timescales accessible for the first time for a large number of blazars.       
+

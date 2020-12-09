@@ -1,0 +1,10 @@
+# TESS Program G011100
+
+Title: Darkness In Our Midst: Self-Lensing Search For Black Holes And Neutron Stars In The Local Stellar Neighborhood
+
+PI: Schnittman, Jeremy - NASA/GSFC
+
+Type: Small
+
+Summary: In this proposal we describe a novel technique for finding black holes (BHs) and neutron stars (NSs) in binary systems with MS stars. Specifically, we propose to look for the periodic magnification of the MS star caused by gravitational lensing by the BH or NS companion, which leads to an increase in flux on the order of 100--1000 ppm, lasting a few hours. Thus TESS is the ideal instrument for this search technique. We estimate that TESS will be able to detect and measure the masses of ~20 BHs and ~50 NSs with better than ~10% accuracy. Mass lower limits will be measured for over 200 systems, increasing the known population of galactic black holes by an order of magnitude.                                                                                                                       
+
