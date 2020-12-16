@@ -1,0 +1,13 @@
+# TESS Program G03051
+
+Title: Unraveling The Young Candidate Planetary System CVSO 30
+
+PI: Czesla, Stefan - Universitat Hamburg
+
+Type: SMALL
+
+Summary: We propose to re-observe the active weak-line T-Tauri star CVSO 30 with TESS in Nov. 2020 at 2 min cadence to study the extremely hot, young, and controversial Jupiter candidate CVSO 30 b. A first TESS light curve of the 2.7 Myr old star CVSO 30 shows strong rotational modulation with periodic (0.45 d), transit-like flux dips superimposed on it. An additional very cold jupiter in the system suggests that a recent planet scattering event may have given rise to its current architecture. Combined with ground-based results, the TESS data are consistent with a decline in period of the hot Jupiter, potentially caused by inspiraling. The proposed re-observation is a unique opportunity to study the transit depth and timing, which are indispensable to better understand the system.
+
+
+# Sector 032 targets observed (2 min: 1, 20 s: 0)
+264461976,81.2815,1.5734,14.03,G03051
