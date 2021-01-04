@@ -12,8 +12,8 @@ the TESS mission is provided by the NASA's Science Mission Directorate.*
 
 The TESS Science Support Center curates a list of scientific publications
 pertaining to TESS.
-The database contains 498 publications,
-of which 390 are peer-reviewed.
+The database contains 487 publications,
+of which 389 are peer-reviewed.
 It demonstrates the important impact of TESS data
 on astronomical research.
 
@@ -46,9 +46,9 @@ of year.
 
 Both TESS data have been used for scientific applications
 that reach far beyond exoplanet research.
-While 228 works relate to exoplanets
+While 223 works relate to exoplanets
 (46%),
-a total of 270
+a total of 264
 pertain to other areas of astrophysics
 (54%).
 
@@ -60,7 +60,7 @@ pertain to other areas of astrophysics
 ## Most-cited publications
 
 TESS publications have cumulatively been cited
-5496 times.
+5638 times.
 The list below shows the most-cited publications,
 based on the citation count obtained from NASA ADS.
 
@@ -68,52 +68,52 @@ based on the citation count obtained from NASA ADS.
 1. TRANSITING EXOPLANET SURVEY SATELLITE (TESS)  
 Ricker, George R., Winn, Joshua N., Vanderspek, Roland, et al.    
 [2015JATIS...1a4003R](http://adsabs.harvard.edu/abs/2015JATIS...1a4003R)
-<span class="badge">981 citations</span>
+<span class="badge">998 citations</span>
 
 2. THE TRANSITING EXOPLANET SURVEY SATELLITE: SIMULATIONS OF PLANET DETECTIONS AND ASTROPHYSICAL FALSE POSITIVES  
 Sullivan, Peter W., Winn, Joshua N., Berta-Thompson, Zachory K., et al.    
 [2015ApJ...809...77S](http://adsabs.harvard.edu/abs/2015ApJ...809...77S)
-<span class="badge">302 citations</span>
+<span class="badge">304 citations</span>
 
 3. THE TESS INPUT CATALOG AND CANDIDATE TARGET LIST  
 Stassun, Keivan G., Oelkers, Ryan J., Pepper, Joshua, et al.    
 [2018AJ....156..102S](http://adsabs.harvard.edu/abs/2018AJ....156..102S)
-<span class="badge">222 citations</span>
+<span class="badge">223 citations</span>
 
 4. A REVISED EXOPLANET YIELD FROM THE TRANSITING EXOPLANET SURVEY SATELLITE (TESS)  
 Barclay, Thomas, Pepper, Joshua, Quintana, Elisa V.    
 [2018ApJS..239....2B](http://adsabs.harvard.edu/abs/2018ApJS..239....2B)
-<span class="badge">151 citations</span>
+<span class="badge">153 citations</span>
 
-5. TESS DISCOVERY OF A TRANSITING SUPER-EARTH IN THE PI MENSAE SYSTEM  
-Huang, Chelsea X., Burt, Jennifer, Vanderburg, Andrew, et al.    
-[2018ApJ...868L..39H](http://adsabs.harvard.edu/abs/2018ApJ...868L..39H)
-<span class="badge">105 citations</span>
-
-6. THE REVISED TESS INPUT CATALOG AND CANDIDATE TARGET LIST  
+5. THE REVISED TESS INPUT CATALOG AND CANDIDATE TARGET LIST  
 Stassun, Keivan G., Oelkers, Ryan J., Paegert, Martin, et al.    
 [2019AJ....158..138S](http://adsabs.harvard.edu/abs/2019AJ....158..138S)
-<span class="badge">100 citations</span>
+<span class="badge">108 citations</span>
+
+6. TESS DISCOVERY OF A TRANSITING SUPER-EARTH IN THE PI MENSAE SYSTEM  
+Huang, Chelsea X., Burt, Jennifer, Vanderburg, Andrew, et al.    
+[2018ApJ...868L..39H](http://adsabs.harvard.edu/abs/2018ApJ...868L..39H)
+<span class="badge">106 citations</span>
 
 7. A FRAMEWORK FOR PRIORITIZING THE TESS PLANETARY CANDIDATES MOST AMENABLE TO ATMOSPHERIC CHARACTERIZATION  
 Kempton, Eliza M. -R., Bean, Jacob L., Louie, Dana R., et al.    
 [2018PASP..130k4401K](http://adsabs.harvard.edu/abs/2018PASP..130k4401K)
-<span class="badge">87 citations</span>
+<span class="badge">88 citations</span>
 
 8. THE ASTEROSEISMIC POTENTIAL OF TESS: EXOPLANET-HOST STARS  
 Campante, T. L., Schofield, M., Kuszlewicz, J. S., et al.    
 [2016ApJ...830..138C](http://adsabs.harvard.edu/abs/2016ApJ...830..138C)
-<span class="badge">67 citations</span>
+<span class="badge">68 citations</span>
 
 9. TESS DISCOVERY OF AN ULTRA-SHORT-PERIOD PLANET AROUND THE NEARBY M DWARF LHS 3844  
 Vanderspek, Roland, Huang, Chelsea X., Vanderburg, Andrew, et al.    
 [2019ApJ...871L..24V](http://adsabs.harvard.edu/abs/2019ApJ...871L..24V)
-<span class="badge">65 citations</span>
+<span class="badge">67 citations</span>
 
 10. LIMB AND GRAVITY-DARKENING COEFFICIENTS FOR THE TESS SATELLITE AT SEVERAL METALLICITIES, SURFACE GRAVITIES, AND MICROTURBULENT VELOCITIES  
 Claret, A.    
 [2017A&A...600A..30C](http://adsabs.harvard.edu/abs/2017A&A...600A..30C)
-<span class="badge">61 citations</span>
+<span class="badge">64 citations</span>
 <hr/>
 
 <!-- 
@@ -130,11 +130,9 @@ within the last 90 days.
 <!-- ## Most-active authors
 
 The entries in the publication database have been authored and co-authored
-by a total of 2626 unique author names.
+by a total of 2582 unique author names.
 Here we list the most-active authors, defined as those with six or more first-author publications in our database.
 
-
- * Lee, J (6 publications)
 
  * Bouma, L (6 publications)
 
