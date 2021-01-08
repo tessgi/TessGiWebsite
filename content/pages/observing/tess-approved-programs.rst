@@ -60,7 +60,7 @@ Sector 33
         </li>
     </ul>
 
-.. include:: approved-programs/sector0332.html
+.. include:: approved-programs/sector033.html
 
 Sector 32
 =========
