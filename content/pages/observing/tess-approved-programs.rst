@@ -26,6 +26,42 @@ Cycle 3
 
 .. include:: approved-programs/cycle3.html
 
+Sector 34
+=========
+.. raw:: html
+
+    <ul class="list-group">
+        <li class="list-group-item">
+          <i class="fa fa-calendar fa-margin"></i>
+          Jan 14, 2021 - Feb 08, 2021
+        </li>
+        <li class="list-group-item">
+            <i class="fa fa-download fa-margin"></i>
+            <a href="data/target_lists/sector034_targets_lists/GI_S034.csv">2 min target list (csv)</a>, 
+            <a href="data/target_lists/sector034_targets_lists/GI_20s_S034.csv">20 s target list (csv)</a>
+        </li>
+    </ul>
+
+.. include:: approved-programs/sector034.html
+
+Sector 33
+=========
+.. raw:: html
+
+    <ul class="list-group">
+        <li class="list-group-item">
+          <i class="fa fa-calendar fa-margin"></i>
+          Dec 18, 2020 - Jan 13, 2021
+        </li>
+        <li class="list-group-item">
+            <i class="fa fa-download fa-margin"></i>
+            <a href="data/target_lists/sector033_targets_lists/GI_S033.csv">2 min target list (csv)</a>, 
+            <a href="data/target_lists/sector033_targets_lists/GI_20s_S033.csv">20 s target list (csv)</a>
+        </li>
+    </ul>
+
+.. include:: approved-programs/sector0332.html
+
 Sector 32
 =========
 .. raw:: html
