@@ -22,9 +22,11 @@ Specific TESS events are listed in the table below,
   
   <table class="table table-striped table-hover" style="max-width:55em;">
   <thead>
+    <tr>
       <th style="vertical-align: middle;">Event Name</th>
       <th style="vertical-align: middle;">Date</th>
       <th style="vertical-align: middle;">Links</th>
+    </tr>
 </thead>
 
 <tr>
