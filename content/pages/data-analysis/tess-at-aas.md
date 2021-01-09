@@ -1,6 +1,7 @@
 Title: TESS at AAS
 Save_as: tess-at-aas.html
 
+[TOC]
 
 The winter 237th AAS meeting officially kicks off this Sunday the 10th of January 2021.
 
@@ -22,11 +23,12 @@ Specific TESS events are listed in the table below,
   
   <table class="table table-striped table-hover" style="max-width:55em;">
   <thead>
-    <tr>
+  <tr>
       <th style="vertical-align: middle;">Event Name</th>
       <th style="vertical-align: middle;">Date</th>
       <th style="vertical-align: middle;">Links</th>
-    </tr>
+
+      </tr>
 </thead>
 
 <tr>
