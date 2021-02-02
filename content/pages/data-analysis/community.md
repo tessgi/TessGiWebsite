@@ -53,3 +53,6 @@ A list of currently available HLSP for TESS can be found [here at MAST](https://
 * [A PSF-Based Approach to TESS High Quality Data Of Stellar Clusters](http://archive.stsci.edu/hlsp/pathos) (PI: Domenico Nardiello)
 * [TESS Light Curves From Full Frame Images](https://archive.stsci.edu/hlsp/tess-spoc) (PI: Douglas A. Caldwell)
 * [TESS Lightcurves From The MIT Quick-Look Pipeline](https://archive.stsci.edu/hlsp/qlp) (PI: Chelsea X. Huang)
+* [Multi-Sector Light Curves From TESS Full Frame Imaes (DIAMANTE)](https://archive.stsci.edu/hlsp/diamante) (PI: Marco Montalto)
+* [Convolution Neural Networks for Flare Identification in TESS 2-minute Data (STELLA)](https://archive.stsci.edu/hlsp/stella) (PI: Adina Feinstein)
+* [TESS Image CAlibrator Full Frame Images ("TICA")](https://archive.stsci.edu/hlsp/tica) (PI: Michael Fausnaugh)
