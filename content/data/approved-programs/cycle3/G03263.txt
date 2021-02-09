@@ -20,3 +20,6 @@ Summary: We propose to use the NASA Infrared Telescope Facility (IRTF) iSHELL sp
 
 # Sector 034 targets observed (2 min: 1, 20 s: 0)
 101011575,129.6882,-13.2565,8.59,G03263;G03278;G03227
+
+# Sector 035 targets observed (2 min: 1, 20 s: 0)
+296739893,142.1735,-12.1678,10.21,G03263;G03278

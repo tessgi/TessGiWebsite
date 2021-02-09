@@ -39,3 +39,6 @@ Summary: Cataclysmic variables provide the cleanest available natural laboratori
 
 # Sector 034 targets observed (2 min: 1, 20 s: 1)
 25133286,62.2984,-71.2948,13.58,G03284;G03240;G03124;G03071;G03044;20SECONDTARGET
+
+# Sector 035 targets observed (2 min: 1, 20 s: 1)
+25133286,62.2984,-71.2948,13.58,G03284;G03240;G03124;G03071;G03044;20SECONDTARGET
