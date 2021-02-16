@@ -13,13 +13,13 @@ Many tools are under development, and some are more robust than others. The TESS
 
 <table class="table table-striped table-hover" style="max-width:55em;">
 
-  <tr>
+<!--   <tr>
     <td style="width: 15em;"><a
     href='http://pyke.keplerscience.org'>PyKE suite</a></td>
     <td>The PyKE tools developed for the Kepler mission. <a
     href='https://github.com/KeplerGO/PyKE'>The git repository can be
     found here.</a> </td>
-  </tr>
+  </tr> -->
 
 
  <tr>
@@ -301,7 +301,7 @@ Tutorial [here](github.com/waqasbhatti/astrobase-notebooks) -->
 
   <tr>
     <td style="width: 15em;"><a
-    href='http://lightkurve.keplerscience.org'>Lightkurve</a></td>
+    href='https://docs.lightkurve.org'>Lightkurve</a></td>
     <td>Extract light curves from FFIs, and package into TPFs.
 </td>
 </tr>
@@ -343,7 +343,7 @@ Difference Imagine Analysis to extract a light curve from FFIs
 
 Make light curves from the Kepler Full Frame Images
 
-* [lightkurve](http://lightkurve.keplerscience.org)
+* [lightkurve](http://docs.lightkurve.org)
 
 Extract light curves from FFIs, package into TPFs
 
