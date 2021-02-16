@@ -7,17 +7,17 @@ Several tools exist to help the user obtain and examine TESS data, below we outl
 
 ## [lightkurve](https://docs.lightkurve.org)
 Lightkurve is a Python-based package developed by the Kepler/K2 Guest
-Observer (GO) Office for use by the community to work with Kepler and K2 data. The TESS GI Office has partnered with the Kepler/K2 GO Office to develop lightkurve for use with TESS data. 
+Observer (GO) Office for use by the community to work with Kepler and K2 data. The TESS GI Office has partnered with the Kepler/K2 GO Office to develop Lightkurve for use with TESS data. 
 
-Lighkurve functionality:
+Lightkurve functionality:
 
 * Reading, writing, and interacting with pipeline products (TPFs, LightCurve files, etc) 
-* Extracting lightcurves from pixels using custom aperture photometry or custom PSF fitting. 
+* Extracting light curves from pixels using custom aperture photometry or custom PSF fitting. 
 * Removing trends or correcting systematics using widely-used, non-controversial methods (SavGol, CBVs, SFF, ...)
 
 The lightkurve git repository is [here](https://github.com/KeplerGO/lightkurve).
 
-Below we list tutorials that will help first time users get to grips with using python, Lightkurve, and understading TESS data products.
+Below we list tutorials that will help first time users get to grips with using python, Lightkurve, and understanding TESS data products. Please note that these tutorials are written for Lightkurve v2.0.
 
 
 ###
