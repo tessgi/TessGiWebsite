@@ -58,7 +58,7 @@ TESS will observe a large number of M dwarfs for several reasons. Planets are ea
 
 The TESS detector bandpass spans from 600 - 1000 nm and is centered on the traditional Cousins I-band (I_C, central wavelength  = 786.5 nm). This wide, red-optical bandpass is preferred to reduce photon-counting noise and increase sensitivity to small planets transiting cool, red stars. The long wavelength end represents the red-limit of the CCD detectors and is set by their quantum efficiency.
 
-The short wavelength end is set by a long-pass filter coating on one of the camera lenses. In contrast to  Kepler, the TESS bandpass is comparably wide but covers redder wavelengths, reflecting the differing target priorities of the two missions (Sun-like stars for Kepler; small, cool stars for TESS). The width of 400 nm was the largest practical choice for the optical design. A [comma separated variable file](data/tess-response-function-v1.0.csv) with the bandpass response function is available.
+The short wavelength end is set by a long-pass filter coating on one of the camera lenses. In contrast to  Kepler, the TESS bandpass is comparably wide but covers redder wavelengths, reflecting the differing target priorities of the two missions (Sun-like stars for Kepler; small, cool stars for TESS). The width of 400 nm was the largest practical choice for the optical design. A [comma separated variable file](data/tess-response-function-v2.0.csv) with the bandpass response function is available.
 
 <br/>
 <img class="img-responsive" style="max-width:67%;" src="images/mission/tess_bandpass.png">
