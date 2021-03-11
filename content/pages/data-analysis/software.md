@@ -53,15 +53,7 @@ quarterly FFIs (30 min). TESS has two data modes, short cadence (2 min) postage 
 ### Detrending and analysis
 
 <table class="table table-striped table-hover" style="max-width:55em;">
-
-  <tr>
-    <td style="width: 15em;"><a
-    href='http://pyke.keplerscience.org'>PyKE suite</a></td>
-    <td>The PyKE tools developed for the Kepler mission. <a
-    href='https://github.com/KeplerGO/PyKE'>The git repository can be
-    found here.</a> </td>
-  </tr>
-
+  
 
  <tr>
     <td style="width: 15em;"><a
