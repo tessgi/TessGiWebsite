@@ -1,0 +1,32 @@
+Title: TESS Weekly Bulletin: Match 12th 
+Date: 2021-03-12 10:00
+Author: Rebekah Hounsell
+
+
+Welcome TESS followers to this weeks news bulletin! This week we have four papers from the archive, enjoy.
+
+**[An ultra-short-period transiting super-Earth orbiting the M3 dwarf TOI-1685](https://arxiv.org/abs/2103.01016)** *(Bluhm, et al., 2021)*:
+
+By studying ultra-short period planets scientists may gain insight into the dynamical histories of planetary systems, as well as the atmospheric evolution of highly irradiated planets. In this paper the authors follow-up a transit signal detected in Sector 19 of the TESS data, which occurs around an M3 V star. The authors confirm the planetary nature of the signal and derive the following planetary parameters: period = 0.6691403 days (using radial velocity measurements from CARMENS spectrograph), mass = 3.78 M<sub>Earth</sub>, radius = 1.70 R<sub>Earth</sub>, a bulk density of rho = 4.21 g cm<sup>-3</sup>, and T<sub>equlibrium</sub> = 1069 K. This planet, TOI-1685 b, is the least dense ultra-short period planet around an M dwarf known to date. The authors also detect another non-transiting planet candidate, TOI-1685 c, which has an orbital period of 9.02 days. 
+
+**[BG Ind: the nearest doubly eclipsing, compact hierarchical quadruple system](https://arxiv.org/abs/2103.00925)** *(Borkovits et. al., 2021)*:
+
+BG Ind is a well known bright binary system which consists of a pair of F stars in a 14.6 day orbit. In this paper the authors use TESS data to discover a second eclipsing binary in the system with a period of 0.53 days. Utilizing a combination of TESS photometry and archival ground-based photometric and radial velocity data, the authors find that the two binaries are gravitationally bound in a 721 day period with a moderately eccentric orbit. A detailed study of several data sets, including TESS, confirms the results of prior studies in which the brighter binary system A, consists of slightly evolved F-type stars with masses of 1.32 M⊙ and 1.43 M⊙, and radii of 1.59 R⊙ and 2.34 R⊙. The newly discovered binary system B, possesses less massive stars of 0.69 M⊙ and 0.64 M⊙, and radii of 0.64 R⊙ and 0.61 R⊙. The authors conclude that the three orbital planes are likely aligned to within 17”.
+
+
+**[Exploring the tilted accretion disc of AQ Men with TESS](https://arxiv.org/abs/2103.03041)** *(Ilkiewicz et al., 2021)*:
+
+AQ Men is a nova-like variable with a suspected tilted, precessing accretion disc. The geometry of this system can be explored through the examination of grazing eclipses. In this paper the authors have analyzed TESS data of AQ Men, creating some of the best light curves of this system to date. From these data the authors find that the depths of the eclipses change with the orientation of the disc, meaning that these eclipses can be used as a direct test of the tilted accretion disc models. Further analysis indicates that the precession period of the accretion disc varies, as does the shape of the variability. A positive superhump has also been detected that was previously unseen in AQ Men. This positive superhump has a strongly non-sinusoidal shape, which is not expected for a nova-like variable.
+
+**[NEMESIS: Exoplanet Transit Survey of Nearby M-Dwarfs in TESS FFIs I](https://arxiv.org/abs/2103.05647)** *(Feliz et. al., 2021)*:
+Using TESS full frame images from Sector 1 - 5 the authors have examined 33,054 M-dwarf stars within 100 parsecs. This analysis was conducted with a new pipeline called NEMESIS which was developed to extract de-trended photometry and perform transit searches of single sector data in TESS FFIs. These data can be used to provide an empirical validation of how many planets are missed by using 30 min cadence data. Using this pipeline the authors detect 183 threshold crossing events and 29 planet candidates, 24 of which are new detections. The orbital periods of the sample range from 1.25 - 6.84 days, and radii from 1.26 - 5.31 R<sub>Earth</sub>. Combining these new detections with the previous detections from Sectors 1 - 5, an integrated occurrence rate of 2.49 planets per star for the period range between 1-9 days, and planet radii between 0.5-11 R<sub>Earth</sub>, is determined. The authors then go on to project an estimated yield of 122 transit detections of near by M-dwarfs. Read this paper for more details about the pipeline and all candidates detected - in addition visit the [NEMESIS](https://filtergraph.com/NEMESIS) web-site. 
+
+![Bluhm](images/Bluhm.png)
+**Fig. 1:** *Taken from Bluhm, et al., (2021). Upper panels: TESS PDCSAP light curve of TOI-1685 and the corresponding phase-folded light curve. Lower panels: phase-folded light curves of LCOGT, PESTO, and MuSCAT2 in filter i and zs of TOI-1685. For all phase-folded light curves the residuals are shown for the USP found in the system. White circles are binned data (shown only for reference). Black curves are the best-fit models, and light and dark blue areas are the 68 % and 95 % credibility bands. The different sizes of the MuSCAT2 error bars correspond to the two observing night.*
+
+![Borkovits](images/Borkovits.png)
+
+**Fig. 2:** *Taken from Borkovits, et al., (2021). Folded, binned, and averaged TESS light curves of the two binaries of the quadruple system BG Ind. Upper panel: Sector 1 light curve of binary A (blue circles), together with the folded, binned, and averaged combined spectro-photodynamical model light curve (red curve). Middle and lower panels: Year 1 (Sector 1) and Year 3 (Sector 27 and 28) light curves of binary B, respectively. The red solution curve exhibits some small extra fluctuations that are probably due to the chromospheric/photospheric activities of the stars. These were modelled mathematically with Fourier-harmonics simultaneously with the two-binary model, while the thin grey curves represent the pure two-binary part of the same solution. The fold of the residuals to the models are also shown below the folded light curves.*
+
+![Ilkiewicz](images/Ilkiewicz.png)
+**Fig. 3:** *Taken from Ilkiewicz et. al., (2021). Representative samples of the TESS light-curve of AQ Men (black points) with corresponding errors (grey lines) at different timescales. The data is from TESS sector 11.*
