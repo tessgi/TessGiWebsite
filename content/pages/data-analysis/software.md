@@ -334,7 +334,7 @@ Tutorial [here](github.com/waqasbhatti/astrobase-notebooks) -->
 
   <tr>
     <td style="width: 15em;"><a
-    href='http://lightkurve.keplerscience.org'>Lightkurve</a></td>
+    href='https://docs.lightkurve.org'>Lightkurve</a></td>
     <td>Extract light curves from FFIs, and package into TPFs.
 </td>
 </tr>
