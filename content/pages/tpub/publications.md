@@ -60,7 +60,7 @@ pertain to other areas of astrophysics
 ## Most-cited publications
 
 TESS publications have cumulatively been cited
-6357 times.
+6377 times.
 The list below shows the most-cited publications,
 based on the citation count obtained from NASA ADS.
 
@@ -68,7 +68,7 @@ based on the citation count obtained from NASA ADS.
 1. TRANSITING EXOPLANET SURVEY SATELLITE (TESS)  
 Ricker, George R., Winn, Joshua N., Vanderspek, Roland, et al.    
 [2015JATIS...1a4003R](http://adsabs.harvard.edu/abs/2015JATIS...1a4003R)
-<span class="badge">1086 citations</span>
+<span class="badge">1087 citations</span>
 
 2. THE TRANSITING EXOPLANET SURVEY SATELLITE: SIMULATIONS OF PLANET DETECTIONS AND ASTROPHYSICAL FALSE POSITIVES  
 Sullivan, Peter W., Winn, Joshua N., Berta-Thompson, Zachory K., et al.    
@@ -98,7 +98,7 @@ Huang, Chelsea X., Burt, Jennifer, Vanderburg, Andrew, et al.
 7. A FRAMEWORK FOR PRIORITIZING THE TESS PLANETARY CANDIDATES MOST AMENABLE TO ATMOSPHERIC CHARACTERIZATION  
 Kempton, Eliza M. -R., Bean, Jacob L., Louie, Dana R., et al.    
 [2018PASP..130k4401K](http://adsabs.harvard.edu/abs/2018PASP..130k4401K)
-<span class="badge">99 citations</span>
+<span class="badge">100 citations</span>
 
 8. TESS DISCOVERY OF AN ULTRA-SHORT-PERIOD PLANET AROUND THE NEARBY M DWARF LHS 3844  
 Vanderspek, Roland, Huang, Chelsea X., Vanderburg, Andrew, et al.    
@@ -134,9 +134,9 @@ by a total of 2819 unique author names.
 Here we list the most-active authors, defined as those with six or more first-author publications in our database.
 
 
- * Southworth, J (6 publications)
-
  * Bouma, L (6 publications)
+
+ * Southworth, J (6 publications)
 
  * Balona, L (6 publications)
 -->
