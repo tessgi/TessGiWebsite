@@ -7,33 +7,205 @@ Save_as: tpub-exoplanets.html
 2021
 ----
 
-1. [RESOLVING PERIOD ALIASES FOR TESS MONOTRANSITS RECOVERED DURING THE EXTENDED MISSION](http://adsabs.harvard.edu/abs/2021MNRAS.500.5088C)  
-Cooke, Benjamin F., Pollacco, Don, Anderson, David R., et al.    
-2021, refereed ([2021MNRAS.500.5088C](http://adsabs.harvard.edu/abs/2021MNRAS.500.5088C))  
+1. [TOI-257B (HD 19916B): A WARM SUB-SATURN ORBITING AN EVOLVED F-TYPE STAR](http://adsabs.harvard.edu/abs/2021MNRAS.502.3704A)  
+Addison, Brett C., Wright, Duncan J., Nicholson, Belinda A., et al.    
+2021, refereed ([2021MNRAS.502.3704A](http://adsabs.harvard.edu/abs/2021MNRAS.502.3704A))  
 
-2. [VETTING OF 384 TESS OBJECTS OF INTEREST WITH TRICERATOPS AND STATISTICAL VALIDATION OF 12 PLANET CANDIDATES](http://adsabs.harvard.edu/abs/2021AJ....161...24G)  
-Giacalone, Steven, Dressing, Courtney D., Jensen, Eric L. N., et al.    
-2021, refereed ([2021AJ....161...24G](http://adsabs.harvard.edu/abs/2021AJ....161...24G))  
+2. [ORBITAL MISALIGNMENT OF THE SUPER-EARTH Π MEN C WITH THE SPIN OF ITS STAR](http://adsabs.harvard.edu/abs/2021MNRAS.502.2893K)  
+Kunovac Hodžić, Vedad, Triaud, Amaury H. M. J., Cegla, Heather M., et al.    
+2021, refereed ([2021MNRAS.502.2893K](http://adsabs.harvard.edu/abs/2021MNRAS.502.2893K))  
 
-3. [TOI 540 B: A PLANET SMALLER THAN EARTH ORBITING A NEARBY RAPIDLY ROTATING LOW-MASS STAR](http://adsabs.harvard.edu/abs/2021AJ....161...23M)  
-Ment, Kristo, Irwin, Jonathan, Charbonneau, David, et al.    
-2021, refereed ([2021AJ....161...23M](http://adsabs.harvard.edu/abs/2021AJ....161...23M))  
+3. [INVESTIGATING THE YOUNG AU MIC SYSTEM WITH SPIROU: LARGE-SCALE STELLAR MAGNETIC FIELD AND CLOSE-IN PLANET MASS](http://adsabs.harvard.edu/abs/2021MNRAS.502..188K)  
+Klein, Baptiste, Donati, Jean-François, Moutou, Claire, et al.    
+2021, refereed ([2021MNRAS.502..188K](http://adsabs.harvard.edu/abs/2021MNRAS.502..188K))  
 
-4. [TOI-519 B: A SHORT-PERIOD SUBSTELLAR OBJECT AROUND AN M DWARF VALIDATED USING MULTICOLOUR PHOTOMETRY AND PHASE CURVE ANALYSIS](http://adsabs.harvard.edu/abs/2021A&A...645A..16P)  
+4. [AN UNUSUALLY LOW DENSITY ULTRA-SHORT PERIOD SUPER-EARTH AND THREE MINI-NEPTUNES AROUND THE OLD STAR TOI-561](http://adsabs.harvard.edu/abs/2021MNRAS.501.4148L)  
+Lacedelli, G., Malavolta, L., Borsato, L., et al.    
+2021, refereed ([2021MNRAS.501.4148L](http://adsabs.harvard.edu/abs/2021MNRAS.501.4148L))  
+
+5. [PLANET HUNTERS TESS II: FINDINGS FROM THE FIRST TWO YEARS OF TESS](http://adsabs.harvard.edu/abs/2021MNRAS.501.4669E)  
+Eisner, N. L., Barragán, O., Lintott, C., et al.    
+2021, refereed ([2021MNRAS.501.4669E](http://adsabs.harvard.edu/abs/2021MNRAS.501.4669E))  
+
+6. [TESS OBSERVATIONS OF THE WASP-121 B PHASE CURVE](http://adsabs.harvard.edu/abs/2021AJ....161..131D)  
+Daylan, Tansu, Günther, Maximilian N., Mikal-Evans, Thomas, et al.    
+2021, refereed ([2021AJ....161..131D](http://adsabs.harvard.edu/abs/2021AJ....161..131D))  
+
+7. [HD 219134 REVISITED: PLANET D TRANSIT UPPER LIMIT AND PLANET F TRANSIT NONDETECTION WITH ASTERIA AND TESS](http://adsabs.harvard.edu/abs/2021AJ....161..117S)  
+Seager, Sara, Knapp, Mary, Demory, Brice-Olivier, et al.    
+2021, refereed ([2021AJ....161..117S](http://adsabs.harvard.edu/abs/2021AJ....161..117S))  
+
+8. [THE TESS-KECK SURVEY. IV. A RETROGRADE, POLAR ORBIT FOR THE ULTRA-LOW-DENSITY, HOT SUPER-NEPTUNE WASP-107B](http://adsabs.harvard.edu/abs/2021AJ....161..119R)  
+Rubenzahl, Ryan A., Dai, Fei, Howard, Andrew W., et al.    
+2021, refereed ([2021AJ....161..119R](http://adsabs.harvard.edu/abs/2021AJ....161..119R))  
+
+9. [FOLLOWING UP TESS SINGLE TRANSITS WITH ARCHIVAL PHOTOMETRY AND RADIAL VELOCITIES](http://adsabs.harvard.edu/abs/2021AJ....161..124Y)  
+Yao, Xinyu, Pepper, Joshua, Gaudi, B. Scott, et al.    
+2021, refereed ([2021AJ....161..124Y](http://adsabs.harvard.edu/abs/2021AJ....161..124Y))  
+
+10. [HATS-34B AND HATS-46B: RE-CHARACTERIZATION USING TESS AND GAIA](http://adsabs.harvard.edu/abs/2021MNRAS.501.5393L)  
+Louden, Emma M., Hartman, Joel D.    
+2021, refereed ([2021MNRAS.501.5393L](http://adsabs.harvard.edu/abs/2021MNRAS.501.5393L))  
+
+11. [REVISITING THE KEPLER FIELD WITH TESS: IMPROVED EPHEMERIDES USING TESS 2MIN DATA](http://adsabs.harvard.edu/abs/2021MNRAS.tmp..711B)  
+Battley, Matthew P., Kunimoto, Michelle, Armstrong, David J., et al.    
+2021, refereed ([2021MNRAS.tmp..711B](http://adsabs.harvard.edu/abs/2021MNRAS.tmp..711B))  
+
+12. [NEMESIS: EXOPLANET TRANSIT SURVEY OF NEARBY M-DWARFS IN TESS FFIS I](http://adsabs.harvard.edu/abs/2021arXiv210305647F)  
+Feliz, Dax L., Plavchan, Peter, Bianco, Samantha N., et al.    
+2021, not refereed ([2021arXiv210305647F](http://adsabs.harvard.edu/abs/2021arXiv210305647F))  
+
+13. [TESS RE-OBSERVES THE YOUNG MULTI-PLANET SYSTEM TOI-451: REFINED EPHEMERIS AND ACTIVITY EVOLUTION](http://adsabs.harvard.edu/abs/2021arXiv210309746B)  
+Barragán, Oscar, Aigrain, Suzanne, Gillen, Edward, et al.    
+2021, not refereed ([2021arXiv210309746B](http://adsabs.harvard.edu/abs/2021arXiv210309746B))  
+
+14. [A TRANSITING WARM GIANT PLANET AROUND THE YOUNG ACTIVE STAR TOI-201](http://adsabs.harvard.edu/abs/2021arXiv210302685H)  
+Hobson, Melissa J., Brahm, Rafael, Jordán, Andres, et al.    
+2021, not refereed ([2021arXiv210302685H](http://adsabs.harvard.edu/abs/2021arXiv210302685H))  
+
+15. [AN ULTRA-SHORT-PERIOD TRANSITING SUPER-EARTH ORBITING THE M3 DWARF TOI-1685](http://adsabs.harvard.edu/abs/2021arXiv210301016B)  
+Bluhm, P., Palle, E., Molaverdikhani, K., et al.    
+2021, not refereed ([2021arXiv210301016B](http://adsabs.harvard.edu/abs/2021arXiv210301016B))  
+
+16. [METASTABLE HELIUM REVEALS AN EXTENDED ATMOSPHERE FOR THE GAS GIANT HAT-P-18B](http://adsabs.harvard.edu/abs/2021ApJ...909L..10P)  
+Paragas, Kimberly, Vissapragada, Shreyas, Knutson, Heather A., et al.    
+2021, refereed ([2021ApJ...909L..10P](http://adsabs.harvard.edu/abs/2021ApJ...909L..10P))  
+
+17. [VALIDATION OF HD 183579B USING ARCHIVAL RADIAL VELOCITIES: A WARM NEPTUNE ORBITING A BRIGHT SOLAR ANALOG](http://adsabs.harvard.edu/abs/2021ApJ...909L...6P)  
+Palatnick, Skyler, Kipping, David, Yahalomi, Daniel    
+2021, refereed ([2021ApJ...909L...6P](http://adsabs.harvard.edu/abs/2021ApJ...909L...6P))  
+
+18. [A NEARBY TRANSITING ROCKY EXOPLANET THAT IS SUITABLE FOR ATMOSPHERIC INVESTIGATION](http://adsabs.harvard.edu/abs/2021arXiv210304950T)  
+Trifonov, T., Caballero, J. A., Morales, J. C., et al.    
+2021, not refereed ([2021arXiv210304950T](http://adsabs.harvard.edu/abs/2021arXiv210304950T))  
+
+19. [TESS DISCOVERY OF A SUPER-EARTH AND THREE SUB-NEPTUNES HOSTED BY THE BRIGHT, SUN-LIKE STAR HD 108236](http://adsabs.harvard.edu/abs/2021AJ....161...85D)  
+Daylan, Tansu, Pinglé, Kartik, Wright, Jasmine, et al.    
+2021, refereed ([2021AJ....161...85D](http://adsabs.harvard.edu/abs/2021AJ....161...85D))  
+
+20. [THE TESS-KECK SURVEY. II. AN ULTRA-SHORT-PERIOD ROCKY PLANET AND ITS SIBLINGS TRANSITING THE GALACTIC THICK-DISK STAR TOI-561](http://adsabs.harvard.edu/abs/2021AJ....161...56W)  
+Weiss, Lauren M., Dai, Fei, Huber, Daniel, et al.    
+2021, refereed ([2021AJ....161...56W](http://adsabs.harvard.edu/abs/2021AJ....161...56W))  
+
+21. [TOI-954 B AND K2-329 B: SHORT-PERIOD SATURN-MASS PLANETS THAT TEST WHETHER IRRADIATION LEADS TO INFLATION](http://adsabs.harvard.edu/abs/2021AJ....161...82S)  
+Sha, Lizhou, Huang, Chelsea X., Shporer, Avi, et al.    
+2021, refereed ([2021AJ....161...82S](http://adsabs.harvard.edu/abs/2021AJ....161...82S))  
+
+22. [DECAYING ORBIT OF THE HOT JUPITER WASP-12B: CONFIRMATION WITH TESS OBSERVATIONS](http://adsabs.harvard.edu/abs/2021AJ....161...72T)  
+Turner, Jake D., Ridden-Harper, Andrew, Jayawardhana, Ray    
+2021, refereed ([2021AJ....161...72T](http://adsabs.harvard.edu/abs/2021AJ....161...72T))  
+
+23. [TESS HUNT FOR YOUNG AND MATURING EXOPLANETS (THYME). IV. THREE SMALL PLANETS ORBITING A 120 MYR OLD STAR IN THE PISCES-ERIDANUS STREAM](http://adsabs.harvard.edu/abs/2021AJ....161...65N)  
+Newton, Elisabeth R., Mann, Andrew W., Kraus, Adam L., et al.    
+2021, refereed ([2021AJ....161...65N](http://adsabs.harvard.edu/abs/2021AJ....161...65N))  
+
+24. [PHASE CURVE AND VARIABILITY ANALYSIS OF WASP-12B USING TESS PHOTOMETRY](http://adsabs.harvard.edu/abs/2021MNRAS.tmpL..14O)  
+Owens, Niall, de Mooij, E. J. W., Watson, C. A., et al.    
+2021, refereed ([2021MNRAS.tmpL..14O](http://adsabs.harvard.edu/abs/2021MNRAS.tmpL..14O))  
+
+25. [TWO MASSIVE JUPITERS IN ECCENTRIC ORBITS FROM THE TESS FULL FRAME IMAGES](http://adsabs.harvard.edu/abs/2021arXiv210202222I)  
+Ikwut-Ukwa, Mma, Rodriguez, Joseph E., Quinn, Samuel N., et al.    
+2021, not refereed ([2021arXiv210202222I](http://adsabs.harvard.edu/abs/2021arXiv210202222I))  
+
+26. [AUTOMATED IDENTIFICATION OF TRANSITING EXOPLANET CANDIDATES IN NASA TRANSITING EXOPLANETS SURVEY SATELLITE (TESS) DATA WITH MACHINE LEARNING METHODS](http://adsabs.harvard.edu/abs/2021arXiv210210326O)  
+Ofman, Leon, Averbuch, Amir, Shliselberg, Adi, et al.    
+2021, not refereed ([2021arXiv210210326O](http://adsabs.harvard.edu/abs/2021arXiv210210326O))  
+
+27. [THE HABITABLE-ZONE PLANET FINDER DETECTS A TERRESTRIAL-MASS PLANET CANDIDATE CLOSELY ORBITING GLIESE 1151: THE LIKELY SOURCE OF COHERENT LOW-FREQUENCY RADIO EMISSION FROM AN INACTIVE STAR](http://adsabs.harvard.edu/abs/2021arXiv210202233M)  
+Mahadevan, Suvrath, Stefánsson, Guðmundur, Robertson, Paul, et al.    
+2021, not refereed ([2021arXiv210202233M](http://adsabs.harvard.edu/abs/2021arXiv210202233M))  
+
+28. [HD 76920B PINNED DOWN: A DETAILED ANALYSIS OF THE MOST ECCENTRIC PLANETARY SYSTEM AROUND AN EVOLVED STAR](http://adsabs.harvard.edu/abs/2021arXiv210208902B)  
+Bergmann, C., Jones, M. I., Zhao, J., et al.    
+2021, not refereed ([2021arXiv210208902B](http://adsabs.harvard.edu/abs/2021arXiv210208902B))  
+
+29. [CHEOPS OBSERVATIONS OF THE HD 108236 PLANETARY SYSTEM: A FIFTH PLANET, IMPROVED EPHEMERIDES, AND PLANETARY RADII](http://adsabs.harvard.edu/abs/2021A&A...646A.157B)  
+Bonfanti, A., Delrez, L., Hooton, M. J., et al.    
+2021, refereed ([2021A&A...646A.157B](http://adsabs.harvard.edu/abs/2021A&A...646A.157B))  
+
+30. [NGTS-14AB: A NEPTUNE-SIZED TRANSITING PLANET IN THE DESERT](http://adsabs.harvard.edu/abs/2021A&A...646A.183S)  
+Smith, A. M. S., Acton, J. S., Anderson, D. R., et al.    
+2021, refereed ([2021A&A...646A.183S](http://adsabs.harvard.edu/abs/2021A&A...646A.183S))  
+
+31. [A PLANETARY SYSTEM WITH TWO TRANSITING MINI-NEPTUNES NEAR THE RADIUS VALLEY TRANSITION AROUND THE BRIGHT M DWARF TOI-776](http://adsabs.harvard.edu/abs/2021A&A...645A..41L)  
+Luque, R., Serrano, L. M., Molaverdikhani, K., et al.    
+2021, refereed ([2021A&A...645A..41L](http://adsabs.harvard.edu/abs/2021A&A...645A..41L))  
+
+32. [THE GAPS PROGRAMME AT TNG. XXVIII. A PAIR OF HOT-NEPTUNES ORBITING THE YOUNG STAR TOI-942](http://adsabs.harvard.edu/abs/2021A&A...645A..71C)  
+Carleo, I., Desidera, S., Nardiello, D., et al.    
+2021, refereed ([2021A&A...645A..71C](http://adsabs.harvard.edu/abs/2021A&A...645A..71C))  
+
+33. [TOI-519 B: A SHORT-PERIOD SUBSTELLAR OBJECT AROUND AN M DWARF VALIDATED USING MULTICOLOUR PHOTOMETRY AND PHASE CURVE ANALYSIS](http://adsabs.harvard.edu/abs/2021A&A...645A..16P)  
 Parviainen, H., Palle, E., Zapatero-Osorio, M. R., et al.    
 2021, refereed ([2021A&A...645A..16P](http://adsabs.harvard.edu/abs/2021A&A...645A..16P))  
 
-5. [TWO YOUNG PLANETARY SYSTEMS AROUND FIELD STARS WITH AGES BETWEEN 20 AND 320 MYR FROM TESS](http://adsabs.harvard.edu/abs/2021AJ....161....2Z)  
+34. [TWO YOUNG PLANETARY SYSTEMS AROUND FIELD STARS WITH AGES BETWEEN 20 AND 320 MYR FROM TESS](http://adsabs.harvard.edu/abs/2021AJ....161....2Z)  
 Zhou, George, Quinn, Samuel N., Irwin, Jonathan, et al.    
 2021, refereed ([2021AJ....161....2Z](http://adsabs.harvard.edu/abs/2021AJ....161....2Z))  
 
-6. [ON THE COMPATIBILITY OF GROUND-BASED AND SPACE-BASED DATA: WASP-96 B, AN EXAMPLE](http://adsabs.harvard.edu/abs/2021AJ....161....4Y)  
+35. [ON THE COMPATIBILITY OF GROUND-BASED AND SPACE-BASED DATA: WASP-96 B, AN EXAMPLE](http://adsabs.harvard.edu/abs/2021AJ....161....4Y)  
 Yip, Kai Hou, Changeat, Quentin, Edwards, Billy, et al.    
 2021, refereed ([2021AJ....161....4Y](http://adsabs.harvard.edu/abs/2021AJ....161....4Y))  
 
-7. [TOI 122B AND TOI 237B: TWO SMALL WARM PLANETS ORBITING INACTIVE M DWARFS FOUND BY TESS](http://adsabs.harvard.edu/abs/2021AJ....161...13W)  
+36. [TOI 122B AND TOI 237B: TWO SMALL WARM PLANETS ORBITING INACTIVE M DWARFS FOUND BY TESS](http://adsabs.harvard.edu/abs/2021AJ....161...13W)  
 Waalkes, William C., Berta-Thompson, Zachory K., Collins, Karen A., et al.    
 2021, refereed ([2021AJ....161...13W](http://adsabs.harvard.edu/abs/2021AJ....161...13W))  
+
+37. [TOI 540 B: A PLANET SMALLER THAN EARTH ORBITING A NEARBY RAPIDLY ROTATING LOW-MASS STAR](http://adsabs.harvard.edu/abs/2021AJ....161...23M)  
+Ment, Kristo, Irwin, Jonathan, Charbonneau, David, et al.    
+2021, refereed ([2021AJ....161...23M](http://adsabs.harvard.edu/abs/2021AJ....161...23M))  
+
+38. [VETTING OF 384 TESS OBJECTS OF INTEREST WITH TRICERATOPS AND STATISTICAL VALIDATION OF 12 PLANET CANDIDATES](http://adsabs.harvard.edu/abs/2021AJ....161...24G)  
+Giacalone, Steven, Dressing, Courtney D., Jensen, Eric L. N., et al.    
+2021, refereed ([2021AJ....161...24G](http://adsabs.harvard.edu/abs/2021AJ....161...24G))  
+
+39. [RESOLVING PERIOD ALIASES FOR TESS MONOTRANSITS RECOVERED DURING THE EXTENDED MISSION](http://adsabs.harvard.edu/abs/2021MNRAS.500.5088C)  
+Cooke, Benjamin F., Pollacco, Don, Anderson, David R., et al.    
+2021, refereed ([2021MNRAS.500.5088C](http://adsabs.harvard.edu/abs/2021MNRAS.500.5088C))  
+
+40. [IMPROVING LIGHT CURVE PARAMETERS OF EXOPLANETS BASED ON TESS DATA](http://adsabs.harvard.edu/abs/2021CoSka..51...68G)  
+Gajdoš, P., Maliuk, A., Vítková, M., et al.    
+2021, refereed ([2021CoSka..51...68G](http://adsabs.harvard.edu/abs/2021CoSka..51...68G))  
+
+41. [TESS DELIVERS FIVE NEW HOT GIANT PLANETS ORBITING BRIGHT STARS FROM THE FULL FRAME IMAGES](http://adsabs.harvard.edu/abs/2021arXiv210101726R)  
+Rodriguez, Joseph E., Quinn, Samuel N., Zhou, George, et al.    
+2021, not refereed ([2021arXiv210101726R](http://adsabs.harvard.edu/abs/2021arXiv210101726R))  
+
+42. [AROUND WHICH STARS CAN TESS DETECT EARTH-LIKE PLANETS? THE REVISED TESS HABITABLE ZONE CATALOG](http://adsabs.harvard.edu/abs/2021arXiv210107898K)  
+Kaltenegger, L., Pepper, J., Christodoulou, P. M., et al.    
+2021, not refereed ([2021arXiv210107898K](http://adsabs.harvard.edu/abs/2021arXiv210107898K))  
+
+43. [IDENTIFYING PLANETARY TRANSIT CANDIDATES IN TESS FULL-FRAME IMAGE LIGHT CURVES VIA CONVOLUTIONAL NEURAL NETWORKS](http://adsabs.harvard.edu/abs/2021arXiv210110919O)  
+Olmschenk, Greg, Ishitani Silva, Stela, Rau, Gioia, et al.    
+2021, not refereed ([2021arXiv210110919O](http://adsabs.harvard.edu/abs/2021arXiv210110919O))  
+
+44. [THE BREAKTHROUGH LISTEN SEARCH FOR INTELLIGENT LIFE: SEARCHING FOR TECHNOSIGNATURES IN OBSERVATIONS OF TESS TARGETS OF INTEREST](http://adsabs.harvard.edu/abs/2021arXiv210111137T)  
+Traas, Raffy, Croft, Steve, Gajjar, Vishal, et al.    
+2021, not refereed ([2021arXiv210111137T](http://adsabs.harvard.edu/abs/2021arXiv210111137T))  
+
+45. [NGTS-13B: A HOT 4.8 JUPITER-MASS PLANET TRANSITING A SUBGIANT STAR](http://adsabs.harvard.edu/abs/2021arXiv210104245G)  
+Grieves, Nolan, Nielsen, Louise D., Vines, Jose I., et al.    
+2021, not refereed ([2021arXiv210104245G](http://adsabs.harvard.edu/abs/2021arXiv210104245G))  
+
+46. [A SUB-NEPTUNE AND A NON-TRANSITING NEPTUNE-MASS COMPANION UNVEILED BY ESPRESSO AROUND THE BRIGHT LATE-F DWARF HD 5278 (TOI-130)](http://adsabs.harvard.edu/abs/2021arXiv210112300S)  
+Sozzetti, A., Damasso, M., Bonomo, A. S., et al.    
+2021, not refereed ([2021arXiv210112300S](http://adsabs.harvard.edu/abs/2021arXiv210112300S))  
+
+47. [MASSES AND COMPOSITIONS OF THREE SMALL PLANETS ORBITING THE NEARBY M DWARF L231-32 (TOI-270) AND THE M DWARF RADIUS VALLEY](http://adsabs.harvard.edu/abs/2021arXiv210101593V)  
+Van Eylen, Vincent, Astudillo-Defru, N., Bonfils, X., et al.    
+2021, not refereed ([2021arXiv210101593V](http://adsabs.harvard.edu/abs/2021arXiv210101593V))  
+
+48. [TOI-1259AB -- A GAS GIANT PLANET WITH 2.7% DEEP TRANSITS AND A BOUND WHITE DWARF COMPANION](http://adsabs.harvard.edu/abs/2021arXiv210102707M)  
+Martin, David V., El-Badry, Kareem, Kunovac Hodžić, Vedad, et al.    
+2021, not refereed ([2021arXiv210102707M](http://adsabs.harvard.edu/abs/2021arXiv210102707M))  
+
+49. [THE NASA HIGH-RESOLUTION SPECKLE INTERFEROMETRIC IMAGING PROGRAM: VALIDATION AND CHARACTERIZATION OF EXOPLANETS AND THEIR STELLAR HOSTS](http://adsabs.harvard.edu/abs/2021arXiv210108378H)  
+Howell, Steve B., Scott, Nicholas J., Matson, Rachel A., et al.    
+2021, not refereed ([2021arXiv210108378H](http://adsabs.harvard.edu/abs/2021arXiv210108378H))  
+
+50. [SIX TRANSITING PLANETS AND A CHAIN OF LAPLACE RESONANCES IN TOI-178](http://adsabs.harvard.edu/abs/2021arXiv210109260L)  
+Leleu, A., Alibert, Y., Hara, N. C., et al.    
+2021, not refereed ([2021arXiv210109260L](http://adsabs.harvard.edu/abs/2021arXiv210109260L))  
 
 
 2020
@@ -67,501 +239,453 @@ Schlecker, Martin, Kossakowski, Diana, Brahm, Rafael, et al.
 Colón, Knicole D., Kreidberg, Laura, Welbanks, Luis, et al.    
 2020, refereed ([2020AJ....160..280C](http://adsabs.harvard.edu/abs/2020AJ....160..280C))  
 
-8. [INVESTIGATING THE YOUNG AU MIC SYSTEM WITH SPIROU: LARGE-SCALE STELLAR MAGNETIC FIELD AND CLOSE-IN PLANET MASS](http://adsabs.harvard.edu/abs/2020MNRAS.tmp.3555K)  
-Klein, Baptiste, Donati, Jean-François, Moutou, Claire, et al.    
-2020, refereed ([2020MNRAS.tmp.3555K](http://adsabs.harvard.edu/abs/2020MNRAS.tmp.3555K))  
-
-9. [AN UNUSUALLY LOW DENSITY ULTRA-SHORT PERIOD SUPER-EARTH AND THREE MINI-NEPTUNES AROUND THE OLD STAR TOI-561](http://adsabs.harvard.edu/abs/2020MNRAS.tmp.3556L)  
-Lacedelli, G., Malavolta, L., Borsato, L., et al.    
-2020, refereed ([2020MNRAS.tmp.3556L](http://adsabs.harvard.edu/abs/2020MNRAS.tmp.3556L))  
-
-10. [PLANET HUNTERS TESS II: FINDINGS FROM THE FIRST TWO YEARS OF TESS](http://adsabs.harvard.edu/abs/2020MNRAS.tmp.3566E)  
-Eisner, N. L., Barragán, O., Lintott, C., et al.    
-2020, refereed ([2020MNRAS.tmp.3566E](http://adsabs.harvard.edu/abs/2020MNRAS.tmp.3566E))  
-
-11. [TOI-257B (HD 19916B): A WARM SUB-SATURN ORBITING AN EVOLVED F-TYPE STAR](http://adsabs.harvard.edu/abs/2020MNRAS.tmp.3757A)  
-Addison, Brett C., Wright, Duncan J., Nicholson, Belinda A., et al.    
-2020, refereed ([2020MNRAS.tmp.3757A](http://adsabs.harvard.edu/abs/2020MNRAS.tmp.3757A))  
-
-12. [REFINED SYSTEM EPHEMERIS FOR FOUR TRANSITING HOT JUPITERS USING GROUND-BASED AND TESS OBSERVATIONS](http://adsabs.harvard.edu/abs/2020arXiv201201486D)  
-Davoudi, Fatemeh, MirshafieKhozani, PegahSadat, Paki, Ehsan, et al.    
-2020, not refereed ([2020arXiv201201486D](http://adsabs.harvard.edu/abs/2020arXiv201201486D))  
-
-13. [DECAYING ORBIT OF THE HOT JUPITER WASP-12B: CONFIRMATION WITH TESS OBSERVATIONS](http://adsabs.harvard.edu/abs/2020arXiv201202211T)  
-Turner, Jake D., Ridden-Harper, Andrew, Jayawardhana, Ray    
-2020, not refereed ([2020arXiv201202211T](http://adsabs.harvard.edu/abs/2020arXiv201202211T))  
-
-14. [A NEWTONIAN MODEL FOR THE WASP-148 EXOPLANETARY SYSTEM ENHANCED WITH TESS AND GROUND-BASED PHOTOMETRIC OBSERVATIONS](http://adsabs.harvard.edu/abs/2020arXiv201202602M)  
-Maciejewski, G., Fernandez, M., Sota, A., et al.    
-2020, not refereed ([2020arXiv201202602M](http://adsabs.harvard.edu/abs/2020arXiv201202602M))  
-
-15. [OPTIMIZING MARVEL FOR THE RADIAL VELOCITY FOLLOW-UP OF TESS AND PLATO TRANSITING EXOPLANETS](http://adsabs.harvard.edu/abs/2020arXiv201207137L)  
-Lanthermann, Cyprien, De Ridder, Joris, Sana, Hugues, et al.    
-2020, not refereed ([2020arXiv201207137L](http://adsabs.harvard.edu/abs/2020arXiv201207137L))  
-
-16. [REVISITING KELT-19AB, WASP-156B AND WASP-121B IN THE TESS ERA](http://adsabs.harvard.edu/abs/2020arXiv201208744Y)  
-Yang, Fan, Chary, Ranga-Ram, Liu, Ji-Feng    
-2020, not refereed ([2020arXiv201208744Y](http://adsabs.harvard.edu/abs/2020arXiv201208744Y))  
-
-17. [NEW CONSTRAINTS ON THE PLANETARY SYSTEM AROUND THE YOUNG ACTIVE STAR AU MIC. TWO TRANSITING WARM NEPTUNES NEAR MEAN-MOTION RESONANCE](http://adsabs.harvard.edu/abs/2020arXiv201213238M)  
-Martioli, E., Hébrard, G., Correia, A. C. M., et al.    
-2020, not refereed ([2020arXiv201213238M](http://adsabs.harvard.edu/abs/2020arXiv201213238M))  
-
-18. [HOT EXOPLANET ATMOSPHERES RESOLVED WITH TRANSIT SPECTROSCOPY (HEARTS). VI. NON-DETECTION OF SODIUM WITH HARPS ON THE BLOATED SUPER-NEPTUNE WASP-127B](http://adsabs.harvard.edu/abs/2020A&A...643A..45S)  
-Seidel, J. V., Lendl, M., Bourrier, V., et al.    
-2020, refereed ([2020A&A...643A..45S](http://adsabs.harvard.edu/abs/2020A&A...643A..45S))  
-
-19. [THE K2 AND TESS SYNERGY. I. UPDATED EPHEMERIDES AND PARAMETERS FOR K2-114, K2-167, K2-237, AND K2-261](http://adsabs.harvard.edu/abs/2020AJ....160..209I)  
-Ikwut-Ukwa, Mma, Rodriguez, Joseph E., Bieryla, Allyson, et al.    
-2020, refereed ([2020AJ....160..209I](http://adsabs.harvard.edu/abs/2020AJ....160..209I))  
-
-20. [THE TESS PHASE CURVE OF KELT-1B SUGGESTS A HIGH DAYSIDE ALBEDO](http://adsabs.harvard.edu/abs/2020AJ....160..211B)  
-Beatty, Thomas G., Wong, Ian, Fetherolf, Tara, et al.    
-2020, refereed ([2020AJ....160..211B](http://adsabs.harvard.edu/abs/2020AJ....160..211B))  
-
-21. [TOI 564 B AND TOI 905 B: GRAZING AND FULLY TRANSITING HOT JUPITERS DISCOVERED BY TESS](http://adsabs.harvard.edu/abs/2020AJ....160..229D)  
-Davis, Allen B., Wang, Songhu, Jones, Matias, et al.    
-2020, refereed ([2020AJ....160..229D](http://adsabs.harvard.edu/abs/2020AJ....160..229D))  
-
-22. [TOI-481 B AND TOI-892 B: TWO LONG-PERIOD HOT JUPITERS FROM THE TRANSITING EXOPLANET SURVEY SATELLITE](http://adsabs.harvard.edu/abs/2020AJ....160..235B)  
-Brahm, Rafael, Nielsen, Louise D., Wittenmyer, Robert A., et al.    
-2020, refereed ([2020AJ....160..235B](http://adsabs.harvard.edu/abs/2020AJ....160..235B))  
-
-23. [CLUSTER DIFFERENCE IMAGING PHOTOMETRIC SURVEY. II. TOI 837: A YOUNG VALIDATED PLANET IN IC 2602](http://adsabs.harvard.edu/abs/2020AJ....160..239B)  
-Bouma, L. G., Hartman, J. D., Brahm, R., et al.    
-2020, refereed ([2020AJ....160..239B](http://adsabs.harvard.edu/abs/2020AJ....160..239B))  
-
-24. [SPITZER REVEALS EVIDENCE OF MOLECULAR ABSORPTION IN THE ATMOSPHERE OF THE HOT NEPTUNE LTT 9779B](http://adsabs.harvard.edu/abs/2020ApJ...903L...6D)  
-Dragomir, Diana, Crossfield, Ian J. M., Benneke, Björn, et al.    
-2020, refereed ([2020ApJ...903L...6D](http://adsabs.harvard.edu/abs/2020ApJ...903L...6D))  
-
-25. [PHASE CURVES OF HOT NEPTUNE LTT 9779B SUGGEST A HIGH-METALLICITY ATMOSPHERE](http://adsabs.harvard.edu/abs/2020ApJ...903L...7C)  
-Crossfield, Ian J. M., Dragomir, Diana, Cowan, Nicolas B., et al.    
-2020, refereed ([2020ApJ...903L...7C](http://adsabs.harvard.edu/abs/2020ApJ...903L...7C))  
-
-26. [SURFACE TEMPERATURE GRADIENT OF FAST-ROTATING B9.5-A0 STAR KELT-9](http://adsabs.harvard.edu/abs/2020INASR...5..243S)  
-Savanov, I. S.    
-2020, refereed ([2020INASR...5..243S](http://adsabs.harvard.edu/abs/2020INASR...5..243S))  
-
-27. [THE MAGELLAN-TESS SURVEY I: SURVEY DESCRIPTION AND MID-SURVEY RESULTS](http://adsabs.harvard.edu/abs/2020arXiv201111560T)  
-Teske, Johanna, Xuesong Wang, Sharon, Wolfgang, Angie, et al.    
-2020, not refereed ([2020arXiv201111560T](http://adsabs.harvard.edu/abs/2020arXiv201111560T))  
-
-28. [THE GAPS PROGRAMME AT TNG XXVIII -- A PAIR OF HOT-NEPTUNES ORBITING THE YOUNG STAR TOI-942](http://adsabs.harvard.edu/abs/2020arXiv201113795C)  
-Carleo, Ilaria, Desidera, Silvano, Nardiello, Domenico, et al.    
-2020, not refereed ([2020arXiv201113795C](http://adsabs.harvard.edu/abs/2020arXiv201113795C))  
-
-29. [EXOPLANET DETECTION USING MACHINE LEARNING](http://adsabs.harvard.edu/abs/2020arXiv201114135M)  
-Malik, Abhishek, Moster, Ben, Obermeier, Christian    
-2020, not refereed ([2020arXiv201114135M](http://adsabs.harvard.edu/abs/2020arXiv201114135M))  
-
-30. [A PRECISE ARCHITECTURE CHARACTERIZATION OF THE Π MENSAE PLANETARY SYSTEM](http://adsabs.harvard.edu/abs/2020A&A...642A..31D)  
-Damasso, M., Sozzetti, A., Lovis, C., et al.    
-2020, refereed ([2020A&A...642A..31D](http://adsabs.harvard.edu/abs/2020A&A...642A..31D))  
-
-31. [A SUPER-EARTH AND A SUB-NEPTUNE ORBITING THE BRIGHT, QUIET M3 DWARF TOI-1266](http://adsabs.harvard.edu/abs/2020A&A...642A..49D)  
-Demory, B. -O., Pozuelos, F. J., Gómez Maqueo Chew, Y., et al.    
-2020, refereed ([2020A&A...642A..49D](http://adsabs.harvard.edu/abs/2020A&A...642A..49D))  
-
-32. [PLANETARY SYSTEM LHS 1140 REVISITED WITH ESPRESSO AND TESS](http://adsabs.harvard.edu/abs/2020A&A...642A.121L)  
-Lillo-Box, J., Figueira, P., Leleu, A., et al.    
-2020, refereed ([2020A&A...642A.121L](http://adsabs.harvard.edu/abs/2020A&A...642A.121L))  
-
-33. [THE CARMENES SEARCH FOR EXOPLANETS AROUND M DWARFS. TWO PLANETS ON OPPOSITE SIDES OF THE RADIUS GAP TRANSITING THE NEARBY M DWARF LTT 3780](http://adsabs.harvard.edu/abs/2020A&A...642A.173N)  
-Nowak, G., Luque, R., Parviainen, H., et al.    
-2020, refereed ([2020A&A...642A.173N](http://adsabs.harvard.edu/abs/2020A&A...642A.173N))  
-
-34. [DISCOVERY OF A HOT, TRANSITING, EARTH-SIZED PLANET AND A SECOND TEMPERATE, NON-TRANSITING PLANET AROUND THE M4 DWARF GJ 3473 (TOI-488)](http://adsabs.harvard.edu/abs/2020A&A...642A.236K)  
-Kemmer, J., Stock, S., Kossakowski, D., et al.    
-2020, refereed ([2020A&A...642A.236K](http://adsabs.harvard.edu/abs/2020A&A...642A.236K))  
-
-35. [TOI-824 B: A NEW PLANET ON THE LOWER EDGE OF THE HOT NEPTUNE DESERT](http://adsabs.harvard.edu/abs/2020AJ....160..153B)  
-Burt, Jennifer A., Nielsen, Louise D., Quinn, Samuel N., et al.    
-2020, refereed ([2020AJ....160..153B](http://adsabs.harvard.edu/abs/2020AJ....160..153B))  
-
-36. [SYSTEMATIC PHASE CURVE STUDY OF KNOWN TRANSITING SYSTEMS FROM YEAR ONE OF THE TESS MISSION](http://adsabs.harvard.edu/abs/2020AJ....160..155W)  
-Wong, Ian, Shporer, Avi, Daylan, Tansu, et al.    
-2020, refereed ([2020AJ....160..155W](http://adsabs.harvard.edu/abs/2020AJ....160..155W))  
-
-37. [MULTIPLE TRANSITS DURING A SINGLE CONJUNCTION: IDENTIFYING TRANSITING CIRCUMBINARY PLANETARY CANDIDATES FROM TESS](http://adsabs.harvard.edu/abs/2020AJ....160..174K)  
-Kostov, Veselin B., Welsh, William F., Haghighipour, Nader, et al.    
-2020, refereed ([2020AJ....160..174K](http://adsabs.harvard.edu/abs/2020AJ....160..174K))  
-
-38. [TESS HUNT FOR YOUNG AND MATURING EXOPLANETS (THYME). III. A TWO-PLANET SYSTEM IN THE 400 MYR URSA MAJOR GROUP](http://adsabs.harvard.edu/abs/2020AJ....160..179M)  
-Mann, Andrew W., Johnson, Marshall C., Vanderburg, Andrew, et al.    
-2020, refereed ([2020AJ....160..179M](http://adsabs.harvard.edu/abs/2020AJ....160..179M))  
-
-39. [THE TESS-KECK SURVEY. III. A STELLAR OBLIQUITY MEASUREMENT OF TOI-1726 C](http://adsabs.harvard.edu/abs/2020AJ....160..193D)  
-Dai, Fei, Roy, Arpita, Fulton, Benjamin, et al.    
-2020, refereed ([2020AJ....160..193D](http://adsabs.harvard.edu/abs/2020AJ....160..193D))  
-
-40. [WHICH STARS CAN SEE EARTH AS A TRANSITING EXOPLANET?](http://adsabs.harvard.edu/abs/2020MNRAS.499L.111K)  
-Kaltenegger, L., Pepper, J.    
-2020, refereed ([2020MNRAS.499L.111K](http://adsabs.harvard.edu/abs/2020MNRAS.499L.111K))  
-
-41. [SEARCH FOR PLANETS IN HOT JUPITER SYSTEMS WITH MULTI-SECTOR TESS PHOTOMETRY. I. NO COMPANIONS IN PLANETARY SYSTEMS KELT-18, KELT-23, KELT-24, QATAR-8, WASP-62, WASP-100, WASP-119, AND WASP-126](http://adsabs.harvard.edu/abs/2020arXiv201011977M)  
-Maciejewski, Gracjan    
-2020, not refereed ([2020arXiv201011977M](http://adsabs.harvard.edu/abs/2020arXiv201011977M))  
-
-42. [TOI-954 B AND EPIC 246193072 B: SHORT-PERIOD SATURN-MASS PLANETS THAT TEST WHETHER IRRADIATION LEADS TO INFLATION](http://adsabs.harvard.edu/abs/2020arXiv201014436S)  
-Sha, Lizhou, Huang, Chelsea X., Shporer, Avi, et al.    
-2020, not refereed ([2020arXiv201014436S](http://adsabs.harvard.edu/abs/2020arXiv201014436S))  
-
-43. [HIDDEN WORLDS: DYNAMICAL ARCHITECTURE PREDICTIONS OF UNDETECTED PLANETS IN MULTI-PLANET SYSTEMS AND APPLICATIONS TO TESS SYSTEMS](http://adsabs.harvard.edu/abs/2020AJ....160..107D)  
-Dietrich, Jeremy, Apai, Dániel    
-2020, refereed ([2020AJ....160..107D](http://adsabs.harvard.edu/abs/2020AJ....160..107D))  
-
-44. [KELT-25 B AND KELT-26 B: A HOT JUPITER AND A SUBSTELLAR COMPANION TRANSITING YOUNG A STARS OBSERVED BY TESS](http://adsabs.harvard.edu/abs/2020AJ....160..111R)  
-Rodríguez Martínez, Romy, Gaudi, B. Scott, Rodriguez, Joseph E., et al.    
-2020, refereed ([2020AJ....160..111R](http://adsabs.harvard.edu/abs/2020AJ....160..111R))  
-
-45. [HD 191939: THREE SUB-NEPTUNES TRANSITING A SUN-LIKE STAR ONLY 54 PC AWAY](http://adsabs.harvard.edu/abs/2020AJ....160..113B)  
-Badenas-Agusti, Mariona, Günther, Maximilian N., Daylan, Tansu, et al.    
-2020, refereed ([2020AJ....160..113B](http://adsabs.harvard.edu/abs/2020AJ....160..113B))  
-
-46. [THE MULTIPLANET SYSTEM TOI-421](http://adsabs.harvard.edu/abs/2020AJ....160..114C)  
-Carleo, Ilaria, Gandolfi, Davide, Barragán, Oscar, et al.    
-2020, refereed ([2020AJ....160..114C](http://adsabs.harvard.edu/abs/2020AJ....160..114C))  
-
-47. [THE FIRST HABITABLE-ZONE EARTH-SIZED PLANET FROM TESS. I. VALIDATION OF THE TOI-700 SYSTEM](http://adsabs.harvard.edu/abs/2020AJ....160..116G)  
-Gilbert, Emily A., Barclay, Thomas, Schlieder, Joshua E., et al.    
-2020, refereed ([2020AJ....160..116G](http://adsabs.harvard.edu/abs/2020AJ....160..116G))  
-
-48. [THE FIRST HABITABLE-ZONE EARTH-SIZED PLANET FROM TESS. II. SPITZER CONFIRMS TOI-700 D](http://adsabs.harvard.edu/abs/2020AJ....160..117R)  
-Rodriguez, Joseph E., Vanderburg, Andrew, Zieba, Sebastian, et al.    
-2020, refereed ([2020AJ....160..117R](http://adsabs.harvard.edu/abs/2020AJ....160..117R))  
-
-49. [THE FIRST HABITABLE-ZONE EARTH-SIZED PLANET FROM TESS. III. CLIMATE STATES AND CHARACTERIZATION PROSPECTS FOR TOI-700 D](http://adsabs.harvard.edu/abs/2020AJ....160..118S)  
-Suissa, Gabrielle, Wolf, Eric T., Kopparapu, Ravi kumar, et al.    
-2020, refereed ([2020AJ....160..118S](http://adsabs.harvard.edu/abs/2020AJ....160..118S))  
-
-50. [TRANSITS OF KNOWN PLANETS ORBITING A NAKED-EYE STAR](http://adsabs.harvard.edu/abs/2020AJ....160..129K)  
-Kane, Stephen R., Yalçınkaya, Selçuk, Osborn, Hugh P., et al.    
-2020, refereed ([2020AJ....160..129K](http://adsabs.harvard.edu/abs/2020AJ....160..129K))  
-
-51. [A WARM JUPITER TRANSITING AN M DWARF: A TESS SINGLE-TRANSIT EVENT CONFIRMED WITH THE HABITABLE-ZONE PLANET FINDER](http://adsabs.harvard.edu/abs/2020AJ....160..147C)  
-Cañas, Caleb I., Stefansson, Gudmundur, Kanodia, Shubham, et al.    
-2020, refereed ([2020AJ....160..147C](http://adsabs.harvard.edu/abs/2020AJ....160..147C))  
-
-52. [WASP-186 AND WASP-187: TWO HOT JUPITERS DISCOVERED BY SUPERWASP AND SOPHIE WITH ADDITIONAL OBSERVATIONS BY TESS](http://adsabs.harvard.edu/abs/2020MNRAS.499..428S)  
-Schanche, N., Hébrard, G., Collier Cameron, A., et al.    
-2020, refereed ([2020MNRAS.499..428S](http://adsabs.harvard.edu/abs/2020MNRAS.499..428S))  
-
-53. [NGTS-12B: A SUB-SATURN MASS TRANSITING EXOPLANET IN A 7.53 DAY ORBIT](http://adsabs.harvard.edu/abs/2020MNRAS.499.3139B)  
+8. [NGTS-12B: A SUB-SATURN MASS TRANSITING EXOPLANET IN A 7.53 DAY ORBIT](http://adsabs.harvard.edu/abs/2020MNRAS.499.3139B)  
 Bryant, Edward M., Bayliss, Daniel, Nielsen, Louise D., et al.    
 2020, refereed ([2020MNRAS.499.3139B](http://adsabs.harvard.edu/abs/2020MNRAS.499.3139B))  
 
-54. [AN ULTRAHOT NEPTUNE IN THE NEPTUNE DESERT](http://adsabs.harvard.edu/abs/2020NatAs.tmp..180J)  
-Jenkins, James S., Díaz, Matías R., Kurtovic, Nicolás T., et al.    
-2020, refereed ([2020NatAs.tmp..180J](http://adsabs.harvard.edu/abs/2020NatAs.tmp..180J))  
+9. [WHICH STARS CAN SEE EARTH AS A TRANSITING EXOPLANET?](http://adsabs.harvard.edu/abs/2020MNRAS.499L.111K)  
+Kaltenegger, L., Pepper, J.    
+2020, refereed ([2020MNRAS.499L.111K](http://adsabs.harvard.edu/abs/2020MNRAS.499L.111K))  
 
-55. [A GIANT PLANET CANDIDATE TRANSITING A WHITE DWARF](http://adsabs.harvard.edu/abs/2020Natur.585..363V)  
-Vanderburg, Andrew, Rappaport, Saul A., Xu, Siyi, et al.    
-2020, refereed ([2020Natur.585..363V](http://adsabs.harvard.edu/abs/2020Natur.585..363V))  
+10. [REFINED SYSTEM EPHEMERIS FOR FOUR TRANSITING HOT JUPITERS USING GROUND-BASED AND TESS OBSERVATIONS](http://adsabs.harvard.edu/abs/2020arXiv201201486D)  
+Davoudi, Fatemeh, MirshafieKhozani, PegahSadat, Paki, Ehsan, et al.    
+2020, not refereed ([2020arXiv201201486D](http://adsabs.harvard.edu/abs/2020arXiv201201486D))  
 
-56. [THE TESS-KECK SURVEY II: AN ULTRA-SHORT PERIOD ROCKY PLANET AND ITS SIBLINGS TRANSITING THE GALACTIC THICK-DISK STAR TOI-561](http://adsabs.harvard.edu/abs/2020arXiv200903071W)  
-Weiss, Lauren M., Dai, Fei, Huber, Daniel, et al.    
-2020, not refereed ([2020arXiv200903071W](http://adsabs.harvard.edu/abs/2020arXiv200903071W))  
+11. [A NEWTONIAN MODEL FOR THE WASP-148 EXOPLANETARY SYSTEM ENHANCED WITH TESS AND GROUND-BASED PHOTOMETRIC OBSERVATIONS](http://adsabs.harvard.edu/abs/2020arXiv201202602M)  
+Maciejewski, G., Fernandez, M., Sota, A., et al.    
+2020, not refereed ([2020arXiv201202602M](http://adsabs.harvard.edu/abs/2020arXiv201202602M))  
 
-57. [A PLANETARY SYSTEM WITH TWO TRANSITING MINI-NEPTUNES NEAR THE RADIUS VALLEY TRANSITION AROUND THE BRIGHT M DWARF TOI-776](http://adsabs.harvard.edu/abs/2020arXiv200908338L)  
-Luque, R., Serrano, L. M., Molaverdikhani, K., et al.    
-2020, not refereed ([2020arXiv200908338L](http://adsabs.harvard.edu/abs/2020arXiv200908338L))  
+12. [OPTIMIZING MARVEL FOR THE RADIAL VELOCITY FOLLOW UP OF TESS AND PLATO TRANSITING EXOPLANETS](http://adsabs.harvard.edu/abs/2020SPIE11449E..13L)  
+Lanthermann, Cyprien, De Ridder, Joris, Sana, Hugues, et al.    
+2020, not refereed ([2020SPIE11449E..13L](http://adsabs.harvard.edu/abs/2020SPIE11449E..13L))  
 
-58. [EXPLORING THE ATMOSPHERIC DYNAMICS OF THE EXTREME ULTRAHOT JUPITER KELT-9B USING TESS PHOTOMETRY](http://adsabs.harvard.edu/abs/2020AJ....160...88W)  
-Wong, Ian, Shporer, Avi, Kitzmann, Daniel, et al.    
-2020, refereed ([2020AJ....160...88W](http://adsabs.harvard.edu/abs/2020AJ....160...88W))  
+13. [REVISITING KELT-19AB, WASP-156B AND WASP-121B IN THE TESS ERA](http://adsabs.harvard.edu/abs/2020arXiv201208744Y)  
+Yang, Fan, Chary, Ranga-Ram, Liu, Ji-Feng    
+2020, not refereed ([2020arXiv201208744Y](http://adsabs.harvard.edu/abs/2020arXiv201208744Y))  
 
-59. [TESS REVEALS A SHORT-PERIOD SUB-NEPTUNE SIBLING (HD 86226C) TO A KNOWN LONG-PERIOD GIANT PLANET](http://adsabs.harvard.edu/abs/2020AJ....160...96T)  
-Teske, Johanna, Díaz, Matías R., Luque, Rafael, et al.    
-2020, refereed ([2020AJ....160...96T](http://adsabs.harvard.edu/abs/2020AJ....160...96T))  
+14. [NEW CONSTRAINTS ON THE PLANETARY SYSTEM AROUND THE YOUNG ACTIVE STAR AU MIC. TWO TRANSITING WARM NEPTUNES NEAR MEAN-MOTION RESONANCE](http://adsabs.harvard.edu/abs/2020arXiv201213238M)  
+Martioli, E., Hébrard, G., Correia, A. C. M., et al.    
+2020, not refereed ([2020arXiv201213238M](http://adsabs.harvard.edu/abs/2020arXiv201213238M))  
 
-60. [TOI-1728B: THE HABITABLE-ZONE PLANET FINDER CONFIRMS A WARM SUPER-NEPTUNE ORBITING AN M-DWARF HOST](http://adsabs.harvard.edu/abs/2020ApJ...899...29K)  
-Kanodia, Shubham, Cañas, Caleb I., Stefansson, Gudmundur, et al.    
-2020, refereed ([2020ApJ...899...29K](http://adsabs.harvard.edu/abs/2020ApJ...899...29K))  
+15. [HOT EXOPLANET ATMOSPHERES RESOLVED WITH TRANSIT SPECTROSCOPY (HEARTS). VI. NON-DETECTION OF SODIUM WITH HARPS ON THE BLOATED SUPER-NEPTUNE WASP-127B](http://adsabs.harvard.edu/abs/2020A&A...643A..45S)  
+Seidel, J. V., Lendl, M., Bourrier, V., et al.    
+2020, refereed ([2020A&A...643A..45S](http://adsabs.harvard.edu/abs/2020A&A...643A..45S))  
 
-61. [LIMITS ON THE SPIN-ORBIT ANGLE AND ATMOSPHERIC ESCAPE FOR THE 22 MYR OLD PLANET AU MIC B](http://adsabs.harvard.edu/abs/2020ApJ...899L..13H)  
-Hirano, Teruyuki, Krishnamurthy, Vigneshwaran, Gaidos, Eric, et al.    
-2020, refereed ([2020ApJ...899L..13H](http://adsabs.harvard.edu/abs/2020ApJ...899L..13H))  
+16. [THE K2 AND TESS SYNERGY. I. UPDATED EPHEMERIDES AND PARAMETERS FOR K2-114, K2-167, K2-237, AND K2-261](http://adsabs.harvard.edu/abs/2020AJ....160..209I)  
+Ikwut-Ukwa, Mma, Rodriguez, Joseph E., Bieryla, Allyson, et al.    
+2020, refereed ([2020AJ....160..209I](http://adsabs.harvard.edu/abs/2020AJ....160..209I))  
 
-62. [A SEARCH FOR TRANSITING PLANETS AROUND FGKM DWARFS AND SUBGIANTS IN THE TESS FULL FRAME IMAGES OF THE SOUTHERN ECLIPTIC HEMISPHERE](http://adsabs.harvard.edu/abs/2020MNRAS.498.1726M)  
-Montalto, M., Borsato, L., Granata, V., et al.    
-2020, refereed ([2020MNRAS.498.1726M](http://adsabs.harvard.edu/abs/2020MNRAS.498.1726M))  
+17. [THE TESS PHASE CURVE OF KELT-1B SUGGESTS A HIGH DAYSIDE ALBEDO](http://adsabs.harvard.edu/abs/2020AJ....160..211B)  
+Beatty, Thomas G., Wong, Ian, Fetherolf, Tara, et al.    
+2020, refereed ([2020AJ....160..211B](http://adsabs.harvard.edu/abs/2020AJ....160..211B))  
 
-63. [THE TOI-763 SYSTEM: SUB-NEPTUNES ORBITING A SUN-LIKE STAR](http://adsabs.harvard.edu/abs/2020MNRAS.498.4503F)  
+18. [TOI 564 B AND TOI 905 B: GRAZING AND FULLY TRANSITING HOT JUPITERS DISCOVERED BY TESS](http://adsabs.harvard.edu/abs/2020AJ....160..229D)  
+Davis, Allen B., Wang, Songhu, Jones, Matias, et al.    
+2020, refereed ([2020AJ....160..229D](http://adsabs.harvard.edu/abs/2020AJ....160..229D))  
+
+19. [TOI-481 B AND TOI-892 B: TWO LONG-PERIOD HOT JUPITERS FROM THE TRANSITING EXOPLANET SURVEY SATELLITE](http://adsabs.harvard.edu/abs/2020AJ....160..235B)  
+Brahm, Rafael, Nielsen, Louise D., Wittenmyer, Robert A., et al.    
+2020, refereed ([2020AJ....160..235B](http://adsabs.harvard.edu/abs/2020AJ....160..235B))  
+
+20. [CLUSTER DIFFERENCE IMAGING PHOTOMETRIC SURVEY. II. TOI 837: A YOUNG VALIDATED PLANET IN IC 2602](http://adsabs.harvard.edu/abs/2020AJ....160..239B)  
+Bouma, L. G., Hartman, J. D., Brahm, R., et al.    
+2020, refereed ([2020AJ....160..239B](http://adsabs.harvard.edu/abs/2020AJ....160..239B))  
+
+21. [SPITZER REVEALS EVIDENCE OF MOLECULAR ABSORPTION IN THE ATMOSPHERE OF THE HOT NEPTUNE LTT 9779B](http://adsabs.harvard.edu/abs/2020ApJ...903L...6D)  
+Dragomir, Diana, Crossfield, Ian J. M., Benneke, Björn, et al.    
+2020, refereed ([2020ApJ...903L...6D](http://adsabs.harvard.edu/abs/2020ApJ...903L...6D))  
+
+22. [PHASE CURVES OF HOT NEPTUNE LTT 9779B SUGGEST A HIGH-METALLICITY ATMOSPHERE](http://adsabs.harvard.edu/abs/2020ApJ...903L...7C)  
+Crossfield, Ian J. M., Dragomir, Diana, Cowan, Nicolas B., et al.    
+2020, refereed ([2020ApJ...903L...7C](http://adsabs.harvard.edu/abs/2020ApJ...903L...7C))  
+
+23. [SURFACE TEMPERATURE GRADIENT OF FAST-ROTATING B9.5-A0 STAR KELT-9](http://adsabs.harvard.edu/abs/2020INASR...5..243S)  
+Savanov, I. S.    
+2020, refereed ([2020INASR...5..243S](http://adsabs.harvard.edu/abs/2020INASR...5..243S))  
+
+24. [THE TOI-763 SYSTEM: SUB-NEPTUNES ORBITING A SUN-LIKE STAR](http://adsabs.harvard.edu/abs/2020MNRAS.498.4503F)  
 Fridlund, M., Livingston, J., Gandolfi, D., et al.    
 2020, refereed ([2020MNRAS.498.4503F](http://adsabs.harvard.edu/abs/2020MNRAS.498.4503F))  
 
-64. [SIMULATIONS PREDICTING THE ABILITY OF MULTI-COLOR SIMULTANEOUS PHOTOMETRY TO DISTINGUISH TESS CANDIDATE EXOPLANETS FROM FALSE POSITIVES](http://adsabs.harvard.edu/abs/2020PASP..132h4403L)  
-Louie, Dana R., Narita, Norio, Fukui, Akihiko, et al.    
-2020, refereed ([2020PASP..132h4403L](http://adsabs.harvard.edu/abs/2020PASP..132h4403L))  
+25. [WASP-186 AND WASP-187: TWO HOT JUPITERS DISCOVERED BY SUPERWASP AND SOPHIE WITH ADDITIONAL OBSERVATIONS BY TESS](http://adsabs.harvard.edu/abs/2020MNRAS.499..428S)  
+Schanche, N., Hébrard, G., Collier Cameron, A., et al.    
+2020, refereed ([2020MNRAS.499..428S](http://adsabs.harvard.edu/abs/2020MNRAS.499..428S))  
 
-65. [THREE SHORT-PERIOD JUPITERS FROM TESS. HIP 65AB, TOI-157B, AND TOI-169B](http://adsabs.harvard.edu/abs/2020A&A...639A..76N)  
-Nielsen, L. D., Brahm, R., Bouchy, F., et al.    
-2020, refereed ([2020A&A...639A..76N](http://adsabs.harvard.edu/abs/2020A&A...639A..76N))  
+26. [THE MAGELLAN-TESS SURVEY I: SURVEY DESCRIPTION AND MID-SURVEY RESULTS](http://adsabs.harvard.edu/abs/2020arXiv201111560T)  
+Teske, Johanna, Xuesong Wang, Sharon, Wolfgang, Angie, et al.    
+2020, not refereed ([2020arXiv201111560T](http://adsabs.harvard.edu/abs/2020arXiv201111560T))  
 
-66. [PRECISE MASS AND RADIUS OF A TRANSITING SUPER-EARTH PLANET ORBITING THE M DWARF TOI-1235: A PLANET IN THE RADIUS GAP?](http://adsabs.harvard.edu/abs/2020A&A...639A.132B)  
-Bluhm, P., Luque, R., Espinoza, N., et al.    
-2020, refereed ([2020A&A...639A.132B](http://adsabs.harvard.edu/abs/2020A&A...639A.132B))  
+27. [EXOPLANET DETECTION USING MACHINE LEARNING](http://adsabs.harvard.edu/abs/2020arXiv201114135M)  
+Malik, Abhishek, Moster, Benjamin P., Obermeier, Christian    
+2020, not refereed ([2020arXiv201114135M](http://adsabs.harvard.edu/abs/2020arXiv201114135M))  
 
-67. [A PAIR OF TESS PLANETS SPANNING THE RADIUS VALLEY AROUND THE NEARBY MID-M DWARF LTT 3780](http://adsabs.harvard.edu/abs/2020AJ....160....3C)  
-Cloutier, Ryan, Eastman, Jason D., Rodriguez, Joseph E., et al.    
-2020, refereed ([2020AJ....160....3C](http://adsabs.harvard.edu/abs/2020AJ....160....3C))  
+28. [A PRECISE ARCHITECTURE CHARACTERIZATION OF THE Π MENSAE PLANETARY SYSTEM](http://adsabs.harvard.edu/abs/2020A&A...642A..31D)  
+Damasso, M., Sozzetti, A., Lovis, C., et al.    
+2020, refereed ([2020A&A...642A..31D](http://adsabs.harvard.edu/abs/2020A&A...642A..31D))  
 
-68. [KELT-9 B'S ASYMMETRIC TESS TRANSIT CAUSED BY RAPID STELLAR ROTATION AND SPIN-ORBIT MISALIGNMENT](http://adsabs.harvard.edu/abs/2020AJ....160....4A)  
-Ahlers, John P., Johnson, Marshall C., Stassun, Keivan G., et al.    
-2020, refereed ([2020AJ....160....4A](http://adsabs.harvard.edu/abs/2020AJ....160....4A))  
+29. [A SUPER-EARTH AND A SUB-NEPTUNE ORBITING THE BRIGHT, QUIET M3 DWARF TOI-1266](http://adsabs.harvard.edu/abs/2020A&A...642A..49D)  
+Demory, B. -O., Pozuelos, F. J., Gómez Maqueo Chew, Y., et al.    
+2020, refereed ([2020A&A...642A..49D](http://adsabs.harvard.edu/abs/2020A&A...642A..49D))  
 
-69. [TOI-1235 B: A KEYSTONE SUPER-EARTH FOR TESTING RADIUS VALLEY EMERGENCE MODELS AROUND EARLY M DWARFS](http://adsabs.harvard.edu/abs/2020AJ....160...22C)  
-Cloutier, Ryan, Rodriguez, Joseph E., Irwin, Jonathan, et al.    
-2020, refereed ([2020AJ....160...22C](http://adsabs.harvard.edu/abs/2020AJ....160...22C))  
+30. [PLANETARY SYSTEM LHS 1140 REVISITED WITH ESPRESSO AND TESS](http://adsabs.harvard.edu/abs/2020A&A...642A.121L)  
+Lillo-Box, J., Figueira, P., Leleu, A., et al.    
+2020, refereed ([2020A&A...642A.121L](http://adsabs.harvard.edu/abs/2020A&A...642A.121L))  
 
-70. [TESS HUNT FOR YOUNG AND MATURING EXOPLANETS (THYME). II. A 17 MYR OLD TRANSITING HOT JUPITER IN THE SCO-CEN ASSOCIATION](http://adsabs.harvard.edu/abs/2020AJ....160...33R)  
-Rizzuto, Aaron C., Newton, Elisabeth R., Mann, Andrew W., et al.    
-2020, refereed ([2020AJ....160...33R](http://adsabs.harvard.edu/abs/2020AJ....160...33R))  
+31. [THE CARMENES SEARCH FOR EXOPLANETS AROUND M DWARFS. TWO PLANETS ON OPPOSITE SIDES OF THE RADIUS GAP TRANSITING THE NEARBY M DWARF LTT 3780](http://adsabs.harvard.edu/abs/2020A&A...642A.173N)  
+Nowak, G., Luque, R., Parviainen, H., et al.    
+2020, refereed ([2020A&A...642A.173N](http://adsabs.harvard.edu/abs/2020A&A...642A.173N))  
 
-71. [NGTS-11 B (TOI-1847 B): A TRANSITING WARM SATURN RECOVERED FROM A TESS SINGLE-TRANSIT EVENT](http://adsabs.harvard.edu/abs/2020ApJ...898L..11G)  
-Gill, Samuel, Wheatley, Peter J., Cooke, Benjamin F., et al.    
-2020, refereed ([2020ApJ...898L..11G](http://adsabs.harvard.edu/abs/2020ApJ...898L..11G))  
+32. [DISCOVERY OF A HOT, TRANSITING, EARTH-SIZED PLANET AND A SECOND TEMPERATE, NON-TRANSITING PLANET AROUND THE M4 DWARF GJ 3473 (TOI-488)](http://adsabs.harvard.edu/abs/2020A&A...642A.236K)  
+Kemmer, J., Stock, S., Kossakowski, D., et al.    
+2020, refereed ([2020A&A...642A.236K](http://adsabs.harvard.edu/abs/2020A&A...642A.236K))  
 
-72. [ORBITAL PARAMETERS REFINEMENT ON HOT-JUPITERS WITH SPACE AND GROUND-BASED OBSERVATIONS: FIRST STEP TOWARDS ATMOSPHERIC CHARACTERIZATION](http://adsabs.harvard.edu/abs/2020BAAA...61B..24M)  
-Miculán, R. G., Díaz, R. F., Torres, A. F., et al.    
-2020, refereed ([2020BAAA...61B..24M](http://adsabs.harvard.edu/abs/2020BAAA...61B..24M))  
+33. [TOI-824 B: A NEW PLANET ON THE LOWER EDGE OF THE HOT NEPTUNE DESERT](http://adsabs.harvard.edu/abs/2020AJ....160..153B)  
+Burt, Jennifer A., Nielsen, Louise D., Quinn, Samuel N., et al.    
+2020, refereed ([2020AJ....160..153B](http://adsabs.harvard.edu/abs/2020AJ....160..153B))  
 
-73. [EVIDENCE FOR A HIGH MUTUAL INCLINATION BETWEEN THE COLD JUPITER AND TRANSITING SUPER EARTH ORBITING Π MEN](http://adsabs.harvard.edu/abs/2020MNRAS.497.2096X)  
+34. [SYSTEMATIC PHASE CURVE STUDY OF KNOWN TRANSITING SYSTEMS FROM YEAR ONE OF THE TESS MISSION](http://adsabs.harvard.edu/abs/2020AJ....160..155W)  
+Wong, Ian, Shporer, Avi, Daylan, Tansu, et al.    
+2020, refereed ([2020AJ....160..155W](http://adsabs.harvard.edu/abs/2020AJ....160..155W))  
+
+35. [MULTIPLE TRANSITS DURING A SINGLE CONJUNCTION: IDENTIFYING TRANSITING CIRCUMBINARY PLANETARY CANDIDATES FROM TESS](http://adsabs.harvard.edu/abs/2020AJ....160..174K)  
+Kostov, Veselin B., Welsh, William F., Haghighipour, Nader, et al.    
+2020, refereed ([2020AJ....160..174K](http://adsabs.harvard.edu/abs/2020AJ....160..174K))  
+
+36. [TESS HUNT FOR YOUNG AND MATURING EXOPLANETS (THYME). III. A TWO-PLANET SYSTEM IN THE 400 MYR URSA MAJOR GROUP](http://adsabs.harvard.edu/abs/2020AJ....160..179M)  
+Mann, Andrew W., Johnson, Marshall C., Vanderburg, Andrew, et al.    
+2020, refereed ([2020AJ....160..179M](http://adsabs.harvard.edu/abs/2020AJ....160..179M))  
+
+37. [THE TESS-KECK SURVEY. III. A STELLAR OBLIQUITY MEASUREMENT OF TOI-1726 C](http://adsabs.harvard.edu/abs/2020AJ....160..193D)  
+Dai, Fei, Roy, Arpita, Fulton, Benjamin, et al.    
+2020, refereed ([2020AJ....160..193D](http://adsabs.harvard.edu/abs/2020AJ....160..193D))  
+
+38. [A SEARCH FOR TRANSITING PLANETS AROUND FGKM DWARFS AND SUBGIANTS IN THE TESS FULL FRAME IMAGES OF THE SOUTHERN ECLIPTIC HEMISPHERE](http://adsabs.harvard.edu/abs/2020MNRAS.498.1726M)  
+Montalto, M., Borsato, L., Granata, V., et al.    
+2020, refereed ([2020MNRAS.498.1726M](http://adsabs.harvard.edu/abs/2020MNRAS.498.1726M))  
+
+39. [SEARCH FOR PLANETS IN HOT JUPITER SYSTEMS WITH MULTI-SECTOR TESS PHOTOMETRY. I. NO COMPANIONS IN PLANETARY SYSTEMS KELT-18, KELT-23, KELT-24, QATAR-8, WASP-62, WASP-100, WASP-119, AND WASP-126](http://adsabs.harvard.edu/abs/2020arXiv201011977M)  
+Maciejewski, Gracjan    
+2020, not refereed ([2020arXiv201011977M](http://adsabs.harvard.edu/abs/2020arXiv201011977M))  
+
+40. [HIDDEN WORLDS: DYNAMICAL ARCHITECTURE PREDICTIONS OF UNDETECTED PLANETS IN MULTI-PLANET SYSTEMS AND APPLICATIONS TO TESS SYSTEMS](http://adsabs.harvard.edu/abs/2020AJ....160..107D)  
+Dietrich, Jeremy, Apai, Dániel    
+2020, refereed ([2020AJ....160..107D](http://adsabs.harvard.edu/abs/2020AJ....160..107D))  
+
+41. [KELT-25 B AND KELT-26 B: A HOT JUPITER AND A SUBSTELLAR COMPANION TRANSITING YOUNG A STARS OBSERVED BY TESS](http://adsabs.harvard.edu/abs/2020AJ....160..111R)  
+Rodríguez Martínez, Romy, Gaudi, B. Scott, Rodriguez, Joseph E., et al.    
+2020, refereed ([2020AJ....160..111R](http://adsabs.harvard.edu/abs/2020AJ....160..111R))  
+
+42. [HD 191939: THREE SUB-NEPTUNES TRANSITING A SUN-LIKE STAR ONLY 54 PC AWAY](http://adsabs.harvard.edu/abs/2020AJ....160..113B)  
+Badenas-Agusti, Mariona, Günther, Maximilian N., Daylan, Tansu, et al.    
+2020, refereed ([2020AJ....160..113B](http://adsabs.harvard.edu/abs/2020AJ....160..113B))  
+
+43. [THE MULTIPLANET SYSTEM TOI-421](http://adsabs.harvard.edu/abs/2020AJ....160..114C)  
+Carleo, Ilaria, Gandolfi, Davide, Barragán, Oscar, et al.    
+2020, refereed ([2020AJ....160..114C](http://adsabs.harvard.edu/abs/2020AJ....160..114C))  
+
+44. [THE FIRST HABITABLE-ZONE EARTH-SIZED PLANET FROM TESS. I. VALIDATION OF THE TOI-700 SYSTEM](http://adsabs.harvard.edu/abs/2020AJ....160..116G)  
+Gilbert, Emily A., Barclay, Thomas, Schlieder, Joshua E., et al.    
+2020, refereed ([2020AJ....160..116G](http://adsabs.harvard.edu/abs/2020AJ....160..116G))  
+
+45. [THE FIRST HABITABLE-ZONE EARTH-SIZED PLANET FROM TESS. II. SPITZER CONFIRMS TOI-700 D](http://adsabs.harvard.edu/abs/2020AJ....160..117R)  
+Rodriguez, Joseph E., Vanderburg, Andrew, Zieba, Sebastian, et al.    
+2020, refereed ([2020AJ....160..117R](http://adsabs.harvard.edu/abs/2020AJ....160..117R))  
+
+46. [THE FIRST HABITABLE-ZONE EARTH-SIZED PLANET FROM TESS. III. CLIMATE STATES AND CHARACTERIZATION PROSPECTS FOR TOI-700 D](http://adsabs.harvard.edu/abs/2020AJ....160..118S)  
+Suissa, Gabrielle, Wolf, Eric T., Kopparapu, Ravi kumar, et al.    
+2020, refereed ([2020AJ....160..118S](http://adsabs.harvard.edu/abs/2020AJ....160..118S))  
+
+47. [TRANSITS OF KNOWN PLANETS ORBITING A NAKED-EYE STAR](http://adsabs.harvard.edu/abs/2020AJ....160..129K)  
+Kane, Stephen R., Yalçınkaya, Selçuk, Osborn, Hugh P., et al.    
+2020, refereed ([2020AJ....160..129K](http://adsabs.harvard.edu/abs/2020AJ....160..129K))  
+
+48. [A WARM JUPITER TRANSITING AN M DWARF: A TESS SINGLE-TRANSIT EVENT CONFIRMED WITH THE HABITABLE-ZONE PLANET FINDER](http://adsabs.harvard.edu/abs/2020AJ....160..147C)  
+Cañas, Caleb I., Stefansson, Gudmundur, Kanodia, Shubham, et al.    
+2020, refereed ([2020AJ....160..147C](http://adsabs.harvard.edu/abs/2020AJ....160..147C))  
+
+49. [EVIDENCE FOR A HIGH MUTUAL INCLINATION BETWEEN THE COLD JUPITER AND TRANSITING SUPER EARTH ORBITING Π MEN](http://adsabs.harvard.edu/abs/2020MNRAS.497.2096X)  
 Xuan, Jerry W., Wyatt, Mark C.    
 2020, refereed ([2020MNRAS.497.2096X](http://adsabs.harvard.edu/abs/2020MNRAS.497.2096X))  
 
-74. [A REMNANT PLANETARY CORE IN THE HOT-NEPTUNE DESERT](http://adsabs.harvard.edu/abs/2020Natur.583...39A)  
-Armstrong, David J., Lopez, Théo A., Adibekyan, Vardan, et al.    
-2020, refereed ([2020Natur.583...39A](http://adsabs.harvard.edu/abs/2020Natur.583...39A))  
+50. [AN ULTRAHOT NEPTUNE IN THE NEPTUNE DESERT](http://adsabs.harvard.edu/abs/2020NatAs.tmp..180J)  
+Jenkins, James S., Díaz, Matías R., Kurtovic, Nicolás T., et al.    
+2020, refereed ([2020NatAs.tmp..180J](http://adsabs.harvard.edu/abs/2020NatAs.tmp..180J))  
 
-75. [HAT-P-58B -- HAT-P-64B: SEVEN PLANETS TRANSITING BRIGHT STARS](http://adsabs.harvard.edu/abs/2020arXiv200705528B)  
-Bakos, G. Á., Hartman, J. D., Bhatti, W., et al.    
-2020, not refereed ([2020arXiv200705528B](http://adsabs.harvard.edu/abs/2020arXiv200705528B))  
+51. [A GIANT PLANET CANDIDATE TRANSITING A WHITE DWARF](http://adsabs.harvard.edu/abs/2020Natur.585..363V)  
+Vanderburg, Andrew, Rappaport, Saul A., Xu, Siyi, et al.    
+2020, refereed ([2020Natur.585..363V](http://adsabs.harvard.edu/abs/2020Natur.585..363V))  
 
-76. [ORBITAL MISALIGNMENT OF THE SUPER-EARTH $\PI$ MEN C WITH THE SPIN OF ITS STAR](http://adsabs.harvard.edu/abs/2020arXiv200711564K)  
-Kunovac Hodžić, Vedad, Triaud, Amaury H. M. J., Cegla, Heather M., et al.    
-2020, not refereed ([2020arXiv200711564K](http://adsabs.harvard.edu/abs/2020arXiv200711564K))  
+52. [EXPLORING THE ATMOSPHERIC DYNAMICS OF THE EXTREME ULTRAHOT JUPITER KELT-9B USING TESS PHOTOMETRY](http://adsabs.harvard.edu/abs/2020AJ....160...88W)  
+Wong, Ian, Shporer, Avi, Kitzmann, Daniel, et al.    
+2020, refereed ([2020AJ....160...88W](http://adsabs.harvard.edu/abs/2020AJ....160...88W))  
 
-77. [TESS REVEALS HD 118203 B TO BE A TRANSITING PLANET](http://adsabs.harvard.edu/abs/2020AJ....159..243P)  
-Pepper, Joshua, Kane, Stephen R., Rodriguez, Joseph E., et al.    
-2020, refereed ([2020AJ....159..243P](http://adsabs.harvard.edu/abs/2020AJ....159..243P))  
+53. [TESS REVEALS A SHORT-PERIOD SUB-NEPTUNE SIBLING (HD 86226C) TO A KNOWN LONG-PERIOD GIANT PLANET](http://adsabs.harvard.edu/abs/2020AJ....160...96T)  
+Teske, Johanna, Díaz, Matías R., Luque, Rafael, et al.    
+2020, refereed ([2020AJ....160...96T](http://adsabs.harvard.edu/abs/2020AJ....160...96T))  
 
-78. [TOI-1338: TESS' FIRST TRANSITING CIRCUMBINARY PLANET](http://adsabs.harvard.edu/abs/2020AJ....159..253K)  
-Kostov, Veselin B., Orosz, Jerome A., Feinstein, Adina D., et al.    
-2020, refereed ([2020AJ....159..253K](http://adsabs.harvard.edu/abs/2020AJ....159..253K))  
+54. [TOI-1728B: THE HABITABLE-ZONE PLANET FINDER CONFIRMS A WARM SUPER-NEPTUNE ORBITING AN M-DWARF HOST](http://adsabs.harvard.edu/abs/2020ApJ...899...29K)  
+Kanodia, Shubham, Cañas, Caleb I., Stefansson, Gudmundur, et al.    
+2020, refereed ([2020ApJ...899...29K](http://adsabs.harvard.edu/abs/2020ApJ...899...29K))  
 
-79. [HATS-71B: A GIANT PLANET TRANSITING AN M3 DWARF STAR IN TESS SECTOR 1](http://adsabs.harvard.edu/abs/2020AJ....159..267B)  
-Bakos, G. Á., Bayliss, D., Bento, J., et al.    
-2020, refereed ([2020AJ....159..267B](http://adsabs.harvard.edu/abs/2020AJ....159..267B))  
+55. [LIMITS ON THE SPIN-ORBIT ANGLE AND ATMOSPHERIC ESCAPE FOR THE 22 MYR OLD PLANET AU MIC B](http://adsabs.harvard.edu/abs/2020ApJ...899L..13H)  
+Hirano, Teruyuki, Krishnamurthy, Vigneshwaran, Gaidos, Eric, et al.    
+2020, refereed ([2020ApJ...899L..13H](http://adsabs.harvard.edu/abs/2020ApJ...899L..13H))  
 
-80. [ATMOSPHERIC ESCAPE FROM TOI-700 D: VENUS VERSUS EARTH ANALOGS](http://adsabs.harvard.edu/abs/2020ApJ...896L..24D)  
-Dong, Chuanfei, Jin, Meng, Lingam, Manasvi    
-2020, refereed ([2020ApJ...896L..24D](http://adsabs.harvard.edu/abs/2020ApJ...896L..24D))  
-
-81. [PYTHON PIPELINE TO SIMULTANEOUSLY EXTRACT EXOPLANET AND VARIABLE STAR DATA FROM TESS GROUND-BASED FOLLOWUP OBSERVATIONS (ABSTRACT)](http://adsabs.harvard.edu/abs/2020JAVSO..48..106S)  
-Snellenberger, I., Madsen, M., Craig, M.    
-2020, refereed ([2020JAVSO..48..106S](http://adsabs.harvard.edu/abs/2020JAVSO..48..106S))  
-
-82. [STUDENT INVOLVEMENT IN EXOPLANET SCIENCE (ABSTRACT)](http://adsabs.harvard.edu/abs/2020JAVSO..48Q.107B)  
-Boyce, P.    
-2020, refereed ([2020JAVSO..48Q.107B](http://adsabs.harvard.edu/abs/2020JAVSO..48Q.107B))  
-
-83. [AAVSO CONTRIBUTIONS TO YEAR 1 OF TESS (ABSTRACT)](http://adsabs.harvard.edu/abs/2020JAVSO..48R.105C)  
-Conti, D.    
-2020, refereed ([2020JAVSO..48R.105C](http://adsabs.harvard.edu/abs/2020JAVSO..48R.105C))  
-
-84. [A SEARCH FOR YOUNG EXOPLANETS IN SECTORS 1-5 OF THE TESS FULL-FRAME IMAGES](http://adsabs.harvard.edu/abs/2020MNRAS.496.1197B)  
+56. [A SEARCH FOR YOUNG EXOPLANETS IN SECTORS 1-5 OF THE TESS FULL-FRAME IMAGES](http://adsabs.harvard.edu/abs/2020MNRAS.496.1197B)  
 Battley, Matthew P., Pollacco, Don, Armstrong, David J.    
 2020, refereed ([2020MNRAS.496.1197B](http://adsabs.harvard.edu/abs/2020MNRAS.496.1197B))  
 
-85. [THE MAGELLAN/PFS EXOPLANET SEARCH: A 55-D PERIOD DENSE NEPTUNE TRANSITING THE BRIGHT (V = 8.6) STAR HD 95338](http://adsabs.harvard.edu/abs/2020MNRAS.496.4330D)  
+57. [THE MAGELLAN/PFS EXOPLANET SEARCH: A 55-D PERIOD DENSE NEPTUNE TRANSITING THE BRIGHT (V = 8.6) STAR HD 95338](http://adsabs.harvard.edu/abs/2020MNRAS.496.4330D)  
 Díaz, Matías R., Jenkins, James S., Feng, Fabo, et al.    
 2020, refereed ([2020MNRAS.496.4330D](http://adsabs.harvard.edu/abs/2020MNRAS.496.4330D))  
 
-86. [A PLANET WITHIN THE DEBRIS DISK AROUND THE PRE-MAIN-SEQUENCE STAR AU MICROSCOPII](http://adsabs.harvard.edu/abs/2020Natur.582..497P)  
-Plavchan, Peter, Barclay, Thomas, Gagné, Jonathan, et al.    
-2020, refereed ([2020Natur.582..497P](http://adsabs.harvard.edu/abs/2020Natur.582..497P))  
+58. [SIMULATIONS PREDICTING THE ABILITY OF MULTI-COLOR SIMULTANEOUS PHOTOMETRY TO DISTINGUISH TESS CANDIDATE EXOPLANETS FROM FALSE POSITIVES](http://adsabs.harvard.edu/abs/2020PASP..132h4403L)  
+Louie, Dana R., Narita, Norio, Fukui, Akihiko, et al.    
+2020, refereed ([2020PASP..132h4403L](http://adsabs.harvard.edu/abs/2020PASP..132h4403L))  
 
-87. [A MULTIPLANET SYSTEM OF SUPER-EARTHS ORBITING THE BRIGHTEST RED DWARF STAR GJ 887](http://adsabs.harvard.edu/abs/2020Sci...368.1477J)  
-Jeffers, S. V., Dreizler, S., Barnes, J. R., et al.    
-2020, refereed ([2020Sci...368.1477J](http://adsabs.harvard.edu/abs/2020Sci...368.1477J))  
+59. [THREE SHORT-PERIOD JUPITERS FROM TESS. HIP 65AB, TOI-157B, AND TOI-169B](http://adsabs.harvard.edu/abs/2020A&A...639A..76N)  
+Nielsen, L. D., Brahm, R., Bouchy, F., et al.    
+2020, refereed ([2020A&A...639A..76N](http://adsabs.harvard.edu/abs/2020A&A...639A..76N))  
 
-88. [TESS UNVEILS THE OPTICAL PHASE CURVE OF KELT-1B. THERMAL EMISSION AND ELLIPSOIDAL VARIATION FROM THE BROWN DWARF COMPANION, AND ACTIVITY FROM THE STAR](http://adsabs.harvard.edu/abs/2020arXiv200609750V)  
-von Essen, C., Mallonn, M., Cowan, N. B., et al.    
-2020, not refereed ([2020arXiv200609750V](http://adsabs.harvard.edu/abs/2020arXiv200609750V))  
+60. [PRECISE MASS AND RADIUS OF A TRANSITING SUPER-EARTH PLANET ORBITING THE M DWARF TOI-1235: A PLANET IN THE RADIUS GAP?](http://adsabs.harvard.edu/abs/2020A&A...639A.132B)  
+Bluhm, P., Luque, R., Espinoza, N., et al.    
+2020, refereed ([2020A&A...639A.132B](http://adsabs.harvard.edu/abs/2020A&A...639A.132B))  
 
-89. [A MINI-NEPTUNE AND A VENUS-ZONE PLANET IN THE RADIUS VALLEY ORBITING THE NEARBY M2-DWARF TOI-1266: VALIDATION WITH THE HABITABLE-ZONE PLANET FINDER](http://adsabs.harvard.edu/abs/2020arXiv200611180S)  
-Stefansson, Gudmundur, Kopparapu, Ravi, Lin, Andrea, et al.    
-2020, not refereed ([2020arXiv200611180S](http://adsabs.harvard.edu/abs/2020arXiv200611180S))  
+61. [A PAIR OF TESS PLANETS SPANNING THE RADIUS VALLEY AROUND THE NEARBY MID-M DWARF LTT 3780](http://adsabs.harvard.edu/abs/2020AJ....160....3C)  
+Cloutier, Ryan, Eastman, Jason D., Rodriguez, Joseph E., et al.    
+2020, refereed ([2020AJ....160....3C](http://adsabs.harvard.edu/abs/2020AJ....160....3C))  
 
-90. [THE YOUNGEST PLANET TO HAVE A SPIN-ORBIT ALIGNMENT MEASUREMENT AU MIC B](http://adsabs.harvard.edu/abs/2020arXiv200613675A)  
-Addison, Brett C., Horner, Jonathan, Wittenmyer, Robert A., et al.    
-2020, not refereed ([2020arXiv200613675A](http://adsabs.harvard.edu/abs/2020arXiv200613675A))  
+62. [KELT-9 B'S ASYMMETRIC TESS TRANSIT CAUSED BY RAPID STELLAR ROTATION AND SPIN-ORBIT MISALIGNMENT](http://adsabs.harvard.edu/abs/2020AJ....160....4A)  
+Ahlers, John P., Johnson, Marshall C., Stassun, Keivan G., et al.    
+2020, refereed ([2020AJ....160....4A](http://adsabs.harvard.edu/abs/2020AJ....160....4A))  
 
-91. [OPTICAL PHASE CURVE OF THE ULTRA-HOT JUPITER WASP-121B](http://adsabs.harvard.edu/abs/2020A&A...637A..36B)  
-Bourrier, V., Kitzmann, D., Kuntzer, T., et al.    
-2020, refereed ([2020A&A...637A..36B](http://adsabs.harvard.edu/abs/2020A&A...637A..36B))  
+63. [TOI-1235 B: A KEYSTONE SUPER-EARTH FOR TESTING RADIUS VALLEY EMERGENCE MODELS AROUND EARLY M DWARFS](http://adsabs.harvard.edu/abs/2020AJ....160...22C)  
+Cloutier, Ryan, Rodriguez, Joseph E., Irwin, Jonathan, et al.    
+2020, refereed ([2020AJ....160...22C](http://adsabs.harvard.edu/abs/2020AJ....160...22C))  
 
-92. [SECURING THE LEGACY OF TESS THROUGH THE CARE AND MAINTENANCE OF TESS PLANET EPHEMERIDES](http://adsabs.harvard.edu/abs/2020AJ....159..219D)  
-Dragomir, Diana, Harris, Mallory, Pepper, Joshua, et al.    
-2020, refereed ([2020AJ....159..219D](http://adsabs.harvard.edu/abs/2020AJ....159..219D))  
+64. [TESS HUNT FOR YOUNG AND MATURING EXOPLANETS (THYME). II. A 17 MYR OLD TRANSITING HOT JUPITER IN THE SCO-CEN ASSOCIATION](http://adsabs.harvard.edu/abs/2020AJ....160...33R)  
+Rizzuto, Aaron C., Newton, Elisabeth R., Mann, Andrew W., et al.    
+2020, refereed ([2020AJ....160...33R](http://adsabs.harvard.edu/abs/2020AJ....160...33R))  
 
-93. [THE TESS-KECK SURVEY. I. A WARM SUB-SATURN-MASS PLANET AND A CAUTION ABOUT STRAY LIGHT IN TESS CAMERAS](http://adsabs.harvard.edu/abs/2020AJ....159..241D)  
-Dalba, Paul A., Gupta, Arvind F., Rodriguez, Joseph E., et al.    
-2020, refereed ([2020AJ....159..241D](http://adsabs.harvard.edu/abs/2020AJ....159..241D))  
+65. [NGTS-11 B (TOI-1847 B): A TRANSITING WARM SATURN RECOVERED FROM A TESS SINGLE-TRANSIT EVENT](http://adsabs.harvard.edu/abs/2020ApJ...898L..11G)  
+Gill, Samuel, Wheatley, Peter J., Cooke, Benjamin F., et al.    
+2020, refereed ([2020ApJ...898L..11G](http://adsabs.harvard.edu/abs/2020ApJ...898L..11G))  
 
-94. [A POSSIBLE TRANSIT OF A DISINTEGRATING EXOPLANET IN THE NEARBY MULTIPLANET SYSTEM DMPP-1](http://adsabs.harvard.edu/abs/2020ApJ...895L..17J)  
-Jones, Mark H., Haswell, Carole A., Barnes, John R., et al.    
-2020, refereed ([2020ApJ...895L..17J](http://adsabs.harvard.edu/abs/2020ApJ...895L..17J))  
+66. [ORBITAL PARAMETERS REFINEMENT ON HOT-JUPITERS WITH SPACE AND GROUND-BASED OBSERVATIONS: FIRST STEP TOWARDS ATMOSPHERIC CHARACTERIZATION](http://adsabs.harvard.edu/abs/2020BAAA...61B..24M)  
+Miculán, R. G., Díaz, R. F., Torres, A. F., et al.    
+2020, refereed ([2020BAAA...61B..24M](http://adsabs.harvard.edu/abs/2020BAAA...61B..24M))  
 
-95. [A LONG-PERIOD (P = 61.8 D) M5V DWARF ECLIPSING A SUN-LIKE STAR FROM TESS AND NGTS](http://adsabs.harvard.edu/abs/2020MNRAS.495.2713G)  
+67. [A LONG-PERIOD (P = 61.8 D) M5V DWARF ECLIPSING A SUN-LIKE STAR FROM TESS AND NGTS](http://adsabs.harvard.edu/abs/2020MNRAS.495.2713G)  
 Gill, Samuel, Cooke, Benjamin F., Bayliss, Daniel, et al.    
 2020, refereed ([2020MNRAS.495.2713G](http://adsabs.harvard.edu/abs/2020MNRAS.495.2713G))  
 
-96. [ORIGINAL RESEARCH BY YOUNG TWINKLE STUDENTS (ORBYTS): EPHEMERIS REFINEMENT OF TRANSITING EXOPLANETS](http://adsabs.harvard.edu/abs/2020MNRAS.tmp.1386E)  
-Edwards, Billy, Changeat, Quentin, Yip, Kai Hou, et al.    
-2020, refereed ([2020MNRAS.tmp.1386E](http://adsabs.harvard.edu/abs/2020MNRAS.tmp.1386E))  
-
-97. [SCHEDULING ESPRESSO FOLLOW-UP OF TESS TARGETS. I. MYOPIC VERSUS NON-MYOPIC SAMPLING](http://adsabs.harvard.edu/abs/2020arXiv200514008C)  
-Cabona, Lorenzo, Faria, João, Landoni, Marco, et al.    
-2020, not refereed ([2020arXiv200514008C](http://adsabs.harvard.edu/abs/2020arXiv200514008C))  
-
-98. [A HOT TERRESTRIAL PLANET ORBITING THE BRIGHT M DWARF L 168-9 UNVEILED BY TESS](http://adsabs.harvard.edu/abs/2020A&A...636A..58A)  
-Astudillo-Defru, N., Cloutier, R., Wang, S. X., et al.    
-2020, refereed ([2020A&A...636A..58A](http://adsabs.harvard.edu/abs/2020A&A...636A..58A))  
-
-99. [TRAMOS. V. UPDATED EPHEMERIS AND MULTI-EPOCH MONITORING OF THE HOT JUPITERS WASP-18AB, WASP-19B, AND WASP-77AB](http://adsabs.harvard.edu/abs/2020A&A...636A..98C)  
-Cortés-Zuleta, Pía, Rojo, Patricio, Wang, Songhu, et al.    
-2020, refereed ([2020A&A...636A..98C](http://adsabs.harvard.edu/abs/2020A&A...636A..98C))  
-
-100. [THE CARMENES SEARCH FOR EXOPLANETS AROUND M DWARFS. CHARACTERIZATION OF THE NEARBY ULTRA-COMPACT MULTIPLANETARY SYSTEM YZ CETI](http://adsabs.harvard.edu/abs/2020A&A...636A.119S)  
-Stock, S., Kemmer, J., Reffert, S., et al.    
-2020, refereed ([2020A&A...636A.119S](http://adsabs.harvard.edu/abs/2020A&A...636A.119S))  
-
-101. [THE SOPHIE SEARCH FOR NORTHERN EXTRASOLAR PLANETS. XVI. HD 158259: A COMPACT PLANETARY SYSTEM IN A NEAR-3:2 MEAN MOTION RESONANCE CHAIN](http://adsabs.harvard.edu/abs/2020A&A...636L...6H)  
-Hara, N. C., Bouchy, F., Stalport, M., et al.    
-2020, refereed ([2020A&A...636L...6H](http://adsabs.harvard.edu/abs/2020A&A...636L...6H))  
-
-102. [TOI-677B: A WARM JUPITER (P = 11.2 DAYS) ON AN ECCENTRIC ORBIT TRANSITING A LATE F-TYPE STAR](http://adsabs.harvard.edu/abs/2020AJ....159..145J)  
-Jordán, Andrés, Brahm, Rafael, Espinoza, Néstor, et al.    
-2020, refereed ([2020AJ....159..145J](http://adsabs.harvard.edu/abs/2020AJ....159..145J))  
-
-103. [LHS 1815B: THE FIRST THICK-DISK PLANET DETECTED BY TESS](http://adsabs.harvard.edu/abs/2020AJ....159..160G)  
-Gan, Tianjun, Shporer, Avi, Livingston, John H., et al.    
-2020, refereed ([2020AJ....159..160G](http://adsabs.harvard.edu/abs/2020AJ....159..160G))  
-
-104. [HATS-47B, HATS-48AB, HATS-49B, AND HATS-72B: FOUR WARM GIANT PLANETS TRANSITING K DWARFS](http://adsabs.harvard.edu/abs/2020AJ....159..173H)  
-Hartman, J. D., Jordán, Andrés, Bayliss, D., et al.    
-2020, refereed ([2020AJ....159..173H](http://adsabs.harvard.edu/abs/2020AJ....159..173H))  
-
-105. [A WELL-ALIGNED ORBIT FOR THE 45 MYR-OLD TRANSITING NEPTUNE DS TUC AB](http://adsabs.harvard.edu/abs/2020ApJ...892L..21Z)  
-Zhou, G., Winn, J. N., Newton, E. R., et al.    
-2020, refereed ([2020ApJ...892L..21Z](http://adsabs.harvard.edu/abs/2020ApJ...892L..21Z))  
-
-106. [WASP-4 IS ACCELERATING TOWARD THE EARTH](http://adsabs.harvard.edu/abs/2020ApJ...893L..29B)  
-Bouma, L. G., Winn, J. N., Howard, A. W., et al.    
-2020, refereed ([2020ApJ...893L..29B](http://adsabs.harvard.edu/abs/2020ApJ...893L..29B))  
-
-107. [DETECTION OF THE PHASE CURVE AND OCCULTATION OF WASP-100B WITH TESS](http://adsabs.harvard.edu/abs/2020MNRAS.494.4077J)  
-Jansen, Tiffany, Kipping, David    
-2020, refereed ([2020MNRAS.494.4077J](http://adsabs.harvard.edu/abs/2020MNRAS.494.4077J))  
-
-108. [DETECTION OF NA, K, AND H<SUB>2</SUB>O IN THE HAZY ATMOSPHERE OF WASP-6B](http://adsabs.harvard.edu/abs/2020MNRAS.494.5449C)  
-Carter, Aarynn L., Nikolov, Nikolay, Sing, David K., et al.    
-2020, refereed ([2020MNRAS.494.5449C](http://adsabs.harvard.edu/abs/2020MNRAS.494.5449C))  
-
-109. [SIMULTANEOUS TESS AND NGTS TRANSIT OBSERVATIONS OF WASP-166 B](http://adsabs.harvard.edu/abs/2020MNRAS.494.5872B)  
-Bryant, Edward M., Bayliss, Daniel, McCormac, James, et al.    
-2020, refereed ([2020MNRAS.494.5872B](http://adsabs.harvard.edu/abs/2020MNRAS.494.5872B))  
-
-110. [THE ANCIENT MAIN-SEQUENCE SOLAR PROXY HIP 102152 UNVEILS THE ACTIVITY AND ROTATIONAL FATE OF OUR SUN](http://adsabs.harvard.edu/abs/2020MNRAS.495L..61L)  
-Lorenzo-Oliveira, Diego, Meléndez, Jorge, Ponte, Geisa, et al.    
-2020, refereed ([2020MNRAS.495L..61L](http://adsabs.harvard.edu/abs/2020MNRAS.495L..61L))  
-
-111. [WASP-4 TRANSIT TIMING VARIATION FROM A COMPREHENSIVE SET OF 129 TRANSITS](http://adsabs.harvard.edu/abs/2020MNRAS.496L..11B)  
+68. [WASP-4 TRANSIT TIMING VARIATION FROM A COMPREHENSIVE SET OF 129 TRANSITS](http://adsabs.harvard.edu/abs/2020MNRAS.496L..11B)  
 Baluev, R. V., Sokov, E. N., Hoyer, S., et al.    
 2020, refereed ([2020MNRAS.496L..11B](http://adsabs.harvard.edu/abs/2020MNRAS.496L..11B))  
 
-112. [TESS DISCOVERY OF A SUPER-EARTH AND THREE SUB-NEPTUNES HOSTED BY THE BRIGHT, SUN-LIKE STAR HD 108236](http://adsabs.harvard.edu/abs/2020arXiv200411314D)  
-Daylan, Tansu, Pingle, Kartik, Wright, Jasmine, et al.    
-2020, not refereed ([2020arXiv200411314D](http://adsabs.harvard.edu/abs/2020arXiv200411314D))  
+69. [A REMNANT PLANETARY CORE IN THE HOT-NEPTUNE DESERT](http://adsabs.harvard.edu/abs/2020Natur.583...39A)  
+Armstrong, David J., Lopez, Théo A., Adibekyan, Vardan, et al.    
+2020, refereed ([2020Natur.583...39A](http://adsabs.harvard.edu/abs/2020Natur.583...39A))  
 
-113. [TESS PHASE CURVE OF THE HOT JUPITER WASP-19B](http://adsabs.harvard.edu/abs/2020AJ....159..104W)  
-Wong, Ian, Benneke, Björn, Shporer, Avi, et al.    
-2020, refereed ([2020AJ....159..104W](http://adsabs.harvard.edu/abs/2020AJ....159..104W))  
+70. [HAT-P-58B -- HAT-P-64B: SEVEN PLANETS TRANSITING BRIGHT STARS](http://adsabs.harvard.edu/abs/2020arXiv200705528B)  
+Bakos, G. Á., Hartman, J. D., Bhatti, W., et al.    
+2020, not refereed ([2020arXiv200705528B](http://adsabs.harvard.edu/abs/2020arXiv200705528B))  
 
-114. [THE YOUNG PLANET DS TUC AB HAS A LOW OBLIQUITY](http://adsabs.harvard.edu/abs/2020AJ....159..112M)  
-Montet, Benjamin T., Feinstein, Adina D., Luger, Rodrigo, et al.    
-2020, refereed ([2020AJ....159..112M](http://adsabs.harvard.edu/abs/2020AJ....159..112M))  
+71. [TESS REVEALS HD 118203 B TO BE A TRANSITING PLANET](http://adsabs.harvard.edu/abs/2020AJ....159..243P)  
+Pepper, Joshua, Kane, Stephen R., Rodriguez, Joseph E., et al.    
+2020, refereed ([2020AJ....159..243P](http://adsabs.harvard.edu/abs/2020AJ....159..243P))  
 
-115. [PLANET-STAR INTERACTIONS WITH PRECISE TRANSIT TIMING. II. THE RADIAL-VELOCITY TIDES AND A TIGHTER CONSTRAINT ON THE ORBITAL DECAY RATE IN THE WASP-18 SYSTEM](http://adsabs.harvard.edu/abs/2020AcA....70....1M)  
-Maciejewski, G., Knutson, H. A., Howard, A. W., et al.    
-2020, refereed ([2020AcA....70....1M](http://adsabs.harvard.edu/abs/2020AcA....70....1M))  
+72. [TOI-1338: TESS' FIRST TRANSITING CIRCUMBINARY PLANET](http://adsabs.harvard.edu/abs/2020AJ....159..253K)  
+Kostov, Veselin B., Orosz, Jerome A., Feinstein, Adina D., et al.    
+2020, refereed ([2020AJ....159..253K](http://adsabs.harvard.edu/abs/2020AJ....159..253K))  
 
-116. [MASS DETERMINATIONS OF THE THREE MINI-NEPTUNES TRANSITING TOI-125](http://adsabs.harvard.edu/abs/2020MNRAS.492.5399N)  
-Nielsen, L. D., Gandolfi, D., Armstrong, D. J., et al.    
-2020, refereed ([2020MNRAS.492.5399N](http://adsabs.harvard.edu/abs/2020MNRAS.492.5399N))  
+73. [HATS-71B: A GIANT PLANET TRANSITING AN M3 DWARF STAR IN TESS SECTOR 1](http://adsabs.harvard.edu/abs/2020AJ....159..267B)  
+Bakos, G. Á., Bayliss, D., Bento, J., et al.    
+2020, refereed ([2020AJ....159..267B](http://adsabs.harvard.edu/abs/2020AJ....159..267B))  
 
-117. [TOI-132 B: A SHORT-PERIOD PLANET IN THE NEPTUNE DESERT TRANSITING A V = 11.3 G-TYPE STAR<SUP>★</SUP>](http://adsabs.harvard.edu/abs/2020MNRAS.493..973D)  
-Díaz, Matías R., Jenkins, James S., Gandolfi, Davide, et al.    
-2020, refereed ([2020MNRAS.493..973D](http://adsabs.harvard.edu/abs/2020MNRAS.493..973D))  
+74. [ATMOSPHERIC ESCAPE FROM TOI-700 D: VENUS VERSUS EARTH ANALOGS](http://adsabs.harvard.edu/abs/2020ApJ...896L..24D)  
+Dong, Chuanfei, Jin, Meng, Lingam, Manasvi    
+2020, refereed ([2020ApJ...896L..24D](http://adsabs.harvard.edu/abs/2020ApJ...896L..24D))  
 
-118. [CHEOPS OBSERVATIONS OF TESS PRIMARY MISSION MONOTRANSITS](http://adsabs.harvard.edu/abs/2020MNRAS.494..736C)  
+75. [PYTHON PIPELINE TO SIMULTANEOUSLY EXTRACT EXOPLANET AND VARIABLE STAR DATA FROM TESS GROUND-BASED FOLLOWUP OBSERVATIONS (ABSTRACT)](http://adsabs.harvard.edu/abs/2020JAVSO..48..106S)  
+Snellenberger, I., Madsen, M., Craig, M.    
+2020, refereed ([2020JAVSO..48..106S](http://adsabs.harvard.edu/abs/2020JAVSO..48..106S))  
+
+76. [STUDENT INVOLVEMENT IN EXOPLANET SCIENCE (ABSTRACT)](http://adsabs.harvard.edu/abs/2020JAVSO..48Q.107B)  
+Boyce, P.    
+2020, refereed ([2020JAVSO..48Q.107B](http://adsabs.harvard.edu/abs/2020JAVSO..48Q.107B))  
+
+77. [AAVSO CONTRIBUTIONS TO YEAR 1 OF TESS (ABSTRACT)](http://adsabs.harvard.edu/abs/2020JAVSO..48R.105C)  
+Conti, D.    
+2020, refereed ([2020JAVSO..48R.105C](http://adsabs.harvard.edu/abs/2020JAVSO..48R.105C))  
+
+78. [DETECTION OF NA, K, AND H<SUB>2</SUB>O IN THE HAZY ATMOSPHERE OF WASP-6B](http://adsabs.harvard.edu/abs/2020MNRAS.494.5449C)  
+Carter, Aarynn L., Nikolov, Nikolay, Sing, David K., et al.    
+2020, refereed ([2020MNRAS.494.5449C](http://adsabs.harvard.edu/abs/2020MNRAS.494.5449C))  
+
+79. [SIMULTANEOUS TESS AND NGTS TRANSIT OBSERVATIONS OF WASP-166 B](http://adsabs.harvard.edu/abs/2020MNRAS.494.5872B)  
+Bryant, Edward M., Bayliss, Daniel, McCormac, James, et al.    
+2020, refereed ([2020MNRAS.494.5872B](http://adsabs.harvard.edu/abs/2020MNRAS.494.5872B))  
+
+80. [THE ANCIENT MAIN-SEQUENCE SOLAR PROXY HIP 102152 UNVEILS THE ACTIVITY AND ROTATIONAL FATE OF OUR SUN](http://adsabs.harvard.edu/abs/2020MNRAS.495L..61L)  
+Lorenzo-Oliveira, Diego, Meléndez, Jorge, Ponte, Geisa, et al.    
+2020, refereed ([2020MNRAS.495L..61L](http://adsabs.harvard.edu/abs/2020MNRAS.495L..61L))  
+
+81. [A PLANET WITHIN THE DEBRIS DISK AROUND THE PRE-MAIN-SEQUENCE STAR AU MICROSCOPII](http://adsabs.harvard.edu/abs/2020Natur.582..497P)  
+Plavchan, Peter, Barclay, Thomas, Gagné, Jonathan, et al.    
+2020, refereed ([2020Natur.582..497P](http://adsabs.harvard.edu/abs/2020Natur.582..497P))  
+
+82. [A MULTIPLANET SYSTEM OF SUPER-EARTHS ORBITING THE BRIGHTEST RED DWARF STAR GJ 887](http://adsabs.harvard.edu/abs/2020Sci...368.1477J)  
+Jeffers, S. V., Dreizler, S., Barnes, J. R., et al.    
+2020, refereed ([2020Sci...368.1477J](http://adsabs.harvard.edu/abs/2020Sci...368.1477J))  
+
+83. [TESS UNVEILS THE OPTICAL PHASE CURVE OF KELT-1B. THERMAL EMISSION AND ELLIPSOIDAL VARIATION FROM THE BROWN DWARF COMPANION, AND ACTIVITY FROM THE STAR](http://adsabs.harvard.edu/abs/2020arXiv200609750V)  
+von Essen, C., Mallonn, M., Piette, A., et al.    
+2020, not refereed ([2020arXiv200609750V](http://adsabs.harvard.edu/abs/2020arXiv200609750V))  
+
+84. [A MINI-NEPTUNE AND A VENUS-ZONE PLANET IN THE RADIUS VALLEY ORBITING THE NEARBY M2-DWARF TOI-1266: VALIDATION WITH THE HABITABLE-ZONE PLANET FINDER](http://adsabs.harvard.edu/abs/2020arXiv200611180S)  
+Stefansson, Gudmundur, Kopparapu, Ravi, Lin, Andrea, et al.    
+2020, not refereed ([2020arXiv200611180S](http://adsabs.harvard.edu/abs/2020arXiv200611180S))  
+
+85. [THE YOUNGEST PLANET TO HAVE A SPIN-ORBIT ALIGNMENT MEASUREMENT AU MIC B](http://adsabs.harvard.edu/abs/2020arXiv200613675A)  
+Addison, Brett C., Horner, Jonathan, Wittenmyer, Robert A., et al.    
+2020, not refereed ([2020arXiv200613675A](http://adsabs.harvard.edu/abs/2020arXiv200613675A))  
+
+86. [OPTICAL PHASE CURVE OF THE ULTRA-HOT JUPITER WASP-121B](http://adsabs.harvard.edu/abs/2020A&A...637A..36B)  
+Bourrier, V., Kitzmann, D., Kuntzer, T., et al.    
+2020, refereed ([2020A&A...637A..36B](http://adsabs.harvard.edu/abs/2020A&A...637A..36B))  
+
+87. [SECURING THE LEGACY OF TESS THROUGH THE CARE AND MAINTENANCE OF TESS PLANET EPHEMERIDES](http://adsabs.harvard.edu/abs/2020AJ....159..219D)  
+Dragomir, Diana, Harris, Mallory, Pepper, Joshua, et al.    
+2020, refereed ([2020AJ....159..219D](http://adsabs.harvard.edu/abs/2020AJ....159..219D))  
+
+88. [THE TESS-KECK SURVEY. I. A WARM SUB-SATURN-MASS PLANET AND A CAUTION ABOUT STRAY LIGHT IN TESS CAMERAS](http://adsabs.harvard.edu/abs/2020AJ....159..241D)  
+Dalba, Paul A., Gupta, Arvind F., Rodriguez, Joseph E., et al.    
+2020, refereed ([2020AJ....159..241D](http://adsabs.harvard.edu/abs/2020AJ....159..241D))  
+
+89. [A POSSIBLE TRANSIT OF A DISINTEGRATING EXOPLANET IN THE NEARBY MULTIPLANET SYSTEM DMPP-1](http://adsabs.harvard.edu/abs/2020ApJ...895L..17J)  
+Jones, Mark H., Haswell, Carole A., Barnes, John R., et al.    
+2020, refereed ([2020ApJ...895L..17J](http://adsabs.harvard.edu/abs/2020ApJ...895L..17J))  
+
+90. [CHEOPS OBSERVATIONS OF TESS PRIMARY MISSION MONOTRANSITS](http://adsabs.harvard.edu/abs/2020MNRAS.494..736C)  
 Cooke, Benjamin F., Pollacco, Don, Lendl, Monika, et al.    
 2020, refereed ([2020MNRAS.494..736C](http://adsabs.harvard.edu/abs/2020MNRAS.494..736C))  
 
-119. [GJ 1252 B: A 1.2 R<SUB>⊕</SUB> PLANET TRANSITING AN M3 DWARF AT 20.4 PC](http://adsabs.harvard.edu/abs/2020ApJ...890L...7S)  
-Shporer, Avi, Collins, Karen A., Astudillo-Defru, Nicola, et al.    
-2020, refereed ([2020ApJ...890L...7S](http://adsabs.harvard.edu/abs/2020ApJ...890L...7S))  
-
-120. [TOI-222: A SINGLE-TRANSIT TESS CANDIDATE REVEALED TO BE A 34-D ECLIPSING BINARY WITH CORALIE, EULERCAM, AND NGTS](http://adsabs.harvard.edu/abs/2020MNRAS.492.1761L)  
-Lendl, Monika, Bouchy, François, Gill, Samuel, et al.    
-2020, refereed ([2020MNRAS.492.1761L](http://adsabs.harvard.edu/abs/2020MNRAS.492.1761L))  
-
-121. [THE CLOCKWORK IS MOVING ON - A COMBINED ANALYSIS OF TESS AND KEPLER MEASUREMENTS OF KEPLER-13AB](http://adsabs.harvard.edu/abs/2020MNRAS.492L..17S)  
-Szabó, Gy M., Pribulla, T., Pál, A., et al.    
-2020, refereed ([2020MNRAS.492L..17S](http://adsabs.harvard.edu/abs/2020MNRAS.492L..17S))  
-
-122. [MUSCAT2 MULTICOLOUR VALIDATION OF TESS CANDIDATES: AN ULTRA-SHORT-PERIOD SUBSTELLAR OBJECT AROUND AN M DWARF](http://adsabs.harvard.edu/abs/2020A&A...633A..28P)  
-Parviainen, H., Palle, E., Zapatero-Osorio, M. R., et al.    
-2020, refereed ([2020A&A...633A..28P](http://adsabs.harvard.edu/abs/2020A&A...633A..28P))  
-
-123. [THE HIGHLY INFLATED GIANT PLANET WASP-174B](http://adsabs.harvard.edu/abs/2020A&A...633A..30M)  
-Mancini, L., Sarkis, P., Henning, Th., et al.    
-2020, refereed ([2020A&A...633A..30M](http://adsabs.harvard.edu/abs/2020A&A...633A..30M))  
-
-124. [RAPID CLASSIFICATION OF TESS PLANET CANDIDATES WITH CONVOLUTIONAL NEURAL NETWORKS](http://adsabs.harvard.edu/abs/2020A&A...633A..53O)  
-Osborn, H. P., Ansdell, M., Ioannou, Y., et al.    
-2020, refereed ([2020A&A...633A..53O](http://adsabs.harvard.edu/abs/2020A&A...633A..53O))  
-
-125. [TRANSMISSION SPECTROSCOPY OF WASP-79B FROM 0.6 TO 5.0 ΜM](http://adsabs.harvard.edu/abs/2020AJ....159....5S)  
-Sotzen, Kristin S., Stevenson, Kevin B., Sing, David K., et al.    
-2020, refereed ([2020AJ....159....5S](http://adsabs.harvard.edu/abs/2020AJ....159....5S))  
-
-126. [SOAR TESS SURVEY. I. SCULPTING OF TESS PLANETARY SYSTEMS BY STELLAR COMPANIONS](http://adsabs.harvard.edu/abs/2020AJ....159...19Z)  
-Ziegler, Carl, Tokovinin, Andrei, Briceño, César, et al.    
-2020, refereed ([2020AJ....159...19Z](http://adsabs.harvard.edu/abs/2020AJ....159...19Z))  
-
-127. [GRAVITY-DARKENING ANALYSIS OF THE MISALIGNED HOT JUPITER MASCARA-4 B](http://adsabs.harvard.edu/abs/2020ApJ...888...63A)  
-Ahlers, John P., Kruse, Ethan, Colón, Knicole D., et al.    
-2020, refereed ([2020ApJ...888...63A](http://adsabs.harvard.edu/abs/2020ApJ...888...63A))  
-
-128. [NGTS AND WASP PHOTOMETRIC RECOVERY OF A SINGLE-TRANSIT CANDIDATE FROM TESS](http://adsabs.harvard.edu/abs/2020MNRAS.491.1548G)  
-Gill, Samuel, Bayliss, Daniel, Cooke, Benjamin F., et al.    
-2020, refereed ([2020MNRAS.491.1548G](http://adsabs.harvard.edu/abs/2020MNRAS.491.1548G))  
-
-129. [HD 213885B: A TRANSITING 1-D-PERIOD SUPER-EARTH WITH AN EARTH-LIKE COMPOSITION AROUND A BRIGHT (V = 7.9) STAR UNVEILED BY TESS](http://adsabs.harvard.edu/abs/2020MNRAS.491.2982E)  
-Espinoza, Néstor, Brahm, Rafael, Henning, Thomas, et al.    
-2020, refereed ([2020MNRAS.491.2982E](http://adsabs.harvard.edu/abs/2020MNRAS.491.2982E))  
-
-130. [PLANET HUNTERS TESS I: TOI 813, A SUBGIANT HOSTING A TRANSITING SATURN-SIZED PLANET ON AN 84-DAY ORBIT](http://adsabs.harvard.edu/abs/2020MNRAS.494..750E)  
+91. [PLANET HUNTERS TESS I: TOI 813, A SUBGIANT HOSTING A TRANSITING SATURN-SIZED PLANET ON AN 84-DAY ORBIT](http://adsabs.harvard.edu/abs/2020MNRAS.494..750E)  
 Eisner, N. L., Barragán, O., Aigrain, S., et al.    
 2020, refereed ([2020MNRAS.494..750E](http://adsabs.harvard.edu/abs/2020MNRAS.494..750E))  
 
-131. [TOI-257B (HD 19916B): A WARM SUB-SATURN ON A MODERATELY ECCENTRIC ORBIT AROUND AN EVOLVED F-TYPE STAR](http://adsabs.harvard.edu/abs/2020arXiv200107345A)  
-Addison, Brett C., Wright, Duncan J., Nicholson, Belinda A., et al.    
-2020, not refereed ([2020arXiv200107345A](http://adsabs.harvard.edu/abs/2020arXiv200107345A))  
+92. [DETECTION OF THE PHASE CURVE AND OCCULTATION OF WASP-100B WITH TESS](http://adsabs.harvard.edu/abs/2020MNRAS.494.4077J)  
+Jansen, Tiffany, Kipping, David    
+2020, refereed ([2020MNRAS.494.4077J](http://adsabs.harvard.edu/abs/2020MNRAS.494.4077J))  
+
+93. [ORIGINAL RESEARCH BY YOUNG TWINKLE STUDENTS (ORBYTS): EPHEMERIS REFINEMENT OF TRANSITING EXOPLANETS](http://adsabs.harvard.edu/abs/2020MNRAS.tmp.1386E)  
+Edwards, Billy, Changeat, Quentin, Yip, Kai Hou, et al.    
+2020, refereed ([2020MNRAS.tmp.1386E](http://adsabs.harvard.edu/abs/2020MNRAS.tmp.1386E))  
+
+94. [SCHEDULING ESPRESSO FOLLOW-UP OF TESS TARGETS. I. MYOPIC VERSUS NON-MYOPIC SAMPLING](http://adsabs.harvard.edu/abs/2020arXiv200514008C)  
+Cabona, Lorenzo, Faria, João, Landoni, Marco, et al.    
+2020, not refereed ([2020arXiv200514008C](http://adsabs.harvard.edu/abs/2020arXiv200514008C))  
+
+95. [A HOT TERRESTRIAL PLANET ORBITING THE BRIGHT M DWARF L 168-9 UNVEILED BY TESS](http://adsabs.harvard.edu/abs/2020A&A...636A..58A)  
+Astudillo-Defru, N., Cloutier, R., Wang, S. X., et al.    
+2020, refereed ([2020A&A...636A..58A](http://adsabs.harvard.edu/abs/2020A&A...636A..58A))  
+
+96. [TRAMOS. V. UPDATED EPHEMERIS AND MULTI-EPOCH MONITORING OF THE HOT JUPITERS WASP-18AB, WASP-19B, AND WASP-77AB](http://adsabs.harvard.edu/abs/2020A&A...636A..98C)  
+Cortés-Zuleta, Pía, Rojo, Patricio, Wang, Songhu, et al.    
+2020, refereed ([2020A&A...636A..98C](http://adsabs.harvard.edu/abs/2020A&A...636A..98C))  
+
+97. [THE CARMENES SEARCH FOR EXOPLANETS AROUND M DWARFS. CHARACTERIZATION OF THE NEARBY ULTRA-COMPACT MULTIPLANETARY SYSTEM YZ CETI](http://adsabs.harvard.edu/abs/2020A&A...636A.119S)  
+Stock, S., Kemmer, J., Reffert, S., et al.    
+2020, refereed ([2020A&A...636A.119S](http://adsabs.harvard.edu/abs/2020A&A...636A.119S))  
+
+98. [THE SOPHIE SEARCH FOR NORTHERN EXTRASOLAR PLANETS. XVI. HD 158259: A COMPACT PLANETARY SYSTEM IN A NEAR-3:2 MEAN MOTION RESONANCE CHAIN](http://adsabs.harvard.edu/abs/2020A&A...636L...6H)  
+Hara, N. C., Bouchy, F., Stalport, M., et al.    
+2020, refereed ([2020A&A...636L...6H](http://adsabs.harvard.edu/abs/2020A&A...636L...6H))  
+
+99. [TOI-677B: A WARM JUPITER (P = 11.2 DAYS) ON AN ECCENTRIC ORBIT TRANSITING A LATE F-TYPE STAR](http://adsabs.harvard.edu/abs/2020AJ....159..145J)  
+Jordán, Andrés, Brahm, Rafael, Espinoza, Néstor, et al.    
+2020, refereed ([2020AJ....159..145J](http://adsabs.harvard.edu/abs/2020AJ....159..145J))  
+
+100. [LHS 1815B: THE FIRST THICK-DISK PLANET DETECTED BY TESS](http://adsabs.harvard.edu/abs/2020AJ....159..160G)  
+Gan, Tianjun, Shporer, Avi, Livingston, John H., et al.    
+2020, refereed ([2020AJ....159..160G](http://adsabs.harvard.edu/abs/2020AJ....159..160G))  
+
+101. [HATS-47B, HATS-48AB, HATS-49B, AND HATS-72B: FOUR WARM GIANT PLANETS TRANSITING K DWARFS](http://adsabs.harvard.edu/abs/2020AJ....159..173H)  
+Hartman, J. D., Jordán, Andrés, Bayliss, D., et al.    
+2020, refereed ([2020AJ....159..173H](http://adsabs.harvard.edu/abs/2020AJ....159..173H))  
+
+102. [A WELL-ALIGNED ORBIT FOR THE 45 MYR-OLD TRANSITING NEPTUNE DS TUC AB](http://adsabs.harvard.edu/abs/2020ApJ...892L..21Z)  
+Zhou, G., Winn, J. N., Newton, E. R., et al.    
+2020, refereed ([2020ApJ...892L..21Z](http://adsabs.harvard.edu/abs/2020ApJ...892L..21Z))  
+
+103. [WASP-4 IS ACCELERATING TOWARD THE EARTH](http://adsabs.harvard.edu/abs/2020ApJ...893L..29B)  
+Bouma, L. G., Winn, J. N., Howard, A. W., et al.    
+2020, refereed ([2020ApJ...893L..29B](http://adsabs.harvard.edu/abs/2020ApJ...893L..29B))  
+
+104. [TESS PHASE CURVE OF THE HOT JUPITER WASP-19B](http://adsabs.harvard.edu/abs/2020AJ....159..104W)  
+Wong, Ian, Benneke, Björn, Shporer, Avi, et al.    
+2020, refereed ([2020AJ....159..104W](http://adsabs.harvard.edu/abs/2020AJ....159..104W))  
+
+105. [THE YOUNG PLANET DS TUC AB HAS A LOW OBLIQUITY](http://adsabs.harvard.edu/abs/2020AJ....159..112M)  
+Montet, Benjamin T., Feinstein, Adina D., Luger, Rodrigo, et al.    
+2020, refereed ([2020AJ....159..112M](http://adsabs.harvard.edu/abs/2020AJ....159..112M))  
+
+106. [PLANET-STAR INTERACTIONS WITH PRECISE TRANSIT TIMING. II. THE RADIAL-VELOCITY TIDES AND A TIGHTER CONSTRAINT ON THE ORBITAL DECAY RATE IN THE WASP-18 SYSTEM](http://adsabs.harvard.edu/abs/2020AcA....70....1M)  
+Maciejewski, G., Knutson, H. A., Howard, A. W., et al.    
+2020, refereed ([2020AcA....70....1M](http://adsabs.harvard.edu/abs/2020AcA....70....1M))  
+
+107. [MASS DETERMINATIONS OF THE THREE MINI-NEPTUNES TRANSITING TOI-125](http://adsabs.harvard.edu/abs/2020MNRAS.492.5399N)  
+Nielsen, L. D., Gandolfi, D., Armstrong, D. J., et al.    
+2020, refereed ([2020MNRAS.492.5399N](http://adsabs.harvard.edu/abs/2020MNRAS.492.5399N))  
+
+108. [TOI-132 B: A SHORT-PERIOD PLANET IN THE NEPTUNE DESERT TRANSITING A V = 11.3 G-TYPE STAR<SUP>★</SUP>](http://adsabs.harvard.edu/abs/2020MNRAS.493..973D)  
+Díaz, Matías R., Jenkins, James S., Gandolfi, Davide, et al.    
+2020, refereed ([2020MNRAS.493..973D](http://adsabs.harvard.edu/abs/2020MNRAS.493..973D))  
+
+109. [GJ 1252 B: A 1.2 R<SUB>⊕</SUB> PLANET TRANSITING AN M3 DWARF AT 20.4 PC](http://adsabs.harvard.edu/abs/2020ApJ...890L...7S)  
+Shporer, Avi, Collins, Karen A., Astudillo-Defru, Nicola, et al.    
+2020, refereed ([2020ApJ...890L...7S](http://adsabs.harvard.edu/abs/2020ApJ...890L...7S))  
+
+110. [TOI-222: A SINGLE-TRANSIT TESS CANDIDATE REVEALED TO BE A 34-D ECLIPSING BINARY WITH CORALIE, EULERCAM, AND NGTS](http://adsabs.harvard.edu/abs/2020MNRAS.492.1761L)  
+Lendl, Monika, Bouchy, François, Gill, Samuel, et al.    
+2020, refereed ([2020MNRAS.492.1761L](http://adsabs.harvard.edu/abs/2020MNRAS.492.1761L))  
+
+111. [THE CLOCKWORK IS MOVING ON - A COMBINED ANALYSIS OF TESS AND KEPLER MEASUREMENTS OF KEPLER-13AB](http://adsabs.harvard.edu/abs/2020MNRAS.492L..17S)  
+Szabó, Gy M., Pribulla, T., Pál, A., et al.    
+2020, refereed ([2020MNRAS.492L..17S](http://adsabs.harvard.edu/abs/2020MNRAS.492L..17S))  
+
+112. [MUSCAT2 MULTICOLOUR VALIDATION OF TESS CANDIDATES: AN ULTRA-SHORT-PERIOD SUBSTELLAR OBJECT AROUND AN M DWARF](http://adsabs.harvard.edu/abs/2020A&A...633A..28P)  
+Parviainen, H., Palle, E., Zapatero-Osorio, M. R., et al.    
+2020, refereed ([2020A&A...633A..28P](http://adsabs.harvard.edu/abs/2020A&A...633A..28P))  
+
+113. [THE HIGHLY INFLATED GIANT PLANET WASP-174B](http://adsabs.harvard.edu/abs/2020A&A...633A..30M)  
+Mancini, L., Sarkis, P., Henning, Th., et al.    
+2020, refereed ([2020A&A...633A..30M](http://adsabs.harvard.edu/abs/2020A&A...633A..30M))  
+
+114. [RAPID CLASSIFICATION OF TESS PLANET CANDIDATES WITH CONVOLUTIONAL NEURAL NETWORKS](http://adsabs.harvard.edu/abs/2020A&A...633A..53O)  
+Osborn, H. P., Ansdell, M., Ioannou, Y., et al.    
+2020, refereed ([2020A&A...633A..53O](http://adsabs.harvard.edu/abs/2020A&A...633A..53O))  
+
+115. [TRANSMISSION SPECTROSCOPY OF WASP-79B FROM 0.6 TO 5.0 ΜM](http://adsabs.harvard.edu/abs/2020AJ....159....5S)  
+Sotzen, Kristin S., Stevenson, Kevin B., Sing, David K., et al.    
+2020, refereed ([2020AJ....159....5S](http://adsabs.harvard.edu/abs/2020AJ....159....5S))  
+
+116. [SOAR TESS SURVEY. I. SCULPTING OF TESS PLANETARY SYSTEMS BY STELLAR COMPANIONS](http://adsabs.harvard.edu/abs/2020AJ....159...19Z)  
+Ziegler, Carl, Tokovinin, Andrei, Briceño, César, et al.    
+2020, refereed ([2020AJ....159...19Z](http://adsabs.harvard.edu/abs/2020AJ....159...19Z))  
+
+117. [GRAVITY-DARKENING ANALYSIS OF THE MISALIGNED HOT JUPITER MASCARA-4 B](http://adsabs.harvard.edu/abs/2020ApJ...888...63A)  
+Ahlers, John P., Kruse, Ethan, Colón, Knicole D., et al.    
+2020, refereed ([2020ApJ...888...63A](http://adsabs.harvard.edu/abs/2020ApJ...888...63A))  
+
+118. [NGTS AND WASP PHOTOMETRIC RECOVERY OF A SINGLE-TRANSIT CANDIDATE FROM TESS](http://adsabs.harvard.edu/abs/2020MNRAS.491.1548G)  
+Gill, Samuel, Bayliss, Daniel, Cooke, Benjamin F., et al.    
+2020, refereed ([2020MNRAS.491.1548G](http://adsabs.harvard.edu/abs/2020MNRAS.491.1548G))  
+
+119. [HD 213885B: A TRANSITING 1-D-PERIOD SUPER-EARTH WITH AN EARTH-LIKE COMPOSITION AROUND A BRIGHT (V = 7.9) STAR UNVEILED BY TESS](http://adsabs.harvard.edu/abs/2020MNRAS.491.2982E)  
+Espinoza, Néstor, Brahm, Rafael, Henning, Thomas, et al.    
+2020, refereed ([2020MNRAS.491.2982E](http://adsabs.harvard.edu/abs/2020MNRAS.491.2982E))  
 
 
 2019
