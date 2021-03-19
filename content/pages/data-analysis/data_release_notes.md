@@ -1,8 +1,6 @@
 Title: TESS Data Release Notes
 Save_as: data_release_notes.html
 
-[TOC]
-
 As the TESS mission has evolved, so has the processing and delivery of its data. Whilst a [data release note (DRL)](https://archive.stsci.edu/tess/tess_drn.html) is provided for every sector of the mission, this page hi-lights important changes that might affect you, the user, and your handling/understanding of the data.
 
 <div class="panel panel-primary">
@@ -14,7 +12,7 @@ As the TESS mission has evolved, so has the processing and delivery of its data.
 
 <table class="table table-striped table-hover" style="font-size: 0.77em;">
        <col style="width:30%">
-       <col style="width:70%">
+       <col style="width:100%">
        <thead>
        <tr>
        <th style="vertical-align: middle;">Issue</th>
@@ -88,7 +86,7 @@ As the TESS mission has evolved, so has the processing and delivery of its data.
 
 <table class="table table-striped table-hover" style="font-size: 0.77em;">
        <col style="width:30%">
-       <col style="width:70%">
+       <col style="width:100%">
        <thead>
        <tr>
        <th style="vertical-align: middle;">Issue</th>
@@ -156,9 +154,9 @@ As the TESS mission has evolved, so has the processing and delivery of its data.
        <tr>  
        <td><b> Big update:</b></td>
        <td>
-       <p>&#9642; As of Sector 30, co-trending basis vector (CBV) files only include the first eight principal components for the Single Scale co-trending mode.</p> 
-       <p>&#9642; As a reminder, the pipeline only uses the first eight CBVs for co-trending, because subsequent CBVs are usually dominated by stochastic noise.</p> 
-       <p>&#9642; In Sectors 30–33, the values for CBVs 9–16 are set to 0.</p>
+       <p>As of Sector 30, co-trending basis vector (CBV) files only include the first eight principal components for the Single Scale co-trending mode.</p> 
+       <p>As a reminder, the pipeline only uses the first eight CBVs for co-trending, because subsequent CBVs are usually dominated by stochastic noise.</p> 
+       <p>In Sectors 30–33, the values for CBVs 9–16 are set to 0.</p>
        </td>
        <td style="min-width: 20em;">
        </td>
@@ -179,7 +177,7 @@ As the TESS mission has evolved, so has the processing and delivery of its data.
 
 <table class="table table-striped table-hover" style="font-size: 0.77em;">
        <col style="width:30%">
-       <col style="width:70%">
+       <col style="width:100%">
        <thead>
        <tr>
        <th style="vertical-align: middle;">Issue</th>
@@ -273,7 +271,7 @@ As the TESS mission has evolved, so has the processing and delivery of its data.
 
 <table class="table table-striped table-hover" style="font-size: 0.77em;">
        <col style="width:30%">
-       <col style="width:70%">
+       <col style="width:100%">
        <thead>
        <tr>
        <th style="vertical-align: middle;">Issue</th>
@@ -359,7 +357,7 @@ As the TESS mission has evolved, so has the processing and delivery of its data.
 
 <table class="table table-striped table-hover" style="font-size: 0.77em;">
        <col style="width:30%">
-       <col style="width:70%">
+       <col style="width:100%">
        <thead>
        <tr>
        <th style="vertical-align: middle;">Issue</th>
@@ -446,7 +444,7 @@ As the TESS mission has evolved, so has the processing and delivery of its data.
 
 <table class="table table-striped table-hover" style="font-size: 0.77em;">
        <col style="width:30%">
-       <col style="width:70%">
+       <col style="width:100%">
        <thead>
        <tr>
        <th style="vertical-align: middle;">Issue</th>
@@ -533,7 +531,7 @@ As the TESS mission has evolved, so has the processing and delivery of its data.
 
 <table class="table table-striped table-hover" style="font-size: 0.77em;">
        <col style="width:30%">
-       <col style="width:70%">
+       <col style="width:100%">
        <thead>
        <tr>
        <th style="vertical-align: middle;">Issue</th>
@@ -619,7 +617,7 @@ As the TESS mission has evolved, so has the processing and delivery of its data.
 
 <table class="table table-striped table-hover" style="font-size: 0.77em;">
        <col style="width:30%">
-       <col style="width:70%">
+       <col style="width:100%">
        <thead>
        <tr>
        <th style="vertical-align: middle;">Issue</th>
@@ -694,14 +692,14 @@ As the TESS mission has evolved, so has the processing and delivery of its data.
        <td><b><p>Big Updates!</p>
        <p>This is the first data release for the extended mission</p><b></td>
        <td>
-	<p>&#9642; FFI data is collected every 10 min, rather than 30.</p>
-	<p>&#9642; Selected pixel stamps are collected at a 20-sec cadence.</p>
-	<p>&#9642; Data products for the 20 second mode have the keyword "fast" in the file names.</p>
-	<p>&#9642; For 20-second data, only target pixel files, light curve files, collateral pixel files, and co-trending basis vectors (CBVs) were produced.</p>
-	<p>&#9642; Cosmic rays were mitigated in the 2-minute cadence data and 10-minute FFIs by an algorithm running on the instrument firmware - see DRL pg. 8, for more info.</p>
-	<p>&#9642; The background correction employed in throughout the primary mission was updated for the extended mission. The new method provides improved results for fainter and crowded stars. The correction is applied only to 2-min and 20-sec data. A full explanation of this correction on pg. 10.</p>
-	<p>&#9642; Important note: The pixel level uncertainties have been over estimated since Sector 5, after the 2D block model was updated. Primary affected dim stars whose uncertainties were dominated by noise sources other than shot noise. Use empirical estimates of the scatter for anything realized before - see pg. 10 of DRN.</p>
-        <p>&#9642; For targets observed in both Year 1 and Year 3, Year 3 processing was done using TIC 8.1 while TIC 7 was used for Year 1 processing; this may result in differences in results for certain targets. Differences for some crowded and/or dim targets may also result from the background correction algorithm update. Reprocessing of Year 1 data with TIC 8.1 and the latest codebase is underway at the SPOC, as of Fall 2020. </p>
+	<p>FFI data is collected every 10 min, rather than 30.</p>
+	<p>Selected pixel stamps are collected at a 20-sec cadence.</p>
+	<p>Data products for the 20 second mode have the keyword "fast" in the file names.</p>
+	<p>For 20-second data, only target pixel files, light curve files, collateral pixel files, and co-trending basis vectors (CBVs) were produced.</p>
+	<p>Cosmic rays were mitigated in the 2-minute cadence data and 10-minute FFIs by an algorithm running on the instrument firmware - see DRL pg. 8, for more info.</p>
+	<p>The background correction employed in throughout the primary mission was updated for the extended mission. The new method provides improved results for fainter and crowded stars. The correction is applied only to 2-min and 20-sec data. A full explanation of this correction on pg. 10.</p>
+	<p>Important note: The pixel level uncertainties have been over estimated since Sector 5, after the 2D block model was updated. Primary affected dim stars whose uncertainties were dominated by noise sources other than shot noise. Use empirical estimates of the scatter for anything realized before - see pg. 10 of DRN.</p>
+        <p>For targets observed in both Year 1 and Year 3, Year 3 processing was done using TIC 8.1 while TIC 7 was used for Year 1 processing; this may result in differences in results for certain targets. Differences for some crowded and/or dim targets may also result from the background correction algorithm update. Reprocessing of Year 1 data with TIC 8.1 and the latest codebase is underway at the SPOC, as of Fall 2020. </p>
        <td style="min-width: 20em;">
        </td>
        </tr>
@@ -721,7 +719,7 @@ As the TESS mission has evolved, so has the processing and delivery of its data.
 
 <table class="table table-striped table-hover" style="font-size: 0.77em;">
        <col style="width:30%">
-       <col style="width:70%">
+       <col style="width:100%">
        <thead>
        <tr>
        <th style="vertical-align: middle;">Issue</th>
@@ -808,7 +806,7 @@ As the TESS mission has evolved, so has the processing and delivery of its data.
 
 <table class="table table-striped table-hover" style="font-size: 0.77em;">
        <col style="width:30%">
-       <col style="width:70%">
+       <col style="width:100%">
        <thead>
        <tr>
        <th style="vertical-align: middle;">Issue</th>
@@ -888,7 +886,7 @@ As the TESS mission has evolved, so has the processing and delivery of its data.
 
 <table class="table table-striped table-hover" style="font-size: 0.77em;">
        <col style="width:30%">
-       <col style="width:70%">
+       <col style="width:100%">
        <thead>
        <tr>
        <th style="vertical-align: middle;">Issue</th>
@@ -975,7 +973,7 @@ As the TESS mission has evolved, so has the processing and delivery of its data.
 
 <table class="table table-striped table-hover" style="font-size: 0.77em;">
        <col style="width:30%">
-       <col style="width:70%">
+       <col style="width:100%">
        <thead>
        <tr>
        <th style="vertical-align: middle;">Issue</th>
@@ -1063,7 +1061,7 @@ As the TESS mission has evolved, so has the processing and delivery of its data.
 
 <table class="table table-striped table-hover" style="font-size: 0.77em;">
        <col style="width:30%">
-       <col style="width:70%">
+       <col style="width:100%">
        <thead>
        <tr>
        <th style="vertical-align: middle;">Issue</th>
@@ -1163,7 +1161,7 @@ As the TESS mission has evolved, so has the processing and delivery of its data.
 
 <table class="table table-striped table-hover" style="font-size: 0.77em;">
        <col style="width:30%">
-       <col style="width:70%">
+       <col style="width:100%">
        <thead>
        <tr>
        <th style="vertical-align: middle;">Issue</th>
@@ -1265,7 +1263,7 @@ As the TESS mission has evolved, so has the processing and delivery of its data.
 
 <table class="table table-striped table-hover" style="font-size: 0.77em;">
        <col style="width:30%">
-       <col style="width:70%">
+       <col style="width:100%">
        <thead>
        <tr>
        <th style="vertical-align: middle;">Issue</th>
