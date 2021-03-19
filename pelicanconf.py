@@ -103,6 +103,7 @@ MENUITEMS = (
             ('Community products', 'community.html'),
             ('Community tools', 'community-tools.html'),
             ('Documentation', 'documentation.html'),
+            ('Data release notes', 'data_release_notes.html'),
                       )
         ),
         ('Observations', (
@@ -144,22 +145,22 @@ KEY_INFORMATION = (
 
 # Defines the "important dates" box on the front page
 IMPORTANT_DATES = (
-            ('<b>22 January 2021</b>',
-             'Cycle 4 proposals due',
-             'proposing_investigations.html',), # link to a news item?
-            ('<b>25 June 2021</b>',
-             'Cycle 4 observations begin',
-             'status.html',), # link to a news item?
+            ('<b>30 April 2021</b>',
+             'Talks and poster abstract deadline: TESS Science Conference II',
+             'https://docs.google.com/forms/d/e/1FAIpQLSeKAZwkAOqgdKWvtjxX1Rwk3XXLBsvlRbbpTaqJurW6MS4cDA/viewform',), # link to a news item?
+            ('<b>26 March 2021</b>',
+             'Splinter Session Request: TESS Science Conference II',
+             'https://docs.google.com/forms/d/e/1FAIpQLSegaLnCjynv3kvd54oxnhzdKTm-X0HcBA5khjLmOlx_YtVjjw/viewform',), # link to a news item?
          )
 
 # Defines the "meetings" box on the front page
 MEETINGS = (
-           ('<b>13 January 2021</b>',
-             'AAS special session: Atmospheric characterization of TESS exoplanets',
-             'https://aas.org/meetings/aas237',),
-            ('<b>14 January 2021</b>',
-             'AAS special session: Mining TESS data with machine learning and other advanced methods',
-             'https://aas.org/meetings/aas237',),
+           ('<b>02 August 2021</b>',
+             'TESS Science Conference II',
+             'https://tsc.mit.edu/2021/',),
+            ('<b>7 June 2021</b>',
+             'AAS #238',
+             'https://aas.org/meetings/aas238',),
             )
 
 # Defines the "related websites" listing in the footer of all pages
