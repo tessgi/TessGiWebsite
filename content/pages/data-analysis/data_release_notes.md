@@ -8,15 +8,15 @@ As the TESS mission has evolved, so has the processing and delivery of its data.
 ##Key updates
 Below we outline some of the most important issues or data product modifications. For more details please see the Sector tables provided below, and the DRNs listed within.
 
-- [**Sector 32:**](http://localhost:8000/data_release_notes.html#sector-32) Star tracker anomaly between  2020-11-16 10:37 UTC  &  2020-11-20-17-13-00 UTC.
-- [**Sector 31:**](http://localhost:8000/data_release_notes.html#sector-31)  Star tracker anomaly between  2020-11-16 10:37 UTC &  2020-11-20, at the beginning of Sector 32.
-- [**Sector 30:** ](http://localhost:8000/data_release_notes.html#sector-30)As of Sector 30, co-trending basis vector (CBV) files only include the first eight principal components for the Single Scale co-trending mode. 
-- [**Sector 27:**](http://localhost:8000/data_release_notes.html#sector-27)This is the first data release for the extended mission. Key changes have occurred including the collection of 10 min FFI data instead of 30 min, and 20 second target pixel files. 
-	Additionally, the pixel level uncertainties have been over estimated since Sector 5, after the 2D block model was updated. 
-	For targets observed in both Year 1 and Year 3, Year 3 processing was done using TIC 8.1 while TIC 7 was used for Year 1 processing; this may result in differences in results for certain targets. 
-- [**Sector 26:**](http://localhost:8000/data_release_notes.html#sector-26) The TESS spacecraft configuration file was updated from version ‘0187’ to ‘0188’ between orbit 59 and 60. 
-- [**Sector 22:**](http://localhost:8000/data_release_notes.html#sector-22) There were three "watchdog resets" (2/29/20, 3/3/20, 3/12/20), where the instrument computer unexpectedly hung resulting in a quick reboot of the computer. These resets resulted in the loss a total of four FFI cadences. 
-Two 2-minute cadences are missing from, TJD 1909.46004 to 1909.4642 (2/29/20),  TJD 1911.9267 to 1911.9309 (3/3/20), and TJD 1921.0560 to 1921.0602 (3/12/20).
+- [**Sector 32:**](http://localhost:8000/data_release_notes.html#sector-32) Star tracker anomaly between  2020-11-16 10:37 UTC  &  2020-11-20-17-13-00 UTC.<p></p>
+- [**Sector 31:**](http://localhost:8000/data_release_notes.html#sector-31)  Star tracker anomaly between  2020-11-16 10:37 UTC &  2020-11-20, at the beginning of Sector 32.<p></p>
+- [**Sector 30:**](http://localhost:8000/data_release_notes.html#sector-30) As of Sector 30, co-trending basis vector (CBV) files only include the first eight principal components for the Single Scale co-trending mode. <p></p>
+- [**Sector 27:**](http://localhost:8000/data_release_notes.html#sector-27) This is the first data release for the extended mission. Key changes have occurred including the collection of 10 min FFI data instead of 30 min, and 20 second target pixel files. <p></p>
+	Additionally, the pixel level uncertainties have been over estimated since Sector 5, after the 2D block model was updated. <p></p>
+	For targets observed in both Year 1 and Year 3, Year 3 processing was done using TIC 8.1 while TIC 7 was used for Year 1 processing; this may result in differences in results for certain targets. <p></p>
+- [**Sector 26:**](http://localhost:8000/data_release_notes.html#sector-26) The TESS spacecraft configuration file was updated from version ‘0187’ to ‘0188’ between orbit 59 and 60. <p></p>
+- [**Sector 22:**](http://localhost:8000/data_release_notes.html#sector-22) There were three "watchdog resets" (2/29/20, 3/3/20, 3/12/20), where the instrument computer unexpectedly hung resulting in a quick reboot. These resets resulted in the loss a total of four FFI cadences. 
+Two 2-minute cadences are missing from, TJD 1909.46004 to 1909.4642 (2/29/20),  TJD 1911.9267 to 1911.9309 (3/3/20), and TJD 1921.0560 to 1921.0602 (3/12/20).<p></p>
 	<p>There were also several corrections to data product timestamps</p>
 - [**Sector 21:**](http://localhost:8000/data_release_notes.html#sector-21) The FFI timestamps have been adjusted for the 0.5 second staggered readouts of the four cameras and the 0.02 second staggered readouts for individual CCDs within a camera. 
 
@@ -38,7 +38,7 @@ Two 2-minute cadences are missing from, TJD 1909.46004 to 1909.4642 (2/29/20),  
        <tr>
        <th style="vertical-align: middle;">Year</th>
        <th style="vertical-align: middle;">Hemisphere</th>
-       <th style="vertical-align: middle;">Dates UTC: Start -- End</th>
+       <th style="vertical-align: middle;">Dates (UTC) <p>Start - End</p></th>
        <th style="vertical-align: middle;">Sectors</th>
        <th style="vertical-align: middle;">Mission</th>
        </tr>
@@ -138,6 +138,7 @@ Two 2-minute cadences are missing from, TJD 1909.46004 to 1909.4642 (2/29/20),  
 </div>
 
 ##DRN Tables
+Below we provide a brief summary of the DRN for each Sector.
 
 ###Sector 34
 
@@ -159,9 +160,9 @@ Two 2-minute cadences are missing from, TJD 1909.46004 to 1909.4642 (2/29/20),  
        <tr>
        <th style="vertical-align: middle;">DRN</th>
        <th style="vertical-align: middle;">Orbits</th>
-       <th style="vertical-align: middle;">Dates UTC: Start -- End</th>
-       <th style="vertical-align: middle;">Cadence#: Start -- End</th>
-       <th style="vertical-align: middle;">Data pause (days)</th>
+       <th style="vertical-align: middle;">Dates (UTC) <p>Start - End</p></th>
+       <th style="vertical-align: middle;">Cadence # <p>Start - End</p></th>
+       <th style="vertical-align: middle;">Data pause <p>(days)</p></th>
        <th style="vertical-align: middle;">Science data (days)</th>
        <th style="vertical-align: middle;">Momentum dumps</th>
        </tr>
@@ -171,10 +172,10 @@ Two 2-minute cadences are missing from, TJD 1909.46004 to 1909.4642 (2/29/20),  
        <td><a href="https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_sector_34_drn50_v01.pdf">50</a></td>
        <td><p>75</p> 
        <p>76</p></td>
-       <td><p>2021-01-14 -- 2021-01-26</p>
-       <p>2021-01-27 -- 2021-02-08</p></td>
-       <td><p>720929 -- 729684</p>
-       <p>730459 -- 739159<p></td>
+       <td><p>2021-01-14 - 2021-01-26</p>
+       <p>2021-01-27 - 2021-02-08</p></td>
+       <td><p>720929 - 729684</p>
+       <p>730459 - 739159<p></td>
        <td>1.08</td>
        <td>24.24</td>
        <td><p>1</p>
@@ -183,15 +184,10 @@ Two 2-minute cadences are missing from, TJD 1909.46004 to 1909.4642 (2/29/20),  
 
  	<td colspan="3" style="vertical-align: middle;"><b>Issue</b></td>
 	<td colspan="4" style="vertical-align: middle;"><b>Description</b></td>
-
-       <tr>
-       <td colspan="3">Targets not processed in 2-min pipeline (TIC IDs):</td>
-       <td colspan="4">255559489, 280310048, 38877693, 22942488, 64602863, 80466973, and 60376707</td>
-       </tr>
-
-       <tr>  
-       <td colspan="3">Blended stars (TIC IDs):</td>
-       <td colspan="4">800131629, 766018849, 444007688, 167602316, 133146568, 110798661, 110798652, 100205079</td>
+	
+	<tr>  
+       <td colspan="3">Problematic TIC ID's:</td>
+       <td colspan="4">A list of Sector 34 ID's are provided <a href="sector_34.html">here</a></td>
        </tr>
        
        <tr>  
@@ -225,9 +221,9 @@ Two 2-minute cadences are missing from, TJD 1909.46004 to 1909.4642 (2/29/20),  
        <tr>
        <th style="vertical-align: middle;">DRN</th>
        <th style="vertical-align: middle;">Orbits</th>
-       <th style="vertical-align: middle;">Dates UTC: Start -- End</th>
-       <th style="vertical-align: middle;">Cadence#: Start -- End</th>
-       <th style="vertical-align: middle;">Data pause (days)</th>
+        <th style="vertical-align: middle;">Dates (UTC) <p>Start - End</p></th>
+       <th style="vertical-align: middle;">Cadence # <p>Start - End</p></th>
+       <th style="vertical-align: middle;">Data pause <p>(days)</p></th>
        <th style="vertical-align: middle;">Science data (days)</th>
        <th style="vertical-align: middle;">Momentum dumps</th>
        </tr>
@@ -251,20 +247,9 @@ Two 2-minute cadences are missing from, TJD 1909.46004 to 1909.4642 (2/29/20),  
  	<td colspan="3" style="vertical-align: middle;"><b>Issue</b></td>
 	<td colspan="4" style="vertical-align: middle;"><b>Description</b></td>
 
-       <tr>
-       <td colspan="3" >Targets not processed in 2-min pipeline (TIC IDs):</td>
-       <td colspan="4" >269273552, 322899250, 255559489, 38877693, 22942488, 134501440, 64602863, 238196512, 80466973</td>
-       </tr>
-
-
        <tr>  
-       <td colspan="3" >Blended stars (TIC IDs):</td>
-       <td colspan="4" >738307102, 709917565, 709917564, 300015238, 24824033, 24824031, 234677187, 167602316</td>
-       </tr>
-
-       <tr>  
-       <td colspan="3" >Contaminated stars (TIC IDs):</td>
-       <td colspan="4" >747915643, 319614734, 155463741, 100205079 </td>
+       <td colspan="3">Problematic TIC ID's:</td>
+       <td colspan="4">A list of Sector 33 ID's are provided <a href="sector_33.html">here</a></td>
        </tr>
        
        <tr>  
@@ -307,9 +292,9 @@ Two 2-minute cadences are missing from, TJD 1909.46004 to 1909.4642 (2/29/20),  
        <tr>
        <th style="vertical-align: middle;">DRN</th>
        <th style="vertical-align: middle;">Orbits</th>
-       <th style="vertical-align: middle;">Dates UTC: Start -- End</th>
-       <th style="vertical-align: middle;">Cadence#: Start -- End</th>
-       <th style="vertical-align: middle;">Data pause (days)</th>
+       <th style="vertical-align: middle;">Dates (UTC) <p>Start - End</p></th>
+       <th style="vertical-align: middle;">Cadence # <p>Start - End</p></th>
+       <th style="vertical-align: middle;">Data pause <p>(days)</p></th>
        <th style="vertical-align: middle;">Science data (days)</th>
        <th style="vertical-align: middle;">Momentum dumps</th>
        </tr>
@@ -337,20 +322,10 @@ Two 2-minute cadences are missing from, TJD 1909.46004 to 1909.4642 (2/29/20),  
        <td colspan="3" >Star tracker anomaly:</td>
        <td colspan="4" > UTC 2020-11-16 10:37, instrument turned off and collection of data for orbit 71 started 29 hrs later than scheduled. Normal operation started 2020-11-20-17-13-00 UTC.</td>
        </tr>
-
-       <tr>
-       <td colspan="3" >Targets not processed in 2-min pipeline (TIC IDs):</td>
-       <td colspan="4" >255559489, 231308237, 38877693, 46312112, 238196512, and 146517192</td>
-       </tr>
-
+       
        <tr>  
-       <td colspan="3" >Blended stars (TIC IDs):</td>
-       <td colspan="4" >11286209, 737705489, 766018849</td>
-       </tr>
-
-       <tr>  
-       <td colspan="3" >Contaminated stars (TIC IDs):</td>
-       <td colspan="4" >708565082 and 672009090, 93279196, 427394748, 514810889, 708357666, 737705489</td>
+       <td colspan="3">Problematic TIC ID's:</td>
+       <td colspan="4">A list of Sector 32 ID's are provided <a href="sector_32.html">here</a></td>
        </tr>
 
        <tr>
@@ -389,9 +364,9 @@ Two 2-minute cadences are missing from, TJD 1909.46004 to 1909.4642 (2/29/20),  
        <tr>
        <th style="vertical-align: middle;">DRN</th>
        <th style="vertical-align: middle;">Orbits</th>
-       <th style="vertical-align: middle;">Dates UTC: Start -- End</th>
-       <th style="vertical-align: middle;">Cadence#: Start -- End</th>
-       <th style="vertical-align: middle;">Data pause (days)</th>
+       <th style="vertical-align: middle;">Dates (UTC) <p>Start - End</p></th>
+       <th style="vertical-align: middle;">Cadence # <p>Start - End</p></th>
+       <th style="vertical-align: middle;">Data pause <p>(days)</p></th>
        <th style="vertical-align: middle;">Science data (days)</th>
        <th style="vertical-align: middle;">Momentum dumps</th>
        </tr>
@@ -420,14 +395,9 @@ Two 2-minute cadences are missing from, TJD 1909.46004 to 1909.4642 (2/29/20),  
        <td colspan="4"> UTC 2020-11-16 10:37, which led to the instrument being turned off. As a result, the data collection period in orbit 70 ended 2.08 days earlier than scheduled. The cameras were turned on and returned to normal operations on 2020-11-20, at the beginning of Sector 32.</td>
        </tr>
 
-       <tr>
-       <td colspan="3">Targets not processed in 2-min pipeline (TIC IDs):</td>
-       <td colspan="4">766092864, 766018849, 651559663, 651236341, 651236339, 649766486, 630222973, 44678216, 321087975, 321055375, 311092847, 167602316</td>
-       </tr>
-
-       <tr>  
-       <td colspan="3">Contaminated stars (TIC IDs):</td>
-       <td colspan="4">651379982 </td>
+   <tr>  
+       <td colspan="3">Problematic TIC ID's:</td>
+       <td colspan="4">A list of Sector 31 ID's are provided <a href="sector_31.html">here</a></td>
        </tr>
 
        <tr>
@@ -466,9 +436,9 @@ Two 2-minute cadences are missing from, TJD 1909.46004 to 1909.4642 (2/29/20),  
        <tr>
        <th style="vertical-align: middle;">DRN</th>
        <th style="vertical-align: middle;">Orbits</th>
-       <th style="vertical-align: middle;">Dates UTC: Start -- End</th>
-       <th style="vertical-align: middle;">Cadence#: Start -- End</th>
-       <th style="vertical-align: middle;">Data pause (days)</th>
+       <th style="vertical-align: middle;">Dates (UTC) <p>Start - End</p></th>
+       <th style="vertical-align: middle;">Cadence # <p>Start - End</p></th>
+       <th style="vertical-align: middle;">Data pause <p>(days)</p></th>
        <th style="vertical-align: middle;">Science data (days)</th>
        <th style="vertical-align: middle;">Momentum dumps</th>
        </tr>
@@ -492,19 +462,9 @@ Two 2-minute cadences are missing from, TJD 1909.46004 to 1909.4642 (2/29/20),  
  	<td colspan="3" style="vertical-align: middle;"><b>Issue</b></td>
 	<td colspan="4" style="vertical-align: middle;"><b>Description</b></td>
 
-       <tr>
-       <td colspan="3" >Targets not processed in 2-min pipeline (TIC IDs):</td>
-       <td colspan="4" >328228602, 38877693, 325685265, and 92252969</td>
-       </tr>
-
        <tr>  
-       <td colspan="3" >Blended stars (TIC IDs):</td>
-       <td colspan="4" >167602316, 212957673, 300015238, 321087975, 631592084, 766018849</td>
-       </tr>
-
-       <tr>  
-       <td colspan="3" >Outside observing (TIC IDs):</td>
-       <td colspan="4" >651236341</td>
+       <td colspan="3">Problematic TIC ID's:</td>
+       <td colspan="4">A list of Sector 30 ID's are provided <a href="sector_30.html">here</a></td>
        </tr>
        
        <tr>
@@ -544,9 +504,9 @@ Two 2-minute cadences are missing from, TJD 1909.46004 to 1909.4642 (2/29/20),  
        <tr>
        <th style="vertical-align: middle;">DRN</th>
        <th style="vertical-align: middle;">Orbits</th>
-       <th style="vertical-align: middle;">Dates UTC: Start -- End</th>
-       <th style="vertical-align: middle;">Cadence#: Start -- End</th>
-       <th style="vertical-align: middle;">Data pause (days)</th>
+       <th style="vertical-align: middle;">Dates (UTC) <p>Start - End</p></th>
+       <th style="vertical-align: middle;">Cadence # <p>Start - End</p></th>
+       <th style="vertical-align: middle;">Data pause <p>(days)</p></th>
        <th style="vertical-align: middle;">Science data (days)</th>
        <th style="vertical-align: middle;">Momentum dumps</th>
        </tr>
@@ -569,20 +529,9 @@ Two 2-minute cadences are missing from, TJD 1909.46004 to 1909.4642 (2/29/20),  
  	<td colspan="3" style="vertical-align: middle;"><b>Issue</b></td>
 	<td colspan="4" style="vertical-align: middle;"><b>Description</b></td>
 
-
-       <tr>
-       <td colspan="3" >Targets not processed in 2-min pipeline (TIC IDs):</td>
-       <td colspan="4" >38877693, 230981971, 80256524, 238196512, and 47552789. </td>
-       </tr>
-
        <tr>  
-       <td colspan="3" >Blended stars (TIC IDs):</td>
-       <td colspan="4" >167602316, 271503437, 271503441, 300015238, 766018849</td>
-       </tr>
-
-       <tr>  
-       <td colspan="3" >Contaminated stars (TIC IDs):</td>
-       <td colspan="4" >214664575</td>
+       <td colspan="3">Problematic TIC ID's:</td>
+       <td colspan="4">A list of Sector 29 ID's are provided <a href="sector_29.html">here</a></td>
        </tr>
        
        <tr>
@@ -622,9 +571,9 @@ Two 2-minute cadences are missing from, TJD 1909.46004 to 1909.4642 (2/29/20),  
        <tr>
        <th style="vertical-align: middle;">DRN</th>
        <th style="vertical-align: middle;">Orbits</th>
-       <th style="vertical-align: middle;">Dates UTC: Start -- End</th>
-       <th style="vertical-align: middle;">Cadence#: Start -- End</th>
-       <th style="vertical-align: middle;">Data pause (days)</th>
+        <th style="vertical-align: middle;">Dates (UTC) <p>Start - End</p></th>
+       <th style="vertical-align: middle;">Cadence # <p>Start - End</p></th>
+       <th style="vertical-align: middle;">Data pause <p>(days)</p></th>
        <th style="vertical-align: middle;">Science data (days)</th>
        <th style="vertical-align: middle;">Momentum dumps</th>
        </tr>
@@ -648,24 +597,9 @@ Two 2-minute cadences are missing from, TJD 1909.46004 to 1909.4642 (2/29/20),  
 	<td colspan="4" style="vertical-align: middle;"><b>Description</b></td>
 
 
-       <tr>
-       <td colspan="3" >Targets not processed in 2-min pipeline (TIC IDs):</td>
-       <td colspan="4" >255559489, 44577667, 38877693, 238196512, and 394046358</td>
-       </tr>
-
-       <tr>  
-       <td colspan="3" >Blended stars (TIC IDs):</td>
-       <td colspan="4" >167602316, 300015238, 389363695, 471013491, 766018849, 2028776534</td>
-       </tr>
-
-       <tr>  
-       <td colspan="3" >Contaminated stars (TIC IDs):</td>
-       <td colspan="4" >506939512</td>
-       </tr>
-
-       <tr>  
-       <td colspan="3" >Not captured (TIC IDs):</td>
-       <td colspan="4" >279316667</td>
+   <tr>  
+       <td colspan="3">Problematic TIC ID's:</td>
+       <td colspan="4">A list of Sector 28 ID's are provided <a href="sector_28.html">here</a></td>
        </tr>
 
        <tr>
@@ -699,9 +633,9 @@ Two 2-minute cadences are missing from, TJD 1909.46004 to 1909.4642 (2/29/20),  
        <tr>
        <th style="vertical-align: middle;">DRN</th>
        <th style="vertical-align: middle;">Orbits</th>
-       <th style="vertical-align: middle;">Dates UTC: Start -- End</th>
-       <th style="vertical-align: middle;">Cadence#: Start -- End</th>
-       <th style="vertical-align: middle;">Data pause (days)</th>
+       <th style="vertical-align: middle;">Dates (UTC) <p>Start - End</p></th>
+       <th style="vertical-align: middle;">Cadence # <p>Start - End</p></th>
+       <th style="vertical-align: middle;">Data pause <p>(days)</p></th>
        <th style="vertical-align: middle;">Science data (days)</th>
        <th style="vertical-align: middle;">Momentum dumps</th>
        </tr>
@@ -725,19 +659,9 @@ Two 2-minute cadences are missing from, TJD 1909.46004 to 1909.4642 (2/29/20),  
  	<td colspan="3" style="vertical-align: middle;"><b>Issue</b></td>
 	<td colspan="4" style="vertical-align: middle;"><b>Description</b></td>
 
-       <tr>
-       <td colspan="3" >Targets not processed in 2-min pipeline (TIC IDs):</td>
-       <td colspan="4" >238196512, 394046358, 38877693</td>
-       </tr>
-
-       <tr>  
-       <td colspan="3" >Blended stars (TIC IDs):</td>
-       <td colspan="4" >167602316, 267211065, 300015238, 730543928, 766018849, 1991380115</td>
-       </tr>
-
-       <tr>  
-       <td colspan="3" >Contaminated stars (TIC IDs):</td>
-       <td colspan="4" >2025820827</td>
+   <tr>  
+       <td colspan="3">Problematic TIC ID's:</td>
+       <td colspan="4">A list of Sector 27 ID's are provided <a href="sector_27.html">here</a></td>
        </tr>
 
        <tr>
@@ -790,9 +714,9 @@ Two 2-minute cadences are missing from, TJD 1909.46004 to 1909.4642 (2/29/20),  
        <tr>
        <th style="vertical-align: middle;">DRN</th>
        <th style="vertical-align: middle;">Orbits</th>
-       <th style="vertical-align: middle;">Dates UTC: Start -- End</th>
-       <th style="vertical-align: middle;">Cadence#: Start -- End</th>
-       <th style="vertical-align: middle;">Data pause (days)</th>
+       <th style="vertical-align: middle;">Dates (UTC) <p>Start - End</p></th>
+       <th style="vertical-align: middle;">Cadence # <p>Start - End</p></th>
+       <th style="vertical-align: middle;">Data pause <p>(days)</p></th>
        <th style="vertical-align: middle;">Science data (days)</th>
        <th style="vertical-align: middle;">Momentum dumps</th>
        </tr>
@@ -815,14 +739,9 @@ Two 2-minute cadences are missing from, TJD 1909.46004 to 1909.4642 (2/29/20),  
  	<td colspan="3" style="vertical-align: middle;"><b>Issue</b></td>
 	<td colspan="4" style="vertical-align: middle;"><b>Description</b></td>
 
-       <tr>
-       <td colspan="3">Targets not processed in 2-min pipeline (TIC IDs):</td>
-       <td colspan="4">157587146, 471012017, 154699609, 164642404, 229540730, 329269366, and 303256075.</td>
-       </tr>
-
-       <tr>  
-       <td colspan="3">Blended stars (TIC IDs):</td>
-       <td colspan="4">342319296, 1400611049, 336123628, 336123695, 1715683214, 1715683215, 1715686794, 1715686796, 341873045</td>
+   <tr>  
+       <td colspan="3">Problematic TIC ID's:</td>
+       <td colspan="4">A list of Sector 26 ID's are provided <a href="sector_26.html">here</a></td>
        </tr>
 
        <tr>  
@@ -867,9 +786,9 @@ Two 2-minute cadences are missing from, TJD 1909.46004 to 1909.4642 (2/29/20),  
        <tr>
        <th style="vertical-align: middle;">DRN</th>
        <th style="vertical-align: middle;">Orbits</th>
-       <th style="vertical-align: middle;">Dates UTC: Start -- End</th>
-       <th style="vertical-align: middle;">Cadence#: Start -- End</th>
-       <th style="vertical-align: middle;">Data pause (days)</th>
+       <th style="vertical-align: middle;">Dates (UTC) <p>Start - End</p></th>
+       <th style="vertical-align: middle;">Cadence # <p>Start - End</p></th>
+       <th style="vertical-align: middle;">Data pause <p>(days)</p></th>
        <th style="vertical-align: middle;">Science data (days)</th>
        <th style="vertical-align: middle;">Momentum dumps</th>
        </tr>
@@ -892,14 +811,9 @@ Two 2-minute cadences are missing from, TJD 1909.46004 to 1909.4642 (2/29/20),  
  	<td colspan="3" style="vertical-align: middle;"><b>Issue</b></td>
 	<td colspan="4" style="vertical-align: middle;"><b>Description</b></td>
 
-       <tr>
-       <td colspan="3">Targets not processed in 2-min pipeline (TIC IDs):</td>
-       <td colspan="4">154699609, 303256075, 329269366, and 255909448.</td>
-       </tr>
-
        <tr>  
-       <td colspan="3">Blended stars (TIC IDs):</td>
-       <td colspan="4">198242676, 313498719, 354379201, 441804565, 1201228154, 1271046655, 341873045, and 471011933</td>
+       <td colspan="3">Problematic TIC ID's:</td>
+       <td colspan="4">A list of Sector 25 ID's are provided <a href="sector_25.html">here</a></td>
        </tr>
 
        <tr>  
@@ -939,9 +853,9 @@ Two 2-minute cadences are missing from, TJD 1909.46004 to 1909.4642 (2/29/20),  
        <tr>
        <th style="vertical-align: middle;">DRN</th>
        <th style="vertical-align: middle;">Orbits</th>
-       <th style="vertical-align: middle;">Dates UTC: Start -- End</th>
-       <th style="vertical-align: middle;">Cadence#: Start -- End</th>
-       <th style="vertical-align: middle;">Data pause (days)</th>
+       <th style="vertical-align: middle;">Dates (UTC) <p>Start - End</p></th>
+       <th style="vertical-align: middle;">Cadence # <p>Start - End</p></th>
+       <th style="vertical-align: middle;">Data pause <p>(days)</p></th>
        <th style="vertical-align: middle;">Science data (days)</th>
        <th style="vertical-align: middle;">Momentum dumps</th>
        </tr>
@@ -965,19 +879,9 @@ Two 2-minute cadences are missing from, TJD 1909.46004 to 1909.4642 (2/29/20),  
  	<td colspan="3" style="vertical-align: middle;"><b>Issue</b></td>
 	<td colspan="4" style="vertical-align: middle;"><b>Description</b></td>
 
-       <tr>
-       <td colspan="3">Targets not processed in 2-min pipeline (TIC IDs):</td>
-       <td colspan="4">329269366, 219827143, and 255909448.</td>
-       </tr>
-
-       <tr>  
-       <td colspan="3">Blended stars (TIC IDs):</td>
-       <td colspan="4">279979429, 283819432, 334487469, 341873045, 354379201, 441804568, 2022481918, 2022482049</td>
-       </tr>
-
-       <tr>  
-       <td colspan="3">Contaminated stars (TIC IDs):</td>
-       <td colspan="4">274221477</td>
+   <tr>  
+       <td colspan="3">Problematic TIC ID's:</td>
+       <td colspan="4">A list of Sector 24 ID's are provided <a href="sector_24.html">here</a></td>
        </tr>
 
        <tr>  
@@ -1017,9 +921,9 @@ Two 2-minute cadences are missing from, TJD 1909.46004 to 1909.4642 (2/29/20),  
        <tr>
        <th style="vertical-align: middle;">DRN</th>
        <th style="vertical-align: middle;">Orbits</th>
-       <th style="vertical-align: middle;">Dates UTC: Start -- End</th>
-       <th style="vertical-align: middle;">Cadence#: Start -- End</th>
-       <th style="vertical-align: middle;">Data pause (days)</th>
+       <th style="vertical-align: middle;">Dates (UTC) <p>Start - End</p></th>
+       <th style="vertical-align: middle;">Cadence # <p>Start - End</p></th>
+       <th style="vertical-align: middle;">Data pause <p>(days)</p></th>
        <th style="vertical-align: middle;">Science data (days)</th>
        <th style="vertical-align: middle;">Momentum dumps</th>
        </tr>
@@ -1048,15 +952,10 @@ Two 2-minute cadences are missing from, TJD 1909.46004 to 1909.4642 (2/29/20),  
        <td colspan="3" >Instrument issues:</td>
        <td colspan="4" >The spacecraft passed through the shadow of Earth from approximately TJD 1940.38 – 1940.48. The instrument was not turned off, and other than the instrument heaters turning on resulting in a minor pointing offset, there is no indication that science quality was affected.</td>
        </tr>
-
-       <tr>
-       <td colspan="3" >Targets not processed in 2-min pipeline (TIC IDs):</td>
-       <td colspan="4" >411188061 and 459832522.</td>
-       </tr>
-
-       <tr>  
-       <td colspan="3" >Blended stars (TIC IDs):</td>
-       <td colspan="4" >367758676, 159164209, 310362805, 283819432, 1102093577, 341873045</td>
+       
+          <tr>  
+       <td colspan="3">Problematic TIC ID's:</td>
+       <td colspan="4">A list of Sector 23 ID's are provided <a href="sector_23.html">here</a></td>
        </tr>
        
         <tr>  
@@ -1098,9 +997,9 @@ Two 2-minute cadences are missing from, TJD 1909.46004 to 1909.4642 (2/29/20),  
        <tr>
        <th style="vertical-align: middle;">DRN</th>
        <th style="vertical-align: middle;">Orbits</th>
-       <th style="vertical-align: middle;">Dates UTC: Start -- End</th>
-       <th style="vertical-align: middle;">Cadence#: Start -- End</th>
-       <th style="vertical-align: middle;">Data pause (days)</th>
+        <th style="vertical-align: middle;">Dates (UTC) <p>Start - End</p></th>
+       <th style="vertical-align: middle;">Cadence # <p>Start - End</p></th>
+       <th style="vertical-align: middle;">Data pause <p>(days)</p></th>
        <th style="vertical-align: middle;">Science data (days)</th>
        <th style="vertical-align: middle;">Momentum dumps</th>
        </tr>
@@ -1126,14 +1025,9 @@ Two 2-minute cadences are missing from, TJD 1909.46004 to 1909.4642 (2/29/20),  
 	<td colspan="4" style="vertical-align: middle;"><b>Description</b></td>
 
 
-       <tr>
-       <td colspan="3">Targets not processed in 2-min pipeline (TIC IDs):</td>
-       <td colspan="4">229540730</td>
-       </tr>
-
-       <tr>  
-       <td colspan="3">Blended stars (TIC IDs):</td>
-       <td colspan="4">900080355, 87480403, 471011933, 471011825, 471011802, 471011722, 310362805, 289622291, 17668162, 159190005, 14725877, 144294174, and 138757095</td>
+   <tr>  
+       <td colspan="3">Problematic TIC ID's:</td>
+       <td colspan="4">A list of Sector 22 ID's are provided <a href="sector_22.html">here</a></td>
        </tr>
 
        <tr>  
@@ -1191,9 +1085,9 @@ Two 2-minute cadences are missing from, TJD 1909.46004 to 1909.4642 (2/29/20),  
        <tr>
        <th style="vertical-align: middle;">DRN</th>
        <th style="vertical-align: middle;">Orbits</th>
-       <th style="vertical-align: middle;">Dates UTC: Start -- End</th>
-       <th style="vertical-align: middle;">Cadence#: Start -- End</th>
-       <th style="vertical-align: middle;">Data pause (days)</th>
+       <th style="vertical-align: middle;">Dates (UTC) <p>Start - End</p></th>
+       <th style="vertical-align: middle;">Cadence # <p>Start - End</p></th>
+       <th style="vertical-align: middle;">Data pause <p>(days)</p></th>
        <th style="vertical-align: middle;">Science data (days)</th>
        <th style="vertical-align: middle;">Momentum dumps</th>
        </tr>
@@ -1226,20 +1120,10 @@ Two 2-minute cadences are missing from, TJD 1909.46004 to 1909.4642 (2/29/20),  
        <td colspan="3" >Science data:</td>
        <td colspan="4" > days</td>
        </tr>
-
-       <tr>
-       <td colspan="3" >Targets not processed in 2-min pipeline (TIC IDs):</td>
-       <td colspan="4" >229540730, 157847644, 329269366, 150226696, and 8172111</td>
-       </tr>
-
+       
        <tr>  
-       <td colspan="3" >Blended stars (TIC IDs):</td>
-       <td colspan="4" >341873045, 471011933, 229686919, and 229686929</td>
-       </tr>
-
-       <tr>  
-       <td colspan="3" >Not capturing bleed trails:</td>
-       <td colspan="4" >87974462</td>
+       <td colspan="3">Problematic TIC ID's:</td>
+       <td colspan="4">A list of Sector 21 ID's are provided <a href="sector_21.html">here</a></td>
        </tr>
        
         <tr>  

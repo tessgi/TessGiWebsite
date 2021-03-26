@@ -1,0 +1,15 @@
+Title: Sector 32 
+Save_as: sector_32.html
+
+[TOC]
+
+TIC ID's that had issues in Sector 32.
+
+##Targets not processed in 2-min pipeline:
+255559489, 231308237, 38877693, 46312112, 238196512, and 146517192
+
+##Blended stars:
+11286209, 737705489, 766018849<
+
+##Contaminated stars:
+708565082 and 672009090, 93279196, 427394748, 514810889, 708357666, 737705489
