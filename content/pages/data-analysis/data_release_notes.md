@@ -3,7 +3,7 @@ Save_as: data_release_notes.html
 
 [TOC]
 
-As the TESS mission has evolved, so has the processing and delivery of its data. Whilst a [data release note (DRL)](https://archive.stsci.edu/tess/tess_drn.html) is provided for every sector of the mission, this page hi-lights important changes that might affect you, the user, and your handling/understanding of the data.
+As the TESS mission has evolved, so has the processing and delivery of its data. Whilst a [data release note (DRN)](https://archive.stsci.edu/tess/tess_drn.html) is provided for every sector of the mission, this page hi-lights important changes that might affect you, the user, and your handling/understanding of the data.
 
 ##Key updates
 Below we outline some of the most important issues or data product modifications. For more details please see the Sector tables provided below, and the DRNs listed within.
@@ -11,12 +11,13 @@ Below we outline some of the most important issues or data product modifications
 - [**Sector 32:**](http://localhost:8000/data_release_notes.html#sector-32) Approximately 26 hrs lost due to a star tracker anomaly.<p></p>
 - [**Sector 31:**](http://localhost:8000/data_release_notes.html#sector-31) Approximately 4 days lost due to a star tracker anomaly.<p></p>
 - [**Sector 30:**](http://localhost:8000/data_release_notes.html#sector-30) As of Sector 30, co-trending basis vector (CBV) files only include the first eight principal components for the Single Scale co-trending mode. <p></p>
-- [**Sector 27:**](http://localhost:8000/data_release_notes.html#sector-27) This is the first data release for the extended mission. Key changes have occurred including the collection of 10 min FFI data instead of 30 min, and 20 second target pixel files. <p></p>
-	For targets observed in both Year 1 and Year 3, Year 3 processing was done using TIC 8.1 while TIC 7 was used for Year 1 processing; this may result in differences in results for certain targets. <p></p>
-- [**Sector 26:**](http://localhost:8000/data_release_notes.html#sector-26) The TESS spacecraft configuration file was updated from version ‘0187’ to ‘0188’ between orbit 59 and 60. <p></p>
+- [**Sector 27:**](http://localhost:8000/data_release_notes.html#sector-27) This is the first data release for the extended mission. Key changes have occurred including the collection of 10 min FFI data instead of 30 min, and 20 second target pixel files.<p></p>
+<p>The background correction was updated for the extended mission, with the new method providing improved results for fainter and crowded stars. 
+<p>For targets observed in both Year 1 and Year 3, Year 3 processing was done using TIC 8.1 while TIC 7 was used for Year 1 processing; this may result in differences in results for certain targets.</p>
+- [**Sector 26:**](http://localhost:8000/data_release_notes.html#sector-26) The TESS spacecraft configuration file was updated from version ‘0187’ to ‘0188’ between orbit 59 and 60. This update results in different naming convention between the FFIs for the two orbits.<p></p>
 - [**Sector 22:**](http://localhost:8000/data_release_notes.html#sector-22) Four FFI cadences and two 2-minute cadences were lost due to computer issues. 
-	<p>There were also several corrections to data product timestamps</p>
-- [**Sector 21:**](http://localhost:8000/data_release_notes.html#sector-21) The FFI timestamps have been adjusted.
+	<p>A ~2 second error in data product timestamps has been corrected for starting with Sector 22. Previous data products will be corrected as they are reprocessed.</p>
+- [**Sector 21:**](http://localhost:8000/data_release_notes.html#sector-21) The FFI timestamps have been adjusted by ~0.5 seconds due to staggered readouts.
 
 ##Quick look mission information
 
@@ -251,7 +252,7 @@ Below we provide a brief summary of the DRN for each Sector.
        <td colspan="3" ><b> Big update:</b></td>
        <td colspan="5" >
        <p>As of Sector 30, co-trending basis vector (CBV) files only include the first eight principal components for the Single Scale co-trending mode.</p> 
-       <p>As a reminder, the pipeline only uses the first eight CBVs for co-trending, because subsequent CBVs are usually dominated by stochastic noise.</p> 
+       <p>As a reminder, the pipeline only uses the first eight CBVs for co-trending, because subsequent CBVs are usually dominated by stochastic noise. When using CBVs beyond 8, users should check for excess noise being introduced into the detrended light curve</p> 
        <p>In Sectors 30–33, the values for CBVs 9–16 are set to 0.</p>
        </td>
        </tr>
@@ -389,7 +390,7 @@ Below we provide a brief summary of the DRN for each Sector.
 
        <tr>
        <td colspan="3">Scattered light:</td>
-       <td colspan="5">In Sector 31, the Moon introduces a strong glint in Camera 1 at the end of orbit 69, followed by scattered light signals in all cameras caused by the Earth. Due to the star tracker anomaly, no data was not taken during periods of high scattered light in orbit 70.</td>
+       <td colspan="5">In Sector 31, the Moon introduces a strong glint in Camera 1 at the end of orbit 69, followed by scattered light signals in all cameras caused by the Earth. Due to the star tracker anomaly, no data was taken during periods of high scattered light in orbit 70.</td>
        </tr>       
 
 </table>
@@ -647,8 +648,8 @@ Below we provide a brief summary of the DRN for each Sector.
 	<p>Selected pixel stamps are collected at a 20-sec cadence.</p>
 	<p>Data products for the 20 second mode have the keyword "fast" in the file names.</p>
 	<p>For 20-second data, only target pixel files, light curve files, collateral pixel files, and co-trending basis vectors (CBVs) were produced.</p>
-	<p>Cosmic rays were mitigated in the 2-minute cadence data and 10-minute FFIs by an algorithm running on the instrument firmware - see DRL pg. 8, for more info.</p>
-	<p>The background correction employed in throughout the primary mission was updated for the extended mission. The new method provides improved results for fainter and crowded stars. The correction is applied only to 2-min and 20-sec data. A full explanation of this correction on pg. 10.</p>
+	<p>As usual cosmic rays were mitigated in the 2-minute cadence data and 10-minute FFIs by an algorithm running on the instrument firmware - see DRN pg. 8, for more info. Note however, that in the new 20-second pixel data cosmic rays were identified and removed in the pipeline, and that they can be restored in the pixel data and light curves if necessary.</p>
+	<p>The background correction employed throughout the primary mission was updated for the extended mission. The new method provides improved results for fainter and crowded stars. The correction is applied only to 2-min and 20-sec data. A full explanation of this correction on pg. 10.</p>
 	<p>Important note: The pixel level uncertainties have been over estimated since Sector 5, after the 2D block model was updated. Primary affected dim stars whose uncertainties were dominated by noise sources other than shot noise. Use empirical estimates of the scatter for anything realized before - see pg. 10 of DRN.</p>
         <p>For targets observed in both Year 1 and Year 3, Year 3 processing was done using TIC 8.1 while TIC 7 was used for Year 1 processing; this may result in differences in results for certain targets. Differences for some crowded and/or dim targets may also result from the background correction algorithm update. Reprocessing of Year 1 data with TIC 8.1 and the latest codebase is underway at the SPOC, as of Fall 2020. </p>
        </tr>
@@ -1127,3 +1128,13 @@ Below we provide a brief summary of the DRN for each Sector.
 </table>
 </div>
 </div>
+
+##Useful links
+
+Below we list some potentially useful urls for those users wishing to learn more about TESS (and Kepler) data processing. 
+
+- [TESS Science Data Products Description Document](https://archive.stsci.edu/missions/tess/doc/EXP-TESS-ARC-ICD-TM-0014.pdf)
+
+- [TESS Instrument Handbook](https://archive.stsci.edu/files/live/sites/mast/files/home/missions-and-data/active-missions/tess/_documents/TESS_Instrument_Handbook_v0.1.pdf)
+
+- [Kepler Data Processing Handbook ](https://archive.stsci.edu/files/live/sites/mast/files/home/missions-and-data/kepler/_documents/KSCI-19081-003-KDPH.pdf)

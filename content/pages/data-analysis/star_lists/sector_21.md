@@ -11,5 +11,7 @@ TIC ID's that had issues in Sector 21.
 ##Blended stars:
 341873045, 471011933, 229686919, and 229686929
 
+A star is considered to be bended when its flux has been significantly contaminated by a nearby bright star(s). Since the contaminating flux is considered very large, the resulting photometry for such targets is expected to be unreliable.
+
 ##Not capturing bleed trails:
 87974462
