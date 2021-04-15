@@ -1,24 +1,19 @@
-Title: Sector 19
-Save_as: sector_19.html
+Title: Sector 5
+Save_as: sector_5.html
 
 [TOC]
 
-TIC ID's that had issues in Sector 19.
+TIC ID's that had issues in Sector 5.
 
 ##Targets not processed in 2-min pipeline:
-471011465, 440388263, and 96868656
+255559489, 231308237, 38877693, and 325685265.
 
 ##Blended stars:
-407514449, 441804565, 471011933
+300015238 and 300015239 
 
 A star is considered to be bended when its flux has been significantly contaminated by a nearby bright star(s). Since the contaminating flux is considered very large, the resulting photometry for such targets is expected to be unreliable.
 
-##Contaminated stars:
-407514449, 609754542 and 609754520
-
-These targets are closely blended with brighter neighbors. In these cases, the assigned apertures are disjoint and the resulting photometry is unreliable.
-
 ##Not capturing bleed trails:
-354379201 and 441804565
+220393543
 
 Targets with pixel stamps that did not fully capture the bleed trails.

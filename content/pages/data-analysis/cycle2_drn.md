@@ -65,7 +65,7 @@ Below we provide a brief summary of the DRN for each Sector in TESS Cycle 2.
        </tr>
 
        <tr>
-       <td colspan="3"><b> Big Updates!<b></td>
+       <td colspan="3"><b>Big Updates!<b></td>
        <td colspan="5">The TESS spacecraft configuration file was updated from version ‘0187’ to ‘0188’ between orbit 59 and 60. The SPOC data products include this 4 digit identification code near the end of the filename. Therefore the FFIs from orbit 59 have a different 4 digit identification number than those from orbit 60.</td>
        </tr>
 
@@ -339,7 +339,7 @@ Below we provide a brief summary of the DRN for each Sector in TESS Cycle 2.
        </tr>
 
        <tr>  
-       <td colspan="3"><b>Big Update: Corrections to Data Product Timestamps</b></td>
+       <td colspan="3"><b>Big Update!</b></td>
        <td colspan="5"><p>The reported times for previous data products are too large by 2 seconds. This issue has been fixed for Sector 22 data products, which have updated and accurate timestamps.</p>
        <p>Timestamps from previous sectors can be corrected by subtracting 2 seconds. Future data releases will include reprocessed data with corrected timestamps.</p>
        <p>The start times of integrations for every 2 minute and 30 minute cadence have been shifted forward by 31 milliseconds, and the end times have been shifted forward by 11 milliseconds.</p>
@@ -422,7 +422,7 @@ Below we provide a brief summary of the DRN for each Sector in TESS Cycle 2.
        </tr>
 
        <tr>  
-       <td colspan="3" ><b>Big Update: Corrections to Data Product Timestamps</b></td>
+       <td colspan="3" ><b>Big Update!</b></td>
        <td colspan="5" >In Sector 21, the the FFI timestamps have been adjusted for the 0.5 second staggered readouts of the four cameras and the 0.02 second staggered readouts for individual CCDs within a camera.
        TSTART and TSTOP in the FFIs of previous sectors need to be adjusted for the readout offsets of each camera—see DRN 25 for additional details.
        </td>
@@ -471,8 +471,8 @@ Below we provide a brief summary of the DRN for each Sector in TESS Cycle 2.
        <p>452833 -- 461784<p></td>
        <td>1.53</td>
        <td>24.79</td>
-       <td><p>5.35</p>
-       <p>5.5</p></td>
+       <td><p>Every 5.35 days</p>
+       <p>Every 5.5 days</p></td>
        <td><a href="sector_20.html">list</a></td>
        </tr>
 
@@ -496,7 +496,7 @@ Below we provide a brief summary of the DRN for each Sector in TESS Cycle 2.
        </tr>
 
        <tr>
-       <td colspan="3"><b> Big Updates!<b></td>
+       <td colspan="3"><b>Big Updates!<b></td>
        <td colspan="5">In Sector 20, the the FFI timestamps have been adjusted for the 0.5 second staggered readouts of the four cameras and the 0.02 second staggered readouts for individual CCDs within a camera.<p></p>
        The assigned timestamps of the previously released data products are too large by 2 seconds. The issue was caused by an off-by-one error in ground system software that identifies the timestamps of individual two second exposures. The Sector 20 data products have been updated and have accurate timestamps<p></p>
        The start times of integrations for every 2 minute and 30 minute cadence were shifted forward by 31 milliseconds, and the end times were shifted forward by 11 milliseconds. These offsets correct for effects in the focal plane electronics that were not accounted for in previous data releases.<p></p>
@@ -549,8 +549,8 @@ Below we provide a brief summary of the DRN for each Sector in TESS Cycle 2.
        <p>433083 -- 441859<p></td>
        <td>0.97</td>
        <td>24.10</td>
-       <td><p>5.0</p>
-       <p>5.25</p></td>
+       <td><p>Every 5.0 days</p>
+       <p>Every 5.25 days</p></td>
        <td><a href="sector_19.html">list</a></td>
        </tr>
 
@@ -621,8 +621,8 @@ Below we provide a brief summary of the DRN for each Sector in TESS Cycle 2.
        <p>414711 -- 423054<p></td>
        <td>1.00</td>
        <td>23.12</td>
-       <td><p>4.25</p>
-       <p>4.5</p></td>
+       <td><p>Every 4.25 days</p>
+       <p>Every 4.5 days</p></td>
        <td><a href="sector_18.html">list</a></td>
        </tr>
 
@@ -646,7 +646,7 @@ Below we provide a brief summary of the DRN for each Sector in TESS Cycle 2.
        </tr>
 
        <tr>
-       <td colspan="3"><b> Big Updates!<b></td>
+       <td colspan="3"><b>Big Updates!<b></td>
        <td colspan="5">The FFI timestamps for Sector 18 are incorrect.  The readouts of the four cameras are staggered by 0.5 seconds in the following order: Camera 1 (0 second offset), Camera 3 (0.5 second offset), Camera 4 (1.0 second offset), and Camera 2 (1.5 second offset). Although these offsets are correctly incorporated into the timestamps in the target pixel files and light curves, the FFI time stamps are not corrected for the staggered readout. For Sector 1 through Sector 18, the offsets for each camera can be added to the TSTART and TSTOP header values in the FFIs to correct the issue.<p></p>
        In addition, the TSTOP header values in the target pixel files, light curve files, and FFIs are overestimated by 20 ms, and the TIME column of the target pixel files and light curve files are overestimated by 10 ms.<p></p>
 	</td>
@@ -695,8 +695,8 @@ Below we provide a brief summary of the DRN for each Sector in TESS Cycle 2.
        <p>396193 -- 404812<p></td>
        <td>1.43</td>
        <td>23.51</td>
-       <td><p>3.875</p>
-       <p>4.0</p></td>
+       <td><p>Every 3.875 days</p>
+       <p>Every 4.0 days</p></td>
        <td><a href="sector_17.html">list</a></td>
        </tr>
 
@@ -755,16 +755,16 @@ Below we provide a brief summary of the DRN for each Sector in TESS Cycle 2.
 
        <tr>  
        <td><a href="https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_sector_16_drn22_v02.pdf">22</a></td>
-       <td><p>41</p> 
-       <p>42</p></td>
+       <td><p>39</p> 
+       <p>40</p></td>
        <td><p>2019-09-12 -- 2019-09-23</p>
        <p>2019-09-25 -- 2019-10-06</p></td>
        <td><p>368058 -- 376489</p>
        <p>377421 -- 385822<p></td>
        <td>1.29</td>
        <td>23.38</td>
-       <td><p>1</p>
-       <p>1</p></td>
+       <td><p>Every 5.83 days</p>
+       <p>Every 5.83 days</p></td>
        <td><a href="sector_17.html">list</a></td>
        </tr>
 
@@ -817,16 +817,16 @@ Below we provide a brief summary of the DRN for each Sector in TESS Cycle 2.
 
        <tr>  
        <td><a href="https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_sector_15_drn21_v02.pdf">21</a></td>
-       <td><p>41</p> 
-       <p>42</p></td>
+       <td><p>37</p> 
+       <p>38</p></td>
        <td><p>2019-08-15 -- 2019-08-28</p>
        <p>2019-08-29 -- 2019-09-10</p></td>
        <td><p>348411-- 357409</p>
        <p>358186 -- 367167<p></td>
        <td>1.08</td>
        <td>24.97</td>
-       <td><p>4.25</p>
-       <p>4.25</p></td>
+       <td><p>Every 4.25 days</p>
+       <p>Every 4.25 days</p></td>
        <td><a href="sector_16.html">list</a></td>
        </tr>
 
@@ -835,7 +835,7 @@ Below we provide a brief summary of the DRN for each Sector in TESS Cycle 2.
 
 
        <tr>  
-       <td colspan="3">Star tracker annomalie:</td>
+       <td colspan="3">Star tracker anomaly:</td>
        <td colspan="5">A single upset event in the star trackers caused the spacecraft to fall out of fine pointing in orbit 38. The issue lasts for 5 minutes at TJD 1725.93651 (cadences 358907, 358908, and 358909).</td>
        </tr>
 
@@ -885,16 +885,16 @@ Below we provide a brief summary of the DRN for each Sector in TESS Cycle 2.
 
        <tr>  
        <td><a href="https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_sector_15_drn21_v02.pdf">19</a></td>
-       <td><p>41</p> 
-       <p>42</p></td>
+       <td><p>36</p> 
+       <p>35</p></td>
        <td><p>2019-07-18 -- 2019-07-31</p>
        <p>2019-08-01 -- 2019-08-14</p></td>
        <td><p>328243 -- 337632</p>
        <p>338316 -- 347579<p></td>
        <td>0.95</td>
        <td>25.91</td>
-       <td><p>4.4</p>
-       <p>4.4</p></td>
+       <td><p>Every 4.4 days</p>
+       <p>Every 4.4 days</p></td>
        <td><a href="sector_14.html">list</a></td>
        </tr>
 
@@ -916,7 +916,7 @@ Below we provide a brief summary of the DRN for each Sector in TESS Cycle 2.
        
        
        <tr>
-       <td colspan="3"><b> Big Updates!<b></td>
+       <td colspan="3"><b>Big Updates!<b></td>
        <td colspan="5">Sector 14 is the first northern ecliptic hemisphere pointing.<p></p>
        This is first sector to make use of TIC 8, which is based on Gaia DR2 astrometry and photometry, and uses Gaia DR2 parallaxes to inform stellar parameters details are provided by [Stassun et al (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....158..138S/abstract) and the [TIC release notes](https://outerspace.stsci.edu/display/TESS/TIC+v8+and+CTL+v8.xx+Data+Release+Notes).<p></p>
        The spacecraft is pointed to a higher ecliptic latitude (+85 degrees rather than +54 degrees) to mitigate issues with scattered light in Camera 1 and Camera 2.<p></p>

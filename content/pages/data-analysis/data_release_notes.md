@@ -377,7 +377,7 @@ Below we provide a brief summary of the DRNs for each Sector in Cycle 3.
 
         <tr>
        <td colspan="3">Star tracker anomaly:</td>
-       <td colspan="5"> UTC 2020-11-16 10:37, which led to the instrument being turned off. As a result, the data collection period in orbit 70 ended 2.08 days earlier than scheduled. The cameras were turned on and returned to normal operations on 2020-11-20, at the beginning of Sector 32.</td>
+       <td colspan="5"> At UTC 2020-11-16 10:37, there was a star tracker anomaly which led to the instrument being turned off. As a result, the data collection period in orbit 70 ended 2.08 days earlier than scheduled. The cameras were turned on and returned to normal operations on 2020-11-20, at the beginning of Sector 32.</td>
        </tr>
 
 
@@ -388,7 +388,7 @@ Below we provide a brief summary of the DRNs for each Sector in Cycle 3.
 
        <tr>
        <td colspan="3">Scattered light:</td>
-       <td colspan="5">In Sector 31, the Moon introduces a strong glint in Camera 1 at the end of orbit 69, followed by scattered light signals in all cameras caused by the Earth. Due to the star tracker anomaly, no data was taken during periods of high scattered light in orbit 70.</td>
+       <td colspan="5">In Sector 31, the Moon introduces a strong glint in Camera 1 at the end of orbit 69, followed by scattered light signals in all cameras caused by the Earth. Due to the star tracker anomaly, no data were taken during periods of high scattered light in orbit 70.</td>
        </tr>       
 
 </table>
@@ -647,8 +647,8 @@ Below we provide a brief summary of the DRNs for each Sector in Cycle 3.
 	<p>Data products for the 20 second mode have the keyword "fast" in the file names.</p>
 	<p>For 20-second data, only target pixel files, light curve files, collateral pixel files, and co-trending basis vectors (CBVs) were produced.</p>
 	<p>As usual cosmic rays were mitigated in the 2-minute cadence data and 10-minute FFIs by an algorithm running on the instrument firmware - see DRN pg. 8, for more info. Note however, that in the new 20-second pixel data cosmic rays were identified and removed in the pipeline, and that they can be restored in the pixel data and light curves if necessary.</p>
-	<p>The background correction employed throughout the primary mission was updated for the extended mission. The new method provides improved results for fainter and crowded stars. The correction is applied only to 2-min and 20-sec data. A full explanation of this correction on pg. 10.</p>
-        <p>For targets observed in both Year 1 and Year 3, Year 3 processing was done using TIC 8.1 while TIC 7 was used for Year 1 processing; this may result in differences in results for certain targets. Differences for some crowded and/or dim targets may also result from the background correction algorithm update. Reprocessing of Year 1 data with TIC 8.1 and the latest codebase is underway at the SPOC, as of Fall 2020. </p>
+	<p>The background correction employed throughout the primary mission was updated for the extended mission. The new method provides improved results for fainter and crowded stars. The correction is applied only to 2-min and 20-sec data. A full explanation of this correction is on pg. 10 of the DRN</p>
+        <p>For targets observed in both Year 1 and Year 3, Year 3 processing was done using TIC 8.1 while TIC 7 was used for Year 1 processing; this may result in different results for certain targets. Differences for some crowded and/or dim targets may also result from the background correction algorithm update. Reprocessing of Year 1 data with TIC 8.1 and the latest codebase is underway at the SPOC, as of Fall 2020. </p>
        </tr>
 
 </table>
@@ -664,52 +664,6 @@ Below we provide a brief summary of the DRNs for each Sector in Cycle 2. <p></p>
 ##Cycle 1 DRN Tables
 Below we provide a brief summary of the DRNs for each Sector in Cycle 1. <p></p>
 <a class="btn btn-default btn-xs" href="cycle1_drn.html">Cycle 1 Tables &raquo;</a>
-
-##Multi Sector DRN Tables
-
-###Reprocessing of Sectors 14–19
-
-<div class="panel panel-primary">
-  <div class="panel-heading">
-    <h3 class="panel-title">Information</h3>
-  </div>
-
-<table class="table table-striped table-hover" style="font-size: 0.77em;">
-       <col style="width:5%">
-       <col style="width:5%">
-       <col style="width:25%">
-       <col style="width:25%">
-       <col style="width:13.3%">
-       <col style="width:13.3%">
-       <col style="width:13.3%">
-       
- 	<td colspan="3" style="vertical-align: middle;"><b>Issue</b></td>
-	<td colspan="5" style="vertical-align: middle;"><b>Description</b></td>
-
-       <tr>
-       <td colspan="3" >Timestamps:</td>
-       <td colspan="5" >The timestamps for 2 minute cadence and FFI data are more accurate. The differences between reprocessed data and previous data releases are less than 2.0 seconds in all cases.</td>
-       </tr>
-
-       <tr>
-       <td colspan="3" >Apertures:</td>
-       <td colspan="5" >Photometric apertures were increased in size for targets with Tmag < 11</td>
-       </tr>
-
-       <tr>
-       <td colspan="3" >Data Anomaly Flags:</td>
-       <td colspan="5" >Three new flags were added to mitigate the effects of scattered light.</td>
-       </tr>
-
-      
-       <tr>
-       <td colspan="3" >Planet search:</td>
-       <td colspan="5" >Given the re-porcessed light curves a different set of TCEs from the original processed data, were obtained. There is a 83% overlap with previous results. Not every TCE from previous data releases were recovered.</td>
-       </tr>
-
-</table>
-</div>
-</div>
 
 ##Useful links
 
