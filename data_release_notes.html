@@ -1,0 +1,861 @@
+<!DOCTYPE html>
+<!--
+Crafted with ♥ by Geert Barentsen, Thomas Barclay & Knicole colon at NASA Ames
+in August 2015, using pelican-bootstrap and flatly.
+-->
+<html lang="en"
+>
+
+<head>
+    <title>TESS Data Release Notes - TESS Science Support Center</title>
+    <!-- Using the latest rendering mode for IE -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!--Custom meta data-->
+
+    <meta name="dc.title" content="NASA - TESS Science Support Center" />
+    <meta name="dc.format" content="text/html" />
+    <meta name="dc.date.modified" content="2021-04-15" />
+    <meta name="dc.language" content="en" />
+    <meta name="dc.description" content="Resources and Information for Users of TESS Data" />
+    <meta name="dc.identifier" content="https://heasarc.gsfc.nasa.gov/docs/tess/" />
+    <meta name="dc.audience" content="Astronomers, Astrophysicists, Scientists, Researchers" />
+    <meta name="dc.subject.discipline" content="Astrophysics, Astronomy" />
+    <meta name="orgcode" content="667">
+    <meta name="rno" content="Thomas.Barclay">
+    <meta name="content-owner" content="Thomas.Barclay">
+    <meta name="webmaster" content="Thomas.Barclay">
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:description" content="Transiting Exoplanet Survey Satellite is a NASA Mission to Study Stars, Planets and Galaxies." />
+    <meta name="twitter:title" content="NASA - TESS Science Support Center" />
+    <meta name="twitter:site" content="@NASA_TESS" />
+    <meta name="twitter:creator" content="@NASA_TESS" />
+    <meta name="twitter:image" content="https://heasarc.gsfc.nasa.gov/docs/tess/images/logo-for-twitter.jpeg" />
+
+
+    <link href="./images/favicon.png" rel="icon">
+
+<link rel="canonical" href="./pages/tess-data-release-notes.html">
+
+        <meta name="author" content="Thomas Barclay" />
+        <meta name="description" content="As the TESS mission has evolved, so has the processing and delivery of its data. Whilst a data release note (DRN) is provided for every sector of the mission, this page hi-lights important changes that might affect you, the user, and your handling/understanding of the data. Key updates Below …" />
+
+    <meta property="og:site_name" content="TESS" />
+    <meta property="og:type" content="article"/>
+    <meta property="og:title" content="TESS Data Release Notes"/>
+    <meta property="og:url" content="./pages/tess-data-release-notes.html"/>
+    <meta property="og:description" content="As the TESS mission has evolved, so has the processing and delivery of its data. Whilst a data release note (DRN) is provided for every sector of the mission, this page hi-lights important changes that might affect you, the user, and your handling/understanding of the data. Key updates Below …" />
+        <meta property="og:image"
+              content="./images/logo-for-twitter.jpeg"/>
+
+
+    <!-- Why use Helvetica Neue when you can have Lato? -->
+    <!-- Why use Lato when you can have Nunito? -->
+    <link href="./theme/css/nunito.css" rel="stylesheet">
+
+    <!-- Bootstrap -->
+        <link rel="stylesheet" href="./theme/css/bootstrap.cosmo.min.css" type="text/css"/>
+    <link href="./theme/css/font-awesome.min.css" rel="stylesheet">
+
+    <link href="./theme/css/exoplanet_archive_icons.css" rel="stylesheet">
+    <link href="./theme/css/mission_icons.css" rel="stylesheet">
+<!--     <link href="./theme/css/photobanner.css" rel="stylesheet">
+    <link href="./theme/css/slide-container.css" rel="stylesheet">
+    <link href="./theme/css/slide-transition.css" rel="stylesheet"> 
+    <link href="./theme/css/slide-transition2.css" rel="stylesheet">  -->
+    
+    <link href="./theme/css/pygments/native.css" rel="stylesheet">
+    <link rel="stylesheet" href="./theme/css/style.css" type="text/css"/>
+
+    <link href="./feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="TESS ATOM Feed"/>
+    <link href="./feeds/all.rss.xml" type="application/rss+xml" rel="alternate" title="TESS RSS Feed"/>
+
+</head>
+<body>
+
+<!-- Print a warning message that this is not the official site -->
+<div class="container container-wide" style="background-color: #d35400; color: white; padding: 1.5em; font-weight: bold;">
+  <div class="container">
+   <i class="fa fa-warning fa-lg fa-margin"></i>
+    This is the development version of the TESS Science Support Center website.
+    For the live website, visit <a href="https://heasarc.gsfc.nasa.gov/docs/tess/">https://heasarc.gsfc.nasa.gov/docs/tess</a>
+  </div>
+</div>
+
+<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+
+  <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a href="./" class="navbar-brand">
+<img src="./images/NASA_logo_vector_lg.png" width="32"/> TESS            </a>
+        </div>
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav navbar-nav">
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Mission <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="./objectives.html">Objectives</a></li>
+                                <li><a href="./the-tess-space-telescope.html">Telescope</a></li>
+                                <li><a href="./primary.html">Primary mission</a></li>
+                                <li><a href="./extended.html">Extended mission</a></li>
+                                <li><a href="./faq.html">FAQ</a></li>
+                                <li><a href="./citizenscience.html">Citizen Science</a></li>
+                                <li><a href="./gallery.html">Outreach resources</a></li>
+                                <li><a href="./publications.html">Publications</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Data & tools <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="./data-handling.html">Data pipeline</a></li>
+                                <li><a href="./data-products.html">Data products</a></li>
+                                <li><a href="./data-access.html">Data access</a></li>
+                                <li><a href="./data-analysis-tools.html">Data analysis tools</a></li>
+                                <li><a href="./community.html">Community products</a></li>
+                                <li><a href="./community-tools.html">Community tools</a></li>
+                                <li><a href="./documentation.html">Documentation</a></li>
+                                <li><a href="./data_release_notes.html">Data release notes</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Observations <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="./observing-technical.html">Technical details</a></li>
+                                <li><a href="./sector.html">Sector dates</a></li>
+                                <li><a href="./approved-programs.html">Approved GI programs</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Proposing <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="./proposing-investigations.html">Guest Investigator Proposals</a></li>
+                                <li><a href="./proposal-tools.html">Proposal & observation tools</a></li>
+                                <li><a href="./ddt.html">Director's Discretionary Target program</a></li>
+                                <li><a href="./proposal-templates.html">Proposal templates</a></li>
+                            </ul>
+                        </li>
+            </ul>
+            
+            <ul class="nav navbar-nav">
+                <li>
+                    <a href="./helpdesk.html"><i class="fa fa-info-circle fa-lg"></i> Helpdesk</a>
+                </li>
+            </ul>
+            
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+</div> <!-- /.navbar -->
+<!-- Banner -->
+<!-- End Banner -->
+
+<div class="container">
+    <div class="row">
+        <div class="col-lg-12">
+
+    <div class="col-sm-9" data-spy="scroll" data-target="#sidebarCol">
+        <section id="content" class="body">
+            <h1 class="entry-title">TESS Data Release Notes</h1>
+            <div class="entry-content">
+                
+<p>As the TESS mission has evolved, so has the processing and delivery of its data. Whilst a <a href="https://archive.stsci.edu/tess/tess_drn.html">data release note (DRN)</a> is provided for every sector of the mission, this page hi-lights important changes that might affect you, the user, and your handling/understanding of the data.</p>
+<h2 id="key-updates">Key updates</h2>
+<p>Below we outline some of the most important issues or data product modifications. For more details please see the Sector tables provided below, and the DRNs listed within.</p>
+<ul>
+<li><a href="data_release_notes.html#sector-32"><strong>Sector 32:</strong></a> Approximately 26 hrs lost due to a star tracker anomaly.<p></p></li>
+<li><a href="data_release_notes.html#sector-31"><strong>Sector 31:</strong></a> Approximately 4 days lost due to a star tracker anomaly.<p></p></li>
+<li><a href="data_release_notes.html#sector-30"><strong>Sector 30:</strong></a> As of Sector 30, co-trending basis vector (CBV) files only include the first eight principal components for the Single Scale co-trending mode. <p></p></li>
+<li><a href="data_release_notes.html#sector-27"><strong>Sector 27:</strong></a> This is the first data release for the extended mission. Key changes have occurred including the collection of 10 min FFI data instead of 30 min, and 20 second target pixel files.<p></p>
+<p>The background correction was updated for the extended mission, with the new method providing improved results for fainter and crowded stars. 
+<p>For targets observed in both Year 1 and Year 3, Year 3 processing was done using TIC 8.1 while TIC 7 was used for Year 1 processing; this may result in differences in results for certain targets.</p></p></li>
+</ul>
+<p><a class="btn btn-default btn-xs" href="key_updates_archive.html">Key update archive »</a></p>
+<h2 id="quick-look-mission-information">Quick look mission information</h2>
+<div class="panel panel-primary">
+<div class="panel-heading">
+<h3 class="panel-title">Information</h3>
+</div>
+<table class="table table-striped table-hover" style="font-size: 0.77em;">
+<col style="width:20%"/>
+<col style="width:20%"/>
+<col style="width:20%"/>
+<col style="width:20%"/>
+<col style="width:20%"/>
+<thead>
+<tr>
+<th style="vertical-align: middle;">Year</th>
+<th style="vertical-align: middle;">Hemisphere</th>
+<th style="vertical-align: middle;">Dates (UTC) <p>Start - End</p></th>
+<th style="vertical-align: middle;">Sectors</th>
+<th style="vertical-align: middle;">Mission</th>
+</tr>
+</thead>
+<tr>
+<td>1</td>
+<td>Southern</td>
+<td>07/25/18 - 07/18/19</td>
+<td><a href="https://tess.mit.edu/observations/sector-1/">1</a>, 
+       <a href="https://tess.mit.edu/observations/sector-2/">2</a>,
+       <a href="https://tess.mit.edu/observations/sector-3/">3</a>,
+       <a href="https://tess.mit.edu/observations/sector-4/">4</a>,
+       <a href="https://tess.mit.edu/observations/sector-5/">5</a>,
+       <a href="https://tess.mit.edu/observations/sector-6/">6</a>,
+       <a href="https://tess.mit.edu/observations/sector-7/">7</a>,
+       <a href="https://tess.mit.edu/observations/sector-8/">8</a>,
+       <a href="https://tess.mit.edu/observations/sector-9/">9</a>,
+       <a href="https://tess.mit.edu/observations/sector-10/">10</a>,
+       <a href="https://tess.mit.edu/observations/sector-11/">11</a>,
+       <a href="https://tess.mit.edu/observations/sector-12/">12</a>,
+       <a href="https://tess.mit.edu/observations/sector-13/">13</a>
+</td>
+<td><a href="https://heasarc.gsfc.nasa.gov/docs/tess/primary.html">Prime</a></td>
+</tr>
+<tr>
+<td>2</td>
+<td>Northern</td>
+<td>07/18/19 - 07/04/20</td>
+<td><a href="https://tess.mit.edu/observations/sector-14/">14</a>, 
+       <a href="https://tess.mit.edu/observations/sector-15/">15</a>,
+       <a href="https://tess.mit.edu/observations/sector-16/">16</a>,
+       <a href="https://tess.mit.edu/observations/sector-17/">17</a>,
+       <a href="https://tess.mit.edu/observations/sector-18/">18</a>,
+       <a href="https://tess.mit.edu/observations/sector-19/">19</a>,
+       <a href="https://tess.mit.edu/observations/sector-20/">20</a>,
+       <a href="https://tess.mit.edu/observations/sector-21/">21</a>,
+       <a href="https://tess.mit.edu/observations/sector-22/">22</a>,
+       <a href="https://tess.mit.edu/observations/sector-23/">23</a>,
+       <a href="https://tess.mit.edu/observations/sector-24/">24</a>,
+       <a href="https://tess.mit.edu/observations/sector-25/">25</a>,
+       <a href="https://tess.mit.edu/observations/sector-26/">26</a>
+</td>
+<td><a href="https://heasarc.gsfc.nasa.gov/docs/tess/primary.html">Prime</a></td>
+</tr>
+<tr>
+<td>3</td>
+<td>Southern</td>
+<td>07/04/20 - 06/24/21</td>
+<td><a href="https://tess.mit.edu/observations/sector-27/">27</a>, 
+       <a href="https://tess.mit.edu/observations/sector-28/">28</a>,
+       <a href="https://tess.mit.edu/observations/sector-29/">29</a>,
+       <a href="https://tess.mit.edu/observations/sector-30/">20</a>,
+       <a href="https://tess.mit.edu/observations/sector-31/">31</a>,
+       <a href="https://tess.mit.edu/observations/sector-32/">32</a>,
+       <a href="https://tess.mit.edu/observations/sector-33/">33</a>,
+       <a href="https://tess.mit.edu/observations/sector-34/">34</a>,
+       <a href="https://tess.mit.edu/observations/sector-35/">35</a>,
+       <a href="https://tess.mit.edu/observations/sector-36/">36</a>,
+       <a href="https://tess.mit.edu/observations/sector-37/">37</a>,
+       <a href="https://tess.mit.edu/observations/sector-38/">38</a>,
+       <a href="https://tess.mit.edu/observations/sector-39/">39</a>
+</td>
+<td><a href="https://heasarc.gsfc.nasa.gov/docs/tess/extended.html">Extended</a></td>
+</tr>
+<tr>
+<td>4</td>
+<td>Northern</td>
+<td>06/24/21 - 09/01/22</td>
+<td><a href="https://tess.mit.edu/observations/sector-40/">40</a>, 
+       <a href="https://tess.mit.edu/observations/sector-41/">41</a>,
+       <a href="https://tess.mit.edu/observations/sector-42/">42</a>,
+       <a href="https://tess.mit.edu/observations/sector-43/">43</a>,
+       <a href="https://tess.mit.edu/observations/sector-44/">44</a>,
+       <a href="https://tess.mit.edu/observations/sector-45/">45</a>,
+       <a href="https://tess.mit.edu/observations/sector-46/">46</a>,
+       <a href="https://tess.mit.edu/observations/sector-47/">47</a>,
+       <a href="https://tess.mit.edu/observations/sector-48/">48</a>,
+       <a href="https://tess.mit.edu/observations/sector-49/">49</a>,
+       <a href="https://tess.mit.edu/observations/sector-50/">50</a>,
+       <a href="https://tess.mit.edu/observations/sector-51/">51</a>,
+       <a href="https://tess.mit.edu/observations/sector-52/">52</a>
+<a href="https://tess.mit.edu/observations/sector-53">53</a>
+<a href="https://tess.mit.edu/observations/sector-54/">54</a>
+<a href="https://tess.mit.edu/observations/sector-55/">55</a>
+</td>
+<td><a href="https://heasarc.gsfc.nasa.gov/docs/tess/extended.html">Extended</a></td>
+</tr>
+</table>
+</div>
+
+<h2 id="cycle-3-drn-tables">Cycle 3 DRN Tables</h2>
+<p>Below we provide a brief summary of the DRNs for each Sector in Cycle 3. </p>
+<h3 id="sector-34">Sector 34</h3>
+<div class="panel panel-primary">
+<div class="panel-heading">
+<h3 class="panel-title">Information</h3>
+</div>
+<table class="table table-striped table-hover" style="font-size: 0.77em;">
+<col style="width:5%"/>
+<col style="width:5%"/>
+<col style="width:25%"/>
+<col style="width:25%"/>
+<col style="width:13.3%"/>
+<col style="width:13.3%"/>
+<col style="width:13.3%"/>
+<thead>
+<tr>
+<th style="vertical-align: middle;">DRN</th>
+<th style="vertical-align: middle;">Orbits</th>
+<th style="vertical-align: middle;">Dates (UTC) <p>Start - End</p></th>
+<th style="vertical-align: middle;">Cadence # <p>Start - End</p></th>
+<th style="vertical-align: middle;">Data pause <p>(days)</p></th>
+<th style="vertical-align: middle;">Science data (days)</th>
+<th style="vertical-align: middle;">Momentum dumps</th>
+<th style="vertical-align: middle;">Problematic <p>TIC ID's</p></th>
+</tr>
+</thead>
+<tr>
+<td><a href="https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_sector_34_drn50_v01.pdf">50</a></td>
+<td><p>75</p>
+<p>76</p></td>
+<td><p>2021-01-14 - 2021-01-26</p>
+<p>2021-01-27 - 2021-02-08</p></td>
+<td><p>720929 - 729684</p>
+<p>730459 - 739159<p></p></p></td>
+<td>1.08</td>
+<td>24.24</td>
+<td><p>1</p>
+<p>1</p></td>
+<td><a href="sector_34.html">list</a></td>
+</tr>
+<td colspan="3" style="vertical-align: middle;"><b>Issue</b></td>
+<td colspan="5" style="vertical-align: middle;"><b>Description</b></td>
+<tr>
+<td colspan="3">Space craft pointing:</td>
+<td colspan="5">Camera 1 and Camera 4 were both used for guiding in orbit 75 of Sector 34. Camera 4 alone was used for guiding in orbit 76.</td>
+</tr>
+</table>
+</div>
+
+<h3 id="sector-33">Sector 33</h3>
+<div class="panel panel-primary">
+<div class="panel-heading">
+<h3 class="panel-title">Information</h3>
+</div>
+<table class="table table-striped table-hover" style="font-size: 0.77em;">
+<col style="width:5%"/>
+<col style="width:5%"/>
+<col style="width:25%"/>
+<col style="width:25%"/>
+<col style="width:13.3%"/>
+<col style="width:13.3%"/>
+<col style="width:13.3%"/>
+<thead>
+<tr>
+<th style="vertical-align: middle;">DRN</th>
+<th style="vertical-align: middle;">Orbits</th>
+<th style="vertical-align: middle;">Dates (UTC) <p>Start - End</p></th>
+<th style="vertical-align: middle;">Cadence # <p>Start - End</p></th>
+<th style="vertical-align: middle;">Data pause <p>(days)</p></th>
+<th style="vertical-align: middle;">Science data (days)</th>
+<th style="vertical-align: middle;">Momentum dumps</th>
+<th style="vertical-align: middle;">Problematic <p>TIC ID's</p></th>
+</tr>
+</thead>
+<tr>
+<td><a href="https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_sector_33_drn49_v02.pdf">49</a></td>
+<td><p>73</p>
+<p>74</p></td>
+<td><p>2020-12-18 -- 2020-12-30</p>
+<p>2020-12-31 -- 2021-01-13</p></td>
+<td><p>701476 -- 710214</p>
+<p>711341 -- 7720084<p></p></p></td>
+<td>1.57</td>
+<td>24.23</td>
+<td><p>1</p>
+<p>1</p></td>
+<td><a href="sector_33.html">list</a></td>
+</tr>
+<td colspan="3" style="vertical-align: middle;"><b>Issue</b></td>
+<td colspan="5" style="vertical-align: middle;"><b>Description</b></td>
+<tr>
+<td colspan="3">Scattered light:</td>
+<td colspan="5">In Sector 33, the Moon introduces a strong glint in Camera 1 at the end of orbit 73.</td>
+</tr>
+<tr>
+<td colspan="3"><b> Big update:</b></td>
+<td colspan="5">
+<p>As of Sector 30, co-trending basis vector (CBV) files only include the first eight principal components for the Single Scale co-trending mode.</p>
+<p>As a reminder, the pipeline only uses the first eight CBVs for co-trending, because subsequent CBVs are usually dominated by stochastic noise. When using CBVs beyond 8, users should check for excess noise being introduced into the detrended light curve</p>
+<p>In Sectors 30–33, the values for CBVs 9–16 are set to 0.</p>
+</td>
+</tr>
+</table>
+</div>
+
+<h3 id="sector-32">Sector 32</h3>
+<div class="panel panel-primary">
+<div class="panel-heading">
+<h3 class="panel-title">Information</h3>
+</div>
+<table class="table table-striped table-hover" style="font-size: 0.77em;">
+<col style="width:5%"/>
+<col style="width:5%"/>
+<col style="width:25%"/>
+<col style="width:25%"/>
+<col style="width:13.3%"/>
+<col style="width:13.3%"/>
+<col style="width:13.3%"/>
+<thead>
+<tr>
+<th style="vertical-align: middle;">DRN</th>
+<th style="vertical-align: middle;">Orbits</th>
+<th style="vertical-align: middle;">Dates (UTC) <p>Start - End</p></th>
+<th style="vertical-align: middle;">Cadence # <p>Start - End</p></th>
+<th style="vertical-align: middle;">Data pause <p>(days)</p></th>
+<th style="vertical-align: middle;">Science data (days)</th>
+<th style="vertical-align: middle;">Momentum dumps</th>
+<th style="vertical-align: middle;">Problematic <p>TIC ID's</p></th>
+</tr>
+</thead>
+<tr>
+<td><a href="https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_sector_32_drn48_v02.pdf">48</a></td>
+<td><p>71</p>
+<p>72</p></td>
+<td><p>2020-11-20 -- 2020-12-02</p>
+<p>2020-12-03 -- 2020-12-16</p></td>
+<td><p>681670 -- 690109</p>
+<p>690829 -- 700399<p></p></p></td>
+<td>1.0</td>
+<td>25.01</td>
+<td><p>1</p>
+<p>1</p></td>
+<td><a href="sector_32.html">list</a></td>
+</tr>
+<td colspan="3" style="vertical-align: middle;"><b>Issue</b></td>
+<td colspan="5" style="vertical-align: middle;"><b>Description</b></td>
+<tr>
+<td colspan="3">Star tracker anomaly:</td>
+<td colspan="5"> UTC 2020-11-16 10:37, instrument turned off and collection of data for orbit 71 started 29 hrs later than scheduled. Normal operation started 2020-11-20-17-13-00 UTC.</td>
+</tr>
+<tr>
+<td colspan="3">Space craft pointing:</td>
+<td colspan="5">Camera 4 alone was used for guiding in Sector 72.</td>
+</tr>
+<tr>
+<td colspan="3">Scattered light:</td>
+<td colspan="5">In Sector 32, the Moon introduces a strong glint in Camera 1 at the end of orbit 71.</td>
+</tr>
+</table>
+</div>
+
+<h3 id="sector-31">Sector 31</h3>
+<div class="panel panel-primary">
+<div class="panel-heading">
+<h3 class="panel-title">Information</h3>
+</div>
+<table class="table table-striped table-hover" style="font-size: 0.77em;">
+<col style="width:5%"/>
+<col style="width:5%"/>
+<col style="width:25%"/>
+<col style="width:25%"/>
+<col style="width:13.3%"/>
+<col style="width:13.3%"/>
+<col style="width:13.3%"/>
+<thead>
+<tr>
+<th style="vertical-align: middle;">DRN</th>
+<th style="vertical-align: middle;">Orbits</th>
+<th style="vertical-align: middle;">Dates (UTC) <p>Start - End</p></th>
+<th style="vertical-align: middle;">Cadence # <p>Start - End</p></th>
+<th style="vertical-align: middle;">Data pause <p>(days)</p></th>
+<th style="vertical-align: middle;">Science data (days)</th>
+<th style="vertical-align: middle;">Momentum dumps</th>
+<th style="vertical-align: middle;">Problematic <p>TIC ID's</p></th>
+</tr>
+</thead>
+<tr>
+<td><a href="https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_sector_31_drn47_v02.pdf">47</a></td>
+<td><p>69</p>
+<p>70</p></td>
+<td><p>2020-10-22 -- 2020-11-03</p>
+<p>2020-11-05 -- 2020-11-16</p></td>
+<td><p>660279 -- 669599</p>
+<p>670609 -- 678592<p></p></p></td>
+<td>1.4</td>
+<td>24.03</td>
+<td><p>1</p>
+<p>1</p></td>
+<td><a href="sector_31.html">list</a></td>
+</tr>
+<td colspan="3" style="vertical-align: middle;"><b>Issue</b></td>
+<td colspan="5" style="vertical-align: middle;"><b>Description</b></td>
+<tr>
+<td colspan="3">Star tracker anomaly:</td>
+<td colspan="5"> At UTC 2020-11-16 10:37, there was a star tracker anomaly which led to the instrument being turned off. As a result, the data collection period in orbit 70 ended 2.08 days earlier than scheduled. The cameras were turned on and returned to normal operations on 2020-11-20, at the beginning of Sector 32.</td>
+</tr>
+<tr>
+<td colspan="3">Space craft pointing:</td>
+<td colspan="5">Camera 1 suffered from strong scattered light signals at the end of orbit 69 and orbit 70, and so Camera 4 alone was used for guiding during this sector.</td>
+</tr>
+<tr>
+<td colspan="3">Scattered light:</td>
+<td colspan="5">In Sector 31, the Moon introduces a strong glint in Camera 1 at the end of orbit 69, followed by scattered light signals in all cameras caused by the Earth. Due to the star tracker anomaly, no data were taken during periods of high scattered light in orbit 70.</td>
+</tr>
+</table>
+</div>
+
+<h3 id="sector-30">Sector 30</h3>
+<div class="panel panel-primary">
+<div class="panel-heading">
+<h3 class="panel-title">Information</h3>
+</div>
+<table class="table table-striped table-hover" style="font-size: 0.77em;">
+<col style="width:5%"/>
+<col style="width:5%"/>
+<col style="width:25%"/>
+<col style="width:25%"/>
+<col style="width:13.3%"/>
+<col style="width:13.3%"/>
+<col style="width:13.3%"/>
+<thead>
+<tr>
+<th style="vertical-align: middle;">DRN</th>
+<th style="vertical-align: middle;">Orbits</th>
+<th style="vertical-align: middle;">Dates (UTC) <p>Start - End</p></th>
+<th style="vertical-align: middle;">Cadence # <p>Start - End</p></th>
+<th style="vertical-align: middle;">Data pause <p>(days)</p></th>
+<th style="vertical-align: middle;">Science data (days)</th>
+<th style="vertical-align: middle;">Momentum dumps</th>
+<th style="vertical-align: middle;">Problematic <p>TIC ID's</p></th>
+</tr>
+</thead>
+<tr>
+<td><a href="https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_sector_30_drn45_v02.pdf">45</a></td>
+<td><p>67</p>
+<p>68</p></td>
+<td><p>2020-09-23 -- 2020-10-06</p>
+<p>2020-10-07 -- 2020-10-20</p></td>
+<td><p>639666 -- 649212</p>
+<p>649979 -- 659352<p></p></p></td>
+<td>1.07</td>
+<td>26.28</td>
+<td><p>1</p>
+<p>1</p></td>
+<td><a href="sector_30.html">list</a></td>
+</tr>
+<td colspan="3" style="vertical-align: middle;"><b>Issue</b></td>
+<td colspan="5" style="vertical-align: middle;"><b>Description</b></td>
+<tr>
+<td colspan="3">Space craft pointing:</td>
+<td colspan="5">Camera 1 suffered from strong scattered light signals at the end of orbit 67 and orbit 68, and so Camera 4 alone was used for guiding during this sector.</td>
+</tr>
+<tr>
+<td colspan="3">Scattered light:</td>
+<td colspan="5">In Sector 30, the Moon introduces a strong glint in Camera 1 at the end of orbit 67, and the Earth introduces scattered light signals in all cameras at the end of both orbits.</td>
+</tr>
+</table>
+</div>
+
+<h3 id="sector-29">Sector 29</h3>
+<div class="panel panel-primary">
+<div class="panel-heading">
+<h3 class="panel-title">Information</h3>
+</div>
+<table class="table table-striped table-hover" style="font-size: 0.77em;">
+<col style="width:5%"/>
+<col style="width:5%"/>
+<col style="width:25%"/>
+<col style="width:25%"/>
+<col style="width:13.3%"/>
+<col style="width:13.3%"/>
+<col style="width:13.3%"/>
+<thead>
+<tr>
+<th style="vertical-align: middle;">DRN</th>
+<th style="vertical-align: middle;">Orbits</th>
+<th style="vertical-align: middle;">Dates (UTC) <p>Start - End</p></th>
+<th style="vertical-align: middle;">Cadence # <p>Start - End</p></th>
+<th style="vertical-align: middle;">Data pause <p>(days)</p></th>
+<th style="vertical-align: middle;">Science data (days)</th>
+<th style="vertical-align: middle;">Momentum dumps</th>
+<th style="vertical-align: middle;">Problematic <p>TIC ID's</p></th>
+</tr>
+</thead>
+<tr>
+<td><a href="https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_sector_29_drn43_v02.pdf">43</a></td>
+<td><p>65</p>
+<p>66</p></td>
+<td><p>2020-08-26  -- 2020-09-08</p>
+<p>2020-09-09 -- 2020-09-21</p></td>
+<td><p>619761 -- 629222</p>
+<p>629904 -- 638624<p></p></p></td>
+<td>0.95</td>
+<td>25.25</td>
+<td><p>1</p>
+<p>1</p></td>
+<td><a href="sector_29.html">list</a></td>
+</tr>
+<td colspan="3" style="vertical-align: middle;"><b>Issue</b></td>
+<td colspan="5" style="vertical-align: middle;"><b>Description</b></td>
+<tr>
+<td colspan="3">Space craft pointing:</td>
+<td colspan="5">Camera 1 suffered from strong scattered light signals at the end of orbit 65 and orbit 66, and so Camera 4 alone was used for guiding during this sector.</td>
+</tr>
+<tr>
+<td colspan="3">Scattered light:</td>
+<td colspan="5">In Sector 29, the Moon introduces a strong glint in Camera 1 at the end of orbit 65, and the Earth introduces scattered light signals in all cameras at the end of both orbits.</td>
+</tr>
+</table>
+</div>
+
+<h3 id="sector-28">Sector 28</h3>
+<div class="panel panel-primary">
+<div class="panel-heading">
+<h3 class="panel-title">Information</h3>
+</div>
+<table class="table table-striped table-hover" style="font-size: 0.77em;">
+<col style="width:5%"/>
+<col style="width:5%"/>
+<col style="width:25%"/>
+<col style="width:25%"/>
+<col style="width:13.3%"/>
+<col style="width:13.3%"/>
+<col style="width:13.3%"/>
+<thead>
+<tr>
+<th style="vertical-align: middle;">DRN</th>
+<th style="vertical-align: middle;">Orbits</th>
+<th style="vertical-align: middle;">Dates (UTC) <p>Start - End</p></th>
+<th style="vertical-align: middle;">Cadence # <p>Start - End</p></th>
+<th style="vertical-align: middle;">Data pause <p>(days)</p></th>
+<th style="vertical-align: middle;">Science data (days)</th>
+<th style="vertical-align: middle;">Momentum dumps</th>
+<th style="vertical-align: middle;">Problematic <p>TIC ID's</p></th>
+</tr>
+</thead>
+<tr>
+<td><a href="https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_sector_28_drn41_v02.pdf">41</a></td>
+<td><p>63</p>
+<p>64</p></td>
+<td><p>2020-07-31 -- 2020-08-12</p>
+<p>2020-08-13 -- 2020-08-25</p></td>
+<td><p>600761 -- 609484</p>
+<p>610341 -- 618942<p></p></p></td>
+<td>1.19</td>
+<td>24.06</td>
+<td><p>1</p>
+<p>1</p></td>
+<td><a href="sector_28.html">list</a></td>
+</tr>
+<td colspan="3" style="vertical-align: middle;"><b>Issue</b></td>
+<td colspan="5" style="vertical-align: middle;"><b>Description</b></td>
+<tr>
+<td colspan="3">Scattered light:</td>
+<td colspan="5">In Sector 28, the Earth introduces scattered light signals at the end of both orbits.</td>
+</tr>
+</table>
+</div>
+
+<h3 id="sector-27">Sector 27</h3>
+<div class="panel panel-primary">
+<div class="panel-heading">
+<h3 class="panel-title">Information</h3>
+</div>
+<table class="table table-striped table-hover" style="font-size: 0.77em;">
+<col style="width:5%"/>
+<col style="width:5%"/>
+<col style="width:25%"/>
+<col style="width:25%"/>
+<col style="width:13.3%"/>
+<col style="width:13.3%"/>
+<col style="width:13.3%"/>
+<thead>
+<tr>
+<th style="vertical-align: middle;">DRN</th>
+<th style="vertical-align: middle;">Orbits</th>
+<th style="vertical-align: middle;">Dates (UTC) <p>Start - End</p></th>
+<th style="vertical-align: middle;">Cadence # <p>Start - End</p></th>
+<th style="vertical-align: middle;">Data pause <p>(days)</p></th>
+<th style="vertical-align: middle;">Science data (days)</th>
+<th style="vertical-align: middle;">Momentum dumps</th>
+<th style="vertical-align: middle;">Problematic <p>TIC ID's</p></th>
+</tr>
+</thead>
+<tr>
+<td><a href="https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_sector_27_drn38_v02.pdf">38</a></td>
+<td><p>61</p>
+<p>62</p></td>
+<td><p>2020-07-05 -- 2020-07-17</p>
+<p>2020-07-18 -- 2020-07-30</p></td>
+<td><p>582349 -- 590884</p>
+<p>591619 -- 599894<p></p></p></td>
+<td>1.02</td>
+<td>23.35</td>
+<td><p>1</p>
+<p>1</p></td>
+<td><a href="sector_27.html">list</a></td>
+</tr>
+<td colspan="3" style="vertical-align: middle;"><b>Issue</b></td>
+<td colspan="5" style="vertical-align: middle;"><b>Description</b></td>
+<tr>
+<td colspan="3">Space craft pointing:</td>
+<td colspan="5">Year 3 is a re-observation of the southern ecliptic hemisphere, which will take place over 13 sectors. The pointing strategy is the same as for Year 1, except the locations of Sectors 27–39 are offset in ecliptic longitude with respect to Sectors 1–13. All sectors in Year 3 are planned for a spacecraft pointing of −54 degrees in ecliptic latitude.</td>
+</tr>
+<tr>
+<td colspan="3">Scattered light:</td>
+<td colspan="5">In Sector 27, the Earth is a significant source of scattered light throughout both orbits.</td>
+</tr>
+<tr>
+<td colspan="3"><b><p>Big Updates!</p>
+<p>This is the first data release for the extended mission</p><b></b></b></td>
+<td colspan="5">
+<p>FFI data is collected every 10 min, rather than 30.</p>
+<p>Selected pixel stamps are collected at a 20-sec cadence.</p>
+<p>Data products for the 20 second mode have the keyword "fast" in the file names.</p>
+<p>For 20-second data, only target pixel files, light curve files, collateral pixel files, and co-trending basis vectors (CBVs) were produced.</p>
+<p>As usual cosmic rays were mitigated in the 2-minute cadence data and 10-minute FFIs by an algorithm running on the instrument firmware - see DRN pg. 8, for more info. Note however, that in the new 20-second pixel data cosmic rays were identified and removed in the pipeline, and that they can be restored in the pixel data and light curves if necessary.</p>
+<p>The background correction employed throughout the primary mission was updated for the extended mission. The new method provides improved results for fainter and crowded stars. The correction is applied only to 2-min and 20-sec data. A full explanation of this correction is on pg. 10 of the DRN</p>
+<p>For targets observed in both Year 1 and Year 3, Year 3 processing was done using TIC 8.1 while TIC 7 was used for Year 1 processing; this may result in different results for certain targets. Differences for some crowded and/or dim targets may also result from the background correction algorithm update. Reprocessing of Year 1 data with TIC 8.1 and the latest codebase is underway at the SPOC, as of Fall 2020. </p>
+</td></tr>
+</table>
+</div>
+
+<h2 id="cycle-2-drn-tables">Cycle 2 DRN Tables</h2>
+<p>Below we provide a brief summary of the DRNs for each Sector in Cycle 2. <p></p>
+<a class="btn btn-default btn-xs" href="cycle2_drn.html">Cycle 2 Tables »</a></p>
+<h2 id="cycle-1-drn-tables">Cycle 1 DRN Tables</h2>
+<p>Below we provide a brief summary of the DRNs for each Sector in Cycle 1. <p></p>
+<a class="btn btn-default btn-xs" href="cycle1_drn.html">Cycle 1 Tables »</a></p>
+<h2 id="useful-links">Useful links</h2>
+<p>Below we list some potentially useful urls for those users wishing to learn more about TESS (and Kepler) data processing. </p>
+<ul>
+<li>
+<p><a href="https://archive.stsci.edu/missions/tess/doc/EXP-TESS-ARC-ICD-TM-0014.pdf">TESS Science Data Products Description Document</a></p>
+</li>
+<li>
+<p><a href="https://archive.stsci.edu/files/live/sites/mast/files/home/missions-and-data/active-missions/tess/_documents/TESS_Instrument_Handbook_v0.1.pdf">TESS Instrument Handbook</a></p>
+</li>
+<li>
+<p><a href="https://archive.stsci.edu/files/live/sites/mast/files/home/missions-and-data/kepler/_documents/KSCI-19081-003-KDPH.pdf">Kepler Data Processing Handbook </a></p>
+</li>
+</ul>
+            </div>
+        </section>
+    </div>
+
+        <nav class="col-sm-3 visible-sm visible-md visible-lg bs-docs-sidebar" id="sidebarCol">
+            <div class="nav nav-stacked fixed" id="mytoc">
+            <div class="toc">
+<ul>
+<li><a href="#key-updates">Key updates</a></li>
+<li><a href="#quick-look-mission-information">Quick look mission information</a></li>
+<li><a href="#cycle-3-drn-tables">Cycle 3 DRN Tables</a><ul>
+<li><a href="#sector-34">Sector 34</a></li>
+<li><a href="#sector-33">Sector 33</a></li>
+<li><a href="#sector-32">Sector 32</a></li>
+<li><a href="#sector-31">Sector 31</a></li>
+<li><a href="#sector-30">Sector 30</a></li>
+<li><a href="#sector-29">Sector 29</a></li>
+<li><a href="#sector-28">Sector 28</a></li>
+<li><a href="#sector-27">Sector 27</a></li>
+</ul>
+</li>
+<li><a href="#cycle-2-drn-tables">Cycle 2 DRN Tables</a></li>
+<li><a href="#cycle-1-drn-tables">Cycle 1 DRN Tables</a></li>
+<li><a href="#useful-links">Useful links</a></li>
+</ul>
+</div>
+            </div>
+        </nav>
+        </div>
+    </div>
+</div>
+
+<div class="container container-wide" style="margin-top: 1.5em;">
+  <footer>
+
+     <div class="container">
+
+      <!-- Partner logos -->  
+      <div class="row">
+        <div class="col-md-10"> 
+          <a href="http://tess.mit.edu/"><img src="./images/partners/mit-logo.png" width="80" alt="MIT Logo"></a> &nbsp;&nbsp;&nbsp;
+         <a href="http://www.nasa.gov/"><img src="./images/NASA_logo_vector_lg.png" width="60" alt="NASA Logo"></a> &nbsp;&nbsp;&nbsp;
+         <a href="https://www.cfa.harvard.edu/"><img src="./images/partners/cfa-logo.png" width="55" alt="CfA Logo"></a> &nbsp;&nbsp;&nbsp;
+<!--          <a href="https://www.ll.mit.edu/"><img src="./images/partners/lincoln-laboratory.png" width="50" alt="Lincoln Labs Logo"></a> &nbsp;&nbsp;&nbsp; -->
+         <a href="https://http://www.northropgrumman.com/"><img src="./images/partners/Northrop_Grumman.png" width="176" alt="Orbital ATK Logo"></a> &nbsp;&nbsp;&nbsp;
+         <a href="http://www.stsci.edu/"><img src="./images/partners/stsci_logo2.png" width="110" alt="STScI Logo"></a> 
+        </div>
+      </div>
+
+      
+      <!-- Related websites -->  
+      <div class="row">
+        <div class="col-xs-12">
+          <h5><i class="fa fa-external-link"></i><span class="icon-label">Related websites:</span></h5>
+          <a href="https://nasa.gov/tess" target="_blank">
+                  News, Media, and Education Resources
+              </a>
+          <br/>
+          <a href="http://tess.mit.edu/" target="_blank">
+                  TESS @ MIT
+              </a>
+          <br/>
+          <a href="http://archive.stsci.edu/tess" target="_blank">
+                  TESS @ MAST
+              </a>
+          <br/>
+          <a href="https://heasarc.gsfc.nasa.gov/" target="_blank">
+                  High Energy Astrophysics Science Archive Research Center
+              </a>
+          <br/>
+          <a href="http://exoplanetarchive.ipac.caltech.edu" target="_blank">
+                  NASA Exoplanet Archive @ IPAC
+              </a>
+          <br/>
+        </div>
+      </div>
+
+      <!-- NASA logo and notices -->
+      <div class="row" style="margin-top:2em;">
+         <div class="col-md-10"> <a href="http://www.nasa.gov/"><img src="./images/NASA_logo_vector_lg.png" width="30" alt="NASA Logo"></a> 
+         Last modified: Mon 12 April 2021
+            &middot; Editor: Thomas Barclay &middot; NASA Official: Patricia T Boyd 
+            &middot; <a href="http://www.nasa.gov/about/highlights/HP_Privacy.html">Privacy Policy and Important Notices</a><p></p>         </div>
+         <div class="col-md-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
+      </div>
+    </div>
+
+  </footer>
+</div>
+<script src="./theme/js/jquery.min.js"></script>
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="./theme/js/bootstrap.min.js"></script>
+
+<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
+<script src="./theme/js/respond.min.js"></script>
+
+    <script src="./theme/js/bodypadding.js"></script>
+<!-- Analytics scripts -->
+
+
+        <script>
+          $('#mytoc').affix({
+                offset: {
+                  top: 50
+                }
+          });
+          $('body').scrollspy({
+              target: '#sidebarCol',
+              offset: 100
+          });
+
+          // Fix for issue #32:
+          function refreshScrollspy() {
+                $('[data-spy="scroll"]').each(function() {
+                    $(this).scrollspy('refresh');
+                });
+          }
+          $("img").bind('load', refreshScrollspy);
+        </script>
+</body>
+</html>
