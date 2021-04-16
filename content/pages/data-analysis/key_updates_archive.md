@@ -6,7 +6,7 @@ Save_as: key_updates_archive.html
 
 Below we outline some of the most important issues or data product modifications. For more details please see the Sector tables provided [here](data_release_notes.html), and the DRNs listed within.
 
-
+##Cycle 2
 - [**Sector 26:**](cycle2_drn.html#sector-26) The TESS spacecraft configuration file was updated from version ‘0187’ to ‘0188’ between orbit 59 and 60. This update results in different naming convention between the FFIs for the two orbits.<p></p>
 - [**Sector 22:**](cycle2_drn.html#sector-22) Four FFI cadences and two 2-minute cadences were lost due to computer issues. 
 	<p>A ~2 second error in data product timestamps has been corrected for starting with Sector 22. Previous data products will be corrected as they are reprocessed.</p>
@@ -22,4 +22,11 @@ The FFI timestamps for Sector 18 are incorrect. The readouts of the four cameras
 - [**Sector 15:**](cycle2_drn.html#sector-15) A single upset event in the star trackers caused the spacecraft to fall out of fine pointing in orbit 38. The issue lasts for 5 minutes at TJD 1725.93651 (cadences 358907, 358908, and 358909).
 - [**Sector 14:**](cycle2_drn.html#sector-14) Sector 14 is the first northern ecliptic hemisphere pointing. It uses an updated SPOC pipeline and makes use of CCD-specific anomaly flags.<p></p>
 This sector uses TIC 8, which is based on Gaia DR2 astrometry and photometry, and uses Gaia DR2 parallaxes to inform stellar parameters.<p></p>
-.
+
+
+##Cycle 1
+- [**Sector 13:**](cycle1_drn.html#sector-13) There is a star tracker anomaly that causes the spacecraft to fall out of fine pointing for approximately 1.25 hours from TJD 1665.2983 to 1665.350. During this time, the spacecraft exhibited increased pointing jitter.
+- [**Sector 10:**](cycle1_drn.html#sector-10) A new linearity model is used in pixel calibration.
+- [**Sector 8:**](cycle1_drn.html#sector-8) At TJD 1531.74, an interruption in communications between the instrument and spacecraft occurred, resulting in the instrument being turned off and a loss of ~3 days of data.
+- [**Sector 7:**](cycle1_drn.html#sector-7) The spacecraft clock kernel has been updated. The estimated accuracy of the TJD values in all products associated with this data release is 50 ms.
+- [**Sector 5:**](cycle1_drn.html#sector-5) The SPOC pipeline 1-D Black correction has been changed to a two-component model from the polynomial fit that had been used prior. The two components include: a time-varying correction and a static row-by- row correction. 
