@@ -1,0 +1,13 @@
+# TESS Program G03131
+
+Title: Asteroseismology Of The First Roap Star: Hd 101065 The Most Peculiar Of The Peculiar Stars
+
+PI: Holdsworth, Daniel - University Of Central Lancashire
+
+Type: SMALL
+
+Summary: HD 101065 is a chemically peculiar star with a strong, global, magnetic field making it a member of the Ap star group. Rapid oscillations were found in HD 101065 by Kurtz (1978), making it the first of the rapidly oscillating Ap (roAp) stars. Extensive ground-based studies have unveiled a rich p-mode pulsation spectrum, however, to date, theoretical models cannot account for the observed oscillations. In this proposal, we request 20-sec TESS data of HD 101065 which will supersede every photometric study of this star. These observations will enable us to fully characterise the pulsation spectrum in a way that was impossible from the ground. These data will provide a key step towards constraining non-adiabatic pulsation models of Ap stars as a whole.
+
+
+# Sector 037 targets observed (2 min: 1, 20 s: 1)
+163587609,174.4039,-46.7095,7.54,G03131;G03252;20SECONDTARGET

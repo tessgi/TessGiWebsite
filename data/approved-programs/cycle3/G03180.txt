@@ -37,3 +37,10 @@ Summary: AM CVns are binaries with 5<P_orb<66 mins in which a white dwarf accret
 
 # Sector 035 targets observed (2 min: 1, 20 s: 0)
 735229757,96.8354,-75.226,20.36,G03180
+
+# Sector 036 targets observed (2 min: 1, 20 s: 0)
+735229757,96.8354,-75.226,20.36,G03180
+
+# Sector 037 targets observed (2 min: 2, 20 s: 1)
+30988774,200.9356,-41.7415,14.23,G03180;G03240;G03071;20SECONDTARGET
+735229757,96.8354,-75.226,20.36,G03180
