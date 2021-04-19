@@ -226,7 +226,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>South</td>
     <td>2021&nbsp;Apr&nbsp;02</td>
     <td>2021&nbsp;Apr&nbsp;28</td>
-    <td></td>
+    <td><a href='data/target_lists/sector037_targets_lists/GI_S037.csv'>Download</a></td>
     <td style="min-width: 12em;">
     </td>
   </tr>
@@ -236,7 +236,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>South</td>
     <td>2021&nbsp;Mar&nbsp;07</td>
     <td>2021&nbsp;Apr&nbsp;02</td>
-    <td></td>
+    <td><a href='data/target_lists/sector036_targets_lists/GI_S036.csv'>Download</a></td>
     <td style="min-width: 12em;">
     </td>
   </tr>
@@ -246,7 +246,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>South</td>
     <td>2021&nbsp;Feb&nbsp;09</td>
     <td>2021&nbsp;Mar&nbsp;06</td>
-    <td></td>
+    <td><a href='data/target_lists/sector035_targets_lists/GI_S035.csv'>Download</a></td>
     <td style="min-width: 12em;">
     </td>
   </tr>
@@ -611,15 +611,90 @@ cadence for each camera and sector.
 
 <div class="row">
     <div class="col-md-6 text-center">
+      <a href="images/sector-plots/sector-plots.037.jpeg">
+        <img id="s037" src="images/sector-plots/sector-plots.037.jpeg" class="img-responsive">
+        Sector 37
+      </a>
+    </div>
+    <div class="col-md-6 text-center">
+      <a href="images/sector-plots/sector-plots.038.jpeg">
+ <!--        <img id="s038" src="images/sector-plots/sector-plots.038.jpeg" class="img-responsive">
+        Sector 38 -->
+      </a>
+    </div>
+</div>
+<br>
+<div class="row">
+    <div class="col-md-6 text-center">
+      <a href="images/sector-plots/sector-plots.035.jpeg">
+        <img id="s035" src="images/sector-plots/sector-plots.035.jpeg" class="img-responsive">
+        Sector 35
+      </a>
+    </div>
+    <div class="col-md-6 text-center">
+      <a href="images/sector-plots/sector-plots.036.jpeg">
+        <img id="s036" src="images/sector-plots/sector-plots.036.jpeg" class="img-responsive">
+        Sector 36
+      </a>
+    </div>
+</div>
+<br>
+<div class="row">
+    <div class="col-md-6 text-center">
+      <a href="images/sector-plots/sector-plots.033.jpeg">
+        <img id="s033" src="images/sector-plots/sector-plots.033.jpeg" class="img-responsive">
+        Sector 33
+      </a>
+    </div>
+    <div class="col-md-6 text-center">
+      <a href="images/sector-plots/sector-plots.034.jpeg">
+        <img id="s034" src="images/sector-plots/sector-plots.034.jpeg" class="img-responsive">
+        Sector 34
+      </a>
+    </div>
+</div>
+<br>
+<div class="row">
+    <div class="col-md-6 text-center">
+      <a href="images/sector-plots/sector-plots.031.jpeg">
+        <img id="s031" src="images/sector-plots/sector-plots.031.jpeg" class="img-responsive">
+        Sector 31
+      </a>
+    </div>
+    <div class="col-md-6 text-center">
+      <a href="images/sector-plots/sector-plots.032.jpeg">
+        <img id="s032" src="images/sector-plots/sector-plots.032.jpeg" class="img-responsive">
+        Sector 32
+      </a>
+    </div>
+</div>
+<br>
+<div class="row">
+    <div class="col-md-6 text-center">
+      <a href="images/sector-plots/sector-plots.029.jpeg">
+        <img id="s029" src="images/sector-plots/sector-plots.029.jpeg" class="img-responsive">
+        Sector 29
+      </a>
+    </div>
+    <div class="col-md-6 text-center">
+      <a href="images/sector-plots/sector-plots.030.jpeg">
+        <img id="s030" src="images/sector-plots/sector-plots.030.jpeg" class="img-responsive">
+        Sector 30
+      </a>
+    </div>
+</div>
+<br>
+<div class="row">
+    <div class="col-md-6 text-center">
       <a href="images/sector-plots/sector-plots.027.jpeg">
         <img id="s027" src="images/sector-plots/sector-plots.027.jpeg" class="img-responsive">
         Sector 27
       </a>
     </div>
     <div class="col-md-6 text-center">
-      <a href="images/sector-plots/sector-plots.026.jpeg">
-<!--         <img id="s026" src="images/sector-plots/sector-plots.026.jpeg" class="img-responsive">
-        Sector 26 -->
+      <a href="images/sector-plots/sector-plots.028.jpeg">
+        <img id="s028" src="images/sector-plots/sector-plots.028.jpeg" class="img-responsive">
+        Sector 28
       </a>
     </div>
 </div>

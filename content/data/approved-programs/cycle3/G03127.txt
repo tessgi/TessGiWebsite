@@ -35,3 +35,11 @@ Summary: Thermonuclear bursts on the surfaces of neutron stars are excellent pro
 
 # Sector 035 targets observed (2 min: 1, 20 s: 1)
 300863975,117.1243,-67.7569,18.22,G03127;20SECONDTARGET
+
+# Sector 036 targets observed (2 min: 1, 20 s: 1)
+300863975,117.1243,-67.7569,18.22,G03127;20SECONDTARGET
+
+# Sector 037 targets observed (2 min: 3, 20 s: 3)
+983240328,192.4139,-59.0874,20.86,G03127;20SECONDTARGET
+386845446,140.1103,-55.2068,16.56,G03127;20SECONDTARGET
+300863975,117.1243,-67.7569,18.22,G03127;20SECONDTARGET
