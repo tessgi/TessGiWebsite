@@ -1,0 +1,10 @@
+# TESS Program G04189
+
+Title: Vetting And Ranking TESS Cycle 4 Tces Using A Novel And Accurate Deep Neural Network
+
+PI: Valizadegan, Hamed - NASA/Arc
+
+Type: SMALL
+
+Summary: TESS Cycle 4 observations will produce extensive datasets that will result in thousands of additional candidate exoplanet transit signals from which we can expect hundreds of new planet candidates. The established method to vet these signals are based on a semi-manual vetting process that starts with a Robovetter triage code and follows with a more accurate manual vetting. Instead, we propose to use an accurate, reliable, and explainable deep neural network (DNN) designed by mimicking how human vetters utilize all unique elements of a data validation report in order to identify different types of false positives before vetting a TCE. Our model also provides an accurate disposition score so that the domain scientists can focus on the most likely planet candidates for follow up study.
+

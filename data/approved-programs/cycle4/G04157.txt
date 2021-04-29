@@ -1,0 +1,10 @@
+# TESS Program G04157
+
+Title: Using Eclipsing Binaries To Dramatically Improve The M-Dwarf Mass-Radius-Metallicity-Temperature Relation
+
+PI: Martin, David - Ohio State University
+
+Type: SMALL
+
+Summary: M-dwarfs are enticing targets for small transiting planets in the habitable zone. TESS will find hundreds, some bright enough for atmospheric probing by JWST. However, the field is frustrated by poor constraints on the host M-dwarfs. We aim to solve this with 161 eclipsing binaries comprised of F/G + M stars, all with 11+ years of spectroscopy to unveil masses and metallicities. We now require TESS short cadence light curves to obtain primary and secondary eclipses, and hence measure the radius and temperature. We request 2-minute observations and funding such that we can develop the most comprehensive sample of M-dwarfs known, significantly refine the empirical mass-radius-metallicity-temperature relation, assisting both exoplanet hunters and stellar modellers
+

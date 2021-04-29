@@ -1,0 +1,10 @@
+# TESS Program G04208
+
+Title: Using TESS To Study Mass-Transfer-Rate Variations In Magnetic Cataclysmic Variables
+
+PI: Littlefield, Colin - University Of Notre Dame
+
+Type: SMALL
+
+Summary: We propose to observe a large sample of magnetic cataclysmic variable stars (MCVs) to study variations in their rates of mass-transfer. Our target list includes two types of MCVs: polars and intermediate polars. With polars, we will characterize the timescales over which the rate of mass-transfer can either shut off or restart, with the aim of testing theoretical predictions about the cause of this poorly understood phenomenon. With intermediate polars, we will examine how the dynamical nature of the accretion flow onto the white dwarf is impacted by variations in the mass-transfer rate. In-depth observations of these unpredictable phenomena are possible only with continuous, high-cadence observations of a large number of targets, making TESS optimal for this study.
+

@@ -1,0 +1,10 @@
+# TESS Program G04212
+
+Title: Using TESS 20-S Cadence Data To Study Flares On M Dwarfs
+
+PI: Paudel, Rishi - University Of Maryland (Baltimore County)
+
+Type: SMALL
+
+Summary: We propose to use TESS 20-second cadence data to study flares on 61 M dwarfs most of which are known to exhibit high flare rates during TESS Cycle 2 and K2 observations. This is the first time a large and systematic study of the flares on M dwarfs will be performed using higher cadence data. We will use this data to i) build more accurate flare frequency distributions (FFDs) for a wider range of flare energies, ii) study variation of flare rates as a function of spectral types and ages, iii) develop flare model based on more precise rise and decay time scales, iv) develop flare analysis software which will make flare studies more convenient in future, and v) study relations between energies of flares observed on highly active M dwarf (GJ 3631) in optical, UV and X-ray wavelengths.
+

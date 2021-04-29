@@ -1,0 +1,10 @@
+# TESS Program G04140
+
+Title: Characterizing The Resonant Exoplanet System K2-138
+
+PI: Christiansen, Jessie - NASA/Exoplanet Science Institute
+
+Type: MINI
+
+Summary: We propose to observe the benchmark K2-138 system with 2-minute cadence observations to measure transit timing variations. K2-138 is one of a small but extremely valuable set of systems for which the planet masses can be measured with both transit timing variations (TTVs) and precise radial velocity (PRV) measurements; fewer than 10 such systems are currently known. Having simultaneous and complementary TTV and PRV observations leads to tighter constraints on the masses, compositions, and eccentricities [1]. K2-138 represents a promising new laboratory for studying multi-planet dynamics.
+

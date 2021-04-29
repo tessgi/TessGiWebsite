@@ -1,0 +1,10 @@
+# TESS Program G04139
+
+Title: Bridging The Gap Between White-Light And Uv Flares In Low-Mass Stars
+
+PI: Jackman, James - Arizona State University
+
+Type: SMALL
+
+Summary: The intense ultraviolet (UV) emission from stellar flares has given them a pivotal role in the habitability of exoplanets around active M stars. However, current habitability studies often use white-light measurements to predict the UV effects of flares, by assuming the optical blackbody flare spectrum can be extrapolated into the UV. We propose to test the accuracy of these UV predictions by combining white-light flare rates measured from TESS 20 second cadence observations with the observed flare activity in near- and far-UV GALEX lightcurves for a set of M stars. With these combined observations we will confirm whether studies that depend on white-light flare rates can accurately predict the UV flaring behaviour of M stars and thus the UV environments of the planets they host.
+

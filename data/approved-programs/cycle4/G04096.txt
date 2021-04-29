@@ -1,0 +1,10 @@
+# TESS Program G04096
+
+Title: A Systematic Study Of TESS Orbital Phase Curves
+
+PI: Shporer, Avi - Massachusetts Institute Of Technology
+
+Type: SMALL
+
+Summary: TESS light curves show the entire orbital phase curve, including the transit, secondary eclipse, and sinusoidal phase modulations. Those modulations are shaped by star-planet gravitational interaction and by atmospheric processes in the planet s atmosphere. We propose to extend our ongoing long term systematic study of all TESS phase curves to Cycle 4. The combined Cycles 2 + 4 data will result in higher quality phase curves, and will allow to look for variations in phase curve parameters (weather variability). In addition, Cycle 4 ecliptic sectors will provide new phase curves. Our project maximizes TESS s science by extracting all information encoded in the light curves, leading to characterization of a sample of massive planet atmospheres and studying star-planet tidal interaction.
+

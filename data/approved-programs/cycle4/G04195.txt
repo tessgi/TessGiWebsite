@@ -1,0 +1,10 @@
+# TESS Program G04195
+
+Title: Constraining The Periods Of Single-Transit Events In TESS With An Upgraded Robotic And Automated Telescope
+
+PI: Villanueva, Steven - Massachusetts Institute Of Technology
+
+Type: SMALL
+
+Summary: We aim to maximize the TESS mission s yield of long-period exoplanets by upgrading a half-meter telescope to constrain the periods of single transit signals found by TESS. We will identify single transit planet candidates (STPCs) previously identified from Cycle 2 that re-transit in Cycle 4. After calculating the discreet set of possible transit windows, we will use a robotic and automated half-meter telescope to strategically observe the possible transit windows to uniquely determine the periods of dozens of long-period planet candidates. Once the period is uniquely determined, the orbits and masses of these STPCSs will be measured, and these new additions will improve our understanding of the composition, dynamics and formation of long-period planets.
+

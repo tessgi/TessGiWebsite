@@ -1,0 +1,10 @@
+# TESS Program G04182
+
+Title: Radial Velocity Measurements With Harps-N To Uncover The Formation Pathway Of Keystone Planets Around M Dwarfs
+
+PI: Cloutier, Ryan - Harvard-Smithsonian Center For Astrophysics
+
+Type: SMALL
+
+Summary: Small close-in planets come in one of two flavors: rocky super-Earths and enveloped terrestrials with extended H/He envelopes. For M dwarf planetary systems, it remains unclear whether this transition arises from thermally-driven atmospheric mass loss or if it is the natural by-product of rocky planet formation in a gas-poor environment. We propose to identify the formation pathway by gathering precise radial velocity measurements with the HARPS-N spectrograph of five keystone planets located within the radius valley. By deducing whether these planets possess gaseous H/He envelopes, we will uncover the dominant emergence pathway of the radius valley around M dwarfs.
+
