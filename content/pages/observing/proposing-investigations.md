@@ -33,7 +33,7 @@ Important information and useful tools for Cycle 4 proposals are highlighted in 
 
   <tr>
     <td style="width: 15em;">
-     The Cycle 4 proposal deadline is 4.30pm on January 22, 2021 at 4.30pm EST. Proposals are submitted through the <a href="https://heasarc.gsfc.nasa.gov/ark/rps/">ARK/RPS site</a>.</td>
+     The Cycle 4 proposal deadline was 4.30pm on January 22, 2021 at 4.30pm EST and is now closed. Proposals are submitted through the <a href="https://heasarc.gsfc.nasa.gov/ark/rps/">ARK/RPS site</a>.</td>
   </tr>
 
 

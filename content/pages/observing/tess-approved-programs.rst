@@ -15,6 +15,17 @@ of a sector.
 You can click on the title of each program to read a summary
 of the research objectives.
 
+Cycle 4
+=======
+.. raw:: html
+
+    <p>
+    Cycle 4 contains all targets proposed through the Guest Investigator program for the fourth year of the TESS mission. Programs observe sources in the Northern Ecliptic hemisphere and in the Ecliptic Plane.
+    </p>
+
+
+.. include:: approved-programs/cycle4.html
+
 Cycle 3
 =======
 .. raw:: html

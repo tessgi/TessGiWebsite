@@ -1,0 +1,10 @@
+# TESS Program G04176
+
+Title: Monitoring The Jwst Spectrophotometric Standards
+
+PI: Mullally, Susan - Space Telescope Science Institute
+
+Type: MINI
+
+Summary: We propose to obtain TESS 2-minute cadence data to monitor 31 of the James Webb Space Telescope (JWST) spectrophotometric standard stars for variability. These stars are necessary to accurately calibrate the absolute and relative flux JWST receives across its range of infrared wavebands. By monitoring these stars we will look for evidence of brightness variations due to flares, pulsations or stellar spots. Additionally, we will check whether star light is occasionally blocked by planets, other stars, or dust. TESS' all-sky survey has given us the opportunity to easily monitor the photometric stability of standard stars, which will enable the JWST calibrations team to provide the best possible calibrations of the JWST observations.
+

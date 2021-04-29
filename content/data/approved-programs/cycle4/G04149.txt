@@ -1,0 +1,10 @@
+# TESS Program G04149
+
+Title: A Systematic Approach To Quantifying Starspot Contrast With TESS And K2
+
+PI: Gully-Santiago, Michael - University Of Texas At Austin
+
+Type: SMALL
+
+Summary: Starspot-induced rotational modulation produces light curves with fixed period, but with amplitudes that depend on the spot contrast, which itself is wavelengh dependent. We propose a systematic approach to quantify the slope of starspot contrast evaluated between the overlapping Kepler and redder TESS passbands. We will target the large sample of 10^4 to 10^5 spotted stars observed in K2 and to-be-observed in TESS Cycle 4. The approach will deliver constraints on plausible starspot temperature contrast as a function of spectral type and rotation rate. We will use only FFIs which are adequate for measuring amplitudes and periods. The non-contemporaneous nature of K2 and TESS requires a large number of head-to-head sources to average over cosmic variance due to stellar activity cycles.
+

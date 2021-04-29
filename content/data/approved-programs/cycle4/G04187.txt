@@ -1,0 +1,10 @@
+# TESS Program G04187
+
+Title: Using Af Psc To Test Of Flare Energy Partitions With TESS And Swift
+
+PI: Million, Chase - Million Concepts Llc
+
+Type: SMALL
+
+Summary: We propose to observe the active, flaring, mid-M dwarf star AF Psc at 20-second cadence with TESS during Sector 42, combined with simultaneous X-ray and ultraviolet observations at high cadence with Swift. We will attempt to measure the energy partition and temperature evolution of at least one flare simultaneously across several electromagnetic regimes at very high time resolution.
+
