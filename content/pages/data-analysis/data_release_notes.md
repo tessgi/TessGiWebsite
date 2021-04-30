@@ -8,6 +8,15 @@ As the TESS mission has evolved, so has the processing and delivery of its data.
 ##Key updates
 Below we outline some of the most important issues or data product modifications. For more details please see the Sector tables provided below, and the DRNs listed within.
 
+- Reprocessing of Sectors 1-13:
+
+	- Targets from Sectors 1–13 were reprocessed with version 8 of the TESS Input Catalog(TIC), consistent with Sectors 14–36.  TIC 8 is based on Gaia DR2 rather than 2MASS, and includes significantly more stars and improved stellar parameters.  The change inTIC  version  affects  the  apertures  assigned  to  individual  targets,  the  calculations  of crowding and flux fraction reported in the CROWDSAP and FLUXFRAC keywords, and the physical properties of TCEs derived from stellar parameters.
+	- The timestamps for data from Sectors 1-13 have been updated. All data from Sector 1–36 are now reported in a consistent time system. 
+	- New data flags were applied to Sectors 1-13 consistent with those described in <a href="https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_reprocessing-sector_14_19_drn30_v02.pdf">DRN30</a>.These flags are primarily used to mitigate the effects of scattered light. They are applied per target rather than per CCD, and improve the contrending and planet search for the reprocessed data.
+	- All ”Manual Exclude” flags are now set in a consistent way for the reprocessed data, using a pointing  excursion threshold of 7 arcseconds measured from the spacecraft’s fine pointing system.
+	-The planet search of the reprocessed light curves produced a different set of TCEs from the original processed data.  Although there is a high degree of overlap between the original and reprocessed data, new TCEs were produced in DR42 and DR46, and not every TCE from previous data releases was recovered.
+	To differentiate between the initial release and this reprocessed data a "pipeline instance number" is included in the filenames of the dv-timeseries, dv-reports, ad dv-result xml files. A larger the number for the pin means it was recently reprocessed.  The DR number is also included as a keyword in the export product headers (DATAREL).<p></p>
+	
 - [**Sector 32:**](data_release_notes.html#sector-32) Approximately 26 hrs lost due to a star tracker anomaly.<p></p>
 - [**Sector 31:**](data_release_notes.html#sector-31) Approximately 4 days lost due to a star tracker anomaly.<p></p>
 - [**Sector 30:**](data_release_notes.html#sector-30) As of Sector 30, co-trending basis vector (CBV) files only include the first eight principal components for the Single Scale co-trending mode. <p></p>
@@ -649,6 +658,8 @@ Below we provide a brief summary of the DRNs for each Sector in Cycle 3.
 	<p>As usual cosmic rays were mitigated in the 2-minute cadence data and 10-minute FFIs by an algorithm running on the instrument firmware - see DRN pg. 8, for more info. Note however, that in the new 20-second pixel data cosmic rays were identified and removed in the pipeline, and that they can be restored in the pixel data and light curves if necessary.</p>
 	<p>The background correction employed throughout the primary mission was updated for the extended mission. The new method provides improved results for fainter and crowded stars. The correction is applied only to 2-min and 20-sec data. A full explanation of this correction is on pg. 10 of the DRN</p>
         <p>For targets observed in both Year 1 and Year 3, Year 3 processing was done using TIC 8.1 while TIC 7 was used for Year 1 processing; this may result in different results for certain targets. Differences for some crowded and/or dim targets may also result from the background correction algorithm update. Reprocessing of Year 1 data with TIC 8.1 and the latest codebase is underway at the SPOC, as of Fall 2020. </p>
+        <p>The algorithm in the CAL module that propagates uncertainty from the 2D bias model was changed. This uncertainty is a static term and is no longer applied to the pixel data or subsequent processing in the pipeline.</p>
+        <p>The algorithm in the PA module that estimates the sky background was changed.  A scalar offset is now applied that forces the dimmest background-corrected pixels to values near zero, if those pixels were significantly negative.</p>
        </tr>
 
 </table>

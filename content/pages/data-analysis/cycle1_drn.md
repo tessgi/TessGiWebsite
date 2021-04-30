@@ -394,7 +394,7 @@ Below we provide a brief summary of the DRN for each Sector in TESS Cycle 1.
 
        <tr>
        <td colspan="3" >Instrument reset:</td>
-       <td colspan="5" >At TJD 1531.74, an interruption in communications between the instrument and spacecraft occurred, resulting in an instrument turn-off until TJD 1535.00. No data or telemetry were collected during this period.</td>
+       <td colspan="5" >At TJD 1531.74, an interruption in communications between the instrument and spacecraft occurred, resulting in an instrument turn-off until TJD 1535.00. No data or telemetry were collected during this period. After the instrument anomaly the heaters were turned on, increasing the camera temperature by ∼ 20◦ to approximately −67◦ C. Once the camera power was restored, the heaters were turned off and the camera temperatures returned to nominal within three days. The temperature increase caused changes in the camera focal plane scale and mean black levels of individual CCD channels. The mean black levels are calibrated out in the SPOC pipeline. Changes in focal plane temperature cause changes in the raw photometry, but the PDC systematic error-correction algorithm removes this effect for most targets</td>
        </tr>
        
        	<tr>  
@@ -409,12 +409,13 @@ Below we provide a brief summary of the DRN for each Sector in TESS Cycle 1.
 
        <tr>  
        <td colspan="3" >Scattered light:</td>
-       <td colspan="5" >In Sector 8, the main stray light features are caused by the Earth at the start of each orbit, and the Moon in Camera 1 towards the start of orbit 24.</td>
+       <td colspan="5" >In Sector 8, the main stray light features are caused by the Earth at the start of each orbit, and the Moon in Camera 1 towards the start of orbit 24.
+       <p>The algorithm in the CAL module that removes the 1D bias from raw pixel data was changed. The 1D bias estimate is now split into two components, a time-dependent scalar correction and a static row-dependent correction.</p></td>
        </tr>
-
-       <tr>  
-       <td colspan="3" >Thermal effects:</td>
-       <td colspan="5" >Heaters were turned on after the instrument anomaly, increasing the camera temperature by ∼ 20◦ to approximately −67◦ C. Once the camera power was restored, the heaters were turned off and the camera temperatures returned to nominal within three days. The temperature increase caused changes in the camera focal plane scale and mean black levels of individual CCD channels. The mean black levels are calibrated out in the SPOC pipeline. Changes in focal plane temperature cause changes in the raw photometry, but the PDC systematic error-correction algorithm removes this effect for most targets.</td>
+       
+        <tr>
+       <td colspan="3"><b>Big Updates!</b></td>
+       <td colspan="5">The instrument PRF model was updated. The updated PRF model corresponds to improved performance in the spacecraft’s Attitude ControlSystem  starting in Sector 4. Note that Sectors 1–3 were also reprocessed with this model.</td>
        </tr>
 
 </table>
@@ -475,7 +476,7 @@ Below we provide a brief summary of the DRN for each Sector in TESS Cycle 1.
 
        <tr>
        <td colspan="3">Back level residuals:</td>
-       <td colspan="5">Some channels show a small non-zero residual in the mean black level after calibration that is either static (e.g., camera 3, CCD 2, output D) or slowly time varying (e.g., camera 4, CCD 1, all outputs and camera 4, CCD 3, all outputs). The level of these residuals is ∼ 1 ADU/read and the timescale of variation is of order 5–10 days. The impact of these residuals on scientific output is likely negligible. However, the Sector 7 data were calibrated using the updated 1-D black method, from which we do not expect such time-varying residuals.</td>
+       <td colspan="5">Some channels show a small non-zero residual in the mean black level after calibration that is either static (e.g., camera 3, CCD 2, output D) or slowly time varying (e.g., camera 4, CCD 1, all outputs and camera 4, CCD 3, all outputs). The level of these residuals is minor i.e., ∼ 1e<sup>-3</sup> ADU/read and the timescale of variation is of order 5–10 days. These residuals are thought to be caused by the jitter of bright stars on the specific CCD slices, and therefore it is a persistent effect in the rest of the sectors. The impact of these residuals on scientific output is likely negligible. However, the Sector 7 data were calibrated using the updated 1-D black method, from which we do not expect such time-varying residuals.</td>
        </tr>
        
         <tr>
@@ -544,16 +545,6 @@ Below we provide a brief summary of the DRN for each Sector in TESS Cycle 1.
        <tr>
        <td colspan="3">Scattered light:</td>
        <td colspan="5">In Sector 6, the main stray light features are caused by the Earth rising above the sunshade at the end of orbit 19, which continues through the start of orbit 20.</td>
-       </tr>
-
-       <tr>
-       <td colspan="3">Black flutter:</td>
-       <td colspan="5">Flutter in the mean black level was observed in three cameras during Sector 6: camera 2, CCD 2, all outputs, cadences 173550 to 173870 and cadences 181750 to 183250; camera 3, CCD 2, outputs B, C and D, cadences 183000 to 183900; and camera 4, CCD 2, output D, cadences 176340 to 177120. The 1D black model helps to remove this and as such the impact is minimal.</td>
-       </tr>
-       
-           <tr>
-       <td colspan="3">Popcorn noise:</td>
-       <td colspan="5">Popcorn noise in the mean black level was observed in three cameras during Sector 6: camera 1, CCD 3, output C, throughout the first orbit and output A, cadences 176450 to 179687 and cadences 185700 to 186150; camera 3, CCD 1, output B, intermittently through both orbits; and camera 4, CCD 3, output D, intermittently through both orbits. The 1D black model helps to remove this and as such the impact is minimal.</td>
        </tr>
        
         <tr>
@@ -627,16 +618,6 @@ Below we provide a brief summary of the DRN for each Sector in TESS Cycle 1.
        <td colspan="5">In Sector 5, the main stray light features are caused by the Earth rising above the sunshade at the end of each orbit, and strong glints appear during these times. The Earth moves quite close to the boresight of Camera 1 at the end of orbit 18.</td>
        </tr>
        
-       <tr>
-       <td colspan="3">Black flutter:</td>
-       <td colspan="5">Flutter in the mean black level was observed in two cameras during Sector 5: camera 2, CCD 2, all outputs, cadences 152300–153000 and 162000–163000; and camera 4, CCD 2, output D, cadences 155450–156660.</td>
-       </tr>
-
-       <tr>
-       <td colspan="3">Popcorn noise:</td>
-       <td colspan="5">The mean black level was observed in three cameras during Sector 5: camera 1, CCD 3, output C, cadences 155190–157700; camera 3, CCD 1, output B, through- out the sector; and camera 4, CCD 1, output A, throughout the sector.</td>
-       </tr>
-       
                <tr>
        <td colspan="3">TJD Calculation</td>
        <td colspan="5">The clock kernel used to calculate TJD in Sector 5 used ranging data collected only through late August, 2018; as a result, the extrapolation to Sector 5 times is slightly off. The error between true and calculated times grew linearly with time since August 2018, so that the calculated TJD values in all data products are offset from the correct values by ∼1.7 seconds at the end of orbit 18 (2018-12-11 UTC). See pg. 7 of the DRN for more information.</td>
@@ -644,7 +625,9 @@ Below we provide a brief summary of the DRN for each Sector in TESS Cycle 1.
 
         <tr>
        <td colspan="3"><b>Big Updates!</b></td>
-       <td colspan="5">Starting with Sector 5 processing, the SPOC pipeline 1-D Black correction has been changed to a two-component model from the polynomial fit that had been used prior. The two components include: a time-varying correction and a static row-by- row correction. To learn more about this see pg. 8 and 9 of the DRN.</td>
+       <td colspan="5">Starting with Sector 5 processing, the SPOC pipeline 1-D Black correction has been changed to a two-component model from the polynomial fit that had been used prior. The two components include: a time-varying correction and a static row-by- row correction. To learn more about this see pg. 8 and 9 of the DRN.<p></p>
+       The parameters to calibrate PDC goodness metrics were finalized in the PDC module.
+       </td>
        </tr>
 
 </table>
@@ -707,7 +690,7 @@ Below we provide a brief summary of the DRN for each Sector in TESS Cycle 1.
 
  <tr>  
        <td colspan="3">Instrument reset:</td>
-       <td colspan="5">At TJD 1418.54, an interruption in communications between the instrument and space- craft occurred, resulting in an instrument turn-off until TJD 1421.21. No data or telemetry were collected during this period.</td>   
+       <td colspan="5">At TJD 1418.54, an interruption in communications between the instrument and space- craft occurred, resulting in an instrument turn-off until TJD 1421.21. No data or telemetry were collected during this period. After the instrument anomaly the heaters were turned on , increasing the camera temperature by ∼ 20◦ to approximately −67◦ C. Once the camera power was restored, the heaters were turned off and the camera temperatures returned to nominal within three days. The temperature increase caused changes in the camera focal plane scale and mean black levels of individual CCD channels.  The mean black levels are calibrated out in the SPOC pipeline.</td>   
        </tr>
 
        <tr>  
@@ -718,16 +701,6 @@ Below we provide a brief summary of the DRN for each Sector in TESS Cycle 1.
        <tr>
        <td colspan="3">Scattered light:</td>
        <td colspan="5">In Sector 4, the main stray light feature are caused by the Earth rising above the sunshade at the end of each orbit. The Earth reaches a minimum of 35 degrees from the center of Camera 1, and strong glints appear between TJD 1422.2297 and 1423.5020 (orbit 15) and between TJD 1436.1047 and 1436.8353 (orbit 16).</td>
-       </tr>
-       
-             <tr>
-       <td colspan="3">Thermal effects:</td>
-       <td colspan="5">Heaters were turned on after the instrument anomaly, increasing the camera temperature by ∼ 20◦ to approximately −67◦ C. Once the camera power was restored, the heaters were turned off and the camera temperatures returned to nominal within three days. The temperature increase caused changes in the camera focal plane scale and mean black levels of individual CCD channels.  The mean black levels are calibrated out in the SPOC pipeline.</td>
-       </tr>
-
-      <tr>
-       <td colspan="3">Black flutter:</td>
-       <td colspan="5">Flutter in the mean black level was observed in Camera 1, CCD 2, cadences 142600 to 142790 and Camera 4, CCD 2, cadences 142510 to 142580.</td>
        </tr>
 
        <tr>
@@ -797,10 +770,6 @@ Below we provide a brief summary of the DRN for each Sector in TESS Cycle 1.
        <td colspan="5">In Sector 3, the main stray light feature is caused by the Earth rising above the sunshade near the end of each orbit, resulting in an enhancement of the stray light over parts of each camera’s FOV.</td>
        </tr>
 
-      <tr>
-       <td colspan="3">Black flutter:</td>
-       <td colspan="5">During science observations, flutter in the mean black level was observed in Camera 1, CCD 1 and CCD 2, cadences 123900 to 129015, and Camera 4, CCD 2, cadences 121615 to 129465. The same effect was also seen in Camera 2, CCD 1 and CCD 2 during early periods of ACS testing.</td>
-       </tr>
        
               <tr>
        <td colspan="3">Timing precision and accuracy:</td>
@@ -864,11 +833,14 @@ Below we provide a brief summary of the DRN for each Sector in TESS Cycle 1.
        The upturns at the end of each orbit are caused by the Earth rising above the sunshade, which reaches a minimum of ∼50 degrees from the center of Camera 1. The Earth’s daily rotation is evident in the background level.<p></p>
        The lower level rise in the first orbit of Camera 1 (days 4–9) is caused by the Moon moving within 30 degrees of the camera boresight.</td>
        </tr>
-
-      <tr>
-       <td colspan="3">Black flutter:</td>
-       <td colspan="5">Flutter in the mean black level was observed in Camera 1, CCD 2, cadences 92650 to 93300 and cadences 109600 to 110922. The same effect was seen in Camera 4, CCD 2, cadences 103070 to 105750. </td>
+       
+       <tr>
+       <td colspan="3"><b>Big Updates!</b></td>
+       <td colspan="5">The instrument electronics model Reference Flux has been updated.<p></p>
+       <p>The first two overclock rows were removed from the calculation of the 1D bias correction in the CAL module</p></td>
        </tr>
+
+
 
 </table>
 </div>

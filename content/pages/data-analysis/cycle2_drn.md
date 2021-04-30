@@ -914,14 +914,15 @@ Below we provide a brief summary of the DRN for each Sector in TESS Cycle 2.
        <td colspan="5">In Sector 14, the Earth is above the sunshade for almost the entire sector, and the backgrounds are somewhat higher for longer periods of time than in other sectors. The 24 hour rotation period of the Earth and several harmonics thereof are also visible as oscillations in the background for most of both orbits. Finally, the Earth passes close to Camera 1 towards the last quarter of each orbit and saturates the detectors—these times were excluded with CCD-specific “Scattered Light” flags.</td>
        </tr>
        
-       
        <tr>
        <td colspan="3"><b>Big Updates!<b></td>
        <td colspan="5">Sector 14 is the first northern ecliptic hemisphere pointing.<p></p>
-       This is first sector to make use of TIC 8, which is based on Gaia DR2 astrometry and photometry, and uses Gaia DR2 parallaxes to inform stellar parameters details are provided by [Stassun et al (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....158..138S/abstract) and the [TIC release notes](https://outerspace.stsci.edu/display/TESS/TIC+v8+and+CTL+v8.xx+Data+Release+Notes).<p></p>
+       This is first sector to make use of TIC 8, which is based on Gaia DR2 astrometry and photometry, and uses Gaia DR2 parallaxes to inform stellar parameters details are provided by <a href="https://ui.adsabs.harvard.edu/abs/2019AJ....158..138S/abstract">Stassun et al (2019)</a> and the <a href="https://outerspace.stsci.edu/display/TESS/TIC+v8+and+CTL+v8.xx+Data+Release+Notes">TIC release notes</a>.<p></p>
        The spacecraft is pointed to a higher ecliptic latitude (+85 degrees rather than +54 degrees) to mitigate issues with scattered light in Camera 1 and Camera 2.<p></p>
        Sector 14 processing is the first to make use of an updated SPOC data processing pipeline, SPOC Release 4.0 <p></p>
-       It is the first to make use of CCD-specific Data Anomaly Flags that mark cadences excluded due to high levels of scattered light. The flags are referred to as “Scattered Light” flags and marked with bit 13, value 4096 - see section 2 of the DRN.<p></p></td>
+       It is the first to make use of CCD-specific Data Anomaly Flags that mark cadences excluded due to high levels of scattered light. The flags are referred to as “Scattered Light” flags and marked with bit 13, value 4096 - see section 2 of the DRN.<p></p>
+       The algorithm in the TPS module for searching for transiting planets was changed.  An initial run of TPS is now used to identify problematic epochs that are assigned ”deemphasis weights” in the final run of TPS.<p></p>
+       </td>
        </tr>
 
 </table>
