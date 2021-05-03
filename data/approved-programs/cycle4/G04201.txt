@@ -1,0 +1,10 @@
+# TESS Program G04201
+
+Title: T-Tde: The TESS Tidal Disruption Experiment
+
+PI: Holoien, Thomas - Carnegie Institution Of Washington
+
+Type: SMALL
+
+Summary: We propose to use the unique capabilities of TESS to characterize at least 1-2 TDEs and 20+ TDE host galaxies in Cycle 4. Pre-peak TESS observations of TDEs will allow us to measure precise rise times and constrain the properties of the disrupted star and the black hole, while data after peak light will be used to search for changes in the accretion flow and constrain the decay time. We will also use pre- and post-flare TESS light curves of TDE hosts to search for AGN activity and examine the effects TDEs can have on their environments. We request 25ks of Swift observations to be triggered on a TDE candidate being observed by TESS, providing blackbody temperatures and luminosities concurrent with the TESS observations.
+

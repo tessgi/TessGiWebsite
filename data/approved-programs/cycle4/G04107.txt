@@ -1,0 +1,10 @@
+# TESS Program G04107
+
+Title: High Confidence TESS Vetting Via Difference Images
+
+PI: Bryson, Steve - NASA/Arc
+
+Type: SMALL
+
+Summary: We propose to identify background binary false positives via automated pixel-level analysis of postage stamp and/or FFI data. Observed difference images, created by subtracting average in-transit pixels from out-of-transit pixels, will be compared with modeled difference images that assume the transit is on the target or nearby stars accounting for the measured noise in the observed difference image. Bayesian inference will be used to assign a relative likelihood to the star most likely to host the transit event. Identifying these false positives from TESS data will save significant followup cost. Because our method is automated it can be used to create large, uniformly vetted exoplanet catalogs with well characterized reliability.
+

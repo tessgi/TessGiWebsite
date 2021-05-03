@@ -1,0 +1,10 @@
+# TESS Program G04057
+
+Title: Rotation And Multiplicity Among Hyades M Dwarfs
+
+PI: Gaidos, Eric - University Of Hawaii (Manoa)
+
+Type: SMALL
+
+Summary: The nearby 650 Myr-old Hyades cluster is an important benchmark for establishing the rotational evolution of cool stars, including M dwarfs. We will analyze TESS observations of the cluster's core, halo and tidal tail through Cycle 4 to determine rotation periods of its M dwarfs, and use Gaia and ground-based observations to determine their multiplicity. We will examine the dependence of rotation period on binary separation and mass ratio, and use our single-star rotation sequence to test models of M dwarf rotational evolution and calibrate a gyrochronology. Accurate ages for M dwarfs would allow measurements of their planets to be temporally ordered and would refine the timescale for the early phase of elevated X-ray/UV emission and flaring that drives escape of planetary atmospheres.
+

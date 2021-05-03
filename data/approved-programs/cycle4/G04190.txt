@@ -1,0 +1,10 @@
+# TESS Program G04190
+
+Title: Hunting For Black Holes With TESS
+
+PI: Daylan, Tansu - Massachusetts Institute Of Technology
+
+Type: SMALL
+
+Summary: A large number of non-interacting black holes are expected to exist close to the solar system that have so far been evaded detection in X-rays. We propose to perform a focused search for the gravitational self-lensing signature using TESS Cycle 4 data in order to make the first discovery of a detached compact object with a stellar companion or, in the absence of a detection, distinguish common envelope formation from field binaries. Detection of these objects will enable studies of their population characteristics and merger histories, complementing studies via gravitational waves. We plan to perform a computationally efficient, GPU-accelerated, compherensive search for black holes binaries in the TESS FFIs down to the 15th magnitude to determine the occurrence rate of these objects.
+

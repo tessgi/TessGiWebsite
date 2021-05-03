@@ -1,0 +1,10 @@
+# TESS Program G04240
+
+Title: Planets And Stellar Activity Through Time: Understanding The Evolution, Diversity And Habitability Of Planetary Systems
+
+PI: Gillen, Edward - Queen Mary University Of London
+
+Type: SMALL
+
+Summary: We propose to obtain 2-minute cadence observations of over 4000 young stars located in 25 nearby associations and open clusters with ages spanning 1 Myr - 3 Gyr. Young planets detected in these groups can constrain key processes that drive the early evolution of planetary systems and inform our understanding of various trends observed in the older exoplanet population. Stellar activity plays an important role in this evolution, especially at young ages. We will search for young transiting planets and characterise the early evolution of stellar flare activity to inform our understanding of early planetary system evolution and subsequent (potential) habitability.
+

@@ -1,0 +1,10 @@
+# TESS Program G04137
+
+Title: High-Speed Observations Of White Dwarfs In TESS Cycle 4
+
+PI: Hermes, James - Boston University
+
+Type: SMALL
+
+Summary: We propose a mix of ultrafast (20-second-) and fast (2-min-cadence) observations of more than 5200 known or candidate white dwarfs visible in Cycle 4 of the TESS mission. Our proposed 20-second observations will enable asteroseismology of a large sample of known and high-likelihood pulsating white dwarfs, continuing the space-based revolution into the interiors of pulsating white dwarfs. We will also search these white dwarfs for transits of other stars or even remnant planetary systems with at least 2-min-cadence observations; transits of Earth-sized white dwarfs are likely to be very deep but also very short, just a few minutes, requiring high-speed observations.
+

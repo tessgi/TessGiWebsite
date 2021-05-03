@@ -1,0 +1,10 @@
+# TESS Program G04005
+
+Title: A Uniform Survey Of TESS's M Dwarf Planets With Maroon-X
+
+PI: Bean, Jacob - University Of Chicago
+
+Type: LARGE
+
+Summary: We propose to use the new MAROON-X radial velocity spectrograph on the Gemini-N telescope to perform a uniform survey of transiting planet candidates orbiting M dwarfs that were identified in TESS's prime mission. MAROON-X has demonstrated sub-50 cm/s radial velocity precision on M dwarfs and it has delivered ultra-precise mass and orbit measurements of two nearby rocky planets during its first year of operations. Over the next year we aim to use this world-leading capability to complete the follow-up of a further 14 M dwarf planets. We will measure precise masses and orbits of these planets to determine the bulk compositions and orbital eccentricities of the individual objects, and the overall mass-radius relationship and the mass function for M dwarf planets.
+

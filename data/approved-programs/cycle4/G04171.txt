@@ -1,0 +1,10 @@
+# TESS Program G04171
+
+Title: Seeing Double: An Extensive Study Of TESS Eclipsing Binaries
+
+PI: Prsa, Andrej - Villanova University
+
+Type: LARGE
+
+Summary: Eclipsing binary stars (EBs) serve as fundamental astrophysical laboratories for studying thermodynamical properties of stars and their interactions. TESS is providing us with an unprecedented all-sky photometric sample of bright EBs. By continued observing of ~2200 EBs in Sectors 40-55 with the 2-min cadence, we will acquire a long temporal baseline of observations that allow us to study some of the most pressing questions in binary star physics: what drives multiplicity rates, what determines mass ratio distributions, and what is the impact of binarity on stellar evolution. We also propose using the 2-min cadence targets as a training set for the classifying neural network to harvest ~1 million EB lightcurves from Full Frame Image (FFI) data and disseminate them to the public.
+
