@@ -1,0 +1,10 @@
+# TESS Program G04112
+
+Title: Searching For The Missing Frequencies In Roap Stars
+
+PI: Cunha, Margarida - Instituto De Astrofisica E Ciencias Do Espaco
+
+Type: MINI
+
+Summary: The rapidly oscillating Ap (roAp) stars are rare objects. Nevertheless, they are of unique scientific importance to understand the interplay between stellar magnetic fields and key physical processes, including convection and chemical element segregation. Depending on this interaction, theory predicts that the pulsations may be excited up to frequencies greater than the 2-min cadence Nyquist frequency. Here, we propose to use the 20-sec cadence TESS capability to observe all 31 roAp stars and 6 strong roAp star candidates in the TESS field of view during cycle 4, to establish the true range of excited frequencies in this class of pulsator. This will be key to test the excitation mechanism and for improving our understanding of the impact of the magnetic field on near-surface convection.
+

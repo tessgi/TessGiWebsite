@@ -1,0 +1,10 @@
+# TESS Program G04076
+
+Title: Internal Mixing Of Early Type Stars In Ob Associations Unraveled By TESS, Gaia, And Spectroscopic Data
+
+PI: Pedersen, May - University Of California (Santa Barbara)
+
+Type: SMALL
+
+Summary: Stars of spectral type O and B are known as the chemical factories of the Universe and largely guide its chemical evolution. However, major shortcomings prevail in their stellar structure and evolution theory arising from the lack of observationally calibrated internal mixing profiles. Ensemble asteroseismology of early type stars in OB associations recently found by Gaia and observed by the TESS space telescope provides exciting new opportunities to study stellar interiors. Having the precise spectroscopic parameters are crucial for the asteroseismic modeling of these stars, while measurements of the surface abundances provide important constraints on their internal mixing.
+
