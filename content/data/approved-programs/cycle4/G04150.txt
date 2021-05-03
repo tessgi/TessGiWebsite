@@ -1,0 +1,10 @@
+# TESS Program G04150
+
+Title: Search For Outbursts In Be Stars Of The Northern Ecliptic Hemisphere
+
+PI: Emilio, Marcelo - Universidade Estadual De Ponta Grossa
+
+Type: MINI
+
+Summary: We propose the search for and characterization of discrete mass-loss events (outbursts) in northern Be stars (initiated in TESS Cycle 2) as well as in Be stars observed during the Kepler/K2 mission. Rapid rotation alone cannot explain the ejection episodes, and non-radial pulsations (NRP) have been proposed as an explanation. Our goal is to verify the correlation between the NRP regime and the feeding of the envelope by combining ground-based spectroscopy data to identify outbursts and the measurement of small changes in pulsation frequencies with TESS 2-min cadence observations. Fourier analysis of photometric data is performed using a methodology developed for CoRoT and K2 Be stars.
+

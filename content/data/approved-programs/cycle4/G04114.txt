@@ -1,0 +1,10 @@
+# TESS Program G04114
+
+Title: Towards Other Earths: Characterising Star-Planet Architectures And Stellar Variability
+
+PI: Doyle, Lauren - University Of Warwick
+
+Type: MINI
+
+Summary: The search for life on other planets and an Earth 2.0 has become a prominent area of research in recent years. Exoplanets with both photometric and spectroscopic observations are highly prized, as their combined measurements provide details on planetary compositions and the overall nature of the systems. In this proposal, we ask for 2-min cadence for the KELT-24b and HD 332231b systems. We will combine this with simultaneous spectroscopic observations from the world s leading facilities. Our goal is to determine star-planet alignments and characterise stellar surface magnetic variability. The former is important to validate planet evolution theories, and the latter is imperative to help push the Doppler confirmation of exoplanets towards rocky, temperate worlds.
+

@@ -1,0 +1,10 @@
+# TESS Program G04231
+
+Title: Expanding The TESS Mission S Legacy Of Long-Period Planets
+
+PI: Dragomir, Diana - University Of New Mexico
+
+Type: SMALL
+
+Summary: We propose to complement TESS core science by adding hundreds of new long-period planets and candidates. We will search Cycle 4 for additional transits of single-transit planet candidates (STPCs) found in Cycle 2 and in K2. We aim to significantly increase the current sample of warm and cold giant exoplanets, and to generate a sample of the coldest M dwarf planets. We will also identify new STPCs in Cycle 4. These candidates will be released to the community to allow efficient follow-up. This program will provide giant planets that will be amenable to follow-up studies, enabling constraints on the composition and formation of long-period exoplanets. As added value, this program will allow us to update the occurrence rates of long-period giant exoplanets.
+

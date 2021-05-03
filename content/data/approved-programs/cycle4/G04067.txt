@@ -1,0 +1,10 @@
+# TESS Program G04067
+
+Title: Pulsation And Disks Of Be Stars As Tracers Of Stellar Structure, Evolution, Pulsation-Driven Mass Loss, And Disk Physics
+
+PI: Wisniewski, John - University Of Oklahoma
+
+Type: SMALL
+
+Summary: Be stars are near-critically rotating non-radially pulsating B-type stars that mechanically eject mass and form orbiting viscous 'decretion' disks. As such, they are valuable astrophysical laboratories for a variety of processes. We are using TESS data to quantify their complex variability, especially in regards to pulsation-driven mass ejection and the dynamics of circumstellar material. A ground-based time-series spectroscopic campaign contemporaneous with TESS observations is being pursued for ~150 Be stars. From spectra, the (changing) density, velocity, and temperature structure of circumstellar matter can be inferred. This information, when combined with TESS photometry, reveals the nature of the physical processes acting in Be stars and their disks upon careful analysis.
+

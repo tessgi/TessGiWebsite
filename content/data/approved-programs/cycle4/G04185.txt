@@ -1,0 +1,10 @@
+# TESS Program G04185
+
+Title: High-Value Young Binaries With TESS
+
+PI: Jensen, Eric - Swarthmore College
+
+Type: MINI
+
+Summary: Pre-main-sequence binary stars provide opportunities to test our understanding of stellar astrophysics by confronting models with observations. Young eclipsing binaries allow precise measurements of stellar masses and radii, providing stringent tests of pre-main-sequence evolutionary models. Short-period young binaries that are accreting from circumbinary protoplanetary disks allow tests of our understanding of disk accretion and angular momentum exchange. Both types of systems are relatively rare but have clear photometric signatures, making TESS ideally suited for their discovery, especially when combined with existing ground-based surveys that have pre-selected young binary stars. We propose a search for examples of these high-value targets using TESS two-minute-cadence lightcurves.
+

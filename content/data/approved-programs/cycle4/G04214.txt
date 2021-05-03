@@ -1,0 +1,10 @@
+# TESS Program G04214
+
+Title: The Physical Origin Of The Rocky/Enveloped Transition Around Mid-To-Late M Dwarfs
+
+PI: Cloutier, Ryan - Harvard-Smithsonian Center For Astrophysics
+
+Type: LARGE
+
+Summary: Studies of small close-in planets have revealed a gap in the radius distribution whose central location shifts to smaller sizes with decreasing stellar mass. Thermally-driven mass loss and gas-poor formation models can explain the existence of the radius valley but make distinct predictions regarding its location versus stellar mass. Because these model discrepancies are greatest around the lowest mass stars, we propose to target a uniform sample of mid-to-late M dwarfs in the TESS extended mission to resolve the central radius of the valley. The comparison of these measurements to the valley around Sun-like stars will enable the distinction between the competing physical models and will establish what physics drives the sculpting of the close-in planet population around M dwarfs.
+

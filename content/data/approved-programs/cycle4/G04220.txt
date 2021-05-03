@@ -1,0 +1,10 @@
+# TESS Program G04220
+
+Title: Anchoring The Age Scale With Asteroseismic Binaries
+
+PI: Van Saders, Jennifer - University Of Hawaii (Manoa)
+
+Type: SMALL
+
+Summary: We propose to observe nearby, coeval, wide binary systems as fundamental astrophysical calibrators for period-age relations for low-mass (< 0.8 Msun) main sequence stars. We target systems where solar-like oscillations should be detectable in TESS in the F/G primary star, enabling a precise asteroseismic age determination (10-20%), and where the secondary star is of K or M spectral type. 68 such binary systems meet these criteria and are visible in Cycle 4, roughly doubling the sample of asteroseismic age calibrators for period-age relations, and providing the first large sample of seismic calibrators for low-mass stars.
+
