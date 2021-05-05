@@ -3,24 +3,28 @@ Save_as: data_release_notes.html
 
 [TOC]
 
-As the TESS mission has evolved, so has the processing and delivery of its data. Whilst a [data release note (DRN)](https://archive.stsci.edu/tess/tess_drn.html) is provided for every sector of the mission, this page hi-lights important changes that might affect you, the user, and your handling/understanding of the data.
+As the TESS mission has evolved, so has the processing and delivery of its data. Whilst a [data release note (DRN)](https://archive.stsci.edu/tess/tess_drn.html) is provided for every sector of the mission, this page highlights important changes that might affect you, the user, and your handling/understanding of the data.
 
 ##Key updates
 Below we outline some of the most important issues or data product modifications. For more details please see the Sector tables provided below, and the DRNs listed within.
 
 - Reprocessing of Sectors 1-13:
 
-	- Targets from Sectors 1–13 were reprocessed with version 8 of the TESS Input Catalog(TIC), consistent with Sectors 14–36.  TIC 8 is based on Gaia DR2 rather than 2MASS, and includes significantly more stars and improved stellar parameters.  The change inTIC  version  affects  the  apertures  assigned  to  individual  targets,  the  calculations  of crowding and flux fraction reported in the CROWDSAP and FLUXFRAC keywords, and the physical properties of TCEs derived from stellar parameters.
+  	- In Sector 2 the instrument electronics model Reference Flux was been updated.The first two overclock rows were also removed from the calculation of the 1D bias correction in the CAL module.
+	- In Sector 8 the instrument PRF model was updated. The updated PRF model corresponds to improved performance in the spacecraft’s Attitude ControlSystem  starting in Sector 4. Note that Sectors 1–3 were also reprocessed with this model.
+	- In Sector 5 the parameters to calibrate PDC goodness metrics were finalized in the PDC module.
+	- Targets from Sectors 1–13 were reprocessed with version 8 of the TESS Input Catalog(TIC), consistent with Sectors 14–36. TIC 8 is based on Gaia DR2 rather than 2MASS, and includes significantly more stars and improved stellar parameters.  The change in TIC  version  affects  the  apertures  assigned  to  individual  targets,  the  calculations  of crowding and flux fraction reported in the CROWDSAP and FLUXFRAC keywords, and the physical properties of TCEs derived from stellar parameters.
 	- The timestamps for data from Sectors 1-13 have been updated. All data from Sector 1–36 are now reported in a consistent time system. 
 	- New data flags were applied to Sectors 1-13 consistent with those described in <a href="https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_reprocessing-sector_14_19_drn30_v02.pdf">DRN30</a>.These flags are primarily used to mitigate the effects of scattered light. They are applied per target rather than per CCD, and improve the contrending and planet search for the reprocessed data.
 	- All ”Manual Exclude” flags are now set in a consistent way for the reprocessed data, using a pointing  excursion threshold of 7 arcseconds measured from the spacecraft’s fine pointing system.
-	-The planet search of the reprocessed light curves produced a different set of TCEs from the original processed data.  Although there is a high degree of overlap between the original and reprocessed data, new TCEs were produced in DR42 and DR46, and not every TCE from previous data releases was recovered.
-	To differentiate between the initial release and this reprocessed data a "pipeline instance number" is included in the filenames of the dv-timeseries, dv-reports, ad dv-result xml files. A larger the number for the pin means it was recently reprocessed.  The DR number is also included as a keyword in the export product headers (DATAREL).<p></p>
+	- The planet search of the reprocessed light curves produced a different set of TCEs from the original processed data.  Although there is a high degree of overlap between the original and reprocessed data, new TCEs were produced in DR42 and DR46, and not every TCE from previous data releases was recovered.
+	To differentiate between the initial release and this reprocessed data a "pipeline instance number" is included in the filenames of the dv-timeseries, dv-reports, ad dv-result xml files. Larger pin numbers indicate later versions of the software were used to produce the data products. The DR number is also included as a keyword in the export product headers (DATAREL).
+	- An updated sky background correction algorithm was applied to Sectors 1-13 <p></p>
 	
 - [**Sector 32:**](data_release_notes.html#sector-32) Approximately 26 hrs lost due to a star tracker anomaly.<p></p>
 - [**Sector 31:**](data_release_notes.html#sector-31) Approximately 4 days lost due to a star tracker anomaly.<p></p>
 - [**Sector 30:**](data_release_notes.html#sector-30) As of Sector 30, co-trending basis vector (CBV) files only include the first eight principal components for the Single Scale co-trending mode. <p></p>
-- [**Sector 27:**](data_release_notes.html#sector-27) This is the first data release for the extended mission. Key changes have occurred including the collection of 10 min FFI data instead of 30 min, and 20 second target pixel files.<p></p>
+- [**Sector 27:**](data_release_notes.html#sector-27) This is the first data release for the extended mission. Key changes have occurred including the collection of 10-min FFI data instead of 30-min, and 20-second target pixel files.<p></p>
 <p>The background correction was updated for the extended mission, with the new method providing improved results for fainter and crowded stars. 
 <p>For targets observed in both Year 1 and Year 3, Year 3 processing was done using TIC 8.1 while TIC 7 was used for Year 1 processing; this may result in differences in results for certain targets.</p>
 
@@ -194,7 +198,7 @@ Below we provide a brief summary of the DRNs for each Sector in Cycle 3.
 	<td colspan="5" style="vertical-align: middle;"><b>Description</b></td>
        
        <tr>  
-       <td colspan="3">Space craft pointing:</td>
+       <td colspan="3">Spacecraft pointing:</td>
        <td colspan="5">Camera 1 and Camera 4 were both used for guiding in orbit 75 of Sector 34. Camera 4 alone was used for guiding in orbit 76.</td>
        </tr>
 
@@ -323,7 +327,7 @@ Below we provide a brief summary of the DRNs for each Sector in Cycle 3.
       
 
        <tr>
-       <td colspan="3" >Space craft pointing:</td>
+       <td colspan="3" >Spacecraft pointing:</td>
        <td colspan="5" >Camera 4 alone was used for guiding in Sector 72.</td>
        </tr>
 
@@ -391,7 +395,7 @@ Below we provide a brief summary of the DRNs for each Sector in Cycle 3.
 
 
        <tr>
-       <td colspan="3">Space craft pointing:</td>
+       <td colspan="3">Spacecraft pointing:</td>
        <td colspan="5">Camera 1 suffered from strong scattered light signals at the end of orbit 69 and orbit 70, and so Camera 4 alone was used for guiding during this sector.</td>
        </tr>      
 
@@ -454,7 +458,7 @@ Below we provide a brief summary of the DRNs for each Sector in Cycle 3.
 
        
        <tr>
-       <td colspan="3" >Space craft pointing:</td>
+       <td colspan="3" >Spacecraft pointing:</td>
        <td colspan="5" >Camera 1 suffered from strong scattered light signals at the end of orbit 67 and orbit 68, and so Camera 4 alone was used for guiding during this sector.</td>
        </tr>
 
@@ -517,7 +521,7 @@ Below we provide a brief summary of the DRNs for each Sector in Cycle 3.
 
        
        <tr>
-       <td colspan="3" >Space craft pointing:</td>
+       <td colspan="3" >Spacecraft pointing:</td>
        <td colspan="5" >Camera 1 suffered from strong scattered light signals at the end of orbit 65 and orbit 66, and so Camera 4 alone was used for guiding during this sector.</td>
        </tr>
 
@@ -638,7 +642,7 @@ Below we provide a brief summary of the DRNs for each Sector in Cycle 3.
 
 
        <tr>
-       <td colspan="3" >Space craft pointing:</td>
+       <td colspan="3" >Spacecraft pointing:</td>
        <td colspan="5" >Year 3 is a re-observation of the southern ecliptic hemisphere, which will take place over 13 sectors. The pointing strategy is the same as for Year 1, except the locations of Sectors 27–39 are offset in ecliptic longitude with respect to Sectors 1–13. All sectors in Year 3 are planned for a spacecraft pointing of −54 degrees in ecliptic latitude.</td>
        </tr>
 
@@ -657,7 +661,7 @@ Below we provide a brief summary of the DRNs for each Sector in Cycle 3.
 	<p>For 20-second data, only target pixel files, light curve files, collateral pixel files, and co-trending basis vectors (CBVs) were produced.</p>
 	<p>As usual cosmic rays were mitigated in the 2-minute cadence data and 10-minute FFIs by an algorithm running on the instrument firmware - see DRN pg. 8, for more info. Note however, that in the new 20-second pixel data cosmic rays were identified and removed in the pipeline, and that they can be restored in the pixel data and light curves if necessary.</p>
 	<p>The background correction employed throughout the primary mission was updated for the extended mission. The new method provides improved results for fainter and crowded stars. The correction is applied only to 2-min and 20-sec data. A full explanation of this correction is on pg. 10 of the DRN</p>
-        <p>For targets observed in both Year 1 and Year 3, Year 3 processing was done using TIC 8.1 while TIC 7 was used for Year 1 processing; this may result in different results for certain targets. Differences for some crowded and/or dim targets may also result from the background correction algorithm update. Reprocessing of Year 1 data with TIC 8.1 and the latest codebase is underway at the SPOC, as of Fall 2020. </p>
+        <p>For targets observed in both Year 1 and Year 3, Year 3 processing was done using TIC 8.1 while TIC 7 was used for Year 1 processing; this may result in different results for certain targets. Differences for some crowded and/or dim targets may also result from the background correction algorithm update (see below). Reprocessing of Year 1 data with TIC 8.1 and the latest codebase is underway at the SPOC, as of Fall 2020. </p>
         <p>The algorithm in the CAL module that propagates uncertainty from the 2D bias model was changed. This uncertainty is a static term and is no longer applied to the pixel data or subsequent processing in the pipeline.</p>
         <p>The algorithm in the PA module that estimates the sky background was changed.  A scalar offset is now applied that forces the dimmest background-corrected pixels to values near zero, if those pixels were significantly negative.</p>
        </tr>
@@ -680,7 +684,7 @@ Below we provide a brief summary of the DRNs for each Sector in Cycle 1. <p></p>
 
 Below we list some potentially useful urls for those users wishing to learn more about TESS (and Kepler) data processing. 
 
-- [TESS Science Data Products Description Document](https://archive.stsci.edu/missions/tess/doc/EXP-TESS-ARC-ICD-TM-0014.pdf)
+- [TESS Science Data Products Description Document](https://archive.stsci.edu/missions/tess/doc/EXP-TESS-ARC-ICD-TM-0014-Rev-F.pdf)
 
 - [TESS Instrument Handbook](https://archive.stsci.edu/files/live/sites/mast/files/home/missions-and-data/active-missions/tess/_documents/TESS_Instrument_Handbook_v0.1.pdf)
 

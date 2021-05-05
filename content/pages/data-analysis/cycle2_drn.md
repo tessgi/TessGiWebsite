@@ -54,7 +54,7 @@ Below we provide a brief summary of the DRN for each Sector in TESS Cycle 2.
 
 
        <tr>  
-       <td colspan="3">Space craft pointing:</td>
+       <td colspan="3">Spacecraft pointing:</td>
        <td colspan="5"><p>The pointing in Sector 26 was set at +85 degrees in ecliptic latitude so that Camera 2 and Camera 3 straddle the ecliptic pole.</p>
       <p>Camera 1 suffered from strong scattered light signals at the midpoint of orbit 59 and orbit 60, and so Camera 4 alone was used for guiding during this sector.</p></td>
        </tr>
@@ -122,8 +122,8 @@ Below we provide a brief summary of the DRN for each Sector in TESS Cycle 2.
 
 
        <tr>  
-       <td colspan="3">Space craft pointing:</td>
-       <td colspan="5"><p>As in Sector 14, the pointing in Sector 25 was set at +85 degrees in ecliptic latitude so that Camera 2 and Camera 3 straddle the ecliptic pole.</p>
+       <td colspan="3">Spacecraft pointing:</td>
+       <td colspan="5"><p>As in Sector 14, the pointing in Sector 25 was set at +85 degrees in ecliptic latitude so that Camera 2 and Camera 3 straddled the ecliptic pole.</p>
        <p>Camera 1 suffered from strong scattered light signals at the beginning of orbit 57 and orbit 58, and so Camera 4 alone was used for guiding during this sector.</p></td>
        </tr>
 
@@ -185,7 +185,7 @@ Below we provide a brief summary of the DRN for each Sector in TESS Cycle 2.
 	<td colspan="5" style="vertical-align: middle;"><b>Description</b></td>
 
        <tr>  
-       <td colspan="3">Space craft pointing:</td>
+       <td colspan="3">Spacecraft pointing:</td>
        <td colspan="5"><p>As in Sector 14, the pointing in Sector 24 was set at +85 degrees in ecliptic latitude so that Camera 2 and Camera 3 straddle the ecliptic pole.</p>
        <p>In Sector 24 there is an anomalously high pointing jitter was observed for the last 3–4 days of that orbit.</p></td>
        </tr>
@@ -255,7 +255,7 @@ Below we provide a brief summary of the DRN for each Sector in TESS Cycle 2.
        
        
         <tr>  
-       <td colspan="3" >Space craft pointing:</td>
+       <td colspan="3" >Spacecraft pointing:</td>
        <td colspan="5" >In orbit 1 of Sector 23, anomalously high pointing jitter was observed for about 1.5 days before the momentum dump starting at ∼ TJD 1936.15. The peak-to-peak amplitude of the jitter is less than 1.5 arcseconds on 2 minute timescales.</td>
        </tr>
 
@@ -321,7 +321,7 @@ Below we provide a brief summary of the DRN for each Sector in TESS Cycle 2.
 	<td colspan="5" style="vertical-align: middle;"><b>Description</b></td>
 
        <tr>  
-       <td colspan="3">Space craft pointing:</td>
+       <td colspan="3">Spacecraft pointing:</td>
        <td colspan="5">Camera 1 and Camera 4 were both used for guiding in orbit 51; Camera 4 alone was used for guiding in orbit 52.</td>
        </tr>
 
@@ -412,7 +412,7 @@ Below we provide a brief summary of the DRN for each Sector in TESS Cycle 2.
       
        
         <tr>  
-       <td colspan="3" >Space craft pointing:</td>
+       <td colspan="3" >Spacecraft pointing:</td>
        <td colspan="5" >Camera 1 and Camera 4 were both used for guiding in orbit 49; Camera 4 alone was used for guiding in orbit 50.</td>
        </tr>
 
@@ -486,7 +486,7 @@ Below we provide a brief summary of the DRN for each Sector in TESS Cycle 2.
        </tr>
 
        <tr>  
-       <td colspan="3">Space craft pointing:</td>
+       <td colspan="3">Spacecraft pointing:</td>
        <td colspan="5">Camera 1 and Camera 4 were both used for guiding in orbit 47; Camera 4 alone was used for guiding in orbit 48.</td>
        </tr>
 
@@ -564,7 +564,7 @@ Below we provide a brief summary of the DRN for each Sector in TESS Cycle 2.
        </tr>
 
        <tr>  
-       <td colspan="3">Space craft pointing:</td>
+       <td colspan="3">Spacecraft pointing:</td>
        <td colspan="5">Camera 1 and Camera 4 were both used for guiding in orbits 45 and 46.</td>
        </tr>
 
@@ -636,7 +636,7 @@ Below we provide a brief summary of the DRN for each Sector in TESS Cycle 2.
        </tr>
 
        <tr>  
-       <td colspan="3">Space craft pointing:</td>
+       <td colspan="3">Spacecraft pointing:</td>
        <td colspan="5">Camera 4 alone was used for guiding in orbit 43, and both Camera 1 and Camera 4 were used for guiding in orbit 44.</td>
        </tr>
 
@@ -710,7 +710,7 @@ Below we provide a brief summary of the DRN for each Sector in TESS Cycle 2.
        </tr>
 
        <tr>  
-       <td colspan="3">Space craft pointing:</td>
+       <td colspan="3">Spacecraft pointing:</td>
        <td colspan="5">In Sector 17, the spacecraft pointing returned to the nominal mission pointing with Camera 4 centered on the North Ecliptic Pole. Camera 4 alone was used for guiding in both orbit 41 and orbit 42.</td>
        </tr>
 
@@ -772,7 +772,7 @@ Below we provide a brief summary of the DRN for each Sector in TESS Cycle 2.
 	<td colspan="5" style="vertical-align: middle;"><b>Description</b></td>
 
        <tr>  
-       <td colspan="3">Space craft pointing:</td>
+       <td colspan="3">Spacecraft pointing:</td>
        <td colspan="5">As in Sector 14 and Sector 15, the pointing in Sector 16 was set at +85 degrees in ecliptic latitude, so that Camera 2 and Camera 3 straddle the ecliptic pole. Both Camera 1 and Camera 4 were used for guiding during this sector.</td>
        </tr>
 
@@ -841,7 +841,7 @@ Below we provide a brief summary of the DRN for each Sector in TESS Cycle 2.
 
 
        <tr>  
-       <td colspan="3">Space craft pointing:</td>
+       <td colspan="3">Spacecraft pointing:</td>
        <td colspan="5">As in Sector 14, the pointing in Sector 15 was set at +85 degrees in ecliptic latitude, so that Camera 2 and Camera 3 straddle the ecliptic pole. Camera 1 still suffers from strong scattered light signals, and so guiding was disabled in Camera 1 for both orbits 37 and 38. Camera 4 alone was used for guiding during this sector.</td>
        </tr>
 
@@ -903,7 +903,7 @@ Below we provide a brief summary of the DRN for each Sector in TESS Cycle 2.
 
 
        <tr>  
-       <td colspan="3">Space craft pointing:</td>
+       <td colspan="3">Spacecraft pointing:</td>
        <td colspan="5">This is the first sector of the northern ecliptic hemisphere survey. For northern pointings, scattered light from the Earth and Moon is a more persistent issue for Camera 1 and Camera 2 than for southern pointings. For this reason, the spacecraft pointing was set at +85 degrees in ecliptic latitude, so that Camera 2 and Camera 3 straddle the ecliptic pole<p></p>
        Camera 1 still suffers from strong scattered light signals, and so guiding was disabled in Camera 1 for both orbits 35 and 36. Camera 4 alone was used for guiding in all of orbits 35 and 36.
        </td>

@@ -59,7 +59,7 @@ Below we provide a brief summary of the DRN for each Sector in TESS Cycle 1.
 
 
        <tr>  
-       <td colspan="3">Space craft pointing:</td>
+       <td colspan="3">Spacecraft pointing:</td>
        <td colspan="5"><p>Due to the proximity of the Moon to the boresight of Camera 1, guiding with Camera 1 was disabled and Camera 4 alone was used for guiding in all of orbit 33. In Orbit 34, both Camera 1 and Camera 4 were used for guiding for the entire duration of the orbit.</p></td>
        </tr>
 
@@ -121,7 +121,7 @@ Below we provide a brief summary of the DRN for each Sector in TESS Cycle 1.
 
 
        <tr>  
-       <td colspan="3">Space craft pointing:</td>
+       <td colspan="3">Spacecraft pointing:</td>
        <td colspan="5"><p>Due to scattered light from the Earth  Camera 1 was disabled and Camera 4 alone was used for guiding in all of orbit 31. This configuration causes the apparent pointing of Cameras 1, 2 and 3 to drift by larger amounts than in other sectors due to differential velocity aberration. The amplitude of the drift depends on each camera, and has a maximum value of 3 arc-seconds (0.14 pixels) in Camera 1 from the beginning to end of orbit 31. In orbit 32, both Camera 1 and Camera 4 were used for guiding for the entire duration of the orbit.</p></td>
        </tr>
 
@@ -188,7 +188,7 @@ Below we provide a brief summary of the DRN for each Sector in TESS Cycle 1.
        </tr>
 
        <tr>  
-       <td colspan="3">Space craft pointing:</td>
+       <td colspan="3">Spacecraft pointing:</td>
        <td colspan="5"><p>At the start of each orbit, the Earth was close to the boresight of Camera 1, and the level of scattered light was too high for meaningful guide star centroids to be measured. Guiding with Camera 1 was therefore disabled at these times, and attitude control was done using only inputs from Camera 4. When Camera 1 guiding was re-enabled, the spacecraft attitude shifted by a small amount, about 1 arc-second (0.05 pixels)</p></td>
        </tr>
        
@@ -257,7 +257,7 @@ Below we provide a brief summary of the DRN for each Sector in TESS Cycle 1.
        
        
         <tr>  
-       <td colspan="3" >Space craft pointing:</td>
+       <td colspan="3" >Spacecraft pointing:</td>
        <td colspan="5" >At the start of each orbit, the Earth was close to the boresight of Camera 1, and the level of scattered light was too high for meaningful guide star centroids to be measured. Guiding with Camera 1 was therefore disabled at these times, and attitude control was done using only inputs from Camera 4. When Camera 1 guiding was re-enabled, the spacecraft attitude shifted by a small amount, about 1 arc-second (0.05 pixels).</td>
        </tr>
 
@@ -412,12 +412,12 @@ Below we provide a brief summary of the DRN for each Sector in TESS Cycle 1.
        <td colspan="5" >In Sector 8, the main stray light features are caused by the Earth at the start of each orbit, and the Moon in Camera 1 towards the start of orbit 24.
        <p>The algorithm in the CAL module that removes the 1D bias from raw pixel data was changed. The 1D bias estimate is now split into two components, a time-dependent scalar correction and a static row-dependent correction.</p></td>
        </tr>
-       
-        <tr>
-       <td colspan="3"><b>Big Updates!</b></td>
-       <td colspan="5">The instrument PRF model was updated. The updated PRF model corresponds to improved performance in the spacecraft’s Attitude ControlSystem  starting in Sector 4. Note that Sectors 1–3 were also reprocessed with this model.</td>
-       </tr>
 
+       <tr>  
+       <td colspan="3" ><b>Big Updates:</b></td>
+       <td colspan="5" >The algorithm in the CAL module that removes the 1D bias from raw pixel data was changed. The 1D bias estimate is now split into two components, a time-dependent scalar correction and a static row-dependent correction.</td>
+       </tr>
+       
 </table>
 </div>
 </div>
@@ -626,7 +626,6 @@ Below we provide a brief summary of the DRN for each Sector in TESS Cycle 1.
         <tr>
        <td colspan="3"><b>Big Updates!</b></td>
        <td colspan="5">Starting with Sector 5 processing, the SPOC pipeline 1-D Black correction has been changed to a two-component model from the polynomial fit that had been used prior. The two components include: a time-varying correction and a static row-by- row correction. To learn more about this see pg. 8 and 9 of the DRN.<p></p>
-       The parameters to calibrate PDC goodness metrics were finalized in the PDC module.
        </td>
        </tr>
 
@@ -694,7 +693,7 @@ Below we provide a brief summary of the DRN for each Sector in TESS Cycle 1.
        </tr>
 
        <tr>  
-       <td colspan="3">Space craft pointing:</td>
+       <td colspan="3">Spacecraft pointing:</td>
        <td colspan="5">Sector 4 was the first set of science observations with an improved Attitude Control System (ACS) algorithm. The new ACS mode displays significantly lower pointing jitter than the previous configuration.</td>
        </tr>
 
@@ -761,7 +760,7 @@ Below we provide a brief summary of the DRN for each Sector in TESS Cycle 1.
 	<td colspan="5" style="vertical-align: middle;"><b>Description</b></td>
 
        <tr>  
-       <td colspan="3">Space craft pointing:</td>
+       <td colspan="3">Spacecraft pointing:</td>
        <td colspan="5">During sector 3 there were several experiments conducted on the attitude control system (ACS) to improve pointing stability. Tests were conducted during the perigee passages after orbits 12, 13 and 14, as well as the first 3 days of orbit 13 and the last 3 days of orbit 14. During these times, the ACS feedback loop was altered and the calibration parameters tuned.  The jitter profile during these times differs substantially from the normal data collection mode, which used the same ACS configuration as in Sectors 1 and 2. Imaging and light curve data during these tests is provided for completeness, but has limited use for scientific applications. Valid data in the standard ACS configuration were collected between TJD 1385.8966 and 1395.4800 in orbit 13 and between TJD 1396.6050 and 1406.2925 in orbit 14, spanning ∼20.4 days of useful observations.</td>
        </tr>
 
@@ -834,14 +833,7 @@ Below we provide a brief summary of the DRN for each Sector in TESS Cycle 1.
        The lower level rise in the first orbit of Camera 1 (days 4–9) is caused by the Moon moving within 30 degrees of the camera boresight.</td>
        </tr>
        
-       <tr>
-       <td colspan="3"><b>Big Updates!</b></td>
-       <td colspan="5">The instrument electronics model Reference Flux has been updated.<p></p>
-       <p>The first two overclock rows were removed from the calculation of the 1D bias correction in the CAL module</p></td>
-       </tr>
-
-
-
+       
 </table>
 </div>
 </div>
