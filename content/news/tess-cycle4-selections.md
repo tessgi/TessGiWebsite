@@ -66,6 +66,8 @@ In total 62 proposals were accepted with the following breakdown:
 </div>
 </div>
 
+Our [approved programs page](https://heasarc.gsfc.nasa.gov/docs/tess/approved-programs.html#cycle-4) provides the full list of accepted Cycle 4 proposals. 
+
 Congratulations to all successful PI's and Co-I's!
 To those of you who did not receive acceptance letters this time round, we strongly encourage you to apply again in the future. 
 Thank you all for the wonderful science proposed, it is through your hard work that the TESS mission is a success. 
