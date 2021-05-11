@@ -93,6 +93,7 @@ MENUITEMS = (
             ('Citizen Science', 'citizenscience.html'),
             ('Outreach resources', 'gallery.html'),
             ('Publications', 'publications.html'),
+            ('Media Request', 'media.html'),
                     )
         ),
         ('Data & tools', (
