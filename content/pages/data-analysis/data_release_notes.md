@@ -10,8 +10,8 @@ Below we outline some of the most important issues or data product modifications
 
 - Reprocessing of Sectors 1-13:
 
-  	- In Sector 2 the instrument electronics model Reference Flux was been updated.The first two overclock rows were also removed from the calculation of the 1D bias correction in the CAL module.
-	- In Sector 8 the instrument PRF model was updated. The updated PRF model corresponds to improved performance in the spacecraft’s Attitude ControlSystem  starting in Sector 4. Note that Sectors 1–3 were also reprocessed with this model.
+  	- In Sector 2 the instrument electronics model Reference Flux was been updated. The first two overclock rows were also removed from the calculation of the 1D bias correction in the CAL module.
+	- In Sector 8 the instrument PRF model was updated. The updated PRF model corresponds to improved performance in the spacecraft’s Attitude Control System  starting in Sector 4. Note that Sectors 1–3 were also reprocessed with this model.
 	- In Sector 5 the parameters to calibrate PDC goodness metrics were finalized in the PDC module.
 	- Targets from Sectors 1–13 were reprocessed with version 8 of the TESS Input Catalog(TIC), consistent with Sectors 14–36. TIC 8 is based on Gaia DR2 rather than 2MASS, and includes significantly more stars and improved stellar parameters.  The change in TIC  version  affects  the  apertures  assigned  to  individual  targets,  the  calculations  of crowding and flux fraction reported in the CROWDSAP and FLUXFRAC keywords, and the physical properties of TCEs derived from stellar parameters.
 	- The timestamps for data from Sectors 1-13 have been updated. All data from Sector 1–36 are now reported in a consistent time system. 
@@ -328,7 +328,7 @@ Below we provide a brief summary of the DRNs for each Sector in Cycle 3.
 
        <tr>
        <td colspan="3" >Spacecraft pointing:</td>
-       <td colspan="5" >Camera 4 alone was used for guiding in Sector 72.</td>
+       <td colspan="5" >Camera 4 alone was used for guiding in orbit 72.</td>
        </tr>
 
        <tr>
