@@ -5,6 +5,20 @@ Save_as: conferences.html
 
 <table class="table table-striped table-hover" style="max-width:55em;">
 
+   <tr>
+    <td style="width: 9em;">January 2021</td>
+    <td style="width: 25em;">AAS special session: Atmospheric characterization of TESS exoplanets</a></td>
+    <td><a
+     href='https://aas.org/meetings/aas237'>website</a></td>
+  </tr>
+
+
+   <tr>
+    <td style="width: 9em;">January 2021</td>
+    <td style="width: 25em;">AAS special session: Mining TESS data with machine learning and other advanced methods</a></td>
+    <td><a
+     href='https://aas.org/meetings/aas237'>website</a></td>
+  </tr>
 
   <tr>
     <td style="width: 9em;">Mar 2018</td>
