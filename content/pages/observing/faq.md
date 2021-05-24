@@ -47,6 +47,14 @@ Yes! TESS data are made publicly available at the [MAST](https://archive.stsci.e
 
 There are several sites where you can down load TESS data products. The above MAST webpage lists all of these.
 
+**How do I convert a TESS magnitude into a flux?**
+
+The flux in e/s can be estimated via the following equation:
+
+Flux [e-/s] = 10<sup>(20.44-Tmag/2.5)</sup>
+
+This is derived from the values presented on page 37 of the [instrument hand book](https://archive.stsci.edu/files/live/sites/mast/files/home/missions-and-data/active-missions/tess/_documents/TESS_Instrument_Handbook_v0.1.pdf).
+
 **Can I propose to look at archival data?**
  
 Yes! You can propose to use archival data or to perform other TESS-related investigations via the following solicitations:
