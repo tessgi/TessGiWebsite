@@ -17,7 +17,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - TESS Science Support Center" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2021-05-18" />
+    <meta name="dc.date.modified" content="2021-05-24" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Users of TESS Data" />
     <meta name="dc.identifier" content="https://heasarc.gsfc.nasa.gov/docs/tess/" />
@@ -186,6 +186,10 @@ in August 2015, using pelican-bootstrap and flatly.
 <p><strong>Can I use TESS data for my own science?</strong>
 Yes! TESS data are made publicly available at the <a href="https://archive.stsci.edu/tess/">MAST</a> for anyone to use. There is no proprietary period on TESS data.</p>
 <p>There are several sites where you can down load TESS data products. The above MAST webpage lists all of these.</p>
+<p><strong>How do I convert a TESS magnitude into a flux?</strong></p>
+<p>The flux in e/s can be estimated via the following equation:</p>
+<p>Flux [e-/s] = 10<sup>(20.44-Tmag/2.5)</sup></p>
+<p>This is derived from the values presented on page 37 of the <a href="https://archive.stsci.edu/files/live/sites/mast/files/home/missions-and-data/active-missions/tess/_documents/TESS_Instrument_Handbook_v0.1.pdf">instrument hand book</a>.</p>
 <p><strong>Can I propose to look at archival data?</strong></p>
 <p>Yes! You can propose to use archival data or to perform other TESS-related investigations via the following solicitations:</p>
 <ul>
@@ -311,7 +315,7 @@ There are not.</p>
       <!-- NASA logo and notices -->
       <div class="row" style="margin-top:2em;">
          <div class="col-md-10"> <a href="http://www.nasa.gov/"><img src="./images/NASA_logo_vector_lg.png" width="30" alt="NASA Logo"></a> 
-         Last modified: Tue 04 May 2021
+         Last modified: Mon 24 May 2021
             &middot; Editor: Thomas Barclay &middot; NASA Official: Patricia T Boyd 
             &middot; <a href="http://www.nasa.gov/about/highlights/HP_Privacy.html">Privacy Policy and Important Notices</a><p></p>         </div>
          <div class="col-md-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
