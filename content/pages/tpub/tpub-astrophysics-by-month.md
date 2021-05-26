@@ -43,6 +43,74 @@ Baran, A. S., Sahoo, S. K., Sanjayan, S., et al.
 Iłkiewicz, Krystian, Scaringi, Simone, Court, James M. C., et al.    
 2021, refereed ([2021MNRAS.503.4050I](http://adsabs.harvard.edu/abs/2021MNRAS.503.4050I))  
 
+8. [RELATIONS BETWEEN THE ASTEROSEISMIC INDICES AND STELLAR PARAMETERS OF Δ SCUTI STARS FOR TWO YEARS OF TESS MISSION](http://adsabs.harvard.edu/abs/2021MNRAS.tmp.1424H)  
+Hasanzadeh, A., Safari, H., Ghasemi, H.    
+2021, refereed ([2021MNRAS.tmp.1424H](http://adsabs.harvard.edu/abs/2021MNRAS.tmp.1424H))  
+
+9. [TESS OBSERVATIONS OF TX COL: RAPIDLY VARYING ACCRETION FLOW](http://adsabs.harvard.edu/abs/2021ApJ...912...78R)  
+Rawat, Nikita, Pandey, J. C., Joshi, Arti    
+2021, refereed ([2021ApJ...912...78R](http://adsabs.harvard.edu/abs/2021ApJ...912...78R))  
+
+10. [TEMPERATURE AND DISTANCE DEPENDENCE OF TIDAL CIRCULARIZATION IN CLOSE BINARIES: A CATALOG OF ECLIPSING BINARIES IN THE SOUTHERN HEMISPHERE OBSERVED BY THE TESS SATELLITE](http://adsabs.harvard.edu/abs/2021ApJ...912..123J)  
+Justesen, Anders B., Albrecht, Simon    
+2021, refereed ([2021ApJ...912..123J](http://adsabs.harvard.edu/abs/2021ApJ...912..123J))  
+
+11. [THE NEW EPHEMERIS AND LIGHT CURVE ANALYSIS OF V870 ARA BY THE GROUND-BASED AND TESS DATA](http://adsabs.harvard.edu/abs/2021arXiv210511194P)  
+Poro, Atila, Blackford, Mark G., Davoudi, Fatemeh, et al.    
+2021, not refereed ([2021arXiv210511194P](http://adsabs.harvard.edu/abs/2021arXiv210511194P))  
+
+12. [SPACE OBSERVATIONS OF AA DORADUS PROVIDE CONSISTENT MASS DETERMINATIONS. NEW HW-VIR SYSTEMS OBSERVED WITH TESS](http://adsabs.harvard.edu/abs/2021arXiv210501074B)  
+Baran, A. S., Østensen, R. H., Heber, U., et al.    
+2021, not refereed ([2021arXiv210501074B](http://adsabs.harvard.edu/abs/2021arXiv210501074B))  
+
+13. [THE OBSERVABLE SUPERNOVA RATE IN GALAXY-GALAXY LENSING SYSTEMS WITH THE TESS SATELLITE](http://adsabs.harvard.edu/abs/2021MNRAS.tmp.1335H)  
+Holwerda, B. W., Knabel, S., Steele, R. C., et al.    
+2021, refereed ([2021MNRAS.tmp.1335H](http://adsabs.harvard.edu/abs/2021MNRAS.tmp.1335H))  
+
+14. [ANALYSIS OF APSIDAL MOTION IN ECLIPSING BINARIES USING TESS DATA. I. A TEST OF GRAVITATIONAL THEORIES](http://adsabs.harvard.edu/abs/2021A&A...649A..64B)  
+Baroch, D., Giménez, A., Ribas, I., et al.    
+2021, refereed ([2021A&A...649A..64B](http://adsabs.harvard.edu/abs/2021A&A...649A..64B))  
+
+15. [A SEARCH FOR VARIABLE SUBDWARF B STARS IN TESS FULL FRAME IMAGES II. VARIABLE OBJECTS IN THE NORTHERN ECLIPTIC HEMISPHERE](http://adsabs.harvard.edu/abs/2021arXiv210501077B)  
+Baran, A. S., Sahoo, S. K., Sanjayan, S., et al.    
+2021, not refereed ([2021arXiv210501077B](http://adsabs.harvard.edu/abs/2021arXiv210501077B))  
+
+16. [RE-CROWNING THE QUEEN: MEMBERSHIP, AGE AND ROTATION PERIODS FOR THE OPEN CLUSTER COMA BERENICES](http://adsabs.harvard.edu/abs/2021arXiv210506532S)  
+Singh, Kyle, Rothstein, Peter, Curtis, Jason L., et al.    
+2021, not refereed ([2021arXiv210506532S](http://adsabs.harvard.edu/abs/2021arXiv210506532S))  
+
+17. [8.9-HR ROTATION IN THE PARTLY BURNT RUNAWAY STELLAR REMNANT LP 40-365 (GD 492)](http://adsabs.harvard.edu/abs/2021arXiv210506480H)  
+Hermes, J. J., Putterman, Odelia, Hollands, Mark A., et al.    
+2021, not refereed ([2021arXiv210506480H](http://adsabs.harvard.edu/abs/2021arXiv210506480H))  
+
+18. [QUASI-PERIODIC OSCILLATIONS AND LONG-TERM ORBITAL PERIOD VARIATION OF THE ECLIPSING DWARF NOVA EM CYG](http://adsabs.harvard.edu/abs/2021MNRAS.tmp.1304L)  
+Liu, Wei, Qian, Sheng-Bang, Zhi, Qi-Jun, et al.    
+2021, refereed ([2021MNRAS.tmp.1304L](http://adsabs.harvard.edu/abs/2021MNRAS.tmp.1304L))  
+
+19. [A STUDY OF THE PHOTOMETRIC AND SPECTROSCOPIC VARIATIONS OF THE PROTOTYPICAL FU ORIONIS-TYPE STAR V1057 CYG](http://adsabs.harvard.edu/abs/2021arXiv210510405S)  
+Szabó, Zs. M., Kóspál, Á., Ábrahám, P., et al.    
+2021, not refereed ([2021arXiv210510405S](http://adsabs.harvard.edu/abs/2021arXiv210510405S))  
+
+20. [GYROCHRONOLOGY MODEL EVALUATION METHOD](http://adsabs.harvard.edu/abs/2021arXiv210507266O)  
+Otani, Tomomi, von Hippel, Ted, Buzasi, Derek, et al.    
+2021, not refereed ([2021arXiv210507266O](http://adsabs.harvard.edu/abs/2021arXiv210507266O))  
+
+21. [FIRST DETECTION OF A DISK FREE OF VOLATILE ELEMENTS AROUND A YOUNG A-TYPE STAR: A SIGN OF COLLISIONS BETWEEN ROCKY PLANETS?](http://adsabs.harvard.edu/abs/2021arXiv210508327V)  
+van den Ancker, M. E., Gentile Fusillo, N. P., Haworth, T. J., et al.    
+2021, not refereed ([2021arXiv210508327V](http://adsabs.harvard.edu/abs/2021arXiv210508327V))  
+
+22. [ECLIPSING SYSTEMS WITH PULSATING COMPONENTS (TYPES {\BETA} CEP, {\DELTA} SCT, {\GAMMA} DOR OR RED GIANT) IN THE ERA OF HIGH-ACCURACY SPACE DATA](http://adsabs.harvard.edu/abs/2021arXiv210504463L)  
+Lampens, Patricia    
+2021, not refereed ([2021arXiv210504463L](http://adsabs.harvard.edu/abs/2021arXiv210504463L))  
+
+23. [ORBITAL AND SUB-ORBITAL PERIOD DETERMINATION OF THE CANDIDATE HIGH-MASS X-RAY BINARY HD 3191](http://adsabs.harvard.edu/abs/2021arXiv210503189M)  
+Martí, Josep, Luque-Escamilla, Pedro L., Sánchez-Ayaso, Estrella, et al.    
+2021, not refereed ([2021arXiv210503189M](http://adsabs.harvard.edu/abs/2021arXiv210503189M))  
+
+24. [AGE-DATING RED GIANT STARS ASSOCIATED WITH GALACTIC DISK AND HALO SUBSTRUCTURES](http://adsabs.harvard.edu/abs/2021arXiv210510505G)  
+Grunblatt, Samuel K., Zinn, Joel C., Price-Whelan, Adrian M., et al.    
+2021, not refereed ([2021arXiv210510505G](http://adsabs.harvard.edu/abs/2021arXiv210510505G))  
+
 
 2021-04
 -------

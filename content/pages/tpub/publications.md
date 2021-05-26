@@ -12,8 +12,8 @@ the TESS mission is provided by the NASA's Science Mission Directorate.*
 
 The TESS Science Support Center curates a list of scientific publications
 pertaining to TESS.
-The database contains 544 publications,
-of which 465 are peer-reviewed.
+The database contains 573 publications,
+of which 475 are peer-reviewed.
 It demonstrates the important impact of TESS data
 on astronomical research.
 
@@ -29,7 +29,7 @@ Or seach by topic:
 If you spot an error in the database, such as a missing entry,
 please get in touch or open an issue in the <a href="https://github.com/tessgi/tpub">GitHub repository</a> of the database.
 
-Last update: 05 May 2021.
+Last update: 25 May 2021.
 
 <hr/>
 
@@ -46,9 +46,9 @@ of year.
 
 Both TESS data have been used for scientific applications
 that reach far beyond exoplanet research.
-While 255 works relate to exoplanets
+While 267 works relate to exoplanets
 (47%),
-a total of 289
+a total of 306
 pertain to other areas of astrophysics
 (53%).
 
@@ -60,7 +60,7 @@ pertain to other areas of astrophysics
 ## Most-cited publications
 
 TESS publications have cumulatively been cited
-6892 times.
+6897 times.
 The list below shows the most-cited publications,
 based on the citation count obtained from NASA ADS.
 
@@ -130,7 +130,7 @@ within the last 90 days.
 <!-- ## Most-active authors
 
 The entries in the publication database have been authored and co-authored
-by a total of 2849 unique author names.
+by a total of 2954 unique author names.
 Here we list the most-active authors, defined as those with six or more first-author publications in our database.
 
 
