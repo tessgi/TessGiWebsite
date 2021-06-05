@@ -19,3 +19,7 @@ Summary: In order to piece together how the planetary evolution process occurs, 
 
 # Sector 031 targets observed (2 min: 1, 20 s: 0)
 257605131,62.9664,-37.9397,10.27,G03141;G03278;G03219
+
+# Sector 038 targets observed (2 min: 2, 20 s: 1)
+166527623,207.5259,-40.8359,9.19,G03141;G03130
+360156606,186.7671,-72.4519,13.8,G03141;G03278;G03068;G03052;20SECONDTARGET

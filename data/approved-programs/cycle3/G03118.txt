@@ -53,3 +53,10 @@ Summary: Blazars are active galactic nuclei exhibiting extreme variability on di
 # Sector 037 targets observed (2 min: 2, 20 s: 0)
 258589521,196.9083,-42.9942,14.92,G03118
 177181728,105.1302,-66.1792,14.86,G03118
+
+# Sector 038 targets observed (2 min: 2, 20 s: 0)
+159713832,220.9883,-39.1445,14.95,G03118
+177181728,105.1302,-66.1792,14.86,G03118
+
+# Sector 039 targets observed (2 min: 1, 20 s: 0)
+177181728,105.1302,-66.1792,14.86,G03118
