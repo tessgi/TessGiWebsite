@@ -24,3 +24,6 @@ Summary: We propose to probe the formation history and orbital evolution of seve
 
 # Sector 037 targets observed (2 min: 1, 20 s: 1)
 104024556,196.0438,-35.5495,10.32,G03232;G03278;G03165;G03181;G03106;20SECONDTARGET
+
+# Sector 038 targets observed (2 min: 1, 20 s: 0)
+160708862,227.2703,-42.705,9.88,G03232;G03165;G03181;G03106
