@@ -8,3 +8,6 @@ Type: SMALL
 
 Summary: We propose a broadband campaign of the Gamma-ray binary PSR B1259-63 with TESS and Swift following the post-periastron passage of its 3.4 yr binary orbit. Consisting of a 48 ms pulsar and an O9.5 Ve star with a circumstellar disk inclined to the orbital plane, B1259 shows double-peaked emission at radio, X-ray and TeV energies as the pulsar crosses the Be disk along with powerful flares at GeV energies that at times exceeds the spin-down power of the pulsar. The GeV flares are delayed by 30 45 days and persist up to 90 days from periastron. Our goal is to probe key physical properties of the termination shock and discriminate the synchrotron or inverse-Compton losses driving the strong GeV flares using a discrete cross-correlation analysis from optical to GeV wavelengths.
 
+
+# Sector 038 targets observed (2 min: 1, 20 s: 0)
+439164152,195.6985,-63.8357,9.08,G03271;G03186

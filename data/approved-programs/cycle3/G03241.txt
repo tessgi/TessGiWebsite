@@ -23,3 +23,6 @@ Summary: This program will obtain short cadence data on known pulsating hot whit
 
 # Sector 037 targets observed (2 min: 1, 20 s: 0)
 856046247,140.3557,-58.3113,14.66,G03241
+
+# Sector 038 targets observed (2 min: 1, 20 s: 0)
+341689253,203.3869,-65.9742,14.49,G03241
