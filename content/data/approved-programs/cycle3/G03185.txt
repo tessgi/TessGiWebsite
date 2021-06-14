@@ -31,3 +31,7 @@ Summary: We propose to use TESS 2-min cadence data to investigate M-dwarfs of in
 
 # Sector 035 targets observed (2 min: 1, 20 s: 0)
 176772671,142.5667,-18.8431,13.9,G03185
+
+# Sector 038 targets observed (2 min: 2, 20 s: 0)
+270348090,215.4821,-30.8428,14.21,G03185
+7439481,212.9286,-29.9739,14.06,G03185
