@@ -9,26 +9,26 @@ The members of the TESS GI office are listed below.
 
 <div class="row">
     <div class="col-sm-3 text-center">
-        <img src="images/faces/tom.jpg" class="img-circle"><br>
-        Dr Tom Barclay<br>
-        Director
-    </div>
-    <div class="col-sm-3 text-center">
         <img src="images/faces/knicole.jpg" class="img-circle"><br>
         Dr Knicole Colón<br>
-        Deputy Director
+        Director
     </div>
     <div class="col-sm-3 text-center">
         <img src="images/faces/padi.jpg" class="img-circle"><br>
         Dr Padi Boyd<br>
         Project Scientist
     </div>
+    <div class="col-sm-3 text-center">
+        <img src="images/faces/tom.jpg" class="img-circle"><br>
+        Dr Tom Barclay<br>
+        Acting Deputy Project Scientist
+    </div>
 </div>
 <div class="row">
     <div class="col-sm-3 text-center">
         <img src="images/faces/elisa.jpg" class="img-circle"><br>
         Dr Elisa Quintana<br>
-        Deputy Project Scientist
+        Support Scientist
     </div>
     <div class="col-sm-3 text-center">
         <img src="images/faces/josh.jpg" class="img-circle"><br>
