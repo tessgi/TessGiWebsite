@@ -7,13 +7,13 @@ Save_as: tpub-exoplanets-by-month.html
 2021-07
 -------
 
-1. [ORIGINAL RESEARCH BY YOUNG TWINKLE STUDENTS (ORBYTS): EPHEMERIS REFINEMENT OF TRANSITING EXOPLANETS](http://adsabs.harvard.edu/abs/2021MNRAS.504.5671E)  
-Edwards, Billy, Changeat, Quentin, Yip, Kai Hou, et al.    
-2021, refereed ([2021MNRAS.504.5671E](http://adsabs.harvard.edu/abs/2021MNRAS.504.5671E))  
-
-2. [HAT-P-58B-HAT-P-64B: SEVEN PLANETS TRANSITING BRIGHT STARS](http://adsabs.harvard.edu/abs/2021AJ....162....7B)  
+1. [HAT-P-58B-HAT-P-64B: SEVEN PLANETS TRANSITING BRIGHT STARS](http://adsabs.harvard.edu/abs/2021AJ....162....7B)  
 Bakos, G. Á., Hartman, J. D., Bhatti, W., et al.    
 2021, refereed ([2021AJ....162....7B](http://adsabs.harvard.edu/abs/2021AJ....162....7B))  
+
+2. [ORIGINAL RESEARCH BY YOUNG TWINKLE STUDENTS (ORBYTS): EPHEMERIS REFINEMENT OF TRANSITING EXOPLANETS](http://adsabs.harvard.edu/abs/2021MNRAS.504.5671E)  
+Edwards, Billy, Changeat, Quentin, Yip, Kai Hou, et al.    
+2021, refereed ([2021MNRAS.504.5671E](http://adsabs.harvard.edu/abs/2021MNRAS.504.5671E))  
 
 
 2021-06
@@ -67,21 +67,21 @@ Khandelwal, Akanksha, Chaturvedi, Priyanka, Chakraborty, Abhijit, et al.
 2021-05
 -------
 
-1. [NEW CONSTRAINTS ON THE PLANETARY SYSTEM AROUND THE YOUNG ACTIVE STAR AU MIC. TWO TRANSITING WARM NEPTUNES NEAR MEAN-MOTION RESONANCE](http://adsabs.harvard.edu/abs/2021A&A...649A.177M)  
-Martioli, E., Hébrard, G., Correia, A. C. M., et al.    
-2021, refereed ([2021A&A...649A.177M](http://adsabs.harvard.edu/abs/2021A&A...649A.177M))  
-
-2. [SIX TRANSITING PLANETS AND A CHAIN OF LAPLACE RESONANCES IN TOI-178](http://adsabs.harvard.edu/abs/2021A&A...649A..26L)  
+1. [SIX TRANSITING PLANETS AND A CHAIN OF LAPLACE RESONANCES IN TOI-178](http://adsabs.harvard.edu/abs/2021A&A...649A..26L)  
 Leleu, A., Alibert, Y., Hara, N. C., et al.    
 2021, refereed ([2021A&A...649A..26L](http://adsabs.harvard.edu/abs/2021A&A...649A..26L))  
 
-3. [MASS AND DENSITY OF THE TRANSITING HOT AND ROCKY SUPER-EARTH LHS 1478 B (TOI-1640 B)](http://adsabs.harvard.edu/abs/2021A&A...649A.144S)  
+2. [MASS AND DENSITY OF THE TRANSITING HOT AND ROCKY SUPER-EARTH LHS 1478 B (TOI-1640 B)](http://adsabs.harvard.edu/abs/2021A&A...649A.144S)  
 Soto, M. G., Anglada-Escudé, G., Dreizler, S., et al.    
 2021, refereed ([2021A&A...649A.144S](http://adsabs.harvard.edu/abs/2021A&A...649A.144S))  
 
-4. [HADES RV PROGRAMME WITH HARPS-N AT TNG. XIII. A SUB-NEPTUNE AROUND THE M DWARF GJ 720 A](http://adsabs.harvard.edu/abs/2021A&A...649A.157G)  
+3. [HADES RV PROGRAMME WITH HARPS-N AT TNG. XIII. A SUB-NEPTUNE AROUND THE M DWARF GJ 720 A](http://adsabs.harvard.edu/abs/2021A&A...649A.157G)  
 González-Álvarez, E., Petralia, A., Micela, G., et al.    
 2021, refereed ([2021A&A...649A.157G](http://adsabs.harvard.edu/abs/2021A&A...649A.157G))  
+
+4. [NEW CONSTRAINTS ON THE PLANETARY SYSTEM AROUND THE YOUNG ACTIVE STAR AU MIC. TWO TRANSITING WARM NEPTUNES NEAR MEAN-MOTION RESONANCE](http://adsabs.harvard.edu/abs/2021A&A...649A.177M)  
+Martioli, E., Hébrard, G., Correia, A. C. M., et al.    
+2021, refereed ([2021A&A...649A.177M](http://adsabs.harvard.edu/abs/2021A&A...649A.177M))  
 
 5. [AROUND WHICH STARS CAN TESS DETECT EARTH-LIKE PLANETS? THE REVISED TESS HABITABLE ZONE CATALOG](http://adsabs.harvard.edu/abs/2021AJ....161..233K)  
 Kaltenegger, L., Pepper, J., Christodoulou, P. M., et al.    
