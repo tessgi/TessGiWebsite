@@ -2,7 +2,7 @@ Title: TESS Weekly Bulletin: June 23rd
 Date: 2021-06-23 10:00
 Author: Rebekah Hounsell
 
-`STATUS UPDATE: Orbit 2 of Sector 38 is now available to download as a TICA product from MAST`
+`STATUS UPDATE: Orbit 1 of Sector 39 is now available to download as a TICA product from MAST`
 
 Welcome TESS followers this weeks news bulletin in which we look at three papers from the archive, 
 
