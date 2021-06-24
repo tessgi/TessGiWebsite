@@ -60,7 +60,7 @@ pertain to other areas of astrophysics
 ## Most-cited publications
 
 TESS publications have cumulatively been cited
-7545 times.
+7541 times.
 The list below shows the most-cited publications,
 based on the citation count obtained from NASA ADS.
 
@@ -136,7 +136,7 @@ Here we list the most-active authors, defined as those with six or more first-au
 
  * Southworth, J (8 publications)
 
- * Bouma, L (6 publications)
-
  * Balona, L (6 publications)
+
+ * Bouma, L (6 publications)
 -->
