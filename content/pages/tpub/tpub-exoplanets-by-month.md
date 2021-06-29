@@ -63,6 +63,30 @@ Wong, Ian, Kitzmann, Daniel, Shporer, Avi, et al.
 Khandelwal, Akanksha, Chaturvedi, Priyanka, Chakraborty, Abhijit, et al.    
 2021, not refereed ([2021arXiv210608660K](http://adsabs.harvard.edu/abs/2021arXiv210608660K))  
 
+12. [SPECKLE OBSERVATIONS OF TESS EXOPLANET HOST STARS. II. STELLAR COMPANIONS AT 1-1000 AU AND IMPLICATIONS FOR SMALL PLANET DETECTION](http://adsabs.harvard.edu/abs/2021arXiv210613354L)  
+Lester, Kathryn V., Matson, Rachel A., Howell, Steve B., et al.    
+2021, not refereed ([2021arXiv210613354L](http://adsabs.harvard.edu/abs/2021arXiv210613354L))  
+
+13. [TRANSMISSION SPECTROSCOPY WITH VLT FORS2: A FEATURELESS SPECTRUM FOR THE LOW-DENSITY TRANSITING EXOPLANET WASP-88B](http://adsabs.harvard.edu/abs/2021arXiv210614808S)  
+Spyratos, Petros, Nikolov, Nikolay, Southworth, John, et al.    
+2021, not refereed ([2021arXiv210614808S](http://adsabs.harvard.edu/abs/2021arXiv210614808S))  
+
+14. [ACTIVITY OF TWO YOUNG STARS OF SOLAR TYPE WITH PLANETARY SYSTEMS FROM THE URSA MAJOR MOVING GROUP OF STARS AND THE STREAM PSC-ERI](http://adsabs.harvard.edu/abs/2021Ap....tmp...19S)  
+Savanov, I. S.    
+2021, refereed ([2021Ap....tmp...19S](http://adsabs.harvard.edu/abs/2021Ap....tmp...19S))  
+
+15. [SEARCHING FOR TRANSITING PLANETS AROUND HALO STARS. II. CONSTRAINING THE OCCURRENCE RATE OF HOT JUPITERS](http://adsabs.harvard.edu/abs/2021arXiv210613242B)  
+Boley, Kiersten M., Wang, Ji, Zinn, Joel C., et al.    
+2021, not refereed ([2021arXiv210613242B](http://adsabs.harvard.edu/abs/2021arXiv210613242B))  
+
+16. [TOI-269 B: AN ECCENTRIC SUB-NEPTUNE TRANSITING A M2 DWARF REVISITED WITH EXTRA](http://adsabs.harvard.edu/abs/2021A&A...650A.145C)  
+Cointepas, M., Almenara, J. M., Bonfils, X., et al.    
+2021, refereed ([2021A&A...650A.145C](http://adsabs.harvard.edu/abs/2021A&A...650A.145C))  
+
+17. [TRANSIT DETECTION OF THE LONG-PERIOD VOLATILE-RICH SUPER-EARTH $\NU^2$ LUPI D WITH $CHEOPS$](http://adsabs.harvard.edu/abs/2021arXiv210614491D)  
+Delrez, Laetitia, Ehrenreich, David, Alibert, Yann, et al.    
+2021, not refereed ([2021arXiv210614491D](http://adsabs.harvard.edu/abs/2021arXiv210614491D))  
+
 
 2021-05
 -------

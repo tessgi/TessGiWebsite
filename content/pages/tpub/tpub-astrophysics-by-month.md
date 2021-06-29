@@ -103,6 +103,30 @@ Handberg, Rasmus, Lund, Mikkel N., White, Timothy R., et al.
 Trigueros Páez, E., Barbá, R. H., Negueruela, I., et al.    
 2021, not refereed ([2021arXiv210608865T](http://adsabs.harvard.edu/abs/2021arXiv210608865T))  
 
+20. [ACTIVITY OF TRAPPIST-1 ANALOG STARS OBSERVED WITH TESS](http://adsabs.harvard.edu/abs/2021A&A...650A.138S)  
+Seli, Bálint, Vida, Krisztián, Moór, Attila, et al.    
+2021, refereed ([2021A&A...650A.138S](http://adsabs.harvard.edu/abs/2021A&A...650A.138S))  
+
+21. [SIMULTANEOUS EROSITA AND TESS OBSERVATIONS OF THE ULTRA-ACTIVE STAR AB~DORADUS](http://adsabs.harvard.edu/abs/2021arXiv210614537S)  
+Schmitt, J. H. M. M., Ioannidis, P., Robradel, J., et al.    
+2021, not refereed ([2021arXiv210614537S](http://adsabs.harvard.edu/abs/2021arXiv210614537S))  
+
+22. [FIRST EROSITA STUDY OF NEARBY M DWARFS AND THE ROTATION-ACTIVITY RELATION IN COMBINATION WITH TESS](http://adsabs.harvard.edu/abs/2021arXiv210614548M)  
+Magaudda, E., Stelzer, B., Raetz, St., et al.    
+2021, not refereed ([2021arXiv210614548M](http://adsabs.harvard.edu/abs/2021arXiv210614548M))  
+
+23. [IDENTIFICATION OF SRGT 062340.2-265715 AS A BRIGHT, STRONGLY VARIABLE, NOVALIKE CATACLYSMIC VARIABLE](http://adsabs.harvard.edu/abs/2021arXiv210614538S)  
+Schwope, Axel, Buckley, David A. H., Kawka, Adela, et al.    
+2021, not refereed ([2021arXiv210614538S](http://adsabs.harvard.edu/abs/2021arXiv210614538S))  
+
+24. [DISCOVERY OF 13 NEW ORBITAL PERIODS FOR CLASSICAL NOVAE](http://adsabs.harvard.edu/abs/2021arXiv210613907S)  
+Schaefer, Bradley E.    
+2021, not refereed ([2021arXiv210613907S](http://adsabs.harvard.edu/abs/2021arXiv210613907S))  
+
+25. [LO AND: AN A-SUBTYPE CONTACT BINARY WITH A VERY COOL THIRD COMPONENT](http://adsabs.harvard.edu/abs/2021RAA....21..120H)  
+Huang, Hui-Ping, Yu, Yun-Xia, Yu, Ting, et al.    
+2021, refereed ([2021RAA....21..120H](http://adsabs.harvard.edu/abs/2021RAA....21..120H))  
+
 
 2021-05
 -------

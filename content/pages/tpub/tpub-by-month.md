@@ -155,6 +155,54 @@ Khandelwal, Akanksha, Chaturvedi, Priyanka, Chakraborty, Abhijit, et al.
 Trigueros Páez, E., Barbá, R. H., Negueruela, I., et al.    
 2021, not refereed ([2021arXiv210608865T](http://adsabs.harvard.edu/abs/2021arXiv210608865T))  
 
+31. [ACTIVITY OF TRAPPIST-1 ANALOG STARS OBSERVED WITH TESS](http://adsabs.harvard.edu/abs/2021A&A...650A.138S)  
+Seli, Bálint, Vida, Krisztián, Moór, Attila, et al.    
+2021, refereed ([2021A&A...650A.138S](http://adsabs.harvard.edu/abs/2021A&A...650A.138S))  
+
+32. [SIMULTANEOUS EROSITA AND TESS OBSERVATIONS OF THE ULTRA-ACTIVE STAR AB~DORADUS](http://adsabs.harvard.edu/abs/2021arXiv210614537S)  
+Schmitt, J. H. M. M., Ioannidis, P., Robradel, J., et al.    
+2021, not refereed ([2021arXiv210614537S](http://adsabs.harvard.edu/abs/2021arXiv210614537S))  
+
+33. [FIRST EROSITA STUDY OF NEARBY M DWARFS AND THE ROTATION-ACTIVITY RELATION IN COMBINATION WITH TESS](http://adsabs.harvard.edu/abs/2021arXiv210614548M)  
+Magaudda, E., Stelzer, B., Raetz, St., et al.    
+2021, not refereed ([2021arXiv210614548M](http://adsabs.harvard.edu/abs/2021arXiv210614548M))  
+
+34. [SPECKLE OBSERVATIONS OF TESS EXOPLANET HOST STARS. II. STELLAR COMPANIONS AT 1-1000 AU AND IMPLICATIONS FOR SMALL PLANET DETECTION](http://adsabs.harvard.edu/abs/2021arXiv210613354L)  
+Lester, Kathryn V., Matson, Rachel A., Howell, Steve B., et al.    
+2021, not refereed ([2021arXiv210613354L](http://adsabs.harvard.edu/abs/2021arXiv210613354L))  
+
+35. [TRANSMISSION SPECTROSCOPY WITH VLT FORS2: A FEATURELESS SPECTRUM FOR THE LOW-DENSITY TRANSITING EXOPLANET WASP-88B](http://adsabs.harvard.edu/abs/2021arXiv210614808S)  
+Spyratos, Petros, Nikolov, Nikolay, Southworth, John, et al.    
+2021, not refereed ([2021arXiv210614808S](http://adsabs.harvard.edu/abs/2021arXiv210614808S))  
+
+36. [IDENTIFICATION OF SRGT 062340.2-265715 AS A BRIGHT, STRONGLY VARIABLE, NOVALIKE CATACLYSMIC VARIABLE](http://adsabs.harvard.edu/abs/2021arXiv210614538S)  
+Schwope, Axel, Buckley, David A. H., Kawka, Adela, et al.    
+2021, not refereed ([2021arXiv210614538S](http://adsabs.harvard.edu/abs/2021arXiv210614538S))  
+
+37. [ACTIVITY OF TWO YOUNG STARS OF SOLAR TYPE WITH PLANETARY SYSTEMS FROM THE URSA MAJOR MOVING GROUP OF STARS AND THE STREAM PSC-ERI](http://adsabs.harvard.edu/abs/2021Ap....tmp...19S)  
+Savanov, I. S.    
+2021, refereed ([2021Ap....tmp...19S](http://adsabs.harvard.edu/abs/2021Ap....tmp...19S))  
+
+38. [SEARCHING FOR TRANSITING PLANETS AROUND HALO STARS. II. CONSTRAINING THE OCCURRENCE RATE OF HOT JUPITERS](http://adsabs.harvard.edu/abs/2021arXiv210613242B)  
+Boley, Kiersten M., Wang, Ji, Zinn, Joel C., et al.    
+2021, not refereed ([2021arXiv210613242B](http://adsabs.harvard.edu/abs/2021arXiv210613242B))  
+
+39. [TOI-269 B: AN ECCENTRIC SUB-NEPTUNE TRANSITING A M2 DWARF REVISITED WITH EXTRA](http://adsabs.harvard.edu/abs/2021A&A...650A.145C)  
+Cointepas, M., Almenara, J. M., Bonfils, X., et al.    
+2021, refereed ([2021A&A...650A.145C](http://adsabs.harvard.edu/abs/2021A&A...650A.145C))  
+
+40. [DISCOVERY OF 13 NEW ORBITAL PERIODS FOR CLASSICAL NOVAE](http://adsabs.harvard.edu/abs/2021arXiv210613907S)  
+Schaefer, Bradley E.    
+2021, not refereed ([2021arXiv210613907S](http://adsabs.harvard.edu/abs/2021arXiv210613907S))  
+
+41. [TRANSIT DETECTION OF THE LONG-PERIOD VOLATILE-RICH SUPER-EARTH $\NU^2$ LUPI D WITH $CHEOPS$](http://adsabs.harvard.edu/abs/2021arXiv210614491D)  
+Delrez, Laetitia, Ehrenreich, David, Alibert, Yann, et al.    
+2021, not refereed ([2021arXiv210614491D](http://adsabs.harvard.edu/abs/2021arXiv210614491D))  
+
+42. [LO AND: AN A-SUBTYPE CONTACT BINARY WITH A VERY COOL THIRD COMPONENT](http://adsabs.harvard.edu/abs/2021RAA....21..120H)  
+Huang, Hui-Ping, Yu, Yun-Xia, Yu, Ting, et al.    
+2021, refereed ([2021RAA....21..120H](http://adsabs.harvard.edu/abs/2021RAA....21..120H))  
+
 
 2021-05
 -------
