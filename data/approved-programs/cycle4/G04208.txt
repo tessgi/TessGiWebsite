@@ -8,3 +8,19 @@ Type: SMALL
 
 Summary: We propose to observe a large sample of magnetic cataclysmic variable stars (MCVs) to study variations in their rates of mass-transfer. Our target list includes two types of MCVs: polars and intermediate polars. With polars, we will characterize the timescales over which the rate of mass-transfer can either shut off or restart, with the aim of testing theoretical predictions about the cause of this poorly understood phenomenon. With intermediate polars, we will examine how the dynamical nature of the accretion flow onto the white dwarf is impacted by variations in the mass-transfer rate. In-depth observations of these unpredictable phenomena are possible only with continuous, high-cadence observations of a large number of targets, making TESS optimal for this study.
 
+
+# Sector 040 targets observed (2 min: 14, 20 s: 2)
+1713419350,286.3308,30.2568,15.92,G04208;G04171;G04046
+232649837,281.745,55.6414,17.12,G04208
+366122523,274.0548,49.8681,13.06,G04208;G04009
+332624864,271.876,45.8591,14.81,G04208;G04046
+75654576,270.9152,40.2056,17.01,G04208;G04046
+76191504,273.5854,41.8561,15.03,G04208;G04046;G04091;20SECONDTARGET
+158318859,286.8179,44.0188,13.42,G04208;G04171;G04046;20SECONDTARGET
+258799357,286.7761,69.1457,17.73,G04208;G04234
+1271360919,251.9784,77.0367,18.94,G04208
+142864870,175.9107,71.6891,14.53,G04208;G04046
+142047616,76.7012,83.3231,14.93,G04208;G04171;G04046
+313242194,96.3177,73.5775,14.68,G04208;G04009;G04046
+396737942,97.3915,71.0766,12.85,G04208
+103605968,151.1447,66.4875,15.04,G04208;G04046

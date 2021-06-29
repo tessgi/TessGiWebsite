@@ -8,3 +8,25 @@ Type: SMALL
 
 Summary: M-dwarfs are enticing targets for small transiting planets in the habitable zone. TESS will find hundreds, some bright enough for atmospheric probing by JWST. However, the field is frustrated by poor constraints on the host M-dwarfs. We aim to solve this with 161 eclipsing binaries comprised of F/G + M stars, all with 11+ years of spectroscopy to unveil masses and metallicities. We now require TESS short cadence light curves to obtain primary and secondary eclipses, and hence measure the radius and temperature. We request 2-minute observations and funding such that we can develop the most comprehensive sample of M-dwarfs known, significantly refine the empirical mass-radius-metallicity-temperature relation, assisting both exoplanet hunters and stellar modellers
 
+
+# Sector 040 targets observed (2 min: 20, 20 s: 0)
+112857508,292.584,28.8182,9.96,G04157
+407131841,287.4978,29.0307,11.38,G04157;G04171
+22113313,269.2633,32.2747,10.43,G04157
+22513851,271.795,33.6252,11.12,G04157
+322606029,279.1659,27.2364,10.0,G04157
+68271160,280.2048,34.5596,9.84,G04157
+342061072,270.044,21.7529,11.38,G04157
+229495981,296.636,60.889,11.61,G04157;G04171
+299096355,289.0759,51.7571,10.94,G04157;G04171;G04098;G04242
+47762157,280.084,50.8143,13.1,G04157;G04171
+48191564,282.6716,50.9132,11.74,G04157;G04171
+198358825,256.3569,55.7241,11.44,G04157;G04231;G04171
+422987634,260.7584,47.3453,12.0,G04157
+198614722,271.3983,43.9756,12.68,G04157
+416103498,273.6852,42.6943,11.46,G04157
+76073981,272.8942,40.2111,10.66,G04157
+164461124,283.169,42.7921,11.11,G04157;G04171
+164527723,283.47,45.0525,11.33,G04157;G04171
+48450535,284.7619,48.6099,11.13,G04157;G04171
+289949453,110.9026,79.1323,8.71,G04157;G04171

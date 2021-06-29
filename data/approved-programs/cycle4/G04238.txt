@@ -1,0 +1,13 @@
+# TESS Program G04238
+
+Title: How Correlated Are Photometric And Radial Velocity Variability?
+
+PI: Tayar, Jamie - University Of Hawaii (Manoa)
+
+Type: SMALL
+
+Summary: Stars are dynamic systems, with temporal variations from spots, faculae, granulation, meridional flows, pulsations, and flares all of which impact both the overall stellar brightness as well as the stellar spectrum. To further explore the relationship between these intrinsic stellar properties and their impact on the photometric and radial velocity time series of G and M stars we propose to collect simultaneous TESS short cadence photometry, and continuous optical and infrared radial velocity monitoring for four well characterized bright stars. These observations will not only help us explore the relationship between the physical and observational variability of these stars but will also inform planet search programs on the ability of precise photometry to predict the degree of RV jitter.
+
+
+# Sector 040 targets observed (2 min: 1, 20 s: 1)
+160422712,235.339,75.9885,9.81,G04129;G04238;G04211;G04006;20SECONDTARGET

@@ -1,6 +1,6 @@
 # TESS Program G04215
 
-Title: A Systematic Study To Characterize Rapid Optical Variability Of Agn And Search For Quasi-Periodic Oscillations
+Title: A Systematic Study To Characterize Rapid Optical Variability Of AGN And Search For Quasi-Periodic Oscillations
 
 PI: Pasham, Dheeraj - Massachusetts Institute Of Technology
 

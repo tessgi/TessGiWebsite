@@ -1,0 +1,13 @@
+# TESS Program G04081
+
+Title: Early-L Dwarf Variability From Ground And Space: Spots, Clouds Or Aurorae?
+
+PI: Mccarthy, Allison - Boston University
+
+Type: SMALL
+
+Summary: Photometric variability observed in L dwarfs could be due to rotating magnetic spots, clouds, aurorae, or a combination therein. We propose 16 early L dwarf targets for short-cadence TESS observations, 10 of which we will simultaneously observe at infrared wavelengths from the ground. For the 10 targets with simultaneous optical/IR observations, the differences in amplitude and phase between the optical and IR light curves will determine the relative roles of spots, clouds, and aurorae in L dwarf variability. For the remaining 6, we will measure their variability characteristics using TESS data alone. The results are crucial for interpreting future JWST observations of L-type planetary companions to sun-like stars and L-type planetary-mass objects.
+
+
+# Sector 040 targets observed (2 min: 1, 20 s: 0)
+298554585,271.8166,50.258,16.28,G04171;G04081
