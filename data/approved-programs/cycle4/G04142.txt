@@ -1,0 +1,17 @@
+# TESS Program G04142
+
+Title: Understanding The Evolution Of White-Light And UV Flare Emission In Low-Mass Stars With Hst And TESS
+
+PI: Jackman, James - Arizona State University
+
+Type: SMALL
+
+Summary: Flare studies are now measuring how the magnetic activity of low-mass stars changes with age, however it is not known whether these age-dependent white-light flare rates accurately trace the evolution of ultraviolet (UV) flares. We propose to obtain 20 second cadence lightcurves for 122 K and M stars previously observed with the Hubble Space Telescope (HST), to measure white-light flare rates. These stars range from pre-main sequence to field age stars and include stars associated with the Hyades cluster. By comparing how the UV and white-light flare rates change with age and testing whether white-light rates can accurately predict the flare behaviour in the UV, we will provide an insight into the contribution of flares to the UV environments of exoplanets, both young and old.
+
+
+# Sector 040 targets observed (2 min: 5, 20 s: 5)
+359676790,280.679,59.6411,6.72,G04142;G04211;G04148;G04188;20SECONDTARGET
+26656591,292.5662,49.5362,9.61,G04142;20SECONDTARGET
+271164763,294.6359,46.0664,12.46,G04171;G04142;G04091;20SECONDTARGET
+230123572,250.6562,68.1047,6.85,G04142;G04191;20SECONDTARGET
+441801208,265.2755,72.4221,6.95,G04104;G04142;G04191;20SECONDTARGET

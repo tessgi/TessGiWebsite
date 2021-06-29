@@ -1,6 +1,6 @@
 # TESS Program G04201
 
-Title: T-Tde: The TESS Tidal Disruption Experiment
+Title: T-TDE: The TESS Tidal Disruption Experiment
 
 PI: Holoien, Thomas - Carnegie Institution Of Washington
 

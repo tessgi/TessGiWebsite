@@ -1,6 +1,6 @@
 # TESS Program G04135
 
-Title: Quavar: A Pipeline And Legacy Sample For Agn Variability And Accretion Disk Physics
+Title: Quavar: A Pipeline And Legacy Sample For AGN Variability And Accretion Disk Physics
 
 PI: Smith, Krista - Southern Methodist University
 
