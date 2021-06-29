@@ -1,0 +1,16 @@
+# TESS Program G04069
+
+Title: Confirming Ultra-Hot Jupiters From TESS
+
+PI: Jackson, Brian - Boise State University
+
+Type: SMALL
+
+Summary: Ultra-hot Jupiters UHJs present many observational opportunities and theoretical conundra. Their large masses and short periods facilitate follow-up, and observational evidence points to ongoing tidal decay of their orbits, demanding an accurate catalog for long-term monitoring. Their phase curves evince dynamic meteorology involving disassociation, ionization, and magnetic fields. Unfortunately, UHJs are among the most challenging to confirm, but a focused light curve analysis and radial velocity measurements can surmount these difficulties. We propose to use Cycles 1 through 3 TESS data, leavened with ground-based observations and a small number of 2-min cadence observations from Cycle 4, to validate or confirm UHJ candidates and search for phase curves diagnostic of exotic meteorology.
+
+
+# Sector 040 targets observed (2 min: 4, 20 s: 0)
+258402425,274.4167,23.9176,9.87,G04069;G04242;G04039;G04103
+49967354,277.9077,13.8979,10.88,G04069;G04242;G04039
+73560357,281.4058,16.4154,10.82,G04069;G04242;G04039
+76197937,273.7027,37.63,10.86,G04069;G04242;G04039

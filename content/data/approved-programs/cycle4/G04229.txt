@@ -1,0 +1,18 @@
+# TESS Program G04229
+
+Title: An Investigation Into The Flare Properties And Stellar Magnetism Of Eclipsing Binary Stars
+
+PI: Gilbert, Emily - University Of Chicago
+
+Type: SMALL
+
+Summary: Stellar magnetic activity has been intensely studied for decades. The work in this field focuses largely on single targets, but the majority of stars form in multiples. We propose to study a sample of 24 known eclipsing binaries using TESS 20-second data. We will fully model both the flares and eclipses so that we can study how flare behavior is dependent on the properties of the binary system, such as orbital separation, stellar type, and tidal interactions. We will compare our flare sample to single stars with similar properties (e.g. mass and rotation period) in order to see if binarity affects flare activity. By modeling flares during eclipses, we may provide some of the first geometric constraints on the sizes of flare regions.
+
+
+# Sector 040 targets observed (2 min: 6, 20 s: 6)
+358889371,291.0325,20.1609,14.58,G04229;20SECONDTARGET
+229765298,281.6437,68.9251,12.38,G04229;20SECONDTARGET
+235687559,289.8079,75.5767,13.03,G04229;20SECONDTARGET
+288736177,282.0468,82.1735,12.17,G04229;20SECONDTARGET
+420135872,291.9174,76.6423,13.11,G04229;20SECONDTARGET
+441809977,266.5588,76.1934,13.43,G04229;20SECONDTARGET
