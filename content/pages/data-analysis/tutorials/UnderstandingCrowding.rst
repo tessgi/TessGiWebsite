@@ -293,8 +293,6 @@ principal componants.
     /Users/rhounsel/opt/anaconda3/envs/astroconda/lib/python3.7/site-packages/astropy/utils/decorators.py:535: LightkurveDeprecationWarning: "aperture_mask" was deprecated in version 2.0 and will be removed in a future version. 
       return function(*args, **kwargs)
 
-
-
 .. image:: output_23_1.png
 
 
@@ -302,7 +300,7 @@ principal componants.
 .. image:: output_23_2.png
 
 
-Let’s compare this corrected light curve with our previous light curves.
+Lets compare this corrected light curve with our previous light curves.
 
 .. code:: ipython3
 
