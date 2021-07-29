@@ -19,17 +19,17 @@ Eisner, N. L., Nicholson, B. A., Barragán, O., et al.
 Acton, Jack S., Goad, Michael R., Burleigh, Matthew R., et al.    
 2021, refereed ([2021MNRAS.505.2741A](http://adsabs.harvard.edu/abs/2021MNRAS.505.2741A))  
 
-4. [TOI-220 B: A WARM SUB-NEPTUNE DISCOVERED BY TESS](http://adsabs.harvard.edu/abs/2021MNRAS.505.3361H)  
+4. [HOT PLANETS AROUND COOL STARS - TWO SHORT-PERIOD MINI-NEPTUNES TRANSITING THE LATE K-DWARF TOI-1260](http://adsabs.harvard.edu/abs/2021MNRAS.505.4684G)  
+Georgieva, I. Y., Persson, C. M., Barragán, O., et al.    
+2021, refereed ([2021MNRAS.505.4684G](http://adsabs.harvard.edu/abs/2021MNRAS.505.4684G))  
+
+5. [TOI-220 B: A WARM SUB-NEPTUNE DISCOVERED BY TESS](http://adsabs.harvard.edu/abs/2021MNRAS.505.3361H)  
 Hoyer, S., Gandolfi, D., Armstrong, D. J., et al.    
 2021, refereed ([2021MNRAS.505.3361H](http://adsabs.harvard.edu/abs/2021MNRAS.505.3361H))  
 
-5. [A PSF-BASED APPROACH TO TESS HIGH QUALITY DATA OF STELLAR CLUSTERS (PATHOS) - IV. CANDIDATE EXOPLANETS AROUND STARS IN OPEN CLUSTERS: FREQUENCY AND AGE-PLANETARY RADIUS DISTRIBUTION](http://adsabs.harvard.edu/abs/2021MNRAS.505.3767N)  
+6. [A PSF-BASED APPROACH TO TESS HIGH QUALITY DATA OF STELLAR CLUSTERS (PATHOS) - IV. CANDIDATE EXOPLANETS AROUND STARS IN OPEN CLUSTERS: FREQUENCY AND AGE-PLANETARY RADIUS DISTRIBUTION](http://adsabs.harvard.edu/abs/2021MNRAS.505.3767N)  
 Nardiello, D., Deleuil, M., Mantovan, G., et al.    
 2021, refereed ([2021MNRAS.505.3767N](http://adsabs.harvard.edu/abs/2021MNRAS.505.3767N))  
-
-6. [HOT PLANETS AROUND COOL STARS - TWO SHORT-PERIOD MINI-NEPTUNES TRANSITING THE LATE K-DWARF TOI-1260](http://adsabs.harvard.edu/abs/2021MNRAS.505.4684G)  
-Georgieva, I. Y., Persson, C. M., Barragán, O., et al.    
-2021, refereed ([2021MNRAS.505.4684G](http://adsabs.harvard.edu/abs/2021MNRAS.505.4684G))  
 
 7. [HAT-P-58B-HAT-P-64B: SEVEN PLANETS TRANSITING BRIGHT STARS](http://adsabs.harvard.edu/abs/2021AJ....162....7B)  
 Bakos, G. Á., Hartman, J. D., Bhatti, W., et al.    
@@ -55,13 +55,13 @@ Zhang, Zhoujian, Liu, Michael C., Claytor, Zachary R., et al.
 Grieves, Nolan, Bouchy, François, Lendl, Monika, et al.    
 2021, not refereed ([2021arXiv210703480G](http://adsabs.harvard.edu/abs/2021arXiv210703480G))  
 
-13. [TOI-1749: AN M DWARF WITH A TRIO OF PLANETS INCLUDING A NEAR-RESONANT PAIR](http://adsabs.harvard.edu/abs/2021arXiv210705430F)  
-Fukui, A., Korth, J., Livingston, J. H., et al.    
-2021, not refereed ([2021arXiv210705430F](http://adsabs.harvard.edu/abs/2021arXiv210705430F))  
-
-14. [DIRECTLY DETERMINED PROPERTIES OF HD 97658 FROM INTERFEROMETRIC OBSERVATIONS](http://adsabs.harvard.edu/abs/2021arXiv210706254E)  
+13. [DIRECTLY DETERMINED PROPERTIES OF HD 97658 FROM INTERFEROMETRIC OBSERVATIONS](http://adsabs.harvard.edu/abs/2021arXiv210706254E)  
 Ellis, Tyler G., Boyajian, Tabetha, von Braun, Kaspar, et al.    
 2021, not refereed ([2021arXiv210706254E](http://adsabs.harvard.edu/abs/2021arXiv210706254E))  
+
+14. [TOI-1749: AN M DWARF WITH A TRIO OF PLANETS INCLUDING A NEAR-RESONANT PAIR](http://adsabs.harvard.edu/abs/2021arXiv210705430F)  
+Fukui, A., Korth, J., Livingston, J. H., et al.    
+2021, not refereed ([2021arXiv210705430F](http://adsabs.harvard.edu/abs/2021arXiv210705430F))  
 
 15. [CONFIRMATION OF THE LONG-PERIOD PLANET ORBITING GLIESE 411 AND THE DETECTION OF A NEW PLANET CANDIDATE](http://adsabs.harvard.edu/abs/2021arXiv210709087H)  
 Hurt, Spencer A., Fulton, Benjamin, Isaacson, Howard, et al.    
