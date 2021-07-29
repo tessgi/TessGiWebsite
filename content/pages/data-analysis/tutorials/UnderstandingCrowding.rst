@@ -6,8 +6,7 @@ Welcome everyone to our *TESS* Lightkurve splinter session!
 Authors
 -------
 
-`Rebekah
-Hounsell <https://heasarc.gsfc.nasa.gov/docs/tess/helpdesk.html>`__ -
+`Rebekah Hounsell <https://heasarc.gsfc.nasa.gov/docs/tess/helpdesk.html>`__ -
 Support scientist for *TESS* in the NASA GSFC GI Office.
 
 Learning goals
@@ -40,8 +39,7 @@ First time users
 ----------------
 
 If you are not that experienced with *Python*, or cannot download
-*Lightkurve*, you can run this notebook as a `Colab
-notebook <https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index>`__.
+*Lightkurve*, you can run this notebook as a `Colab notebook <https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index>`__.
 Colaboratory allows users to write and execute *Python* in your browser
 with zero configuration required.
 
@@ -75,13 +73,11 @@ For exoplanets, if this excess flux is not removed, it can cause a
 decrease in the apparent planet transit depth and lead to a systematic
 underestimation of the planet radii.
 
-`LightCurve
-Objects <https://docs.lightkurve.org/tutorials/1-getting-started/what-are-lightcurve-objects.html>`__
+`LightCurve Objects <https://docs.lightkurve.org/tutorials/1-getting-started/what-are-lightcurve-objects.html>`__
 have been corrected for this crowding via the data processing pipeline
 developed by the Science Processing Operations Center (SPOC). A
 description of this correction and its application is provided in
-Section 2.3.11 of `this
-paper <https://iopscience.iop.org/article/10.1086/667698/pdf>`__. The
+Section 2.3.11 of `this paper <https://iopscience.iop.org/article/10.1086/667698/pdf>`__. The
 correction however is applied only to the PDCSAP flux and not the SAP
 flux.
 
@@ -273,8 +269,7 @@ crowding.
 As indicated above, the SAP light curve is effected by scattered light
 and noise. We must remove this before correcting for crowding. To do
 this, we can used one of *Lighkurves* built in corrector functions, in
-this case `Pixel Level Decorrelation
-(PLD) <https://docs.lightkurve.org/tutorials/2-creating-light-curves/2-3-k2-pldcorrector.html>`__.
+this case `Pixel Level Decorrelation (PLD) <https://docs.lightkurve.org/tutorials/2-creating-light-curves/2-3-k2-pldcorrector.html>`__.
 
 The inputs required are the TPF, the aperture, and the number of
 principal componants.
