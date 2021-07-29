@@ -288,11 +288,6 @@ principal componants.
     pld_lc = pld.correct(pca_components=5, aperture_mask=tpf.pipeline_mask)
 
 
-.. parsed-literal::
-
-    /Users/rhounsel/opt/anaconda3/envs/astroconda/lib/python3.7/site-packages/astropy/utils/decorators.py:535: LightkurveDeprecationWarning: "aperture_mask" was deprecated in version 2.0 and will be removed in a future version. 
-      return function(*args, **kwargs)
-
 .. image:: output_23_1.png
 
 
