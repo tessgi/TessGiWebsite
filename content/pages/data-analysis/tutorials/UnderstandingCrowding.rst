@@ -214,7 +214,7 @@ File (TPF).
     tpf = lk.search_targetpixelfile('WR21a', sector=36).download(quality_bitmask='hard')
 
 Note for this tutorial we are specifing the ``quality_bitmask`` to be
-‘hard’. This is to ensure that only good quality data is downloaded. We
+``hard``. This is to ensure that only good quality data is downloaded. We
 can now plot our TPF and display the aperture mask that has been defined
 by the SPOC for our object of interest.
 
