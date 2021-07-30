@@ -14,6 +14,8 @@ Authors
 Hounsell <https://heasarc.gsfc.nasa.gov/docs/tess/helpdesk.html>`__ -
 Support scientist for *TESS* in the NASA GSFC GI Office.
 
+.. image:: images/helpdesk.png
+
 Learning Goals
 --------------
 
@@ -185,7 +187,7 @@ function.
 
 
 
-.. image:: output_10_1.png
+.. image:: images/NoiseRemoval/output_10_1.png
 
 
 Note that this cut out is much larger than a typical FFI, this is
@@ -216,7 +218,7 @@ aperture as shown below.
 
 
 
-.. image:: output_13_1.png
+.. image:: images/NoiseRemoval/output_13_1.png
 
 
 Excellent it covers our object! Let’s now make our light curve using
@@ -237,7 +239,7 @@ this aperture and plot the result.
 
 
 
-.. image:: output_15_1.png
+.. image:: images/NoiseRemoval/output_15_1.png
 
 
 2. How to account for instrumental and noise effects within your data using the Corrector class
@@ -296,7 +298,7 @@ Single-Scale CBVs, which contain all systematics combined.
 
 
 
-.. image:: output_19_1.png
+.. image:: images/NoiseRemoval/output_19_1.png
 
 
 The first several CBVs contain most of the systematics. The latter CBVs
@@ -340,7 +342,7 @@ and above tends to indicate a good fit to the data.
 
 
 
-.. image:: output_25_1.png
+.. image:: images/NoiseRemoval/output_25_1.png
 
 
 The above plot indicates that a regularization factor alpha value of
@@ -375,7 +377,7 @@ via a diagnose method.
 
 
 
-.. image:: output_28_1.png
+.. image:: images/NoiseRemoval/output_28_1.png
 
 
 We can see that a correction was applied which has removed some of the
@@ -414,7 +416,7 @@ principle componant (PCA) as follows,
 
 
 
-.. image:: output_35_0.png
+.. image:: images/NoiseRemoval/output_35_0.png
 
 
 From this we can see that 10 is excessive and we should probably use
@@ -435,7 +437,7 @@ only 5. Let’s do this and plot it up.
 
 
 
-.. image:: output_37_1.png
+.. image:: images/NoiseRemoval/output_37_1.png
 
 
 *Lightkurve’s RegressionCorrector* uses linear algebra to find the
@@ -464,7 +466,7 @@ de-trends the light curves against the vectors.
 
 
 
-.. image:: output_41_0.png
+.. image:: images/NoiseRemoval/output_41_0.png
 
 
 **HOWEVER!** The *RegressionCorrector* assumes that you want to remove
@@ -490,7 +492,7 @@ following code,
 
 
 
-.. image:: output_43_0.png
+.. image:: images/NoiseRemoval/output_43_0.png
 
 
 This has removed all the scattered light and the slope, but again could
@@ -524,7 +526,7 @@ PLDCorrector.correct to remove this scattered light background.
 
 
 
-.. image:: output_45_0.png
+.. image:: images/NoiseRemoval/output_45_0.png
 
 
 We can also examine the apertures used to perform this correction. For
@@ -539,7 +541,7 @@ reducing the risk of contamination by neighboring stars.
 
 
 
-.. image:: output_47_0.png
+.. image:: images/NoiseRemoval/output_47_0.png
 
 
 Now lets specifically look at our corrected light curve.
@@ -558,7 +560,7 @@ Now lets specifically look at our corrected light curve.
 
 
 
-.. image:: output_49_1.png
+.. image:: images/NoiseRemoval/output_49_1.png
 
 
 The large spike from the scattered light has sucessfully been identified
@@ -597,7 +599,7 @@ light curve originally derived from the FFI’s, and compare our results.
 
 
 
-.. image:: output_52_1.png
+.. image:: images/NoiseRemoval/output_52_1.png
 
 
 Summary
