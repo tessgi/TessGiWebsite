@@ -173,6 +173,7 @@ in August 2015, using pelican-bootstrap and flatly.
 <h3>Authors</h3>
 <p><a class="reference external" href="https://heasarc.gsfc.nasa.gov/docs/tess/helpdesk.html">Rebekah Hounsell</a> -
 Support scientist for <em>TESS</em> in the NASA GSFC GI Office.</p>
+<img alt="" src="images/helpdesk.png" />
 </div>
 <div class="section" id="learning-goals">
 <h3>Learning goals</h3>
@@ -272,7 +273,7 @@ download this via the following functions,</p>
 <pre class="literal-block">
 &lt;matplotlib.axes._subplots.AxesSubplot at 0x7fc6e008eed0&gt;
 </pre>
-<img alt="" src="output_9_1.png" />
+<img alt="" src="images/UnderstandingCrowding/output_9_1.png" />
 <p>This very clearly shows the transit of the system. The flux displayed is
 the PDCSAP flux which has been fully corrected. Let’s see what the SAP
 flux looks like in comparison. We can do this by specifying the column
@@ -285,7 +286,7 @@ in the plot function.</p>
 <pre class="literal-block">
 (2290, 2293)
 </pre>
-<img alt="" src="output_11_1.png" />
+<img alt="" src="images/UnderstandingCrowding/output_11_1.png" />
 <p>The above plot clearly indicates the significant difference in amplitude
 between the PDCSAP and SAP flux. The plot illustrates how much of a
 difference the flux fraction and crowding metric can change the absolute
@@ -300,7 +301,7 @@ depth has changed.</p>
 <pre class="literal-block">
 (2290, 2293)
 </pre>
-<img alt="" src="output_13_1.png" />
+<img alt="" src="images/UnderstandingCrowding/output_13_1.png" />
 <p>The transit depth of the SAP flux is not the same as the PDCSAP. This
 difference is a good indication that the data suffers from crowding.</p>
 </div>
@@ -322,7 +323,7 @@ by the SPOC for our object of interest.</p>
 <pre class="literal-block">
 &lt;matplotlib.axes._subplots.AxesSubplot at 0x7fc702669590&gt;
 </pre>
-<img alt="" src="output_18_1.png" />
+<img alt="" src="images/UnderstandingCrowding/output_18_1.png" />
 <p>The above plot indicates that we are focusing on the right object, but
 that it is indeed crowded by a much brighter star and as such, we need
 to remove the contaminating flux.</p>
@@ -338,7 +339,7 @@ default mask, as shown below.</p>
 <pre class="literal-block">
 &lt;matplotlib.axes._subplots.AxesSubplot at 0x7fc730838450&gt;
 </pre>
-<img alt="" src="output_20_1.png" />
+<img alt="" src="images/UnderstandingCrowding/output_20_1.png" />
 <p>A quick glance at this light curve indicates that there are also long
 term trends/noise that need to be removed before we can correct for
 crowding.</p>
@@ -363,8 +364,8 @@ principal componants.</p>
 <span class="n">pld</span><span class="o">.</span><span class="n">diagnose_masks</span><span class="p">();</span>
 <span class="n">pld_lc</span> <span class="o">=</span> <span class="n">pld</span><span class="o">.</span><span class="n">correct</span><span class="p">(</span><span class="n">pca_components</span><span class="o">=</span><span class="mi">5</span><span class="p">,</span> <span class="n">aperture_mask</span><span class="o">=</span><span class="n">tpf</span><span class="o">.</span><span class="n">pipeline_mask</span><span class="p">)</span>
 </pre>
-<img alt="" src="output_23_1.png" />
-<img alt="" src="output_23_2.png" />
+<img alt="" src="images/UnderstandingCrowding/output_23_1.png" />
+<img alt="" src="images/UnderstandingCrowding/output_23_2.png" />
 <p>Lets compare this corrected light curve with our previous light curves.</p>
 <pre class="code ipython3 literal-block">
 <span class="n">ax</span> <span class="o">=</span> <span class="n">lc36</span><span class="o">.</span><span class="n">scatter</span><span class="p">(</span><span class="n">normalize</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s1">'PDCSAP'</span><span class="p">)</span>
@@ -375,7 +376,7 @@ principal componants.</p>
 <pre class="literal-block">
 (2290, 2293)
 </pre>
-<img alt="" src="output_25_1.png" />
+<img alt="" src="images/UnderstandingCrowding/output_25_1.png" />
 <p>The depth of the PLD SAP light curve still does not match that of the
 PDCSAP, but there is some improvement in the light curve overall. Let’s
 now apply the crowding correction to the pld_lc.</p>
@@ -446,7 +447,7 @@ FLFRCSA.</p>
 <pre class="literal-block">
 (2290, 2293)
 </pre>
-<img alt="" src="output_45_1.png" />
+<img alt="" src="images/UnderstandingCrowding/output_45_1.png" />
 <pre class="code ipython3 literal-block">
 <span class="n">np</span><span class="o">.</span><span class="n">nanmedian</span><span class="p">(</span><span class="n">lc_corr</span><span class="o">.</span><span class="n">flux</span><span class="o">.</span><span class="n">value</span><span class="p">)</span>
 </pre>
@@ -482,7 +483,7 @@ improve this reduction.</p>
 <span class="n">cbvCorrector</span><span class="o">.</span><span class="n">correct_gaussian_prior</span><span class="p">(</span><span class="n">cbv_type</span><span class="o">=</span><span class="n">cbv_type</span><span class="p">,</span> <span class="n">cbv_indices</span><span class="o">=</span><span class="n">cbv_indices</span><span class="p">,</span> <span class="n">alpha</span><span class="o">=</span><span class="mf">1e-4</span><span class="p">)</span>
 <span class="n">cbvCorrector</span><span class="o">.</span><span class="n">diagnose</span><span class="p">();</span>
 </pre>
-<img alt="" src="output_49_0.png" />
+<img alt="" src="images/UnderstandingCrowding/output_49_0.png" />
 <p>Let’s check to see if we have over or underfit the data.</p>
 <pre class="code ipython3 literal-block">
 <span class="k">with</span> <span class="n">warnings</span><span class="o">.</span><span class="n">catch_warnings</span><span class="p">():</span>
@@ -490,13 +491,13 @@ improve this reduction.</p>
     <span class="n">warnings</span><span class="o">.</span><span class="n">simplefilter</span><span class="p">(</span><span class="s2">&quot;ignore&quot;</span><span class="p">,</span> <span class="ne">RuntimeWarning</span><span class="p">)</span>
     <span class="n">cbvCorrector</span><span class="o">.</span><span class="n">goodness_metric_scan_plot</span><span class="p">(</span><span class="n">cbv_type</span><span class="o">=</span><span class="n">cbv_type</span><span class="p">,</span> <span class="n">cbv_indices</span><span class="o">=</span><span class="n">cbv_indices</span><span class="p">);</span>
 </pre>
-<img alt="" src="output_51_0.png" />
+<img alt="" src="images/UnderstandingCrowding/output_51_0.png" />
 <p>We might be slightly overfitting, so let’s adjust our alpha.</p>
 <pre class="code ipython3 literal-block">
 <span class="n">cbvCorrector</span><span class="o">.</span><span class="n">correct_gaussian_prior</span><span class="p">(</span><span class="n">cbv_type</span><span class="o">=</span><span class="n">cbv_type</span><span class="p">,</span> <span class="n">cbv_indices</span><span class="o">=</span><span class="n">cbv_indices</span><span class="p">,</span> <span class="n">alpha</span><span class="o">=</span><span class="mf">1e-1</span><span class="p">)</span>
 <span class="n">cbvCorrector</span><span class="o">.</span><span class="n">diagnose</span><span class="p">();</span>
 </pre>
-<img alt="" src="output_53_0.png" />
+<img alt="" src="images/UnderstandingCrowding/output_53_0.png" />
 <p>Now we can apply the crowding corrections.</p>
 <pre class="code ipython3 literal-block">
 <span class="c1"># Perform the FF and CM corrections</span>
@@ -514,7 +515,7 @@ improve this reduction.</p>
 <span class="n">lc_cbv_corr</span><span class="o">.</span><span class="n">scatter</span><span class="p">(</span><span class="n">ax</span><span class="o">=</span><span class="n">ax</span><span class="p">,</span> <span class="n">normalize</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">color</span><span class="o">=</span><span class="s1">'cyan'</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s1">'CBV Corrected'</span><span class="p">,</span> <span class="n">alpha</span><span class="o">=</span><span class="mf">0.5</span><span class="p">)</span>
 <span class="n">plt</span><span class="o">.</span><span class="n">xlim</span><span class="p">(</span><span class="n">xmin</span><span class="o">=</span><span class="mi">2290</span><span class="p">,</span> <span class="n">xmax</span><span class="o">=</span><span class="mi">2293</span><span class="p">);</span>
 </pre>
-<img alt="" src="output_57_0.png" />
+<img alt="" src="images/UnderstandingCrowding/output_57_0.png" />
 <p>Finally, we can compare our PLD and CBV corrected light curves.</p>
 <pre class="code ipython3 literal-block">
 <span class="n">ax</span> <span class="o">=</span> <span class="n">lc36</span><span class="o">.</span><span class="n">scatter</span><span class="p">(</span><span class="n">normalize</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s1">'PDCSAP'</span><span class="p">)</span>
@@ -523,7 +524,7 @@ improve this reduction.</p>
 <span class="n">plt</span><span class="o">.</span><span class="n">title</span><span class="p">(</span><span class="s1">'Comparing PLD correction to CBV Correction'</span><span class="p">)</span>
 <span class="n">plt</span><span class="o">.</span><span class="n">xlim</span><span class="p">(</span><span class="n">xmin</span><span class="o">=</span><span class="mi">2290</span><span class="p">,</span> <span class="n">xmax</span><span class="o">=</span><span class="mi">2293</span><span class="p">);</span>
 </pre>
-<img alt="" src="output_59_0.png" />
+<img alt="" src="images/UnderstandingCrowding/output_59_0.png" />
 <p>The CBV light curve might be a better match to the PDCSAP.</p>
 </div>
 </div>
