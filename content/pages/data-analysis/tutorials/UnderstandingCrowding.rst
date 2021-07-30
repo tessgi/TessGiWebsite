@@ -13,6 +13,8 @@ Authors
 `Rebekah Hounsell <https://heasarc.gsfc.nasa.gov/docs/tess/helpdesk.html>`__ -
 Support scientist for *TESS* in the NASA GSFC GI Office.
 
+.. image:: images/helpdesk.png
+
 Learning goals
 --------------
 
@@ -145,7 +147,7 @@ download this via the following functions,
 
 
 
-.. image:: output_9_1.png
+.. image:: images/UnderstandingCrowding/output_9_1.png
 
 
 This very clearly shows the transit of the system. The flux displayed is
@@ -169,7 +171,7 @@ in the plot function.
 
 
 
-.. image:: output_11_1.png
+.. image:: images/UnderstandingCrowding/output_11_1.png
 
 
 The above plot clearly indicates the significant difference in amplitude
@@ -196,7 +198,7 @@ depth has changed.
 
 
 
-.. image:: output_13_1.png
+.. image:: images/UnderstandingCrowding/output_13_1.png
 
 
 The transit depth of the SAP flux is not the same as the PDCSAP. This
@@ -232,7 +234,7 @@ by the SPOC for our object of interest.
 
 
 
-.. image:: output_18_1.png
+.. image:: images/UnderstandingCrowding/output_18_1.png
 
 
 The above plot indicates that we are focusing on the right object, but
@@ -260,7 +262,7 @@ default mask, as shown below.
 
 
 
-.. image:: output_20_1.png
+.. image:: images/UnderstandingCrowding/output_20_1.png
 
 
 A quick glance at this light curve indicates that there are also long
@@ -292,11 +294,11 @@ principal componants.
     pld_lc = pld.correct(pca_components=5, aperture_mask=tpf.pipeline_mask)
 
 
-.. image:: output_23_1.png
+.. image:: images/UnderstandingCrowding/output_23_1.png
 
 
 
-.. image:: output_23_2.png
+.. image:: images/UnderstandingCrowding/output_23_2.png
 
 
 Lets compare this corrected light curve with our previous light curves.
@@ -318,7 +320,7 @@ Lets compare this corrected light curve with our previous light curves.
 
 
 
-.. image:: output_25_1.png
+.. image:: images/UnderstandingCrowding/output_25_1.png
 
 
 The depth of the PLD SAP light curve still does not match that of the
@@ -431,7 +433,7 @@ Let’s plot and compare to our previous light curves.
 
 
 
-.. image:: output_45_1.png
+.. image:: images/UnderstandingCrowding/output_45_1.png
 
 
 .. code:: ipython3
@@ -488,7 +490,7 @@ CBVCorrector
 
 
 
-.. image:: output_49_0.png
+.. image:: images/UnderstandingCrowding/output_49_0.png
 
 
 Let’s check to see if we have over or underfit the data.
@@ -502,7 +504,7 @@ Let’s check to see if we have over or underfit the data.
 
 
 
-.. image:: output_51_0.png
+.. image:: images/UnderstandingCrowding/output_51_0.png
 
 
 We might be slightly overfitting, so let’s adjust our alpha.
@@ -514,7 +516,7 @@ We might be slightly overfitting, so let’s adjust our alpha.
 
 
 
-.. image:: output_53_0.png
+.. image:: images/UnderstandingCrowding/output_53_0.png
 
 
 Now we can apply the crowding corrections.
@@ -540,7 +542,7 @@ We can now compare to the PDCSAP and SAP light curves.
 
 
 
-.. image:: output_57_0.png
+.. image:: images/UnderstandingCrowding/output_57_0.png
 
 
 Finally, we can compare our PLD and CBV corrected light curves.
@@ -555,7 +557,7 @@ Finally, we can compare our PLD and CBV corrected light curves.
 
 
 
-.. image:: output_59_0.png
+.. image:: images/UnderstandingCrowding/output_59_0.png
 
 
 The CBV light curve might be a better match to the PDCSAP.
