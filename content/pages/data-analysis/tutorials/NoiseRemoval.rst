@@ -15,6 +15,12 @@ Hounsell <https://heasarc.gsfc.nasa.gov/docs/tess/helpdesk.html>`__ -
 Support scientist for *TESS* in the NASA GSFC GI Office.
 
 .. image:: images/helpdesk.png
+	   
+Download the notebook
+=====================
+
+If you would like to download a copy of this notebook you can do so
+`here <https://heasarc.gsfc.nasa.gov/docs/tess/docs/tutorials/NoiseRemoval.ipynb>`__
 
 Learning Goals
 --------------
