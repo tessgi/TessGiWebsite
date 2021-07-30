@@ -21,7 +21,7 @@ Download the notebook
 
 If you would like to download a copy of this notebook you can do so
 
-:download:`here1 <doc/tutorials/TSC2-Intro.ipynb>`
+.. download:: `here1 <doc/tutorials/TSC2-Intro.ipynb>`
 
 Learning Goals
 --------------
