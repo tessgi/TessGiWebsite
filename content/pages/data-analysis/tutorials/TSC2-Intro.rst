@@ -20,7 +20,8 @@ Download the notebook
 =====================
 
 If you would like to download a copy of this notebook you can do so
-`here <https://heasarc.gsfc.nasa.gov/docs/tess/docs/tutorials/TSC2-Intro.ipynb>`__
+
+:download:`here <doc/tutorials/TSC2-Intro.ipynb>`
 
 Learning Goals
 --------------
