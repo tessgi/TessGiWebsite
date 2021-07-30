@@ -174,6 +174,7 @@ in August 2015, using pelican-bootstrap and flatly.
 <p><a class="reference external" href="https://heasarc.gsfc.nasa.gov/docs/tess/helpdesk.html">Rebekah
 Hounsell</a> -
 Support scientist for <em>TESS</em> in the NASA GSFC GI Office.</p>
+<img alt="" src="images/helpdesk.png" />
 </div>
 <div class="section" id="learning-goals">
 <h3>Learning Goals</h3>
@@ -229,6 +230,7 @@ investigator (GI) program.</p>
 <p>Over the last three years <em>TESS</em> has observed both the northern and
 southern hemispheres, with each hemisphere being split into ~13 sectors.
 Each sector is observed for ~27 days by <em>TESS’s</em> four cameras.</p>
+<img alt="" src="images/sector.png" />
 <p>The main data products collected by the <em>TESS</em> mission are described
 below.</p>
 <ul class="simple">
@@ -254,8 +256,8 @@ pages</a>.</p>
 for Space Telescopes
 (MAST)</a>
 archive or via the <em>Lightkurve</em> package (see Section 2).</p>
-<p>Here, we are focusing on obtaining your data via the MAST portal. Using
-the portal, you can enter the name of your object, its TIC number, or
+<p>Here, we are focusing on obtaining your data via the MAST portal.
+Using the portal, you can enter the name of your object, its TIC number, or
 position (i.e., R.A and Dec). If listed in the archive, the table
 containing each observation will be returned.</p>
 <video width="100%" height="100%" controls src="MAST-recording.mov" /></div>
@@ -506,7 +508,7 @@ look like.</p>
 <span class="n">ax</span> <span class="o">=</span> <span class="n">lcf</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">column</span><span class="o">=</span><span class="s1">'sap_flux'</span><span class="p">,</span> <span class="n">normalize</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s2">&quot;SAP&quot;</span><span class="p">);</span>
 <span class="n">lcf</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">ax</span><span class="o">=</span><span class="n">ax</span><span class="p">,</span> <span class="n">column</span><span class="o">=</span><span class="s1">'pdcsap_flux'</span><span class="p">,</span> <span class="n">normalize</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s2">&quot;PDCSAP&quot;</span><span class="p">);</span>
 </pre>
-<img alt="" src="output_24_0.png" />
+<img alt="" src="images/TSC2-Intro/output_24_0.png" />
 <p>There are some big differences between these two light curves,
 specifically the dips in the SAP light curve and its overall gradent.
 These differences are caused by scattered light and other noise issues.
@@ -540,7 +542,7 @@ stick with the PDCSAP flux.</p>
 <pre class="literal-block">
 Text(0.5, 1.0, 'PDCSAP light curve of  L 98-59')
 </pre>
-<img alt="" src="output_26_1.png" />
+<img alt="" src="images/TSC2-Intro/output_26_1.png" />
 </div>
 <div class="section" id="flattening">
 <h5>Flattening</h5>
@@ -548,7 +550,7 @@ Text(0.5, 1.0, 'PDCSAP light curve of  L 98-59')
 <span class="n">flat_lc</span> <span class="o">=</span> <span class="n">lcf</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span><span class="o">.</span><span class="n">flatten</span><span class="p">(</span><span class="n">window_length</span><span class="o">=</span><span class="mi">401</span><span class="p">)</span>
 <span class="n">flat_lc</span><span class="o">.</span><span class="n">plot</span><span class="p">();</span>
 </pre>
-<img alt="" src="output_28_0.png" />
+<img alt="" src="images/TSC2-Intro/output_28_0.png" />
 </div>
 <div class="section" id="folding-the-light-curve">
 <h5>Folding the light curve</h5>
@@ -559,7 +561,7 @@ the <tt class="docutils literal">fold()</tt> function to find the transit in our
 <span class="n">folded_lc</span> <span class="o">=</span> <span class="n">flat_lc</span><span class="o">.</span><span class="n">fold</span><span class="p">(</span><span class="n">period</span><span class="o">=</span><span class="mf">3.690621</span><span class="p">)</span>
 <span class="n">folded_lc</span><span class="o">.</span><span class="n">plot</span><span class="p">();</span>
 </pre>
-<img alt="" src="output_30_0.png" />
+<img alt="" src="images/TSC2-Intro/output_30_0.png" />
 </div>
 <div class="section" id="binning-the-light-curve">
 <h5>Binning the light curve</h5>
@@ -569,7 +571,7 @@ achieved via the <tt class="docutils literal">bin()</tt> function.</p>
 <span class="n">binned_lc</span> <span class="o">=</span> <span class="n">folded_lc</span><span class="o">.</span><span class="n">bin</span><span class="p">(</span><span class="n">time_bin_size</span><span class="o">=</span><span class="mf">0.01</span><span class="p">)</span>
 <span class="n">binned_lc</span><span class="o">.</span><span class="n">plot</span><span class="p">();</span>
 </pre>
-<img alt="" src="output_32_0.png" />
+<img alt="" src="images/TSC2-Intro/output_32_0.png" />
 <p>Great, we can now see our transit very clearly! Note that we can achieve
 the same plot from our data using one line of code instead of several,
 see below.</p>
@@ -631,7 +633,7 @@ object is at the center of it.</p>
 <pre class="literal-block">
 &lt;matplotlib.axes._subplots.AxesSubplot at 0x7f84b36fd0d0&gt;
 </pre>
-<img alt="" src="output_40_1.png" />
+<img alt="" src="images/TSC2-Intro/output_40_1.png" />
 <p>The above figure indicates the pixels on the CCD camera, with which <em>L
 98-59</em> was observed. The color indicates the amount of flux in each
 pixel, in electrons per second. The y-axis shows the pixel row, and the
@@ -665,7 +667,7 @@ this mask using plot.</p>
 <pre class="code ipython3 literal-block">
 <span class="n">ffi_data</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">aperture_mask</span><span class="o">=</span><span class="n">target_mask</span><span class="p">,</span> <span class="n">mask_color</span><span class="o">=</span><span class="s1">'r'</span><span class="p">);</span>
 </pre>
-<img alt="" src="output_44_0.png" />
+<img alt="" src="images/TSC2-Intro/output_44_0.png" />
 <p>Nice! We see our target mask centered on the 9 brightest pixels in the
 center of the image. Let’s see what the light curve looks like. Note
 that this light curve will be uncorrected for any anomalies or noise,
@@ -715,7 +717,7 @@ the SAP flux.</p>
 <pre class="literal-block">
 &lt;matplotlib.axes._subplots.AxesSubplot at 0x7f84b08b7550&gt;
 </pre>
-<img alt="" src="output_50_1.png" />
+<img alt="" src="images/TSC2-Intro/output_50_1.png" />
 <p>Looking at the above light curve, we can see two dominant peaks and
 observe that the flux in the aperture is dominated by what is known as
 scattered light. We can tell this because <em>TESS</em> orbits Earth twice in
@@ -735,7 +737,7 @@ the PDCSAP light curve derived from our Light Curve File.</p>
 <pre class="literal-block">
 &lt;matplotlib.axes._subplots.AxesSubplot at 0x7f849105ccd0&gt;
 </pre>
-<img alt="" src="output_53_1.png" />
+<img alt="" src="images/TSC2-Intro/output_53_1.png" />
 <p>Looking at the figure above, you can see that the SAP light curve has a
 long-term change in brightness that has been removed in the PDCSAP light
 curve, while keeping the transits at the same depth. For most
