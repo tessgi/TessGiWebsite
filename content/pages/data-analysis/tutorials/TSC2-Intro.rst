@@ -21,6 +21,12 @@ Download the notebook
 
 If you would like to download a copy of this notebook you can do so
 .. image:: doc/tutorials/TSC2-Intro.ipynb
+.. raw:: html
+
+   <p><a class="reference download internal" href="doc/tutorials/TSC2-Intro.ipynb">
+   <tt class="xref download docutils literal">
+   HERE
+   </tt></a><p>
 
 
 Learning Goals
