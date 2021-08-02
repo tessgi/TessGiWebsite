@@ -19,13 +19,13 @@ Support scientist for *TESS* in the NASA GSFC GI Office.
 Download the notebook
 =====================
 
-If you would like to download a copy of this notebook you can do so
+If you would like to download a copy of this notebook you can do so by clicking the link below
 
 .. raw:: html
 
    <p><a class="reference download internal" href="https://tessgi.github.io/TessGiWebsite/docs/tutorials/TSC2-Intro.ipynb">
    <tt class="xref download docutils literal">
-   HERE
+   DOWNLOAD
    </tt></a><p>
 
 
