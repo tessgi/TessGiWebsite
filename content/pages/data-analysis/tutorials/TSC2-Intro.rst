@@ -14,13 +14,13 @@ Authors
 Hounsell <https://heasarc.gsfc.nasa.gov/docs/tess/helpdesk.html>`__ -
 Support scientist for *TESS* in the NASA GSFC GI Office.
 
-.. download:: images/helpdesk.png
+.. image:: images/helpdesk.png
 
 Download the notebook
 =====================
 
 If you would like to download a copy of this notebook you can do so
-.. image:: doc/tutorials/TSC2-Intro.ipynb
+
 .. raw:: html
 
    <p><a class="reference download internal" href="doc/tutorials/TSC2-Intro.ipynb">
