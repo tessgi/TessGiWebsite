@@ -3,8 +3,12 @@ Save_as: gallery.html
 
 [TOC]
 
-##New outreach products
+##TESS outreach products
 The TESS GI office has developed some new outreach products for the community. We hope that you enjoy them and can make use of them for your own events. 
+
+[Early Career](images/Early-FIN.pdf) | [Citizen Science](images/Citizenscience-FIN.pdf) |
+:-------------------------|:-------------------------
+<img class="img-responsive" style="max-width:100%;" src="images/Early-FIN.pdf)"> | <img class="img-responsive" style="max-width:100%;" src="images/Citizenscience-FIN.pdf">
 
 [Northern Vista](images/Northernsky-FIN.pdf) | [Old Faithful](images/Oldfaithful-FIN.pdf) |
 :-------------------------|:-------------------------
