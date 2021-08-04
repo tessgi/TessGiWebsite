@@ -3,7 +3,25 @@ Save_as: gallery.html
 
 [TOC]
 
+##TESS outreach products
+The TESS GI office has developed some new outreach products for the community. We hope that you enjoy them and can make use of them for your own events. 
 
+[Early Career Pamphlet](images/Early-FIN.pdf) | [Citizen Science Pamphlet](images/Citizenscience-FIN.pdf) |
+:-------------------------|:-------------------------
+<img class="img-responsive" style="max-width:90%;" src="images/early.png"> | <img class="img-responsive" style="max-width:90%;" src="images/citizen.png">
+
+[Northern Vista](images/Northernsky-FIN.pdf) | [Old Faithful](images/Oldfaithful-FIN.pdf) |
+:-------------------------|:-------------------------
+<img class="img-responsive" style="max-width:100%;" src="images/Northernsky-FIN.pdf"> | <img class="img-responsive" style="max-width:100%;" src="images/Oldfaithful-FIN.pdf">
+
+[River of Young Stars](images/Riverofyoungstars-FIN.pdf) | [Triple System](images/Triplesystem-FIN.pdf) |
+:-------------------------|:-------------------------
+<img class="img-responsive" style="max-width:100%;" src="images/Riverofyoungstars-FIN.pdf"> | <img class="img-responsive" style="max-width:100%;" src="images/Triplesystem-FIN.pdf">
+
+<center>
+[Survivor](images/Survivor-FIN.pdf)
+<img class="img-responsive" style="max-width:50%;" src="images/Survivor-FIN.pdf" > 
+</center>
 
 ## TESS gallery
 A gallery of TESS videos, animations, still images, and other resources are maintained by NASA Goddard's Scientific Visualization Studio (SVS). Visit the [TESS gallery](https://svs.gsfc.nasa.gov/Gallery/TESS.html) to access the latest graphics that are downloadable in a wide range of formats.
