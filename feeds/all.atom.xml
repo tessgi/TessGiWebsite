@@ -1,5 +1,98 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>TESS</title><link href="https://heasarc.gsfc.nasa.gov/docs/tess/" rel="alternate"></link><link href="https://heasarc.gsfc.nasa.gov/docs/tess/feeds/all.atom.xml" rel="self"></link><id>https://heasarc.gsfc.nasa.gov/docs/tess/</id><updated>2021-07-29T10:00:00-04:00</updated><entry><title>TESS Weekly Bulletin: July 28th</title><link href="https://heasarc.gsfc.nasa.gov/docs/tess/tess-weekly-bulletin-july-28th.html" rel="alternate"></link><published>2021-07-29T10:00:00-04:00</published><updated>2021-07-29T10:00:00-04:00</updated><author><name>Rebekah Hounsell</name></author><id>tag:heasarc.gsfc.nasa.gov,2021-07-29:/docs/tess/tess-weekly-bulletin-july-28th.html</id><summary type="html">&lt;p&gt;&lt;code&gt;STATUS UPDATE: Orbit 1 of Sector 40 is now available to download as a TICA product from MAST&lt;/code&gt;&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>TESS</title><link href="https://heasarc.gsfc.nasa.gov/docs/tess/" rel="alternate"></link><link href="https://heasarc.gsfc.nasa.gov/docs/tess/feeds/all.atom.xml" rel="self"></link><id>https://heasarc.gsfc.nasa.gov/docs/tess/</id><updated>2021-08-04T10:00:00-04:00</updated><entry><title>New TESS outreach products</title><link href="https://heasarc.gsfc.nasa.gov/docs/tess/new-tess-outreach-products.html" rel="alternate"></link><published>2021-08-04T10:00:00-04:00</published><updated>2021-08-04T10:00:00-04:00</updated><author><name>Rebekah Hounsell</name></author><id>tag:heasarc.gsfc.nasa.gov,2021-08-04:/docs/tess/new-tess-outreach-products.html</id><summary type="html">&lt;p&gt;Welcome TESS followers to this special news bulletin!&lt;/p&gt;
+&lt;p&gt;The TESS GI Office would like to share with you, the user, several new &lt;a href="gallery.html"&gt;outreach products&lt;/a&gt; that we have developed.
+Please feel free to download these and use them at your own events.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align="left"&gt;&lt;a href="images/Early-FIN.pdf"&gt;Early Career Pamphlet&lt;/a&gt;&lt;/th&gt;
+&lt;th align="left"&gt;&lt;a href="images/Citizenscience-FIN.pdf"&gt;Citizen Science Pamphlet&lt;/a&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;&lt;img class="img-responsive" style="max-width:80%;" src="images/early.png"&gt;&lt;/td&gt;
+&lt;td align="left"&gt;&lt;img class="img-responsive" style="max-width:80%;" src="images/citizen.png"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align="left"&gt;&lt;a href="images/Northernsky-FIN.pdf"&gt;Northern Vista&lt;/a&gt;&lt;/th&gt;
+&lt;th align="left"&gt;&lt;a href="images/Oldfaithful-FIN.pdf"&gt;Old …&lt;/a&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;/table&gt;</summary><content type="html">&lt;p&gt;Welcome TESS followers to this special news bulletin!&lt;/p&gt;
+&lt;p&gt;The TESS GI Office would like to share with you, the user, several new &lt;a href="gallery.html"&gt;outreach products&lt;/a&gt; that we have developed.
+Please feel free to download these and use them at your own events.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align="left"&gt;&lt;a href="images/Early-FIN.pdf"&gt;Early Career Pamphlet&lt;/a&gt;&lt;/th&gt;
+&lt;th align="left"&gt;&lt;a href="images/Citizenscience-FIN.pdf"&gt;Citizen Science Pamphlet&lt;/a&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;&lt;img class="img-responsive" style="max-width:80%;" src="images/early.png"&gt;&lt;/td&gt;
+&lt;td align="left"&gt;&lt;img class="img-responsive" style="max-width:80%;" src="images/citizen.png"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align="left"&gt;&lt;a href="images/Northernsky-FIN.pdf"&gt;Northern Vista&lt;/a&gt;&lt;/th&gt;
+&lt;th align="left"&gt;&lt;a href="images/Oldfaithful-FIN.pdf"&gt;Old Faithful&lt;/a&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;&lt;img class="img-responsive" style="max-width:100%;" src="images/Northernsky-FIN.pdf"&gt;&lt;/td&gt;
+&lt;td align="left"&gt;&lt;img class="img-responsive" style="max-width:100%;" src="images/Oldfaithful-FIN.pdf"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align="left"&gt;&lt;a href="images/Riverofyoungstars-FIN.pdf"&gt;River of Young Stars&lt;/a&gt;&lt;/th&gt;
+&lt;th align="left"&gt;&lt;a href="images/Triplesystem-FIN.pdf"&gt;Triple System&lt;/a&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;&lt;img class="img-responsive" style="max-width:100%;" src="images/Riverofyoungstars-FIN.pdf"&gt;&lt;/td&gt;
+&lt;td align="left"&gt;&lt;img class="img-responsive" style="max-width:100%;" src="images/Triplesystem-FIN.pdf"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;center&gt;
+&lt;a href="images/Survivor-FIN.pdf"&gt;Survivor&lt;/a&gt;
+&lt;img class="img-responsive" style="max-width:50%;" src="images/Survivor-FIN.pdf" &gt; 
+&lt;/center&gt;&lt;/p&gt;</content><category term="news"></category></entry><entry><title>TESS Weekly Bulletin: August 2nd</title><link href="https://heasarc.gsfc.nasa.gov/docs/tess/tess-weekly-bulletin-august-2nd.html" rel="alternate"></link><published>2021-08-02T10:00:00-04:00</published><updated>2021-08-02T10:00:00-04:00</updated><author><name>Rebekah Hounsell</name></author><id>tag:heasarc.gsfc.nasa.gov,2021-08-02:/docs/tess/tess-weekly-bulletin-august-2nd.html</id><summary type="html">&lt;p&gt;&lt;code&gt;STATUS UPDATE: Orbit 2 of Sector 40 is now available to download as a TICA product from MAST&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Welcome TESS followers this weeks news bulletin in which we look at three papers from the archive, &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href="https://arxiv.org/abs/2107.14737"&gt;A Second Planet Transiting LTT~1445A and a Determination of the Masses of Both Worlds …&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;code&gt;STATUS UPDATE: Orbit 2 of Sector 40 is now available to download as a TICA product from MAST&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Welcome TESS followers this weeks news bulletin in which we look at three papers from the archive, &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href="https://arxiv.org/abs/2107.14737"&gt;A Second Planet Transiting LTT~1445A and a Determination of the Masses of Both Worlds&lt;/a&gt;&lt;/strong&gt; &lt;em&gt;(Winters et. al., 2021)&lt;/em&gt; &lt;strong&gt;:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In this paper the authors present the discovery of a new world orbiting  LTT 1445A, the primary star in a hierarchical triple M-dwarf star system located at a distance of 6.86 parsecs. The star is roughly a quarter the mass of our Sun, and is known to host LTT 1445Ab, a transiting planet with an orbital period of 5.4 days.&lt;/p&gt;
+&lt;p&gt;The second planet, LTT 1445Ac,  was discovered by the authors using TESS data, and was found to have an orbital period of 3.1 days. &lt;/p&gt;
+&lt;p&gt;Utilizing radial velocity measurements taken from additional facilities, the mass and radius of the two planet were determined.  LTT 1445Ab  has a mass of 2.87 M&lt;sub&gt;Earth&lt;/sub&gt;  and a radius of 1.304 R&lt;sub&gt;Earth&lt;/sub&gt;, consistent with an Earth-like composition of 33% iron and 67% magnesium silicate. LTT 1445Ac has a mass of 1.54 M&lt;sub&gt;Earth&lt;/sub&gt;   (0.161 M&lt;sub&gt;Sun&lt;/sub&gt;) and a minimum radius of 1.15 R&lt;sub&gt;Earth&lt;/sub&gt;. &lt;/p&gt;
+&lt;p&gt;The orbits of the two planets are consistent with being circular, but they are mutually inclined by at least 2.25 degrees. &lt;/p&gt;
+&lt;p&gt;Photometry and spectroscopy of the three stars in the system indicate that LTT 1445C is likely the source of the 1.4 day rotation period, whilst LTT 1445B  has a rotation period of 6.7 days. The planet host star, LTT 1445A, has a likely rotation period of 85 days. &lt;/p&gt;
+&lt;p&gt;All data collected on this triple M-dwarf system, indicate that it is in a special evolutionary stage where the most massive M dwarf has spun down, the intermediate mass M dwarf is in the process of spinning down, while the least massive stellar component has not yet begun to spin down.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href="https://arxiv.org/abs/2107.14125"&gt;A large sub-Neptune transiting the thick-disk M4V TOI-2406&lt;/a&gt;&lt;/strong&gt; &lt;em&gt;(Wells et al.,  2021)&lt;/em&gt; &lt;strong&gt;:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In this paper the authors report on the discovery and validation of a sub-Neptune planet orbiting TOI-2406, a mid-M dwarf.&lt;/p&gt;
+&lt;p&gt;The host star properties were inferred using near-infrared spectra, spectral energy distributions, and Gaia parallax measurements. The host was found to be a metal-poor M4V star, at a distance of 56 pc, with a sub-solar metallically of [Fe/H] = -0.38, and is a member of the thick disc.&lt;/p&gt;
+&lt;p&gt;Milti-band photometry were used to confirm that the transit event is on-target and achromatic, and the authors statistically validated the TESS signal as a transiting exoplanet. Planet properties were determined via a global transit model of the TESS and ground-based time-series data. The planet is a relatively large sub-Neptune for the M-dwarf population, has a radius of 2.94 R⊕, a period of 3.077 days, and a transit depth of 2%. &lt;/p&gt;
+&lt;p&gt;Large sub-Neptune planets don't tend to occur around the cooler stars in the Galaxy, and it is even more unlikely when those stars are metal-poor.  This system is therefore very interesting and presents  a benchmark for large-planet formation around metal-poor, low-mass stars. Please see the paper for more information about this fascinating system. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href="https://arxiv.org/abs/2107.13670"&gt;TOI-532b: The Habitable-zone Planet Finder confirms a Large Super Neptune in the Neptune Desert orbiting a metal-rich M dwarf host&lt;/a&gt;&lt;/strong&gt; &lt;em&gt;(Kanodia et. al.,  2021)&lt;/em&gt; &lt;strong&gt;:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;TOI-532b has been confirmed as a planet using a combination of  precise near-infrared radial velocities with the Habitable-zone Planet Finder, TESS light curves, ground based photometric follow-up, and high-contrast imaging. Examination of these data has led to the determination that TOI-532 is a faint, metal-rich M dwarf, with an effective temperature of 3957 K, and a metallicity of  [Fe/H] = 0.38. &lt;/p&gt;
+&lt;p&gt;The star is host to a transiting gaseous planet with a period of 2.3 days, radius of  5.82 R⊕, and a mass of 61.5 M⊕. This planet is the most massive  super Neptune detected around an M dwarf with both mass and radius measurements, and it bridges the gap between the Neptune-sized planets and the heavier Jovian planets known to orbit M dwarfs.  See this paper for more detail.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Winters" src="images/Winters.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fig. 1:&lt;/strong&gt; &lt;em&gt;Taken from  Winters et. al., (2021). Combined transits of LTT 1445Ac (top) and LTT 1445Ab (bottom) observed with TESS. The data have been de-blended to account for the BC component, and are shown in gray, while the orange and purple lines indicate the models for LTT 1445Ac and LTT 1445Ab.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Wells" src="images/Wells.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fig. 2:&lt;/strong&gt; &lt;em&gt;Taken from Wells et. al., (2021). Sector 3 light curve created from FFIs (top) and the Sector 30 2-minute light curve (bottom). The 2-minute data points (grey) have been binned by 15 to produce the black points, with error bars corresponding to the standard deviation in the bins, which match the FFI light curve cadence of 30 min. Regions marked in red were excluded from the analysis: In Sector 3, there were poor-quality engineering data between orbits; and in Sector 30, a significant trend at the end was possibly caused by scattered light. Regions marked in grey correspond to data taken outside of science data acquisition for testing purposes but used in the analysis. One transit occurred in this period, towards the end of Sector 3. The transits of TOI-2406 b are labelled with green markers below the light curves.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Kanodia" src="images/Kanodia.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fig. 3:&lt;/strong&gt; &lt;em&gt;Taken from Kanodia et. al., (2021). Short cadence (2 minute) time series TESS PDCSAP photometry (without detrending) from Sector 6, with the binned data (in 1 hour bins), along with the TOI-532b transits overlaid in blue.&lt;/em&gt;&lt;/p&gt;</content><category term="news"></category></entry><entry><title>TESS Weekly Bulletin: July 28th</title><link href="https://heasarc.gsfc.nasa.gov/docs/tess/tess-weekly-bulletin-july-28th.html" rel="alternate"></link><published>2021-07-29T10:00:00-04:00</published><updated>2021-07-29T10:00:00-04:00</updated><author><name>Rebekah Hounsell</name></author><id>tag:heasarc.gsfc.nasa.gov,2021-07-29:/docs/tess/tess-weekly-bulletin-july-28th.html</id><summary type="html">&lt;p&gt;&lt;code&gt;STATUS UPDATE: Orbit 1 of Sector 40 is now available to download as a TICA product from MAST&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;Welcome TESS followers to this weeks news bulletin. This week we are looking at three papers from the archive, &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href="https://arxiv.org/abs/2107.06293"&gt;EvryFlare IV: Detection of periodicity in flare occurrence from cool stars with TESS …&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;code&gt;STATUS UPDATE: Orbit 1 of Sector 40 is now available to download as a TICA product from MAST&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;Welcome TESS followers to this weeks news bulletin. This week we are looking at three papers from the archive, &lt;/p&gt;
@@ -93,7 +186,13 @@ If you are having problems reducing data or would like some help with a specific
 &lt;p&gt;The Data Management Division (DMD) at STScI is seeking an Astronomical Data Scientist to support the TESS archive and its Higher Level Science products, in addition to providing support to both Kepler and K2.&lt;/p&gt;
 &lt;p&gt;This is a full-time, permanent, 100% functional position, but it does include the option to buy back up to 25% - 50% of your time for personal research through the use of any approved external funding or grants you may receive.&lt;/p&gt;
 &lt;p&gt;The full job description, and the application link, can be found on &lt;a href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Frecruiting2.ultipro.com%2FSPA1004AURA%2FJobBoard%2F93330e50-7b3a-4ba8-94f2-6f32360aa4e1%2FOpportunityDetail%3FopportunityId%3De67b3670-7d53-4474-9cf1-3d490c215cac&amp;amp;data=04%7C01%7Crebekah.a.hounsell%40nasa.gov%7C0dbe6c2b7e8d4d40677708d94610c3c5%7C7005d45845be48ae8140d43da96dd17b%7C0%7C0%7C637617860091173758%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;amp;sdata=8oLOTZ7YvHOGWjqlJdVKcegQIlxSRKJyyzAmubM3eb4%3D&amp;amp;reserved=0"&gt;this&lt;/a&gt; webpage.&lt;/p&gt;
-&lt;p&gt;Applications received before August 20th will receive full consideration.&lt;/p&gt;</content><category term="news"></category></entry><entry><title>TESS Weekly Bulletin: July 7th</title><link href="https://heasarc.gsfc.nasa.gov/docs/tess/tess-weekly-bulletin-july-7th.html" rel="alternate"></link><published>2021-07-06T10:00:00-04:00</published><updated>2021-07-06T10:00:00-04:00</updated><author><name>Rebekah Hounsell</name></author><id>tag:heasarc.gsfc.nasa.gov,2021-07-06:/docs/tess/tess-weekly-bulletin-july-7th.html</id><summary type="html">&lt;p&gt;&lt;code&gt;STATUS UPDATE: Orbit 2 of Sector 39 is now available to download as a TICA product from MAST&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Applications received before August 20th will receive full consideration.&lt;/p&gt;</content><category term="news"></category></entry><entry><title>TESS Input Catalog Version 8.2 (TIC-8.2) at MAST</title><link href="https://heasarc.gsfc.nasa.gov/docs/tess/tess-input-catalog-version-82-tic-82-at-mast.html" rel="alternate"></link><published>2021-07-13T10:00:00-04:00</published><updated>2021-07-13T10:00:00-04:00</updated><author><name>Rebekah Hounsell</name></author><id>tag:heasarc.gsfc.nasa.gov,2021-07-13:/docs/tess/tess-input-catalog-version-82-tic-82-at-mast.html</id><summary type="html">&lt;p&gt;The TESS Input Catalog Version 8.2 (TIC-8.2) presented in &lt;a href="https://ui.adsabs.harvard.edu/abs/2019arXiv190510694S/abstract"&gt;Stassun et al. (2019)&lt;/a&gt; was assembled based on the Gaia DR2 catalog, and augmented with data from many additional catalogs to create a full list of point sources and extended sources that could be observed by TESS. The input …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The TESS Input Catalog Version 8.2 (TIC-8.2) presented in &lt;a href="https://ui.adsabs.harvard.edu/abs/2019arXiv190510694S/abstract"&gt;Stassun et al. (2019)&lt;/a&gt; was assembled based on the Gaia DR2 catalog, and augmented with data from many additional catalogs to create a full list of point sources and extended sources that could be observed by TESS. The input catalog data are used to determine the physical and observational parameters of many of the TIC stars, including stellar radius, stellar mass, and effective temperature. TIC-8 includes 1.7 billion point sources and about 100 million extended sources.&lt;/p&gt;
+&lt;p&gt;TIC-8 is now available at MAST.  This includes access via the &lt;a href="https://mast.stsci.edu/portal/Mashup/Clients/Mast/Portal.html"&gt;MAST portal&lt;/a&gt; and via &lt;a href="https://archive.stsci.edu/tess/tic_ctl.html"&gt;bulk downloads&lt;/a&gt;.  The &lt;a href="https://archive.stsci.edu/tess/"&gt;MAST TESS page&lt;/a&gt; has all the information. Data Release Notes for TIC-8 as well as previous versions of the TIC can be found &lt;a href="https://outerspace.stsci.edu/display/TESS/TIC+and+CTL+Data+Release+Notes+Home+Page"&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;A visual overview of the input catalogs and methodology used to construct the TIC is shown in the schematic below.&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;
+&lt;img class="img-responsive" style="max-width:90%;" src="images/giprogram/tic8_overview_figure2.png"&gt;
+&lt;em&gt;Overview of the photometric catalogs used to construct the TESS Input Catalog (TIC). Yellow arrows depict the order that catalogs are cross-matched and/or merged. The final TIC (TIC-8 as of 2019-06-01) is represented by the green box at the upper right. Image Credit: &lt;a href="https://ui.adsabs.harvard.edu/abs/2019arXiv190510694S/abstract"&gt;Stassun et al. 2019&lt;/a&gt;.&lt;/em&gt;
+&lt;br/&gt;&lt;/p&gt;</content><category term="news"></category></entry><entry><title>TESS Weekly Bulletin: July 7th</title><link href="https://heasarc.gsfc.nasa.gov/docs/tess/tess-weekly-bulletin-july-7th.html" rel="alternate"></link><published>2021-07-06T10:00:00-04:00</published><updated>2021-07-06T10:00:00-04:00</updated><author><name>Rebekah Hounsell</name></author><id>tag:heasarc.gsfc.nasa.gov,2021-07-06:/docs/tess/tess-weekly-bulletin-july-7th.html</id><summary type="html">&lt;p&gt;&lt;code&gt;STATUS UPDATE: Orbit 2 of Sector 39 is now available to download as a TICA product from MAST&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;Welcome TESS followers this weeks news bulletin in which we look at three papers from the archive, &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href="https://arxiv.org/abs/2106.08660"&gt;Discovery of an inflated hot Jupiter around a slightly evolved star TOI-1789&lt;/a&gt;&lt;/strong&gt; &lt;em&gt;(Khandelwal et. al …&lt;/em&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;code&gt;STATUS UPDATE: Orbit 2 of Sector 39 is now available to download as a TICA product from MAST&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;Welcome TESS followers this weeks news bulletin in which we look at three papers from the archive, &lt;/p&gt;
@@ -149,7 +248,7 @@ Previous observations of the system with TESS indicated an orbital period of 3.9
 &lt;p&gt;The mass and radius of the planet indicates that it is one of the largest and most massive super-Neptunes around an M-type star known to date.  &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href="https://arxiv.org/abs/2106.02610"&gt;Visible-light Phase Curves from the Second Year of the TESS Primary Mission&lt;/a&gt;&lt;/strong&gt; &lt;em&gt;(Wong et al.,  2021)&lt;/em&gt; &lt;strong&gt;:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Using TESS year 2 data, the authors of this paper carried out a systematic study of full-orbit phase curves for known transiting systems in the northern hemisphere. Fifteen transit systems were selected and seven had statistically significant secondary eclipses and day-night atmospheric brightness modulations, these were: HAT-P-7, KELT-1, KELT-9, KELT-16, KELT-20, Kepler-13A, and WASP-12. Two of the seven,  KELT-9b and WASP-12b, have small eastward dayside hotspot offsets. An additional three, KELT-1, Kepler-13A, and WASP-12, have phase-curve variability which can be attributed to the tidal distortion of the host star. &lt;/p&gt;
-&lt;p&gt;Spitzer data were combined with that from TESS to compute the dayside brightness temperatures of the planets, the TESS geometric albedos, Bond albedos, and the phase integrals. Using the new albedo values the trend between the dayside temperature and the geometric albedo for planets with 1500&lt;T&lt;sub&gt;day&lt;/sub&gt;&amp;lt;3000 K, was confirmed. &lt;/p&gt;
+&lt;p&gt;Spitzer data were combined with that from TESS to compute the dayside brightness temperatures of the planets, the TESS geometric albedos, Bond albedos, and the phase integrals. Using the new albedo values the trend between the dayside temperature and the geometric albedo for planets with 1500&amp;lt;T&lt;sub&gt;day&lt;/sub&gt;&amp;lt;3000 K, was confirmed. &lt;/p&gt;
 &lt;p&gt;A more detailed study was conducted for Kepler-13Ab - please see the paper for more details. &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href="https://arxiv.org/abs/2106.03568"&gt;Unveiling the multiple periodicities of the cataclysmic variable LS Cam&lt;/a&gt;&lt;/strong&gt; &lt;em&gt;(Stefanov et al.,  2021)&lt;/em&gt; &lt;strong&gt;:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;LS Cam is an intermediate polar cataclysmic variable (CVs). Some CVs have quasi-periodic changes in brightness with periods slightly shorter or longer than the orbital period - these are called superhumps. Superhumps are thought to be a beat period of 
@@ -211,7 +310,33 @@ of the orbital period and the apsidal or nodal motion of the disk,  but the exac
 &lt;p&gt;&lt;img alt="Otegi" src="images/Otegi.png" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Fig. 1:&lt;/strong&gt; &lt;em&gt;Taken from Otegi et al., 2021: TESS photometry of TOI 1062 from Sectors 1 (upper left), 13 (upper right), and Sectors 27 &amp;amp; 28 (middle left), and LCOGT photometry (middle right). The TESS light-curves correspond to the PDC-SAP flux time series provided by SPOC. The TESS full light curve with the 2-minute cadence data is shown in light-grey, and the same data binned to 10 min in dark-grey. The gaps in the data coverage are due to observation interruptions of the TESS spacecraft to send the data to Earth, that occurs after each TESS orbit of 13.7 days. The dots of the LCOGT are bigger for better visualization. The lower panels shows the phase folded TESS light curves for TOI 1062b (left) and TOI 1062c (right) with the 2 min cadence data in light-grey and binned to 10 minutes in black. TOI 1062c does not transit.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img alt="Hermes" src="images/Hermes.png" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Fig. 2:&lt;/strong&gt; &lt;em&gt;Taken from Hermes et al., 2021: Full light curves of LP 40−365 used in the papers analysis. Top Panel: Five orbits of HST/STIS ultraviolet observations from 2018 May. Second Panel: Four sectors of TESS full-frame images from 2019 July to 2020 February. Third Panel: Periodogram of TESS observations revealing a dominant period at 8.914 hr and its second harmonic. Bottom Panel: More than 9.5 yr of WISE infrared photometry from 2010 April to 2019 November.&lt;/em&gt; &lt;/p&gt;</content><category term="news"></category></entry><entry><title>TESS Cycle 4 selections</title><link href="https://heasarc.gsfc.nasa.gov/docs/tess/tess-cycle-4-selections.html" rel="alternate"></link><published>2021-05-04T10:00:00-04:00</published><updated>2021-05-04T10:00:00-04:00</updated><author><name>Rebekah Hounsell</name></author><id>tag:heasarc.gsfc.nasa.gov,2021-05-04:/docs/tess/tess-cycle-4-selections.html</id><summary type="html">&lt;p&gt;Hello and welcome TESS followers to this special news bulletin! Here we will discuss the results of the Cycle 4 proposal season.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fig. 2:&lt;/strong&gt; &lt;em&gt;Taken from Hermes et al., 2021: Full light curves of LP 40−365 used in the papers analysis. Top Panel: Five orbits of HST/STIS ultraviolet observations from 2018 May. Second Panel: Four sectors of TESS full-frame images from 2019 July to 2020 February. Third Panel: Periodogram of TESS observations revealing a dominant period at 8.914 hr and its second harmonic. Bottom Panel: More than 9.5 yr of WISE infrared photometry from 2010 April to 2019 November.&lt;/em&gt; &lt;/p&gt;</content><category term="news"></category></entry><entry><title>TESS duplicate IDs</title><link href="https://heasarc.gsfc.nasa.gov/docs/tess/tess-duplicate-ids.html" rel="alternate"></link><published>2021-05-11T10:00:00-04:00</published><updated>2021-05-11T10:00:00-04:00</updated><author><name>Rebekah Hounsell</name></author><id>tag:heasarc.gsfc.nasa.gov,2021-05-11:/docs/tess/tess-duplicate-ids.html</id><summary type="html">&lt;p&gt;Hello TESS followers and welcome to this special news bulletin.
+It has brought to our attention that a small fraction (&amp;lt;1%) of our TESS objects of interest have duplicate TIC ID's.
+This issue was caused by the conversion from one catalog coordinates to another. &lt;/p&gt;
+&lt;p&gt;Below we summarize what you the …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Hello TESS followers and welcome to this special news bulletin.
+It has brought to our attention that a small fraction (&amp;lt;1%) of our TESS objects of interest have duplicate TIC ID's.
+This issue was caused by the conversion from one catalog coordinates to another. &lt;/p&gt;
+&lt;p&gt;Below we summarize what you the user should expect if you come across one of these duplicates, future analyses at the SPOC level, and how you will be notified of such objects in the data. &lt;/p&gt;
+&lt;h2 id="the-issue"&gt;The issue&lt;/h2&gt;
+&lt;p&gt;In some cases a star, star A, is resolved into two other stars, stars B and C. Stars A, B, and C all have TIC ID's in TIC 8. 
+In this case star A is the sum of stars B and C. &lt;/p&gt;
+&lt;p&gt;In other cases star A is the same as star B,  but both have TIC ID's in TIC 8. See the figure below, for an example of the behavior in this situation.&lt;/p&gt;
+&lt;p&gt;&lt;center&gt;
+&lt;img alt="TIC" src="images/TIC.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fig 1.&lt;/strong&gt; &lt;em&gt;PDCSAP flux of TIC 158324245 (blue) which has a duplicated ID of TIC 1717079071 (red).&lt;/em&gt;
+&lt;/center&gt;&lt;/p&gt;
+&lt;p&gt;Past and current analysis at SPOC using TIC 8 assumes that A, B, and C are all valid stars.
+TIC 8.x turns star B into a duplicate and replaces the parameters of A with those of B.&lt;/p&gt;
+&lt;h2 id="future-analyses-at-spoc"&gt;Future analyses at SPOC&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Future observations of A by SPOC using TIC 8.x will give the correct answer&lt;/li&gt;
+&lt;li&gt;Future observations of B by SPOC will be precluded by the POC not including it as a target&lt;/li&gt;
+&lt;li&gt;Reprocessing of B using TIC 8.x is currently a problem at SPOC, as it is a duplicate&lt;/li&gt;
+&lt;li&gt;Multi-sector analyses of B using TIC 8.x is currently a problem at SPOC, as it is a duplicate&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="notification"&gt;Notification&lt;/h2&gt;
+&lt;p&gt;MAST is currently working on the best way to notify you the user of the problem should you examine data from one of these objects. 
+We will update you of the situation as it progresses.&lt;/p&gt;</content><category term="news"></category></entry><entry><title>TESS Cycle 4 selections</title><link href="https://heasarc.gsfc.nasa.gov/docs/tess/tess-cycle-4-selections.html" rel="alternate"></link><published>2021-05-04T10:00:00-04:00</published><updated>2021-05-04T10:00:00-04:00</updated><author><name>Rebekah Hounsell</name></author><id>tag:heasarc.gsfc.nasa.gov,2021-05-04:/docs/tess/tess-cycle-4-selections.html</id><summary type="html">&lt;p&gt;Hello and welcome TESS followers to this special news bulletin! Here we will discuss the results of the Cycle 4 proposal season.&lt;/p&gt;
 &lt;p&gt;The Cycle 4 review was held earlier this year in March, with 146 proposals submitted. Of these proposals 12 were large, 110 small, and 24 mini - our most …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Hello and welcome TESS followers to this special news bulletin! Here we will discuss the results of the Cycle 4 proposal season.&lt;/p&gt;
 &lt;p&gt;The Cycle 4 review was held earlier this year in March, with 146 proposals submitted. Of these proposals 12 were large, 110 small, and 24 mini - our most recent proposal category. 
 These 146 proposals were split into one of four fields: Exoplanet (33), Stellar Astrophysics (62), Accretion and Extragalactic (19), and Ground-based Focused (32). The proposals were then assessed by one of seven panels. &lt;/p&gt;
@@ -271,9 +396,7 @@ These 146 proposals were split into one of four fields: Exoplanet (33), Stellar 
 
      &lt;/table&gt;
 &lt;/div&gt;
-
 &lt;/div&gt;
-
 &lt;p&gt;Our &lt;a href="https://heasarc.gsfc.nasa.gov/docs/tess/approved-programs.html#cycle-4"&gt;approved programs page&lt;/a&gt; provides the full list of accepted Cycle 4 proposals. &lt;/p&gt;
 &lt;p&gt;Congratulations to all successful PI's and Co-I's!
 To those of you who did not receive acceptance letters this time round, we strongly encourage you to apply again in the future. 
@@ -535,38 +658,41 @@ This week we present three papers from the archive, enjoy!&lt;/p&gt;
 &lt;p&gt;In early January, we kicked the year off with the discovery of our &lt;a href="https://www.nasa.gov/feature/goddard/2020/nasa-planet-hunter-finds-its-1st-earth-size-habitable-zone-world"&gt;first habitable-zone planet&lt;/a&gt;, TOI 700d. The planet was detected by TESS and confirmed with &lt;a href="https://www.nasa.gov/mission_pages/spitzer/main/index.html"&gt;NASA’s Spitzer Space Telescope&lt;/a&gt;. TOI 700d is a small (40% mass of the Sun), cool  (half the surface temperature of the Sun) M dwarf star which is only 100 light years away in the &lt;a href="https://www.iau.org/public/themes/constellations/"&gt;constellation of Dorado&lt;/a&gt;. Three planets are thought to orbit the star: TOI 700 b which is about the size of the Earth and likely rocky with an orbital period of 10 days.  TOI 700 c, a likely gassy planet 2.6 times larger than Earth with an orbital period of 16 days. TOI 700 d, the outermost  planet located in the habitable zone with an orbital period of 37 days.&lt;/p&gt;
 &lt;p&gt;&lt;center&gt;
 &lt;a href="https://www.youtube.com/watch?v=QU0qsIGS6MQ&amp;amp;feature=emb_logo" title="first habitable-zone planet"&gt;&lt;img alt="firsthab.png" src="images/firsthab.png" /&gt;&lt;/a&gt;
-&lt;/center&gt;
+&lt;/center&gt;&lt;/p&gt;
 &lt;p align="center"&gt;
-&lt;em&gt;TESS discovered its first Earth-size planet in its star's habitable zone. The planet is called TOI 700 d.&lt;/em&gt; &lt;strong&gt;Credits: NASA's Goddard Space Flight Center.&lt;/strong&gt;
-&lt;/p&gt;&lt;/p&gt;
+*TESS discovered its first Earth-size planet in its star's habitable zone. The planet is called TOI 700 d.* **Credits: NASA's Goddard Space Flight Center.**
+&lt;/p&gt;
+
 &lt;p&gt;In May, it was reported that TESS was used to investigate &lt;a href="https://www.nasa.gov/feature/goddard/2020/nasa-s-tess-enables-breakthrough-study-of-perplexing-stellar-pulsations"&gt;dozens of young, rapidly rotating stars&lt;/a&gt; known as &lt;a href="https://en.wikipedia.org/wiki/Delta_Scuti_variable"&gt;Delta Scuti stars&lt;/a&gt;. These stars pulsate in interesting ways, with patterns that are unpredictable and difficult to understand. A team of scientists, led by a professor at the University of Sydney, used TESS data to examine these kinds of stars and found a sub-set with regular pulsation patterns! On finding this trend, the team went on to look for more examples within the Kepler data set and via ground-based observations. The stars found are incredibly important, as their regular patterns have laid the foundation for our understanding of this class of variables, allowing for comparison to models and further exploration.&lt;/p&gt;
 &lt;p&gt;&lt;center&gt;
 &lt;a href="https://youtu.be/nBxn6QGWJNM" title="HD 31901"&gt;&lt;img alt="HD 31901.png" src="images/HD31901.png" /&gt;&lt;/a&gt;
-&lt;/center&gt;
+&lt;/center&gt;&lt;/p&gt;
 &lt;p align="center"&gt;
-&lt;em&gt;The rapid beat of HD 31901, a Delta Scuti star in the southern constellation Lepus. The sound is the result of 55 pulsation patterns TESS observed over 27 days sped up by 54,000 times.&lt;/em&gt; &lt;strong&gt;Credits: NASA's Goddard Space Flight Center and Simon Murphy, University of Sydney.&lt;/strong&gt;
-&lt;/p&gt;&lt;/p&gt;
+*The rapid beat of HD 31901, a Delta Scuti star in the southern constellation Lepus. The sound is the result of 55 pulsation patterns TESS observed over 27 days sped up by 54,000 times.* **Credits: NASA's Goddard Space Flight Center and Simon Murphy, University of Sydney.**
+&lt;/p&gt;
+
 &lt;p&gt;In late June, TESS then helped discover a Neptune sized planet orbiting &lt;a href="https://www.nasa.gov/feature/goddard/2020/nasa-s-tess-spitzer-missions-discover-a-world-orbiting-a-unique-young-star"&gt;AU Microscopii&lt;/a&gt;, a cool red M dwarf star, located in the Microscopium constellation 31.9 light years away. At only 20-30 million years old, this host star is an infant and subject to producing numerous flares! It is these “temper tantrums” that made detecting the planet particularly difficult.&lt;/p&gt;
 &lt;p align="center"&gt;
  &lt;img width="300" height="500" src="images/AUMic.pdf"&gt;
  &lt;/p&gt;
+&lt;p align="center"&gt;
+  *[Downloadable](https://exoplanets.nasa.gov/resources/2237/flares-of-fury-poster/?galaxy_horror) Galaxy of Horrors poster for AU Mic.* **Credits: NASA-JPL/Caltech.**
+&lt;/p&gt;
 
-&lt;p&gt;&lt;p align="center"&gt;
-  &lt;em&gt;&lt;a href="https://exoplanets.nasa.gov/resources/2237/flares-of-fury-poster/?galaxy_horror"&gt;Downloadable&lt;/a&gt; Galaxy of Horrors poster for AU Mic.&lt;/em&gt; &lt;strong&gt;Credits: NASA-JPL/Caltech.&lt;/strong&gt;
-&lt;/p&gt;&lt;/p&gt;
 &lt;p&gt;The 4th of July marked &lt;a href="https://www.nasa.gov/feature/goddard2020/nasa-s-planet-hunter-completes-its-primary-mission"&gt;the end of TESS’s prime mission&lt;/a&gt;. This was a two year survey that mapped roughly 75% of the sky, found 66 new exoplanets, and 2,100 candidate planets. TESS has now entered into its extended mission, which will last until September 2022.&lt;/p&gt;
 &lt;p align="center"&gt;
   &lt;img width="800" height="800" src="images/TESS_azeq_North_South_3k.jpg"&gt;
 &lt;/p&gt;
-
-&lt;p&gt;&lt;p align="center"&gt;
-&lt;em&gt;TESS's two yearlong panoramas appear side by side in twin polar views centered on the southern (left) and northern ecliptic poles.&lt;/em&gt; &lt;strong&gt;Credits: NASA/MIT/TESS and Ethan Kruse (USRA).&lt;/strong&gt;
-&lt;/p&gt;&lt;/p&gt;
-&lt;p&gt;Mid-September brought the discovery of TESS’s &lt;a href="https://www.nasa.gov/press-release/nasa-missions-spy-first-possible-survivor-planet-hugging-white-dwarf-star"&gt;first possible “survivor” planet&lt;/a&gt; closely orbiting a white dwarf. The planet, WD 1856 b, is similar to the size of Jupiter and orbits its host every 34 hrs. WD 1856 b’s location is unusual as most objects that close are usually torn apart by the white dwarf’s gravitational pull. Scientists are still baffled as to how the planet has survived.&lt;/p&gt;
-&lt;p&gt;&lt;center&gt;&lt;a href="https://youtu.be/fDhG0ppvQ2g" title="&amp;quot;HD 31901"&gt;&lt;img alt="WD1856b.png" src="images/WD1856b.png" /&gt;&lt;/a&gt;&lt;/center&gt;
 &lt;p align="center"&gt;
-&lt;em&gt;In this illustration, WD 1856 b, a potential Jupiter-size planet, orbits its much smaller host star, a dim white dwarf.&lt;/em&gt; &lt;strong&gt;Credits: NASA’s Goddard Space Flight Center.&lt;/strong&gt;
-&lt;/p&gt;&lt;/p&gt;
+*TESS's two yearlong panoramas appear side by side in twin polar views centered on the southern (left) and northern ecliptic poles.* **Credits: NASA/MIT/TESS and Ethan Kruse (USRA).**
+&lt;/p&gt;
+
+&lt;p&gt;Mid-September brought the discovery of TESS’s &lt;a href="https://www.nasa.gov/press-release/nasa-missions-spy-first-possible-survivor-planet-hugging-white-dwarf-star"&gt;first possible “survivor” planet&lt;/a&gt; closely orbiting a white dwarf. The planet, WD 1856 b, is similar to the size of Jupiter and orbits its host every 34 hrs. WD 1856 b’s location is unusual as most objects that close are usually torn apart by the white dwarf’s gravitational pull. Scientists are still baffled as to how the planet has survived.&lt;/p&gt;
+&lt;p&gt;&lt;center&gt;&lt;a href="https://youtu.be/fDhG0ppvQ2g" title="&amp;quot;HD 31901"&gt;&lt;img alt="WD1856b.png" src="images/WD1856b.png" /&gt;&lt;/a&gt;&lt;/center&gt;&lt;/p&gt;
+&lt;p align="center"&gt;
+*In this illustration, WD 1856 b, a potential Jupiter-size planet, orbits its much smaller host star, a dim white dwarf.* **Credits: NASA’s Goddard Space Flight Center.**
+&lt;/p&gt;
+
 &lt;p&gt;And in early October, TESS and the &lt;a href="https://evryscope.astro.unc.edu"&gt;UNC-Chapel Hill Evryscope telescope array&lt;/a&gt; simultaneously observed the largest sample of &lt;a href="https://uncnews.unc.edu/2020/10/07/new-research-explores-how-super-flares-affect-planets-habitability/"&gt;super flares&lt;/a&gt; known to date. The data from these observations will help astrobiologists understand how much radiation planets experience during super flares, and thus explore their habitability. &lt;/p&gt;
 &lt;p&gt;Thank you to everyone who helped to make 2020 a successful year for TESS science!&lt;/p&gt;</content><category term="news"></category></entry><entry><title>TESS Weekly Bulletin: January 25th</title><link href="https://heasarc.gsfc.nasa.gov/docs/tess/tess-weekly-bulletin-january-25th.html" rel="alternate"></link><published>2021-01-25T10:00:00-05:00</published><updated>2021-01-25T10:00:00-05:00</updated><author><name>Rebekah Hounsell</name></author><id>tag:heasarc.gsfc.nasa.gov,2021-01-25:/docs/tess/tess-weekly-bulletin-january-25th.html</id><summary type="html">&lt;p&gt;&lt;code&gt;STATUS UPDATE: The Cycle 4 Call for Proposals has officially closed!&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;Welcome TESS followers to this weeks news bulletin!
@@ -1601,8 +1727,8 @@ TESS team members staffing the TESS Booth.&lt;/p&gt;
 TESS team members staffing the TESS Booth.&lt;/p&gt;</content><category term="news"></category></entry><entry><title>Guest Investigator Program Cycle 1 results available</title><link href="https://heasarc.gsfc.nasa.gov/docs/tess/guest-investigator-program-cycle-1-results-available.html" rel="alternate"></link><published>2018-01-25T10:00:00-05:00</published><updated>2018-01-25T10:00:00-05:00</updated><author><name>Tom Barclay</name></author><id>tag:heasarc.gsfc.nasa.gov,2018-01-25:/docs/tess/guest-investigator-program-cycle-1-results-available.html</id><summary type="html">&lt;p&gt;The selection of TESS Guest Investigator Program Cycle 1 proposals has been finalized. A &lt;a href="approved-programs.html"&gt;full list of selected programs&lt;/a&gt; is available. TESS is scheduled to launch by the end of March. If this schedule holds, science operation will begin at the start of June, with the first data reaching &lt;a href="http://archive.stsci.edu/tess"&gt;the …&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;The selection of TESS Guest Investigator Program Cycle 1 proposals has been finalized. A &lt;a href="approved-programs.html"&gt;full list of selected programs&lt;/a&gt; is available. TESS is scheduled to launch by the end of March. If this schedule holds, science operation will begin at the start of June, with the first data reaching &lt;a href="http://archive.stsci.edu/tess"&gt;the archive&lt;/a&gt; at the beginning of December. Grants will be released when data is publicly available.&lt;/p&gt;
 &lt;p&gt;The over-subscription factor for this program was extremely high (4.5). Many highly rated programs were not able to be selected for funding. However, we have good news. All full-frame-image data will be released publicly with no exclusive use period.&lt;/p&gt;
 &lt;p&gt;Furthermore, we anticipate that the number of executed 2-minute cadence target programs will significantly exceed the number that we were able to fund. Therefore, even though a particular program may not have been selected for funding there is still a good chance that it will be either partially for full executed.&lt;/p&gt;
-&lt;p&gt;We anticipate that target lists for the first sector to be available within a few weeks of launch. When available, we will make that information available.&lt;/p&gt;</content><category term="news"></category></entry><entry><title>TESS Input Catalog Version 6 (TIC-6) is now online at MAST</title><link href="https://heasarc.gsfc.nasa.gov/docs/tess/tess-input-catalog-version-6-tic-6-is-now-online-at-mast.html" rel="alternate"></link><published>2018-01-23T13:00:00-05:00</published><updated>2018-01-23T13:00:00-05:00</updated><author><name>Elisa Quintana</name></author><id>tag:heasarc.gsfc.nasa.gov,2018-01-23:/docs/tess/tess-input-catalog-version-6-tic-6-is-now-online-at-mast.html</id><summary type="html">&lt;p&gt;The TESS Input Catalot Version 6 (TIC-6) is now available at MAST.  This includes access via the &lt;a href="https://mast.stsci.edu/portal/Mashup/Clients/Mast/Portal.html"&gt;MAST portal&lt;/a&gt;, using &lt;a href="http://mastweb.stsci.edu/mcasjobs/"&gt;CasJobs&lt;/a&gt;, and &lt;a href="https://archive.stsci.edu/missions/tess/index.html"&gt;bulk downloads&lt;/a&gt;.  The &lt;a href="https://archive.stsci.edu/tess/"&gt;MAST TESS page&lt;/a&gt; has all the information.&lt;/p&gt;
-&lt;p&gt;The live &lt;a href="https://docs.google.com/document/d/1zdiKMs4Ld4cXZ2DW4lMX-fuxAF6hPHTjqjIwGqnfjqI/edit"&gt;TIC-6 Data Release Notes&lt;/a&gt; provide information on the changes from TIC Version 5 (TIC-5). Documentation on …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The TESS Input Catalot Version 6 (TIC-6) is now available at MAST.  This includes access via the &lt;a href="https://mast.stsci.edu/portal/Mashup/Clients/Mast/Portal.html"&gt;MAST portal&lt;/a&gt;, using &lt;a href="http://mastweb.stsci.edu/mcasjobs/"&gt;CasJobs&lt;/a&gt;, and &lt;a href="https://archive.stsci.edu/missions/tess/index.html"&gt;bulk downloads&lt;/a&gt;.  The &lt;a href="https://archive.stsci.edu/tess/"&gt;MAST TESS page&lt;/a&gt; has all the information.&lt;/p&gt;
+&lt;p&gt;We anticipate that target lists for the first sector to be available within a few weeks of launch. When available, we will make that information available.&lt;/p&gt;</content><category term="news"></category></entry><entry><title>TESS Input Catalog Version 6 (TIC-6) is now online at MAST</title><link href="https://heasarc.gsfc.nasa.gov/docs/tess/tess-input-catalog-version-6-tic-6-is-now-online-at-mast.html" rel="alternate"></link><published>2018-01-23T13:00:00-05:00</published><updated>2018-01-23T13:00:00-05:00</updated><author><name>Elisa Quintana</name></author><id>tag:heasarc.gsfc.nasa.gov,2018-01-23:/docs/tess/tess-input-catalog-version-6-tic-6-is-now-online-at-mast.html</id><summary type="html">&lt;p&gt;The TESS Input Catalog Version 6 (TIC-6) is now available at MAST.  This includes access via the &lt;a href="https://mast.stsci.edu/portal/Mashup/Clients/Mast/Portal.html"&gt;MAST portal&lt;/a&gt;, using &lt;a href="http://mastweb.stsci.edu/mcasjobs/"&gt;CasJobs&lt;/a&gt;, and &lt;a href="https://archive.stsci.edu/missions/tess/index.html"&gt;bulk downloads&lt;/a&gt;.  The &lt;a href="https://archive.stsci.edu/tess/"&gt;MAST TESS page&lt;/a&gt; has all the information.&lt;/p&gt;
+&lt;p&gt;The live &lt;a href="https://docs.google.com/document/d/1zdiKMs4Ld4cXZ2DW4lMX-fuxAF6hPHTjqjIwGqnfjqI/edit"&gt;TIC-6 Data Release Notes&lt;/a&gt; provide information on the changes from TIC Version 5 (TIC-5). Documentation on …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The TESS Input Catalog Version 6 (TIC-6) is now available at MAST.  This includes access via the &lt;a href="https://mast.stsci.edu/portal/Mashup/Clients/Mast/Portal.html"&gt;MAST portal&lt;/a&gt;, using &lt;a href="http://mastweb.stsci.edu/mcasjobs/"&gt;CasJobs&lt;/a&gt;, and &lt;a href="https://archive.stsci.edu/missions/tess/index.html"&gt;bulk downloads&lt;/a&gt;.  The &lt;a href="https://archive.stsci.edu/tess/"&gt;MAST TESS page&lt;/a&gt; has all the information.&lt;/p&gt;
 &lt;p&gt;The live &lt;a href="https://docs.google.com/document/d/1zdiKMs4Ld4cXZ2DW4lMX-fuxAF6hPHTjqjIwGqnfjqI/edit"&gt;TIC-6 Data Release Notes&lt;/a&gt; provide information on the changes from TIC Version 5 (TIC-5). Documentation on the content of the TIC can be found &lt;a href="https://archive.stsci.edu/missions/tess/doc/tic_v5_drn.pdf"&gt;here&lt;/a&gt;. Note this documentation is specific to TIC Version 5 (TIC-5), so please refer to the release notes for the most up-to-date documentation. &lt;/p&gt;
 &lt;p&gt;Questions can be sent to our &lt;a href="https://heasarc.gsfc.nasa.gov/docs/tess/helpdesk.html"&gt;help desk&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Thanks to the TESS Target Selection Working Group and TESS team members for their hard work in making this resource available! Also thanks to Scott Fleming and the team at MAST for supporting the archiving and documentation of the TIC catalogs.&lt;/p&gt;</content><category term="news"></category></entry><entry><title>TESS team at AAS 231</title><link href="https://heasarc.gsfc.nasa.gov/docs/tess/tess-team-at-aas-231.html" rel="alternate"></link><published>2018-01-04T10:00:00-05:00</published><updated>2018-01-04T10:00:00-05:00</updated><author><name>Tom Barclay</name></author><id>tag:heasarc.gsfc.nasa.gov,2018-01-04:/docs/tess/tess-team-at-aas-231.html</id><summary type="html">&lt;p&gt;The TESS team will are putting on a number of events at this year's &lt;a href="https://aas.org/meetings/aas231"&gt;American Astronomical Society&lt;/a&gt; in National Harbor, MD. In addition to those events the team are putting on, there are numerous talks from scientist excited to get their hands on the data.&lt;/p&gt;
