@@ -191,7 +191,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>North</td>
     <td>2021&nbsp;Jun&nbsp;24</td>
     <td>2021&nbsp;Jul&nbsp;23</td>
-    <td></td>
+    <td><a href='data/target_lists/sector040_targets_lists/GI_S040.csv'>Download</a></td>
     <td style="min-width: 12em;">
     </td>
   </tr>
@@ -204,9 +204,9 @@ The data from each sector are required to be available at the MAST no later than
  <tr>
     <td><a href="#s039">s039</a></td>
     <td>South</td>
-    <td>2021&nbsp;May&nbsp;26</td>
+    <td>2021&nbsp;May&nbsp;27</td>
     <td>2021&nbsp;Jun&nbsp;24</td>
-    <td></td>
+    <td><a href='data/target_lists/sector039_targets_lists/GI_S039.csv'>Download</a></td>
     <td style="min-width: 12em;">
     </td>
   </tr>
@@ -214,9 +214,9 @@ The data from each sector are required to be available at the MAST no later than
   <tr>
     <td><a href="#s038">s038</a></td>
     <td>South</td>
-    <td>2021&nbsp;Apr&nbsp;28</td>
+    <td>2021&nbsp;Apr&nbsp;29</td>
     <td>2021&nbsp;May&nbsp;26</td>
-    <td></td>
+    <td><a href='data/target_lists/sector038_targets_lists/GI_S038.csv'>Download</a></td>
     <td style="min-width: 12em;">
     </td>
   </tr>
@@ -235,7 +235,7 @@ The data from each sector are required to be available at the MAST no later than
     <td><a href="#s036">s036</a></td>
     <td>South</td>
     <td>2021&nbsp;Mar&nbsp;07</td>
-    <td>2021&nbsp;Apr&nbsp;02</td>
+    <td>2021&nbsp;Apr&nbsp;01</td>
     <td><a href='data/target_lists/sector036_targets_lists/GI_S036.csv'>Download</a></td>
     <td style="min-width: 12em;">
     </td>
@@ -611,6 +611,36 @@ cadence for each camera and sector.
 
 <div class="row">
     <div class="col-md-6 text-center">
+      <a href="images/sector-plots/sector-plots.041.jpeg">
+        <img id="s041" src="images/sector-plots/sector-plots.041.jpeg" class="img-responsive">
+        Sector 41
+      </a>
+    </div>
+    <div class="col-md-6 text-center">
+      <a href="images/sector-plots/sector-plots.042.jpeg">
+        <img id="s042" src="images/sector-plots/sector-plots.042.jpeg" class="img-responsive">
+        Sector 42
+      </a>
+    </div>
+</div>
+<br>
+<div class="row">
+    <div class="col-md-6 text-center">
+      <a href="images/sector-plots/sector-plots.039.jpeg">
+        <img id="s039" src="images/sector-plots/sector-plots.039.jpeg" class="img-responsive">
+        Sector 39
+      </a>
+    </div>
+    <div class="col-md-6 text-center">
+      <a href="images/sector-plots/sector-plots.040.jpeg">
+        <img id="s040" src="images/sector-plots/sector-plots.040.jpeg" class="img-responsive">
+        Sector 40
+      </a>
+    </div>
+</div>
+<br>
+<div class="row">
+    <div class="col-md-6 text-center">
       <a href="images/sector-plots/sector-plots.037.jpeg">
         <img id="s037" src="images/sector-plots/sector-plots.037.jpeg" class="img-responsive">
         Sector 37
@@ -618,8 +648,8 @@ cadence for each camera and sector.
     </div>
     <div class="col-md-6 text-center">
       <a href="images/sector-plots/sector-plots.038.jpeg">
- <!--        <img id="s038" src="images/sector-plots/sector-plots.038.jpeg" class="img-responsive">
-        Sector 38 -->
+        <img id="s038" src="images/sector-plots/sector-plots.038.jpeg" class="img-responsive">
+        Sector 38 
       </a>
     </div>
 </div>
