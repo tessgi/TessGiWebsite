@@ -12,15 +12,15 @@ The TESS GI office has developed some new outreach products for the community. W
 
 [Northern Vista](images/Northernsky-FIN.pdf) | [Old Faithful](images/Oldfaithful-FIN.pdf) |
 :-------------------------|:-------------------------
-<img class="img-responsive" style="max-width:100%;" src="images/Northernsky-FIN.pdf"> | <img class="img-responsive" style="max-width:100%;" src="images/Oldfaithful-FIN.pdf">
+<img class="img-responsive" style="max-width:100%;" src="images/Northernsky-FIN.jpg"> | <img class="img-responsive" style="max-width:100%;" src="images/Oldfaithful-FIN.jpg">
 
 [River of Young Stars](images/Riverofyoungstars-FIN.pdf) | [Triple System](images/Triplesystem-FIN.pdf) |
 :-------------------------|:-------------------------
-<img class="img-responsive" style="max-width:100%;" src="images/Riverofyoungstars-FIN.pdf"> | <img class="img-responsive" style="max-width:100%;" src="images/Triplesystem-FIN.pdf">
+<img class="img-responsive" style="max-width:100%;" src="images/Riverofyoungstars-FIN.jpg"> | <img class="img-responsive" style="max-width:100%;" src="images/Triplesystem-FIN.jpg">
 
 <center>
 [Survivor](images/Survivor-FIN.pdf)
-<img class="img-responsive" style="max-width:50%;" src="images/Survivor-FIN.pdf" > 
+<img class="img-responsive" style="max-width:50%;" src="images/Survivor-FIN.jpg" > 
 </center>
 
 ## TESS gallery
