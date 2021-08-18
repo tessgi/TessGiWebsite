@@ -12,11 +12,11 @@ In this paper the authors present the discovery of a new world orbiting LTT 1445
 
 The second planet, LTT 1445Ac,  was discovered by the authors using TESS data, and was found to have an orbital period of 3.1 days. 
 
-Utilizing radial velocity measurements taken from additional facilities, the mass and radius of the two planet were determined.  LTT 1445Ab  has a mass of 2.87 M<sub>Earth</sub>  and a radius of 1.304 R<sub>Earth</sub>, consistent with an Earth-like composition of 33% iron and 67% magnesium silicate. LTT 1445Ac has a mass of 1.54 M<sub>Earth</sub>   (0.161 M<sub>Sun</sub>) and a minimum radius of 1.15 R<sub>Earth</sub>. 
+Utilizing radial velocity measurements taken from additional facilities, the mass and radius of the two planet were determined.  LTT 1445Ab  has a mass of 2.87 M<sub>Earth</sub>  and a radius of 1.304 R<sub>Earth</sub>, consistent with an Earth-like composition of 33% iron and 67% magnesium silicate. LTT 1445Ac has a mass of 1.54 M<sub>Earth</sub>    and a minimum radius of 1.15 R<sub>Earth</sub>. 
 
 The orbits of the two planets are consistent with being circular, but they are mutually inclined by at least 2.25 degrees. 
 
-Photometry and spectroscopy of the three stars in the system indicate that LTT 1445C ((0.161 M<sub>Sun</sub>)is likely the source of the 1.4 day rotation period, whilst LTT 1445B (0.215 M<sub>Sun</sub>) has a rotation period of 6.7 days. The planet host star, LTT 1445A, has a likely rotation period of 85 days. 
+Photometry and spectroscopy of the three stars in the system indicate that LTT 1445C (0.161 M<sub>Sun</sub>) is likely the source of the 1.4 day rotation period, whilst LTT 1445B (0.215 M<sub>Sun</sub>) has a rotation period of 6.7 days. The planet host star, LTT 1445A, has a likely rotation period of 85 days. 
 
 All data collected on this triple M-dwarf system, indicate that it is in a special evolutionary stage where the most massive M dwarf has spun down, the intermediate mass M dwarf is in the process of spinning down, while the least massive stellar component has not yet begun to spin down.
 
