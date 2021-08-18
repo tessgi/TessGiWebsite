@@ -9,6 +9,9 @@ Type: SMALL
 Summary: We propose to observe 30 gamma-ray blazars with TESS in a combination of FFI, 2-min, and 20-sec cadence data. TESS light curves, along with polarimetric monitoring that we will perform for the sample, will allow us to analyze properties of turbulent plasmas in jets of blazars that have never been explored previously in this way. The observations are crucial for sampling properties of gamma-ray blazars across different sub-classes and for theoretical modeling. We will perform a correlation analysis between TESS, Fermi-LAT gamma-ray, Swift XRT and UVOT light curves, and optical polarization data that will provide with unprecedented accuracy the relative locations of high energy and optical emission regions in the jets of blazars.
 
 
-# Sector 040 targets observed (2 min: 2, 20 s: 1)
-147796121,110.4727,71.3434,12.78,G04151;G04048;20SECONDTARGET
+# Sector 041 targets observed (2 min: 2, 20 s: 0)
+256615539,299.9994,65.1485,14.46,G04048
 287180466,149.6969,65.5652,15.62,G04048
+
+# Sector 042 targets observed (2 min: 1, 20 s: 0)
+61044197,38.2026,20.2882,17.09,G04048

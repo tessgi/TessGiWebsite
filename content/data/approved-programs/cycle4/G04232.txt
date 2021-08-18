@@ -8,3 +8,7 @@ Type: MINI
 
 Summary: The Event Horizon Telescope (EHT) observations of the supermassive black hole (SMBH) in M87, has provided a powerful experimental testbed for strong gravity. Hence the SMBHs in several nearby systems, including the SgrA*, are all potential candidates to enhance our understanding of gravitation in such extreme environments. However, providing strong constraints on several aspects of the accretion and jet physics in active galaxies that are possible through multiwavelength observations, is vital for the convergence of theoretical simulations of accretion processes. We thus propose a TESS monitoring campaign of ten nearby galaxies, probing for the orbital variability time-scale. Besides, we also seek to address the role of the magnetic field based on the turbulence of the light curves.
 
+
+# Sector 041 targets observed (2 min: 2, 20 s: 0)
+10001177219,177.2099,59.4156,10.9,G04232
+55684273,179.4839,55.4536,13.23,G04232
