@@ -1,0 +1,14 @@
+# TESS Program G04180
+
+Title: Asteroseismic Properties Of Spectropolarimetric Benchmark Stars
+
+PI: Metcalfe, Travis - White Dwarf Research Corporation
+
+Type: SMALL
+
+Summary: Sun-like stars are born with relatively rapid rotation and strong magnetic fields. Through a process known as magnetic braking, the rotation slows over time as stellar winds gradually remove angular momentum from the system. Recent observations suggest that the efficiency of magnetic braking may decrease dramatically in stars near the middle of their main-sequence lifetimes. One hypothesis to explain these observations is a shift in magnetic complexity from predominantly larger to smaller spatial scales. By combining asteroseismology from TESS with ground-based spectropolarimetry, we propose to constrain the timing and duration of the shift in magnetic complexity for a carefully selected sample of stars that are near or beyond the middle of their main-sequence lifetimes.
+
+
+# Sector 041 targets observed (2 min: 2, 20 s: 2)
+27533327,295.4653,50.5166,5.63,G04176;G04059;G04104;G04180;G04098;20SECONDTARGET
+27533341,295.4526,50.5241,5.39,G04104;G04176;G04059;G04180;20SECONDTARGET

@@ -8,3 +8,6 @@ Type: MINI
 
 Summary: The bulk composition of exo-planets is a crucial input in planet formation models, and spectroscopy of white dwarfs accreting planetary debris is the only available method to measure it. However, all studies have so far used an assumption that remains untested: "the metals are uniformly distributed over the stellar surface". Given accretion proceeds via a geometrically thin disk, the validity of this assumption is far from obvious. Exploiting the pulsations in G29-38, the metal distribution can be mapped over the surface. However, the evolution of the location of the pulsations is a necessary step. The exquisite continuous long-term TESS photometry has the potential to reduce the aliases, and only the 20-sec cadence mode can to resolve the shortest pulsations (<2min) in G29-38.
 
+
+# Sector 042 targets observed (2 min: 1, 20 s: 1)
+422526868,352.1961,5.2468,13.11,G04056;G04137;G04200;G04123;G04211;G04106;20SECONDTARGET
