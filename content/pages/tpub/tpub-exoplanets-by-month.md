@@ -63,6 +63,30 @@ Saunders, Nicholas, Grunblatt, Samuel K., Huber, Daniel, et al.
 Osborn, Ares, Armstrong, David J., Cale, Bryson, et al.    
 2021, not refereed ([2021arXiv210802310O](http://adsabs.harvard.edu/abs/2021arXiv210802310O))  
 
+13. [TOI-1634 B: AN ULTRA-SHORT-PERIOD KEYSTONE PLANET SITTING INSIDE THE M-DWARF RADIUS VALLEY](http://adsabs.harvard.edu/abs/2021AJ....162...79C)  
+Cloutier, Ryan, Charbonneau, David, Stassun, Keivan G., et al.    
+2021, refereed ([2021AJ....162...79C](http://adsabs.harvard.edu/abs/2021AJ....162...79C))  
+
+14. [HD 183579B: A WARM SUB-NEPTUNE TRANSITING A SOLAR TWIN DETECTED BY TESS](http://adsabs.harvard.edu/abs/2021MNRAS.tmp.1997G)  
+Gan, Tianjun, Bedell, Megan, Wang, Sharon Xuesong, et al.    
+2021, refereed ([2021MNRAS.tmp.1997G](http://adsabs.harvard.edu/abs/2021MNRAS.tmp.1997G))  
+
+15. [SPECKLE OBSERVATIONS OF TESS EXOPLANET HOST STARS. II. STELLAR COMPANIONS AT 1-1000 AU AND IMPLICATIONS FOR SMALL PLANET DETECTION](http://adsabs.harvard.edu/abs/2021AJ....162...75L)  
+Lester, Kathryn V., Matson, Rachel A., Howell, Steve B., et al.    
+2021, refereed ([2021AJ....162...75L](http://adsabs.harvard.edu/abs/2021AJ....162...75L))  
+
+16. [A PAIR OF WARM GIANT PLANETS NEAR THE 2:1 MEAN MOTION RESONANCE AROUND THE K-DWARF STAR TOI-2202](http://adsabs.harvard.edu/abs/2021arXiv210805323T)  
+Trifonov, Trifon, Brahm, Rafael, Espinoza, Nestor, et al.    
+2021, not refereed ([2021arXiv210805323T](http://adsabs.harvard.edu/abs/2021arXiv210805323T))  
+
+17. [TOI-431/HIP 26013: A SUPER-EARTH AND A SUB-NEPTUNE TRANSITING A BRIGHT, EARLY K DWARF, WITH A THIRD RV PLANET](http://adsabs.harvard.edu/abs/2021MNRAS.tmp.2087O)  
+Osborn, Ares, Armstrong, David J., Cale, Bryson, et al.    
+2021, refereed ([2021MNRAS.tmp.2087O](http://adsabs.harvard.edu/abs/2021MNRAS.tmp.2087O))  
+
+18. [WARM TERRESTRIAL PLANET WITH HALF THE MASS OF VENUS TRANSITING A NEARBY STAR](http://adsabs.harvard.edu/abs/2021arXiv210803323D)  
+Demangeon, Olivier D. S., Zapatero Osorio, M. R., Alibert, Y., et al.    
+2021, not refereed ([2021arXiv210803323D](http://adsabs.harvard.edu/abs/2021arXiv210803323D))  
+
 
 2021-07
 -------

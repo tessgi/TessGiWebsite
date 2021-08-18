@@ -107,6 +107,66 @@ Osborn, Ares, Armstrong, David J., Cale, Bryson, et al.
 Campbell-White, Justyn, Sicilia-Aguilar, Aurora, Manara, Carlo F., et al.    
 2021, not refereed ([2021arXiv210802552C](http://adsabs.harvard.edu/abs/2021arXiv210802552C))  
 
+21. [THE CHANGING LIGHTCURVE OF THE DOUBLE-MODE RR LYRAE VARIABLE STAR V338 BOO](http://adsabs.harvard.edu/abs/2021ApJ...916L..12C)  
+Carrell, Kenneth, Wilhelm, Ronald, Olsen, Faith, et al.    
+2021, refereed ([2021ApJ...916L..12C](http://adsabs.harvard.edu/abs/2021ApJ...916L..12C))  
+
+22. [TOI-1634 B: AN ULTRA-SHORT-PERIOD KEYSTONE PLANET SITTING INSIDE THE M-DWARF RADIUS VALLEY](http://adsabs.harvard.edu/abs/2021AJ....162...79C)  
+Cloutier, Ryan, Charbonneau, David, Stassun, Keivan G., et al.    
+2021, refereed ([2021AJ....162...79C](http://adsabs.harvard.edu/abs/2021AJ....162...79C))  
+
+23. [HD 183579B: A WARM SUB-NEPTUNE TRANSITING A SOLAR TWIN DETECTED BY TESS](http://adsabs.harvard.edu/abs/2021MNRAS.tmp.1997G)  
+Gan, Tianjun, Bedell, Megan, Wang, Sharon Xuesong, et al.    
+2021, refereed ([2021MNRAS.tmp.1997G](http://adsabs.harvard.edu/abs/2021MNRAS.tmp.1997G))  
+
+24. [SPECKLE OBSERVATIONS OF TESS EXOPLANET HOST STARS. II. STELLAR COMPANIONS AT 1-1000 AU AND IMPLICATIONS FOR SMALL PLANET DETECTION](http://adsabs.harvard.edu/abs/2021AJ....162...75L)  
+Lester, Kathryn V., Matson, Rachel A., Howell, Steve B., et al.    
+2021, refereed ([2021AJ....162...75L](http://adsabs.harvard.edu/abs/2021AJ....162...75L))  
+
+25. [TESS INPUT CATALOG VERSIONS 8.1 AND 8.2: PHANTOMS IN THE 8.0 CATALOG AND HOW TO HANDLE THEM](http://adsabs.harvard.edu/abs/2021arXiv210804778P)  
+Paegert, Martin, Stassun, Keivan G., Collins, Karen A., et al.    
+2021, not refereed ([2021arXiv210804778P](http://adsabs.harvard.edu/abs/2021arXiv210804778P))  
+
+26. [TIDALLY PERTURBED OBLIQUE PULSATIONS IN THE HIERARCHICAL TRIPLE SYSTEM V1031 ORIONIS](http://adsabs.harvard.edu/abs/2021PASJ...73..809L)  
+Lee, Jae Woo    
+2021, refereed ([2021PASJ...73..809L](http://adsabs.harvard.edu/abs/2021PASJ...73..809L))  
+
+27. [THE CURIOUS CASE OF ASASSN-20HX: A SLOWLY-EVOLVING, UV AND X-RAY LUMINOUS, AMBIGUOUS NUCLEAR TRANSIENT](http://adsabs.harvard.edu/abs/2021arXiv210803245H)  
+Hinkle, Jason T., Holoien, Thomas W. -S., Shappee, Benjamin. J., et al.    
+2021, not refereed ([2021arXiv210803245H](http://adsabs.harvard.edu/abs/2021arXiv210803245H))  
+
+28. [SIMULTANEOUS MULTIWAVELENGTH FLARE OBSERVATIONS OF EV LACERTAE](http://adsabs.harvard.edu/abs/2021arXiv210804753P)  
+Paudel, Rishi R., Barclay, Thomas, Schlieder, Joshua E., et al.    
+2021, not refereed ([2021arXiv210804753P](http://adsabs.harvard.edu/abs/2021arXiv210804753P))  
+
+29. [A PAIR OF WARM GIANT PLANETS NEAR THE 2:1 MEAN MOTION RESONANCE AROUND THE K-DWARF STAR TOI-2202](http://adsabs.harvard.edu/abs/2021arXiv210805323T)  
+Trifonov, Trifon, Brahm, Rafael, Espinoza, Nestor, et al.    
+2021, not refereed ([2021arXiv210805323T](http://adsabs.harvard.edu/abs/2021arXiv210805323T))  
+
+30. [GIANT WHITE-LIGHT FLARES ON FULLY CONVECTIVE STARS OCCUR AT HIGH LATITUDES](http://adsabs.harvard.edu/abs/2021MNRAS.tmp.2025I)  
+Ilin, Ekaterina, Poppenhaeger, Katja, Schmidt, Sarah J., et al.    
+2021, refereed ([2021MNRAS.tmp.2025I](http://adsabs.harvard.edu/abs/2021MNRAS.tmp.2025I))  
+
+31. [OO DRA: AN ALGOL-TYPE BINARY FORMED THROUGH AN EXTREMELY HELIUM-POOR MASS ACCRETION REVEALED BY ASTEROSEISMOLOGY](http://adsabs.harvard.edu/abs/2021arXiv210802912C)  
+Chen, Xinghao, Zhang, Xiaobin, Li, Yan, et al.    
+2021, not refereed ([2021arXiv210802912C](http://adsabs.harvard.edu/abs/2021arXiv210802912C))  
+
+32. [TOI-431/HIP 26013: A SUPER-EARTH AND A SUB-NEPTUNE TRANSITING A BRIGHT, EARLY K DWARF, WITH A THIRD RV PLANET](http://adsabs.harvard.edu/abs/2021MNRAS.tmp.2087O)  
+Osborn, Ares, Armstrong, David J., Cale, Bryson, et al.    
+2021, refereed ([2021MNRAS.tmp.2087O](http://adsabs.harvard.edu/abs/2021MNRAS.tmp.2087O))  
+
+33. [V488 PER REVISITED: NO STRONG MID-INFRARED EMISSION FEATURES AND NO EVIDENCE FOR STELLAR/SUB-STELLAR COMPANIONS](http://adsabs.harvard.edu/abs/2021arXiv210803700S)  
+Sankar, Swetha, Melis, Carl, Klein, Beth L., et al.    
+2021, not refereed ([2021arXiv210803700S](http://adsabs.harvard.edu/abs/2021arXiv210803700S))  
+
+34. [AGE-DATING RED GIANT STARS ASSOCIATED WITH GALACTIC DISK AND HALO SUBSTRUCTURES](http://adsabs.harvard.edu/abs/2021ApJ...916...88G)  
+Grunblatt, Samuel K., Zinn, Joel C., Price-Whelan, Adrian M., et al.    
+2021, refereed ([2021ApJ...916...88G](http://adsabs.harvard.edu/abs/2021ApJ...916...88G))  
+
+35. [WARM TERRESTRIAL PLANET WITH HALF THE MASS OF VENUS TRANSITING A NEARBY STAR](http://adsabs.harvard.edu/abs/2021arXiv210803323D)  
+Demangeon, Olivier D. S., Zapatero Osorio, M. R., Alibert, Y., et al.    
+2021, not refereed ([2021arXiv210803323D](http://adsabs.harvard.edu/abs/2021arXiv210803323D))  
+
 
 2021-07
 -------

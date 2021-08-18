@@ -55,6 +55,42 @@ Ilin, Ekaterina, Poppenhaeger, Katja, Schmidt, Sarah J., et al.
 Campbell-White, Justyn, Sicilia-Aguilar, Aurora, Manara, Carlo F., et al.    
 2021, not refereed ([2021arXiv210802552C](http://adsabs.harvard.edu/abs/2021arXiv210802552C))  
 
+9. [THE CHANGING LIGHTCURVE OF THE DOUBLE-MODE RR LYRAE VARIABLE STAR V338 BOO](http://adsabs.harvard.edu/abs/2021ApJ...916L..12C)  
+Carrell, Kenneth, Wilhelm, Ronald, Olsen, Faith, et al.    
+2021, refereed ([2021ApJ...916L..12C](http://adsabs.harvard.edu/abs/2021ApJ...916L..12C))  
+
+10. [TESS INPUT CATALOG VERSIONS 8.1 AND 8.2: PHANTOMS IN THE 8.0 CATALOG AND HOW TO HANDLE THEM](http://adsabs.harvard.edu/abs/2021arXiv210804778P)  
+Paegert, Martin, Stassun, Keivan G., Collins, Karen A., et al.    
+2021, not refereed ([2021arXiv210804778P](http://adsabs.harvard.edu/abs/2021arXiv210804778P))  
+
+11. [TIDALLY PERTURBED OBLIQUE PULSATIONS IN THE HIERARCHICAL TRIPLE SYSTEM V1031 ORIONIS](http://adsabs.harvard.edu/abs/2021PASJ...73..809L)  
+Lee, Jae Woo    
+2021, refereed ([2021PASJ...73..809L](http://adsabs.harvard.edu/abs/2021PASJ...73..809L))  
+
+12. [THE CURIOUS CASE OF ASASSN-20HX: A SLOWLY-EVOLVING, UV AND X-RAY LUMINOUS, AMBIGUOUS NUCLEAR TRANSIENT](http://adsabs.harvard.edu/abs/2021arXiv210803245H)  
+Hinkle, Jason T., Holoien, Thomas W. -S., Shappee, Benjamin. J., et al.    
+2021, not refereed ([2021arXiv210803245H](http://adsabs.harvard.edu/abs/2021arXiv210803245H))  
+
+13. [SIMULTANEOUS MULTIWAVELENGTH FLARE OBSERVATIONS OF EV LACERTAE](http://adsabs.harvard.edu/abs/2021arXiv210804753P)  
+Paudel, Rishi R., Barclay, Thomas, Schlieder, Joshua E., et al.    
+2021, not refereed ([2021arXiv210804753P](http://adsabs.harvard.edu/abs/2021arXiv210804753P))  
+
+14. [GIANT WHITE-LIGHT FLARES ON FULLY CONVECTIVE STARS OCCUR AT HIGH LATITUDES](http://adsabs.harvard.edu/abs/2021MNRAS.tmp.2025I)  
+Ilin, Ekaterina, Poppenhaeger, Katja, Schmidt, Sarah J., et al.    
+2021, refereed ([2021MNRAS.tmp.2025I](http://adsabs.harvard.edu/abs/2021MNRAS.tmp.2025I))  
+
+15. [OO DRA: AN ALGOL-TYPE BINARY FORMED THROUGH AN EXTREMELY HELIUM-POOR MASS ACCRETION REVEALED BY ASTEROSEISMOLOGY](http://adsabs.harvard.edu/abs/2021arXiv210802912C)  
+Chen, Xinghao, Zhang, Xiaobin, Li, Yan, et al.    
+2021, not refereed ([2021arXiv210802912C](http://adsabs.harvard.edu/abs/2021arXiv210802912C))  
+
+16. [V488 PER REVISITED: NO STRONG MID-INFRARED EMISSION FEATURES AND NO EVIDENCE FOR STELLAR/SUB-STELLAR COMPANIONS](http://adsabs.harvard.edu/abs/2021arXiv210803700S)  
+Sankar, Swetha, Melis, Carl, Klein, Beth L., et al.    
+2021, not refereed ([2021arXiv210803700S](http://adsabs.harvard.edu/abs/2021arXiv210803700S))  
+
+17. [AGE-DATING RED GIANT STARS ASSOCIATED WITH GALACTIC DISK AND HALO SUBSTRUCTURES](http://adsabs.harvard.edu/abs/2021ApJ...916...88G)  
+Grunblatt, Samuel K., Zinn, Joel C., Price-Whelan, Adrian M., et al.    
+2021, refereed ([2021ApJ...916...88G](http://adsabs.harvard.edu/abs/2021ApJ...916...88G))  
+
 
 2021-07
 -------
