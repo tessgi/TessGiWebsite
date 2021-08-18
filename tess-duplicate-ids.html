@@ -7,7 +7,7 @@ in August 2015, using pelican-bootstrap and flatly.
 >
 
 <head>
-    <title>Sector 25 - TESS Science Support Center</title>
+    <title>TESS duplicate IDs - TESS</title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
@@ -37,18 +37,21 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <link href="./images/favicon.png" rel="icon">
 
-<link rel="canonical" href="./pages/sector-25.html">
+<link rel="canonical" href="./tess-duplicate-ids.html">
 
-        <meta name="author" content="Thomas Barclay" />
-        <meta name="description" content="TIC ID&#39;s that had issues in Sector 25. Targets not processed in 2-min pipeline: 154699609, 303256075, 329269366, and 255909448 Blended stars: 198242676, 313498719, 354379201, 441804565, 1201228154, 1271046655, 341873045, and 471011933 A star is considered to be bended when its flux has been significantly contaminated by a nearby bright star(s …" />
+        <meta name="author" content="Rebekah Hounsell" />
+        <meta name="description" content="Hello TESS followers and welcome to this special news bulletin. It has brought to our attention that a small fraction (&lt;1%) of our TESS objects of interest have duplicate TIC ID&#39;s. This issue was caused by the conversion from one catalog coordinates to another. Below we summarize what you the …" />
 
-    <meta property="og:site_name" content="TESS" />
-    <meta property="og:type" content="article"/>
-    <meta property="og:title" content="Sector 25"/>
-    <meta property="og:url" content="./pages/sector-25.html"/>
-    <meta property="og:description" content="TIC ID&#39;s that had issues in Sector 25. Targets not processed in 2-min pipeline: 154699609, 303256075, 329269366, and 255909448 Blended stars: 198242676, 313498719, 354379201, 441804565, 1201228154, 1271046655, 341873045, and 471011933 A star is considered to be bended when its flux has been significantly contaminated by a nearby bright star(s …" />
-        <meta property="og:image"
-              content="./images/logo-for-twitter.jpeg"/>
+        <meta property="og:site_name" content="TESS" />
+        <meta property="og:type" content="article"/>
+        <meta property="og:title" content="TESS duplicate IDs"/>
+        <meta property="og:url" content="./tess-duplicate-ids.html"/>
+        <meta property="og:description" content="Hello TESS followers and welcome to this special news bulletin. It has brought to our attention that a small fraction (&lt;1%) of our TESS objects of interest have duplicate TIC ID&#39;s. This issue was caused by the conversion from one catalog coordinates to another. Below we summarize what you the …"/>
+        <meta property="article:published_time" content="2021-05-11" />
+            <meta property="article:section" content="news" />
+            <meta property="article:author" content="Rebekah Hounsell" />
+            <meta property="og:image"
+                  content="./images/logo-for-twitter.jpeg"/>
 
 
     <!-- Why use Helvetica Neue when you can have Lato? -->
@@ -162,31 +165,61 @@ in August 2015, using pelican-bootstrap and flatly.
     <div class="row">
         <div class="col-lg-12">
 
-    <div class="col-sm-9" data-spy="scroll" data-target="#sidebarCol">
-        <section id="content" class="body">
-            <h1 class="entry-title">Sector 25</h1>
+    <section id="content">
+        <article>
+            <header >
+                <h1>
+                    <a href="./tess-duplicate-ids.html"
+                       rel="bookmark"
+                       title="Permalink to TESS duplicate IDs">
+                        TESS duplicate IDs
+                    </a>
+                </h1>
+            </header>
             <div class="entry-content">
-                
-<p>TIC ID's that had issues in Sector 25.</p>
-<h2 id="targets-not-processed-in-2-min-pipeline">Targets not processed in 2-min pipeline:</h2>
-<p>154699609, 303256075, 329269366, and 255909448</p>
-<h2 id="blended-stars">Blended stars:</h2>
-<p>198242676, 313498719, 354379201, 441804565, 1201228154, 1271046655, 341873045, and 471011933</p>
-<p>A star is considered to be bended when its flux has been significantly contaminated by a nearby bright star(s). Since the contaminating flux is considered very large, the resulting photometry for such targets is expected to be unreliable.</p>
-            </div>
-        </section>
-    </div>
+<p style="margin-bottom: 1.5em;">
+    <span class="published categories-timestamp">
+        News article posted on
+        <time datetime="2021-05-11T10:00:00-04:00"> 11 May 2021</time>
+    
 
-        <nav class="col-sm-3 visible-sm visible-md visible-lg bs-docs-sidebar" id="sidebarCol">
-            <div class="nav nav-stacked fixed" id="mytoc">
-            <div class="toc">
+
+            by <a href="./author/rebekah-hounsell.html">Rebekah Hounsell</a>
+
+
+
+    
+
+    </span>
+</p><!-- /.post-info -->                <p>Hello TESS followers and welcome to this special news bulletin.
+It has brought to our attention that a small fraction (&lt;1%) of our TESS objects of interest have duplicate TIC ID's.
+This issue was caused by the conversion from one catalog coordinates to another. </p>
+<p>Below we summarize what you the user should expect if you come across one of these duplicates, future analyses at the SPOC level, and how you will be notified of such objects in the data. </p>
+<h2 id="the-issue">The issue</h2>
+<p>In some cases a star, star A, is resolved into two other stars, stars B and C. Stars A, B, and C all have TIC ID's in TIC 8. 
+In this case star A is the sum of stars B and C. </p>
+<p>In other cases star A is the same as star B,  but both have TIC ID's in TIC 8. See the figure below, for an example of the behavior in this situation.</p>
+<p><center>
+<img alt="TIC" src="images/TIC.png" /></p>
+<p><strong>Fig 1.</strong> <em>PDCSAP flux of TIC 158324245 (blue) which has a duplicated ID of TIC 1717079071 (red).</em>
+</center></p>
+<p>Past and current analysis at SPOC using TIC 8 assumes that A, B, and C are all valid stars.
+TIC 8.x turns star B into a duplicate and replaces the parameters of A with those of B.</p>
+<h2 id="future-analyses-at-spoc">Future analyses at SPOC</h2>
 <ul>
-<li><a href="#targets-not-processed-in-2-min-pipeline">Targets not processed in 2-min pipeline:</a></li>
-<li><a href="#blended-stars">Blended stars:</a></li>
+<li>Future observations of A by SPOC using TIC 8.x will give the correct answer</li>
+<li>Future observations of B by SPOC will be precluded by the POC not including it as a target</li>
+<li>Reprocessing of B using TIC 8.x is currently a problem at SPOC, as it is a duplicate</li>
+<li>Multi-sector analyses of B using TIC 8.x is currently a problem at SPOC, as it is a duplicate</li>
 </ul>
-</div>
+<h2 id="notification">Notification</h2>
+<p>MAST is currently working on the best way to notify you the user of the problem should you examine data from one of these objects. 
+We will update you of the situation as it progresses.</p>
             </div>
-        </nav>
+            <!-- /.entry-content -->
+        </article>
+    </section>
+
         </div>
     </div>
 </div>
@@ -239,7 +272,7 @@ in August 2015, using pelican-bootstrap and flatly.
       <!-- NASA logo and notices -->
       <div class="row" style="margin-top:2em;">
          <div class="col-md-10"> <a href="http://www.nasa.gov/"><img src="./images/NASA_logo_vector_lg.png" width="30" alt="NASA Logo"></a> 
-         Last modified: Mon 09 August 2021
+         Last modified: Tue 11 May 2021
             &middot; Editor: Thomas Barclay &middot; NASA Official: Patricia T Boyd 
             &middot; <a href="http://www.nasa.gov/about/highlights/HP_Privacy.html">Privacy Policy and Important Notices</a><p></p>         </div>
          <div class="col-md-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
@@ -260,24 +293,5 @@ in August 2015, using pelican-bootstrap and flatly.
 <!-- Analytics scripts -->
 
 
-        <script>
-          $('#mytoc').affix({
-                offset: {
-                  top: 50
-                }
-          });
-          $('body').scrollspy({
-              target: '#sidebarCol',
-              offset: 100
-          });
-
-          // Fix for issue #32:
-          function refreshScrollspy() {
-                $('[data-spy="scroll"]').each(function() {
-                    $(this).scrollspy('refresh');
-                });
-          }
-          $("img").bind('load', refreshScrollspy);
-        </script>
 </body>
 </html>
