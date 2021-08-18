@@ -1,0 +1,14 @@
+# TESS Program G04225
+
+Title: Are K Type Planet Hosts Good Parents For Potentially Habitable Exoplanets?
+
+PI: Airapetian, Vladimir - NASA/GSFC & Adnet
+
+Type: SMALL
+
+Summary: Kepler and TESS estimates suggest that several thousand stars are located within 20 or 30 pc from Earth. Which of them are habitable? The answer to this question suffers from great uncertainty because Extreme UV emission and stellar winds cannot be recovered from G-K dwarfs. Here we propose to use TESS 2-min cadence observations and focus on one question: What is the level of stellar activity in active K dwarfHow does it impact habitability on rocky planets in the solar neighborhood? These TESS observations are part of a large multi-wavelength, multi-observatory campaign where the complete data set will allow us to theoretically reconstruct coronal X-ray, EUV and electromechanical wind fluxes from young and mature K dwarfs with rotation rate spanning between ~3-50 days.
+
+
+# Sector 041 targets observed (2 min: 2, 20 s: 2)
+28230919,297.7105,48.0823,8.51,G04059;G04225;G04142;G04098;G04242;G04039;20SECONDTARGET
+159613900,219.749,64.2914,7.04,G04104;G04225;G04238;G04191;20SECONDTARGET

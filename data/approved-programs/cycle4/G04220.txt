@@ -9,7 +9,12 @@ Type: SMALL
 Summary: We propose to observe nearby, coeval, wide binary systems as fundamental astrophysical calibrators for period-age relations for low-mass (< 0.8 Msun) main sequence stars. We target systems where solar-like oscillations should be detectable in TESS in the F/G primary star, enabling a precise asteroseismic age determination (10-20%), and where the secondary star is of K or M spectral type. 68 such binary systems meet these criteria and are visible in Cycle 4, roughly doubling the sample of asteroseismic age calibrators for period-age relations, and providing the first large sample of seismic calibrators for low-mass stars.
 
 
-# Sector 040 targets observed (2 min: 3, 20 s: 0)
-237277760,299.1197,73.6159,8.7,G04220;G04171;G04103
+# Sector 041 targets observed (2 min: 4, 20 s: 0)
+286467751,313.0112,21.1882,8.72,G04220;G04103
+236871353,302.8971,62.079,5.22,G04220;G04103
 258802502,286.9392,68.5321,9.1,G04220;G04103
-461547729,351.9272,86.5591,6.72,G04220;G04103
+232978692,218.3782,63.2937,8.37,G04220;G04103
+
+# Sector 042 targets observed (2 min: 2, 20 s: 0)
+241056806,328.6498,-3.3015,5.8,G04220;G04103
+404711720,29.6985,17.0256,7.27,G04220;G04103

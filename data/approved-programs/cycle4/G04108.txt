@@ -9,9 +9,21 @@ Type: SMALL
 Summary: Asteroseismology of pre-main sequence stars has the potential to probe the interior structures of stars in their earliest evolutionary phases and connect to the later stages starting from the zero-age main sequence. For many pre-MS delta Scuti stars discovered from ground-based observations, TESS is now the first space mission delivering the high-quality, nearly uninterrupted photometric time series to fully study these stars. The present proposal aims to extend the TESS 2-minute cadence data of pre-MS delta Scuti stars to the Northern Hemisphere and includes 65 targets mostly discovered from long cadence FFI data of the TESS Primary Mission. As delta Scuti pulsations can be as short as 15 minutes, we apply for TESS observations with 2-minute cadence.
 
 
-# Sector 040 targets observed (2 min: 5, 20 s: 0)
+# Sector 041 targets observed (2 min: 14, 20 s: 0)
+11695948,304.1244,37.6584,14.34,G04123;G04108
+11695964,304.1832,37.6594,14.61,G04123;G04108
+11695968,304.0912,37.6597,14.53,G04123;G04108
+11696421,304.1227,37.7072,14.79,G04123;G04108
+12256961,304.4944,40.7027,9.83,G04123;G04108
+40736753,301.5139,36.0205,10.95,G04123;G04108
+41195917,301.5896,35.9053,10.35,G04123;G04108;G04106
+89754845,301.3901,35.7403,11.93,G04123;G04108
+89756665,301.4907,35.9538,9.83,G04123;G04074;G04108
+91818998,302.4299,32.89,12.53,G04123;G04108
+91819153,302.4481,32.9094,13.32,G04123;G04108
 110990131,291.6677,23.8974,10.57,G04123;G04108
-264809985,292.422,15.566,12.6,G04123;G04108
 360061213,295.7782,23.277,13.6,G04123;G04108
 360061628,295.7877,23.2969,13.48,G04123;G04108
-385894679,291.4948,21.2087,10.12,G04123;G04108
+
+# Sector 042 targets observed (2 min: 1, 20 s: 0)
+101256059,56.13,32.1061,9.62,G04123;G04108

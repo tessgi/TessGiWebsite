@@ -8,3 +8,6 @@ Type: SMALL
 
 Summary: We propose to observe the active, flaring, mid-M dwarf star AF Psc at 20-second cadence with TESS during Sector 42, combined with simultaneous X-ray and ultraviolet observations at high cadence with Swift. We will attempt to measure the energy partition and temperature evolution of at least one flare simultaneously across several electromagnetic regimes at very high time resolution.
 
+
+# Sector 042 targets observed (2 min: 1, 20 s: 1)
+250081915,352.9378,-2.7447,11.37,G04187;G04240;G04139;G04236;G04188;G04060;G04039;G04147;20SECONDTARGET
