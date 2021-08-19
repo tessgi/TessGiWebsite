@@ -9,6 +9,13 @@ Type: MINI
 Summary: AM CVns are binaries with 5 < Porb < 68 mins in which a white dwarf (WD) accretes He-rich material from another WD or a He star. AM CVns are rare systems. Until now we know 58 objects, of which 40 have shown outbursts, which are not well understood. Recent studies that include more data and exclude upper limits have shown that the relation Porb and superoutburst duration is much flatter than previously believed. Likely the relations between Porb and the recurrence time, and the amplitude are strongly affected by upper limits as well. This has implications for accretion models in AM CVns. For TESS Cycle 4 we request monitoring of 30 AM CVns at 20sec cadence to study their outbursts, in particular enhance mass-transfer mechanisms, and to study flares and flickering in persistent systems.
 
 
+# Sector 040 targets observed (2 min: 5, 20 s: 5)
+1884076062,291.1593,59.6962,18.7,G04165;G04009;20SECONDTARGET
+1400773519,262.6983,55.7549,20.05,G04165;20SECONDTARGET
+121107327,287.0711,39.6768,16.35,G04165;G04137;G04046;20SECONDTARGET
+1717025833,289.7716,48.2517,19.96,G04165;20SECONDTARGET
+1201247611,242.8915,63.1421,18.03,G04165;20SECONDTARGET
+
 # Sector 041 targets observed (2 min: 5, 20 s: 5)
 1884076062,291.1593,59.6962,18.7,G04165;G04009;20SECONDTARGET
 121107327,287.0711,39.6768,16.35,G04165;G04137;G04046;20SECONDTARGET

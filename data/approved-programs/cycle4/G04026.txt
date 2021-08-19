@@ -9,6 +9,21 @@ Type: SMALL
 Summary: With TESS data products we seek to comprehensively establish whether planetary systems observed around GKM-type stars are allowable or ruled out for A-type stars. This will require the best lightcurve sensitivity possible for A-type stars to try and mitigate their larger size relative to GKM-type stars. Effectively removing high frequency stellar pulsations commonly seen for A-type stars is essential to broaching this goal. We request support to analyze FFI and short cadence TESS data for a selection of A-type stars observed during Cycle 4. The primary goal of the work proposed herein is to determine if TESS FFI (10 minute) cadences are sufficient to model and remove pulsational variability seen in A-type stars, or if shorter (20 second and/or 2 minute) cadence data are necessary.
 
 
+# Sector 040 targets observed (2 min: 13, 20 s: 13)
+114864045,285.2024,27.0926,8.34,G04026;20SECONDTARGET
+110103337,291.3181,25.7075,8.57,G04123;G04026;G04106;20SECONDTARGET
+350794810,285.152,23.7828,8.23,G04026;20SECONDTARGET
+232641526,281.4906,56.1035,8.82,G04123;G04026;G04106;20SECONDTARGET
+27838435,296.3187,53.0693,8.16,G04026;20SECONDTARGET
+359675242,280.7861,56.833,8.37,G04171;G04026;20SECONDTARGET
+21002598,272.6882,53.5005,8.25,G04026;20SECONDTARGET
+289540793,251.7029,62.7991,8.15,G04026;20SECONDTARGET
+233080272,271.7533,65.888,8.0,G04026;20SECONDTARGET
+256298427,276.4532,70.4223,8.13,G04026;20SECONDTARGET
+160603848,245.0933,75.4668,8.59,G04123;G04026;G04106;20SECONDTARGET
+298412150,146.59,89.5695,8.79,G04123;G04026;G04106;20SECONDTARGET
+71560509,122.3688,70.208,8.19,G04026;20SECONDTARGET
+
 # Sector 041 targets observed (2 min: 13, 20 s: 13)
 17375790,308.298,40.4608,8.72,G04123;G04026;G04106;20SECONDTARGET
 110103337,291.3181,25.7075,8.57,G04123;G04026;G04106;20SECONDTARGET

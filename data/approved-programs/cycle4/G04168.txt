@@ -9,6 +9,9 @@ Type: MINI
 Summary: A new class of M dwarfs with strict, periodic complex modulations has recently been identified. These complex rotators have light curves exhibiting sharp features on short timescales; the periodicity of these features is sometimes well beyond the Nyquist limit of the TESS FFIs. Moreover, these stars' flux modulations exhibit stark changes over time periods of months to years. The most promising models able to explain such variations center on the occultation of stellar features by co-rotating dusty material. This proposal is requesting short-cadence data for six such targets in the North and the ecliptic. Short-cadence data for these targets will enable us to track the changes in these stars' light curves at various epochs and refine existing models for this intriguing class of stars.
 
 
+# Sector 040 targets observed (2 min: 1, 20 s: 0)
+366488770,299.7851,70.0901,14.26,G04168;G04171;G04178
+
 # Sector 041 targets observed (2 min: 2, 20 s: 0)
 207466636,245.7605,59.4567,12.88,G04168
 366488770,299.7851,70.0901,14.26,G04168;G04171;G04178

@@ -9,6 +9,9 @@ Type: SMALL
 Summary: This proposal argues for observations of three cataclysmic variables (CVs) at 20-second cadence and for two CVs at 2-minute cadence. The three high-cadence targets were observed during Cycle 2. Observations of those targets are requested to probe at six-times-higher cadence both normal dwarf nova and stunted novalike outbursts. Observations at two-minute cadence are requested for two objects not observed with TESS -- one exhibits stunted bursts while the other is a high-magnetic system. The long nearly uninterrupted data sets provide of order 100 eclipses to investigate accretion behavior. Eclipsing systems directly probe the accretion disk and the response of the disk to bursts.
 
 
+# Sector 040 targets observed (2 min: 1, 20 s: 1)
+219107776,271.0599,67.9035,13.93,G04171;G04152;G04046;20SECONDTARGET
+
 # Sector 041 targets observed (2 min: 1, 20 s: 1)
 219107776,271.0599,67.9035,13.93,G04171;G04152;G04046;20SECONDTARGET
 

@@ -9,6 +9,12 @@ Type: MINI
 Summary: We propose the search for and characterization of discrete mass-loss events (outbursts) in northern Be stars (initiated in TESS Cycle 2) as well as in Be stars observed during the Kepler/K2 mission. Rapid rotation alone cannot explain the ejection episodes, and non-radial pulsations (NRP) have been proposed as an explanation. Our goal is to verify the correlation between the NRP regime and the feeding of the envelope by combining ground-based spectroscopy data to identify outbursts and the measurement of small changes in pulsation frequencies with TESS 2-min cadence observations. Fourier analysis of photometric data is performed using a methodology developed for CoRoT and K2 Be stars.
 
 
+# Sector 040 targets observed (2 min: 4, 20 s: 0)
+425704973,281.9891,31.7568,6.19,G04150;G04067;G04074
+233613741,283.4363,60.0179,7.15,G04150;G04074;G04067
+236785664,283.0091,59.6671,6.98,G04150;G04067;G04074
+48022676,281.6796,52.9879,5.95,G04150;G04067;G04074
+
 # Sector 041 targets observed (2 min: 13, 20 s: 0)
 100165164,310.593,35.4561,6.79,G04067;G04150;G04074
 14200511,305.9349,37.4764,6.12,G04150;G04067;G04074
