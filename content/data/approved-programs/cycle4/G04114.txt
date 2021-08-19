@@ -9,6 +9,9 @@ Type: MINI
 Summary: The search for life on other planets and an Earth 2.0 has become a prominent area of research in recent years. Exoplanets with both photometric and spectroscopic observations are highly prized, as their combined measurements provide details on planetary compositions and the overall nature of the systems. In this proposal, we ask for 2-min cadence for the KELT-24b and HD 332231b systems. We will combine this with simultaneous spectroscopic observations from the world s leading facilities. Our goal is to determine star-planet alignments and characterise stellar surface magnetic variability. The former is important to validate planet evolution theories, and the latter is imperative to help push the Doppler confirmation of exoplanets towards rocky, temperate worlds.
 
 
+# Sector 040 targets observed (2 min: 1, 20 s: 0)
+349827430,161.9087,71.6557,7.92,G04114;G04096;G04226;G04242;G04039;G04103
+
 # Sector 041 targets observed (2 min: 2, 20 s: 0)
 199376584,306.7411,33.7444,8.04,G04114;G04195;G04231;G04242;G04039
 349827430,161.9087,71.6557,7.92,G04114;G04096;G04226;G04242;G04039;G04103

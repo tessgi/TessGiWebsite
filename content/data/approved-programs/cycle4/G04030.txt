@@ -9,6 +9,12 @@ Type: SMALL
 Summary: The metallic-line A (Am) stars are main-sequence stars of about two solar masses that show enhancements of Ti and Fe-group elements and underabundances of Ca and Sc. These abundance anomalies indicate atomic diffusion processes operating in the stellar envelope that should deplete helium and turn off pulsations via the helium-ionization kappa mechanism. These stars have shallow envelope convection zones that should not be able to sustain a magnetic dynamo. Nevertheless, many Am stars show pulsations as well as spots and flares. We propose TESS observations to discover pulsators, determine frequencies, and characterize magnetic activity. We also propose asteroseismic modeling of the pulsators to understand the origins of the abundance anomalies, pulsations, and rotational variability.
 
 
+# Sector 040 targets observed (2 min: 4, 20 s: 1)
+157623505,275.2606,13.8168,7.78,G04123;G04030
+158178074,274.0378,21.0399,7.17,G04123;G04030
+267813367,293.2879,59.3962,7.81,G04123;G04030;20SECONDTARGET
+76038913,272.7271,38.9615,7.69,G04123;G04030
+
 # Sector 041 targets observed (2 min: 6, 20 s: 4)
 380794470,303.7345,31.2217,8.67,G04123;G04030;20SECONDTARGET
 209945493,298.2375,17.815,8.07,G04123;G04030;20SECONDTARGET

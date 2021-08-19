@@ -9,6 +9,10 @@ Type: SMALL
 Summary: This program will obtain short cadence data on known pulsating hot white dwarf (GW Vir) stars and pulsating planetary nebula nuclei (PNNVs). The science goal is to explore the coherence of the known oscillations. K2 data showed that some longer-period modes in GW Vir itself showed evidence of unexpected stochastic behavior, similar to that seen in long-period modes in cooler white dwarfs. We plan to study this effect in known hot pulsators to test connections between pulsation and convection. The high duty cycle and long duration of TESS data, which far exceed what is available from ground-based studies, are needed. While 2 minute integrations will suffice for all targets, those with short periods can benefit from 20 second integrations to eliminate aliases.
 
 
+# Sector 040 targets observed (2 min: 2, 20 s: 0)
+233689607,275.4671,64.3648,15.47,G04079
+1102584065,229.1932,73.8687,17.12,G04200;G04079;G04177
+
 # Sector 041 targets observed (2 min: 1, 20 s: 0)
 1102475240,225.54,66.2054,16.86,G04137;G04079;G04177
 
