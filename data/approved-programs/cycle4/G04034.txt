@@ -9,6 +9,10 @@ Type: SMALL
 Summary: TESS is collecting unique high cadence, high precision light curves of dozens of yellow supergiants (YSGs). Recent work has found stochastic low-frequency variability (SLFV) to be ubiquitous in YSGs; this variability may be the first direct probe of YSG interiors. We propose to couple ground-based spectroscopy to new and archival TESS data to determine the mechanism driving YSG SLFV, and construct a complete evolutionary sequence of SLFV from main sequence to core collapse. TESS has also revealed a new class of pulsators that are proposed to be massive stars in a second YSG phase. We will use new TESS data to double the number of known YSG pulsators, and use ground-based spectroscopy to constrain their evolutionary status while determining the geometry of the observed modes.
 
 
+# Sector 040 targets observed (2 min: 2, 20 s: 0)
+112731972,292.6556,25.1208,6.13,G04034
+399788684,278.1438,57.0455,4.21,G04034;G04125
+
 # Sector 041 targets observed (2 min: 9, 20 s: 0)
 16109048,307.335,36.4547,5.4,G04034
 16526139,307.7468,36.9358,5.17,G04034

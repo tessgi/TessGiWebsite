@@ -9,6 +9,18 @@ Type: MINI
 Summary: We propose to search for rapid periodic variability in a sample of high-mass white dwarfs to look for white-dwarf merger remnants. Finding and characterizing a population of bona-fide merger remnants by searching for rapidly rotating and highly magnetized white dwarfs can help us understand the properties of remnants and their evolution, as well as understand the origin of magnetic fields in white dwarfs. Additionally, finding the merger rate of white dwarfs below the Chandrasekhar mass can provide important constraints on type Ia supernova rates and on the rate of close double degenerate binaries that will be detected with LISA, as well as help characterizing the contribution to the LISA sensitivity curve by the low-signal-to-noise double degenerates background.
 
 
+# Sector 040 targets observed (2 min: 10, 20 s: 4)
+1713691071,284.4856,31.7956,16.78,G04244;G04137;G04200;G04036;20SECONDTARGET
+1550156479,277.2323,34.9952,16.6,G04244;G04137;G04200;G04036;20SECONDTARGET
+1802959882,285.3873,14.9687,19.67,G04244
+198479927,262.2331,55.9743,16.36,G04244;G04200;G04137
+284191152,275.6153,53.3924,16.79,G04244;G04137;G04200;G04036;20SECONDTARGET
+1550807820,272.139,46.369,17.29,G04244;G04137;G04200
+1717076950,285.9834,46.9602,17.05,G04244;G04137;G04200
+1201246068,242.5967,63.0146,17.1,G04244;G04137;G04200
+229797408,285.0443,70.6673,13.33,G04244;G04200;G04137;20SECONDTARGET
+1102705218,234.4855,84.328,17.31,G04244;G04137;G04200
+
 # Sector 041 targets observed (2 min: 10, 20 s: 4)
 92633917,303.093,31.2308,14.99,G04244;G04137;G04200;G04036;20SECONDTARGET
 1980962304,301.5813,63.2467,17.12,G04244;G04137

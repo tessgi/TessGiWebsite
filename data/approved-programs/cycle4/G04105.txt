@@ -9,6 +9,10 @@ Type: MINI
 Summary: Double eclipsing binaries are systems with two independent but overlapping sets of eclipses. Surprisingly, the population of double eclipsing binaries shows excess near but not exactly at period ratios of 1:1 and 3:2, which is not theoretically understood. Determining the spin state of the individual stars in double eclipsing binaries is the best way to figure out the interplay between tides and dynamical evolution likely responsible for the resonance. We propose to obtain 2-min cadence observations of all known double eclipsing binaries observable in Cycle 4 to determine spin periods of individual components by tracking spots, use the spot eclipses to estimate the obliquity, and search for stellar pulsations.
 
 
+# Sector 040 targets observed (2 min: 2, 20 s: 0)
+284462138,290.8227,55.6599,12.03,G04105
+284482112,291.2327,57.069,10.09,G04105
+
 # Sector 041 targets observed (2 min: 4, 20 s: 0)
 312622966,303.5283,38.8255,12.92,G04105
 312626022,303.5231,38.3829,12.46,G04105
