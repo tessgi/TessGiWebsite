@@ -8,6 +8,8 @@ As the TESS mission has evolved, so has the processing and delivery of its data.
 ##Key updates
 Below we outline some of the most important issues or data product modifications. For more details please see the Sector tables provided below, and the DRNs listed within.
 
+- [**Sector 38 (April 2021):**](data_release_notes.html#sector-38)The TESS Input Catalog was updated to v8.2. This new TIC identifies some newly discovered ARTIFACT and DUPLICATE sources that were not flagged in v8.0/8.1. For a description of these anomalies please read Section 1.1 of the [DRN](https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_sector_38_drn55_v02.pdf) in addition to [supplemental material](https://outerspace.stsci.edu/display/TESS/TIC+v8+and+CTL+v8.xx+Data+Release+Notes).<p></p>
+
 - <b>Reprocessing of Sectors 1-13 (May 2021)</b>:
 
   	- In Sector 2 the instrument electronics model Reference Flux was been updated. The first two overclock rows were also removed from the calculation of the 1D bias correction in the CAL module.
@@ -25,8 +27,8 @@ Below we outline some of the most important issues or data product modifications
 - [**Sector 31 (December 2020):**](data_release_notes.html#sector-31) Approximately 4 days lost due to a star tracker anomaly.<p></p>
 - [**Sector 30 (November 2020):**](data_release_notes.html#sector-30) As of Sector 30, co-trending basis vector (CBV) files only include the first eight principal components for the Single Scale co-trending mode. <p></p>
 - [**Sector 27 (September 2020):**](data_release_notes.html#sector-27) This is the first data release for the extended mission. Key changes have occurred including the collection of 10-min FFI data instead of 30-min, and 20-second target pixel files.<p></p>
-<p>The background correction was updated for the extended mission, with the new method providing improved results for fainter and crowded stars. 
-<p>For targets observed in both Year 1 and Year 3, Year 3 processing was done using TIC 8.1 while TIC 7 was used for Year 1 processing; this may result in differences in results for certain targets.</p>
+	- The background correction was updated for the extended mission, with the new method providing improved results for fainter and crowded stars. 
+	- For targets observed in both Year 1 and Year 3, Year 3 processing was done using TIC 8.1 while TIC 7 was used for Year 1 processing; this may result in differences in results for certain targets.<p></p>
 
 <a class="btn btn-default btn-xs" href="key_updates_archive.html">Key update archive &raquo;</a>
 
@@ -150,6 +152,135 @@ Below we outline some of the most important issues or data product modifications
 ##Cycle 3 DRN Tables
 Below we provide a brief summary of the DRNs for each Sector in Cycle 3. 
 
+
+###Sector 39
+
+<div class="panel panel-primary">
+  <div class="panel-heading">
+    <h3 class="panel-title">Information</h3>
+  </div>
+
+<table class="table table-striped table-hover" style="font-size: 0.77em;">
+       <col style="width:5%">
+       <col style="width:5%">
+       <col style="width:25%">
+       <col style="width:25%">
+       <col style="width:13.3%">
+       <col style="width:13.3%">
+       <col style="width:13.3%">
+
+       <thead>
+       <tr>
+       <th style="vertical-align: middle;">DRN</th>
+       <th style="vertical-align: middle;">Orbits</th>
+       <th style="vertical-align: middle;">Dates (UTC) <p>Start - End</p></th>
+       <th style="vertical-align: middle;">Cadence # <p>Start - End</p></th>
+       <th style="vertical-align: middle;">Data pause <p>(days)</p></th>
+       <th style="vertical-align: middle;">Science data (days)</th>
+       <th style="vertical-align: middle;">Momentum dumps</th>
+       <th style="vertical-align: middle;">Problematic <p>TIC ID's</p></th>
+       </tr>
+       </thead>
+
+       <tr>  
+       <td><a href="https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_sector_39_drn56_v02.pdf">56</a></td>
+       <td><p>85</p> 
+       <p>86</p></td>
+       <td><p>2021-05-27 - 2021-06-09</p>
+       <p>2021-06-10 - 2021-06-24</p></td>
+       <td><p>816704 - 826129</p>
+       <p>826849 - 836829<p></td>
+       <td>1.0</td>
+       <td>26.95</td>
+       <td><p>1</p>
+       <p>1</p></td>
+       <td><a href="sector_39.html">list</a></td>
+       </tr>
+
+ 	<td colspan="3" style="vertical-align: middle;"><b>Issue</b></td>
+	<td colspan="5" style="vertical-align: middle;"><b>Description</b></td>
+       
+       <tr>  
+       <td colspan="3">Spacecraft pointing:</td>
+       <td colspan="5">Both Cameras 1 and 4 were used for guiding in orbits 85 and 86 of Sector 39</td>
+        </tr>
+        
+        <tr>  
+       <td colspan="3" >Scattered light:</td>
+       <td colspan="5" >In Sector 39, there is scattered light for most of both orbits.</td>
+       </tr>
+      
+</table>
+</div>
+</div>
+
+###Sector 38
+
+<div class="panel panel-primary">
+  <div class="panel-heading">
+    <h3 class="panel-title">Information</h3>
+  </div>
+
+<table class="table table-striped table-hover" style="font-size: 0.77em;">
+       <col style="width:5%">
+       <col style="width:5%">
+       <col style="width:25%">
+       <col style="width:25%">
+       <col style="width:13.3%">
+       <col style="width:13.3%">
+       <col style="width:13.3%">
+
+       <thead>
+       <tr>
+       <th style="vertical-align: middle;">DRN</th>
+       <th style="vertical-align: middle;">Orbits</th>
+       <th style="vertical-align: middle;">Dates (UTC) <p>Start - End</p></th>
+       <th style="vertical-align: middle;">Cadence # <p>Start - End</p></th>
+       <th style="vertical-align: middle;">Data pause <p>(days)</p></th>
+       <th style="vertical-align: middle;">Science data (days)</th>
+       <th style="vertical-align: middle;">Momentum dumps</th>
+       <th style="vertical-align: middle;">Problematic <p>TIC ID's</p></th>
+       </tr>
+       </thead>
+
+       <tr>  
+       <td><a href="https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_sector_38_drn55_v02.pdf">55</a></td>
+       <td><p>83</p> 
+       <p>84</p></td>
+       <td><p>2021-04-29 - 2021-05-11</p>
+       <p>2021-05-12 - 2021-05-26</p></td>
+       <td><p>796604 - 805592</p>
+       <p>806284 - 815829<p></td>
+       <td>0.96</td>
+       <td>25.74</td>
+       <td><p>1</p>
+       <p>1</p></td>
+       <td><a href="sector_38.html">list</a></td>
+       </tr>
+
+ 	<td colspan="3" style="vertical-align: middle;"><b>Issue</b></td>
+	<td colspan="5" style="vertical-align: middle;"><b>Description</b></td>
+       
+       <tr>  
+       <td colspan="3">Spacecraft pointing:</td>
+       <td colspan="5">Camera 4 alone was used for guiding in orbit 83 of Sector 38. Both Cameras 1 and 4 were used for guiding in orbit 84.</td>
+        </tr>
+        
+        <tr>  
+       <td colspan="3" >Scattered light:</td>
+       <td colspan="5" >In Sector 38, there is scattered light for most of both orbits</td>
+       </tr>
+       
+       <tr>  
+       <td colspan="3" >Big update:</td>
+       <td colspan="5" >The TESS Input Catalog was updated to v8.2. This new TIC identifies some newly discovered ARTIFACT and DUPLICATE sources that were not flagged in v8.0/8.1. For a description of these anomalies please read Section 1.1 of the [DRN]( https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_sector_38_drn55_v02.pdf) in addition to [supplemental material](https://outerspace.stsci.edu/display/TESS/TIC+v8+and+CTL+v8.xx+Data+Release+Notes). </td>
+       </tr>
+       
+
+</table>
+</div>
+</div>
+
 ###Sector 37
 
 <div class="panel panel-primary">
@@ -191,7 +322,7 @@ Below we provide a brief summary of the DRNs for each Sector in Cycle 3.
        <td>24.15</td>
        <td><p>1</p>
        <p>1</p></td>
-       <td><a href="sector_36.html">list</a></td>
+       <td><a href="sector_37.html">list</a></td>
        </tr>
 
  	<td colspan="3" style="vertical-align: middle;"><b>Issue</b></td>
