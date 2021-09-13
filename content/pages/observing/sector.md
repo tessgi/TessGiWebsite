@@ -150,7 +150,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>North</td>
     <td>2021&nbsp;Oct&nbsp;12</td>
     <td>2021&nbsp;Nov&nbsp;06</td>
-    <td></td>
+    <td><a href='data/target_lists/sector044_targets_lists/GI_S044.csv'>Download</td>
     <td style="min-width: 12em;">
     </td>
   </tr>
@@ -160,7 +160,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>North</td>
     <td>2021&nbsp;Sep&nbsp;16</td>
     <td>2021&nbsp;Oct&nbsp;12</td>
-    <td></td>
+    <td><a href='data/target_lists/sector043_targets_lists/GI_S043.csv'>Download</td>
     <td style="min-width: 12em;">
     </td>
   </tr>
