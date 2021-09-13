@@ -25,3 +25,10 @@ Summary: AM CVns are binaries with 5 < Porb < 68 mins in which a white dwarf (WD
 
 # Sector 042 targets observed (2 min: 1, 20 s: 1)
 611353809,16.4588,19.0548,19.72,G04165;20SECONDTARGET
+
+# Sector 043 targets observed (2 min: 1, 20 s: 1)
+611353809,16.4588,19.0548,19.72,G04165;20SECONDTARGET
+
+# Sector 044 targets observed (2 min: 2, 20 s: 2)
+740789287,116.0823,32.9134,19.75,G04165;20SECONDTARGET
+471016766,134.3511,7.4963,16.5,G04165;20SECONDTARGET
