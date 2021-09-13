@@ -19,6 +19,54 @@ Holdsworth, D. L., Cunha, M. S., Kurtz, D. W., et al.
 Kochukhov, O., Labadie-Bartz, J., Khalack, V., et al.    
 2021, refereed ([2021MNRAS.506L..40K](http://adsabs.harvard.edu/abs/2021MNRAS.506L..40K))  
 
+4. [THE LOUDEST STELLAR HEARTBEAT: CHARACTERIZING THE MOST EXTREME AMPLITUDE HEARTBEAT STAR SYSTEM](http://adsabs.harvard.edu/abs/2021MNRAS.506.4083J)  
+Jayasinghe, T., Kochanek, C. S., Strader, J., et al.    
+2021, refereed ([2021MNRAS.506.4083J](http://adsabs.harvard.edu/abs/2021MNRAS.506.4083J))  
+
+5. [PROPERTIES OF SLOWLY ROTATING ASTEROIDS FROM THE CONVEX INVERSION THERMOPHYSICAL MODEL](http://adsabs.harvard.edu/abs/2021arXiv210900463M)  
+Marciniak, A., Ďurech, J., Alí-Lagoa, V., et al.    
+2021, not refereed ([2021arXiv210900463M](http://adsabs.harvard.edu/abs/2021arXiv210900463M))  
+
+6. [MEASURING THE DENSITY STRUCTURE OF AN ACCRETION HOT SPOT](http://adsabs.harvard.edu/abs/2021arXiv210900510E)  
+Espaillat, C. C., Robinson, C. E., Romanova, M. M., et al.    
+2021, not refereed ([2021arXiv210900510E](http://adsabs.harvard.edu/abs/2021arXiv210900510E))  
+
+7. [THE FIRST PHOTOMETRIC AND SPECTROSCOPIC ANALYSIS OF THE EXTREMELY LOW MASS-RATIO CONTACT BINARY NSVS 5029961](http://adsabs.harvard.edu/abs/2021MNRAS.506.4251Z)  
+Zheng, Shu-Yue, Li, Kai, Xia, Qi-Qi    
+2021, refereed ([2021MNRAS.506.4251Z](http://adsabs.harvard.edu/abs/2021MNRAS.506.4251Z))  
+
+8. [FLARES, ROTATION, AND PLANETS OF THE AU MIC SYSTEM FROM TESS OBSERVATIONS](http://adsabs.harvard.edu/abs/2021arXiv210903924G)  
+Gilbert, Emily A., Barclay, Thomas, Quintana, Elisa V., et al.    
+2021, not refereed ([2021arXiv210903924G](http://adsabs.harvard.edu/abs/2021arXiv210903924G))  
+
+9. [FLARES BIG AND SMALL: A K2 AND TESS VIEW OF ASAS-SN SUPERFLARES](http://adsabs.harvard.edu/abs/2021arXiv210904501Z)  
+Zeldes, Jesse, Hinkle, Jason T., Shappee, Benjamin J., et al.    
+2021, not refereed ([2021arXiv210904501Z](http://adsabs.harvard.edu/abs/2021arXiv210904501Z))  
+
+10. [RAPIDLY-OSCILLATING {\IT TESS} A--F MAIN SEQUENCE STARS](http://adsabs.harvard.edu/abs/2021arXiv210902246B)  
+Balona, L. A.    
+2021, not refereed ([2021arXiv210902246B](http://adsabs.harvard.edu/abs/2021arXiv210902246B))  
+
+11. [THE TESS MISSION TARGET SELECTION PROCEDURE](http://adsabs.harvard.edu/abs/2021arXiv210902665F)  
+Fausnaugh, Michael, Morgan, Ed, Vanderspek, Roland, et al.    
+2021, not refereed ([2021arXiv210902665F](http://adsabs.harvard.edu/abs/2021arXiv210902665F))  
+
+12. [A YOUNG SPECTROSCOPIC BINARY IN A QUINTUPLE SYSTEM PART OF THE LOCAL ASSOCIATION](http://adsabs.harvard.edu/abs/2021arXiv210901624C)  
+Cardona Guillén, Carlos, Lodieu, Nicolas, Béjar, Víctor J. S., et al.    
+2021, not refereed ([2021arXiv210901624C](http://adsabs.harvard.edu/abs/2021arXiv210901624C))  
+
+13. [DISCOVERY OF A YOUNG PRE-INTERMEDIATE POLAR](http://adsabs.harvard.edu/abs/2021MNRAS.tmp.2245W)  
+Wilson, David J., Toloza, Odette, Landstreet, John D., et al.    
+2021, refereed ([2021MNRAS.tmp.2245W](http://adsabs.harvard.edu/abs/2021MNRAS.tmp.2245W))  
+
+14. [NGTS CLUSTERS SURVEY - III. A LOW-MASS ECLIPSING BINARY IN THE BLANCO 1 OPEN CLUSTER SPANNING THE FULLY CONVECTIVE BOUNDARY](http://adsabs.harvard.edu/abs/2021MNRAS.tmp.2280S)  
+Smith, Gareth D., Gillen, Edward, Queloz, Didier, et al.    
+2021, refereed ([2021MNRAS.tmp.2280S](http://adsabs.harvard.edu/abs/2021MNRAS.tmp.2280S))  
+
+15. [PULSATION AND ROTATION OF THE EL CVN-TYPE ECLIPSING BINARY 1SWASP J024743.37-251549.2](http://adsabs.harvard.edu/abs/2021arXiv210902262K)  
+Kim, Seung-Lee, Lee, Jae Woo, Lee, Chung-Uk, et al.    
+2021, not refereed ([2021arXiv210902262K](http://adsabs.harvard.edu/abs/2021arXiv210902262K))  
+
 
 2021-08
 -------

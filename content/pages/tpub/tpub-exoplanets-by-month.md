@@ -11,6 +11,46 @@ Save_as: tpub-exoplanets-by-month.html
 Spyratos, Petros, Nikolov, Nikolay, Southworth, John, et al.    
 2021, refereed ([2021MNRAS.506.2853S](http://adsabs.harvard.edu/abs/2021MNRAS.506.2853S))  
 
+2. [TOI-1231 B: A TEMPERATE, NEPTUNE-SIZED PLANET TRANSITING THE NEARBY M3 DWARF NLTT 24399](http://adsabs.harvard.edu/abs/2021AJ....162...87B)  
+Burt, Jennifer A., Dragomir, Diana, Mollière, Paul, et al.    
+2021, refereed ([2021AJ....162...87B](http://adsabs.harvard.edu/abs/2021AJ....162...87B))  
+
+3. [SEARCHING FOR TRANSITING PLANETS AROUND HALO STARS. II. CONSTRAINING THE OCCURRENCE RATE OF HOT JUPITERS](http://adsabs.harvard.edu/abs/2021AJ....162...85B)  
+Boley, Kiersten M., Wang, Ji, Zinn, Joel C., et al.    
+2021, refereed ([2021AJ....162...85B](http://adsabs.harvard.edu/abs/2021AJ....162...85B))  
+
+4. [GROUND-BASED TRANSMISSION SPECTROSCOPY WITH VLT FORS2: EVIDENCE FOR FACULAE AND CLOUDS IN THE OPTICAL SPECTRUM OF THE WARM SATURN WASP-110B](http://adsabs.harvard.edu/abs/2021AJ....162...88N)  
+Nikolov, Nikolay, Maciejewski, Gracjan, Constantinou, Savvas, et al.    
+2021, refereed ([2021AJ....162...88N](http://adsabs.harvard.edu/abs/2021AJ....162...88N))  
+
+5. [HD22496B: THE FIRST ESPRESSO STANDALONE PLANET DISCOVERY](http://adsabs.harvard.edu/abs/2021arXiv210900226L)  
+Lillo-Box, J., Faria, J. P., Suárez Mascareño, A., et al.    
+2021, not refereed ([2021arXiv210900226L](http://adsabs.harvard.edu/abs/2021arXiv210900226L))  
+
+6. [DIRECTLY DETERMINED PROPERTIES OF HD 97658 FROM INTERFEROMETRIC OBSERVATIONS](http://adsabs.harvard.edu/abs/2021AJ....162..118E)  
+Ellis, Tyler G., Boyajian, Tabetha, von Braun, Kaspar, et al.    
+2021, refereed ([2021AJ....162..118E](http://adsabs.harvard.edu/abs/2021AJ....162..118E))  
+
+7. [THE PECULIAR CHEMICAL PATTERN OF THE WASP-160 BINARY SYSTEM: SIGNATURES OF PLANETARY FORMATION AND EVOLUTION?](http://adsabs.harvard.edu/abs/2021arXiv210904590J)  
+Jofré, Emiliano, Petrucci, Romina, Gómez Maqueo Chew, Yilen, et al.    
+2021, not refereed ([2021arXiv210904590J](http://adsabs.harvard.edu/abs/2021arXiv210904590J))  
+
+8. [TOI-3362B: A PROTO-HOT JUPITER UNDERGOING HIGH-ECCENTRICITY TIDAL MIGRATION](http://adsabs.harvard.edu/abs/2021arXiv210903771D)  
+Dong, Jiayin, Huang, Chelsea X., Zhou, George, et al.    
+2021, not refereed ([2021arXiv210903771D](http://adsabs.harvard.edu/abs/2021arXiv210903771D))  
+
+9. [UNCOVERING THE ULTIMATE PLANET IMPOSTOR. AN ECLIPSING BROWN DWARF IN A HIERARCHICAL TRIPLE WITH TWO EVOLVED STARS](http://adsabs.harvard.edu/abs/2021A&A...653A..40L)  
+Lillo-Box, J., Ribas, Á., Montesinos, B., et al.    
+2021, refereed ([2021A&A...653A..40L](http://adsabs.harvard.edu/abs/2021A&A...653A..40L))  
+
+10. [TOI-674B: AN OASIS IN THE DESERT OF EXO-NEPTUNES TRANSITING A NEARBY M DWARF](http://adsabs.harvard.edu/abs/2021A&A...653A..60M)  
+Murgas, F., Astudillo-Defru, N., Bonfils, X., et al.    
+2021, refereed ([2021A&A...653A..60M](http://adsabs.harvard.edu/abs/2021A&A...653A..60M))  
+
+11. [THE OBLIQUITY OF HIP 67522 B: A 17 MYR OLD TRANSITING HOT JUPITER-SIZED PLANET](http://adsabs.harvard.edu/abs/2021arXiv210904174H)  
+Heitzmann, Alexis, Zhou, George, Quinn, Samuel N., et al.    
+2021, not refereed ([2021arXiv210904174H](http://adsabs.harvard.edu/abs/2021arXiv210904174H))  
+
 
 2021-08
 -------

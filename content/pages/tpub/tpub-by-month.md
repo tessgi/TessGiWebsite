@@ -23,6 +23,94 @@ Spyratos, Petros, Nikolov, Nikolay, Southworth, John, et al.
 Kochukhov, O., Labadie-Bartz, J., Khalack, V., et al.    
 2021, refereed ([2021MNRAS.506L..40K](http://adsabs.harvard.edu/abs/2021MNRAS.506L..40K))  
 
+5. [TOI-1231 B: A TEMPERATE, NEPTUNE-SIZED PLANET TRANSITING THE NEARBY M3 DWARF NLTT 24399](http://adsabs.harvard.edu/abs/2021AJ....162...87B)  
+Burt, Jennifer A., Dragomir, Diana, Mollière, Paul, et al.    
+2021, refereed ([2021AJ....162...87B](http://adsabs.harvard.edu/abs/2021AJ....162...87B))  
+
+6. [SEARCHING FOR TRANSITING PLANETS AROUND HALO STARS. II. CONSTRAINING THE OCCURRENCE RATE OF HOT JUPITERS](http://adsabs.harvard.edu/abs/2021AJ....162...85B)  
+Boley, Kiersten M., Wang, Ji, Zinn, Joel C., et al.    
+2021, refereed ([2021AJ....162...85B](http://adsabs.harvard.edu/abs/2021AJ....162...85B))  
+
+7. [GROUND-BASED TRANSMISSION SPECTROSCOPY WITH VLT FORS2: EVIDENCE FOR FACULAE AND CLOUDS IN THE OPTICAL SPECTRUM OF THE WARM SATURN WASP-110B](http://adsabs.harvard.edu/abs/2021AJ....162...88N)  
+Nikolov, Nikolay, Maciejewski, Gracjan, Constantinou, Savvas, et al.    
+2021, refereed ([2021AJ....162...88N](http://adsabs.harvard.edu/abs/2021AJ....162...88N))  
+
+8. [THE LOUDEST STELLAR HEARTBEAT: CHARACTERIZING THE MOST EXTREME AMPLITUDE HEARTBEAT STAR SYSTEM](http://adsabs.harvard.edu/abs/2021MNRAS.506.4083J)  
+Jayasinghe, T., Kochanek, C. S., Strader, J., et al.    
+2021, refereed ([2021MNRAS.506.4083J](http://adsabs.harvard.edu/abs/2021MNRAS.506.4083J))  
+
+9. [PROPERTIES OF SLOWLY ROTATING ASTEROIDS FROM THE CONVEX INVERSION THERMOPHYSICAL MODEL](http://adsabs.harvard.edu/abs/2021arXiv210900463M)  
+Marciniak, A., Ďurech, J., Alí-Lagoa, V., et al.    
+2021, not refereed ([2021arXiv210900463M](http://adsabs.harvard.edu/abs/2021arXiv210900463M))  
+
+10. [HD22496B: THE FIRST ESPRESSO STANDALONE PLANET DISCOVERY](http://adsabs.harvard.edu/abs/2021arXiv210900226L)  
+Lillo-Box, J., Faria, J. P., Suárez Mascareño, A., et al.    
+2021, not refereed ([2021arXiv210900226L](http://adsabs.harvard.edu/abs/2021arXiv210900226L))  
+
+11. [MEASURING THE DENSITY STRUCTURE OF AN ACCRETION HOT SPOT](http://adsabs.harvard.edu/abs/2021arXiv210900510E)  
+Espaillat, C. C., Robinson, C. E., Romanova, M. M., et al.    
+2021, not refereed ([2021arXiv210900510E](http://adsabs.harvard.edu/abs/2021arXiv210900510E))  
+
+12. [THE FIRST PHOTOMETRIC AND SPECTROSCOPIC ANALYSIS OF THE EXTREMELY LOW MASS-RATIO CONTACT BINARY NSVS 5029961](http://adsabs.harvard.edu/abs/2021MNRAS.506.4251Z)  
+Zheng, Shu-Yue, Li, Kai, Xia, Qi-Qi    
+2021, refereed ([2021MNRAS.506.4251Z](http://adsabs.harvard.edu/abs/2021MNRAS.506.4251Z))  
+
+13. [DIRECTLY DETERMINED PROPERTIES OF HD 97658 FROM INTERFEROMETRIC OBSERVATIONS](http://adsabs.harvard.edu/abs/2021AJ....162..118E)  
+Ellis, Tyler G., Boyajian, Tabetha, von Braun, Kaspar, et al.    
+2021, refereed ([2021AJ....162..118E](http://adsabs.harvard.edu/abs/2021AJ....162..118E))  
+
+14. [FLARES, ROTATION, AND PLANETS OF THE AU MIC SYSTEM FROM TESS OBSERVATIONS](http://adsabs.harvard.edu/abs/2021arXiv210903924G)  
+Gilbert, Emily A., Barclay, Thomas, Quintana, Elisa V., et al.    
+2021, not refereed ([2021arXiv210903924G](http://adsabs.harvard.edu/abs/2021arXiv210903924G))  
+
+15. [FLARES BIG AND SMALL: A K2 AND TESS VIEW OF ASAS-SN SUPERFLARES](http://adsabs.harvard.edu/abs/2021arXiv210904501Z)  
+Zeldes, Jesse, Hinkle, Jason T., Shappee, Benjamin J., et al.    
+2021, not refereed ([2021arXiv210904501Z](http://adsabs.harvard.edu/abs/2021arXiv210904501Z))  
+
+16. [RAPIDLY-OSCILLATING {\IT TESS} A--F MAIN SEQUENCE STARS](http://adsabs.harvard.edu/abs/2021arXiv210902246B)  
+Balona, L. A.    
+2021, not refereed ([2021arXiv210902246B](http://adsabs.harvard.edu/abs/2021arXiv210902246B))  
+
+17. [THE TESS MISSION TARGET SELECTION PROCEDURE](http://adsabs.harvard.edu/abs/2021arXiv210902665F)  
+Fausnaugh, Michael, Morgan, Ed, Vanderspek, Roland, et al.    
+2021, not refereed ([2021arXiv210902665F](http://adsabs.harvard.edu/abs/2021arXiv210902665F))  
+
+18. [THE PECULIAR CHEMICAL PATTERN OF THE WASP-160 BINARY SYSTEM: SIGNATURES OF PLANETARY FORMATION AND EVOLUTION?](http://adsabs.harvard.edu/abs/2021arXiv210904590J)  
+Jofré, Emiliano, Petrucci, Romina, Gómez Maqueo Chew, Yilen, et al.    
+2021, not refereed ([2021arXiv210904590J](http://adsabs.harvard.edu/abs/2021arXiv210904590J))  
+
+19. [A YOUNG SPECTROSCOPIC BINARY IN A QUINTUPLE SYSTEM PART OF THE LOCAL ASSOCIATION](http://adsabs.harvard.edu/abs/2021arXiv210901624C)  
+Cardona Guillén, Carlos, Lodieu, Nicolas, Béjar, Víctor J. S., et al.    
+2021, not refereed ([2021arXiv210901624C](http://adsabs.harvard.edu/abs/2021arXiv210901624C))  
+
+20. [DISCOVERY OF A YOUNG PRE-INTERMEDIATE POLAR](http://adsabs.harvard.edu/abs/2021MNRAS.tmp.2245W)  
+Wilson, David J., Toloza, Odette, Landstreet, John D., et al.    
+2021, refereed ([2021MNRAS.tmp.2245W](http://adsabs.harvard.edu/abs/2021MNRAS.tmp.2245W))  
+
+21. [TOI-3362B: A PROTO-HOT JUPITER UNDERGOING HIGH-ECCENTRICITY TIDAL MIGRATION](http://adsabs.harvard.edu/abs/2021arXiv210903771D)  
+Dong, Jiayin, Huang, Chelsea X., Zhou, George, et al.    
+2021, not refereed ([2021arXiv210903771D](http://adsabs.harvard.edu/abs/2021arXiv210903771D))  
+
+22. [UNCOVERING THE ULTIMATE PLANET IMPOSTOR. AN ECLIPSING BROWN DWARF IN A HIERARCHICAL TRIPLE WITH TWO EVOLVED STARS](http://adsabs.harvard.edu/abs/2021A&A...653A..40L)  
+Lillo-Box, J., Ribas, Á., Montesinos, B., et al.    
+2021, refereed ([2021A&A...653A..40L](http://adsabs.harvard.edu/abs/2021A&A...653A..40L))  
+
+23. [TOI-674B: AN OASIS IN THE DESERT OF EXO-NEPTUNES TRANSITING A NEARBY M DWARF](http://adsabs.harvard.edu/abs/2021A&A...653A..60M)  
+Murgas, F., Astudillo-Defru, N., Bonfils, X., et al.    
+2021, refereed ([2021A&A...653A..60M](http://adsabs.harvard.edu/abs/2021A&A...653A..60M))  
+
+24. [NGTS CLUSTERS SURVEY - III. A LOW-MASS ECLIPSING BINARY IN THE BLANCO 1 OPEN CLUSTER SPANNING THE FULLY CONVECTIVE BOUNDARY](http://adsabs.harvard.edu/abs/2021MNRAS.tmp.2280S)  
+Smith, Gareth D., Gillen, Edward, Queloz, Didier, et al.    
+2021, refereed ([2021MNRAS.tmp.2280S](http://adsabs.harvard.edu/abs/2021MNRAS.tmp.2280S))  
+
+25. [PULSATION AND ROTATION OF THE EL CVN-TYPE ECLIPSING BINARY 1SWASP J024743.37-251549.2](http://adsabs.harvard.edu/abs/2021arXiv210902262K)  
+Kim, Seung-Lee, Lee, Jae Woo, Lee, Chung-Uk, et al.    
+2021, not refereed ([2021arXiv210902262K](http://adsabs.harvard.edu/abs/2021arXiv210902262K))  
+
+26. [THE OBLIQUITY OF HIP 67522 B: A 17 MYR OLD TRANSITING HOT JUPITER-SIZED PLANET](http://adsabs.harvard.edu/abs/2021arXiv210904174H)  
+Heitzmann, Alexis, Zhou, George, Quinn, Samuel N., et al.    
+2021, not refereed ([2021arXiv210904174H](http://adsabs.harvard.edu/abs/2021arXiv210904174H))  
+
 
 2021-08
 -------
