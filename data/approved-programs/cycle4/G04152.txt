@@ -17,3 +17,10 @@ Summary: This proposal argues for observations of three cataclysmic variables (C
 
 # Sector 042 targets observed (2 min: 1, 20 s: 0)
 364273661,332.274,-3.7718,13.34,G04152
+
+# Sector 043 targets observed (2 min: 1, 20 s: 1)
+240122720,101.1431,33.749,13.13,G04171;G04152;G04046;20SECONDTARGET
+
+# Sector 044 targets observed (2 min: 2, 20 s: 2)
+240122720,101.1431,33.749,13.13,G04171;G04152;G04046;20SECONDTARGET
+337646214,131.1129,12.8756,13.88,G04152;G04046;20SECONDTARGET
