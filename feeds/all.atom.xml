@@ -224,7 +224,7 @@ Previous observations of the system with TESS indicated an orbital period of 3.9
 &lt;p&gt;The mass and radius of the planet indicates that it is one of the largest and most massive super-Neptunes around an M-type star known to date.  &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href="https://arxiv.org/abs/2106.02610"&gt;Visible-light Phase Curves from the Second Year of the TESS Primary Mission&lt;/a&gt;&lt;/strong&gt; &lt;em&gt;(Wong et al.,  2021)&lt;/em&gt; &lt;strong&gt;:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Using TESS year 2 data, the authors of this paper carried out a systematic study of full-orbit phase curves for known transiting systems in the northern hemisphere. Fifteen transit systems were selected and seven had statistically significant secondary eclipses and day-night atmospheric brightness modulations, these were: HAT-P-7, KELT-1, KELT-9, KELT-16, KELT-20, Kepler-13A, and WASP-12. Two of the seven,  KELT-9b and WASP-12b, have small eastward dayside hotspot offsets. An additional three, KELT-1, Kepler-13A, and WASP-12, have phase-curve variability which can be attributed to the tidal distortion of the host star. &lt;/p&gt;
-&lt;p&gt;Spitzer data were combined with that from TESS to compute the dayside brightness temperatures of the planets, the TESS geometric albedos, Bond albedos, and the phase integrals. Using the new albedo values the trend between the dayside temperature and the geometric albedo for planets with 1500&amp;lt;T&lt;sub&gt;day&lt;/sub&gt;&amp;lt;3000 K, was confirmed. &lt;/p&gt;
+&lt;p&gt;Spitzer data were combined with that from TESS to compute the dayside brightness temperatures of the planets, the TESS geometric albedos, Bond albedos, and the phase integrals. Using the new albedo values the trend between the dayside temperature and the geometric albedo for planets with 1500&lt;T&lt;sub&gt;day&lt;/sub&gt;&amp;lt;3000 K, was confirmed. &lt;/p&gt;
 &lt;p&gt;A more detailed study was conducted for Kepler-13Ab - please see the paper for more details. &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href="https://arxiv.org/abs/2106.03568"&gt;Unveiling the multiple periodicities of the cataclysmic variable LS Cam&lt;/a&gt;&lt;/strong&gt; &lt;em&gt;(Stefanov et al.,  2021)&lt;/em&gt; &lt;strong&gt;:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;LS Cam is an intermediate polar cataclysmic variable (CVs). Some CVs have quasi-periodic changes in brightness with periods slightly shorter or longer than the orbital period - these are called superhumps. Superhumps are thought to be a beat period of 
@@ -286,33 +286,7 @@ of the orbital period and the apsidal or nodal motion of the disk,  but the exac
 &lt;p&gt;&lt;img alt="Otegi" src="images/Otegi.png" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Fig. 1:&lt;/strong&gt; &lt;em&gt;Taken from Otegi et al., 2021: TESS photometry of TOI 1062 from Sectors 1 (upper left), 13 (upper right), and Sectors 27 &amp;amp; 28 (middle left), and LCOGT photometry (middle right). The TESS light-curves correspond to the PDC-SAP flux time series provided by SPOC. The TESS full light curve with the 2-minute cadence data is shown in light-grey, and the same data binned to 10 min in dark-grey. The gaps in the data coverage are due to observation interruptions of the TESS spacecraft to send the data to Earth, that occurs after each TESS orbit of 13.7 days. The dots of the LCOGT are bigger for better visualization. The lower panels shows the phase folded TESS light curves for TOI 1062b (left) and TOI 1062c (right) with the 2 min cadence data in light-grey and binned to 10 minutes in black. TOI 1062c does not transit.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img alt="Hermes" src="images/Hermes.png" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Fig. 2:&lt;/strong&gt; &lt;em&gt;Taken from Hermes et al., 2021: Full light curves of LP 40−365 used in the papers analysis. Top Panel: Five orbits of HST/STIS ultraviolet observations from 2018 May. Second Panel: Four sectors of TESS full-frame images from 2019 July to 2020 February. Third Panel: Periodogram of TESS observations revealing a dominant period at 8.914 hr and its second harmonic. Bottom Panel: More than 9.5 yr of WISE infrared photometry from 2010 April to 2019 November.&lt;/em&gt; &lt;/p&gt;</content><category term="news"></category></entry><entry><title>TESS duplicate IDs</title><link href="https://heasarc.gsfc.nasa.gov/docs/tess/tess-duplicate-ids.html" rel="alternate"></link><published>2021-05-11T10:00:00-04:00</published><updated>2021-05-11T10:00:00-04:00</updated><author><name>Rebekah Hounsell</name></author><id>tag:heasarc.gsfc.nasa.gov,2021-05-11:/docs/tess/tess-duplicate-ids.html</id><summary type="html">&lt;p&gt;Hello TESS followers and welcome to this special news bulletin.
-It has brought to our attention that a small fraction (&amp;lt;1%) of our TESS objects of interest have duplicate TIC ID's.
-This issue was caused by the conversion from one catalog coordinates to another. &lt;/p&gt;
-&lt;p&gt;Below we summarize what you the …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Hello TESS followers and welcome to this special news bulletin.
-It has brought to our attention that a small fraction (&amp;lt;1%) of our TESS objects of interest have duplicate TIC ID's.
-This issue was caused by the conversion from one catalog coordinates to another. &lt;/p&gt;
-&lt;p&gt;Below we summarize what you the user should expect if you come across one of these duplicates, future analyses at the SPOC level, and how you will be notified of such objects in the data. &lt;/p&gt;
-&lt;h2 id="the-issue"&gt;The issue&lt;/h2&gt;
-&lt;p&gt;In some cases a star, star A, is resolved into two other stars, stars B and C. Stars A, B, and C all have TIC ID's in TIC 8. 
-In this case star A is the sum of stars B and C. &lt;/p&gt;
-&lt;p&gt;In other cases star A is the same as star B,  but both have TIC ID's in TIC 8. See the figure below, for an example of the behavior in this situation.&lt;/p&gt;
-&lt;p&gt;&lt;center&gt;
-&lt;img alt="TIC" src="images/TIC.png" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Fig 1.&lt;/strong&gt; &lt;em&gt;PDCSAP flux of TIC 158324245 (blue) which has a duplicated ID of TIC 1717079071 (red).&lt;/em&gt;
-&lt;/center&gt;&lt;/p&gt;
-&lt;p&gt;Past and current analysis at SPOC using TIC 8 assumes that A, B, and C are all valid stars.
-TIC 8.x turns star B into a duplicate and replaces the parameters of A with those of B.&lt;/p&gt;
-&lt;h2 id="future-analyses-at-spoc"&gt;Future analyses at SPOC&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Future observations of A by SPOC using TIC 8.x will give the correct answer&lt;/li&gt;
-&lt;li&gt;Future observations of B by SPOC will be precluded by the POC not including it as a target&lt;/li&gt;
-&lt;li&gt;Reprocessing of B using TIC 8.x is currently a problem at SPOC, as it is a duplicate&lt;/li&gt;
-&lt;li&gt;Multi-sector analyses of B using TIC 8.x is currently a problem at SPOC, as it is a duplicate&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id="notification"&gt;Notification&lt;/h2&gt;
-&lt;p&gt;MAST is currently working on the best way to notify you the user of the problem should you examine data from one of these objects. 
-We will update you of the situation as it progresses.&lt;/p&gt;</content><category term="news"></category></entry><entry><title>TESS Cycle 4 selections</title><link href="https://heasarc.gsfc.nasa.gov/docs/tess/tess-cycle-4-selections.html" rel="alternate"></link><published>2021-05-04T10:00:00-04:00</published><updated>2021-05-04T10:00:00-04:00</updated><author><name>Rebekah Hounsell</name></author><id>tag:heasarc.gsfc.nasa.gov,2021-05-04:/docs/tess/tess-cycle-4-selections.html</id><summary type="html">&lt;p&gt;Hello and welcome TESS followers to this special news bulletin! Here we will discuss the results of the Cycle 4 proposal season.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fig. 2:&lt;/strong&gt; &lt;em&gt;Taken from Hermes et al., 2021: Full light curves of LP 40−365 used in the papers analysis. Top Panel: Five orbits of HST/STIS ultraviolet observations from 2018 May. Second Panel: Four sectors of TESS full-frame images from 2019 July to 2020 February. Third Panel: Periodogram of TESS observations revealing a dominant period at 8.914 hr and its second harmonic. Bottom Panel: More than 9.5 yr of WISE infrared photometry from 2010 April to 2019 November.&lt;/em&gt; &lt;/p&gt;</content><category term="news"></category></entry><entry><title>TESS Cycle 4 selections</title><link href="https://heasarc.gsfc.nasa.gov/docs/tess/tess-cycle-4-selections.html" rel="alternate"></link><published>2021-05-04T10:00:00-04:00</published><updated>2021-05-04T10:00:00-04:00</updated><author><name>Rebekah Hounsell</name></author><id>tag:heasarc.gsfc.nasa.gov,2021-05-04:/docs/tess/tess-cycle-4-selections.html</id><summary type="html">&lt;p&gt;Hello and welcome TESS followers to this special news bulletin! Here we will discuss the results of the Cycle 4 proposal season.&lt;/p&gt;
 &lt;p&gt;The Cycle 4 review was held earlier this year in March, with 146 proposals submitted. Of these proposals 12 were large, 110 small, and 24 mini - our most …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Hello and welcome TESS followers to this special news bulletin! Here we will discuss the results of the Cycle 4 proposal season.&lt;/p&gt;
 &lt;p&gt;The Cycle 4 review was held earlier this year in March, with 146 proposals submitted. Of these proposals 12 were large, 110 small, and 24 mini - our most recent proposal category. 
 These 146 proposals were split into one of four fields: Exoplanet (33), Stellar Astrophysics (62), Accretion and Extragalactic (19), and Ground-based Focused (32). The proposals were then assessed by one of seven panels. &lt;/p&gt;
@@ -372,7 +346,9 @@ These 146 proposals were split into one of four fields: Exoplanet (33), Stellar 
 
      &lt;/table&gt;
 &lt;/div&gt;
+
 &lt;/div&gt;
+
 &lt;p&gt;Our &lt;a href="https://heasarc.gsfc.nasa.gov/docs/tess/approved-programs.html#cycle-4"&gt;approved programs page&lt;/a&gt; provides the full list of accepted Cycle 4 proposals. &lt;/p&gt;
 &lt;p&gt;Congratulations to all successful PI's and Co-I's!
 To those of you who did not receive acceptance letters this time round, we strongly encourage you to apply again in the future. 
@@ -634,41 +610,38 @@ This week we present three papers from the archive, enjoy!&lt;/p&gt;
 &lt;p&gt;In early January, we kicked the year off with the discovery of our &lt;a href="https://www.nasa.gov/feature/goddard/2020/nasa-planet-hunter-finds-its-1st-earth-size-habitable-zone-world"&gt;first habitable-zone planet&lt;/a&gt;, TOI 700d. The planet was detected by TESS and confirmed with &lt;a href="https://www.nasa.gov/mission_pages/spitzer/main/index.html"&gt;NASA’s Spitzer Space Telescope&lt;/a&gt;. TOI 700d is a small (40% mass of the Sun), cool  (half the surface temperature of the Sun) M dwarf star which is only 100 light years away in the &lt;a href="https://www.iau.org/public/themes/constellations/"&gt;constellation of Dorado&lt;/a&gt;. Three planets are thought to orbit the star: TOI 700 b which is about the size of the Earth and likely rocky with an orbital period of 10 days.  TOI 700 c, a likely gassy planet 2.6 times larger than Earth with an orbital period of 16 days. TOI 700 d, the outermost  planet located in the habitable zone with an orbital period of 37 days.&lt;/p&gt;
 &lt;p&gt;&lt;center&gt;
 &lt;a href="https://www.youtube.com/watch?v=QU0qsIGS6MQ&amp;amp;feature=emb_logo" title="first habitable-zone planet"&gt;&lt;img alt="firsthab.png" src="images/firsthab.png" /&gt;&lt;/a&gt;
-&lt;/center&gt;&lt;/p&gt;
+&lt;/center&gt;
 &lt;p align="center"&gt;
-*TESS discovered its first Earth-size planet in its star's habitable zone. The planet is called TOI 700 d.* **Credits: NASA's Goddard Space Flight Center.**
-&lt;/p&gt;
-
+&lt;em&gt;TESS discovered its first Earth-size planet in its star's habitable zone. The planet is called TOI 700 d.&lt;/em&gt; &lt;strong&gt;Credits: NASA's Goddard Space Flight Center.&lt;/strong&gt;
+&lt;/p&gt;&lt;/p&gt;
 &lt;p&gt;In May, it was reported that TESS was used to investigate &lt;a href="https://www.nasa.gov/feature/goddard/2020/nasa-s-tess-enables-breakthrough-study-of-perplexing-stellar-pulsations"&gt;dozens of young, rapidly rotating stars&lt;/a&gt; known as &lt;a href="https://en.wikipedia.org/wiki/Delta_Scuti_variable"&gt;Delta Scuti stars&lt;/a&gt;. These stars pulsate in interesting ways, with patterns that are unpredictable and difficult to understand. A team of scientists, led by a professor at the University of Sydney, used TESS data to examine these kinds of stars and found a sub-set with regular pulsation patterns! On finding this trend, the team went on to look for more examples within the Kepler data set and via ground-based observations. The stars found are incredibly important, as their regular patterns have laid the foundation for our understanding of this class of variables, allowing for comparison to models and further exploration.&lt;/p&gt;
 &lt;p&gt;&lt;center&gt;
 &lt;a href="https://youtu.be/nBxn6QGWJNM" title="HD 31901"&gt;&lt;img alt="HD 31901.png" src="images/HD31901.png" /&gt;&lt;/a&gt;
-&lt;/center&gt;&lt;/p&gt;
+&lt;/center&gt;
 &lt;p align="center"&gt;
-*The rapid beat of HD 31901, a Delta Scuti star in the southern constellation Lepus. The sound is the result of 55 pulsation patterns TESS observed over 27 days sped up by 54,000 times.* **Credits: NASA's Goddard Space Flight Center and Simon Murphy, University of Sydney.**
-&lt;/p&gt;
-
+&lt;em&gt;The rapid beat of HD 31901, a Delta Scuti star in the southern constellation Lepus. The sound is the result of 55 pulsation patterns TESS observed over 27 days sped up by 54,000 times.&lt;/em&gt; &lt;strong&gt;Credits: NASA's Goddard Space Flight Center and Simon Murphy, University of Sydney.&lt;/strong&gt;
+&lt;/p&gt;&lt;/p&gt;
 &lt;p&gt;In late June, TESS then helped discover a Neptune sized planet orbiting &lt;a href="https://www.nasa.gov/feature/goddard/2020/nasa-s-tess-spitzer-missions-discover-a-world-orbiting-a-unique-young-star"&gt;AU Microscopii&lt;/a&gt;, a cool red M dwarf star, located in the Microscopium constellation 31.9 light years away. At only 20-30 million years old, this host star is an infant and subject to producing numerous flares! It is these “temper tantrums” that made detecting the planet particularly difficult.&lt;/p&gt;
 &lt;p align="center"&gt;
  &lt;img width="300" height="500" src="images/AUMic.pdf"&gt;
  &lt;/p&gt;
-&lt;p align="center"&gt;
-  *[Downloadable](https://exoplanets.nasa.gov/resources/2237/flares-of-fury-poster/?galaxy_horror) Galaxy of Horrors poster for AU Mic.* **Credits: NASA-JPL/Caltech.**
-&lt;/p&gt;
 
+&lt;p&gt;&lt;p align="center"&gt;
+  &lt;em&gt;&lt;a href="https://exoplanets.nasa.gov/resources/2237/flares-of-fury-poster/?galaxy_horror"&gt;Downloadable&lt;/a&gt; Galaxy of Horrors poster for AU Mic.&lt;/em&gt; &lt;strong&gt;Credits: NASA-JPL/Caltech.&lt;/strong&gt;
+&lt;/p&gt;&lt;/p&gt;
 &lt;p&gt;The 4th of July marked &lt;a href="https://www.nasa.gov/feature/goddard2020/nasa-s-planet-hunter-completes-its-primary-mission"&gt;the end of TESS’s prime mission&lt;/a&gt;. This was a two year survey that mapped roughly 75% of the sky, found 66 new exoplanets, and 2,100 candidate planets. TESS has now entered into its extended mission, which will last until September 2022.&lt;/p&gt;
 &lt;p align="center"&gt;
   &lt;img width="800" height="800" src="images/TESS_azeq_North_South_3k.jpg"&gt;
 &lt;/p&gt;
-&lt;p align="center"&gt;
-*TESS's two yearlong panoramas appear side by side in twin polar views centered on the southern (left) and northern ecliptic poles.* **Credits: NASA/MIT/TESS and Ethan Kruse (USRA).**
-&lt;/p&gt;
 
+&lt;p&gt;&lt;p align="center"&gt;
+&lt;em&gt;TESS's two yearlong panoramas appear side by side in twin polar views centered on the southern (left) and northern ecliptic poles.&lt;/em&gt; &lt;strong&gt;Credits: NASA/MIT/TESS and Ethan Kruse (USRA).&lt;/strong&gt;
+&lt;/p&gt;&lt;/p&gt;
 &lt;p&gt;Mid-September brought the discovery of TESS’s &lt;a href="https://www.nasa.gov/press-release/nasa-missions-spy-first-possible-survivor-planet-hugging-white-dwarf-star"&gt;first possible “survivor” planet&lt;/a&gt; closely orbiting a white dwarf. The planet, WD 1856 b, is similar to the size of Jupiter and orbits its host every 34 hrs. WD 1856 b’s location is unusual as most objects that close are usually torn apart by the white dwarf’s gravitational pull. Scientists are still baffled as to how the planet has survived.&lt;/p&gt;
-&lt;p&gt;&lt;center&gt;&lt;a href="https://youtu.be/fDhG0ppvQ2g" title="&amp;quot;HD 31901"&gt;&lt;img alt="WD1856b.png" src="images/WD1856b.png" /&gt;&lt;/a&gt;&lt;/center&gt;&lt;/p&gt;
+&lt;p&gt;&lt;center&gt;&lt;a href="https://youtu.be/fDhG0ppvQ2g" title="&amp;quot;HD 31901"&gt;&lt;img alt="WD1856b.png" src="images/WD1856b.png" /&gt;&lt;/a&gt;&lt;/center&gt;
 &lt;p align="center"&gt;
-*In this illustration, WD 1856 b, a potential Jupiter-size planet, orbits its much smaller host star, a dim white dwarf.* **Credits: NASA’s Goddard Space Flight Center.**
-&lt;/p&gt;
-
+&lt;em&gt;In this illustration, WD 1856 b, a potential Jupiter-size planet, orbits its much smaller host star, a dim white dwarf.&lt;/em&gt; &lt;strong&gt;Credits: NASA’s Goddard Space Flight Center.&lt;/strong&gt;
+&lt;/p&gt;&lt;/p&gt;
 &lt;p&gt;And in early October, TESS and the &lt;a href="https://evryscope.astro.unc.edu"&gt;UNC-Chapel Hill Evryscope telescope array&lt;/a&gt; simultaneously observed the largest sample of &lt;a href="https://uncnews.unc.edu/2020/10/07/new-research-explores-how-super-flares-affect-planets-habitability/"&gt;super flares&lt;/a&gt; known to date. The data from these observations will help astrobiologists understand how much radiation planets experience during super flares, and thus explore their habitability. &lt;/p&gt;
 &lt;p&gt;Thank you to everyone who helped to make 2020 a successful year for TESS science!&lt;/p&gt;</content><category term="news"></category></entry><entry><title>TESS Weekly Bulletin: January 25th</title><link href="https://heasarc.gsfc.nasa.gov/docs/tess/tess-weekly-bulletin-january-25th.html" rel="alternate"></link><published>2021-01-25T10:00:00-05:00</published><updated>2021-01-25T10:00:00-05:00</updated><author><name>Rebekah Hounsell</name></author><id>tag:heasarc.gsfc.nasa.gov,2021-01-25:/docs/tess/tess-weekly-bulletin-january-25th.html</id><summary type="html">&lt;p&gt;&lt;code&gt;STATUS UPDATE: The Cycle 4 Call for Proposals has officially closed!&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;Welcome TESS followers to this weeks news bulletin!
