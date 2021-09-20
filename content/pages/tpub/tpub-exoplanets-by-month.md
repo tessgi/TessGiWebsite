@@ -51,6 +51,10 @@ Murgas, F., Astudillo-Defru, N., Bonfils, X., et al.
 Heitzmann, Alexis, Zhou, George, Quinn, Samuel N., et al.    
 2021, not refereed ([2021arXiv210904174H](http://adsabs.harvard.edu/abs/2021arXiv210904174H))  
 
+12. [WARM TERRESTRIAL PLANET WITH HALF THE MASS OF VENUS TRANSITING A NEARBY STAR](http://adsabs.harvard.edu/abs/2021A&A...653A..41D)  
+Demangeon, O. D. S., Zapatero Osorio, M. R., Alibert, Y., et al.    
+2021, refereed ([2021A&A...653A..41D](http://adsabs.harvard.edu/abs/2021A&A...653A..41D))  
+
 
 2021-08
 -------
