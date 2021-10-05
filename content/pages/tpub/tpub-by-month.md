@@ -95,6 +95,50 @@ Kraus, Michaela, Liimets, Tiina, Moiseev, Alexei, et al.
 Miller, Annaliese, Kounkel, Marina, Sun, Meng, et al.    
 2021, refereed ([2021AJ....162..131M](http://adsabs.harvard.edu/abs/2021AJ....162..131M))  
 
+16. [K2, SPITZER, AND TESS TRANSITS OF FOUR SUB-NEPTUNE EXOPLANETS](http://adsabs.harvard.edu/abs/2021AJ....162..136D)  
+Duck, Alison, Harada, Caleb K., Harrell, Justin, et al.    
+2021, refereed ([2021AJ....162..136D](http://adsabs.harvard.edu/abs/2021AJ....162..136D))  
+
+17. [TOI-532B: THE HABITABLE-ZONE PLANET FINDER CONFIRMS A LARGE SUPER NEPTUNE IN THE NEPTUNE DESERT ORBITING A METAL-RICH M-DWARF HOST](http://adsabs.harvard.edu/abs/2021AJ....162..135K)  
+Kanodia, Shubham, Stefansson, Gudmundur, Cañas, Caleb I., et al.    
+2021, refereed ([2021AJ....162..135K](http://adsabs.harvard.edu/abs/2021AJ....162..135K))  
+
+18. [IS THE ECLIPSING BINARY RR DRA DANCING WITH A HIDDEN TERTIARY BLACK HOLE CANDIDATE?](http://adsabs.harvard.edu/abs/2021MNRAS.507.2804W)  
+Wang, Zhi-Hua, Zhu, Li-Ying    
+2021, refereed ([2021MNRAS.507.2804W](http://adsabs.harvard.edu/abs/2021MNRAS.507.2804W))  
+
+19. [TESS DATA FOR ASTEROSEISMOLOGY: PHOTOMETRY](http://adsabs.harvard.edu/abs/2021AJ....162..170H)  
+Handberg, Rasmus, Lund, Mikkel N., White, Timothy R., et al.    
+2021, refereed ([2021AJ....162..170H](http://adsabs.harvard.edu/abs/2021AJ....162..170H))  
+
+20. [THE MAGELLAN-TESS SURVEY. I. SURVEY DESCRIPTION AND MIDSURVEY RESULTS](http://adsabs.harvard.edu/abs/2021ApJS..256...33T)  
+Teske, Johanna, Wang, Sharon Xuesong, Wolfgang, Angie, et al.    
+2021, refereed ([2021ApJS..256...33T](http://adsabs.harvard.edu/abs/2021ApJS..256...33T))  
+
+21. [TWO BRIGHT M DWARFS HOSTING ULTRA-SHORT-PERIOD SUPER-EARTHS WITH EARTH-LIKE COMPOSITIONS](http://adsabs.harvard.edu/abs/2021AJ....162..161H)  
+Hirano, Teruyuki, Livingston, John H., Fukui, Akihiko, et al.    
+2021, refereed ([2021AJ....162..161H](http://adsabs.harvard.edu/abs/2021AJ....162..161H))  
+
+22. [TOI-1749: AN M DWARF WITH A TRIO OF PLANETS INCLUDING A NEAR-RESONANT PAIR](http://adsabs.harvard.edu/abs/2021AJ....162..167F)  
+Fukui, A., Korth, J., Livingston, J. H., et al.    
+2021, refereed ([2021AJ....162..167F](http://adsabs.harvard.edu/abs/2021AJ....162..167F))  
+
+23. [TIC 308396022: A $\DELTA$ SCUTI--$\GAMMA$ DORADUS HYBRID WITH LARGE-AMPLITUDE RADIAL FUNDAMENTAL MODE AND REGULAR G-MODE PERIOD SPACING](http://adsabs.harvard.edu/abs/2021arXiv211000485Y)  
+Yang, Tao-Zhi, Zuo, Zhao-Yu, Li, Gang, et al.    
+2021, not refereed ([2021arXiv211000485Y](http://adsabs.harvard.edu/abs/2021arXiv211000485Y))  
+
+24. [MYSTERIOUS DUST-EMITTING OBJECT ORBITING TIC 400799224](http://adsabs.harvard.edu/abs/2021arXiv211001019P)  
+Powell, Brian P., Kostov, Veselin, Rappaport, Saul, et al.    
+2021, not refereed ([2021arXiv211001019P](http://adsabs.harvard.edu/abs/2021arXiv211001019P))  
+
+25. [TIC~257060897B: AN INFLATED, LOW-DENSITY, HOT-JUPITER TRANSITING A RAPIDLY EVOLVING SUBGIANT STAR](http://adsabs.harvard.edu/abs/2021arXiv211000489M)  
+Montalto, M., Malavolta, L., Gregorio, J., et al.    
+2021, not refereed ([2021arXiv211000489M](http://adsabs.harvard.edu/abs/2021arXiv211000489M))  
+
+26. [HST PANCET PROGRAM: A COMPLETE NEAR-UV TO INFRARED TRANSMISSION SPECTRUM FOR THE HOT JUPITER WASP-79B](http://adsabs.harvard.edu/abs/2021AJ....162..138R)  
+Rathcke, Alexander D., MacDonald, Ryan J., Barstow, Joanna K., et al.    
+2021, refereed ([2021AJ....162..138R](http://adsabs.harvard.edu/abs/2021AJ....162..138R))  
+
 
 2021-09
 -------

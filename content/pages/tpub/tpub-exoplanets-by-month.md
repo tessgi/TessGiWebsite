@@ -43,6 +43,34 @@ Van Eylen, V., Astudillo-Defru, N., Bonfils, X., et al.
 Wong, Ian, Kitzmann, Daniel, Shporer, Avi, et al.    
 2021, refereed ([2021AJ....162..127W](http://adsabs.harvard.edu/abs/2021AJ....162..127W))  
 
+6. [K2, SPITZER, AND TESS TRANSITS OF FOUR SUB-NEPTUNE EXOPLANETS](http://adsabs.harvard.edu/abs/2021AJ....162..136D)  
+Duck, Alison, Harada, Caleb K., Harrell, Justin, et al.    
+2021, refereed ([2021AJ....162..136D](http://adsabs.harvard.edu/abs/2021AJ....162..136D))  
+
+7. [TOI-532B: THE HABITABLE-ZONE PLANET FINDER CONFIRMS A LARGE SUPER NEPTUNE IN THE NEPTUNE DESERT ORBITING A METAL-RICH M-DWARF HOST](http://adsabs.harvard.edu/abs/2021AJ....162..135K)  
+Kanodia, Shubham, Stefansson, Gudmundur, Cañas, Caleb I., et al.    
+2021, refereed ([2021AJ....162..135K](http://adsabs.harvard.edu/abs/2021AJ....162..135K))  
+
+8. [THE MAGELLAN-TESS SURVEY. I. SURVEY DESCRIPTION AND MIDSURVEY RESULTS](http://adsabs.harvard.edu/abs/2021ApJS..256...33T)  
+Teske, Johanna, Wang, Sharon Xuesong, Wolfgang, Angie, et al.    
+2021, refereed ([2021ApJS..256...33T](http://adsabs.harvard.edu/abs/2021ApJS..256...33T))  
+
+9. [TWO BRIGHT M DWARFS HOSTING ULTRA-SHORT-PERIOD SUPER-EARTHS WITH EARTH-LIKE COMPOSITIONS](http://adsabs.harvard.edu/abs/2021AJ....162..161H)  
+Hirano, Teruyuki, Livingston, John H., Fukui, Akihiko, et al.    
+2021, refereed ([2021AJ....162..161H](http://adsabs.harvard.edu/abs/2021AJ....162..161H))  
+
+10. [TOI-1749: AN M DWARF WITH A TRIO OF PLANETS INCLUDING A NEAR-RESONANT PAIR](http://adsabs.harvard.edu/abs/2021AJ....162..167F)  
+Fukui, A., Korth, J., Livingston, J. H., et al.    
+2021, refereed ([2021AJ....162..167F](http://adsabs.harvard.edu/abs/2021AJ....162..167F))  
+
+11. [TIC~257060897B: AN INFLATED, LOW-DENSITY, HOT-JUPITER TRANSITING A RAPIDLY EVOLVING SUBGIANT STAR](http://adsabs.harvard.edu/abs/2021arXiv211000489M)  
+Montalto, M., Malavolta, L., Gregorio, J., et al.    
+2021, not refereed ([2021arXiv211000489M](http://adsabs.harvard.edu/abs/2021arXiv211000489M))  
+
+12. [HST PANCET PROGRAM: A COMPLETE NEAR-UV TO INFRARED TRANSMISSION SPECTRUM FOR THE HOT JUPITER WASP-79B](http://adsabs.harvard.edu/abs/2021AJ....162..138R)  
+Rathcke, Alexander D., MacDonald, Ryan J., Barstow, Joanna K., et al.    
+2021, refereed ([2021AJ....162..138R](http://adsabs.harvard.edu/abs/2021AJ....162..138R))  
+
 
 2021-09
 -------

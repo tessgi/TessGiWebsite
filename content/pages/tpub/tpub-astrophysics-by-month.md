@@ -63,6 +63,22 @@ Kraus, Michaela, Liimets, Tiina, Moiseev, Alexei, et al.
 Miller, Annaliese, Kounkel, Marina, Sun, Meng, et al.    
 2021, refereed ([2021AJ....162..131M](http://adsabs.harvard.edu/abs/2021AJ....162..131M))  
 
+11. [IS THE ECLIPSING BINARY RR DRA DANCING WITH A HIDDEN TERTIARY BLACK HOLE CANDIDATE?](http://adsabs.harvard.edu/abs/2021MNRAS.507.2804W)  
+Wang, Zhi-Hua, Zhu, Li-Ying    
+2021, refereed ([2021MNRAS.507.2804W](http://adsabs.harvard.edu/abs/2021MNRAS.507.2804W))  
+
+12. [TESS DATA FOR ASTEROSEISMOLOGY: PHOTOMETRY](http://adsabs.harvard.edu/abs/2021AJ....162..170H)  
+Handberg, Rasmus, Lund, Mikkel N., White, Timothy R., et al.    
+2021, refereed ([2021AJ....162..170H](http://adsabs.harvard.edu/abs/2021AJ....162..170H))  
+
+13. [TIC 308396022: A $\DELTA$ SCUTI--$\GAMMA$ DORADUS HYBRID WITH LARGE-AMPLITUDE RADIAL FUNDAMENTAL MODE AND REGULAR G-MODE PERIOD SPACING](http://adsabs.harvard.edu/abs/2021arXiv211000485Y)  
+Yang, Tao-Zhi, Zuo, Zhao-Yu, Li, Gang, et al.    
+2021, not refereed ([2021arXiv211000485Y](http://adsabs.harvard.edu/abs/2021arXiv211000485Y))  
+
+14. [MYSTERIOUS DUST-EMITTING OBJECT ORBITING TIC 400799224](http://adsabs.harvard.edu/abs/2021arXiv211001019P)  
+Powell, Brian P., Kostov, Veselin, Rappaport, Saul, et al.    
+2021, not refereed ([2021arXiv211001019P](http://adsabs.harvard.edu/abs/2021arXiv211001019P))  
+
 
 2021-09
 -------
