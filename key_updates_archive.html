@@ -17,7 +17,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - TESS Science Support Center" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2021-09-21" />
+    <meta name="dc.date.modified" content="2021-10-05" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Users of TESS Data" />
     <meta name="dc.identifier" content="https://heasarc.gsfc.nasa.gov/docs/tess/" />
@@ -40,13 +40,13 @@ in August 2015, using pelican-bootstrap and flatly.
 <link rel="canonical" href="./pages/key-update-archive.html">
 
         <meta name="author" content="Thomas Barclay" />
-        <meta name="description" content="Below we outline some of the most important issues or data product modifications. For more details please see the Sector tables provided here, and the DRNs listed within. Cycle 2 Sector 26: The TESS spacecraft configuration file was updated from version ‘0187’ to ‘0188’ between orbit 59 and 60. This …" />
+        <meta name="description" content="Below we outline some of the most important issues or data product modifications. For more details please see the Sector tables provided here, and the DRNs listed within. Cycle 3 Sector 38 (April 2021):The TESS Input Catalog was updated to v8.2. This new TIC identifies some newly discovered …" />
 
     <meta property="og:site_name" content="TESS" />
     <meta property="og:type" content="article"/>
     <meta property="og:title" content="Key update archive"/>
     <meta property="og:url" content="./pages/key-update-archive.html"/>
-    <meta property="og:description" content="Below we outline some of the most important issues or data product modifications. For more details please see the Sector tables provided here, and the DRNs listed within. Cycle 2 Sector 26: The TESS spacecraft configuration file was updated from version ‘0187’ to ‘0188’ between orbit 59 and 60. This …" />
+    <meta property="og:description" content="Below we outline some of the most important issues or data product modifications. For more details please see the Sector tables provided here, and the DRNs listed within. Cycle 3 Sector 38 (April 2021):The TESS Input Catalog was updated to v8.2. This new TIC identifies some newly discovered …" />
         <meta property="og:image"
               content="./images/logo-for-twitter.jpeg"/>
 
@@ -168,6 +168,37 @@ in August 2015, using pelican-bootstrap and flatly.
             <div class="entry-content">
                 
 <p>Below we outline some of the most important issues or data product modifications. For more details please see the Sector tables provided <a href="data_release_notes.html">here</a>, and the DRNs listed within.</p>
+<h2 id="cycle-3">Cycle 3</h2>
+<ul>
+<li>
+<p><a href="data_release_notes.html#sector-38"><strong>Sector 38 (April 2021):</strong></a>The TESS Input Catalog was updated to v8.2. This new TIC identifies some newly discovered ARTIFACT and DUPLICATE sources that were not flagged in v8.0/8.1. For a description of these anomalies please read Section 1.1 of the <a href="https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_sector_38_drn55_v02.pdf">DRN</a> in addition to <a href="https://outerspace.stsci.edu/display/TESS/TIC+v8+and+CTL+v8.xx+Data+Release+Notes">supplemental material</a>.<p></p></p>
+</li>
+<li>
+<p><b>Reprocessing of Sectors 1-13 (May 2021)</b>:</p>
+<ul>
+<li>In Sector 2 the instrument electronics model Reference Flux was been updated. The first two overclock rows were also removed from the calculation of the 1D bias correction in the CAL module.</li>
+<li>In Sector 8 the instrument PRF model was updated. The updated PRF model corresponds to improved performance in the spacecraft’s Attitude Control System  starting in Sector 4. Note that Sectors 1–3 were also reprocessed with this model.</li>
+<li>In Sector 5 the parameters to calibrate PDC goodness metrics were finalized in the PDC module.</li>
+<li>Targets from Sectors 1–13 were reprocessed with version 8 of the TESS Input Catalog(TIC), consistent with Sectors 14–36. TIC 8 is based on Gaia DR2 rather than 2MASS, and includes significantly more stars and improved stellar parameters.  The change in TIC  version  affects  the  apertures  assigned  to  individual  targets,  the  calculations  of crowding and flux fraction reported in the CROWDSAP and FLUXFRAC keywords, and the physical properties of TCEs derived from stellar parameters.</li>
+<li>The timestamps for data from Sectors 1-13 have been updated. All data from Sector 1–36 are now reported in a consistent time system. </li>
+<li>New data flags were applied to Sectors 1-13 consistent with those described in <a href="https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_reprocessing-sector_14_19_drn30_v02.pdf">DRN30</a>.These flags are primarily used to mitigate the effects of scattered light. They are applied per target rather than per CCD, and improve the contrending and planet search for the reprocessed data.</li>
+<li>All ”Manual Exclude” flags are now set in a consistent way for the reprocessed data, using a pointing  excursion threshold of 7 arcseconds measured from the spacecraft’s fine pointing system.</li>
+<li>The planet search of the reprocessed light curves produced a different set of TCEs from the original processed data.  Although there is a high degree of overlap between the original and reprocessed data, new TCEs were produced in DR42 and DR46, and not every TCE from previous data releases was recovered.
+To differentiate between the initial release and this reprocessed data a "pipeline instance number" is included in the filenames of the dv-timeseries, dv-reports, ad dv-result xml files. Larger pin numbers indicate later versions of the software were used to produce the data products. The DR number is also included as a keyword in the export product headers (DATAREL).</li>
+<li>An updated sky background correction algorithm was applied to Sectors 1-13 <p></p></li>
+</ul>
+</li>
+<li>
+<p><a href="data_release_notes.html#sector-32"><strong>Sector 32 (January 2021):</strong></a> Approximately 26 hrs lost due to a star tracker anomaly.<p></p></p>
+</li>
+<li><a href="data_release_notes.html#sector-31"><strong>Sector 31 (December 2020):</strong></a> Approximately 4 days lost due to a star tracker anomaly.<p></p></li>
+<li><a href="data_release_notes.html#sector-30"><strong>Sector 30 (November 2020):</strong></a> As of Sector 30, co-trending basis vector (CBV) files only include the first eight principal components for the Single Scale co-trending mode. <p></p></li>
+<li><a href="data_release_notes.html#sector-27"><strong>Sector 27 (September 2020):</strong></a> This is the first data release for the extended mission. Key changes have occurred including the collection of 10-min FFI data instead of 30-min, and 20-second target pixel files.<p></p><ul>
+<li>The background correction was updated for the extended mission, with the new method providing improved results for fainter and crowded stars. </li>
+<li>For targets observed in both Year 1 and Year 3, Year 3 processing was done using TIC 8.1 while TIC 7 was used for Year 1 processing; this may result in differences in results for certain targets.<p></p></li>
+</ul>
+</li>
+</ul>
 <h2 id="cycle-2">Cycle 2</h2>
 <ul>
 <li><a href="cycle2_drn.html#sector-26"><strong>Sector 26:</strong></a> The TESS spacecraft configuration file was updated from version ‘0187’ to ‘0188’ between orbit 59 and 60. This update results in different naming convention between the FFIs for the two orbits.<p></p></li>
@@ -202,6 +233,7 @@ This sector uses TIC 8, which is based on Gaia DR2 astrometry and photometry, an
             <div class="nav nav-stacked fixed" id="mytoc">
             <div class="toc">
 <ul>
+<li><a href="#cycle-3">Cycle 3</a></li>
 <li><a href="#cycle-2">Cycle 2</a></li>
 <li><a href="#cycle-1">Cycle 1</a></li>
 </ul>
