@@ -609,8 +609,9 @@ The data from each sector are required to be available at the MAST no later than
 Illustrations showing all targets (in red) observed at 2-minute
 cadence for each camera and sector.
 
+
 <div class="row">
-    <div class="col-md-6 text-a">
+    <div class="col-md-6 text-center">
       <center href="images/sector-plots/sector-plots.043.jpeg">
         <img id="s043" src="images/sector-plots/sector-plots.043.jpeg" class="img-responsive">
         Sector 43
@@ -625,7 +626,7 @@ cadence for each camera and sector.
 </div>
 <br>
 <div class="row">
-    <div class="col-md-6 text-a">
+    <div class="col-md-6 text-center">
       <center href="images/sector-plots/sector-plots.041.jpeg">
         <img id="s041" src="images/sector-plots/sector-plots.041.jpeg" class="img-responsive">
         Sector 41
