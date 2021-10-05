@@ -610,8 +610,23 @@ Illustrations showing all targets (in red) observed at 2-minute
 cadence for each camera and sector.
 
 <div class="row">
+    <div class="col-md-6 text-a">
+      <center href="images/sector-plots/sector-plots.043.jpeg">
+        <img id="s043" src="images/sector-plots/sector-plots.043.jpeg" class="img-responsive">
+        Sector 43
+      </a>
+    </div>
     <div class="col-md-6 text-center">
-      <a href="images/sector-plots/sector-plots.041.jpeg">
+      <a href="images/sector-plots/sector-plots.044.jpeg">
+        <img id="s044" src="images/sector-plots/sector-plots.044.jpeg" class="img-responsive">
+        Sector 44
+      </a>
+    </div>
+</div>
+<br>
+<div class="row">
+    <div class="col-md-6 text-a">
+      <center href="images/sector-plots/sector-plots.041.jpeg">
         <img id="s041" src="images/sector-plots/sector-plots.041.jpeg" class="img-responsive">
         Sector 41
       </a>
