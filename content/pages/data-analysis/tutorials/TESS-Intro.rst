@@ -127,9 +127,6 @@ Using the portal, you can enter the name of your object, its TIC number, or
 position (i.e., R.A and Dec). If listed in the archive, the table
 containing each observation will be returned.
 
-.. raw:: html
-
-   <video width="100%" height="100%" controls src="MAST-recording.mov" />
 
 2. How to use *Lightkurve* to access the various data products and create a time series
 ---------------------------------------------------------------------------------------
@@ -816,11 +813,8 @@ scattered light. Each of TESS’s cameras has a lens hood to reduce the
 scattered light from the Earth and the Moon. Due to TESS’s wide field of
 view and the physical restrictions of the Sun shade, the lens hood is
 not 100% efficient. The effect of the scattered light on the CCD’s can
-be seen in the video below.
+be seen in this `video <(https://www.youtube.com/watch?v=SP4QSF9G6FA>`__.
 
-.. raw:: html
-
-   <video width="100%" height="100%" controls src="ScatteredLight.mov" />
 
 Interactive inspection:
 ~~~~~~~~~~~~~~~~~~~~~~~

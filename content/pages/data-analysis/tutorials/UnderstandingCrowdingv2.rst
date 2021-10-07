@@ -12,8 +12,6 @@ Authors
 
 `Rebekah Hounsell <https://heasarc.gsfc.nasa.gov/docs/tess/helpdesk.html>`__ -
 Support scientist for *TESS* in the NASA GSFC GI Office.
-
-.. image:: images/helpdesk.png
 	   
 Download the notebook
 =====================
