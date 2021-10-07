@@ -23,7 +23,7 @@ If you would like to download a copy of this notebook you can do so by clicking 
 
 .. raw:: html
 
-   <p><a class="reference download internal" href="https://tessgi.github.io/TessGiWebsite/docs/tutorials/TSC2-Intro.ipynb">
+   <p><a class="reference download internal" href="https://tessgi.github.io/TessGiWebsite/docs/tutorials/TESS-Intro.ipynb">
    <tt class="xref download docutils literal">
    DOWNLOAD
    </tt></a><p>
