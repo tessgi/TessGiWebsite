@@ -25,6 +25,13 @@ Below we list tutorials that will help first time users get to grips with using 
 
 <tr>
     <td style="width: 15em;">
+    <a href='TESS-Intro.html'>An introduction to TESS data</a></td>
+    <td><a href="docs/tutorials/TESS-Intro.ipynb" download>Download</a></td>
+    <td>In this tutorial, we teach the user how to search for, download, and create TESS light curves.</td>
+  </tr>
+
+<tr>
+    <td style="width: 15em;">
     <a href='Target-Pixel-File-Tutorial.html'>Target Pixel File tutorial</a></td>
     <td><a href="docs/tutorials/Target-Pixel-File-Tutorial.ipynb" download>Download</a></td>
     <td>In this tutorial we learn about how to download TESS target pixel files from the archive, plot the data, access the metadata, and understand their properties and units.</td>
@@ -70,6 +77,20 @@ Below we list tutorials that will help first time users get to grips with using 
     <a href='Visual-inspection-Tutorial.html'>Visual inspection tutorial</a></td>
     <td><a href="docs/tutorials/Visual-inspection-Tutorial.ipynb" download>Download</a></td>
     <td>In this tutorial we learn how to interactively inspect our object of interest.</td>
+  </tr>
+  
+  <tr>
+    <td style="width: 15em;">
+    <a href='NoiseRemovalv2.html'>Noise removal tutorial</a></td>
+    <td><a href="docs/tutorials/NoiseRemovalv2.ipynb" download>Download</a></td>
+    <td>In this tutorial, we introduce the user to the Corrector class. We use these correctors to remove scattered light and noise from our data.</td>
+  </tr>
+  
+  <tr>
+    <td style="width: 15em;">
+    <a href='UnderstandingCrowdingv2.html'>Correcting for crowding</a></td>
+    <td><a href="docs/tutorials/UnderstandingCrowdingv2.ipynb" download>Download</a></td>
+    <td>In this tutorial, we examine crowding of targets and how to correct for it.</td>
   </tr>
 
 </table>
