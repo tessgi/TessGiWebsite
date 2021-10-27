@@ -12,8 +12,8 @@ the TESS mission is provided by the NASA's Science Mission Directorate.*
 
 The TESS Science Support Center curates a list of scientific publications
 pertaining to TESS.
-The database contains 746 publications,
-of which 618 are peer-reviewed.
+The database contains 761 publications,
+of which 622 are peer-reviewed.
 It demonstrates the important impact of TESS data
 on astronomical research.
 
@@ -29,7 +29,7 @@ Or seach by topic:
 If you spot an error in the database, such as a missing entry,
 please get in touch or open an issue in the <a href="https://github.com/tessgi/tpub">GitHub repository</a> of the database.
 
-Last update: 22 Oct 2021.
+Last update: 27 Oct 2021.
 
 <hr/>
 
@@ -46,9 +46,9 @@ of year.
 
 Both TESS data have been used for scientific applications
 that reach far beyond exoplanet research.
-While 321 works relate to exoplanets
+While 329 works relate to exoplanets
 (43%),
-a total of 425
+a total of 432
 pertain to other areas of astrophysics
 (57%).
 
@@ -60,7 +60,7 @@ pertain to other areas of astrophysics
 ## Most-cited publications
 
 TESS publications have cumulatively been cited
-9291 times.
+9400 times.
 The list below shows the most-cited publications,
 based on the citation count obtained from NASA ADS.
 
@@ -68,7 +68,7 @@ based on the citation count obtained from NASA ADS.
 1. TRANSITING EXOPLANET SURVEY SATELLITE (TESS)  
 Ricker, George R., Winn, Joshua N., Vanderspek, Roland, et al.    
 [2015JATIS...1a4003R](http://adsabs.harvard.edu/abs/2015JATIS...1a4003R)
-<span class="badge">1355 citations</span>
+<span class="badge">1363 citations</span>
 
 2. THE TRANSITING EXOPLANET SURVEY SATELLITE: SIMULATIONS OF PLANET DETECTIONS AND ASTROPHYSICAL FALSE POSITIVES  
 Sullivan, Peter W., Winn, Joshua N., Berta-Thompson, Zachory K., et al.    
@@ -83,7 +83,7 @@ Stassun, Keivan G., Oelkers, Ryan J., Pepper, Joshua, et al.
 4. THE REVISED TESS INPUT CATALOG AND CANDIDATE TARGET LIST  
 Stassun, Keivan G., Oelkers, Ryan J., Paegert, Martin, et al.    
 [2019AJ....158..138S](http://adsabs.harvard.edu/abs/2019AJ....158..138S)
-<span class="badge">223 citations</span>
+<span class="badge">224 citations</span>
 
 5. A REVISED EXOPLANET YIELD FROM THE TRANSITING EXOPLANET SURVEY SATELLITE (TESS)  
 Barclay, Thomas, Pepper, Joshua, Quintana, Elisa V.    
@@ -103,12 +103,12 @@ Huang, Chelsea X., Burt, Jennifer, Vanderburg, Andrew, et al.
 8. STELLAR FLARES FROM THE FIRST TESS DATA RELEASE: EXPLORING A NEW SAMPLE OF M DWARFS  
 Günther, Maximilian N., Zhan, Zhuchang, Seager, Sara, et al.    
 [2020AJ....159...60G](http://adsabs.harvard.edu/abs/2020AJ....159...60G)
-<span class="badge">99 citations</span>
+<span class="badge">98 citations</span>
 
 9. LIMB AND GRAVITY-DARKENING COEFFICIENTS FOR THE TESS SATELLITE AT SEVERAL METALLICITIES, SURFACE GRAVITIES, AND MICROTURBULENT VELOCITIES  
 Claret, A.    
 [2017A&A...600A..30C](http://adsabs.harvard.edu/abs/2017A&A...600A..30C)
-<span class="badge">95 citations</span>
+<span class="badge">96 citations</span>
 
 10. TESS DISCOVERY OF AN ULTRA-SHORT-PERIOD PLANET AROUND THE NEARBY M DWARF LHS 3844  
 Vanderspek, Roland, Huang, Chelsea X., Vanderburg, Andrew, et al.    
@@ -130,7 +130,7 @@ within the last 90 days.
 <!-- ## Most-active authors
 
 The entries in the publication database have been authored and co-authored
-by a total of 3610 unique author names.
+by a total of 3694 unique author names.
 Here we list the most-active authors, defined as those with six or more first-author publications in our database.
 
 
@@ -141,6 +141,8 @@ Here we list the most-active authors, defined as those with six or more first-au
  * Bouma, L (7 publications)
 
  * Cloutier, R (6 publications)
+
+ * Howard, W (6 publications)
 
  * Lee, J (6 publications)
 -->
