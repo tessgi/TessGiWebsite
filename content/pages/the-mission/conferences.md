@@ -5,7 +5,22 @@ Save_as: conferences.html
 
 <table class="table table-striped table-hover" style="max-width:55em;">
 
+
    <tr>
+    <td style="width: 9em;">August 2021</td>
+    <td style="width: 25em;">TESS Science Conference II</a></td>
+    <td><a
+     href='https://tsc.mit.edu/2021/'>website</a></td>
+  </tr>
+
+   <tr>
+    <td style="width: 9em;">June 2021</td>
+    <td style="width: 25em;">AAS #238</a></td>
+    <td><a
+     href='https://aas.org/meetings/aas238'>website</a></td>
+  </tr>
+
+  <tr>
     <td style="width: 9em;">January 2021</td>
     <td style="width: 25em;">AAS special session: Atmospheric characterization of TESS exoplanets</a></td>
     <td><a
