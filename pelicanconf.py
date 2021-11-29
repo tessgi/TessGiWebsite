@@ -146,22 +146,18 @@ KEY_INFORMATION = (
 
 # Defines the "important dates" box on the front page
 IMPORTANT_DATES = (
-            ('<b>30 April 2021</b>',
-             'Talks and poster abstract deadline: TESS Science Conference II',
-             'https://docs.google.com/forms/d/e/1FAIpQLSeKAZwkAOqgdKWvtjxX1Rwk3XXLBsvlRbbpTaqJurW6MS4cDA/viewform',), # link to a news item?
-            ('<b>26 March 2021</b>',
-             'Splinter Session Request: TESS Science Conference II',
-             'https://docs.google.com/forms/d/e/1FAIpQLSegaLnCjynv3kvd54oxnhzdKTm-X0HcBA5khjLmOlx_YtVjjw/viewform',), # link to a news item?
-         )
+            ('<b>4th January 2022</b>',
+             'Last day to register for the AAS #239',
+             'https://aas.org/meetings/aas239/register',),)
 
 # Defines the "meetings" box on the front page
 MEETINGS = (
-           ('<b>02 August 2021</b>',
-             'TESS Science Conference II',
-             'https://tsc.mit.edu/2021/',),
-            ('<b>7 June 2021</b>',
-             'AAS #238',
-             'https://aas.org/meetings/aas238',),
+           ('<b>12 January 2022</b>',
+             'AAS #239 Splinter Session: Science from the TESS Extended Mission',
+             'https://submissions.mirasmart.com/AAS239/itinerary/EventDetail.aspx?evt=137',),
+            ('<b>13th-17th December 2021</b>',
+             'AGU Fall Meeting',
+             'https://www.agu.org/Fall-Meeting',),
             )
 
 # Defines the "related websites" listing in the footer of all pages
