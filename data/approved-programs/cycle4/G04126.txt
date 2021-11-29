@@ -11,3 +11,9 @@ Summary: The strange flux-dips found in Kepler data of the star KIC8462852 have 
 
 # Sector 041 targets observed (2 min: 1, 20 s: 1)
 185336364,301.5643,44.4568,11.35,G04231;G04171;G04126;20SECONDTARGET
+
+# Sector 041 targets observed (2 min: 1, 20 s: 1)
+185336364,301.5643,44.4568,11.35,G04231;G04171;G04126;20SECONDTARGET
+
+# Sector 041 targets observed (2 min: 1, 20 s: 1)
+185336364,301.5643,44.4568,11.35,G04231;G04171;G04126;20SECONDTARGET
