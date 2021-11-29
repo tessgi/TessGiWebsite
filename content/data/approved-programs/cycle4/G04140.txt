@@ -11,3 +11,9 @@ Summary: We propose to observe the benchmark K2-138 system with 2-minute cadence
 
 # Sector 042 targets observed (2 min: 1, 20 s: 1)
 4610830,348.949,-10.8498,11.5,G04140;G04205;G04242;20SECONDTARGET
+
+# Sector 042 targets observed (2 min: 1, 20 s: 1)
+4610830,348.949,-10.8498,11.5,G04140;G04205;G04242;20SECONDTARGET
+
+# Sector 042 targets observed (2 min: 1, 20 s: 1)
+4610830,348.949,-10.8498,11.5,G04140;G04205;G04242;20SECONDTARGET
