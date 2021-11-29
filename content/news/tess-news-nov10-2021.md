@@ -37,6 +37,6 @@ Taking the TESS data available for UU Cet and W Tuc Fourier decompositions were 
 
 **Fig. 1:** *Taken from Schanche  et. al., (2021). Photometric observations of TOI-2257 with the best-fit transit parameters over-plotted. Thick black points show 10-minute bins, with all data points shown in gray. Residuals from the model fit are shown with an arbitrary offset below the transit. Note only 10-minute binned residuals are shown for clarity. The color of the line reflects the filter used for the observations (red for TESS, orange indicates I+z, green is i’, blue for z’, and purple for r’).*
 
-![Vach(images/Vach.png)
+![Vach](images/Vach.png)
 
 **Fig. 2:** *Taken from Vach et. al., (2021). The panels show the phase folded transits and residuals for each planet. Colored circles indicate binned data, and the colored lines are the best-fit EXOFASTv2 models.*
