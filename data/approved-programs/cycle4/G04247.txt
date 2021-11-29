@@ -8,3 +8,9 @@ Type: SMALL
 
 Summary: Wolf 359 is a nearby late-M dwarf that is one of the most active flare stars in our solar neighborhood. Observations from the K2 mission revealed many hundreds of flares within an 80 day timespan, along with numerous unresolved small flares. TESS' 20-sec mode is ideal to resolve the flares from Wolf 359 and obtain precise measurements of the flare rates and energies of this star. We propose to obtain TESS 20-second cadence optical data and simultaneous Swift X-ray and ultraviolet data. The combined data will provide a deeper understanding of its flares in unprecedented detail, enabling us to identify relations between optical, UV, and X-ray flares, and thus provide a broad view of the underlying mechanisms and origins of the stellar activity.
 
+
+# Sector 045 targets observed (2 min: 1, 20 s: 1)
+365006789,164.0969,6.9982,9.28,G04247;G04222;G04212;G04033;G04139;G04186;G04211;G04148;G04188;G04006;20SECONDTARGET
+
+# Sector 046 targets observed (2 min: 1, 20 s: 1)
+365006789,164.0968,6.9981,9.28,G04247;G04222;G04212;G04033;G04139;G04186;G04211;G04148;G04188;G04006;20SECONDTARGET
