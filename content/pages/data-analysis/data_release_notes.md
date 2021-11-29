@@ -187,7 +187,7 @@ Below we provide a brief summary of the DRNs for each Sector in Cycle 4.
         
         <tr>  
        <td colspan="3" >Scattered light:</td>
-       <td colspan="5" >In Orbit 93, the Moon crosses the fields of view of all cameras (one at a time). The Moon saturates CCD detectors during these times</td>
+       <td colspan="5" >In Orbit 93, the Moon crosses the fields of view of all cameras (one at a time). The Moon saturates CCD detectors during these times. Outside of these times, strong scattered light signals are present when the Moon or Earth are near the camera fields of view.</td>
        </tr>
       
          <tr>  
