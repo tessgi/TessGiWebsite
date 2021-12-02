@@ -3,7 +3,7 @@ Save_as: primary.html
 
 [TOC]
 
-The TESS primary mission ran from July 25th 2018 until July 4th 2020 (note that ground-based follow up for the primary mission continues until 2021) . Within this two year mission TESS searched for planets outside of our solar system with a primary goal of finding nearby planets that are amenable to characterization with ground-based follow-up surveys. Specifically, the primary science requirements of the TESS mission were as follows:
+The TESS primary mission ran from July 25th 2018 until July 4th 2020 (note that ground-based follow up for the primary mission continued into 2021) . Within this two year mission TESS searched for planets outside of our solar system with a primary goal of finding nearby planets that are amenable to characterization with ground-based follow-up surveys. Specifically, the primary science requirements of the TESS mission were as follows:
 
 1. Search over 200,000 stars to discover planets with periods <10 days and radii <2.5 Earth radii orbiting the brightest stars in the solar neighborhood and discover planets with radii at least 2.5 Earth radii distributed across the celestial sphere.
 
