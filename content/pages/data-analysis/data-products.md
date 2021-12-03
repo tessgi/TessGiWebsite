@@ -16,9 +16,9 @@ The [TESS mission page at MAST](https://archive.stsci.edu/tess/all_products.html
 There are three main data products produced by the TESS pipeline, these are discussed below.
 
 ### Full Frame Images
-A Full Frame Image (FFI) is a collection of science and [collateral](#collateral-data) pixels observed simultaneously.  A single FFI is the full set of all science and collateral pixels across all CCDs of a given camera. FFIs were taken every 30 minutes during science operations in the primary mission. Beginning in Cycle 3, FFIs will be taken with a cadence of 10 minutes.
+A Full Frame Image (FFI) is a collection of science and [collateral](#collateral-data) pixels observed simultaneously.  A single FFI is the full set of all science and collateral pixels across all CCDs of a given camera. FFIs were taken every 30 minutes during science operations in the [primary mission](primary.html). In the [first extension](extended.html) of the mission, FFIs were taken with a cadence of 10 minutes. Beginning in Cycle 5, the [second extension](second-extended.html) of the mission, FFI will be taken with a cadence of 200 seconds.
 
-There are 16 CCDs on the spacecraft, each of which is supported by 4 output channels. TESS FFI files are in FITS format and contain all pixels on a single CCD for a single 30 or 10 minute (depending on the cycle) cadence observation.FFI data is provided in three types: uncalibrated, calibrated, and uncertainty.
+There are 16 CCDs on the spacecraft, each of which is supported by 4 output channels. TESS FFI files are in FITS format and contain all pixels on a single CCD for a single 30 minutes, 10 minutes, or 200 seconds (depending on the Cycle) cadence observation. FFI data is provided in three types: uncalibrated, calibrated, and uncertainty.
 
 Uncalibrated FFI data is provided in one file with two Header/Data Units (HDUs): a primary header and the CCD image header and data.
 

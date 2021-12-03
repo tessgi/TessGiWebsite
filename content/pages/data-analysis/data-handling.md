@@ -22,7 +22,7 @@ The TSO is responsible for detailed analysis of TCEs and the identification of T
 
 The processed data and meta-data from the SPOC are archived at MAST. MAST is the primary science data archive for TESS and provides tools to search and retrieve data. The TESS Science Support Center operates the Guest Investigator (GI) Program, which supplies a list of GI targets to the POC, and the GI proposers may retrieve their data from the MAST. All data archived at MAST has no proprietary period and is publicly available.
 
-The Full Frame Images (FFIs), which are calibrated by the SPOC, were collected at a 30 min cadence in the primary mission, and now at a 10 min cadence in the extended. There is a fast turn-around time for processing the science data, a high on-board storage capacity for TESS ~192 GB, and a high data rate since TESS's orbit is closer to Earth. All of the data is processed on the NASA Advanced Supercomputing (NAS) Division's Pleiades supercomputer.
+The Full Frame Images (FFIs), which are calibrated by the SPOC, were collected at a 30 min cadence in the [primary mission](primary.html), 10 min in the [first extension](extend.html), and 200 sec in the [second extension](second-extended.html). There is a fast turn-around time for processing the science data, a high on-board storage capacity for TESS ~192 GB, and a high data rate since TESS's orbit is closer to Earth. All of the data is processed on the NASA Advanced Supercomputing (NAS) Division's Pleiades supercomputer.
 
 ## Pipeline products
 
