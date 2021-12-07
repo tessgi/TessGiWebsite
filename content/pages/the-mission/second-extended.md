@@ -7,7 +7,7 @@ TESS completed its [prime mission](primary.html) in July of 2020 and then entere
 
 This second extended mission will last approximately three years and will continue to scan the sky for exoplanets and transient events. Again this mission extension will be more community focused with a large [Guest Investigator program](proposing-investigations.html) running through Cycles 5, 6, and 7.
 
-The [Cycle 5 call for proposals](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7b5032D2F8-F5DF-692A-8E7C-15A801B08DE1%7d&path=&method=init) occurred in November 23rd, 2022.
+The [Cycle 5 call for proposals](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7b5032D2F8-F5DF-692A-8E7C-15A801B08DE1%7d&path=&method=init) occurred in November 23rd, 2021.
 
 ## Observing strategy
 
