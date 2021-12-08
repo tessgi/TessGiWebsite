@@ -13,7 +13,7 @@ The TESS GI office has developed some new outreach products for the community. W
 
 [Early Career Pamphlet](images/Early-FIN2.pdf) | [Citizen Science Pamphlet](images/Citizenscience-FIN2.pdf) |
 :-------------------------|:-------------------------
-<img class="img-responsive" style="max-width:90%;" src="images/early.png"> | <img class="img-responsive" style="max-width:90%;" src="images/citizen.png">
+<img class="img-responsive" style="max-width:90%;" src="images/early.png"> | <img class="img-responsive" style="max-width:90%;" src="images/citizen.png"> 
 
 [Northern Vista](images/Northernsky-FIN.pdf) | [Old Faithful](images/Oldfaithful-FIN.pdf) |
 :-------------------------|:-------------------------
