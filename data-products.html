@@ -17,7 +17,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - TESS Science Support Center" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2021-12-07" />
+    <meta name="dc.date.modified" content="2021-12-08" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Users of TESS Data" />
     <meta name="dc.identifier" content="https://heasarc.gsfc.nasa.gov/docs/tess/" />
@@ -105,8 +105,7 @@ in August 2015, using pelican-bootstrap and flatly.
                                 <li><a href="./objectives.html">Objectives</a></li>
                                 <li><a href="./the-tess-space-telescope.html">Telescope</a></li>
                                 <li><a href="./primary.html">Primary mission</a></li>
-                                <li><a href="./extended.html">First Extended mission</a></li>
-                                <li><a href="./second-extended.html">Second Extended mission</a></li>
+                                <li><a href="./extended.html">Extended mission</a></li>
                                 <li><a href="./faq.html">FAQ</a></li>
                                 <li><a href="./citizenscience.html">Citizen Science</a></li>
                                 <li><a href="./gallery.html">Outreach resources</a></li>
@@ -177,8 +176,8 @@ in August 2015, using pelican-bootstrap and flatly.
 <p>The <a href="https://archive.stsci.edu/tess/all_products.html">TESS mission page at MAST</a> contains the latest news and updates on TESS products. 
 There are three main data products produced by the TESS pipeline, these are discussed below.</p>
 <h3 id="full-frame-images">Full Frame Images</h3>
-<p>A Full Frame Image (FFI) is a collection of science and <a href="#collateral-data">collateral</a> pixels observed simultaneously.  A single FFI is the full set of all science and collateral pixels across all CCDs of a given camera. FFIs were taken every 30 minutes during science operations in the <a href="primary.html">primary mission</a>. In the <a href="extended.html">first extension</a> of the mission, FFIs were taken with a cadence of 10 minutes. Beginning in Cycle 5, the <a href="second-extended.html">second extension</a> of the mission, FFI will be taken with a cadence of 200 seconds.</p>
-<p>There are 16 CCDs on the spacecraft, each of which is supported by 4 output channels. TESS FFI files are in FITS format and contain all pixels on a single CCD for a single 30 minutes, 10 minutes, or 200 seconds (depending on the Cycle) cadence observation. FFI data is provided in three types: uncalibrated, calibrated, and uncertainty.</p>
+<p>A Full Frame Image (FFI) is a collection of science and <a href="#collateral-data">collateral</a> pixels observed simultaneously.  A single FFI is the full set of all science and collateral pixels across all CCDs of a given camera. FFIs were taken every 30 minutes during science operations in the primary mission. Beginning in Cycle 3, FFIs will be taken with a cadence of 10 minutes.</p>
+<p>There are 16 CCDs on the spacecraft, each of which is supported by 4 output channels. TESS FFI files are in FITS format and contain all pixels on a single CCD for a single 30 or 10 minute (depending on the cycle) cadence observation.FFI data is provided in three types: uncalibrated, calibrated, and uncertainty.</p>
 <p>Uncalibrated FFI data is provided in one file with two Header/Data Units (HDUs): a primary header and the CCD image header and data.</p>
 <p>The calibrated image and its uncertainty will be provided in a separate file with several HDUs: a primary header, the CCD calibrated image header and data, the CCD uncertainty image header and data, and the cosmic ray corrections binary table header and data. Cosmic Ray Mitigated (CRM) FFIs are the same as FFIs except they will be collected with the onboard cosmic ray mitigation enabled.</p>
 <p>To understand more about FFIs and how to use the data please visit <a href="https://github.com/spacetelescope/notebooks/blob/master/notebooks/MAST/TESS/beginner_how_to_use_ffi/beginner_how_to_use_ffi.ipynb">this page</a>.</p>
