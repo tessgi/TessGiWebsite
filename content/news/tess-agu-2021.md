@@ -14,7 +14,7 @@ During the event Dr. Rebekah Hounsell will be holding two sessions in the learni
     <td style="width: 15em;">
     <a href='HowToFindAnExoplanet-UserVersion.html'>How To Find An Exoplanet</a></td>
     <td><a href="docs/tutorials/HowToFindAnExoplanet-UserVersion.ipynb" download>Download</a></td>
-    <td>In this tutorial, we teach the user how to find an exoplanet transit signal using TESS data.</td>
+    <td>In this tutorial, we teach the user how to find an exoplanet transit signal using TESS data. Please note that you should right click on the "Download" button to save the Jupyter notebook on your system.</td>
 </tr>
 
 <tr>
