@@ -9,7 +9,7 @@
     &lt;td style="width: 15em;"&gt;
     &lt;a href='HowToFindAnExoplanet-UserVersion.html'&gt;How To Find An Exoplanet&lt;/a&gt;&lt;/td&gt;
     &lt;td&gt;&lt;a href="docs/tutorials/HowToFindAnExoplanet-UserVersion.ipynb" download&gt;Download&lt;/a&gt;&lt;/td&gt;
-    &lt;td&gt;In this tutorial, we teach the user how to find an exoplanet transit signal using TESS data.&lt;/td&gt;
+    &lt;td&gt;In this tutorial, we teach the user how to find an exoplanet transit signal using TESS data. Please note that you should right click on the "Download" button to save the Jupyter notebook on your system.&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
