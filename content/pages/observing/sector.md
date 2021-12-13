@@ -120,7 +120,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>North</td>
     <td>2021&nbsp;Dec&nbsp;30</td>
     <td>2022&nbsp;Jan&nbsp;28</td>
-    <td></td>
+    <td><a href='data/target_lists/sector047_targets_lists/GI_S047.csv'>Download</td>
     <td style="min-width: 12em;">
     </td>
   </tr>
@@ -130,7 +130,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>North</td>
     <td>2021&nbsp;Dec&nbsp;02</td>
     <td>2022&nbsp;Dec&nbsp;30</td>
-    <td></td>
+    <td><a href='data/target_lists/sector046_targets_lists/GI_S046.csv'>Download</td>
     <td style="min-width: 12em;">
     </td>
   </tr>
@@ -140,7 +140,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>North</td>
     <td>2021&nbsp;Nov&nbsp;06</td>
     <td>2021&nbsp;Dec&nbsp;02</td>
-    <td></td>
+    <td><a href='data/target_lists/sector045_targets_lists/GI_S045.csv'>Download</td>
     <td style="min-width: 12em;">
     </td>
   </tr>
@@ -609,6 +609,19 @@ The data from each sector are required to be available at the MAST no later than
 Illustrations showing all targets (in red) observed at 2-minute
 cadence for each camera and sector.
 
+
+
+<div class="row">
+    <div class="col-md-6 text-center">
+      <a href="images/sector-plots/sector-plots.047.jpeg">
+        <img id="s047" src="images/sector-plots/sector-plots.047.jpeg" class="img-responsive">
+        Sector 47
+      </a>
+    </div>
+    <div class="col-md-6 text-center">
+    </div>
+</div>
+<br>
 <div class="row">
     <div class="col-md-6 text-center">
       <a href="images/sector-plots/sector-plots.045.jpeg">
