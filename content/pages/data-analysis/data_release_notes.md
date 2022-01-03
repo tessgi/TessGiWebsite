@@ -133,6 +133,130 @@ Below we outline some of the most important issues or data product modifications
 ##Cycle 4 DRN Tables
 Below we provide a brief summary of the DRNs for each Sector in Cycle 4. 
 
+
+###Sector 45
+
+<div class="panel panel-primary">
+  <div class="panel-heading">
+    <h3 class="panel-title">Information</h3>
+  </div>
+
+<table class="table table-striped table-hover" style="font-size: 0.77em;">
+       <col style="width:5%">
+       <col style="width:5%">
+       <col style="width:25%">
+       <col style="width:25%">
+       <col style="width:13.3%">
+       <col style="width:13.3%">
+       <col style="width:13.3%">
+
+       <thead>
+       <tr>
+       <th style="vertical-align: middle;">DRN</th>
+       <th style="vertical-align: middle;">Orbits</th>
+       <th style="vertical-align: middle;">Dates (UTC) <p>Start - End</p></th>
+       <th style="vertical-align: middle;">Cadence # <p>Start - End</p></th>
+       <th style="vertical-align: middle;">Data pause <p>(days)</p></th>
+       <th style="vertical-align: middle;">Science data (days)</th>
+       <th style="vertical-align: middle;">Momentum dumps</th>
+       <th style="vertical-align: middle;">Problematic <p>TIC ID's</p></th>
+       </tr>
+       </thead>
+
+       <tr>  
+       <td><a href="https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_sector_45_drn65_v01.pdf">65</a></td>
+       <td><p>97</p> 
+       <p>98</p></td>
+       <td><p>2021-11-07 - 2021-11-19</p>
+       <p>2021-11-20 - 2021-12-02</p></td>
+       <td><p>934594 - 943577</p>
+       <p>944411- 952682<p></td>
+       <td>1.16</td>
+       <td>23.96</td>
+       <td><p>1</p>
+       <p>1</p></td>
+       <td><a href="sector_45.html">list</a></td>
+       </tr>
+
+ 	<td colspan="3" style="vertical-align: middle;"><b>Issue</b></td>
+	<td colspan="5" style="vertical-align: middle;"><b>Description</b></td>
+       
+       <tr>  
+       <td colspan="3">Spacecraft pointing:</td>
+       <td colspan="5">Sector 45 consists of observations of the ecliptic plane, with the camera array aligned along the ecliptic and Camera 1 the westernmost of the four. At the beginning of Sector 45, the center of Camera 1 was ∼ 50 degrees from the antisolar point; at the end of the sector, the distance was ∼ 23 degrees. Camera 1 alone was used for guiding in orbits 97 and 98 of Sector 45.</td>
+        </tr>
+        
+        <tr>  
+       <td colspan="3" >Scattered light:</td>
+       <td colspan="5" >At the start of orbit 97, the Earth crosses through Cameras 2, 3, and 4 and saturates the CCD detectors. At the start of orbit 98, the Earth is in Camera 4, while the Moon is in Camera 1 and moves through Camera 2.  Outside of these times, strong scattered light signals are present when the Moon or Earth are near the camera fields of view. </td>
+       </tr>
+      
+</table>
+</div>
+</div>
+
+###Sector 44
+
+<div class="panel panel-primary">
+  <div class="panel-heading">
+    <h3 class="panel-title">Information</h3>
+  </div>
+
+<table class="table table-striped table-hover" style="font-size: 0.77em;">
+       <col style="width:5%">
+       <col style="width:5%">
+       <col style="width:25%">
+       <col style="width:25%">
+       <col style="width:13.3%">
+       <col style="width:13.3%">
+       <col style="width:13.3%">
+
+       <thead>
+       <tr>
+       <th style="vertical-align: middle;">DRN</th>
+       <th style="vertical-align: middle;">Orbits</th>
+       <th style="vertical-align: middle;">Dates (UTC) <p>Start - End</p></th>
+       <th style="vertical-align: middle;">Cadence # <p>Start - End</p></th>
+       <th style="vertical-align: middle;">Data pause <p>(days)</p></th>
+       <th style="vertical-align: middle;">Science data (days)</th>
+       <th style="vertical-align: middle;">Momentum dumps</th>
+       <th style="vertical-align: middle;">Problematic <p>TIC ID's</p></th>
+       </tr>
+       </thead>
+
+       <tr>  
+       <td><a href="https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_sector_44_drn64_v01.pdf">64</a></td>
+       <td><p>95</p> 
+       <p>96</p></td>
+       <td><p>2021-10-12 - 2021-10-24</p>
+       <p>2021-10-25 - 2021-11-05</p></td>
+       <td><p>916364 - 924674</p>
+       <p>925734 - 933829<p></td>
+       <td>1.47</td>
+       <td>22.78</td>
+       <td><p>1</p>
+       <p>1</p></td>
+       <td><a href="sector_44.html">list</a></td>
+       </tr>
+
+ 	<td colspan="3" style="vertical-align: middle;"><b>Issue</b></td>
+	<td colspan="5" style="vertical-align: middle;"><b>Description</b></td>
+       
+       <tr>  
+       <td colspan="3">Spacecraft pointing:</td>
+       <td colspan="5">Sector 44 consists of observations of the ecliptic plane. For ecliptic pointings, the antisolar point is set towards the edge of Camera 1 (nearest Camera 2), and Cameras 2, 3, and 4 are aligned parallel to the ecliptic plane in the westward direction.
+Camera 1 alone was used for guiding in orbits 95 and 96 of Sector 44.</td>
+        </tr>
+        
+        <tr>  
+       <td colspan="3" >Scattered light:</td>
+       <td colspan="5" >At the end of orbit 95, the Moon crosses through Camera 1 and saturates the CCD detectors. At the start of orbit 96, the Moon is in Camera 3 and moves through Camera 4. Outside of these times, strong scattered light signals are present when the Moon or Earth are near the camera fields of view.</td>
+       </tr>
+      
+</table>
+</div>
+</div>
+
 ###Sector 43
 
 <div class="panel panel-primary">
