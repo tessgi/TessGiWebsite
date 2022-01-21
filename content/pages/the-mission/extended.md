@@ -15,26 +15,35 @@ TESS Cycle 3 comprised of Sectors 27 - 39, during which the Southern ecliptic he
 
 The TESS Cycle 3 coverage, dates, and camera information are shown below. 
 
+<center>
 <br/>
   <img class="img-responsive" style="max-width:90%;" src="images/Cycle3sectors.png">
 <br/>
+</center>
 *A depiction of the survey sectors for Cycle 3. Credit: Taken from the [TESS MIT Page](https://tess.mit.edu/observations/).*
 
+<center>
 <br/>
-  <img class="img-responsive" style="max-width:75%;" src="images/Cycle3table.png">
+  <img class="img-responsive" style="max-width:90%;" src="images/Cycle3table.png">
 <br/>
+</center>
 *List of the sectors in Cycle 3. Details of the cameras, angles, and dates are provided. Credit: Taken from the [TESS MIT Page](https://tess.mit.edu/observations/).*
 
 TESS Cycle 4 was comprised of 16 Sectors instead of 13, and as such lasted ~15 months running from Sectors 40-55. In this Cycle the Northern hemisphere was observed, with Sectors 40-41 sharing similar pointings to that of 14 and 15, at an ecliptic latitude of +85°. Sectors 42-46 were ecliptic pointings and Sectors 47-55 Northern hemisphere pointings at an ecliptic latitude of +54°. Sectors 52 and 53 then shifted north to +85° to avoid scattered light in cameras 1 and 2.
 
+<center>
 <br/>
   <img class="img-responsive" style="max-width:90%;" src="images/Cycle4sectors.png">
 <br/>
+</center>
 *A depiction of the survey sectors for Cycle 4. Credit: Taken from the [TESS MIT Page](https://tess.mit.edu/observations/).*
 
+<center>
 <br/>
-  <img class="img-responsive" style="max-width:75%;" src="images/Cycle4table.png">
+  <img class="img-responsive" style="max-width:90%;" src="images/Cycle4table.png">
 <br/>
+</center>
+
 *List of the sectors in Cycle 4. Details of the cameras, angles, and dates are provided. Credit: Taken from the [TESS MIT Page](https://tess.mit.edu/observations/).*
 
 ## Data Products 

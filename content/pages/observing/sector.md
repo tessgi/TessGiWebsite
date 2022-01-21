@@ -30,10 +30,155 @@ The data from each sector are required to be available at the MAST no later than
       <th style="vertical-align: middle;">Comments</th>
     </tr>
   </thead>
+
+ <tr>
+  <td colspan="6">TESS GI Cycle 5</td>
+ </tr>
+
+ <tr>
+    <td><a href="#s069">s069</a></td>
+    <td>North</td>
+    <td>2023&nbsp;Sep&nbsp;20</td>
+    <td>2023&nbsp;Aug&nbsp;25</td>
+    <td></td>
+    <td style="min-width: 12em;">
+    </td>
+  </tr>
+
+ <tr>
+    <td><a href="#s068">s068</a></td>
+    <td>North</td>
+    <td>2023&nbsp;Aug&nbsp;25</td>
+    <td>2023&nbsp;Jul&nbsp;29</td>
+    <td></td>
+    <td style="min-width: 12em;">
+    </td>
+  </tr>
+
+ <tr>
+    <td><a href="#s067">s067</a></td>
+    <td>North</td>
+    <td>2023&nbsp;Jul&nbsp;29</td>
+    <td>2023&nbsp;Jul&nbsp;01</td>
+    <td></td>
+    <td style="min-width: 12em;">
+    </td>
+  </tr>
+
+ <tr>
+    <td><a href="#s066">s066</a></td>
+    <td>North</td>
+    <td>2023&nbsp;Jun&nbsp;02</td>
+    <td>2023&nbsp;Jul&nbsp;01</td>
+    <td></td>
+    <td style="min-width: 12em;">
+    </td>
+  </tr>
+
+<tr>
+    <td><a href="#s065">s065</a></td>
+    <td>North</td>
+    <td>2023&nbsp;May&nbsp;04</td>
+    <td>2023&nbsp;Jun&nbsp;02</td>
+    <td></td>
+    <td style="min-width: 12em;">
+    </td>
+  </tr>
+
+ <tr>
+    <td><a href="#s064">s064</a></td>
+    <td>North</td>
+    <td>2023&nbsp;Apr&nbsp;06</td>
+    <td>2023&nbsp;May&nbsp;04</td>
+    <td></td>
+    <td style="min-width: 12em;">
+    </td>
+  </tr>
+
+ <tr>
+    <td><a href="#s063">s063</a></td>
+    <td>North</td>
+    <td>2023&nbsp;Mar&nbsp;10</td>
+    <td>2023&nbsp;Apr&nbsp;06</td>
+    <td></td>
+    <td style="min-width: 12em;">
+    </td>
+  </tr>
+
+ <tr>
+    <td><a href="#s062">s062</a></td>
+    <td>North</td>
+    <td>2023&nbsp;Feb&nbsp;12</td>
+    <td>2023&nbsp;Mar&nbsp;10</td>
+    <td></td>
+    <td style="min-width: 12em;">
+    </td>
+  </tr>
+
+ <tr>
+    <td><a href="#s061">s061</a></td>
+    <td>North</td>
+    <td>2023&nbsp;Jan&nbsp;18</td>
+    <td>2023&nbsp;Feb&nbsp;12</td>
+    <td></td>
+    <td style="min-width: 12em;">
+    </td>
+  </tr>
+
+ <tr>
+    <td><a href="#s060">s060</a></td>
+    <td>North</td>
+    <td>2022&nbsp;Dec&nbsp;23</td>
+    <td>2023&nbsp;Jan&nbsp;18</td>
+    <td></td>
+    <td style="min-width: 12em;">
+    </td>
+  </tr>
+
+ <tr>
+    <td><a href="#s059">s059</a></td>
+    <td>North</td>
+    <td>2022&nbsp;Nov&nbsp;26</td>
+    <td>2022&nbsp;Dec&nbsp;23</td>
+    <td></td>
+    <td style="min-width: 12em;">
+    </td>
+  </tr>
+
+ <tr>
+    <td><a href="#s058">s058</a></td>
+    <td>North</td>
+    <td>2022&nbsp;Oct&nbsp;29</td>
+    <td>2022&nbsp;Nov&nbsp;26</td>
+    <td></td>
+    <td style="min-width: 12em;">
+    </td>
+  </tr>
+
+ <tr>
+    <td><a href="#s057">s057</a></td>
+    <td>North</td>
+    <td>2022&nbsp;Sep&nbsp;30</td>
+    <td>2022&nbsp;Oct&nbsp;29</td>
+    <td></td>
+    <td style="min-width: 12em;">
+    </td>
+  </tr>
+
+ <tr>
+    <td><a href="#s056">s056</a></td>
+    <td>North</td>
+    <td>2022&nbsp;Sep&nbsp;01</td>
+    <td>2022&nbsp;Sep&nbsp;30</td>
+    <td></td>
+    <td style="min-width: 12em;">
+    </td>
+  </tr>
+
  <tr>
   <td colspan="6">TESS GI Cycle 4</td>
  </tr>
-
+ 
  <tr>
     <td><a href="#s055">s055</a></td>
     <td>North</td>
