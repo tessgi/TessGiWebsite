@@ -19,9 +19,10 @@ The pontings for Cycle 5 can be found in the table below which contains the deta
   <div class="panel-heading">
     <h3 class="panel-title">Cycle 5 Pointings</h3>
   </div>
+  
   <div class="panel-body">
 
-  <table class="table table-striped table-hover" style="font-size: 0.77em;">
+  <table class="table table-striped table-hover" style="font-size: 0.55em;">
   <thead>
     <tr>
       <th style="vertical-align: middle;">Sector</th>
@@ -173,12 +174,21 @@ The pontings for Cycle 5 can be found in the table below which contains the deta
     <td>37.5409, -61.9896, 147.6933</td>
     <td>92.9455, -65.3159, 198.1078</td>
   </tr>
-
-  </table>
+	</table>
+	</div>
 </div>
-</div>
 
-The location of the sectors is also shown in the Figure below.
+The location of the sectors is also shown in the figures below.
+
+<center>
+<br/>
+  <img class="img-responsive" style="max-width:50%;" src="images/Year5_cel.png">
+<br/>
+<br/>
+  <img class="img-responsive" style="max-width:50%;" src="images/Year5_ecl.png">
+<br/>
+</center>
+*A depiction of the survey sectors for Cycle 5. Credit: Provided by  TESS MIT.*
 
 
 ## New observations and opportunities
