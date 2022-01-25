@@ -55,7 +55,7 @@ In Cycles 3 and 4, the following data products were produced, these are slightly
 * 10-minute full frame images instead of 30-minute.
 
 The 20-second cadence mode was allotted to ~600 targets per sector.
-There was roughly a X times increase in the number of 2-minute cadenced targets in the GI program compared to the prime mission, that is ~15,000 target slots in each sector.
+There was roughly a 6 times increase in the number of 2-minute cadenced targets in the GI program compared to the prime mission, that is ~15,000 target slots in each sector.
 
 ##Proposal categories
 
