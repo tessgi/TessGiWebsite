@@ -48,32 +48,32 @@ TESS Cycle 4 was comprised of 16 Sectors instead of 13, and as such lasted ~15 m
 
 ## Data Products 
 
-In Cycles 3 and 4 the following data products were produced, these are slightly different to those produced in the primary mission. 
+In Cycles 3 and 4, the following data products were produced, these are slightly different to those of the primary mission. 
 
 * 2-minute cadence data for a select number of targets.
 * 20-second cadence data for a select number of targets.
 * 10-minute full frame images instead of 30-minute.
 
 The 20-second cadence mode was allotted to ~600 targets per sector.
-There was roughly a times increase in the number of 2-minute cadenced targets in the GI program compared to the prime mission, that is ~15,000 target slots in each sector.
+There was roughly a X times increase in the number of 2-minute cadenced targets in the GI program compared to the prime mission, that is ~15,000 target slots in each sector.
 
 ##Proposal categories
 
 With the extension of the mission, TESS became a Guest Investigator driven experiment, with >80% of the time dedicated to GI proposals. 
 
-In Cycle 3 a new Key-Project proposal category was made available. These are programs that will had a maximum duration of 27 months and covered Cycle 3 and 4. They were large programs intended to have a significant scientific output.
+In Cycle 3, a new Key-Project proposal category was made available. These are programs that had a maximum duration of 27 months and covered Cycle 3 and 4. They were large programs intended to have a significant scientific output.
 
-In Cycle 4 a new Mini proposal category was made available. There programs required minimal resources, up to 50 20-second cadence targets and 1,000 2-minute cadence targets. Proposals in this category were not eligible for funding.
+In Cycle 4, a new Mini proposal category was made available. These programs required minimal resources, up to 50 20-second cadence targets and 1,000 2-minute cadence targets. Proposals in this category were not eligible for funding.
 
 No Key projects were solicited in Cycle 4.
 
 ## Extended mission results
 
-Cycle 3 received 150 proposal, with those selected covering a broad range of topics, from studies of comets in our own Solar System to searching for the counterparts of gamma-ray bursts. The full list of Cycle 3 proposals can be found on our [selection page](https://heasarc.gsfc.nasa.gov/docs/tess/approved-programs.html#cycle-3).
+Cycle 3 received 150 proposals, with those selected covering a broad range of topics, from studies of comets in our own Solar System to searching for the counterparts of gamma-ray bursts. The full list of Cycle 3 proposals can be found on our [selection page](https://heasarc.gsfc.nasa.gov/docs/tess/approved-programs.html#cycle-3).
 
-The Cycle 4 review was in March, with 146 proposals submitted. Of these proposals 12 were large, 110 small, and 24 mini - our most recent proposal category. These 146 proposals were split into one of four fields: Exoplanet (33), Stellar Astrophysics (62), Accretion and Extragalactic (19), and Ground-based Focused (32). The proposals were then assessed by one of seven panels.
+The Cycle 4 review was in March, with 146 proposals submitted. Of these proposals, 12 were large, 110 small, and 24 mini - our most recent proposal category. These 146 proposals were split into one of four fields: Exoplanet (33), Stellar Astrophysics (62), Accretion and Extragalactic (19), and Ground-based Focused (32). The proposals were then assessed by one of seven panels.
 
-In total 62 proposals were accepted with the following breakdown:
+In total, 62 proposals were accepted with the following breakdown:
 
 <div class="panel panel-primary">
   <div class="panel-heading">
@@ -134,6 +134,6 @@ In total 62 proposals were accepted with the following breakdown:
 
 Our [approved programs page](https://heasarc.gsfc.nasa.gov/docs/tess/approved-programs.html#cycle-4) provides the full list of accepted Cycle 4 proposals. 
 
-To date there have been over 700 publications utilizing the TESS data. Now in the extended mission the number of publications related to non-exoplanet science (57%) have overtaken those focusing on exoplanets only (43%), see our [publications page](https://heasarc.gsfc.nasa.gov/docs/tess/publications.html) for more information.
+To date, there have been over 700 publications utilizing the TESS data. Now, in the extended mission, the number of publications related to non-exoplanet science (57%) have overtaken those focusing on exoplanets only (43%). Check our [publications page](https://heasarc.gsfc.nasa.gov/docs/tess/publications.html) for more information.
 
 
