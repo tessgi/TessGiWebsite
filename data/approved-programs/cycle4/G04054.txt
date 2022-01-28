@@ -29,3 +29,21 @@ Summary: HD 38451 is an enigmatic A type star with a slow, irregular variability
 
 # Sector 045 targets observed (2 min: 1, 20 s: 0)
 29605594,86.6878,21.2003,8.65,G04054
+
+# Sector 043 targets observed (2 min: 1, 20 s: 0)
+29605594,86.6878,21.2003,8.65,G04054
+
+# Sector 044 targets observed (2 min: 1, 20 s: 0)
+29605594,86.6878,21.2003,8.65,G04054
+
+# Sector 045 targets observed (2 min: 1, 20 s: 0)
+29605594,86.6878,21.2003,8.65,G04054
+
+# Sector 043 targets observed (2 min: 1, 20 s: 0)
+29605594,86.6878,21.2003,8.65,G04054
+
+# Sector 044 targets observed (2 min: 1, 20 s: 0)
+29605594,86.6878,21.2003,8.65,G04054
+
+# Sector 045 targets observed (2 min: 1, 20 s: 0)
+29605594,86.6878,21.2003,8.65,G04054
