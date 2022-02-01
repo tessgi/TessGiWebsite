@@ -4,10 +4,7 @@ Save_as: extended.html
 [TOC]
 
 After the completion of its [prime mission](primary.html) in July of 2020, TESS entered its first extended mission which lasted approximately two years ending in September 2022.
-This first extension of the TESS mission was much more community focused with a large [Guest Investigator Program](proposing-investigations.html).
-
-The Cycle 3 call for proposals occurred on March 14th 2019, with the Cycle 4 on February 14th 2020.
-
+This first extension of the TESS mission involved an extensive [Guest Investigator Program](proposing-investigations.html) that was executed over two observing cycles.
 
 ## Observing strategy
 
@@ -51,7 +48,7 @@ TESS Cycle 4 was comprised of 16 Sectors instead of 13, and as such lasted ~15 m
 In Cycles 3 and 4, the following data products were produced, these are slightly different to those of the primary mission. 
 
 * 2-minute cadence data for a select number of targets.
-* 20-second cadence data for a select number of targets.
+* 20-second cadence data for a select number of targets. This was a new mode that was added in the extension of the mission.
 * 10-minute full frame images instead of 30-minute.
 
 The 20-second cadence mode was allotted to ~600 targets per sector.
@@ -67,13 +64,18 @@ In Cycle 4, a new Mini proposal category was made available. These programs requ
 
 No Key projects were solicited in Cycle 4.
 
+Ground-based observing focused programs were also solicited provided that they support the analysis and/or interpretation of TESS data. Up to $500K was used to support ground-based programs.
+
+During the extended mission new joint programs with the Swift and Fermi were also introduced. 
+
 ## Extended mission results
 
-Cycle 3 received 150 proposals, with those selected covering a broad range of topics, from studies of comets in our own Solar System to searching for the counterparts of gamma-ray bursts. The full list of Cycle 3 proposals can be found on our [selection page](https://heasarc.gsfc.nasa.gov/docs/tess/approved-programs.html#cycle-3).
+Cycle 3 received 155 proposals with those selected covering a broad range of topics, from studies of comets in our own Solar System to searching for the counterparts of gamma-ray bursts. Specifically these 155 proposals were split into one of five fields: Exoplanets (33), Stellar Astrophysics (81), Accretion and Extragalactic (15), Solar system (5), and Other (3) - which can refer to data analysis studies etc. Of these proposals 23 were ground-based focused. 
 
-The Cycle 4 review was in March, with 146 proposals submitted. Of these proposals, 12 were large, 110 small, and 24 mini - our most recent proposal category. These 146 proposals were split into one of four fields: Exoplanet (33), Stellar Astrophysics (62), Accretion and Extragalactic (19), and Ground-based Focused (32). The proposals were then assessed by one of seven panels.
 
-In total, 62 proposals were accepted with the following breakdown:
+In Cycle 4, 146 proposals were submitted with 24 of these being mini proposals - our newest proposal category, and 32 ground-based focused. The 146 proposals were split once again into the five fields outlined above with the following breakdown: Exoplanet (37), Stellar Astrophysics (91), Accretion and Extragalactic (15), Solar system (0), and Other (3). 
+
+In total, 50 proposals were selected from Cycle 3 and 62 in Cycle 4. The accepted proposals had the followng breakdown:
 
 <div class="panel panel-primary">
   <div class="panel-heading">
@@ -88,52 +90,50 @@ In total, 62 proposals were accepted with the following breakdown:
 
        <thead>
        <tr>
-       <th style="vertical-align: middle;">Category</th>
+       <th style="vertical-align: middle;">Cycle</th>
        <th style="vertical-align: middle;">Exoplanet</th>
        <th style="vertical-align: middle;">Stellar Astrophysics</th>
-       <th style="vertical-align: middle;"></p>Accretion and Extragalactic</th>
-       <th style="vertical-align: middle;">Ground-based Focused:</th>
+       <th style="vertical-align: middle;">Accretion and Extragalactic</th>
+       <th style="vertical-align: middle;">Solar system</th>
+       <th style="vertical-align: middle;">Other</th>
        </tr>
        </thead>
 
        <tr>  
-       <td>Large</td>
-       <td>3</td> 
-       <td>1</td>
-       <td>1</td>
+       <td>3</td>
+       <td>17</td> 
+       <td>25</td>
+       <td>5</td>
        <td>2</td>
+       <td>1</td>
        </tr>
        
         <tr>  
-       <td>Small</td>
-       <td>8</td> 
-       <td>18</td>
        <td>4</td>
-       <td>8</td>
-       </tr>
-       
-        <tr>  
-       <td>Mini</td>
-       <td>4</td> 
-       <td>11</td>
-       <td>2</td>
+       <td>19</td> 
+       <td>38</td>
+       <td>4</td>
        <td>0</td>
+       <td>1</td>
        </tr>
        
         <tr>  
        <td><b>Total:</b></td>
-       <td><b>15</b></td> 
-       <td><b>30</b></td>
-       <td><b>7</b></td>
-       <td><b>10</b></td>
+       <td><b>36</b></td> 
+       <td><b>63</b></td>
+       <td><b>9</b></td>
+       <td><b>2</b></td>
+       <td><b>2</b></td>
        </tr>
        
      </table>
 </div>
 </div>
 
-Our [approved programs page](https://heasarc.gsfc.nasa.gov/docs/tess/approved-programs.html#cycle-4) provides the full list of accepted Cycle 4 proposals. 
+Our [approved programs page](https://heasarc.gsfc.nasa.gov/docs/tess/approved-programs.html) provides the full list of accepted [Cycle 3]((https://heasarc.gsfc.nasa.gov/docs/tess/approved-programs.html#cycle-3)) and [Cycle 4]((https://heasarc.gsfc.nasa.gov/docs/tess/approved-programs.html#cycle-4)) proposals. 
 
-To date, there have been over 700 publications utilizing the TESS data. Now, in the extended mission, the number of publications related to non-exoplanet science (57%) have overtaken those focusing on exoplanets only (43%). Check our [publications page](https://heasarc.gsfc.nasa.gov/docs/tess/publications.html) for more information.
+Note that Cycle 4 was the first call in which all proposals were reviewed using a dual anonymous approach. Proposals submitted in all future cycles will be reviewed under these conditions. 
+
+To date, there have been over 700 publications utilizing the TESS data. Now, in the extended mission, the number of publications related to non-exoplanet science have overtaken those focusing on exoplanets only. Check our [publications page](https://heasarc.gsfc.nasa.gov/docs/tess/publications.html) for more information.
 
 

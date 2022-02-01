@@ -3,17 +3,17 @@ Save_as: second-extended.html
 
 [TOC]
 
-TESS completed its [prime mission](primary.html) in July of 2020 and then entered its [first extended mission](extended.html) which completed in September, 2022. Given the success of the first extended mission, TESS was granted its second extension which will begin directly after the first. 
+TESS completed its [prime mission](primary.html) in July of 2020 and then entered its [first extended mission](extended.html) which completes in September, 2022. 
 
-This second extended mission will last approximately three years and will continue to scan the sky for exoplanets and transient events. Again this mission extension will be more community focused with a large [Guest Investigator program](proposing-investigations.html) running through Cycles 5, 6, and 7.
+A second extended mission is planned and will last approximately three years during which it will continue to scan the sky for exoplanets and transient events. Again this mission extension will be extensively community focused with a large [Guest Investigator program](proposing-investigations.html) running through Cycles 5, 6, and 7.
 
-The [Cycle 5 call for proposals](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7b5032D2F8-F5DF-692A-8E7C-15A801B08DE1%7d&path=&method=init) occurred on November 23rd, 2021.
+The [Cycle 5 call for proposals](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7b5032D2F8-F5DF-692A-8E7C-15A801B08DE1%7d&path=&method=init) was released on November 23rd, 2021.
 
 ## Observing strategy
 
 TESS Cycle 5 will observe fields in both the Northern and Southern Ecliptic Hemispheres and be collected during the first year of the second extended mission, from September 2022 until September 2023. It will cover sectors 56 through 69.
 
-The pontings for Cycle 5 can be found in the table below which contains the details of TESS spacecraft orientation for Year 5. Columns are Sector number, Start and End dates of the Sector, R.A, Dec, and roll angle in degrees (J2000) of the spacecraft, and then the same for the four camera boresights. Note: All future values are provisional and may be changed, although there are currently no plans to do so.
+The pontings for Cycle 5 can be found in the table below which contains the details of TESS spacecraft orientation. Note: All future values are provisional and may be changed, although there are currently no plans to do so.
 
 <div class="panel panel-primary">
   <div class="panel-heading">
@@ -27,11 +27,11 @@ The pontings for Cycle 5 can be found in the table below which contains the deta
     <tr>
       <th style="vertical-align: middle;">Sector</th>
       <th style="vertical-align: middle;">Dates</th>
-      <th style="vertical-align: middle;">Spacecraft</th>
-      <th style="vertical-align: middle;">Camera 1</th>
-      <th style="vertical-align: middle;">Camera 2</th>
-      <th style="vertical-align: middle;">Camera 3</th>
-      <th style="vertical-align: middle;">Camera 4</th>
+      <th style="vertical-align: middle;">Spacecraft R.A and Dec </th>
+      <th style="vertical-align: middle;">Roll Angle: Camera 1</th>
+      <th style="vertical-align: middle;">Roll Angle: Camera 2</th>
+      <th style="vertical-align: middle;">Roll Angle: Camera 3</th>
+      <th style="vertical-align: middle;">Roll Angle: Camera 4</th>
     </tr>
   </thead>
 
@@ -178,6 +178,10 @@ The pontings for Cycle 5 can be found in the table below which contains the deta
 	</div>
 </div>
 
+
+*Table of Cycle 5 pointings. All positions and roll angles are given in degrees (J2000).*
+
+
 The location of the sectors is also shown in the figures below.
 
 <center>
@@ -191,7 +195,7 @@ The location of the sectors is also shown in the figures below.
 *A depiction of the survey sectors for Cycle 5. Credit: Provided by  TESS MIT.*
 
 
-## New observations and opportunities
+## Cycle 5 Highlights
 
 The following data products will be available in Cycles 5.
 
@@ -204,6 +208,8 @@ The 20-second cadence mode will be allotted to ~2,000 targets per sector, with ~
 In Cycle 5 Key-Project proposal categories will once again be available. These are programs will have a maximum duration of 36 months and as such cover Cycle 5 and 6+.
 
 Ground-based observing focused programs are also solicited provided that they support the analysis and/or interpretation of TESS data. Up to $500K will be used to support ground-based programs.
+
+In addition to joint Swift and Fermi programs, Cycle 5 (and beyond) will solicit a new NICER joint program. 
 
 As in the first extended mission, TESS will observe each sector continuously for two spacecraft orbits, ~27 days.
 Data are planned to be downloaded twice per orbit, approximately every 7 days. 
