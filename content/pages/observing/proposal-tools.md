@@ -178,7 +178,7 @@ The following figure provides an example of a CTL visualization that can be made
 
 <br/>
 <img class="img-responsive" style="max-width:87%;" src="images/giprogram/filtergraph_CTLv8.01_top_400K_stars.png">
-* CTL-8 visualization generated using TIC/CTL Filtergraph portal. The
+*CTL-8 visualization generated using TIC/CTL Filtergraph portal. The
 figure shows the distribution of stars in the CTL-8 in equatorial
 coordinates. The color bar represents the targets' TESS
 magnitudes. There are fewer stars in the Galactic plane due to
