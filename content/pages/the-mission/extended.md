@@ -66,12 +66,11 @@ No Key projects were solicited in Cycle 4.
 
 Ground-based observing focused programs were also solicited provided that they support the analysis and/or interpretation of TESS data. Up to $500K was used to support ground-based programs.
 
-During the extended mission new joint programs with the Swift and Fermi were also introduced. 
+During the extended mission new joint programs with Swift and Fermi were also introduced. 
 
 ## Extended mission results
 
 Cycle 3 received 155 proposals with those selected covering a broad range of topics, from studies of comets in our own Solar System to searching for the counterparts of gamma-ray bursts. Specifically these 155 proposals were split into one of five fields: Exoplanets (33), Stellar Astrophysics (81), Accretion and Extragalactic (15), Solar system (5), and Other (3) - which can refer to data analysis studies etc. Of these proposals 23 were ground-based focused. 
-
 
 In Cycle 4, 146 proposals were submitted with 24 of these being mini proposals - our newest proposal category, and 32 ground-based focused. The 146 proposals were split once again into the five fields outlined above with the following breakdown: Exoplanet (37), Stellar Astrophysics (91), Accretion and Extragalactic (15), Solar system (0), and Other (3). 
 
@@ -134,6 +133,6 @@ Our [approved programs page](https://heasarc.gsfc.nasa.gov/docs/tess/approved-pr
 
 Note that Cycle 4 was the first call in which all proposals were reviewed using a dual anonymous approach. Proposals submitted in all future cycles will be reviewed under these conditions. 
 
-To date, there have been over 700 publications utilizing the TESS data. Now, in the extended mission, the number of publications related to non-exoplanet science have overtaken those focusing on exoplanets only. Check our [publications page](https://heasarc.gsfc.nasa.gov/docs/tess/publications.html) for more information.
+To date, there have been over 800 publications utilizing the TESS data. Now, in the extended mission, the number of publications related to non-exoplanet science have overtaken those focusing on exoplanets only. Check our [publications page](https://heasarc.gsfc.nasa.gov/docs/tess/publications.html) for more information.
 
 
