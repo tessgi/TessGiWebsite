@@ -147,19 +147,13 @@ KEY_INFORMATION = (
 
 # Defines the "important dates" box on the front page
 IMPORTANT_DATES = (
-            ('<b>4th January 2022</b>',
-             'Last day to register for the AAS #239',
-             'https://aas.org/meetings/aas239/register',),)
+    ('<b>18th March 2022</b>',
+             'Cycle 5 call for proposals deadline',
+             'https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=807371/solicitationId=%7B5032D2F8-F5DF-692A-8E7C-15A801B08DE1%7D/viewSolicitationDocument=1/D.10%20TESS%20Cycle_5_Amend49.pdf',),
+            )
 
 # Defines the "meetings" box on the front page
-MEETINGS = (
-           ('<b>12 January 2022</b>',
-             'AAS #239 Splinter Session: Science from the TESS Extended Mission',
-             'https://submissions.mirasmart.com/AAS239/itinerary/EventDetail.aspx?evt=137',),
-            ('<b>13th-17th December 2021</b>',
-             'AGU Fall Meeting',
-             'https://www.agu.org/Fall-Meeting',),
-            )
+MEETINGS = ()
 
 # Defines the "related websites" listing in the footer of all pages
 RELATEDSITES = (

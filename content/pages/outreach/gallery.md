@@ -6,9 +6,17 @@ Save_as: gallery.html
 ##TESS outreach products
 The TESS GI office has developed some new outreach products for the community. We hope that you enjoy them and can make use of them for your own events. 
 
+<<<<<<< HEAD
+=======
+<center><b>
+[TESS Extended Mission](images/TESS-extended-mission.pdf) 
+<img class="img-responsive" style="width:60%;"  src="images/TESS-extended-mission.jpg">  
+</b></center>
+
+>>>>>>> main
 [Early Career Pamphlet](images/Early-FIN2.pdf) | [Citizen Science Pamphlet](images/Citizenscience-FIN2.pdf) |
 :-------------------------|:-------------------------
-<img class="img-responsive" style="max-width:90%;" src="images/early.png"> | <img class="img-responsive" style="max-width:90%;" src="images/citizen.png">
+<img class="img-responsive" style="max-width:90%;" src="images/early.png"> | <img class="img-responsive" style="max-width:90%;" src="images/citizen.png"> 
 
 [Northern Vista](images/Northernsky-FIN.pdf) | [Old Faithful](images/Oldfaithful-FIN.pdf) |
 :-------------------------|:-------------------------
@@ -18,10 +26,11 @@ The TESS GI office has developed some new outreach products for the community. W
 :-------------------------|:-------------------------
 <img class="img-responsive" style="max-width:100%;" src="images/Riverofyoungstars-FIN.jpg"> | <img class="img-responsive" style="max-width:100%;" src="images/Triplesystem-FIN.jpg">
 
-<center>
-[Survivor](images/Survivor-FIN.pdf)
-<img class="img-responsive" style="max-width:50%;" src="images/Survivor-FIN.jpg" > 
-</center>
+<center><b>
+[Survivor](images/Survivor-FIN.pdf)  
+<img class="img-responsive" style="width:50%;" src="images/Survivor-FIN.jpg"> 
+</b></center>
+
 
 ## TESS gallery
 A gallery of TESS videos, animations, still images, and other resources are maintained by NASA Goddard's Scientific Visualization Studio (SVS). Visit the [TESS gallery](https://svs.gsfc.nasa.gov/Gallery/TESS.html) to access the latest graphics that are downloadable in a wide range of formats.

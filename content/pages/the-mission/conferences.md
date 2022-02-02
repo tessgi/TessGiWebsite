@@ -5,7 +5,13 @@ Save_as: conferences.html
 
 <table class="table table-striped table-hover" style="max-width:55em;">
 
-
+  <tr>
+    <td style="width: 9em;">December 2021</td>
+    <td style="width: 25em;">AGU Fall Meeting</a></td>
+    <td><a
+     href='https://www.agu.org/Fall-Meeting'>website</a></td>
+  </tr>
+  
    <tr>
     <td style="width: 9em;">August 2021</td>
     <td style="width: 25em;">TESS Science Conference II</a></td>
