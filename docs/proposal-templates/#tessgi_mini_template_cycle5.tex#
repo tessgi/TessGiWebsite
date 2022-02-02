@@ -1,0 +1,256 @@
+%% LaTeX template for the science justification & technical
+%% feasibility to be submitted as part of a TESS Guest Investigator
+%% Program proposal. This template is based on the proposal template
+%% used by the NuSTAR mission.
+%%
+%% TESS Guest Investigator Proposal Cycle 5 template
+%% V1.0
+%% 2017-08-04
+%% V1.1
+%% 2019-02-07
+%% V1.2
+%% 2019-10-27
+%% V1.3
+%% 2020-11-02
+%% V1.4
+%% 2021-12-03
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%% DOCUMENT FORMAT %%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%% The default font was chosen to be easily readable while allowing
+%% sufficient material to be included.
+
+%% Please note that the proposal will be printed on US Letter size paper,
+%% 8.5 in x 11 in, and that formatting the text for other sizes will
+%% generally cause layout problems and may result in text being cut
+%% off near the edges. PLEASE DO NOT CHANGE THE 'LETTERPAPER' OPTION
+%% IN THE DOCUMENTCLASS COMMAND. 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%% Default format: 12pt single column %%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%% Minimum margin size is 1 inch from top, bottom, and sides.
+%% Font size: see NASA Guidebook for Proposers 
+%%(https://www.hq.nasa.gov/office/procurement/nraguidebook/proposer2018.pdf).
+
+\documentclass[letterpaper,12pt]{article}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%% HOW TO INCLUDE FIGURES %%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%% Please see the ``Included packages'' section below.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%% Included packages %%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\usepackage{graphics,graphicx}
+\usepackage[colorlinks]{hyperref}
+\hypersetup{urlcolor=blue}
+\usepackage{cleveref}
+
+%% Feel free to modify the included packages list to use your
+%% favorite packages. 
+
+%% In the graphics and graphicx packages, Postscript and eps figures
+%% can be included using the \includegraphics command. The graphics
+%% package is part of standard LaTeX2e and provides a basic way of including a
+%% figure. The graphicx package is not standard, but extends the
+%% \includegraphics command to make it more user-friendly. If graphicx
+%% is not available on your system please remove it from the list of
+%% included packages above.  
+
+%% Syntax:
+%% In the graphics package:
+%%
+%% \begin{figure}
+%% \includegraphics[llx,lly][urx,ury]{file}
+%% \end{figure}
+%%
+%% where ll denotes 'lower left' and ur 'upper right' and the x and y
+%% values are the coordinates of the PostScript bounding box in
+%% points. There are 72 points in an inch.
+%%
+%% In the graphicx package:
+%% 
+%% \begin{figure}
+%% \includegraphics[key=val,key=val,...]{file}
+%% \end{figure}
+%%
+%% where some of the useful keys are: angle, width, height,
+%% keepaspectratio (='true' or 'false') and scale. Bounding box values
+%% can be given as [bb=llx lly urx ury].
+%%
+%% In either case you have to use LaTeX figure placement commands to
+%% position the figure on the page; \includegraphics will not do
+%% that. Both these commands also have other options that are listed
+%% in the LaTeX manual (for the graphics package) and in 'The LaTeX
+%% Graphics Companion' (for the graphicx package).
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%% Page dimensions %%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\setlength{\textwidth}{6.5in} 
+\setlength{\textheight}{9in}
+\setlength{\topmargin}{-0.0625in} 
+\setlength{\oddsidemargin}{0in}
+\setlength{\evensidemargin}{0in} 
+\setlength{\headheight}{0in}
+\setlength{\headsep}{0in} 
+\setlength{\hoffset}{0in}
+\setlength{\voffset}{0in}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%% Section heading format %%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\makeatletter
+\renewcommand{\section}{\@startsection%
+{section}{1}{0mm}{-\baselineskip}%
+{0.5\baselineskip}{\normalfont\Large\bfseries}}%
+\makeatother
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%% Some Useful Abbreviations %%%%% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newcommand{\tess}{{\it TESS}}
+\newcommand{\jwst}{{\it JWST}}
+\newcommand{\kepler}{{\it Kepler}}
+\newcommand{\ktwo}{{K2}}
+\newcommand{\hst}{{\it HST}}
+\newcommand{\swift}{{\it Swift}}
+\newcommand{\integral}{{\it INTEGRAL}}
+\newcommand{\nustar}{{\it NuSTAR}}
+\newcommand{\fermi}{{\it Fermi}}
+\newcommand{\nicer}{{\it NICER}}
+\newcommand{\ms}{$M_{\odot}$}
+\newcommand{\rs}{$R_{\odot}$}
+\newcommand{\ls}{$L_{\odot}$}
+\newcommand{\re}{$R_{\oplus}$}
+\newcommand{\me}{$M_{\oplus}$}
+\newcommand{\kms}{km~s$^{-1}$}
+\newcommand{\fluxcgs}{ergs~s$^{-1}$~cm$^{-2}$}
+\newcommand{\lumcgs}{ergs~s$^{-1}$}
+\newcommand{\rj}{$R_{\textrm{\scriptsize Jup}}$}
+\newcommand{\mj}{$M_{\textrm{\scriptsize Jup}}$}
+\newcommand{\msec}{m~s$^{-1}$}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%% Start of document %%%%% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+\pagestyle{plain}
+\pagenumbering{arabic}
+
+
+ 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%% Title of proposal %%%%% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{center} 
+\bfseries\uppercase{%
+%%
+%% ENTER TITLE OF PROPOSAL BELOW THIS LINE
+REPLACE THIS LINE WITH YOUR MINI PROPOSAL TITLE
+%%
+%%
+}
+\end{center}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%% Body of science justification %%%%%
+%%%%% and technical feasibility     %%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%% The text below should be commented out before submitting your proposal %%%%% 
+\noindent{The recommended sections for a \tess\ GI proposal are shown below. Feel free to change section 
+headings as necessary, but this is the suggested minimal information that should be included in the proposal. 
+This Science/Technical section of the proposal is limited to 2 pages. Figures are included in these page limits, but not references or a (sample) target table. \\
+
+\noindent Note that the Phase-1 proposal review will be done in a dual-anonymous fashion and follow the guidelines listed below:
+\begin{itemize}
+    \item Proposals should eliminate language that identifies the proposers or institution, as discussed in the \href{https://science.nasa.gov/researchers/dual-anonymous-peer-review}{Guidelines for Anonymous Proposals}.
+    \item PIs are required to upload a one-page Team Expertise PDF through a separate upload when submitting the science justification into ARK/RPS.
+    \item Proposals that do not follow these dual-anonymous guidelines may be returned without review.
+\end{itemize}
+
+\noindent Mini proposals are intended for requests for a small number of target slots and require minimal resources, up to 50 20-second cadence targets and 1,000 2-minute cadence targets. Proposals in this category are not eligible for funding.\\ 
+
+\noindent Mini proposals cannot have Targets of Opportunity, a joint component with \hst, \swift, \fermi, or \nicer or have a ground-based component. 
+ } 
+%%%%% The text above should be commented out before submitting your proposal %%%%% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+\section{Scientific Justification and Perceived Impact}
+
+Provide text and figures that justify the scientific need for new \tess\ observations and analyses here. In particular, justify your choice of new 2~min or 20~s cadence observations. If you will also be making use of the 200~s FFIs for your research, make it clear why the \tess\ FFI data are suitable for your science.
+
+
+Summarize the expected science return of the proposed investigations and the expected benefit to the community.
+
+
+
+\section{Analysis Plan and Technical Feasibility}
+
+Discuss how you plan to analyze the \tess\ data. Provide text and figures showing that the proposed \tess\ investigations are feasible; consider the 
+\tess\ survey strategy, target observability, and required signal-to-noise, etc. The \tess\ Science 
+Support Center (\href{https://heasarc.gsfc.nasa.gov/docs/tess/}{TSSC}) makes several tools available to help estimate these quantities. 
+
+
+\section{References}
+
+List of references. References {\it are {\bf not} included} when considering the
+proposal page limit. References in the text should be in the number format, and in the references list as:
+
+[1] Person A, Person B, Person C, et al., 2016, ApJ 200, 231, 2\\
+[2] Person D \& Person E, 1912, Nature 495, 452
+
+
+\section{Target Table}
+
+When necessary to justify your proposal, provide a list of targets using the below example as a template for format. This target table is designed to aid reviewers and need only provide a representative sample of the complete target list uploaded to RPS. Full target tables should be submitted electronically with the Phase-1 proposal. Please limit any target table included here to only 1 page. The table is not included in the page limit of the Science/Technical section. 
+
+
+\begin{center}
+\begin{tabular}{ | c | c | c | c | c | c | c | }
+\hline
+TIC ID          &      Common      &     RA             &      Dec          &      TESS       &       Obj.        &      Comments \\       
+                    &      Name           &     (deg)          &      (deg)        &      mag         &       Type       &                         \\     
+\hline
+\hline
+388857263  &  Prox Cen           &  217.428793  &  -62.679592  &  7.36             &    M Dwarf    & 2 min cad., RV planet \\ \hline
+353622691  &  BL Lac               &   330.6803807    &   42.2777717    &   13.1  &   AGN            &    20 s cad.                                 \\ \hline
+                    &                           &                       &                      &                      &                     &                                     \\ \hline
+                    &                           &                       &                      &                      &                     &                                     \\ \hline
+                    &                           &                       &                      &                      &                     &                                     \\ \hline
+\end{tabular}
+\end{center}   
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%% End of document %%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\end{document}
+
