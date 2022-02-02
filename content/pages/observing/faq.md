@@ -16,15 +16,15 @@ The Transiting Exoplanet Survey Satellite (TESS) is a NASA-sponsored Astrophysic
 
 **What was the first extension of the TESS mission?**
 
-In July of 2020 TESS finished its primary mission and entered into its [first extended mission](extended.html). The first extension lasts until September 2022, and is driven largely by the guest investigator [guest investigator program](https://heasarc.gsfc.nasa.gov/docs/tess/proposing-investigations.html) program.
+In July of 2020 TESS finished its primary mission and entered into its [first extended mission](extended.html). The first extension lasts until September 2022, and is driven largely by the guest investigator [Guest Investigator Program](https://heasarc.gsfc.nasa.gov/docs/tess/proposing-investigations.html) program.
 
 **What is the second extension of the TESS mission?**
 
-Given the success of the first extended mission, TESS was granted its second extension which began in September 2022. Like the first, the second is driven by the guest investigator [guest investigator program](https://heasarc.gsfc.nasa.gov/docs/tess/proposing-investigations.html) program.
+TESS will enter its second extension of the mission in September 2022. Like the first, the second is driven by the Guest Investigator [guest investigator program](https://heasarc.gsfc.nasa.gov/docs/tess/proposing-investigations.html) program.
 
 **Will there be opportunities for Guest Investigators to propose for short-cadence target observations and/or funding in the second extended mission?**
 
-Yes! The GI program is continuing and is a large part of the second extension. The Cycle 5 call was made in November of 2021 and can be found on [NSPIRES](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7b5032D2F8-F5DF-692A-8E7C-15A801B08DE1%7d&path=&method=init). Through this call the community can submit proposals for short-cadence target observations and/or funding. 
+Yes! The GI program is continuing and is a large part of the second extension. The Cycle 5 call was made in November of 2021 and can be found on [NSPIRES](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7b5032D2F8-F5DF-692A-8E7C-15A801B08DE1%7d&path=&method=init). Through this call the community can submit proposals for short-cadence target observations, 200 second FFI's, and/or funding. 
 
 **Where is TESS pointing now?**
 
@@ -32,7 +32,7 @@ The current status of the TESS spacecraft can be found at [the MIT website](http
 
 **Where is TESS pointing in its second extended mission?**
 
-The observing strategy for Cycle 5 has not yet been finalized but it will point in both the northern and southern ecliptic hemispheres. The observing plan for Cycle 5 will be posted [online](https://tess.gsfc.nasa.gov) once finalized.
+The observing strategy for Cycle 5 can be found on the [second extended mission page](seond-extended.html) and will point in both the northern and southern ecliptic hemispheres. 
 
 **What are the TESS data products?**
 
@@ -41,11 +41,13 @@ Within the [primary mission](primary.html) the data products included:
 	- 30-minute full frame images.
 
 In the [first extended mission](extended.html) the data products available are:
+
 	- 20 second cadence data, allotted to ~1000 targets per sector.
 	- 2-minute cadence data for a select number of targets.
 	- 10-minute full frame images.
 	
 In the [second extended mission](second-extended.html) the data products available are:
+
 	- 20 second cadence data.
 	- 2-minute cadence data for a select number of targets.
 	- 200-second full frame images.
@@ -84,6 +86,7 @@ In Cycle 5 there will be ~2,000 target awarded through the GI program.
 In Cycle 5 there will be ~8,000 pre-selected targets within the field.
 
 **Are there any restrictions on the types of targets that can be proposed through the TESS GI program?**
+
 There are not.
 
 **What if I can do my science with TESS full frame images, and don't need to propose for short-cadence targets?**
