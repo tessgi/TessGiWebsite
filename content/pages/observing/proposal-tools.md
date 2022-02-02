@@ -165,7 +165,7 @@ This code is build using the algorithms from the TESS Input Catalog publication 
 
 This is a High Precision TESS pointing tool. It will convert target
 coordinates given in Right Ascension and Declination to TESS detector
-pixel coordinates for both the [prime](primary.html) mission and the first year of the [extended](extended.html). It can also query MAST to
+pixel coordinates for the [prime](primary.html) mission, [first extension](extended.html), and [second extension](second-extend.html). It can also query MAST to
 obtain detector pixel coordinates for a star by TIC ID only. It provides the target ecliptic coordinates, sector number, camera number, detector number, and pixel column and row.
 If there is no output, then the target is not visible to TESS.
 
@@ -178,7 +178,7 @@ The following figure provides an example of a CTL visualization that can be made
 
 <br/>
 <img class="img-responsive" style="max-width:87%;" src="images/giprogram/filtergraph_CTLv8.01_top_400K_stars.png">
-* CTL-8 visualization generated using TIC/CTL Filtergraph portal. The
+*CTL-8 visualization generated using TIC/CTL Filtergraph portal. The
 figure shows the distribution of stars in the CTL-8 in equatorial
 coordinates. The color bar represents the targets' TESS
 magnitudes. There are fewer stars in the Galactic plane due to

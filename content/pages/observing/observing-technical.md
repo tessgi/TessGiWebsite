@@ -66,7 +66,7 @@ Each camera has a lens hood to reduce the scattered light from the Earth and the
 
 *A movie of how scattered light hits the CCD's in sector 19.*
 
-For more information about scatterd light see section 7.3 of the [instrument handbook](https://archive.stsci.edu/missions/tess/doc/TESS_Instrument_Handbook_v0.1.pdf)
+For more information about scattered light see section 7.3 of the [instrument handbook](https://archive.stsci.edu/missions/tess/doc/TESS_Instrument_Handbook_v0.1.pdf)
 
 
 ### Cosmic rays
@@ -75,4 +75,4 @@ Cosmic-ray hits on the TESS CCD's are a significant source of noise. For FFIs th
 For more information about cosmic-ray mitigation please see section 5.1 of the [instrument handbook]
 (https://archive.stsci.edu/files/live/sites/mast/files/home/missions-and-data/active-missions/tess/_documents/TESS_Instrument_Handbook_v0.1.pdf).
 
-Note that for the 20 second cadenced data produced in Cycles 3 and 4, cosmic-ray mitigation is turned off.
+Note that for the 20 second cadenced data produced in Cycles 3+, cosmic-ray mitigation is turned off.

@@ -12,35 +12,46 @@ Save_as: faq.html
 
 **What is TESS?**
 
-The Transiting Exoplanet Survey Satellite (TESS) is a NASA-sponsored Astrophysics Explorer-class mission. The TESS mission objective is to search for planets transiting near by stars via an almost all-sky survey. TESS is now coming to the end of its its primary two year mission (started in July 25, 2018). During this time TESS has detected thousands of candidates (as of May 26th 2020). For more information about the TESS primary mission please visit the NASA TESS [homepage](https://heasarc.gsfc.nasa.gov/docs/tess/objectives.html)
+The Transiting Exoplanet Survey Satellite (TESS) is a NASA-sponsored Astrophysics Explorer-class mission. The TESS mission objective is to search for planets transiting near by stars via an almost all-sky survey. TESS is now coming to the end of its its primary two year mission (started in July 25, 2018). During this time TESS has detected thousands of candidates (as of May 26th 2020). For more information about the TESS mission please visit the NASA TESS [homepage](https://heasarc.gsfc.nasa.gov/docs/tess/objectives.html)
 
-**What is the TESS extended mission?**
+**What was the first extension of the TESS mission?**
 
-In July of 2020 TESS finished its primary mission and entered into its extended mission. The extended mission will last until September 2022, and is driven largely by the guest investigator [guest investigator program](https://heasarc.gsfc.nasa.gov/docs/tess/proposing-investigations.html) program.
+In July of 2020 TESS finished its primary mission and entered into its [first extended mission](extended.html). The first extension lasts until September 2022, and is driven largely by the guest investigator [Guest Investigator Program](https://heasarc.gsfc.nasa.gov/docs/tess/proposing-investigations.html) program.
 
-**Will there be opportunities for Guest Investigators to propose for short-cadence target observations and/or funding in the extended mission?**
+**What is the second extension of the TESS mission?**
 
-Yes! The GI program is continuing and is a large part of the extended mission. First year (Cycle 3) proposals have already been called for and time allocated, but the Cycle 4 call is now out. Through this call the community can submit proposals for short-cadence target observations and/or funding. for additional information on how to apply for TESS Cycle 4 please see the [TESS Cycle 4 call](https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId=%7B4B9CAAB3-D398-183A-B1F3-EF963DF415C7%7D&path=open).
+TESS will enter its second extension of the mission in September 2022. Like the first, the second is driven by the Guest Investigator [guest investigator program](https://heasarc.gsfc.nasa.gov/docs/tess/proposing-investigations.html) program.
+
+**Will there be opportunities for Guest Investigators to propose for short-cadence target observations and/or funding in the second extended mission?**
+
+Yes! The GI program is continuing and is a large part of the second extension. The Cycle 5 call was made in November of 2021 and can be found on [NSPIRES](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7b5032D2F8-F5DF-692A-8E7C-15A801B08DE1%7d&path=&method=init). Through this call the community can submit proposals for short-cadence target observations, 200 second FFI's, and/or funding. 
 
 **Where is TESS pointing now?**
 
 The current status of the TESS spacecraft can be found at [the MIT website](https://tess.mit.edu/observations/).
 
-**Where is TESS pointing in its extended mission?**
+**Where is TESS pointing in its second extended mission?**
 
-The observing strategy for Cycle 3 has been finalized and can be found on the [MIT observations page](https://tess.mit.edu/observations/). Cycle 4 is still being finalized and will be announced soon. 
-
+The observing strategy for Cycle 5 can be found on the [second extended mission page](seond-extended.html) and will point in both the northern and southern ecliptic hemispheres. 
 
 **What are the TESS data products?**
 
 Within the [primary mission](primary.html) the data products included:
-	- 2-minute cadence data for a select number of targets
-	- 30-minute full frame images.
 
-In the [extended mission](extended.html) the data products available are:
-	- 20 second cadence data, allotted to ~1000 targets per sector.
-	- 2-minute cadence data for a select number of targets
-	- 10-minute full frame images.
+- 2-minute cadence data for a select number of targets.
+-  30-minute full frame images.
+
+In the [first extended mission](extended.html) the data products available are:
+
+- 20 second cadence data, allotted to ~1000 targets per sector.
+- 2-minute cadence data for a select number of targets.
+- 10-minute full frame images.
+	
+In the [second extended mission](second-extended.html) the data products available are:
+
+- 20 second cadence data.
+- 2-minute cadence data for a select number of targets.
+- 200-second full frame images.
 
 **Can I use TESS data for my own science?**
 Yes! TESS data are made publicly available at the [MAST](https://archive.stsci.edu/tess/) for anyone to use. There is no proprietary period on TESS data.
@@ -65,22 +76,23 @@ Yes! You can propose to use archival data or to perform other TESS-related inves
 
 [More information can be found here](proposing-investigations.html). 
 
-
 ## Proposing short-cadence targets
 
 **How many TESS 20-second target slots will be available to TESS Guest Investigators?**
-There will be ~600 target slots in each sector.
+
+In Cycle 5 there will be ~2,000 target awarded through the GI program.
 
 **How many TESS 2-minute target slots will be available to TESS Guest Investigators?**
-There will be a ten times increase in the number of 2-minute cadenced targets in the GI program, ~16,000 target slots in each sector.
+
+In Cycle 5 there will be ~8,000 pre-selected targets within the field.
 
 **Are there any restrictions on the types of targets that can be proposed through the TESS GI program?**
+
 There are not.
 
 **What if I can do my science with TESS full frame images, and don't need to propose for short-cadence targets?**
 
 Such proposals may request funding only, and will be allowed under the TESS GI program.
-
 
 **What if I have an interesting and timely target that needs to be observed quickly and in short-cadence?**
 
@@ -96,9 +108,9 @@ Yes. TESS Guest Investigators at U.S.-based Institutions may apply for funding t
 
  * Small proposals ~ $70,000. (per award)
  * Large proposals ~ $250,000 (per award)
- * Ground-based projects - up to $500,000 (in total for this catagory)
+ * Ground-based projects - up to $500,000 (in total for this category)
+ * Key projects ~ $250,000 (per year)
  
-
 **Will proposals asking for FFI-only data be funded?**
 
 Yes! [More information can be found here](proposing-investigations.html). 

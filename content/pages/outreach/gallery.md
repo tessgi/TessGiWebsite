@@ -6,11 +6,14 @@ Save_as: gallery.html
 ##TESS outreach products
 The TESS GI office has developed some new outreach products for the community. We hope that you enjoy them and can make use of them for your own events. 
 
+<<<<<<< HEAD
+=======
 <center><b>
 [TESS Extended Mission](images/TESS-extended-mission.pdf) 
 <img class="img-responsive" style="width:60%;"  src="images/TESS-extended-mission.jpg">  
 </b></center>
 
+>>>>>>> main
 [Early Career Pamphlet](images/Early-FIN2.pdf) | [Citizen Science Pamphlet](images/Citizenscience-FIN2.pdf) |
 :-------------------------|:-------------------------
 <img class="img-responsive" style="max-width:90%;" src="images/early.png"> | <img class="img-responsive" style="max-width:90%;" src="images/citizen.png"> 
