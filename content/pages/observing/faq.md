@@ -37,20 +37,21 @@ The observing strategy for Cycle 5 can be found on the [second extended mission 
 **What are the TESS data products?**
 
 Within the [primary mission](primary.html) the data products included:
-	- 2-minute cadence data for a select number of targets.
-	- 30-minute full frame images.
+
+- 2-minute cadence data for a select number of targets.
+-  30-minute full frame images.
 
 In the [first extended mission](extended.html) the data products available are:
 
-	- 20 second cadence data, allotted to ~1000 targets per sector.
-	- 2-minute cadence data for a select number of targets.
-	- 10-minute full frame images.
+- 20 second cadence data, allotted to ~1000 targets per sector.
+- 2-minute cadence data for a select number of targets.
+- 10-minute full frame images.
 	
 In the [second extended mission](second-extended.html) the data products available are:
 
-	- 20 second cadence data.
-	- 2-minute cadence data for a select number of targets.
-	- 200-second full frame images.
+- 20 second cadence data.
+- 2-minute cadence data for a select number of targets.
+- 200-second full frame images.
 
 **Can I use TESS data for my own science?**
 Yes! TESS data are made publicly available at the [MAST](https://archive.stsci.edu/tess/) for anyone to use. There is no proprietary period on TESS data.
