@@ -986,6 +986,20 @@ oscillations of stars.
 </td>
 </tr>
 
+ <tr>
+    <td style="width: 15em;"><a
+    href='https://github.com/keatonb/TESS_PRF'>TESS_PRF</a></td>
+    <td>Tools to display the TESS pixel response function (PRF) at any location on the detector.
+</td>
+</tr>
+
+ <tr>
+    <td style="width: 15em;"><a
+    href='https://github.com/CheerfulUser/TESSreduce'>TESSreduce</a></td>
+    <td>This builds on lightkurve, allowing the user to reduce TESS data while preserving transient signals. The user can supply a TPF or give coordinates and sector to construct a TPF with TESScut. The background subtraction accounts for the smooth background and detector straps. Alongside background subtraction TESSreduce also aligns images, performs difference imaging, and can even detect transient events!
+</td>
+</tr>
+
 </table>
 
 
@@ -1071,19 +1085,7 @@ Fourier-free Asteroseismology: uses celerite to model granulation and oscillatio
 </td>
 </tr>
 
- <tr>
-    <td style="width: 15em;"><a
-    href='https://github.com/keatonb/TESS_PRF'>TESS_PRF</a></td>
-    <td>Tools to display the TESS pixel response function (PRF) at any location on the detector.
-</td>
-</tr>
 
- <tr>
-    <td style="width: 15em;"><a
-    href='https://github.com/CheerfulUser/TESSreduce'>TESSreduce</a></td>
-    <td>This builds on lightkurve, allowing the user to reduce TESS data while preserving transient signals. The user can supply a TPF or give coordinates and sector to construct a TPF with TESScut. The background subtraction accounts for the smooth background and detector straps. Alongside background subtraction TESSreduce also aligns images, performs difference imaging, and can even detect transient events!
-</td>
-</tr>
 
 
 </table>
