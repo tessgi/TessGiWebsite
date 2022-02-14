@@ -13,14 +13,6 @@ Many tools are under development, and some are more robust than others. The TESS
 
 <table class="table table-striped table-hover" style="max-width:55em;">
 
-<!--   <tr>
-    <td style="width: 15em;"><a
-    href='http://pyke.keplerscience.org'>PyKE suite</a></td>
-    <td>The PyKE tools developed for the Kepler mission. <a
-    href='https://github.com/KeplerGO/PyKE'>The git repository can be
-    found here.</a> </td>
-  </tr> -->
-
 
  <tr>
     <td style="width: 15em;"><a
@@ -35,197 +27,44 @@ Many tools are under development, and some are more robust than others. The TESS
 
  <tr>
     <td style="width: 15em;"><a
-    href='https://github.com/nksaunders/cave'>cave</a></td>
-    <td>Crowded Aperture Variability Extraction.
-</td>
- </tr>
-
-  <tr>
-    <td style="width: 15em;"><a
-    href='https://github.com/rodluger/everest'>EVEREST</a></td>
-    <td>EPIC Variability Extraction and Removal for Exoplanet Science Targets; Detrending of K2 light curves.
-</td>
-  </tr>
-
- <tr>
-    <td style="width: 15em;"><a
     href='https://github.com/hvidy/halophot/'>halophot</a></td>
-    <td>K2 Halo Photometry for very bright stars.
+    <td>K2 Halo Photometry for very bright stars. Can be applied to TESS data.
 </td>
  </tr>
-
-  <tr>
-    <td style="width: 15em;"><a
-    href='https://github.com/jvc2688/K2-CPM'>K2-CPM</a></td>
-    <td>K2 Causal Pixel Model.
-</td>
- </tr>
-
-  <tr>
-    <td style="width: 15em;"><a
-    href='https://github.com/petigura/k2phot'>k2phot</a></td>
-    <td>Routines for extracting lightcurves from K2 images.
-</td>
- </tr>
-
- <tr>
-    <td style="width: 15em;"><a
-    href='https://github.com/vincentvaneylen/k2photometry'>k2photometry</a></td>
-    <td>Read, reduce and detrend K2 photometry and search for transiting planets.
-</td>
-</tr>
-
- <tr>
-    <td style="width: 15em;"><a
-    href='https://github.com/FGCUStellarResearch/K2Pipeline'>K2Pipeline</a></td>
-    <td>Data reduction and detrending pipeline for K2 data in Matlab.
-</td>
-</tr>
-
-  <tr>
-    <td style="width: 15em;"><a
-    href='https://github.com/OxES/k2sc'>k2sc</a></td>
-    <td>K2 systematics correction via simultaneous modelling of stellar variability and jitter-dependent systematics using Gaussian Process regression.
-</td>
-  </tr>
-
 
   <tr>
     <td style="width: 15em;"><a
     href='https://github.com/saigrain/k2scTess'>k2scTess</a></td>
-    <td>TESS systematics correction via simultaneous modelling of stellar variability and jitter-dependent systematics using Gaussian Process regression.
+    <td>TESS systematics correction via simultaneous modeling of stellar variability and jitter-dependent systematics using Gaussian Process regression.
 </td>
   </tr>
-
- <tr>
-    <td style="width: 15em;"><a
-    href='https://github.com/benjaminpope/keplersmear'>keplersmear</a></td>
-    <td>Make light curves from Kepler and K2 collateral data.
-</td>
-</tr>
 
   <tr>
-    <td style="width: 15em;"><a
-    href='https://github.com/benmontet/nutella'>nutella</a></td>
-    <td>Point spreads for Kepler/K2 inference.
-</td>
-  </tr>
-
-
-
- <tr>
-    <td style="width: 15em;"><a
-    href='https://github.com/OxES/OxKeplerSC'>OxKeplerSC</a></td>
-    <td>Kepler jump and systematics correction using Variational Bayes and shrinkage priors.
-</td>
-</tr>
-
-
-
-
- <tr>
     <td style="width: 15em;"><a
     href='https://github.com/stephtdouglas/PySysRem'>PySysRem</a></td>
     <td>Correct systematic effects in large sets of photometric light curves.
 </td>
 </tr>
 
-
   <tr>
     <td style="width: 15em;"><a
     href='https://github.com/nksaunders/skope'>skope</a></td>
-    <td>Synthetic K2 objects for PLD experimentation.
+    <td>scope creates a forward model of telescope detectors with pixel sensitivity variation, and synthetic stellar targets with motion relative to the CCD. It allows the for the creation of light curves and as such simulation of Kepler/K2/TESS data.
 </td>
   </tr>
 
-
-
-
-
 </table>
-
-
-<!--
-* [PyKE suite](http://pyke.keplerscience.org)
-
-The PyKE tools developed for the Kepler mission. The git repository can be found [here](https://github.com/KeplerGO/PyKE)
-
-* [EVEREST](https://github.com/rodluger/everest)
-
-EPIC Variability Extraction and Removal for Exoplanet Science Targets; Detrending of K2 light curves
-
-* [k2sc](https://github.com/OxES/k2sc)
-
-K2 systematics correction via simultaneous modelling of stellar variability and jitter-dependent systematics using Gaussian Process regression
-
-
-* [nutella](https://github.com/benmontet/nutella)
-
-Point spreads for Kepler/K2 inference
-
-* [skope](https://github.com/nksaunders/skope)
-
-Synthetic K2 objects for PLD experimentation
-
-* [k2phot](https://github.com/petigura/k2phot)
-
-Routines for extracting lightcurves from K2 images
-
-* [K2-CPM](https://github.com/jvc2688/K2-CPM)
-
-K2 Causal Pixel Model
-
-* [halophot](https://github.com/hvidy/halophot/)
-
-K2 Halo Photometry for very bright stars
-
-* [cave](https://github.com/nksaunders/cave)
-
-Crowded Aperture Variability Extraction
-
-* [celerite-asteroseis](https://github.com/skgrunblatt/celerite-asteroseis)
-
-Transit fitting and basic time-domain asteroseismology using celerite and ktransit
-
-* [k2photometry](https://github.com/vincentvaneylen/k2photometry)
-
-Read, reduce and detrend K2 photometry and search for transiting planets
-
-* [keplersmear](https://github.com/benjaminpope/keplersmear)
-
-Make light curves from Kepler and K2 collateral data
-
-* [OxKeplerSC](https://github.com/OxES/OxKeplerSC)
-
-Kepler jump and systematics correction using Variational Bayes and shrinkage priors.
-
-* [K2Pipeline](https://github.com/FGCUStellarResearch/K2Pipeline)
-
-Data reduction and detrending pipeline for K2 data in Matlab
-
-* [PySysRem](https://github.com/stephtdouglas/PySysRem)
-
-Correct systematic effects in large set of photometric light curves
-
-* [astrobase](https://github.com/waqasbhatti/astrobase)
-
-lightcurve tools: periodograms (BLS, Lomb-Scargle, analysis of variance), simple detrending (AKA: fit high order polynomials), light-curve math: phase-folding, binning. Also, a server for vetting.
-Tutorial [here](github.com/waqasbhatti/astrobase-notebooks) -->
-
-
 
 ### Full frame image analysis
 
 <table class="table table-striped table-hover" style="max-width:55em;">
 
- 
   <tr>
     <td style="width: 15em;"><a
     href='https://github.com/ryanoelkers/DIA'>DIA</a></td>
     <td>Difference Imaging Analysis to extract a light curve from FFIs.
 </td>
  </tr>
-
 
   <tr>
     <td style="width: 15em;"><a
@@ -234,21 +73,7 @@ Tutorial [here](github.com/waqasbhatti/astrobase-notebooks) -->
 </td>
  </tr>
 
-  <tr>
-    <td style="width: 15em;"><a
-    href='https://github.com/benmontet/f3'>f3</a></td>
-    <td>Full Frame Fotometry from the Kepler Full Frame Images.
-</td>
-  </tr>
-
-
-  <tr>
-    <td style="width: 15em;"><a
-    href='https://github.com/jradavenport/FFIorBUST'>FFIorBUST</a></td>
-    <td>Make light curves from the Kepler Full Frame Images.
-</td>
-  </tr>
-
+ 
   <tr>
     <td style="width: 15em;"><a
     href='https://filtergraph.com/tess_ffi/'>Filtergraph</a></td>
@@ -257,7 +82,6 @@ Tutorial [here](github.com/waqasbhatti/astrobase-notebooks) -->
     href='http://adsabs.harvard.edu/abs/2018AJ....156..132O'>Oelkers & Stassun (2018).</a>
 </td>
   </tr>
-
 
   <tr>
     <td style="width: 15em;"><a
@@ -268,24 +92,12 @@ Tutorial [here](github.com/waqasbhatti/astrobase-notebooks) -->
 </td>
   </tr>
 
-
-
   <tr>
     <td style="width: 15em;"><a
     href='http://www2.iap.fr/users/alard/package.html'>ISIS</a></td>
     <td>Process CCD images using image subtraction.
 </td>
   </tr>
-
-
-
-  <tr>
-    <td style="width: 15em;"><a
-    href='https://github.com/dfm/kepcal'>kepcal</a></td>
-    <td>Self calibration using the Kepler FFIs.
-</td>
-</tr>
-
 
   <tr>
     <td style="width: 15em;"><a
@@ -301,7 +113,6 @@ Tutorial [here](github.com/waqasbhatti/astrobase-notebooks) -->
 </td>
 </tr>
 
-
   <tr>
     <td style="width: 15em;"><a
     href='https://mast.stsci.edu/tesscut/ '>TESSCut</a></td>
@@ -309,77 +120,27 @@ Tutorial [here](github.com/waqasbhatti/astrobase-notebooks) -->
     what sectors/cameras/detectors a target was observed in.
 </td>
   </tr>
+  
+  <tr>
+    <td style="width: 15em;"><a
+    href='https://github.com/keatonb/TESS_PRF'>TESS_PRF</a></td>
+    <td>Tools to display the TESS pixel response function (PRF) at any location on the detector.
+</td>
+</tr>
+
+ <tr>
+    <td style="width: 15em;"><a
+    href='https://github.com/CheerfulUser/TESSreduce'>TESSreduce</a></td>
+    <td>This builds on lightkurve, allowing the user to reduce TESS data while preserving transient signals. The user can supply a TPF or give coordinates and sector to construct a TPF with TESScut. The background subtraction accounts for the smooth background and detector straps. Alongside background subtraction TESSreduce also aligns images, performs difference imaging, and can even detect transient events!
+</td>
+</tr>
 
 </table>
 
 
-
-
-<!--
-
-* [f3](https://github.com/benmontet/f3)
-
-Full Frame Fotometry from the Kepler Full Frame Images
-
-* [DIA](https://github.com/ryanoelkers/DIA)
-
-Difference Imagine Analysis to extract a light curve from FFIs
-
-* TESSCut(coming soon)
-
-* [FFIorBUST](https://github.com/jradavenport/FFIorBUST)
-
-Make light curves from the Kepler Full Frame Images
-
-* [lightkurve](http://docs.lightkurve.org)
-
-Extract light curves from FFIs, package into TPFs
-
-* [kepcal](https://github.com/dfm/kepcal)
-
-Self calibration using the Kepler FFIs
-
-* [SpyFFI](https://github.com/zkbt/spyffi)
-
-Tools for simulating TESS imaging at multiple cadences, including cartoon light curves + jitter + focus drifts, cosmic rays
-
-* [ISIS](http://www2.iap.fr/users/alard/package.html)
-
-Process CCD images using image subtraction
-
-* [HOTPANTS](http://web.ipac.caltech.edu/staff/fmasci/home/astro_refs/HOTPANTSsw2011.pdf)
-
-High Order Transform of PSF and Template Subtraction; Similar method, but improvement on ISIS image subtraction processing. Doc for HOTPANTS [here](http://adsabs.harvard.edu/abs/2015ascl.soft04004B).
-
--->
-
 ### Positional tools
 
 <table class="table table-striped table-hover" style="max-width:55em;">
-
-
-
-  <tr>
-    <td style="width: 15em;"><a
-    href='https://github.com/stephtdouglas/k2-pix'>k2-pix</a></td>
-    <td>Overlay a sky survey image on a K2 target pixel stamp.
-</td>
-  </tr>
-
-
-  <tr>
-    <td style="width: 15em;"><a
-    href='https://github.com/KeplerGO/K2ephem'>k2ephem</a></td>
-    <td>Check whether a Solar System body is (or was) observable by K2.
-</td>
-  </tr>
-
-  <tr>
-    <td style="width: 15em;"><a
-    href='https://github.com/KeplerGO/K2fov'>k2fov</a></td>
-    <td>Check whether targets are in K2 FOV.
-</td>
-  </tr>
 
   <tr>
     <td style="width: 15em;"><a
@@ -390,55 +151,24 @@ High Order Transform of PSF and Template Subtraction; Similar method, but improv
 
   <tr>
     <td style="width: 15em;"><a
-    href='https://github.com/tessgi/tvguide'>tvguide</a></td>
+    href='https://heasarc.gsfc.nasa.gov/cgi-bin/tess/webtess/wtv.py'>Web TESS Viewing Tool (WTV)</a></td>
     <td>A tool for determining whether stars and galaxies are observable by TESS.
 </td>
   </tr>
+  
+   <tr>
+    <td style="width: 15em;"><a
+    href='https://github.com/tessgi/toco'>toco</a></td>
+    <td>A way to quickly see some info about a star based on it's TICID.
+</td>
+  </tr>
+  
 
 </table>
-
-
-
-<!--
-* [k2fov](https://github.com/KeplerGO/K2fov)
-
-Check whether targets are in K2 FOV 
-
-* [k2ephem](https://github.com/KeplerGO/K2ephem)
-
-Check whether a Solar System body is (or was) observable by K2 
-
-* [k2-pix](https://github.com/stephtdouglas/k2-pix)
-
-Overlay a sky survey image on a K2 target pixel stamp 
-
-* [k2flix](https://github.com/barentsen/k2flix)
-
-Create quicklook movies from the pixel data observed by Kepler/K2/TESS 
-
-* [k2mosaic](https://github.com/barentsen/k2mosaic)
-
-Mosaic Target Pixel Files (TPFs) obtained by Kepler/K2 into images and movies 
-
-* [tvguide](https://github.com/tessgi/tvguide)
-
-A tool for determining whether stars and galaxies are observable by TESS. 
-
-* [tess-point](https://github.com/christopherburke/tess-point)
--->
-
 
 ### Data handling
 
 <table class="table table-striped table-hover" style="max-width:55em;">
-
-
-  <tr>
-    <td style="width: 15em;"><a
-    href='https://github.com/KeplerGO/k2-quality-control'>k2-quality-control</a></td>
-    <td>Automated quality control of Kepler/K2 data products.
-</td>
-  </tr>
 
 
   <tr>
@@ -448,141 +178,7 @@ A tool for determining whether stars and galaxies are observable by TESS.
 </td>
   </tr>
 
-
-
-  <tr>
-    <td style="width: 15em;"><a
-    href='https://github.com/barentsen/k2mosaic'>k2mosaic</a></td>
-    <td>Mosaic Target Pixel Files (TPFs) obtained by Kepler/K2 into images and movies.
-</td>
-</tr>
-
-
-
- <tr>
-    <td style="width: 15em;"><a
-    href='https://github.com/KeplerGO/kadenza'>kadenza</a></td>
-    <td>Converts raw cadence target data from the Kepler space telescope into FITS files.
-</td>
-  </tr>
-
-
-  <tr>
-    <td style="width: 15em;"><a
-    href='https://github.com/christinahedges/kepFGS'>kepFGS</a></td>
-    <td>Tools to use the Kepler and K2 Fine Guidance Sensor data.
-</td>
-</tr>
-
- <tr>
-    <td style="width: 15em;"><a
-    href='https://github.com/timothydmorton/keputils'>keputils</a></td>
-    <td>Basic module for interaction with KOI and Kepler-stellar tables.
-</td>
-</tr>
-
-
-
-  <tr>
-    <td style="width: 15em;"><a
-    href='https://github.com/dfm/kplr'>kplr</a></td>
-    <td>Tools for working with Kepler data using Python.
-</td>
-  </tr>
-
-  <tr>
-    <td style="width: 15em;"><a
-    href='https://github.com/rodluger/k2plr'>k2plr</a></td>
-    <td>Fork of dfm/kplr with added K2 functionality.
-</td>
-  </tr>
-
- <tr>
-    <td style="width: 15em;"><a
-    href='https://github.com/amcody/SuperstampFITS'>SuperstampFITS</a></td>
-    <td>Create individual FITS files of K2 superstamp regions.
-</td>
-</tr>
-
-
-
-
 </table>
-
-
-
-<!--
-* [kplr](https://github.com/dfm/kplr)
-
-Tools for working with Kepler data using Python 
-
-* [k2plr](https://github.com/rodluger/k2plr)
-
-Fork of dfm/kplr with added k2 functionality 
-
-* [kepFGS}(https://github.com/christinahedges/kepFGS)
-
-Tools to use the Kepler and K2 Fine Guidance Sensor data 
--->
-
-
-<!--
-### Meta data
-
-<table class="table table-striped table-hover" style="max-width:55em;">
-
-  <tr>
-    <td style="width: 15em;"><a
-    href='https://github.com/KeplerGO/k2-quality-control'>k2-quality-control</a></td>
-    <td>Automated quality control of Kepler/K2 data products.
-</td>
-  </tr>
- 
-
- <tr>
-    <td style="width: 15em;"><a
-    href='https://github.com/KeplerGO/kadenza'>kadenza</a></td>
-    <td>Converts raw cadence target data from the Kepler space telescope into FITS files.
-</td>
-  </tr>
-
- <tr>
-    <td style="width: 15em;"><a
-    href='https://github.com/timothydmorton/keputils'>keputils</a></td>
-    <td>Basic module for interaction with KOI and Kepler-stellar tables.
-</td>
-</tr>
-
-
- <tr>
-    <td style="width: 15em;"><a
-    href='https://github.com/amcody/SuperstampFITS'>SuperstampFITS</a></td>
-    <td>Create individual FITS files of K2 superstamp regions.
-</td>
-</tr>
-
-
-</table>
--->
-
-
-<!--
-* [kadenza](https://github.com/KeplerGO/kadenza)
-
-Converts raw cadence target data from the Kepler space telescope into FITS files 
-
-* [k2-quality-control](https://github.com/KeplerGO/k2-quality-control)
-
-Automated quality control of Kepler/K2 data products 
-
-* [SuperstampFITS](https://github.com/amcody/SuperstampFITS)
-
-Create individual FITS files of K2 superstamp regions 
-
-* [keputils](https://github.com/timothydmorton/keputils)
-
-Basic module for interaction with KOI and Kepler-stellar tables 
--->
 
 ### Planet search, modeling, and vetting
 
@@ -596,16 +192,6 @@ Basic module for interaction with KOI and Kepler-stellar tables
 </td>
   </tr>
 
-
-
- 
-  <tr>
-    <td style="width: 15em;"><a
-    href='https://github.com/barentsen/dave'>DAVE</a></td>
-    <td>Discovery And Vetting of K2 Exoplanets.
-</td>
-  </tr>
-
   <tr>
     <td style="width: 15em;"><a
     href='https://github.com/3fon3fonov/exostriker'>ExoStriker</a></td>
@@ -613,43 +199,13 @@ Basic module for interaction with KOI and Kepler-stellar tables
 </td>
   </tr>
 
-
  <tr>
     <td style="width: 15em;"><a
     href='https://github.com/hpparvi/k2ps'>k2ps</a></td>
     <td>K2 planet search.
 </td>
   </tr>
-
-
-  <tr>
-    <td style="width: 15em;"><a
-    href='https://github.com/nasa/Kepler-FLTI'>Kepler-FLTI</a></td>
-    <td>Kepler Prime Flux-Level Transit Injection.
-</td>
-  </tr>
-
-  <tr>
-    <td style="width: 15em;"><a
-    href='https://github.com/nasa/kepler-robovetter'>kepler-robovetter</a></td>
-    <td>The Kepler prime robovetter.
-</td>
-</tr>
-
-  <tr>
-    <td style="width: 15em;"><a
-    href='https://github.com/nasa/KeplerPORTS'>KeplerPORTS</a></td>
-    <td>The Kepler pipeline.
-</td>
-</tr>
-
-  <tr>
-    <td style="width: 15em;"><a
-    href='https://github.com/dfm/ketu'>ketu</a></td>
-    <td>A search for transiting planets in K2 data.
-</td>
-  </tr>
-
+  
   <tr>
     <td style="width: 15em;"><a
     href='https://github.com/mrtommyb/ktransit'>ktransit</a></td>
@@ -659,18 +215,10 @@ Basic module for interaction with KOI and Kepler-stellar tables
 
  <tr>
     <td style="width: 15em;"><a
-    href='https://github.com/timothydmorton/koi-fpp'>koi-fpp</a></td>
-    <td>False positive probabilities for all KOIs.
-</td>
-  </tr>
-
- <tr>
-    <td style="width: 15em;"><a
     href='https://github.com/matiscke/lcps'>lcps</a></td>
     <td>A tool for pre-selecting light curves with possible transit signatures.
 </td>
   </tr>
-
 
   <tr>
     <td style="width: 15em;"><a
@@ -694,7 +242,6 @@ Basic module for interaction with KOI and Kepler-stellar tables
 </td>
   </tr>
 
-
  <tr>
     <td style="width: 15em;"><a
     href='https://github.com/petigura/terra'>terra</a></td>
@@ -708,8 +255,6 @@ Basic module for interaction with KOI and Kepler-stellar tables
     <td>Python interface to the TTVFast library.
 </td>
   </tr>
-
-
  
   <tr>
     <td style="width: 15em;"><a
@@ -718,145 +263,7 @@ Basic module for interaction with KOI and Kepler-stellar tables
 </td>
   </tr>
 
-
 </table>
-
-
-
-<!--
-* [PyTransit](https://github.com/hpparvi/PyTransit)
-
-Fast and easy transit light curve modeling using Python and Fortran 
-
-* [batman](https://github.com/lkreidberg/batman)
-
-Fast transit light curves models in Python 
-
-* [ktransit](https://github.com/mrtommyb/ktransit)
-
-A simple exoplanet transit modeling tool in python 
-
-* [planetplanet](https://github.com/rodluger/planetplanet)
-
-A general photodynamical code for exoplanet light curves 
-
-* [ketu](https://github.com/dfm/ketu)
-
-A search for transiting planets in K2 data 
-
-* [ttvfast-python](https://github.com/mindriot101/ttvfast-python)
-
-Python interface to the TTVFast library 
-
-* [terra](https://github.com/petigura/terra)
-
-Transit detection code 
-
-* [pysyzygy](https://github.com/rodluger/pysyzygy)
-
-A fast and general planet transit (syzygy) code written in C and in Python 
-
-* [k2ps](https://github.com/hpparvi/k2ps)
-
-K2 planet search 
-
-* [lcps](https://github.com/matiscke/lcps)
-
-A tool for pre-selecting light curves with possible transit signatures 
--->
-
-<!--
-### Vetting
-
-<table class="table table-striped table-hover" style="max-width:55em;">
-
- 
-  <tr>
-    <td style="width: 15em;"><a
-    href='https://github.com/barentsen/dave'>DAVE</a></td>
-    <td>Discovery And Vetting of K2 Exoplanets.
-</td>
-  </tr>
-  
-</table>
--->
-
-<!--
-* [DAVE](https://github.com/barentsen/dave)
-
-Discovery And Vetting of K2 Exoplanets
--->
-
-<!--
-### Population statistics
-
-<table class="table table-striped table-hover" style="max-width:55em;">
-
-  <tr>
-    <td style="width: 15em;"><a
-    href='https://github.com/nasa/Kepler-FLTI'>Kepler-FLTI</a></td>
-    <td>Kepler Prime Flux-Level Transit Injection.
-</td>
-  </tr>
-
-  <tr>
-    <td style="width: 15em;"><a
-    href='https://github.com/nasa/kepler-robovetter'>kepler-robovetter</a></td>
-    <td>The Kepler prime robovetter.
-</td>
-</tr>
-
-  <tr>
-    <td style="width: 15em;"><a
-    href='https://github.com/nasa/KeplerPORTS'>KeplerPORTS</a></td>
-    <td>The Kepler pipeline.
-</td>
-  </tr>
-
-  <tr>
-    <td style="width: 15em;"><a
-    href='https://github.com/timothydmorton/koi-fpp'>koi-fpp</a></td>
-    <td>False positive probabilities for all KOIs.
-</td>
-  </tr>
- 
-  <tr>
-    <td style="width: 15em;"><a
-    href='https://github.com/timothydmorton/VESPA'>VESPA</a></td>
-    <td>Calculating false positive probabilities for transit signals.
-</td>
-  </tr>
-
-
-</table>
-
--->
-
-<!--
-* [VESPA](https://github.com/timothydmorton/VESPA)
-
-Calculating false positive probabilities for transit signals 
-
-* [kepler-robovetter](https://github.com/nasa/kepler-robovetter)
-
-The Kepler prime robovetter 
-
-* [koi-fpp](https://github.com/timothydmorton/koi-fpp)
-
-False positive probabilities for all KOIs 
-
-* [KeplerPORTS](https://github.com/nasa/KeplerPORTS)
-
-The Kepler pipeline 
-
-* [Kepler-FLTI](https://github.com/nasa/Kepler-FLTI)
-
-Kepler Prime Flux-Level Transit Injection
--->
-
-
-
-
 
 ### Miscellaneous science tools
 
@@ -873,8 +280,8 @@ Kepler Prime Flux-Level Transit Injection
 
  <tr>
     <td style="width: 15em;"><a
-    href='https://github.com/jradavenport/appaloosa'>appaloosa</a></td>
-    <td>Python-based flare finding code for Kepler light curves.
+    href='https://github.com/ekaterinailin/AltaiPony>AltaiPony</a></td>
+    <td>Python-based flare finding code for Kepler/K2/TESS light curves.
 </td>
 </tr>
 
@@ -886,15 +293,6 @@ Kepler Prime Flux-Level Transit Injection
 </td>
  </tr>
 
-
- <tr>
-    <td style="width: 15em;"><a
-    href='https://github.com/jadilia/decatur'>decatur</a></td>
-    <td>Tidal synchronization of Kepler eclipsing binaries.
-</td>
-</tr>
-
-
  <tr>
     <td style="width: 15em;"><a
     href='https://emac.gsfc.nasa.gov/'>EMAC</a></td>
@@ -902,8 +300,6 @@ Kepler Prime Flux-Level Transit Injection
     Analysis Center (EMAC) serves as a repository and integration platform for modeling and analysis resources focused on the study of exoplanet characteristics and environments.
 </td>
 </tr>
-
-
 
  <tr>
     <td style="width: 15em;"><a
@@ -924,13 +320,6 @@ oscillations of stars.
     <td style="width: 15em;"><a
     href='https://github.com/danxhuber/isoclassify'>isoclassify</a></td>
     <td>Perform stellar classifications using isochrone grids.
-</td>
-  </tr>
-
- <tr>
-    <td style="width: 15em;"><a
-    href='https://github.com/ethankruse/kepler_orrery'>kepler_orrery</a></td>
-    <td>Make a Kepler orrery gif or movie of all the Kepler multi-planet systems. 
 </td>
   </tr>
 
@@ -986,69 +375,233 @@ oscillations of stars.
 </td>
 </tr>
 
- <tr>
-    <td style="width: 15em;"><a
-    href='https://github.com/keatonb/TESS_PRF'>TESS_PRF</a></td>
-    <td>Tools to display the TESS pixel response function (PRF) at any location on the detector.
-</td>
-</tr>
-
- <tr>
-    <td style="width: 15em;"><a
-    href='https://github.com/CheerfulUser/TESSreduce'>TESSreduce</a></td>
-    <td>This builds on lightkurve, allowing the user to reduce TESS data while preserving transient signals. The user can supply a TPF or give coordinates and sector to construct a TPF with TESScut. The background subtraction accounts for the smooth background and detector straps. Alongside background subtraction TESSreduce also aligns images, performs difference imaging, and can even detect transient events!
-</td>
-</tr>
 
 </table>
 
 
+### Kepler/K2 tools
 
-
-<!-- 
-* [isochrones](https://github.com/timothydmorton/isochrones)
-
-Pythonic stellar model grid access; easy MCMC fitting of stellar properties 
-
-* [ldtk](https://github.com/hpparvi/ldtk)
-
-Python toolkit for calculating stellar limb darkening profiles 
-
-* [isoclassify](https://github.com/danxhuber/isoclassify)
-
-Perform stellar classifications using isochrone grids 
-
-* [appaloosa](https://github.com/jradavenport/appaloosa)
-
-Python-based flare finding code for Kepler light curves 
-
-* [pymacula](https://github.com/timothydmorton/pymacula)
-
-Python wrapper for Macula analytic starspot code 
-
-* [MulensModel](https://github.com/rpoleski/MulensModel)
-
-Microlensing Modelling package 
-
-* [animate_spots](https://github.com/stephtdouglas/animate_spots)
-
-Make frames for animated gifs/movies showing a rotating spotted star 
-
-* [decatur](https://github.com/jadilia/decatur)
-
-Tidal synchronization of Kepler eclipsing binaries 
-
-* [FoFreeAST](https://github.com/skgrunblatt/FoFreeAST)
-
-Fourier-free Asteroseismology: uses celerite to model granulation and oscillations of stars 
--->
-
-
-<!--
-### Miscellaneous
-
+Although not directly applicable to TESS data, below we list some of the tools developed for Kepler/K2. 
+These tools may be modified to work with TESS. 
 
 <table class="table table-striped table-hover" style="max-width:55em;">
+<tr>
+    <td style="width: 15em;"><a
+    href='https://github.com/nksaunders/cave'>cave</a></td>
+    <td>Crowded Aperture Variability Extraction.
+</td>
+ </tr>
+
+  <tr>
+    <td style="width: 15em;"><a
+    href='https://github.com/rodluger/everest'>EVEREST</a></td>
+    <td>EPIC Variability Extraction and Removal for Exoplanet Science Targets; Detrending of K2 light curves.
+</td>
+  </tr>
+  
+   <tr>
+    <td style="width: 15em;"><a
+    href='https://github.com/jvc2688/K2-CPM'>K2-CPM</a></td>
+    <td>K2 Causal Pixel Model.
+</td>
+ </tr>
+
+  <tr>
+    <td style="width: 15em;"><a
+    href='https://github.com/petigura/k2phot'>k2phot</a></td>
+    <td>Routines for extracting lightcurves from K2 images.
+</td>
+ </tr>
+
+ <tr>
+    <td style="width: 15em;"><a
+    href='https://github.com/vincentvaneylen/k2photometry'>k2photometry</a></td>
+    <td>Read, reduce and detrend K2 photometry and search for transiting planets.
+</td>
+</tr>
+
+ <tr>
+    <td style="width: 15em;"><a
+    href='https://github.com/FGCUStellarResearch/K2Pipeline'>K2Pipeline</a></td>
+    <td>Data reduction and detrending pipeline for K2 data in Matlab.
+</td>
+</tr>
+
+  <tr>
+    <td style="width: 15em;"><a
+    href='https://github.com/OxES/k2sc'>k2sc</a></td>
+    <td>K2 systematics correction via simultaneous modelling of stellar variability and jitter-dependent systematics using Gaussian Process regression.
+</td>
+  </tr>
+
+<tr>
+    <td style="width: 15em;"><a
+    href='https://github.com/benjaminpope/keplersmear'>keplersmear</a></td>
+    <td>Make light curves from Kepler and K2 collateral data.
+</td>
+</tr>
+
+  <tr>
+    <td style="width: 15em;"><a
+    href='https://github.com/benmontet/nutella'>nutella</a></td>
+    <td>Point spreads for Kepler/K2 inference.
+</td>
+  </tr>
+
+ <tr>
+    <td style="width: 15em;"><a
+    href='https://github.com/OxES/OxKeplerSC'>OxKeplerSC</a></td>
+    <td>Kepler jump and systematics correction using Variational Bayes and shrinkage priors.
+</td>
+</tr>
+
+ <tr>
+    <td style="width: 15em;"><a
+    href='https://github.com/benmontet/f3'>f3</a></td>
+    <td>Full Frame Fotometry from the Kepler Full Frame Images.
+</td>
+  </tr>
+
+  <tr>
+    <td style="width: 15em;"><a
+    href='https://github.com/jradavenport/FFIorBUST'>FFIorBUST</a></td>
+    <td>Make light curves from the Kepler Full Frame Images.
+</td>
+  </tr>
+
+  <tr>
+    <td style="width: 15em;"><a
+    href='https://github.com/dfm/kepcal'>kepcal</a></td>
+    <td>Self calibration using the Kepler FFIs.
+</td>
+</tr>
+
+ <tr>
+    <td style="width: 15em;"><a
+    href='https://github.com/stephtdouglas/k2-pix'>k2-pix</a></td>
+    <td>Overlay a sky survey image on a K2 target pixel stamp.
+</td>
+  </tr>
+
+
+  <tr>
+    <td style="width: 15em;"><a
+    href='https://github.com/KeplerGO/K2ephem'>k2ephem</a></td>
+    <td>Check whether a Solar System body is (or was) observable by K2.
+</td>
+  </tr>
+
+  <tr>
+    <td style="width: 15em;"><a
+    href='https://github.com/KeplerGO/K2fov'>k2fov</a></td>
+    <td>Check whether targets are in K2 FOV.
+</td>
+  </tr>
+  
+    <tr>
+    <td style="width: 15em;"><a
+    href='https://github.com/KeplerGO/k2-quality-control'>k2-quality-control</a></td>
+    <td>Automated quality control of Kepler/K2 data products.
+</td>
+  </tr>
+
+  <tr>
+    <td style="width: 15em;"><a
+    href='https://github.com/barentsen/k2mosaic'>k2mosaic</a></td>
+    <td>Mosaic Target Pixel Files (TPFs) obtained by Kepler/K2 into images and movies.
+</td>
+</tr>
+
+ <tr>
+    <td style="width: 15em;"><a
+    href='https://github.com/KeplerGO/kadenza'>kadenza</a></td>
+    <td>Converts raw cadence target data from the Kepler space telescope into FITS files.
+</td>
+  </tr>
+
+  <tr>
+    <td style="width: 15em;"><a
+    href='https://github.com/christinahedges/kepFGS'>kepFGS</a></td>
+    <td>Tools to use the Kepler and K2 Fine Guidance Sensor data.
+</td>
+</tr>
+
+ <tr>
+    <td style="width: 15em;"><a
+    href='https://github.com/timothydmorton/keputils'>keputils</a></td>
+    <td>Basic module for interaction with KOI and Kepler-stellar tables.
+</td>
+</tr>
+
+  <tr>
+    <td style="width: 15em;"><a
+    href='https://github.com/dfm/kplr'>kplr</a></td>
+    <td>Tools for working with Kepler data using Python.
+</td>
+  </tr>
+
+  <tr>
+    <td style="width: 15em;"><a
+    href='https://github.com/rodluger/k2plr'>k2plr</a></td>
+    <td>Fork of dfm/kplr with added K2 functionality.
+</td>
+  </tr>
+
+ <tr>
+    <td style="width: 15em;"><a
+    href='https://github.com/amcody/SuperstampFITS'>SuperstampFITS</a></td>
+    <td>Create individual FITS files of K2 superstamp regions.
+</td>
+</tr>
+
+  <tr>
+    <td style="width: 15em;"><a
+    href='https://github.com/barentsen/dave'>DAVE</a></td>
+    <td>Discovery And Vetting of K2 Exoplanets.
+</td>
+  </tr>
+
+  <tr>
+    <td style="width: 15em;"><a
+    href='https://github.com/nasa/Kepler-FLTI'>Kepler-FLTI</a></td>
+    <td>Kepler Prime Flux-Level Transit Injection.
+</td>
+  </tr>
+
+  <tr>
+    <td style="width: 15em;"><a
+    href='https://github.com/nasa/kepler-robovetter'>kepler-robovetter</a></td>
+    <td>The Kepler prime robovetter.
+</td>
+</tr>
+
+  <tr>
+    <td style="width: 15em;"><a
+    href='https://github.com/nasa/KeplerPORTS'>KeplerPORTS</a></td>
+    <td>The Kepler pipeline.
+</td>
+</tr>
+
+  <tr>
+    <td style="width: 15em;"><a
+    href='https://github.com/dfm/ketu'>ketu</a></td>
+    <td>A search for transiting planets in K2 data.
+</td>
+  </tr>
+  
+   <tr>
+    <td style="width: 15em;"><a
+    href='https://github.com/timothydmorton/koi-fpp'>koi-fpp</a></td>
+    <td>False positive probabilities for all KOIs.
+</td>
+  </tr>
+
+ <tr>
+    <td style="width: 15em;"><a
+    href='https://github.com/jadilia/decatur'>decatur</a></td>
+    <td>Tidal synchronization of Kepler eclipsing binaries.
+</td>
+</tr>
 
  <tr>
     <td style="width: 15em;"><a
@@ -1057,73 +610,9 @@ Fourier-free Asteroseismology: uses celerite to model granulation and oscillatio
 </td>
   </tr>
 
-  <tr>
-    <td style="width: 15em;"><a
-    href='https://arxiv.org/abs/1804.10295'>limb darkening</a></td>
-    <td>Limb-darkening and gravity-darkening coefficients for TESS.
-</td>
-  </tr>
-
- <tr>
-    <td style="width: 15em;"><a
-    href='https://github.com/natashabatalha/PandExo'>PandExo</a></td>
-    <td>A community tool for transiting exoplanets with HST & JWST. 
-</td>
-  </tr>
-
- <tr>
-    <td style="width: 15em;"><a
-    href='https://github.com/LucaMalavolta/PyORBIT'>PyOrbit</a></td>
-    <td>General toolkit for modeling radial velocity data. 
-</td>
-</tr>
-
- <tr>
-    <td style="width: 15em;"><a
-    href='https://github.com/California-Planet-Search/radvel'>radvel</a></td>
-    <td>Simultaneously characterize the orbits of exoplanets and the noise induced by stellar activity.
-</td>
-</tr>
-
-
-
-
 </table>
--->
-
-<!-- * [limb darkening](https://arxiv.org/abs/1804.10295)
-
-Limb-darkening and gravity-darkening coeffts for TESS
-
-* [PandExo](https://github.com/natashabatalha/PandExo)
-
-A community tool for transiting exoplanets with JWST & HST 
-
-* [kepler_orrery](https://github.com/ethankruse/kepler_orrery)
-
-Make a Kepler orrery gif or movie of all the Kepler multi-planet systems 
-
-* [radvel](https://github.com/California-Planet-Search/radvel)
-
-General toolkit for modeling radial velocity data 
-
-* [PyOrbit](https://github.com/LucaMalavolta/PyORBIT)
-
-Simultaneously characterize the orbits of exoplanets and the noise induced by stellar activity.   -->
 
 
 
-<!--
-## Observation planning
-We currently have two piece of software available to assist with writing proposals: [tvguide](proposal-tools.html#tvguide) and [ticgen](proposal-tools.html#ticgen). These tools are described in our [proposal tools page](proposal-tools.html). We also have a [web tool](https://heasarc.gsfc.nasa.gov/cgi-bin/tess/webtess/wtv.py) that provides this functionality.
 
 
-## Data analysis
-The TESS Science Support Center will be providing software to analyze TESS data. This will be built upon the PyKE software created by the [Kepler Science Center](https://keplerscience.arc.nasa.gov).
-
-MAST will be providing open-source, Python software that will allow users to create custom cutouts of TESS Full-Frame Images given a
-coordinate and area on the sky. The software will provide cutouts of each 30-minute FFI in target pixel file (TPF) FITS format. There are plans to offer additional functionality, such as quick-look light curves from the cutouts, and source catalogs that can be overlaid on the returned files.
-
-
-* Tutorials
-We will be creating tutorials to assist with using the available software. -->
