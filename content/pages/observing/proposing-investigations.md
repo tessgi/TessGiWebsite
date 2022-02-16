@@ -78,7 +78,7 @@ Proposals for joint HST observations should be submitted through the HST GO prog
 
 Proposals for joint Fermi observations may be submitted through the Fermi GI program, and the TESS targets will be recommended by that review. Funds for selected programs will be awarded from the Fermi project for joint investigations in this case (and no funds will be awarded from the TESS project). Alternatively, proposals that plan to make use of Fermi data may be submitted to the TESS GI program. TESS GI funding is available to successful U.S.-based investigators who submit a joint TESS-Fermi proposal. If accepted as a TESS proposal no funds will be awarded from Fermi project. 
 
-The TESS GI program can also award Swift observations through a joint program with the Swift mission. Up to 100 ks Swift time will be available through this program. 
+The TESS GI program can also award Swift observations through a joint program with the Swift mission. A minimum of 100 ks Swift time will be available through this program. 
 In addition a new joint proposal category has been established with the Neutron Star Interior Composition ExploreR (NICER). Up to 300 ksec of NICER time will be available in Cycle 5 through the TESS GI Program. 
 
 Proposals wishing to take advantage of the joint TESS Swift/NICER programs must adhere to the following constraints:
