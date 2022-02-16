@@ -20,7 +20,7 @@ Important information and useful tools for Cycle 5 proposals are highlighted in 
 
   <tr>
     <td style="width: 15em;">
-     The Cycle 5 proposal deadline is on March 18th, 2022 at 4.30pm EST. Proposals must be submitted through the  <a href="https://heasarc.gsfc.nasa.gov/ark/rps/">ARK/RPS site</a>.</td>
+     The Cycle 5 proposal deadline is on March 18th, 2022 at 4.30pm EDT. Proposals must be submitted through the  <a href="https://heasarc.gsfc.nasa.gov/ark/rps/">ARK/RPS site</a>.</td>
   </tr>
 
   <tr>
