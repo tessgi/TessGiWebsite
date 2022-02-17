@@ -17,3 +17,4 @@ tmp
 upload.sh
 .DS_Store
 #*
+.ipynb_checkpoints/
