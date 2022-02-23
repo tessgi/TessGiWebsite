@@ -7,7 +7,7 @@ in August 2015, using pelican-bootstrap and flatly.
 >
 
 <head>
-    <title>TESS Software Tools - TESS Science Support Center</title>
+    <title>Community tools old - TESS Science Support Center</title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
@@ -37,16 +37,16 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <link href="./images/favicon.png" rel="icon">
 
-<link rel="canonical" href="./pages/tess-software-tools.html">
+<link rel="canonical" href="./pages/community-tools-old.html">
 
         <meta name="author" content="Thomas Barclay" />
-        <meta name="description" content="Observation planning Web TESS Viewing (WTV) tool The WTV tool allows users to check whether a target potentially falls within the TESS field of view (FOV). In addition, WTV can be used to calculate the brightness of a target in the TESS bandpass. TESS-Point This is a High Precision TESS …" />
+        <meta name="description" content="This list includes tools and software developed specifically for TESS data, as well as tools developed for Kepler and K2 that can be used or modified for TESS. The data formats are similar for Kepler/K2 and TESS: target pixel files (TPF) and full frame images (FFIs). Kepler and K2 …" />
 
     <meta property="og:site_name" content="TESS" />
     <meta property="og:type" content="article"/>
-    <meta property="og:title" content="TESS Software Tools"/>
-    <meta property="og:url" content="./pages/tess-software-tools.html"/>
-    <meta property="og:description" content="Observation planning Web TESS Viewing (WTV) tool The WTV tool allows users to check whether a target potentially falls within the TESS field of view (FOV). In addition, WTV can be used to calculate the brightness of a target in the TESS bandpass. TESS-Point This is a High Precision TESS …" />
+    <meta property="og:title" content="Community tools old"/>
+    <meta property="og:url" content="./pages/community-tools-old.html"/>
+    <meta property="og:description" content="This list includes tools and software developed specifically for TESS data, as well as tools developed for Kepler and K2 that can be used or modified for TESS. The data formats are similar for Kepler/K2 and TESS: target pixel files (TPF) and full frame images (FFIs). Kepler and K2 …" />
         <meta property="og:image"
               content="./images/logo-for-twitter.jpeg"/>
 
@@ -158,45 +158,21 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <div class="col-sm-9" data-spy="scroll" data-target="#sidebarCol">
         <section id="content" class="body">
-            <h1 class="entry-title">TESS Software Tools</h1>
+            <h1 class="entry-title">Community tools old</h1>
             <div class="entry-content">
                 
-<h2 id="observation-planning">Observation planning</h2>
-<h3 id="web-tess-viewing-wtv-tool"><a href="https://heasarc.gsfc.nasa.gov/cgi-bin/tess/webtess/wtv.py">Web TESS Viewing (WTV) tool</a></h3>
-<p>The WTV tool allows users to check whether a target potentially falls within the
-TESS field of view (FOV). In addition, WTV can be used to calculate
-the brightness of a target in the TESS bandpass. </p>
-<h3 id="tess-point"><a href="https://github.com/christopherburke/tess-point">TESS-Point</a></h3>
-<p>This is a High Precision TESS pointing tool. It will convert target
-coordinates given in Right Ascension and Declination to TESS detector
-pixel coordinates for the first 13 TESS observing sectors (Year 1)
-focused on the southern ecliptic plane. It can also query MAST to
-obtain detector pixel coordinates for a star by TIC ID only. It provides the target ecliptic coordinates, sector number, camera number, detector number, and pixel column and row. If there is no output, then the target is not visible to TESS.</p>
-<p>See our <a href="proposal-tools.html">proposal tools page</a> for additional resources that aid in the preparation of GI proposals.</p>
-<h2 id="tess-data-analysis">TESS data analysis</h2>
-<h3 id="lightkurve"><a href="https://docs.lightkurve.org">lightkurve</a></h3>
-<p>Lightkurve is a Python-based package developed by the Kepler/K2 Guest
-Observer (GO) Office for use by the community to work with Kepler and K2 data. The TESS GI Office has partnered with the Kepler/K2 GO Office to develop lightkurve for use with TESS data. </p>
-<p>Lighkurve functionality:</p>
-<ul>
-<li>Reading, writing, and interacting with pipeline products (TPFs, LightCurve files, etc) </li>
-<li>Extracting lightcurves from pixels using custom aperture photometry or custom PSF fitting. </li>
-<li>Removing trends or correcting systematics using widely-used, non-controversial methods (SavGol, CBVs, SFF, ...)</li>
-</ul>
-<p>The lightkurve git repository is <a href="https://github.com/KeplerGO/lightkurve">here</a>.</p>
-<h3 id="tutorials">Tutorials</h3>
-<p>Several tutorials exist to introduce the general user to TESS data
-analysis.</p>
-<ul>
-<li><a href="https://outerspace.stsci.edu/display/TESS/6.0+-+Data+Search+Tutorials">Data search tutorials from MAST can be found here</a>.</li>
-<li><a href="https://github.com/spacetelescope/notebooks/tree/master/notebooks/MAST/TESS">Python notebooks from MAST can be found here</a>.</li>
-<li><a href="http://docs.lightkurve.org/">Python notebooks from the Kepler/K2 GO Office can be found here</a>.</li>
-</ul>
-<h2 id="community-tools">Community tools</h2>
 <p>This list includes tools and software developed specifically for TESS data, as well as tools developed for Kepler and K2 that can be used or modified for TESS. The data formats are similar for Kepler/K2 and TESS: target pixel files (TPF) and full frame images (FFIs). Kepler and K2 had three data modes: long cadence (30 min) and short cadence (1 min) postage stamps (TPFs), and
-quarterly FFIs (30 min). TESS has two data modes, short cadence (2 min) postage stamps and 30 min cadence FFIs. Note that many tools are under development, and some are more robust than others. The TESS GI Office plans to update this list as new tools, software, and tutorials become available. If you have any tools you would like us to include, please contact us at <a href="mailto:tesshelp@bigbang.gsfc.nasa.gov">tesshelp@bigbang.gsfc.nasa.gov</a>.</p>
+quarterly FFIs (30 min). TESS has two data modes, short cadence (2 min and 20 second) postage stamps, and 30 min, 10 min, or 200 sec cadence FFIs. Note that 30 min cadenced data is only available for TESS Cycles 1 and 2, the 10 min cadence data in Cycles 3 and 4, and the 200 sec data in Cycle 5+.</p>
+<p>Many tools are under development, and some are more robust than others. The TESS GI Office plans to update this list as new tools, software, and tutorials become available. If you have any tools you would like us to include, please contact us at <a href="mailto:tesshelp@bigbang.gsfc.nasa.gov">tesshelp@bigbang.gsfc.nasa.gov</a>.</p>
 <h3 id="detrending-and-analysis">Detrending and analysis</h3>
 <table class="table table-striped table-hover" style="max-width:55em;">
+<!--   <tr>
+    <td style="width: 15em;"><a
+    href='http://pyke.keplerscience.org'>PyKE suite</a></td>
+    <td>The PyKE tools developed for the Kepler mission. <a
+    href='https://github.com/KeplerGO/PyKE'>The git repository can be
+    found here.</a> </td>
+  </tr> -->
 <tr>
 <td style="width: 15em;"><a href="https://github.com/waqasbhatti/astrobase">astrobase</a></td>
 <td>Light curve tools: periodograms (BLS, Lomb-Scargle, analysis of
@@ -421,7 +397,7 @@ Difference Imagine Analysis to extract a light curve from FFIs
 
 Make light curves from the Kepler Full Frame Images
 
-* [lightkurve](http://lightkurve.keplerscience.org)
+* [lightkurve](http://docs.lightkurve.org)
 
 Extract light curves from FFIs, package into TPFs
 
@@ -626,6 +602,11 @@ Basic module for interaction with KOI and Kepler-stellar tables
 </td>
 </tr>
 <tr>
+<td style="width: 15em;"><a href="https://github.com/3fon3fonov/exostriker">ExoStriker</a></td>
+<td>Performs N-body simulations, and models the RV stellar reflex motion caused by dynamically interacting planets in multi-planetary systems.
+</td>
+</tr>
+<tr>
 <td style="width: 15em;"><a href="https://github.com/hpparvi/k2ps">k2ps</a></td>
 <td>K2 planet search.
 </td>
@@ -749,7 +730,6 @@ A tool for pre-selecting light curves with possible transit signatures
     <td>Discovery And Vetting of K2 Exoplanets.
 </td>
   </tr>
-
 
 </table>
 -->
@@ -907,6 +887,16 @@ oscillations of stars.
 <td>Simultaneously characterize the orbits of exoplanets and the noise induced by stellar activity.
 </td>
 </tr>
+<tr>
+<td style="width: 15em;"><a href="https://github.com/keatonb/TESS_PRF">TESS_PRF</a></td>
+<td>Tools to display the TESS pixel response function (PRF) at any location on the detector.
+</td>
+</tr>
+<tr>
+<td style="width: 15em;"><a href="https://github.com/CheerfulUser/TESSreduce">TESSreduce</a></td>
+<td>This builds on lightkurve, allowing the user to reduce TESS data while preserving transient signals. The user can supply a TPF or give coordinates and sector to construct a TPF with TESScut. The background subtraction accounts for the smooth background and detector straps. Alongside background subtraction TESSreduce also aligns images, performs difference imaging, and can even detect transient events!
+</td>
+</tr>
 </table>
 <!-- 
 * [isochrones](https://github.com/timothydmorton/isochrones)
@@ -987,6 +977,8 @@ Fourier-free Asteroseismology: uses celerite to model granulation and oscillatio
 </tr>
 
 
+
+
 </table>
 -->
 <!-- * [limb darkening](https://arxiv.org/abs/1804.10295)
@@ -1030,25 +1022,12 @@ We will be creating tutorials to assist with using the available software. -->
             <div class="nav nav-stacked fixed" id="mytoc">
             <div class="toc">
 <ul>
-<li><a href="#observation-planning">Observation planning</a><ul>
-<li><a href="#web-tess-viewing-wtv-tool">Web TESS Viewing (WTV) tool</a></li>
-<li><a href="#tess-point">TESS-Point</a></li>
-</ul>
-</li>
-<li><a href="#tess-data-analysis">TESS data analysis</a><ul>
-<li><a href="#lightkurve">lightkurve</a></li>
-<li><a href="#tutorials">Tutorials</a></li>
-</ul>
-</li>
-<li><a href="#community-tools">Community tools</a><ul>
 <li><a href="#detrending-and-analysis">Detrending and analysis</a></li>
 <li><a href="#full-frame-image-analysis">Full frame image analysis</a></li>
 <li><a href="#positional-tools">Positional tools</a></li>
 <li><a href="#data-handling">Data handling</a></li>
 <li><a href="#planet-search-modeling-and-vetting">Planet search, modeling, and vetting</a></li>
 <li><a href="#miscellaneous-science-tools">Miscellaneous science tools</a></li>
-</ul>
-</li>
 </ul>
 </div>
             </div>
