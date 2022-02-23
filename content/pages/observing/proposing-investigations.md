@@ -153,6 +153,7 @@ additional columns that should be included if necessary are
 * Special handling flag
 * 20-second cadence flag
 * Swift time request (ksec)
+* NICER time request (ksec)
 * Remarks
 
 If a proposed target does not appear in the TIC, the information required to append the target to the TIC must be provided.
