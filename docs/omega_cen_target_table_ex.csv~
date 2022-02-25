@@ -1,0 +1,2 @@
+TIC_Number,R.A_(J2000),Dec._(J2000),pmRA_(mas/yr),pmDEC_(mas/yr),TESSmag,Common_Name,Extended_Flag,Special_Handling_Flag,20_Second_Cadence_Flag,Swift_Time_Request_(ksec),NICER_Time_Request_(ksec),Remarks
+,201.69696,-47.4795,0,0,5.3,Omega Centauri,Y,Y,N,0.0,0.0,Observe whole globular cluster that will saturate. Requires a special pixel mask. Radius of cluster is 36 arcmin.
