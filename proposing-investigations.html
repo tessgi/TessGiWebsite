@@ -266,16 +266,16 @@ In addition a new joint proposal category has been established with the Neutron 
 <p>Investigations focused on the analysis of archival TESS data from Cycles 1, 2, 3 and/or 4, are not compliant with this solicitation and should be submitted to the ROSES-2022 Astrophysics Data Analysis Program (ADAP; D.2) or the Exoplanet Research Program (XRP; E.3).</p>
 <h2 id="target-selection">Target selection</h2>
 <p>Proposals requesting postage stamp targets are required to submit a target list. Targets must be submitted electronically, at the same time as the science proposal, via the <a href="https://heasarc.gsfc.nasa.gov/ark/rps/">Remote Proposal System (RPS)</a>. </p>
-<p>Investigators can use the tools listed on the <a href="data-access.html">Accessing TESS data products page</a> to aid them in selecting targets. Note the TESS GI program office requires that if a target is in the <a href="data-access.html#TESS Input Catalog (TIC)">TIC</a>, GI proposers must provide only the following columns from the TIC in comma separated value (csv) format:</p>
+<p>Investigators can use the tools listed on the <a href="data-access.html">Accessing TESS data products page</a> to aid them in selecting targets. Note the TESS GI program office requires that if a target is in the <a href="data-access.html#TESS Input Catalog (TIC)">TIC</a>, GI proposers must provide the following columns from the TIC in comma separated value (csv) format:</p>
 <ul>
 <li>TIC ID (if available)</li>
-<li>Right Ascension (decimal degrees)</li>
-<li>Declination (decimal degrees)</li>
+<li>Right Ascension (J2000, decimal degrees)</li>
+<li>Declination (J2000, decimal degrees)</li>
 <li>Proper motion in Right Ascension (mas/yr)</li>
 <li>Proper motion in Declination  (mas/yr)</li>
 <li>TESS mag</li>
 </ul>
-<p>additional columns that should be included if necessary are</p>
+<p>additional columns that should then be included are</p>
 <ul>
 <li>Common name of target</li>
 <li>Extended flag</li>
@@ -285,12 +285,26 @@ In addition a new joint proposal category has been established with the Neutron 
 <li>NICER time request (ksec)</li>
 <li>Remarks</li>
 </ul>
-<p>If a proposed target does not appear in the TIC, the information required to append the target to the TIC must be provided.</p>
+<p>If a proposed target does not appear in the TIC, the information required to append the target to the TIC must be provided. </p>
 <p>Additional tools can  be found on our <a href="proposal-tools.html">proposal tool</a> and  <a href="data-access.html">data access</a> pages. We encourage users to follow <a href="https://archive.stsci.edu/tess/tutorials/goddard_format.html">this custom tutorial</a> provided by the MAST.</p>
-<p>We have provided two example target tables with the format we require.</p>
+<p>We have provided several examples of tables with the format we require for both TESS only, and TESS joint proposals</p>
 <ul>
-<li><a href="data/MAST_TIC_Proxima_Cen.csv">A sample of stars around Proxima Cen</a></li>
-<li><a href="data/omega_cen_target_table_ex.csv">The whole of globular cluster Omega Cen</a></li>
+<li>
+<p>A sample of stars around Proxima Cen</p>
+<ul>
+<li><a href="docs/MAST_TIC_Proxima_Cen-TESSonly.csv">TESS only</a>: Note that the Swift and NICER columns are included but that the fields are left blank. </li>
+<li><a href="docs/MAST_TIC_Proxima_Cen-JointSwift.csv">Joint TESS Swift proposal</a>: Note that the for targets that do not need Swift observing time the exposure is set as 0.0 ksec. Targets requiring Swift time must have an exposure value of 0.1 ksec or more. The NICER column is also included, but here the fields are left blank. </li>
+<li>
+<p><a href="docs/MAST_TIC_Proxima_Cen-JointNICER.csv">Joint TESS NICER proposal</a>: Note that the for targets that do not need NICER observing time the exposure is set as 0.0 ksec. Targets requiring NICER time must have an exposure value of 0.1 ksec or more. The Swift column is also included, but here the fields are left blank. </p>
+</li>
+<li>
+<p><a href="docs/MAST_TIC_Proxima_Cen-JointNICER-SWIFT.csv">Joint TESS, Swift, and NICER proposal</a></p>
+</li>
+</ul>
+</li>
+<li>
+<p><a href="docs/omega_cen_target_table_ex.csv">The whole of globular cluster Omega Cen</a>. This object does not have a TIC ID and as such that column is left blank. </p>
+</li>
 </ul>
 <h3 id="on-source-monitoring-times">On-source monitoring times</h3>
 <p>The <a href="https://heasarc.gsfc.nasa.gov/cgi-bin/tess/webtess/wtv.py">viewing tool</a> may be consulted to estimate the duration of visibility of targets to be proposed. </p>
