@@ -25,7 +25,63 @@ Cycle 4
 
 
 .. include:: approved-programs/cycle4.html
+
+Sector 50
+=========
+.. raw:: html
+
+    <ul class="list-group">
+        <li class="list-group-item">
+          <i class="fa fa-calendar fa-margin"></i>
+          Mar 26, 2022 - Apr 22, 2022
+        </li>
+        <li class="list-group-item">
+            <i class="fa fa-download fa-margin"></i>
+            <a href="data/target_lists/sector050_targets_lists/GI_S050.csv">2 min target list (csv)</a>, 
+            <a href="data/target_lists/sector050_targets_lists/GI_20s_S050.csv">20 s target list (csv)</a>
+        </li>
+    </ul>
+
+.. include:: approved-programs/sector050.html
+
 	     
+Sector 49
+=========
+.. raw:: html
+
+    <ul class="list-group">
+        <li class="list-group-item">
+          <i class="fa fa-calendar fa-margin"></i>
+          Feb 26, 2022 - Mar 26, 2022
+        </li>
+        <li class="list-group-item">
+            <i class="fa fa-download fa-margin"></i>
+            <a href="data/target_lists/sector049_targets_lists/GI_S049.csv">2 min target list (csv)</a>, 
+            <a href="data/target_lists/sector049_targets_lists/GI_20s_S049.csv">20 s target list (csv)</a>
+        </li>
+    </ul>
+
+.. include:: approved-programs/sector049.html
+	     
+Sector 48
+=========
+.. raw:: html
+
+    <ul class="list-group">
+        <li class="list-group-item">
+          <i class="fa fa-calendar fa-margin"></i>
+          Jan 28, 2022 - Feb 26, 2022
+        </li>
+        <li class="list-group-item">
+            <i class="fa fa-download fa-margin"></i>
+            <a href="data/target_lists/sector048_targets_lists/GI_S048.csv">2 min target list (csv)</a>, 
+            <a href="data/target_lists/sector048_targets_lists/GI_20s_S048.csv">20 s target list (csv)</a>
+        </li>
+    </ul>
+
+.. include:: approved-programs/sector048.html
+
+	    
 Sector 47
 =========
 .. raw:: html

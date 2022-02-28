@@ -235,7 +235,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>North</td>
     <td>2022&nbsp;Mar&nbsp;26</td>
     <td>2022&nbsp;Apr&nbsp;22</td>
-    <td></td>
+    <td><a href='data/target_lists/sector050_targets_lists/GI_S050.csv'>Download</td>
     <td style="min-width: 12em;">
     </td>
   </tr>
@@ -245,7 +245,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>North</td>
     <td>2022&nbsp;Feb&nbsp;26</td>
     <td>2022&nbsp;Mar&nbsp;26</td>
-    <td></td>
+    <td><a href='data/target_lists/sector049_targets_lists/GI_S049.csv'>Download</td>
     <td style="min-width: 12em;">
     </td>
   </tr>
@@ -255,7 +255,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>North</td>
     <td>2022&nbsp;Jan&nbsp;28</td>
     <td>2022&nbsp;Feb&nbsp;26</td>
-    <td></td>
+    <td><a href='data/target_lists/sector048_targets_lists/GI_S048.csv'>Download</td>
     <td style="min-width: 12em;">
     </td>
   </tr>
