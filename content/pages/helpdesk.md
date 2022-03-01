@@ -8,38 +8,49 @@ The Guest Investigator (GI) office is part of the TESS Science Support Center at
 The members of the TESS GI office are listed below.
 
 <div class="row">
+
     <div class="col-sm-3 text-center">
         <img src="images/faces/knicole.jpg" class="img-circle"><br>
         Dr Knicole Colón<br>
-        Director
+        Project Scientist 
     </div>
-    <div class="col-sm-3 text-center">
-        <img src="images/faces/padi.jpg" class="img-circle"><br>
-        Dr Padi Boyd<br>
-        Project Scientist
-    </div>
+    
     <div class="col-sm-3 text-center">
         <img src="images/faces/tom.jpg" class="img-circle"><br>
         Dr Tom Barclay<br>
         Acting Deputy Project Scientist
     </div>
-</div>
-<div class="row">
+    
     <div class="col-sm-3 text-center">
-        <img src="images/faces/elisa.jpg" class="img-circle"><br>
-        Dr Elisa Quintana<br>
-        Support Scientist
-    </div>
-    <div class="col-sm-3 text-center">
-        <img src="images/faces/josh.jpg" class="img-circle"><br>
-        Dr Josh Schlieder<br>
-        Support Scientist
-    </div>
-    <div class="col-sm-3 text-center">
-        <img src="images/faces/rebekah.png" style="max-width:77%;" class="img-circle"><br>
+    <img src="images/faces/rebekah.png" style="max-width:77%;" class="img-circle"><br>
         Dr Rebekah Hounsell<br>
         Support Scientist
     </div>
+    
+</div>
+    
+<div class="row">
+
+    <div class="col-sm-3 text-center">
+        <img src="images/faces/christina.jpg"  style="max-width:77%;" class="img-circle"><br>
+        Dr Christina Hedges<br>
+        Support Scientist
+    </div>
+    
+    <div class="col-sm-3 text-center">
+        <img src="images/faces/Veselin_Kostov.png"  style="max-width:77%;" class="img-circle"><br>
+
+        Dr Veselin Kostov<br>
+        Support Scientist
+    </div>
+    
+     <div class="col-sm-3 text-center">
+        <img src="images/faces/mark.png"  style="max-width:77%;" class="img-circle"><br>
+
+        Dr Mark Messersmith<br>
+        Administrative Support
+    </div>
+    
 </div>
 
 ### E-mail
