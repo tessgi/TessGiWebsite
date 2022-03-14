@@ -150,10 +150,17 @@ IMPORTANT_DATES = (
     ('<b>18th March 2022</b>',
              'Cycle 5 call for proposals deadline',
              'https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=807371/solicitationId=%7B5032D2F8-F5DF-692A-8E7C-15A801B08DE1%7D/viewSolicitationDocument=1/D.10%20TESS%20Cycle_5_Amend49.pdf',),
-            )
+    ('<b>29th March 2022</b>',
+     'Early Registration Deadline for AAS #240',
+     'https://aas.org/meetings/aas240/registration'),
+     )
 
 # Defines the "meetings" box on the front page
-MEETINGS = ()
+MEETINGS = (
+    ('<b>12th - 16th June 2022</b>',
+     'AAS #240',
+            'https://aas.org/meetings/aas240',),
+            )
 
 # Defines the "related websites" listing in the footer of all pages
 RELATEDSITES = (

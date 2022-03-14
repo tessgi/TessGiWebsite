@@ -128,10 +128,69 @@ Below we outline some of the most important issues or data product modifications
        
      </table>
 </div>
-</div>
 
 ##Cycle 4 DRN Tables
 Below we provide a brief summary of the DRNs for each Sector in Cycle 4. 
+
+###Sector 47
+
+<div class="panel panel-primary">
+  <div class="panel-heading">
+    <h3 class="panel-title">Information</h3>
+  </div>
+
+<table class="table table-striped table-hover" style="font-size: 0.77em;">
+       <col style="width:5%">
+       <col style="width:5%">
+       <col style="width:25%">
+       <col style="width:25%">
+       <col style="width:13.3%">
+       <col style="width:13.3%">
+       <col style="width:13.3%">
+
+       <thead>
+       <tr>
+       <th style="vertical-align: middle;">DRN</th>
+       <th style="vertical-align: middle;">Orbits</th>
+       <th style="vertical-align: middle;">Dates (UTC) <p>Start - End</p></th>
+       <th style="vertical-align: middle;">Cadence # <p>Start - End</p></th>
+       <th style="vertical-align: middle;">Data pause <p>(days)</p></th>
+       <th style="vertical-align: middle;">Science data (days)</th>
+       <th style="vertical-align: middle;">Momentum dumps</th>
+       <th style="vertical-align: middle;">Problematic <p>TIC ID's</p></th>
+       </tr>
+       </thead>
+
+       <tr>  
+       <td><a href="https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_sector_47_drn67_v01.pdf">67</a></td>
+       <td><p>101</p> 
+       <p>102</p></td>
+       <td><p>2021-12-31 - 2022-01-13</p>
+       <p>2022-01-14 - 2022-01-27</p></td>
+       <td><p>973686 - 983162</p>
+       <p>983821 - 993229<p></td>
+       <td>0.92</td>
+       <td>26.23</td>
+       <td><p>1</p>
+       <p>1</p></td>
+       <td><a href="sector_47.html">list</a></td>
+       </tr>
+
+ 	<td colspan="3" style="vertical-align: middle;"><b>Issue</b></td>
+	<td colspan="5" style="vertical-align: middle;"><b>Description</b></td>
+       
+       <tr>  
+       <td colspan="3">Spacecraft pointing:</td>
+       <td colspan="5">Sector 47 consists of observations of the northern ecliptic hemisphere, with Camera 4 pointed near the north ecliptic pole. Camera 1 and Camera 4 were both used for guiding in orbit 101. Camera 4 alone was used for guiding in orbit 102.</td>
+        </tr>
+        
+        <tr>  
+       <td colspan="3" >Scattered light:</td>
+       <td colspan="5" >At the start of orbit 102, the Moon crosses through Camera 1, saturating the CCD detectors and causing strong glints in Camera 1 and 2.</td>
+       </tr>
+      
+</table>
+</div>
 
 ###Sector 46
 
@@ -163,7 +222,7 @@ Below we provide a brief summary of the DRNs for each Sector in Cycle 4.
        </thead>
 
        <tr>  
-       <td><a href="https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_sector_46_drn66_v01.pdf>66</a></td>
+       <td><a href="https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_sector_46_drn66_v01.pdf">66</a></td>
        <td><p>99</p> 
        <p>100</p></td>
        <td><p>2021-12-03 - 2021-12-16</p>
@@ -192,8 +251,6 @@ Below we provide a brief summary of the DRNs for each Sector in Cycle 4.
       
 </table>
 </div>
-</div>
-
 
 ###Sector 45
 
@@ -253,7 +310,6 @@ Below we provide a brief summary of the DRNs for each Sector in Cycle 4.
        </tr>
       
 </table>
-</div>
 </div>
 
 ###Sector 44
@@ -315,7 +371,6 @@ Camera 1 alone was used for guiding in orbits 95 and 96 of Sector 44.</td>
        </tr>
       
 </table>
-</div>
 </div>
 
 ###Sector 43
@@ -382,8 +437,6 @@ Camera 1 alone was used for guiding in orbits 95 and 96 of Sector 44.</td>
       
 </table>
 </div>
-</div>
-
 
 ###Sector 42
 
@@ -449,7 +502,6 @@ Camera 1 alone was used for guiding in orbits 95 and 96 of Sector 44.</td>
       
 </table>
 </div>
-</div>
 
 
 ###Sector 41
@@ -511,7 +563,6 @@ Camera 1 alone was used for guiding in orbits 95 and 96 of Sector 44.</td>
       
 </table>
 </div>
-</div>
 
 ###Sector 40
 
@@ -572,7 +623,7 @@ Camera 1 alone was used for guiding in orbits 95 and 96 of Sector 44.</td>
       
 </table>
 </div>
-</div>
+
 
 ##Cycle 3 DRN Tables
 Below we provide a brief summary of the DRNs for each Sector in Cycle 3. <p></p>
