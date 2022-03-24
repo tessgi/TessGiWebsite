@@ -22,7 +22,7 @@ The members of the TESS GI office are listed below.
     </div>
     
     <div class="col-sm-3 text-center">
-    <img src="images/faces/rebekah.png" style="max-width:77%;" class="img-circle"><br>
+    <img src="images/faces/rebekah.jpg" style="max-width:77%;" class="img-circle"><br>
         Dr Rebekah Hounsell<br>
         Support Scientist
     </div>
