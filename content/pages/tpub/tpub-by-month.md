@@ -275,6 +275,81 @@ Kanodia, Shubham, Libby-Roberts, Jessica, Canas, Caleb I., et al.
 2022, not refereed ([2022arXiv220307178K](http://adsabs.harvard.edu/abs/2022arXiv220307178K))
 <span class="badge">0 citations</span>
 
+46. [RECOVERY OF TESS STELLAR ROTATION PERIODS USING DEEP LEARNING](http://adsabs.harvard.edu/abs/2022ApJ...927..219C)  
+Claytor, Zachary R., van Saders, Jennifer L., Llama, Joe, et al.    
+2022, refereed ([2022ApJ...927..219C](http://adsabs.harvard.edu/abs/2022ApJ...927..219C))
+<span class="badge">3 citations</span>
+
+47. [THE FAMILY OF V1311 ORI: A YOUNG SEXTUPLE SYSTEM OR A MINICLUSTER?](http://adsabs.harvard.edu/abs/2022AJ....163..127T)  
+Tokovinin, Andrei    
+2022, refereed ([2022AJ....163..127T](http://adsabs.harvard.edu/abs/2022AJ....163..127T))
+<span class="badge">0 citations</span>
+
+48. [A GUIDE TO REALISTIC UNCERTAINTIES ON THE FUNDAMENTAL PROPERTIES OF SOLAR-TYPE EXOPLANET HOST STARS](http://adsabs.harvard.edu/abs/2022ApJ...927...31T)  
+Tayar, Jamie, Claytor, Zachary R., Huber, Daniel, et al.    
+2022, refereed ([2022ApJ...927...31T](http://adsabs.harvard.edu/abs/2022ApJ...927...31T))
+<span class="badge">0 citations</span>
+
+49. [THE NEAR-CORE ROTATION OF HD 112429: A GAMMA DORADUS STAR WITH TESS PHOTOMETRY AND LEGACY SPECTROSCOPY](http://adsabs.harvard.edu/abs/2022arXiv220311071V)  
+Van Reeth, T., De Cat, P., Van Beeck, J., et al.    
+2022, not refereed ([2022arXiv220311071V](http://adsabs.harvard.edu/abs/2022arXiv220311071V))
+<span class="badge">0 citations</span>
+
+50. [NEW VARIABLE HOT SUBDWARF STARS IDENTIFIED FROM ANOMALOUS GAIA FLUX ERRORS, OBSERVED BY TESS, AND CLASSIFIED VIA FOURIER DIAGNOSTICS](http://adsabs.harvard.edu/abs/2022ApJ...928...20B)  
+Barlow, Brad N., Corcoran, Kyle A., Parker, Isabelle M., et al.    
+2022, refereed ([2022ApJ...928...20B](http://adsabs.harvard.edu/abs/2022ApJ...928...20B))
+<span class="badge">1 citations</span>
+
+51. [PHOTOMETRIC INVESTIGATION OF CONTACT BINARY DY CET BASED ON TESS DATA](http://adsabs.harvard.edu/abs/2022arXiv220310613F)  
+Faruk Yildirim, Muhammed    
+2022, not refereed ([2022arXiv220310613F](http://adsabs.harvard.edu/abs/2022arXiv220310613F))
+<span class="badge">0 citations</span>
+
+52. [THE TESS TRIPLE-9 CATALOG: 999 UNIFORMLY-VETTED EXOPLANET CANDIDATES](http://adsabs.harvard.edu/abs/2022MNRAS.tmp..701C)  
+Cacciapuoti, Luca, Kostov, Veselin B., Kuchner, Marc, et al.    
+2022, refereed ([2022MNRAS.tmp..701C](http://adsabs.harvard.edu/abs/2022MNRAS.tmp..701C))
+<span class="badge">0 citations</span>
+
+53. [A DEARTH OF CLOSE-IN STELLAR COMPANIONS TO M-DWARF TESS OBJECTS OF INTEREST](http://adsabs.harvard.edu/abs/2022arXiv220312795C)  
+Clark, Catherine A., van Belle, Gerard T., Ciardi, David R., et al.    
+2022, not refereed ([2022arXiv220312795C](http://adsabs.harvard.edu/abs/2022arXiv220312795C))
+<span class="badge">0 citations</span>
+
+54. [A SINGLE-LINED SPECTROSCOPIC BINARY COMPANION TO AN ACTIVE AND DEEP CONTACT BINARY IN A QUINTUPLE STELLAR SYSTEM](http://adsabs.harvard.edu/abs/2022ApJ...927..183L)  
+Liao, W. -P., Qian, S. -B., Shi, X. -D., et al.    
+2022, refereed ([2022ApJ...927..183L](http://adsabs.harvard.edu/abs/2022ApJ...927..183L))
+<span class="badge">0 citations</span>
+
+55. [A PROBABILISTIC METHOD FOR DETECTING SOLAR-LIKE OSCILLATIONS USING MEANINGFUL PRIOR INFORMATION](http://adsabs.harvard.edu/abs/2022arXiv220309404N)  
+Nielsen, M. B., Hatt, E., Chaplin, W. J., et al.    
+2022, not refereed ([2022arXiv220309404N](http://adsabs.harvard.edu/abs/2022arXiv220309404N))
+<span class="badge">0 citations</span>
+
+56. [HD 133729: A BLUE LARGE-AMPLITUDE PULSATOR IN ORBIT AROUND A MAIN-SEQUENCE B-TYPE STAR](http://adsabs.harvard.edu/abs/2022arXiv220311789P)  
+Pigulski, A., Kotysz, K., Kolaczek-Szymanski, P. A.    
+2022, not refereed ([2022arXiv220311789P](http://adsabs.harvard.edu/abs/2022arXiv220311789P))
+<span class="badge">0 citations</span>
+
+57. [GRAVITY DARKENING AND TIDALLY PERTURBED STELLAR PULSATION IN THE MISALIGNED EXOPLANET SYSTEM WASP-33](http://adsabs.harvard.edu/abs/2022arXiv220309618K)  
+Kalman, Szilard, Bokon, Andras, Derekas, Aliz, et al.    
+2022, not refereed ([2022arXiv220309618K](http://adsabs.harvard.edu/abs/2022arXiv220309618K))
+<span class="badge">0 citations</span>
+
+58. [THE YOUNG HD 73583 (TOI-560) PLANETARY SYSTEM: TWO 10-M<SUB>⊕</SUB> MINI-NEPTUNES TRANSITING A 500-MYR-OLD, BRIGHT, AND ACTIVE K DWARF](http://adsabs.harvard.edu/abs/2022MNRAS.tmp..699B)  
+Barragán, O., Armstrong, D. J., Gandolfi, D., et al.    
+2022, refereed ([2022MNRAS.tmp..699B](http://adsabs.harvard.edu/abs/2022MNRAS.tmp..699B))
+<span class="badge">2 citations</span>
+
+59. [REVEALING THE FIELD SUB-SUBGIANT POPULATION USING A CATALOG OF ACTIVE GIANT STARS AND GAIA EDR3](http://adsabs.harvard.edu/abs/2022ApJ...927..222L)  
+Leiner, Emily M., Geller, Aaron M., Gully-Santiago, Michael A., et al.    
+2022, refereed ([2022ApJ...927..222L](http://adsabs.harvard.edu/abs/2022ApJ...927..222L))
+<span class="badge">0 citations</span>
+
+60. [GAIA 0007-1605: AN OLD TRIPLE SYSTEM WITH AN INNER BROWN DWARF-WHITE DWARF BINARY AND AN OUTER WHITE DWARF COMPANION](http://adsabs.harvard.edu/abs/2022ApJ...927L..31R)  
+Rebassa-Mansergas, Alberto, Xu, Siyi, Raddi, Roberto, et al.    
+2022, refereed ([2022ApJ...927L..31R](http://adsabs.harvard.edu/abs/2022ApJ...927L..31R))
+<span class="badge">0 citations</span>
+
 
 2022-02
 -------

@@ -121,6 +121,21 @@ Kanodia, Shubham, Libby-Roberts, Jessica, Canas, Caleb I., et al.
 2022, not refereed ([2022arXiv220307178K](http://adsabs.harvard.edu/abs/2022arXiv220307178K))
 <span class="badge">0 citations</span>
 
+20. [THE TESS TRIPLE-9 CATALOG: 999 UNIFORMLY-VETTED EXOPLANET CANDIDATES](http://adsabs.harvard.edu/abs/2022MNRAS.tmp..701C)  
+Cacciapuoti, Luca, Kostov, Veselin B., Kuchner, Marc, et al.    
+2022, refereed ([2022MNRAS.tmp..701C](http://adsabs.harvard.edu/abs/2022MNRAS.tmp..701C))
+<span class="badge">0 citations</span>
+
+21. [A DEARTH OF CLOSE-IN STELLAR COMPANIONS TO M-DWARF TESS OBJECTS OF INTEREST](http://adsabs.harvard.edu/abs/2022arXiv220312795C)  
+Clark, Catherine A., van Belle, Gerard T., Ciardi, David R., et al.    
+2022, not refereed ([2022arXiv220312795C](http://adsabs.harvard.edu/abs/2022arXiv220312795C))
+<span class="badge">0 citations</span>
+
+22. [THE YOUNG HD 73583 (TOI-560) PLANETARY SYSTEM: TWO 10-M<SUB>⊕</SUB> MINI-NEPTUNES TRANSITING A 500-MYR-OLD, BRIGHT, AND ACTIVE K DWARF](http://adsabs.harvard.edu/abs/2022MNRAS.tmp..699B)  
+Barragán, O., Armstrong, D. J., Gandolfi, D., et al.    
+2022, refereed ([2022MNRAS.tmp..699B](http://adsabs.harvard.edu/abs/2022MNRAS.tmp..699B))
+<span class="badge">2 citations</span>
+
 
 2022-02
 -------
