@@ -11,3 +11,9 @@ Summary: Young stellar clusters provide benchmarks for investigations into both 
 
 # Sector 050 targets observed (2 min: 1, 20 s: 0)
 159873822,237.9241,52.3063,10.76,G04016;G04242;G04039;G04191
+
+# Sector 050 targets observed (2 min: 1, 20 s: 0)
+159873822,237.9241,52.3063,10.76,G04016;G04242;G04039;G04191
+
+# Sector 051 targets observed (2 min: 1, 20 s: 0)
+159873822,237.9241,52.3063,10.76,G04016;G04242;G04039;G04191
