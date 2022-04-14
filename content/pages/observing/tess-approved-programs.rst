@@ -25,7 +25,27 @@ Cycle 4
 
 
 .. include:: approved-programs/cycle4.html
+	     
+Sector 51
+=========
+.. raw:: html
 
+    <ul class="list-group">
+        <li class="list-group-item">
+          <i class="fa fa-calendar fa-margin"></i>
+          Apr 22, 2022 - May 18, 2022
+        </li>
+        <li class="list-group-item">
+            <i class="fa fa-download fa-margin"></i>
+            <a href="data/target_lists/sector051_targets_lists/GI_S051.csv">2 min target list (csv)</a>, 
+            <a href="data/target_lists/sector051_targets_lists/GI_20s_S051.csv">20 s target list (csv)</a>
+        </li>
+    </ul>
+
+.. include:: approved-programs/sector051.html
+
+
+	     
 Sector 50
 =========
 .. raw:: html
