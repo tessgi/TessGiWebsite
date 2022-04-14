@@ -77,3 +77,24 @@ Summary: We are proposing to conduct high-resolution spectroscopic observations 
 
 # Sector 050 targets observed (2 min: 1, 20 s: 0)
 168709463,214.1524,42.3597,10.8,G04202;G04184
+
+# Sector 041 targets observed (2 min: 1, 20 s: 0)
+229536143,195.8793,71.1122,9.98,G04202;G04184;G04206
+
+# Sector 042 targets observed (2 min: 1, 20 s: 0)
+422752878,358.5339,0.9635,10.26,G04202;G04184
+
+# Sector 047 targets observed (2 min: 1, 20 s: 0)
+229536143,195.8793,71.1122,9.98,G04202;G04184;G04206
+
+# Sector 048 targets observed (2 min: 1, 20 s: 0)
+229536143,195.8793,71.1122,9.98,G04202;G04184;G04206
+
+# Sector 049 targets observed (2 min: 1, 20 s: 0)
+168709463,214.1524,42.3597,10.8,G04202;G04184
+
+# Sector 050 targets observed (2 min: 1, 20 s: 0)
+168709463,214.1524,42.3597,10.8,G04202;G04184
+
+# Sector 051 targets observed (2 min: 1, 20 s: 0)
+119664604,221.8968,16.8452,10.39,G04202;G04184
