@@ -34,7 +34,7 @@ Sector 52
     <ul class="list-group">
         <li class="list-group-item">
           <i class="fa fa-calendar fa-margin"></i>
-          May 18, 2022 - June 18, 2022
+          May 18, 2022 - June 13, 2022
         </li>
         <li class="list-group-item">
             <i class="fa fa-download fa-margin"></i>
