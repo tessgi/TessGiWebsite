@@ -101,3 +101,6 @@ Summary: Ultra-hot Jupiters UHJs present many observational opportunities and th
 
 # Sector 050 targets observed (2 min: 1, 20 s: 0)
 81247740,205.3538,17.6867,10.65,G04069;G04039
+
+# Sector 052 targets observed (2 min: 1, 20 s: 0)
+392476080,253.1863,16.5799,9.79,G04096;G04069;G04242;G04039
