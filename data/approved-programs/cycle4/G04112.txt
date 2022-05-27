@@ -487,3 +487,6 @@ Summary: The rapidly oscillating Ap (roAp) stars are rare objects. Nevertheless,
 # Sector 051 targets observed (2 min: 2, 20 s: 2)
 198305396,227.1867,12.4889,7.07,G04112;G04123;20SECONDTARGET
 383521659,231.9559,29.1063,3.4,G04112;G04123;G04125;20SECONDTARGET
+
+# Sector 052 targets observed (2 min: 1, 20 s: 1)
+275642037,48.401,69.5546,9.52,G04112;G04123;20SECONDTARGET

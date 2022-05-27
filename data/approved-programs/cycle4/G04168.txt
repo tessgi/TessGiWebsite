@@ -204,3 +204,7 @@ Summary: A new class of M dwarfs with strict, periodic complex modulations has r
 # Sector 051 targets observed (2 min: 2, 20 s: 0)
 207466636,245.7605,59.4567,12.88,G04168
 366488770,299.7851,70.0901,14.26,G04168;G04171;G04178
+
+# Sector 052 targets observed (2 min: 2, 20 s: 0)
+207466636,245.7605,59.4567,12.88,G04168
+366488770,299.7851,70.0901,14.26,G04168;G04171;G04178

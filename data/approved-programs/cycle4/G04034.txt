@@ -235,3 +235,8 @@ Summary: TESS is collecting unique high cadence, high precision light curves of 
 
 # Sector 051 targets observed (2 min: 1, 20 s: 0)
 399788684,278.1438,57.0455,4.21,G04034;G04125
+
+# Sector 052 targets observed (2 min: 3, 20 s: 0)
+18536157,266.4177,31.5047,6.21,G04034
+399788684,278.1438,57.0455,4.21,G04034;G04125
+390239195,24.4466,64.7394,5.49,G04034

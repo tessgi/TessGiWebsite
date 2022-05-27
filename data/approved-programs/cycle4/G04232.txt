@@ -93,3 +93,6 @@ Summary: The Event Horizon Telescope (EHT) observations of the supermassive blac
 
 # Sector 051 targets observed (2 min: 1, 20 s: 0)
 72806854,253.4676,39.7602,13.64,G04232;G04048
+
+# Sector 052 targets observed (2 min: 1, 20 s: 0)
+72806854,253.4676,39.7602,13.64,G04232;G04048
