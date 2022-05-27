@@ -192,3 +192,6 @@ Summary: Stars are dynamic systems, with temporal variations from spots, faculae
 
 # Sector 050 targets observed (2 min: 1, 20 s: 0)
 202426247,226.4562,64.0479,7.79,G04238;G04242;G04039
+
+# Sector 052 targets observed (2 min: 1, 20 s: 1)
+160422712,235.3398,75.9883,9.81,G04129;G04238;G04211;G04006;20SECONDTARGET
