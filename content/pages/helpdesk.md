@@ -12,28 +12,29 @@ The members of the TESS GI office are listed below.
     <div class="col-sm-3 text-center">
         <img src="images/faces/knicole.jpg" style="max-width:77%;" class="img-circle"><br>
         Dr Knicole Colón<br>
-        Project Scientist 
+        Project Scientist / Director of the Guest Investigator Office
     </div>
     
     <div class="col-sm-3 text-center">
-        <img src="images/faces/tom.jpg" style="max-width:77%;" class="img-circle"><br>
-        Dr Tom Barclay<br>
-        Acting Deputy Project Scientist
+        <img src="images/faces/Allison_photo.jpg" style="max-width:77%;" class="img-circle"><br>
+        Dr Allison Youngblood<br>
+        Deputy Project Scientist
     </div>
     
     <div class="col-sm-3 text-center">
-    <img src="images/faces/rebekah.jpg" style="max-width:77%;" class="img-circle"><br>
-        Dr Rebekah Hounsell<br>
-        Support Scientist
+        <img src="images/faces/christina.jpg"  style="max-width:77%;" class="img-circle"><br>
+        Dr Christina Hedges<br>
+        Deputy Director of the Guest Investigator Office
     </div>
+    
     
 </div>
     
 <div class="row">
 
-    <div class="col-sm-3 text-center">
-        <img src="images/faces/christina.jpg"  style="max-width:77%;" class="img-circle"><br>
-        Dr Christina Hedges<br>
+   <div class="col-sm-3 text-center">
+    <img src="images/faces/rebekah.jpg" style="max-width:77%;" class="img-circle"><br>
+        Dr Rebekah Hounsell<br>
         Support Scientist
     </div>
     
