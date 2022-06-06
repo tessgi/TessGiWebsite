@@ -147,12 +147,12 @@ KEY_INFORMATION = (
 
 # Defines the "important dates" box on the front page
 IMPORTANT_DATES = (
-    ('<b>18th March 2022</b>',
-             'Cycle 5 call for proposals deadline',
-             'https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=807371/solicitationId=%7B5032D2F8-F5DF-692A-8E7C-15A801B08DE1%7D/viewSolicitationDocument=1/D.10%20TESS%20Cycle_5_Amend49.pdf',),
-    ('<b>29th March 2022</b>',
-     'Early Registration Deadline for AAS #240',
-     'https://aas.org/meetings/aas240/registration'),
+    ('<b>11th June 2022</b>',
+             'AAS Workshop: Engaging the Public in Exoplanet Science Through the Legacy of TESS',
+             'https://submissions.mirasmart.com/AAS240/itinerary/EventDetail.aspx?evt=6',),
+    ('<b>13th June 2022</b>',
+     'AAS Splinter Session: Future Science with TESS',
+     'https://submissions.mirasmart.com/AAS240/itinerary/EventDetail.aspx?evt=76'),
      )
 
 # Defines the "meetings" box on the front page
