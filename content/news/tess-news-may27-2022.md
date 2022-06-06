@@ -8,8 +8,8 @@ Before we highlight some of the more recent papers from the archive, we would li
 
 Also, don't forget to follow TESS at the AAS 240 Summer meeting! There will be three events: 
 
- - Engaging the Public in Exoplanet Science Through the Legacy of TESS (https://submissions.mirasmart.com/AAS240/Itinerary/EventDetail.aspx?evt=6): Workshop - Saturday  June 11th 12:30 – 5:00 PM PT in Room 102
- - Future Science with TESS (https://submissions.mirasmart.com/AAS240/itinerary/EventDetail.aspx?evt=76): Splinter Session - Monday June 13th 6:00 – 8:00 PM PT in Ballroom D
+ - [Engaging the Public in Exoplanet Science Through the Legacy of TESS](https://submissions.mirasmart.com/AAS240/Itinerary/EventDetail.aspx?evt=6): Workshop - Saturday  June 11th 12:30 – 5:00 PM PT in Room 102
+ - [Future Science with TESS](https://submissions.mirasmart.com/AAS240/itinerary/EventDetail.aspx?evt=76): Splinter Session - Monday June 13th 6:00 – 8:00 PM PT in Ballroom D
  - The TESS Extended Mission: Hypwerwall talk - Monday 13th 9:34-9:46 AM PT in the Exhibit Hall at the NASA booth
  
 Note that there will also be a TESS table in the exhibit hall, check out booths 806 and 707. See you there!
