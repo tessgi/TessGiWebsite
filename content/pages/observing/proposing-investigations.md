@@ -3,7 +3,7 @@ Save_as: proposing-investigations.html
 
 [TOC]
 
-he TESS Guest Investigator (GI) program is intended to enable the community to participate in science investigations using TESS. The program enables teams to propose the collection of new 2-minute and 20-second cadence targets and provides funding to selected US investigators to analyze 2-minute and 20-second cadence and full-frame image (FFI) data, which now has a cadence of 200 seconds. The GI program also provides funding for US investigators to collect ground-based data that supports TESS science. All proposals are managed by the [GI office](helpdesk.html).
+The TESS Guest Investigator (GI) program is intended to enable the community to participate in science investigations using TESS. The program enables teams to propose the collection of new 2-minute and 20-second cadence targets and provides funding to selected US investigators to analyze 2-minute and 20-second cadence and full-frame image (FFI) data, which now has a cadence of 200 seconds. The GI program also provides funding for US investigators to collect ground-based data that supports TESS science. All proposals are managed by the [GI office](helpdesk.html).
 
 The next opportunity is TESS Cycle 5, which begins observations in September 2022 and ends in September 2023, covering observing sectors 56 - 69. TESS Cycle 5 proposals are solicited for targets in both the northern and southern Ecliptic Hemisphere fields. 
 
