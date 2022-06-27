@@ -48,6 +48,21 @@ TESS](https://archive.stsci.edu/tess/index.html#documents).
     <td style="width: 35em;"><a href='https://ui.adsabs.harvard.edu/abs/2019AJ....158..138S'>The Revised TESS Input Catalog and Candidate Target List v8</a></td>
     <td>Stassun et al., 2019</td>
   </tr>
+  
+   <tr>
+    <td style="width: 35em;"><a href='https://ui.adsabs.harvard.edu/abs/2021arXiv210804778P'>TESS Input Catalog versions 8.1 and 8.2: Phantoms in the 8.0 Catalog and How to Handle Them</a></td>
+    <td>Paegert et al., 2021</td>
+  </tr>
+  
+  <tr>
+    <td style="width: 35em;"><a href='https://ui.adsabs.harvard.edu/abs/2021ApJS..254...39G'>The TESS Objects of Interest Catalog from the TESS Prime Mission</a></td>
+    <td>Guerrero et al., 2021</td>
+  </tr>
+  
+    <tr>
+    <td style="width: 35em;"><a href='https://ui.adsabs.harvard.edu/abs/2021PASP..133i5002F'>The TESS Mission Target Selection Procedure</a></td>
+    <td>Fausnaugh et al., 2021</td>
+  </tr>
 
   <tr>
     <td style="width: 35em;"><a href='https://archive.stsci.edu/missions/tess/doc/EXP-TESS-ARC-ICD-TM-0014-Rev-F.pdf'>TESS Science Data Products Description Document</a></td>
@@ -74,6 +89,13 @@ Additional resources can be found below:
   <tr>
     <td style="width: 35em;"><a
     href='data/tess-response-function-v2.0.csv'>TESS bandpass response function</a></td>
+    <td> </td>
+  </tr>
+  
+    <tr>
+    <td style="width: 35em;"><a
+    href='https://archive.stsci.edu/files/live/sites/mast/files/home/missions-and-data/kepler/_documents/KSCI-19081-003-KDPH.pdf'>The Kepler + TESS SPOC pipeline </a></td>
+    <td>Jenkins et al., 2020</td>
     <td> </td>
   </tr>
 

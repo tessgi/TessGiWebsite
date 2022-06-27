@@ -340,3 +340,9 @@ Summary: We propose to observe 30 gamma-ray blazars with TESS in a combination o
 # Sector 052 targets observed (2 min: 2, 20 s: 0)
 72806854,253.4676,39.7602,13.64,G04232;G04048
 256615539,299.9994,65.1485,14.46,G04048
+
+# Sector 053 targets observed (2 min: 1, 20 s: 1)
+147796121,110.4727,71.3434,12.78,G04151;G04048;20SECONDTARGET
+
+# Sector 054 targets observed (2 min: 1, 20 s: 0)
+256615539,299.9994,65.1485,14.46,G04048

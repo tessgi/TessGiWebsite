@@ -308,3 +308,9 @@ Summary: Photometric variability observed in L dwarfs could be due to rotating m
 # Sector 052 targets observed (2 min: 2, 20 s: 0)
 321695100,262.8739,27.3551,15.29,G04081
 298554585,271.8166,50.2579,16.28,G04171;G04081
+
+# Sector 053 targets observed (2 min: 1, 20 s: 0)
+321695100,262.8739,27.3551,15.29,G04081
+
+# Sector 054 targets observed (2 min: 1, 20 s: 0)
+298554585,271.8166,50.2579,16.28,G04171;G04081
