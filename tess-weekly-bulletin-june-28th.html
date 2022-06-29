@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<!--
+Crafted with ♥ by Geert Barentsen, Thomas Barclay & Knicole colon at NASA Ames
+in August 2015, using pelican-bootstrap and flatly.
+-->
+<html lang="en"
+>
+
+<head>
+    <title>TESS Weekly Bulletin: June 28th - TESS</title>
+    <!-- Using the latest rendering mode for IE -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!--Custom meta data-->
+
+    <meta name="dc.title" content="NASA - TESS Science Support Center" />
+    <meta name="dc.format" content="text/html" />
+    <meta name="dc.date.modified" content="2022-06-29" />
+    <meta name="dc.language" content="en" />
+    <meta name="dc.description" content="Resources and Information for Users of TESS Data" />
+    <meta name="dc.identifier" content="https://heasarc.gsfc.nasa.gov/docs/tess/" />
+    <meta name="dc.audience" content="Astronomers, Astrophysicists, Scientists, Researchers" />
+    <meta name="dc.subject.discipline" content="Astrophysics, Astronomy" />
+    <meta name="orgcode" content="667">
+    <meta name="rno" content="Thomas.Barclay">
+    <meta name="content-owner" content="Thomas.Barclay">
+    <meta name="webmaster" content="Thomas.Barclay">
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:description" content="Transiting Exoplanet Survey Satellite is a NASA Mission to Study Stars, Planets and Galaxies." />
+    <meta name="twitter:title" content="NASA - TESS Science Support Center" />
+    <meta name="twitter:site" content="@NASA_TESS" />
+    <meta name="twitter:creator" content="@NASA_TESS" />
+    <meta name="twitter:image" content="https://heasarc.gsfc.nasa.gov/docs/tess/images/logo-for-twitter.jpeg" />
+
+
+    <link href="./images/favicon.png" rel="icon">
+
+<link rel="canonical" href="./tess-weekly-bulletin-june-28th.html">
+
+        <meta name="author" content="Veselin Kostov" />
+        <meta name="description" content="Welcome TESS followers to our latest news bulletin! This week, we are looking at three papers from the archive. Enjoy! Pterodactyls: A Tool to Uniformly Search and Vet for Young Transiting Planets In TESS Primary Mission Photometry (Fernandes et al., 2022) : A comparison between young and old short-period planet populations …" />
+
+        <meta property="og:site_name" content="TESS" />
+        <meta property="og:type" content="article"/>
+        <meta property="og:title" content="TESS Weekly Bulletin: June 28th"/>
+        <meta property="og:url" content="./tess-weekly-bulletin-june-28th.html"/>
+        <meta property="og:description" content="Welcome TESS followers to our latest news bulletin! This week, we are looking at three papers from the archive. Enjoy! Pterodactyls: A Tool to Uniformly Search and Vet for Young Transiting Planets In TESS Primary Mission Photometry (Fernandes et al., 2022) : A comparison between young and old short-period planet populations …"/>
+        <meta property="article:published_time" content="2022-06-28" />
+            <meta property="article:section" content="news" />
+            <meta property="article:author" content="Veselin Kostov" />
+            <meta property="og:image"
+                  content="./images/logo-for-twitter.jpeg"/>
+
+
+    <!-- Why use Helvetica Neue when you can have Lato? -->
+    <!-- Why use Lato when you can have Nunito? -->
+    <link href="./theme/css/nunito.css" rel="stylesheet">
+
+    <!-- Bootstrap -->
+        <link rel="stylesheet" href="./theme/css/bootstrap.cosmo.min.css" type="text/css"/>
+    <link href="./theme/css/font-awesome.min.css" rel="stylesheet">
+
+    <link href="./theme/css/exoplanet_archive_icons.css" rel="stylesheet">
+    <link href="./theme/css/mission_icons.css" rel="stylesheet">
+<!--     <link href="./theme/css/photobanner.css" rel="stylesheet">
+    <link href="./theme/css/slide-container.css" rel="stylesheet">
+    <link href="./theme/css/slide-transition.css" rel="stylesheet"> 
+    <link href="./theme/css/slide-transition2.css" rel="stylesheet">  -->
+    
+    <link href="./theme/css/pygments/native.css" rel="stylesheet">
+    <link rel="stylesheet" href="./theme/css/style.css" type="text/css"/>
+
+    <link href="./feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="TESS ATOM Feed"/>
+    <link href="./feeds/all.rss.xml" type="application/rss+xml" rel="alternate" title="TESS RSS Feed"/>
+
+</head>
+<body>
+
+<!-- Print a warning message that this is not the official site -->
+<div class="container container-wide" style="background-color: #d35400; color: white; padding: 1.5em; font-weight: bold;">
+  <div class="container">
+   <i class="fa fa-warning fa-lg fa-margin"></i>
+    This is the development version of the TESS Science Support Center website.
+    For the live website, visit <a href="https://heasarc.gsfc.nasa.gov/docs/tess/">https://heasarc.gsfc.nasa.gov/docs/tess</a>
+  </div>
+</div>
+
+<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+
+  <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a href="./" class="navbar-brand">
+<img src="./images/NASA_logo_vector_lg.png" width="32"/> TESS            </a>
+        </div>
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav navbar-nav">
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Mission <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="./objectives.html">Objectives</a></li>
+                                <li><a href="./the-tess-space-telescope.html">Telescope</a></li>
+                                <li><a href="./primary.html">Primary mission</a></li>
+                                <li><a href="./extended.html">First Extended mission</a></li>
+                                <li><a href="./second-extended.html">Second Extended mission</a></li>
+                                <li><a href="./faq.html">FAQ</a></li>
+                                <li><a href="./citizenscience.html">Citizen Science</a></li>
+                                <li><a href="./gallery.html">Outreach resources</a></li>
+                                <li><a href="./publications.html">Publications</a></li>
+                                <li><a href="./media.html">Media Request</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Data & tools <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="./data-handling.html">Data pipeline</a></li>
+                                <li><a href="./data-products.html">Data products</a></li>
+                                <li><a href="./data-access.html">Data access</a></li>
+                                <li><a href="./data-analysis-tools.html">Data analysis tools</a></li>
+                                <li><a href="./community.html">Community products</a></li>
+                                <li><a href="./community-tools.html">Community tools</a></li>
+                                <li><a href="./documentation.html">Documentation</a></li>
+                                <li><a href="./data_release_notes.html">Data release notes</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Observations <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="./observing-technical.html">Technical details</a></li>
+                                <li><a href="./sector.html">Sector dates</a></li>
+                                <li><a href="./approved-programs.html">Approved GI programs</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Proposing <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="./proposing-investigations.html">Guest Investigator Proposals</a></li>
+                                <li><a href="./proposal-tools.html">Proposal & observation tools</a></li>
+                                <li><a href="./ddt.html">Director's Discretionary Target program</a></li>
+                                <li><a href="./proposal-templates.html">Proposal templates</a></li>
+                            </ul>
+                        </li>
+            </ul>
+            
+            <ul class="nav navbar-nav">
+                <li>
+                    <a href="./helpdesk.html"><i class="fa fa-info-circle fa-lg"></i> Helpdesk</a>
+                </li>
+            </ul>
+            
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+</div> <!-- /.navbar -->
+<!-- Banner -->
+<!-- End Banner -->
+
+<div class="container">
+    <div class="row">
+        <div class="col-lg-12">
+
+    <section id="content">
+        <article>
+            <header >
+                <h1>
+                    <a href="./tess-weekly-bulletin-june-28th.html"
+                       rel="bookmark"
+                       title="Permalink to TESS Weekly Bulletin: June 28th">
+                        TESS Weekly Bulletin: June 28th
+                    </a>
+                </h1>
+            </header>
+            <div class="entry-content">
+<p style="margin-bottom: 1.5em;">
+    <span class="published categories-timestamp">
+        News article posted on
+        <time datetime="2022-06-28T10:00:00-04:00"> 28 Jun 2022</time>
+    
+
+
+            by <a href="./author/veselin-kostov.html">Veselin Kostov</a>
+
+
+
+    
+
+    </span>
+</p><!-- /.post-info -->                <p>Welcome TESS followers to our latest news bulletin! This week, we are looking at three papers from the archive. Enjoy!</p>
+<p><strong><a href="https://arxiv.org/abs/2206.03989">Pterodactyls: A Tool to Uniformly Search and Vet for Young Transiting Planets In TESS Primary Mission Photometry</a></strong> <em>(Fernandes et al., 2022)</em> <strong>:</strong></p>
+<p>A comparison between young and old short-period planet populations provides valuable insights into the mechanisms responsible for evolutionary features such as the radius valley and the hot Neptune desert. Major challenges for the detection of young short-period transiting planets are astrophysical and systematics effects such as stellar variability and instrumental artifacts. This paper presents a new pipeline, Pterodactyls, which builds upon available tools and is designed to extract, detrend, search, and vet young transiting planets detected in the 30-min TESS photometry. Fernandes et al. use the pipeline to search for transiting planets in Tucana-Horologium Assocation, IC 2602, Upper Centaurus Lupus, Ursa Major and Pisces Eridani. The authors recovered eight of the ten known planets and planet candidates, found additional 15 transiting signals produced by eclipising binaries, and computed a planet occurrence rate of 49+/-20%. </p>
+<p><strong><a href="https://arxiv.org/abs/2206.02825">Determining Which Binary Component Hosts the TESS Transiting Planet</a></strong> <em>(Lester et al., 2022)</em> <strong>:</strong></p>
+<p>Many planet candidates reside in binary or higher-order systems. Determining which of the component stars in such systems hosts a planet candidate cannot be achieved from transit photometry alone and further analysis is requred. Here, Lester et al. use speckle imaging observations from Gemini, WYIN, and SOAR to study 23 binary systems hosting transiting planet candidates from TESS. The authors identify the host component in each system by combining the transit photometry from TESS with the ground-based observations, and determine the true transit depths, planet radius and mean density. They found that most of the planet candidates in their sample orbit the primary stars (~70%), in two systems, the host is the secondary star, and in 5 out of the 23 systems, the host is uncertain. These results have important implications both for studies of exoplanet demographics and for future direct-imaging observations of planets in well-resolved binary systems. </p>
+<p><strong><a href="https://arxiv.org/abs/2206.040711">TESS Shines Light on the Origin of the Ambiguous Nuclear Transient ASASSN-18el</a></strong> <em>(Hinkle et. al.,  2022)</em> <strong>:</strong></p>
+<p>Active Galactic Nuclei (AGN) vary both photometrically and spectroscopically, and can exhibit extreme flaring events such as tidal distuptions, accretion rate changes, or ambiguous nuclear transients (ANTs). The latter are often difficult to classify due to lack of expected features or the presence of unexpected features. This paper presents a detailed analysis of ASASSN-18el ANT using data from ASASSN, ATLAS, TESS, NICER, and several ground-based observations. The peculiar observational behaviour of ASASSN-18el has been attributed to either to instabilities in the AGN, or to increased accretion due to tidal discuption. Hinkle et al. find that (i) the optical transient emission from ASASSN-18el remains detectable until at least 1250 days after peak; (ii) the initial decline is flatter than the power-law expected from tidal discuption events; (iii) the TESS data shows strong variability on timescales of weeks; (iv) there is a multi-wavelength plateau during the TESS-NICER overlap. Based on their analysis, the authors argue that the flare in ASASSN-18el is likely due to a large AGN flare.</p>
+<p><img alt="Fernandes2022" src="images/Fernandes_Fig8.png" /></p>
+<p><strong>Fig. 1:</strong> <em>Taken from Fernandes et. al., (2022). Overall detection efficiency of pterodactyls. Darker regions indicate higher detection efficiency. The star symbols represent confirmed planets. The solid rectangle outlines the parameters space used to calcuate the intrinsic occurrence frequency for sub-Neptunes and Neptunes with orbital periods shorter than 12.5 days.</em></p>
+<p><img alt="Lester2022" src="images/Lester_Fig7.png" /></p>
+<p><strong>Fig. 2:</strong> <em>Taken from Lester al., (2022). The probability that the host of a planet candidate in 23 binary systems is the primary star, shown as a function of the binary magnitude difference. The host is the primary star in most of the studied systems.</em></p>
+<p><img alt="Hinkle2022" src="images/Hinkle_Fig6.png" /></p>
+<p><strong>Fig. 3:</strong> <em>Taken from Hinkle et. al., (2022). TESS (dark red symbols) and NICER (black symbols) observations of ASASSN-18el. The X-ray emission component is more luminous than the optical component by more than an order of magnitude during the overlap between the two sets of observations.</em></p>
+            </div>
+            <!-- /.entry-content -->
+        </article>
+    </section>
+
+        </div>
+    </div>
+</div>
+
+<div class="container container-wide" style="margin-top: 1.5em;">
+  <footer>
+
+     <div class="container">
+
+      <!-- Partner logos -->  
+      <div class="row">
+        <div class="col-md-10"> 
+          <a href="http://tess.mit.edu/"><img src="./images/partners/mit-logo.png" width="80" alt="MIT Logo"></a> &nbsp;&nbsp;&nbsp;
+         <a href="http://www.nasa.gov/"><img src="./images/NASA_logo_vector_lg.png" width="60" alt="NASA Logo"></a> &nbsp;&nbsp;&nbsp;
+         <a href="https://www.cfa.harvard.edu/"><img src="./images/partners/CfA_Horizontal_CMYK.png" width="176" alt="CfA Logo"></a> &nbsp;&nbsp;&nbsp;
+<!--          <a href="https://www.ll.mit.edu/"><img src="./images/partners/lincoln-laboratory.png" width="50" alt="Lincoln Labs Logo"></a> &nbsp;&nbsp;&nbsp; -->
+         <a href="https://http://www.northropgrumman.com/"><img src="./images/partners/Northrop_Grumman.png" width="176" alt="Orbital ATK Logo"></a> &nbsp;&nbsp;&nbsp;
+         <a href="http://www.stsci.edu/"><img src="./images/partners/stsci_logo2.png" width="110" alt="STScI Logo"></a> 
+        </div>
+      </div>
+
+      
+      <!-- Related websites -->  
+      <div class="row">
+        <div class="col-xs-12">
+          <h5><i class="fa fa-external-link"></i><span class="icon-label">Related websites:</span></h5>
+          <a href="https://nasa.gov/tess" target="_blank">
+                  News, Media, and Education Resources
+              </a>
+          <br/>
+          <a href="http://tess.mit.edu/" target="_blank">
+                  TESS @ MIT
+              </a>
+          <br/>
+          <a href="http://archive.stsci.edu/tess" target="_blank">
+                  TESS @ MAST
+              </a>
+          <br/>
+          <a href="https://heasarc.gsfc.nasa.gov/" target="_blank">
+                  High Energy Astrophysics Science Archive Research Center
+              </a>
+          <br/>
+          <a href="http://exoplanetarchive.ipac.caltech.edu" target="_blank">
+                  NASA Exoplanet Archive @ IPAC
+              </a>
+          <br/>
+        </div>
+      </div>
+
+      <!-- NASA logo and notices -->
+      <div class="row" style="margin-top:2em;">
+         <div class="col-md-10"> <a href="http://www.nasa.gov/"><img src="./images/NASA_logo_vector_lg.png" width="30" alt="NASA Logo"></a> 
+         Last modified: Tue 28 June 2022
+            &middot; Editor: Thomas Barclay &middot; NASA Official: Patricia T Boyd 
+            &middot; <a href="http://www.nasa.gov/about/highlights/HP_Privacy.html">Privacy Policy and Important Notices</a><p></p>         </div>
+         <div class="col-md-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
+      </div>
+    </div>
+
+  </footer>
+</div>
+<script src="./theme/js/jquery.min.js"></script>
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="./theme/js/bootstrap.min.js"></script>
+
+<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
+<script src="./theme/js/respond.min.js"></script>
+
+    <script src="./theme/js/bodypadding.js"></script>
+<!-- Analytics scripts -->
+
+
+</body>
+</html>
