@@ -28,7 +28,7 @@ TESS began regular science operations on July 25, 2018. In the 2-year [prime mis
 
 In July of 2020 TESS entered into its [first extended mission](extended.html) that started. In this extension the TESS mission changed to become a more community focused science mission. A new 20-second cadence data mode was introduced, and the FFI cadence changed from 30-minutes to 10-minutes.
 
-TESS is expected to enter into its [second extension](second-extended.html) of the mission in September, 2022. 
+TESS will enter into its [second extension](second-extended.html) of the mission in September, 2022. During this second extension the FFI cadence will change to 200 seconds.
 
 <br/>
 <img class="img-responsive" style="max-width:80%;" src="images/mission/tess_first_light_quarter.jpg">
