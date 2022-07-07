@@ -50,7 +50,7 @@ The members of the TESS GI office are listed below.
     
      <div class="col-sm-3 text-center">
         <img src="images/faces/Tyler.jpg"  style="max-width:80%;" class="img-circle"><br>
-        Tyler Pritchard<br>
+        Dr Tyler Pritchard<br>
         Support Scientist
     </div>
     
