@@ -1,5 +1,5 @@
-Title: TESS Weekly Bulletin: July 6th
-Date: 2022-07-06 10:00
+Title: TESS Weekly Bulletin: July 7th
+Date: 2022-07-07 10:00
 Author: Veselin Kostov
 
 Welcome TESS followers to our latest news bulletin! Before we highlight some of the more recent papers from the archive, we would like to introduce you to the newest member of our team -- Dr. Tyler Pritchard -- who is joining us as a TESS GI Support Scientist.
