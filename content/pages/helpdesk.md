@@ -9,22 +9,28 @@ The members of the TESS GI office are listed below.
 
 <div class="row">
 
-    <div class="col-sm-3 text-center">
-        <img src="images/faces/knicole.jpg" style="max-width:77%;" class="img-circle"><br>
+    <div class="col-sm-4 text-center">
+        <img src="images/faces/knicole.jpg" style="max-width:50%;" class="img-circle"><br>
         Dr Knicole Colón<br>
         Project Scientist / Director of the Guest Investigator Office
     </div>
     
-    <div class="col-sm-3 text-center">
-        <img src="images/faces/Allison_photo.jpg" style="max-width:77%;" class="img-circle"><br>
+    <div class="col-sm-4 text-center">
+        <img src="images/faces/Allison_photo.jpg" style="max-width:50%;" class="img-circle"><br>
         Dr Allison Youngblood<br>
         Deputy Project Scientist
     </div>
     
-    <div class="col-sm-3 text-center">
-        <img src="images/faces/christina.jpg"  style="max-width:77%;" class="img-circle"><br>
+    <div class="col-sm-4 text-center">
+        <img src="images/faces/christina.jpg"  style="max-width:50%;" class="img-circle"><br>
         Dr Christina Hedges<br>
         Deputy Director of the Guest Investigator Office
+    </div>
+
+    <div class="col-sm-4 text-center">
+        <img src="images/faces/mark.png"  style="max-width:50%;" class="img-circle"><br>
+        Mark Messersmith<br>
+        Administrative Support
     </div>
     
     
@@ -32,24 +38,22 @@ The members of the TESS GI office are listed below.
     
 <div class="row">
 
-   <div class="col-sm-3 text-center">
-    <img src="images/faces/rebekah.jpg" style="max-width:77%;" class="img-circle"><br>
+   <div class="col-sm-4 text-center">
+    <img src="images/faces/rebekah.jpg" style="max-width:50%;" class="img-circle"><br>
         Dr Rebekah Hounsell<br>
         Support Scientist
     </div>
     
-    <div class="col-sm-3 text-center">
-        <img src="images/faces/Veselin_Kostov.png"  style="max-width:77%;" class="img-circle"><br>
-
+    <div class="col-sm-4 text-center">
+        <img src="images/faces/Veselin_Kostov.png"  style="max-width:50%;" class="img-circle"><br>
         Dr Veselin Kostov<br>
         Support Scientist
     </div>
     
-     <div class="col-sm-3 text-center">
-        <img src="images/faces/mark.png"  style="max-width:77%;" class="img-circle"><br>
-
-        Dr Mark Messersmith<br>
-        Administrative Support
+     <div class="col-sm-4 text-center">
+        <img src="images/faces/Tyler.jpg"  style="max-width:50%;" class="img-circle"><br>
+        Tyler Pritchard<br>
+        Support Scientist
     </div>
     
 </div>
