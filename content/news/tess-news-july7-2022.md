@@ -1,4 +1,4 @@
-Title: TESS Weekly Bulletin: July 7th
+Title: TESS Weekly Bulletin: July 7th 2022
 Date: 2022-07-07 10:00
 Author: Veselin Kostov
 
