@@ -23,7 +23,7 @@ A star is considered to be bended when its flux has been significantly contamina
 
 Targets with pixel stamps that did not fully capture the bleed trails.
 
-##Off center targets 
+##Off center targets
 281592043, 419793478, 469844770, and 469849622
 
 These targets are near the corners of Camera 2, are off-center in their pixel stamps. This was due to an error in the focal plane geometry model that was corrected for future sectors. As a consequence, the optimal aper- tures are clipped by the edge of the stamps. Other targets in the corners of Camera 2 may also be slightly off-center; however, all other pixel stamps fully contain the optimal aperture

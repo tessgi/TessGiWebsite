@@ -1,0 +1,75 @@
+
+
+<div class="panel panel-primary">
+  <div class="panel-heading">
+    <h3 class="panel-title">Information</h3>
+  </div>
+
+<table class="table table-striped table-hover" style="font-size: 0.77em;">
+       <col style="width:5%">
+       <col style="width:5%">
+       <col style="width:25%">
+       <col style="width:25%">
+       <col style="width:13.3%">
+       <col style="width:13.3%">
+       <col style="width:13.3%">
+
+       <thead>
+       <tr>
+       <th style="vertical-align: middle;">DRN</th>
+       <th style="vertical-align: middle;">Orbits</th>
+       <th style="vertical-align: middle;">Dates (UTC) <p>Start - End</p></th>
+       <th style="vertical-align: middle;">Cadence # <p>Start - End</p></th>
+       <th style="vertical-align: middle;">Data pause <p>(days)</p></th>
+       <th style="vertical-align: middle;">Science data (days)</th>
+       <th style="vertical-align: middle;">Momentum dumps</th>
+       <th style="vertical-align: middle;">Problematic <p>TIC ID's</p></th>
+       </tr>
+       </thead>
+
+
+       <tr>
+       <td><a href="https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_sector_27_drn38_v02.pdf">38</a></td>
+       <td><p>61</p>
+       <p>62</p></td>
+       <td><p>2020-07-05 -- 2020-07-17</p>
+       <p>2020-07-18 -- 2020-07-30</p></td>
+       <td><p>582349 -- 590884</p>
+       <p>591619 -- 599894<p></td>
+       <td>1.02</td>
+       <td>23.35</td>
+       <td><p>1</p>
+       <p>1</p></td>
+       <td><a href="sector_27.html">list</a></td>
+       </tr>
+
+ 	<td colspan="3" style="vertical-align: middle;"><b>Issue</b></td>
+	<td colspan="5" style="vertical-align: middle;"><b>Description</b></td>
+
+
+       <tr>
+       <td colspan="3" >Spacecraft pointing:</td>
+       <td colspan="5" >Year 3 is a re-observation of the southern ecliptic hemisphere, which will take place over 13 sectors. The pointing strategy is the same as for Year 1, except the locations of Sectors 27–39 are offset in ecliptic longitude with respect to Sectors 1–13. All sectors in Year 3 are planned for a spacecraft pointing of −54 degrees in ecliptic latitude.</td>
+       </tr>
+
+       <tr>
+       <td colspan="3" >Scattered light:</td>
+       <td colspan="5" >In Sector 27, the Earth is a significant source of scattered light throughout both orbits.</td>
+       </tr>
+
+       <tr>
+       <td colspan="3" ><b><p>Big Updates!</p>
+       <p>This is the first data release for the extended mission</p><b></td>
+       <td colspan="5" >
+	<p>FFI data is collected every 10 min, rather than 30.</p>
+	<p>Selected pixel stamps are collected at a 20-sec cadence.</p>
+	<p>Data products for the 20 second mode have the keyword "fast" in the file names.</p>
+	<p>For 20-second data, only target pixel files, light curve files, collateral pixel files, and co-trending basis vectors (CBVs) were produced.</p>
+	<p>As usual cosmic rays were mitigated in the 2-minute cadence data and 10-minute FFIs by an algorithm running on the instrument firmware - see DRN pg. 8, for more info. Note however, that in the new 20-second pixel data cosmic rays were identified and removed in the pipeline, and that they can be restored in the pixel data and light curves if necessary.</p>
+	<p>The background correction employed throughout the primary mission was updated for the extended mission. The new method provides improved results for fainter and crowded stars. The correction is applied only to 2-min and 20-sec data. A full explanation of this correction is on pg. 10 of the DRN</p>
+        <p>For targets observed in both Year 1 and Year 3, Year 3 processing was done using TIC 8.1 while TIC 7 was used for Year 1 processing; this may result in different results for certain targets. Differences for some crowded and/or dim targets may also result from the background correction algorithm update (see below). Reprocessing of Year 1 data with TIC 8.1 and the latest codebase is underway at the SPOC, as of Fall 2020. </p>
+        <p>The algorithm in the CAL module that propagates uncertainty from the 2D bias model was changed. This uncertainty is a static term and is no longer applied to the pixel data or subsequent processing in the pipeline.</p>
+        <p>The algorithm in the PA module that estimates the sky background was changed.  A scalar offset is now applied that forces the dimmest background-corrected pixels to values near zero, if those pixels were significantly negative.</p>
+       </tr></td>
+</table>
+</div>

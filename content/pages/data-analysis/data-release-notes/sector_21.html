@@ -1,0 +1,78 @@
+
+
+<div class="panel panel-primary">
+  <div class="panel-heading">
+    <h3 class="panel-title">Information</h3>
+  </div>
+
+<table class="table table-striped table-hover" style="font-size: 0.77em;">
+       <col style="width:5%">
+       <col style="width:5%">
+       <col style="width:25%">
+       <col style="width:25%">
+       <col style="width:13.3%">
+       <col style="width:13.3%">
+       <col style="width:13.3%">
+
+       <thead>
+       <tr>
+       <th style="vertical-align: middle;">DRN</th>
+       <th style="vertical-align: middle;">Orbits</th>
+       <th style="vertical-align: middle;">Dates (UTC) <p>Start - End</p></th>
+       <th style="vertical-align: middle;">Cadence # <p>Start - End</p></th>
+       <th style="vertical-align: middle;">Data pause <p>(days)</p></th>
+       <th style="vertical-align: middle;">Science data (days)</th>
+       <th style="vertical-align: middle;">Momentum dumps</th>
+       <th style="vertical-align: middle;">Problematic <p>TIC ID's</p></th>
+       </tr>
+       </thead>
+
+	<tr>  
+       <td><a href="https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_sector_21_drn29_v03.pdf">29</a></td>
+       <td><p>49</p> 
+       <p>50</p></td>
+       <td><p>2020-01-21 -- 2020-02-04</p>
+       <p>2020-02-05 -- 2020-02-18</p></td>
+       <td><p>462941 -- 472707</p>
+       <p>473374 -- 482634<p></td>
+       <td>0.93</td>
+       <td>24.42</td>
+       <td><p>Every 6.25 days</p>
+       <p>Every 6.5 days</p></td>
+       <td><a href="sector_21.html">list</a></td>
+       </tr>
+
+
+ 	<td colspan="3" style="vertical-align: middle;"><b>Issue</b></td>
+	<td colspan="5" style="vertical-align: middle;"><b>Description</b></td>
+
+       <tr>
+       <td colspan="3" >Instrument reset:</td>
+       <td colspan="5" >Occurred in orbit 50, no data collected for 2 min between TJD 1892.50598 and 1892.50875.</td>
+       </tr>
+   
+       <tr>
+       <td colspan="3" >Science data:</td>
+       <td colspan="5" > days</td>
+       </tr>
+      
+       
+        <tr>  
+       <td colspan="3" >Spacecraft pointing:</td>
+       <td colspan="5" >Camera 1 and Camera 4 were both used for guiding in orbit 49; Camera 4 alone was used for guiding in orbit 50.</td>
+       </tr>
+
+       <tr>  
+       <td colspan="3" >Scattered light:</td>
+       <td colspan="5" >In Sector 21, the Moon passes through the field of view of Camera 1 at the start of orbit 50, saturating the detectors. A strong glint also appears in Camera 2 during this time.</td>
+       </tr>
+
+       <tr>  
+       <td colspan="3" ><b>Big Update!</b></td>
+       <td colspan="5" >In Sector 21, the the FFI timestamps have been adjusted for the 0.5 second staggered readouts of the four cameras and the 0.02 second staggered readouts for individual CCDs within a camera.
+       TSTART and TSTOP in the FFIs of previous sectors need to be adjusted for the readout offsets of each camera—see DRN 25 for additional details.
+       </td>
+       </tr>
+
+</table>
+</div>
