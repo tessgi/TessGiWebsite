@@ -29,6 +29,6 @@ Low-mass stars can often produce flares and superflares with energies of up to 1
 
 **Fig. 2:** *Taken from Barac al. (2022). Measured period vs luminosity of their delta Scuti sample for targets brighter than V = 12 mag and fractional parallax uncertainty less than 5%.*
 
-![Rigney2022](images/Rigney_2022_Fig.png)
+![Rigney2022](images/Rigney_2022_Fig4.png)
 
 **Fig. 3:** *Taken from Rigney et. al. (2022). TESS (upper panels) and ASKAP Stokes I (lower panels) observations of three active M dwarfs. The radio data is 4 sigma above the RMS for all sources.*
