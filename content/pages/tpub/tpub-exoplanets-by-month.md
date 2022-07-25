@@ -61,6 +61,76 @@ Naponiello, L., Mancini, L., Damasso, M., et al.
 2022, not refereed ([2022arXiv220703293N](http://adsabs.harvard.edu/abs/2022arXiv220703293N))
 <span class="badge">0 citations</span>
 
+10. [THE CARMENES SEARCH FOR EXOPLANETS AROUND M DWARFS. BENCHMARKING THE IMPACT OF ACTIVITY IN HIGH-PRECISION RADIAL VELOCITY MEASUREMENTS](http://adsabs.harvard.edu/abs/2022A&A...663A..27J)  
+Jeffers, S. V., Barnes, J. R., Schöfer, P., et al.    
+2022, refereed ([2022A&A...663A..27J](http://adsabs.harvard.edu/abs/2022A&A...663A..27J))
+<span class="badge">2 citations</span>
+
+11. [A NEW METHOD TO CORRECT FOR HOST STAR VARIABILITY IN MULTI-EPOCH OBSERVATIONS OF EXOPLANET TRANSMISSION SPECTRA](http://adsabs.harvard.edu/abs/2022MNRAS.tmp.1858P)  
+Panwar, Vatsal, Désert, Jean-Michel, Todorov, Kamen O., et al.    
+2022, refereed ([2022MNRAS.tmp.1858P](http://adsabs.harvard.edu/abs/2022MNRAS.tmp.1858P))
+<span class="badge">0 citations</span>
+
+12. [THE HOT NEPTUNE WASP-166~B WITH ESPRESSO I: REFINING THE PLANETARY ARCHITECTURE AND STELLAR VARIABILITY](http://adsabs.harvard.edu/abs/2022arXiv220710127D)  
+Doyle, L., Cegla, H. M., Bryant, E., et al.    
+2022, not refereed ([2022arXiv220710127D](http://adsabs.harvard.edu/abs/2022arXiv220710127D))
+<span class="badge">0 citations</span>
+
+13. [TWO LONG-PERIOD TRANSITING EXOPLANETS ON ECCENTRIC ORBITS: NGTS-20 B (TOI-5152 B) AND TOI-5153 B](http://adsabs.harvard.edu/abs/2022arXiv220703911U)  
+Ulmer-Moll, S., Lendl, M., Gill, S., et al.    
+2022, not refereed ([2022arXiv220703911U](http://adsabs.harvard.edu/abs/2022arXiv220703911U))
+<span class="badge">0 citations</span>
+
+14. [WEAK EVIDENCE FOR VARIABLE OCCULTATION DEPTH OF 55 CNC E WITH TESS](http://adsabs.harvard.edu/abs/2022A&A...663A..95M)  
+Meier Valdés, E. A., Morris, B. M., Wells, R. D., et al.    
+2022, refereed ([2022A&A...663A..95M](http://adsabs.harvard.edu/abs/2022A&A...663A..95M))
+<span class="badge">0 citations</span>
+
+15. [A SEARCH FOR TRANSIT TIMING VARIATIONS IN THE HATS-18 PLANETARY SYSTEM](http://adsabs.harvard.edu/abs/2022MNRAS.tmp.1844S)  
+Southworth, John, Barker, A. J., Hinse, T. C., et al.    
+2022, refereed ([2022MNRAS.tmp.1844S](http://adsabs.harvard.edu/abs/2022MNRAS.tmp.1844S))
+<span class="badge">0 citations</span>
+
+16. [GJ 3929: HIGH PRECISION PHOTOMETRIC AND DOPPLER CHARACTERIZATION OF AN EXO-VENUS AND ITS HOT, MINI-NEPTUNE-MASS COMPANION](http://adsabs.harvard.edu/abs/2022arXiv220710672B)  
+Beard, Corey, Robertson, Paul, Kanodia, Shubham, et al.    
+2022, not refereed ([2022arXiv220710672B](http://adsabs.harvard.edu/abs/2022arXiv220710672B))
+<span class="badge">0 citations</span>
+
+17. [UNBIASING THE DENSITY OF TTV-CHARACTERISED SUB-NEPTUNES: UPDATE OF THE MASS-RADIUS RELATIONSHIP OF 34 KEPLER PLANETS](http://adsabs.harvard.edu/abs/2022arXiv220707456L)  
+Leleu, A., Delisle, J. -B., Udry, S., et al.    
+2022, not refereed ([2022arXiv220707456L](http://adsabs.harvard.edu/abs/2022arXiv220707456L))
+<span class="badge">0 citations</span>
+
+18. [THE CARMENES SEARCH FOR EXOPLANETS AROUND M DWARFS. ROTATIONAL VARIATION IN ACTIVITY INDICATORS OF ROSS 318, YZ CMI, TYC 3529-1437-1, AND EV LAC](http://adsabs.harvard.edu/abs/2022A&A...663A..68S)  
+Schöfer, P., Jeffers, S. V., Reiners, A., et al.    
+2022, refereed ([2022A&A...663A..68S](http://adsabs.harvard.edu/abs/2022A&A...663A..68S))
+<span class="badge">0 citations</span>
+
+19. [THE VISUAL SURVEY GROUP: A DECADE OF HUNTING EXOPLANETS AND UNUSUAL STELLAR EVENTS WITH SPACE-BASED TELESCOPES](http://adsabs.harvard.edu/abs/2022PASP..134g4401K)  
+Kristiansen, Martti H. K., Rappaport, Saul A., Vanderburg, Andrew M., et al.    
+2022, refereed ([2022PASP..134g4401K](http://adsabs.harvard.edu/abs/2022PASP..134g4401K))
+<span class="badge">0 citations</span>
+
+20. [THE DETECTION OF TRANSITING EXOPLANETS BY GAIA](http://adsabs.harvard.edu/abs/2022A&A...663A.101P)  
+Panahi, Aviad, Zucker, Shay, Clementini, Gisella, et al.    
+2022, refereed ([2022A&A...663A.101P](http://adsabs.harvard.edu/abs/2022A&A...663A.101P))
+<span class="badge">1 citations</span>
+
+21. [STELLAR ENERGETIC PARTICLE TRANSPORT IN THE TURBULENT AND CME-DISRUPTED STELLAR WIND OF AU~MICROSCOPII](http://adsabs.harvard.edu/abs/2022arXiv220708952F)  
+Fraschetti, F., Alvarado-Gómez, J. D., Drake, J. J., et al.    
+2022, not refereed ([2022arXiv220708952F](http://adsabs.harvard.edu/abs/2022arXiv220708952F))
+<span class="badge">0 citations</span>
+
+22. [TWO SUBSTELLAR SURVIVOR CANDIDATES; ONE FOUND AND ONE MISSING](http://adsabs.harvard.edu/abs/2022arXiv220707022W)  
+Walters, N., Farihi, J., Marsh, T. R., et al.    
+2022, not refereed ([2022arXiv220707022W](http://adsabs.harvard.edu/abs/2022arXiv220707022W))
+<span class="badge">0 citations</span>
+
+23. [A TENDENCY TOWARD ALIGNMENT IN SINGLE-STAR WARM JUPITER SYSTEMS](http://adsabs.harvard.edu/abs/2022arXiv220706511R)  
+Rice, Malena, Wang, Songhu, Wang, Xian-Yu, et al.    
+2022, not refereed ([2022arXiv220706511R](http://adsabs.harvard.edu/abs/2022arXiv220706511R))
+<span class="badge">0 citations</span>
+
 
 2022-06
 -------
