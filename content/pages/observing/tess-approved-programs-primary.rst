@@ -14,7 +14,9 @@ of a sector.
 You can click on the title of each program to read a summary
 of the research objectives.
 
-For GI programs executed as part of the first extension of the mission please see our `first extension mission proposals page <approved-programs.html>`_ .
+For GI programs executed as part of the first extension of the mission please see our `first extension mission proposals page <approved-programs-em1.html>`_ .
+For GI programs executed as part of the second extension of the mission please see the `second mission extension proposals page <approved-programs.html>`_ .
+
 
 
 Cycle 2
