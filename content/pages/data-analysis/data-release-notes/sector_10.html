@@ -1,10 +1,19 @@
+<div class="drnalert bg-success text-white">
+  <span class="drnclosebtn" onclick="this.parentElement.style.display='none';">&times;</span>
+   Sector 10 was reprocessed in May 2021, updating the background correction, manual exclude flags, timestamps, and input catalog.
+</div>
+
+<div class="drnalert bg-warning text-dark">
+  <span class="drnclosebtn" onclick="this.parentElement.style.display='none';">&times;</span>
+  Warning for Sector 10: A new linearity model is used in pixel calibration.
+</div>
 
 
 <div class="panel panel-primary">
   <div class="panel-heading">
-    <h3 class="panel-title">Information</h3>
+    <h3 class="panel-title">Sector 10 Information</h3>
   </div>
-  
+
 <table class="table table-striped table-hover" style="font-size: 0.77em;">
        <col style="width:5%">
        <col style="width:5%">
@@ -13,7 +22,7 @@
        <col style="width:13.3%">
        <col style="width:13.3%">
        <col style="width:13.3%">
-       
+
        <thead>
        <tr>
        <th style="vertical-align: middle;">DRN</th>
@@ -28,9 +37,9 @@
        </thead>
 
 
-	<tr>  
+	<tr>
        <td><a href="https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_sector_10_drn14_v02.pdf">14</a></td>
-       <td><p>27</p> 
+       <td><p>27</p>
        <p>28</p></td>
        <td><p>2019-03-26 - 2019-04-08</p>
        <p>2019-04-09 -- 2019-04-22</p></td>
@@ -47,23 +56,23 @@
  	<td colspan="3" style="vertical-align: middle;"><b>Issue</b></td>
 	<td colspan="5" style="vertical-align: middle;"><b>Description</b></td>
 
-  <tr>  
+  <tr>
        <td colspan="3">Guiding: </td>
        <td colspan="5"><p>The use of Camera 1 in attitude control was disabled at the start of both orbits due to strong scattered light signals. Camera 1 guiding was enabled in orbit 27 on 2019-03-28 UTC (Cadence # 247263), and orbit 28 on 2019-04-11 UTC (Cadence # 257233)</p></td>
        </tr>
-       
-       
-        <tr>  
+
+
+        <tr>
        <td colspan="3" >Spacecraft pointing:</td>
        <td colspan="5" >At the start of each orbit, the Earth was close to the boresight of Camera 1, and the level of scattered light was too high for meaningful guide star centroids to be measured. Guiding with Camera 1 was therefore disabled at these times, and attitude control was done using only inputs from Camera 4. When Camera 1 guiding was re-enabled, the spacecraft attitude shifted by a small amount, about 1 arc-second (0.05 pixels).</td>
        </tr>
 
-       <tr>  
+       <tr>
        <td colspan="3" >Scattered light:</td>
        <td colspan="5" >In Sector 10, the main stray light features are caused by the Earth at the start of each orbit.</td>
        </tr>
-       
-       <tr>  
+
+       <tr>
        <td colspan="3"><b>Big Updates!</b></td>
        <td colspan="5"><p>In sector 10, a new linearity model is used in pixel calibration. The differences between new and old linearity model are quite small over the majority of the dynamic range of the CCDs, rising to ∼ 1 − 2% near pixel saturation. This new linearity model will be applied to all sector data from Sector 10 on, and it will be applied to data from Sectors 1-9 when those data are reprocessed.</p></td>
        </tr>

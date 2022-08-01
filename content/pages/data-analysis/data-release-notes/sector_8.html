@@ -1,8 +1,16 @@
+<div class="drnalert bg-success text-white">
+  <span class="drnclosebtn" onclick="this.parentElement.style.display='none';">&times;</span>
+   Sector 8 was reprocessed in May 2021, updating the background correction, manual exclude flags, timestamps, and input catalog.
+</div>
 
+<div class="drnalert bg-warning text-dark">
+  <span class="drnclosebtn" onclick="this.parentElement.style.display='none';">&times;</span>
+  Warning for Sector 8: At TJD 1531.74, an interruption in communications between the instrument and spacecraft occurred, resulting in the instrument being turned off and a loss of ~3 days of data.
+</div>
 
 <div class="panel panel-primary">
   <div class="panel-heading">
-    <h3 class="panel-title">Information</h3>
+    <h3 class="panel-title">Sector 8 Information</h3>
   </div>
 
 <table class="table table-striped table-hover" style="font-size: 0.77em;">
@@ -27,9 +35,9 @@
        </tr>
        </thead>
 
-	<tr>  
+	<tr>
        <td><a href="https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_sector_08_drn10_v02.pdf">10</a></td>
-       <td><p>23</p> 
+       <td><p>23</p>
        <p>24</p></td>
        <td><p>2019-02-02 -- 2019-02-14</p>
        <p>2019-02-15 -- 2019-02-27</p></td>
@@ -50,27 +58,27 @@
        <td colspan="3" >Instrument reset:</td>
        <td colspan="5" >At TJD 1531.74, an interruption in communications between the instrument and spacecraft occurred, resulting in an instrument turn-off until TJD 1535.00. No data or telemetry were collected during this period. After the instrument anomaly the heaters were turned on, increasing the camera temperature by ∼ 20◦ to approximately −67◦ C. Once the camera power was restored, the heaters were turned off and the camera temperatures returned to nominal within three days. The temperature increase caused changes in the camera focal plane scale and mean black levels of individual CCD channels. The mean black levels are calibrated out in the SPOC pipeline. Changes in focal plane temperature cause changes in the raw photometry, but the PDC systematic error-correction algorithm removes this effect for most targets</td>
        </tr>
-       
-       	<tr>  
+
+       	<tr>
        <td colspan="3">Guiding: </td>
        <td colspan="5"><p>The use of Camera 1 in attitude control was disabled at the start of both orbits due to strong scattered light signals. Camera 1 guiding was enabled in orbit 23 on 2019-02-02 UTC (Cadence # 208757), and orbit 24 on 2019-02-15 UTC (Cadence # 218154)</p></td>
        </tr>
-       
-        <tr>  
+
+        <tr>
        <td colspan="3" >Space craft pointing:</td>
        <td colspan="5" >At the start of each orbit, the Earth was close to the boresight of Camera 1, and the level of scattered light was too high for meaningful guide star centroids to be measured. Guiding with Camera 1 was therefore disabled at these times. When Camera 1 guiding was re-enabled, the spacecraft attitude shifted by a small amount, about 1 arc-second (0.05 pixels). These times are marked with Attitude Tweak flags in the data products.</td>
        </tr>
 
-       <tr>  
+       <tr>
        <td colspan="3" >Scattered light:</td>
        <td colspan="5" >In Sector 8, the main stray light features are caused by the Earth at the start of each orbit, and the Moon in Camera 1 towards the start of orbit 24.
        <p>The algorithm in the CAL module that removes the 1D bias from raw pixel data was changed. The 1D bias estimate is now split into two components, a time-dependent scalar correction and a static row-dependent correction.</p></td>
        </tr>
 
-       <tr>  
+       <tr>
        <td colspan="3" ><b>Big Updates:</b></td>
        <td colspan="5" >The algorithm in the CAL module that removes the 1D bias from raw pixel data was changed. The 1D bias estimate is now split into two components, a time-dependent scalar correction and a static row-dependent correction.</td>
        </tr>
-       
+
 </table>
 </div>

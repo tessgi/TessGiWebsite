@@ -1,8 +1,12 @@
-
+<div class="drnalert bg-warning text-dark">
+  <span class="drnclosebtn" onclick="this.parentElement.style.display='none';">&times;</span>
+  Warning for Sector 19: In orbit 46—no data were collected for four minutes due to an instrument reset.
+The FFI timestamps for Sector 19 do not account for the 0.5 second staggered readouts of the four cameras. The offsets for each camera can be added to the TSTART and TSTOP header values in the FFIs to correct the issue.
+</div>
 
 <div class="panel panel-primary">
   <div class="panel-heading">
-    <h3 class="panel-title">Information</h3>
+    <h3 class="panel-title">Sector 19 Information</h3>
   </div>
 
 <table class="table table-striped table-hover" style="font-size: 0.77em;">
@@ -27,9 +31,9 @@
        </tr>
        </thead>
 
-       <tr>  
+       <tr>
        <td><a href="https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_sector_19_drn26_v02.pdf">26</a></td>
-       <td><p>45</p> 
+       <td><p>45</p>
        <p>46</p></td>
        <td><p>2019-11-28 -- 2019-12-10</p>
        <p>2019-12-11 -- 2019-12-23</p></td>
@@ -46,12 +50,12 @@
 	<td colspan="5" style="vertical-align: middle;"><b>Description</b></td>
 
 
-       <tr>  
+       <tr>
        <td colspan="3">Instrument reset:</td>
-       <td colspan="5">An instrument reset occurred in orbit 46—no data were collected for four minutes between TJD 1838.73169 and 1838.73586</td>   
+       <td colspan="5">An instrument reset occurred in orbit 46—no data were collected for four minutes between TJD 1838.73169 and 1838.73586</td>
        </tr>
 
-       <tr>  
+       <tr>
        <td colspan="3">Spacecraft pointing:</td>
        <td colspan="5">Camera 1 and Camera 4 were both used for guiding in orbits 45 and 46.</td>
        </tr>
