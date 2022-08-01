@@ -4,7 +4,7 @@ Approved Guest Investigator programs
 
 .. contents::
 
-This page details the `Guest Investigator programs <proposing-investigations.html>`_ executed by TESS during the second extension of its mission.
+This page details the `Guest Investigator programs <proposing-investigations.html>`_ that will be executed by TESS during the second extension of its mission.
 
 The target lists are posted on this page
 as soon as the team has prepared the final target list
