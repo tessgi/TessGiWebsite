@@ -1,9 +1,0 @@
-# TESS Program G05095
-
-Title: EXOPLANET DEMOGRAPHICS: TRANSITING PLANETS AS PROBES OF STELLAR VARIABILITY AND PLANETARY ARCHITECTURES
-
-PI: LAUREN DOYLE - UNIVERSITY OF WARWICK
-
-Type: MINI
-
-Summary: Exoplanets with both photometric and spectroscopic observations are highly prized, as their combined measurements provide details on planetary compositions and the overall nature of the systems. In this proposal, we ask for 2-min cadence lightcurves of 51 F, G, K and M type targets. We will combine the TESS lightcurves with archival and new ground-based spectroscopic observations from the world's leading facilities. Our goal is to determine for the first time/refine star-planet alignments and characterise stellar surface magnetic variability. The former is important to validate planet evolution theories, and the latter is imperative to help push the Doppler confirmation of exoplanets towards rocky, temperate worlds.

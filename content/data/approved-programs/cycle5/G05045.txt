@@ -1,9 +1,0 @@
-# TESS Program G05045
-
-Title: CONFIRMING ULTRA-HOT JUPITERS FROM TESS
-
-PI: BRIAN JACKSON - BOISE STATE UNIVERSITY
-
-Type: SMALL
-
-Summary: Ultra-hot Jupiters UHJs present many observational opportunities and theoretical conundra. Their large masses and short periods facilitate follow-up, particularly of radial velocities (RVs). Observational evidence points to ongoing tidal decay of their orbits, demanding an accurate and expanded catalog for long-term monitoring, and their phase curves evince highly dynamic meteorology involving disassociation, ionization, and magnetic fields. We propose to use Cycles 1 through 5 TESS data, leavened with ground-based observations, to validate or confirm possible UHJs already identified as ``planetary candidates'' on the Exoplanet Archive.

@@ -1,9 +1,0 @@
-# TESS Program G05143
-
-Title: ONE THOUSAND AND ONE (+49) FLARY NIGHTS: A COMPREHENSIVE MINI-SURVEY OF FLARES AND EXOPLANETS
-
-PI: MAXIMILIAN GUENTHER - EUROPEAN SPACE AGENCY
-
-Type: MINI
-
-Summary: The only star where flares can be directly imaged and resolved remains our Sun, and yet stellar flares shape exoplanets and might drive their habitability. It is thus crucial to leverage all-sky data and gain a demographic picture of how these physical processes can be translated to other worlds. We propose observing TESS' 50 most flaring stars with 20 s cadence and the 1,000 next most flaring stars with 2 min cadence to fulfil two major goals: (1) better understanding the activity properties of these most extreme flaring stars, and (2) searching for exoplanets orbiting them.

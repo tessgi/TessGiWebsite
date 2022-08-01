@@ -1,9 +1,0 @@
-# TESS Program G05105
-
-Title: CHARACTERIZING ACTIVITY CYCLES WITH FLARES FROM TESS
-
-PI: JAMES DAVENPORT - UNIVERSITY OF WASHINGTON
-
-Type: SMALL
-
-Summary: The Sun's 11-year cycle of surface magnetic activity strength is an essential observation in understanding the origin and mechanics of magnetic dynamos in stars. Rates of stochastic flares on the Sun are observed to vary by at least an order of magnitude from activity cycle maximum to minimum. Flares should therefore be one of the highest-amplitude indicators of activity cycles for nearby stars. We propose to analyze 2-min light curves for 736 dwarfs that previously had at least 20 flares observed by TESS. By generating per-Sector flare rates, and leveraging the now 5-year baseline of TESS, we can study activity cycle variation on months to years timescales.

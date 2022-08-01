@@ -1,9 +1,0 @@
-# TESS Program G05088
-
-Title: DETECTION AND CHARACTERIZATION OF PLANETS AROUND HOT WHITE DWARF CANDIDATES
-
-PI: MARCO GOMEZ-MUNOZ - INSTITUTO DE ASTRONOMIA (UNAM) MEXICO
-
-Type: MINI
-
-Summary: It has become unclear in recent years how a planet can survive the late stages of the stellar evolution of low- and intermediate-mass stars. Recently, thanks to the TESS mission, it has been discovered a planet candidate, similar to the mass of Jupiter and ten times its mass, orbiting a white dwarf (WD) star, which demonstrates that planets can avoid being tidally disrupted by their host star. However, the proportion of planets that can survive being tidally disrupted by their host star or planets that survived the common envelope stage is unknown. In order to address these questions, a selection of hot-WD (Teff>50kK), as obtained from a spectral energy distribution analysis (from UV to optical) and public catalogues, are being proposed to be observed by the TESS mission on its Cycle 5.

@@ -1,9 +1,0 @@
-# TESS Program G05110
-
-Title: THE TESS TRANSIENT PATROL
-
-PI: BENJAMIN SHAPPEE - UNIVERSITY OF HAWAII (MANOA)
-
-Type: LARGE
-
-Summary: The transient sky is ripe for TESS. The FFIs are not only a treasure trove for exoplanet and stellar science, but they also present a great opportunity for the transient community. In Cycle 5 TESS will uniquely produce high-dynamic range, high-cadence 200-second FFI light curves for large amplitude, bright transients. We have developed two FFI pipelines using the first ~4 years of data and we will continue to improve these pipelines to better correct for systematics. Here we propose to bring the lightcurves to the people by creating a TESS FFI light curve server that is publicly accessible, easy to use, and utilizes an interface already familiar to a large fraction of the community.

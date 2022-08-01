@@ -1,9 +1,0 @@
-# TESS Program G05104
-
-Title: STUDYING MINUTE TIMESCALE VARIABILITY OF WHITE DWARFS IN THE CYCLE 5 TESS FULL FRAME IMAGES
-
-PI: KEVIN BURDGE - MASSACHUSETTS INSTITUTE OF TECHNOLOGY
-
-Type: LARGE
-
-Summary: In cycle 5, TESS will be decreasing the full frame image (FFI) exposure time to 200s, from 600s. This leap in cadence will significantly enhance our ability to explore white dwarf astrophysics across a range of science cases. Here we propose to extract lightcurves of the one million out of 1.4 million white dwarf candidates from Gaia eDR3Fusillo2021 that will be visible during TESS Cycle 5, and perform a thorough analysis of these lightcurves using a suite of period finding algorithms, and making both the lightcurves and power spectra produced from this program publically available.

@@ -1,9 +1,0 @@
-# TESS Program G05072
-
-Title: ACCURATE MEASUREMENTS OF OPTICAL GAMMA-RAY LAGS IN BLAZARS USING TESS FULL FRAME IMAGE LIGHT CURVES
-
-PI: XINYU DAI - UNIVERSITY OF OKLAHOMA
-
-Type: SMALL
-
-Summary: We propose to accurately measure the gamma-ray optical lags in flaring blazars by jointly analyzing TESS FFI and Fermi-LAT light curves. The radiation mechanism for the high energy spectral component of blazars is currently under debates. While SED fitting is in general not sufficient to distinguish between models, the geometrical constraints provided by timing analysis can provide new constraints to break the degeneracy. The proposed analysis will significantly increase the sample of lag measurements by a factor of several compared to existing measurements, enabling us to measure the lag distribution between the synchrotron and high energy blazar emission components and provide geometrical constraints that can distinguish models for blazar emission at MeV to TeV range.
