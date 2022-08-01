@@ -1,0 +1,9 @@
+# TESS Program G05084
+
+Title: DISINTEGRATING ROCKY BODIES TRANSITING WHITE DWARFS: THE KEY TO UNDERSTANDING EXOPLANET COMPOSITIONS
+
+PI: ANDREW VANDERBURG - MASSACHUSETTS INSTITUTE OF TECHNOLOGY
+
+Type: SMALL
+
+Summary: Many white dwarfs have been found to have their surfaces "polluted" by remnant rocky bodies from their progenitors' planetary systems. These polluted white dwarfs are our best observational probe of exoplanet interior chemical compositions, which they can reveal with exquisite sensitivity. However, without a good understanding of the origins of white dwarf pollution, it is impossible to fully leverage the information about chemical compositions from the pollution on their surfaces. Using TESS we will study the origins and process of white dwarf pollution by identifying transiting disintegrating minor planets on their way to polluting white dwarfs. This will help to properly interpret the information about planetary compositions from the surfaces of white dwarfs.

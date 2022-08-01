@@ -1,0 +1,9 @@
+# TESS Program G05093
+
+Title: INVESTIGATING STAR-PLANET INTERACTIONS OF THE MISALIGNED EXOPLANET SYSTEM WASP-33
+
+PI: ALIZ DEREKAS - ELTE GOTHARD ASTROPHYSICAL OBSERVATORY
+
+Type: MINI
+
+Summary: The host star of the WASP-33 exoplanet system is a rapidly rotating delta Scuti star. It was recently detected that WASP-33 is experiencing tidally perturbed oscillations in g modes and likely caused by the spin-orbit misalignment of the system. The wavelet map of the frequencies < 5 1/d shows vivid amplitude and frequency modulations in the timescale ~1.5 2 orbits. The 20 sec cadence observations will enable us to examine the wavelet-map of WASP-33 at the higher pulsational frequencies. We can also investigate the precession of WASP-33b and reconstruct the full phase curves that will lead to better constrains of the interior. The better sampling of 20 sec cadence data will give more accurate times of mid-transits, so enable us to carry out more thorough transit timing variation analysis.

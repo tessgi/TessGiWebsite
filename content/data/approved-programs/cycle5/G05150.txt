@@ -1,0 +1,9 @@
+# TESS Program G05150
+
+Title: MULTIWAVELENGTH TESS-SWIFT-NICER OBSERVATIONS OF PULSATIONS IN FLARES ON SOLAR-TYPE STARS
+
+PI: TERESA MONSUE - NASA/GSFC & USRA
+
+Type: SMALL
+
+Summary: Stellar atmospheres encompass an abundance of waves and oscillations driven by flares. Oscillatory and pulsating signatures, commonly known as quasi-periodic pulsations, are observed at many wavelengths during both solar and stellar flares and are observed in the flare decay branch in stellar light curves. These phenomena travel on the magnetic field lines in the star's atmosphere. We propose a multiwavelength study of oscillations within flares on solar-type stars to place constraints on the interpretation and understanding of the fundamental processes operating in both solar and stellar flares at different layers within the stellar atmosphere. We propose 48 TESS 20-sec data of highly active G-K stars and simultaneous TESS-Swift-NICER data for 4 highly active flaring stars for this study.

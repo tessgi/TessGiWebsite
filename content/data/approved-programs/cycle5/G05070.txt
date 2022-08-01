@@ -1,0 +1,9 @@
+# TESS Program G05070
+
+Title: THE ORIGIN AND IMPACT OF FLARES IN M DWARF SYSTEMS - THE OPTICAL AND MILLIMETER PERSPECTIVE
+
+PI: MEREDITH MACGREGOR - UNIVERSITY OF COLORADO
+
+Type: MINI
+
+Summary: M dwarfs are the most common stars in the galaxy and have a high frequency of Earth-sized planets at an equilibrium temperature that places them in the habitable zone, making them favored targets of upcoming missions to detect and characterize exoplanets. We propose to obtain 20-sec cadence TESS observations of a volume-limited sample of 23 nearby M dwarfs, which we will complement with simultaneous ALMA ACA or SMA millimeter observations. The results of this proposal will increase the sample of stars observed simultaneously with optical and millimeter wavelengths considerably and allow us to study correlations and trends for a statistically significant sample.

@@ -1,0 +1,9 @@
+# TESS Program G05103
+
+Title: A TALE OF SPACE AND GROUND: HUNTING FOR EXOPLANETS AND FLARES ON THE NEAREST LATE M DWARFS
+
+PI: MAXIMILIAN GUENTHER - EUROPEAN SPACE AGENCY
+
+Type: SMALL
+
+Summary: Late-type M dwarf exoplanet systems are ubiquitous and open new doors for detailed atmospheric characterization. However, TESS alone is less effective for ultra-cool stars, and so the community needs to establish collaborations with ground-based surveys. We here propose a joint effort to observe 280 carefully selected, nearby (< 40 pc) late M dwarfs with 20 s cadence in Cycle 5. We select targets where TESS can detect temperate Earth-sized planets with SNR>3 and the ground can immediately confirm them. This strongly expands TESS' reach and impact to the most interesting targets for JWST and the ELTs. As a free byproduct, we can study stellar flares on an under-explored sample in unprecedented detail, adding pivotal data on the interaction between stars and planets.

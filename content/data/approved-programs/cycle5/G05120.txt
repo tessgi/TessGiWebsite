@@ -1,0 +1,9 @@
+# TESS Program G05120
+
+Title: THE YOUNG SOLAR NEIGHBORHOOD WITH TESS
+
+PI: JACQUELINE FAHERTY - AMERICAN MUSEUM OF NATURAL HISTORY
+
+Type: SMALL
+
+Summary: The local volume around the Sun is a laboratory for studying all aspects of star and planet formation. ESA's Gaia telescope is revolutionizing our understanding of co-moving associations and TESS is well placed to complement efforts to understand kinematic structures and the window they provide on stars and planets. In Cycle 5 TESS will observe 21340 sources that span 84 different kinematic structures within 1kpc. We propose to use this data to (1) measure new rotation rates (2) better classify complex rotators, (3) and ultimately determine the gyrochronology relations across 1Myr - 1Gyr in discreet age bins. We plan on making our catalog of over 20,000 rotation rates available in a young star database containing all complimentary astrometric, kinematic, and chromospheric youth indicators.

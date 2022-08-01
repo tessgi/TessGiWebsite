@@ -1,0 +1,9 @@
+# TESS Program G05142
+
+Title: SEARCH FOR VARIABLE AGN IN GREEN PEA GALAXIES USING TESS
+
+PI: SANTOSH HARISH - ARIZONA STATE UNIVERSITY
+
+Type: SMALL
+
+Summary: We propose TESS monitoring of ~100 Green Pea galaxies (GPs) to test for Active Galactic Nuclei. GPs are low-luminosity, low-mass, compact galaxies with extremely strong emission lines including [OIII], Lyman-alpha, and lines of highly ionized species. They are the best known analogs of the low-mass, early galaxies that powered cosmological reionization, and show a higher variability fraction than other dwarf galaxies. TESS Cycle 5 data will allow uniquely precise and accurate variability monitoring on time scales varying from hours to years, important for identifying low mass nuclear black holes, and in large enough numbers to constrain the AGN fraction in Green Peas. We will use AGN-customized pipeline to average Full Frame Images on hour timescales to study sources as faint as 20th mag.

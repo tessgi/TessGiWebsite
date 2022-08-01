@@ -1,0 +1,9 @@
+# TESS Program G05115
+
+Title: A SEARCH FOR HABITABLE-ZONE PLANETS AND THEIR PRECURSORS ORBITING WHITE DWARF STARS
+
+PI: ROBERT ALOISI - UNIVERSITY OF WISCONSIN-MADISON
+
+Type: SMALL
+
+Summary: We are requesting 20-second TESS cadences to search locations of white dwarf stars from Gaia eDR3 for periodic light curve signals from small, habitable exoplanets. Expected periods for habitable zone planets orbiting cool white dwarfs would be around 0.5 to 4 days. Planets transiting white dwarf stars would have deep transits that should be detectable even though the stars are relatively faint at 16 to 18 mag. Any planets discovered will be excellent candidates for JWST observations of exoplanet atmospheres.

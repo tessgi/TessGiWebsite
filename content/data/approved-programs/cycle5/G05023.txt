@@ -1,0 +1,9 @@
+# TESS Program G05023
+
+Title: TESS REACHES FOR COOLER PLANETS
+
+PI: DIANA DRAGOMIR - UNIVERSITY OF NEW MEXICO
+
+Type: KEY PROJECT
+
+Summary: TESS has revolutionized the study of short-period exoplanets by discovering transiting worlds around some of our closest and brightest stellar neighbors, but its impact on longer-period systems has been limited by the short observational baselines. Until we better characterize these cooler planets, which have been less impacted by photo-evaporation than their hotter counterparts, and some of which may even be hospitable to life, we cannot fully understand the processes that sculpt planetary populations and the prospects for life outside the solar system. We propose an extensive Key Project to identify and characterize two times more long-period exoplanets in TESS Extended Mission 2 relative to TESS primary and first extended missions, and enable follow-up observations of these worlds.

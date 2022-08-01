@@ -1,0 +1,9 @@
+# TESS Program G05089
+
+Title: JOINT TRANSIT AND ASTEROSEISMIC ANALYSIS OF WASP-33B
+
+PI: JOHNATHON AHLERS - NASA/GSFC & USRA
+
+Type: SMALL
+
+Summary: WASP-33b is a benchmark planet for studying hot Jupiters. The gas giant has been studied extensively for over a decade due to its excellent signal to noise (m_TESS=7.87) and because it is representative of many of the fascinating properties of hot Jupiters. However, the host star is a rapidly-rotating $\delta$ Scuti pulsator, which introduces complex additional signals into photometry and complicates parameter estimation. We therefore propose to independently test several key characteristics of WASP-33b by performing a joint transit and asteroseismic analysis using Cycle 5 data. Our analysis will yield improved constraints on the host star's bulk density, rotation rate, oblateness, inclination, and temperature, and will provide independent constraints on WASP-33b's nodal precession.

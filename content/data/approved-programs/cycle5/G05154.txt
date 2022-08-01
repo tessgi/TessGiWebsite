@@ -1,0 +1,9 @@
+# TESS Program G05154
+
+Title: THE CONFIRMATION AND CHARACTERIZATION OF SMALL TESS PLANETS
+
+PI: KAREN COLLINS - HARVARD-SMITHSONIAN CENTER FOR ASTROPHYSICS
+
+Type: KEY PROJECT
+
+Summary: TESS Objects of Interest suffer from high false-positive rates due to the large (21") pixels of the TESS detectors. Without ground-based photometric and spectroscopic follow-up, one cannot be confident in the planetary nature of many TESS candidates, nor can one be confident that costly PRV and atmospheric observations will succeed. We propose a Key Project to use a select set of premier ground-based facilities to observe primarily small (Rp < 4 Re) TOIs identified in TESS Cycles 5, 6, and 7, rule out NEBs, detect false positives, and refine orbital and physical properties of the system. These observations are crucial for planning PRV and atmospheric observations. We will also support TFOP and TESS GI proposed observations of other interesting targets as available telescope time allows.
