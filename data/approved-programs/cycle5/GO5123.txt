@@ -1,0 +1,9 @@
+# TESS Program GO5123
+
+Title: REFINING THE SEARCH FOR M DWARF OSCILLATIONS USING TESS
+
+PI: ROCIO KIMAN - KAVLI INSTITUTE FOR THEORETICAL PHYSICS
+
+Type: SMALL
+
+Summary: Asteroseismology is one of the most powerful tools to study the interior and fundamental properties of stars. Oscillations have not yet been detected at the lowest-mass end of the main sequence, although they were predicted several years ago. TESS has a unique combination of red sensitivity and short observing cadence, which makes it ideally suited to photometric detection of M dwarf oscillations. If detected, these would be a true breakthrough in oscillation detection. M dwarf oscillations would also provide an independent way to estimate mass, radius and effective temperature, which could help fix the existing discrepancies between observations and models. In this proposal we attempt to measure M dwarf oscillations using the TESS 20 second cadence data on the best targets available.

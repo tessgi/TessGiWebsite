@@ -1,0 +1,9 @@
+# TESS Program GO5162
+
+Title: TESS S EAR ON THE METAL-POOR MILKY WAY
+
+PI: JAMIE TAYAR - UNIVERSITY OF FLORIDA
+
+Type: SMALL
+
+Summary: The metal-poor populations of stars in the Milky Way encode the history of chemical enrichment, galactic creation and destruction. Because of the location of the Kepler field, these stars generally do not have the sort of precise asteroseismic characterization we have come to expect for metal-rich benchmarks, and problems have been noted when comparing to models. TESS has already identified more such stars and with new data from TESS Cycle 5, the majority of these stars will have sufficient data for detailed measurements. We therefore propose to perform an asteroseismic analysis for ~1000 metal poor stars, and to provide a catalog of results including masses and ages, as well as information for stars from interesting populations, including stellar streams associated with galaxy mergers.
