@@ -1,0 +1,9 @@
+# TESS Program GO5022
+
+Title: CONFIRMATION OF TESS GIANT PLANETS
+
+PI: WILLIAM COCHRAN - UNIVERSITY OF TEXAS AT AUSTIN
+
+Type: SMALL
+
+Summary: We propose to use the Tull Coude Spectrograph of the McDonald Observatory 2.7m Harlan J. Smith Telescope to obtain precise radial velocity measurements of selected TESS Objects of Interest with potential transiting giant planets in order to obtain excellent orbit determinations and planet characterizations. Our proposed orbital determinations of hot- and warm-Jupiters and Saturns will add significantly to the known population of well characterized objects. We will place particular emphasis on determining which of these objects have non-zero eccentricities by specifically targeting appropriate orbital phases. We will search carefully for indications of additional planets (either inner or outer) in the HJ and WJ systems that we confirm, and place limits on their presence where none are

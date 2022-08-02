@@ -1,0 +1,9 @@
+# TESS Program GO5116
+
+Title: SEARCH FOR OUTBURSTS OF BE STARS IN THE OBSERVATION FIELDS OF CYCLE 5
+
+PI: MARCELO EMILIO - UNIVERSIDADE ESTADUAL DE PONTA GROSSA
+
+Type: MINI
+
+Summary: We propose to continue the search for and characterization of discrete mass-loss events (outbursts) in Be stars located in TESS observation fields (initiated in TESS Cycle 1) as well as in Be stars observed during the Kepler/K2 mission. Rapid rotation alone cannot explain the ejection episodes, and non-radial pulsations (NRP) have been proposed as an explanation. Our goal is to verify the correlation between the NRP regime and the feeding of the envelope by combining ground-based spectroscopy data with the identification of outbursts and the measurement of small changes in pulsation frequencies with TESS 2-min cadence observations. Fourier analysis of photometric data is performed using a methodology developed for CoRoT and K2 Be stars.
