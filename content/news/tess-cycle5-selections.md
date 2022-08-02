@@ -73,7 +73,7 @@ In total 49 proposals were accepted with the following breakdown:
 </div>
 </div>
 
-Our [approved programs page](https://heasarc.gsfc.nasa.gov/docs/tess/approved-programs.html#cycle-5) provides the full list of accepted Cycle 5 proposals. 
+Our [approved programs page](approved-programs.html#cycle-5) provides the full list of accepted Cycle 5 proposals. 
 
 Congratulations to all successful PI's and Co-I's!
 To those of you who did not receive acceptance letters this time round, we strongly encourage you to apply again in the future. 
