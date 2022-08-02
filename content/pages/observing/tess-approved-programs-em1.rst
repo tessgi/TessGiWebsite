@@ -1,5 +1,5 @@
-Approved Guest Investigator programs
-####################################
+Approved Guest Investigator programs from the first extension
+#############################################################
 :save_as: approved-programs-em1.html
 
 .. contents::
@@ -14,8 +14,9 @@ of a sector.
 You can click on the title of each program to read a summary
 of the research objectives.
 
-For GI programs executed as part of the primary mission please see the `primary mission proposals page <approved-programs-primary.html>`_ .
-For GI programs executed as part of the second extension of the mission please see the `second mission extension proposals page <approved-programs.html>`_ .
+For GI programs executed as part of the primary mission please see our `primary mission proposals page <approved-programs-primary.html>`_ .
+
+For GI programs executed as part of the second extension of the mission please see our `second extension proposals page <approved-programs.html>`_ .
 
 
 Cycle 4

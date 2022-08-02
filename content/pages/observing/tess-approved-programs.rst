@@ -14,8 +14,9 @@ of a sector.
 You can click on the title of each program to read a summary
 of the research objectives.
 
-For GI programs executed as part of the primary mission please see the `primary mission proposals page <approved-programs-primary.html>`_ .
-For GI programs executed as part of the first extension of the mission please see the `first mission extension proposals page <approved-programs-em1.html>`_ .
+For GI programs executed as part of the primary mission please see our `primary mission proposals page <approved-programs-primary.html>`_ .
+
+For GI programs executed as part of the first extension of the mission please see our `first extension proposals page <approved-programs-em1.html>`_ .
 
 
 Cycle 5
@@ -23,7 +24,7 @@ Cycle 5
 .. raw:: html
 
     <p>
-    Cycle 5 contains all targets proposed through the Guest Investigator program for the fifth year of the TESS mission. Programs observe sources in the Southern Ecliptic hemisphere.
+    Cycle 5 contains all targets proposed through the Guest Investigator program for the fifth year of the TESS mission. Programs observe sources in the Northern ecliptic hemisphere (Sectors 56-60) and the Southern hemisphere (Sectors 61-69).
     </p>
 
 
