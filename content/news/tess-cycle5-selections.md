@@ -34,7 +34,7 @@ In total 49 proposals were accepted with the following breakdown:
        <td>1</td> 
        <td>0</td>
        <td>0</td>
-       <td>1</td>
+       <td>0</td>
        </tr>
 
        <tr>  
@@ -42,7 +42,7 @@ In total 49 proposals were accepted with the following breakdown:
        <td>1</td> 
        <td>1</td>
        <td>1</td>
-       <td>0</td>
+       <td>1</td>
        </tr>
        
         <tr>  
