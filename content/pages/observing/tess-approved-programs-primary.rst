@@ -4,7 +4,7 @@ Approved Guest Investigator programs from the primary mission
 
 .. contents::
 
-This page details the `Guest Investigator programs <proposing-investigations.html>`_ executed by TESS during its primary mission.
+This page details the `Guest Investigator programs <proposing-investigations.html>`_ that were executed by TESS during its primary mission (July 2018-July 2020).
 
 The target lists are posted on this page
 as soon as the team has prepared the final target list
@@ -14,9 +14,9 @@ of a sector.
 You can click on the title of each program to read a summary
 of the research objectives.
 
-For GI programs executed as part of the first extension of the mission please see our `first extension proposals page <approved-programs-em1.html>`_ .
+For GI programs executed as part of the first extension of the mission (July 2020-September 2022) please see our `first extension proposals page <approved-programs-em1.html>`_ .
 
-For GI programs executed as part of the second extension of the mission please see our `second extension proposals page <approved-programs.html>`_ .
+For GI programs that will be executed as part of the second extension of the mission (September 2022-September 2025) please see our `second extension proposals page <approved-programs.html>`_ .
 
 
 
