@@ -25,7 +25,7 @@ In total 49 proposals were accepted with the following breakdown:
        <th style="vertical-align: middle;">Exoplanet</th>
        <th style="vertical-align: middle;">Stellar Astrophysics</th>
        <th style="vertical-align: middle;"></p>Accretion and Extragalactic</th>
-       <th style="vertical-align: middle;">Ground-based Focused:</th>
+       <th style="vertical-align: middle;">Ground-based Focused</th>
        </tr>
        </thead>
 
@@ -72,6 +72,10 @@ In total 49 proposals were accepted with the following breakdown:
      </table>
 </div>
 </div>
+
+
+<img src="images/Cycle5_selected.png", style="max-width:70%;">
+
 
 Our [approved programs page](approved-programs.html#cycle-5) provides the full list of accepted Cycle 5 proposals. 
 
