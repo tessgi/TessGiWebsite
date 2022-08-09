@@ -5,9 +5,9 @@ Save_as: quicklook-mission.html
 
 The TESS mission has been in operation since 2018 and during its lifetime it has observed both the northern and southern hemispheres.
 
-In the table below we provide basic information about each year of the mission, such as dates, sectors, data products, links to pointing information, and data release notes (DRNs) provided by the project. These DRNs provide a detailed description of modifications to the data and processing pipeline, in addition to any issues that may have occurred during a sector. 
+In the table below we provide basic information about each year of the mission, such as dates, sectors, data products, links to pointing information, and [data release notes (DRNs)](https://archive.stsci.edu/tess/tess_drn.html) provided by the project. These DRNs provide a detailed description of modifications to the data and processing pipeline, in addition to any issues that may have occurred during a sector. 
 
-A condensed version of these data release notes can be found via our [searchable database](#data_release_notes_search.html). 
+A condensed version of these data release notes can be found via our [searchable DRN database](data_release_notes_search.html). 
 
 
 ##Quick look mission information
