@@ -3,6 +3,10 @@
   Warning for Sector 19: In orbit 46—no data were collected for four minutes due to an instrument reset.
 The FFI timestamps for Sector 19 do not account for the 0.5 second staggered readouts of the four cameras. The offsets for each camera can be added to the TSTART and TSTOP header values in the FFIs to correct the issue.
 </div>
+<div class="drnalert bg-success text-white">
+  <span class="drnclosebtn" onclick="this.parentElement.style.display='none';">&times;</span>
+   Sector 19 was reprocessed in September 2020, updating timestamps, photometric apertures, data anomaly flags, and threshold crossing events.
+</div>
 
 <div class="panel panel-primary">
   <div class="panel-heading">
@@ -32,7 +36,7 @@ The FFI timestamps for Sector 19 do not account for the 0.5 second staggered rea
        </thead>
 
        <tr>
-       <td><a href="https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_sector_19_drn26_v02.pdf">26</a></td>
+       <td><a href="https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_sector_19_drn26_v02.pdf">26</a> and <a href="https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_reprocessing-sector_14_19_drn30_v02.pdf">30</a></td>
        <td><p>45</p>
        <p>46</p></td>
        <td><p>2019-11-28 -- 2019-12-10</p>
@@ -49,6 +53,19 @@ The FFI timestamps for Sector 19 do not account for the 0.5 second staggered rea
  	<td colspan="3" style="vertical-align: middle;"><b>Issue</b></td>
 	<td colspan="5" style="vertical-align: middle;"><b>Description</b></td>
 
+<tr>
+	 <td colspan="3">Reprocessing information:</td>
+	 <td colspan="5">The data products of sectors 14 to 19 were generated using version 4.0 of the science processing pipeline and conform to the final set of data anomaly flags. A detailed description of the changes in the data products can be found in <a href="https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_reprocessing-sector_14_19_drn30_v02.pdf">DRN30</a>, but a summary is provided here.<p></p>
+	   <i>Timestamps:</i> For 2 minute cadence and FFI data the timestamps were made more accurate. The differences between reprocessed data and previous data releases are less than 2.0 seconds in all cases.<p></p>
+	   <i>Photometric apertures:</i> The apertures were increased in size for targets with Tmag less than 11.<p></p>
+	   <i>Data Anomaly Flags:</i> Three new flags were added to mitigate the effects of scattered light;<p></p>
+	   - Cadences with strong scattered light signals or saturation effects that corrupt the calibration data are flagged and removed from analysis.<p></p>
+	   - Scattered light data anomaly flags are customized for each target, and flagged automatically based on the local background level.<p></p>
+	   - Cadences with insufficient targets to derive cotrending basis vectors are flagged and the PDCSAP FLUX light curves are set to NULL at these times<p></p>
+	   The modifications to the data anomaly flags also changed the cotrended light curves produced by PDC. The changes also result in new cotrending basis vectors for each CCD in each sector. The scattered light flags are now only applied to the PDCSAP FLUX light curves.<p></p>
+	   <i>Threshold Corssing Event issue:</i> The planet search of the reprocessed light curves produced a different set of TCEs from the original processed data. Although there is a high degree of overlap between the original and reprocessed data (∼83% of targets produced TCEs in common), new TCEs were produced and not every TCE from previous data releases was recovered.<p></p>
+	 </td>
+</tr>
 
        <tr>
        <td colspan="3">Instrument reset:</td>
