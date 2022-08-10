@@ -17,7 +17,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - TESS Science Support Center" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2022-08-09" />
+    <meta name="dc.date.modified" content="2022-08-10" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Users of TESS Data" />
     <meta name="dc.identifier" content="https://heasarc.gsfc.nasa.gov/docs/tess/" />
@@ -51,6 +51,9 @@ in August 2015, using pelican-bootstrap and flatly.
               content="./images/logo-for-twitter.jpeg"/>
 
 
+    <link href="./theme/css/drn.css" rel="stylesheet">
+
+
     <!-- Why use Helvetica Neue when you can have Lato? -->
     <!-- Why use Lato when you can have Nunito? -->
     <link href="./theme/css/nunito.css" rel="stylesheet">
@@ -63,9 +66,9 @@ in August 2015, using pelican-bootstrap and flatly.
     <link href="./theme/css/mission_icons.css" rel="stylesheet">
 <!--     <link href="./theme/css/photobanner.css" rel="stylesheet">
     <link href="./theme/css/slide-container.css" rel="stylesheet">
-    <link href="./theme/css/slide-transition.css" rel="stylesheet"> 
+    <link href="./theme/css/slide-transition.css" rel="stylesheet">
     <link href="./theme/css/slide-transition2.css" rel="stylesheet">  -->
-    
+
     <link href="./theme/css/pygments/native.css" rel="stylesheet">
     <link rel="stylesheet" href="./theme/css/style.css" type="text/css"/>
 
@@ -130,6 +133,7 @@ in August 2015, using pelican-bootstrap and flatly.
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Observations <b class="caret"></b></a>
                             <ul class="dropdown-menu">
+                                <li><a href="./quicklook-mission.html">TESS at a glance</a></li>
                                 <li><a href="./observing-technical.html">Technical details</a></li>
                                 <li><a href="./sector.html">Sector dates</a></li>
                                 <li><a href="./approved-programs.html">Approved GI programs</a></li>
@@ -145,13 +149,13 @@ in August 2015, using pelican-bootstrap and flatly.
                             </ul>
                         </li>
             </ul>
-            
+
             <ul class="nav navbar-nav">
                 <li>
                     <a href="./helpdesk.html"><i class="fa fa-info-circle fa-lg"></i> Helpdesk</a>
                 </li>
             </ul>
-            
+
         </div>
         <!-- /.navbar-collapse -->
     </div>
@@ -175,23 +179,18 @@ in August 2015, using pelican-bootstrap and flatly.
 <p><a href="data_release_notes.html#sector-38"><strong>Sector 38 (April 2021):</strong></a>The TESS Input Catalog was updated to v8.2. This new TIC identifies some newly discovered ARTIFACT and DUPLICATE sources that were not flagged in v8.0/8.1. For a description of these anomalies please read Section 1.1 of the <a href="https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_sector_38_drn55_v02.pdf">DRN</a> in addition to <a href="https://outerspace.stsci.edu/display/TESS/TIC+v8+and+CTL+v8.xx+Data+Release+Notes">supplemental material</a>.<p></p></p>
 </li>
 <li>
-<p><b><a href="https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_reprocessing-sector_1_13_drn42_v02.pdf">Reprocessing of Sectors 1-13 (May 2021)</a></b>:</p>
+<p><b>Reprocessing of Sectors 1-13 (May 2021)</b>:</p>
 <ul>
-<li>During TESS’s primary mission several updates were made to various instrument models, pipeline algorithms, and pipeline parameters. These adjustments are described below, and were applied to all data during the reprocessing of sectors 1-13. Where appropriate the DRN which describes the specific update, is provided.<ul>
-<li>In Sector 2, the instrument electronics model Reference Flux was updated (<a href="https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_sector_01_drn01_v02.pdf">DRN1</a>). The first two overclock rows were removed from the calculation of the 1D bias correction in the CAL module (<a href="https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_sector_02_drn02_v02.pdf">DRN2</a>).</li>
-<li>In Sector 5, the algorithm in the CAL module that removes the 1D bias from raw pixel data was changed. The 1D bias estimate is now split into two components, a time-dependent scalar correction and a static row-dependent correction. Parameters to calibrate PDC goodness metrics were also finalized in the PDC module (<a href="https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_sector_05_drn07_v02.pdf">DRN7</a>).</li>
-<li>In Sector 8, the instrument PRF model was updated (<a href="https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_sector_08_drn10_v02.pdf">DRN10</a>). The updated PRF model corresponds to improved performance in the spacecraft’s Attitude Control System starting in Sector 4.</li>
-<li>In Sector 10, the instrument linearity model was updated (<a href="https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_sector_10_drn14_v02.pdf">DRN14</a>).</li>
-<li>In Sector 14, the algorithm in the TPS module for searching for transiting planets was changed. An initial run of TPS is now used to identify problematic epochs that are assigned “deemphasis weights” in a second and final run of TPS (<a href="https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_sector_19_drn26_v02.pdf">DRN19</a>).</li>
-<li>In Sector 20, the photometric apertures for stars with Tmag &lt; 11 were slightly increased in the COA module. Additionally the layout and annotations of DV reports was refined through the TESS primary mission, and were finalized in Sector 20 (<a href="https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_sector_20_drn27_v03.pdf">DRN27</a>).</li>
-<li>In Sector 27, the algorithm in the CAL module that propagates uncertainty from the 2D bias model was changed. This uncertainty is a static term and is no longer applied to the pixel data or subsequent processing in the pipeline. Note that this change was not applied to Sectors 14–26, which were processed with version 4.0 of the science processing pipeline. Additionally, the algorithm in the PA module that estimates the sky background was changed. A scalar offset is now applied that forces the dimmest background-corrected pixels to values near zero, if those pixels were significantly 1 negative. Note that this change was not applied to Sectors 14–26, which were processed with version 4.0 of the science processing pipeline (<a href="https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_sector_27_drn38_v02.pdf">DRN38</a>).</li>
-</ul>
-</li>
-<li>Targets from Sectors 1–13 were reprocessed with version 8 of the TESS Input Catalog (TIC), consistent with Sectors 14–26. TIC 8 is based on Gaia DR2 rather than 2MASS, and includes significantly more stars and improved stellar parameters. The change in TIC version affects the apertures assigned to individual targets, the calculations of crowding and flux fraction reported in the CROWDSAP and FLUXFRAC keywords, and the physical properties of TCEs derived from stellar parameters.</li>
-<li>The timestamps for data from Sectors 1-13 have been updated. The drift error seen in sectors 1-6 has been removed (<a href="https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_reprocessing-sector_1_13_drn42_v02.pdf">DR42</a> and DRN46). Adjustments to timestamps for electronic effects were also applied (DR30). All data from Sector 1–36 are now reported in a consistent time system.</li>
-<li>New data flags were applied to Sectors 1-13 consistent with those described in <a href="https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_reprocessing-sector_14_19_drn30_v02.pdf">DRN30</a>.These flags are primarily used to mitigate the effects of scattered light. They are applied per target rather than per CCD, and improve the contrending and planet search for the reprocessed data.</li>
-<li>All ”Manual Exclude” flags are now set in a consistent way for the reprocessed data, using a pointing excursion threshold of 7 arcseconds measured from the spacecraft’s fine pointing system (<a href="https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_sector_04_drn05_v04.pdf">DRN5</a>).</li>
-<li>The planet search of the reprocessed light curves produced a different set of TCEs from the original processed data. Although there is a high degree of overlap between the original and reprocessed data, new TCEs were produced in <a href="https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_reprocessing-sector_1_13_drn42_v02.pdf">DR42</a> and DR46, and not every TCE from previous data releases was recovered. To differentiate between the initial release and this reprocessed data a "pipeline instance number" is included in the filenames of the dv-timeseries, dv-reports, ad dv-result xml files. Larger pin numbers indicate later versions of the software were used to produce the data products. The DR number is also included as a keyword in the export product headers (DATAREL).</li>
+<li>In Sector 2 the instrument electronics model Reference Flux was been updated. The first two overclock rows were also removed from the calculation of the 1D bias correction in the CAL module.</li>
+<li>In Sector 8 the instrument PRF model was updated. The updated PRF model corresponds to improved performance in the spacecraft’s Attitude Control System  starting in Sector 4. Note that Sectors 1–3 were also reprocessed with this model.</li>
+<li>In Sector 5 the parameters to calibrate PDC goodness metrics were finalized in the PDC module.</li>
+<li>Targets from Sectors 1–13 were reprocessed with version 8 of the TESS Input Catalog(TIC), consistent with Sectors 14–36. TIC 8 is based on Gaia DR2 rather than 2MASS, and includes significantly more stars and improved stellar parameters.  The change in TIC  version  affects  the  apertures  assigned  to  individual  targets,  the  calculations  of crowding and flux fraction reported in the CROWDSAP and FLUXFRAC keywords, and the physical properties of TCEs derived from stellar parameters.</li>
+<li>The timestamps for data from Sectors 1-13 have been updated. All data from Sector 1–36 are now reported in a consistent time system. </li>
+<li>New data flags were applied to Sectors 1-13 consistent with those described in <a href="https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_reprocessing-sector_14_19_drn30_v02.pdf">DRN30</a>.These flags are primarily used to mitigate the effects of scattered light. They are applied per target rather than per CCD, and improve the contrending and planet search for the reprocessed data.</li>
+<li>All ”Manual Exclude” flags are now set in a consistent way for the reprocessed data, using a pointing  excursion threshold of 7 arcseconds measured from the spacecraft’s fine pointing system.</li>
+<li>The planet search of the reprocessed light curves produced a different set of TCEs from the original processed data.  Although there is a high degree of overlap between the original and reprocessed data, new TCEs were produced in DR42 and DR46, and not every TCE from previous data releases was recovered.
+To differentiate between the initial release and this reprocessed data a "pipeline instance number" is included in the filenames of the dv-timeseries, dv-reports, ad dv-result xml files. Larger pin numbers indicate later versions of the software were used to produce the data products. The DR number is also included as a keyword in the export product headers (DATAREL).</li>
+<li>An updated sky background correction algorithm was applied to Sectors 1-13 <p></p></li>
 </ul>
 </li>
 <li>
@@ -298,7 +297,7 @@ This sector uses TIC 8, which is based on Gaia DR2 astrometry and photometry, an
       <!-- NASA logo and notices -->
       <div class="row" style="margin-top:2em;">
          <div class="col-md-10"> <a href="http://www.nasa.gov/"><img src="./images/NASA_logo_vector_lg.png" width="30" alt="NASA Logo"></a> 
-         Last modified: Fri 05 August 2022
+         Last modified: Fri 22 July 2022
             &middot; Editor: Thomas Barclay &middot; NASA Official: Patricia T Boyd 
             &middot; <a href="http://www.nasa.gov/about/highlights/HP_Privacy.html">Privacy Policy and Important Notices</a><p></p>         </div>
          <div class="col-md-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
@@ -307,6 +306,7 @@ This sector uses TIC 8, which is based on Gaia DR2 astrometry and photometry, an
 
   </footer>
 </div>
+
 <script src="./theme/js/jquery.min.js"></script>
 
 <!-- Include all compiled plugins (below), or include individual files as needed -->
@@ -318,6 +318,7 @@ This sector uses TIC 8, which is based on Gaia DR2 astrometry and photometry, an
     <script src="./theme/js/bodypadding.js"></script>
 <!-- Analytics scripts -->
 
+<script src="./theme/js/drn.js"></script>
 
         <script>
           $('#mytoc').affix({
