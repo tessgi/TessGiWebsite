@@ -110,7 +110,7 @@ MENUITEMS = (
                       )
         ),
         ('Observations', (
-            ('TESS At A Glance', 'quicklook-mission.html'),
+            ('TESS at a glance', 'quicklook-mission.html'),
             ('Technical details', 'observing-technical.html'),
             ('Sector dates', 'sector.html'),
             ('Approved GI programs', 'approved-programs.html'),
