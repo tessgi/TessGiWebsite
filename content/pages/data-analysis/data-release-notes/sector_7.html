@@ -1,6 +1,6 @@
 <div class="drnalert bg-success text-white">
   <span class="drnclosebtn" onclick="this.parentElement.style.display='none';">&times;</span>
-   Sector 7 was reprocessed in May 2021, updating the background correction, manual exclude flags, timestamps, and input catalog.
+   Sector 7 was reprocessed in May 2021, updating the background correction, manual exclude flags, timestamps, and input catalog. For more deatil please see the Reprocessing Information table below.
 </div>
 
 <div class="drnalert bg-warning text-dark">
@@ -15,16 +15,16 @@
 
 <table class="table table-striped table-hover" style="font-size: 0.77em;">
        <col style="width:5%">
-       <col style="width:5%">
        <col style="width:25%">
        <col style="width:25%">
-       <col style="width:13.3%">
-       <col style="width:13.3%">
-       <col style="width:13.3%">
+       <col style="width:15%">
+       <col style="width:15%">
+       <col style="width:15%">
+       <col style="width:15%">
+
 
        <thead>
        <tr>
-       <th style="vertical-align: middle;">DRN</th>
        <th style="vertical-align: middle;">Orbits</th>
        <th style="vertical-align: middle;">Dates (UTC) <p>Start - End</p></th>
        <th style="vertical-align: middle;">Cadence # <p>Start - End</p></th>
@@ -36,7 +36,6 @@
        </thead>
 
        <tr>
-       <td><a href="https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_sector_07_drn09_v03.pdf">9</a> and <a href="https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_reprocessing-sector_1_13_drn42_v02.pdf">42</a></td>
        <td><p>21</p>
        <p>22</p></td>
        <td><p>2019-01-08  -- 2019-01-19</p>
@@ -50,41 +49,102 @@
        <td><a href="sector_20.html">list</a></td>
        </tr>
 
- 	<td colspan="3" style="vertical-align: middle;"><b>Issue</b></td>
-       <td colspan="5" style="vertical-align: middle;"><b>Description</b></td>
-
+       
        <tr>
-       <td colspan="3">Reprocessing information:</td>
-       <td colspan="5">
-	 During TESS’s primary mission several updates were made to various instrument models, algorithms, and pipeline parameters. Below we list what was updated and applied when reprocessing sectors 1-13. Please see <a href="https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_reprocessing-sector_1_13_drn42_v02.pdf">DRN42</a> for a more comprehensive explanation of each update.<p></p>
-	 <i>Instrument models updated:</i> Electronics model Reference Flux, PRF, and  Linearity<p></p>
-	 <i>Calibration Pipeline Module updates:</i> The 1D bias estimate is now split into two components, a time-dependent scalar correction and a static row-dependent correction. The first two overclock rows were also removed. The propagation of the uncertainty from the 2D bias model was changed. It is a static term and no longer applied to pixel data.<p></p>
-	 <i>Pre-Search Data Conditioning Pipeline Module updates:</i> The parameters to calibrate the PDC goodness metrics were finalized.<p></p>
-	 <i>Transiting Planet Search Pipeline Module updates:</i> An initial run of TPS is now used to identify problematic epochs that are assigned “deemphasis weights” in a second and final run of TPS.<p></p>
-	 <i>Compute Optimal Aperture Pipeline Module updates:</i> The photometric apertures for stars with Tmag less than 11 were slightly increased.<p></p>
-	 <i>Photometric Analysis Pipeline Module updates:</i> The sky background estimate was modified. A scalar offset is now applied that forces the dimmest background-corrected pixels to values near zero, if those pixels were significantly negative.<p></p>
-	 <i>TESS Input Catalog update:</i> Targets were reprocessed with version 8 of the TIC. The change affected the apertures assigned to individual targets and the calculations for crowding (CROWDSAP) and flux fraction (FLUXFRAC), and as such the physical properties of TCEs derived from stellar parameters.<p></p>
-	 <i>Timestamps update:</i> Timestamps were updated to account for previous drift errors and electronic effects. All data from Sectors 1–36 are now registered to a consistent time system.<p></p>
-	 <i>New data flags:</i> All flags are now consistent with those described in <a href="https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_reprocessing-sector_14_19_drn30_v02.pdf">DRN30</a>.<p></p>
-	 <i>Threshold Crossing Event issues:</i>The planet search of the reprocessed light curves produced a different set of TCEs from the original processed data. There is a high degree of overlap, but not every TCE from previous data releases was recovered. To differentiate between the initial release and this reprocessed data a "pipeline instance number" is included in the filenames of the dv-timeseries, dv-reports, ad dv-result xml files. Larger pin numbers indicate later versions of the software were used to produce the data products. The DR number is also included as a keyword in the export product headers (DATA_REL).</td>
+	 <td colspan="7">For full data release notes see: <a href="https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_sector_07_drn09_v03.pdf">DRN9</a>, <a href="https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_reprocessing-sector_1_13_drn42_v02.pdf">DRN42 (reprocessing)</a></td>
        </tr>
 
+       <td colspan="2" style="vertical-align: middle;"><b>Issue</b></td>
+       <td colspan="5" style="vertical-align: middle;"><b>Description</b></td>
+
 
        <tr>
-       <td colspan="3">Scattered light:</td>
+       <td colspan="2">Scattered light:</td>
        <td colspan="5">In Sector 7, the main stray light features are caused by the Earth and Moon rising above the sunshade at the end of orbit 21, which continues through the start of orbit 22.</td>
        </tr>
 
        <tr>
-       <td colspan="3">Back level residuals:</td>
+       <td colspan="2">Back level residuals:</td>
        <td colspan="5">Some channels show a small non-zero residual in the mean black level after calibration that is either static (e.g., camera 3, CCD 2, output D) or slowly time varying (e.g., camera 4, CCD 1, all outputs and camera 4, CCD 3, all outputs). The level of these residuals is minor i.e., ∼ 1e<sup>-3</sup> ADU/read and the timescale of variation is of order 5–10 days. These residuals are thought to be caused by the jitter of bright stars on the specific CCD slices, and therefore it is a persistent effect in the rest of the sectors. The impact of these residuals on scientific output is likely negligible. However, the Sector 7 data were calibrated using the updated 1-D black method, from which we do not expect such time-varying residuals.</td>
        </tr>
 
         <tr>
-       <td colspan="3"><b>Big Updates!</b></td>
+       <td colspan="2"><b>Big Updates!</b></td>
        <td colspan="5">As of Sector 7, the spacecraft clock kernel has been updated. The estimated accuracy of the TJD values in all products associated with this data release is 50 ms.</td>
        </tr>
 
+
+</table>
+</div>
+
+<div class="panel panel-primary">
+  <div class="panel-heading">
+    <h3 class="panel-title">Reprocessing Information: <a href="https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_reprocessing-sector_1_13_drn42_v02.pdf">DRN42</a></h3>
+  </div>
+
+<table class="table table-striped table-hover" style="font-size: 0.77em;">
+       <col style="width:25%">
+       <col style="width:75%">
+
+     
+       <tr>
+       <td colspan="2">
+	 During TESS’s primary mission several updates were made to various instrument models, algorithms, and pipeline parameters. Below we list what was updated and applied when reprocessing sectors 1-13. Please see <a href="https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_reprocessing-sector_1_13_drn42_v02.pdf">DRN42</a> for a more comprehensive explanation of each update.</tr>
+       <tr>
+       <td colspan="1" style="vertical-align: middle;"><b>Update</b></td>
+	<td colspan="1" style="vertical-align: middle;"><b>Description</b></td>
+       </tr>
+
+       <tr>
+	 <td colspan="1">Instrument models updated:</td>
+	 <td colspan="1">Electronics model Reference Flux, PRF, and  Linearity</td>
+       </tr>
+
+       <tr>
+	 <td colspan="1">Calibration Pipeline Module updates:</td>
+	 <td colspan="1">The 1D bias estimate is now split into two components, a time-dependent scalar correction and a static row-dependent correction. The first two overclock rows were also removed. The propagation of the uncertainty from the 2D bias model was changed. It is a static term and no longer applied to pixel data.</td>
+       </tr>
+
+        <tr>
+	  <td colspan="1">Pre-Search Data Conditioning Pipeline Module updates:</td>
+	  <td colspan="2">The parameters to calibrate the PDC goodness metrics were finalized.</td>
+	</tr>
+
+	<tr>
+	  <td colspan="1">Transiting Planet Search Pipeline Module updates:</td>
+	  <td colspan="1">An initial run of TPS is now used to identify problematic epochs that are assigned “deemphasis weights” in a second and final run of TPS.</td>
+	</tr>
+
+	
+	<tr>
+	  <td colspan="1">Compute Optimal Aperture Pipeline Module updates:</td>
+	  <td colspan="1">The photometric apertures for stars with Tmag less than 11 were slightly increased.</td>
+	</tr>
+
+       <tr>
+	 <td colspan="1">Photometric Analysis Pipeline Module updates:</td>
+	 <td colspan="1">The sky background estimate was modified. A scalar offset is now applied that forces the dimmest background-corrected pixels to values near zero, if those pixels were significantly negative.</td>
+       </tr>
+
+       <tr>
+	 <td colspan="1">TESS Input Catalog update:</td>
+	 <td colspan="1">Targets were reprocessed with version 8 of the TIC. The change affected the apertures assigned to individual targets and the calculations for crowding (CROWDSAP) and flux fraction (FLUXFRAC), and as such the physical properties of TCEs derived from stellar parameters.</td>
+       </tr>
+
+       <tr>
+	 <td colspan="1">Timestamps update:</td>
+	 <td colspan="1">Timestamps were updated to account for previous drift errors and electronic effects. All data from Sectors 1–36 are now registered to a consistent time system.</td>
+       </tr>
+       
+       <tr>
+	 <td colspan="1">New data flags:</td>
+	 <td colspan="1">All flags are now consistent with those described in <a href="https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_reprocessing-sector_14_19_drn30_v02.pdf">DRN30</a>.</td>
+       </tr>
+       
+	 <tr>
+	   <td colspan="1">Threshold Crossing Event issues:</td>
+	   <td colspan="1">The planet search of the reprocessed light curves produced a different set of TCEs from the original processed data. There is a high degree of overlap, but not every TCE from previous data releases was recovered. To differentiate between the initial release and this reprocessed data a "pipeline instance number" is included in the filenames of the dv-timeseries, dv-reports, ad dv-result xml files. Larger pin numbers indicate later versions of the software were used to produce the data products. The DR number is also included as a keyword in the export product headers (DATA_REL).</td>
+       </tr>
 
 </table>
 </div>

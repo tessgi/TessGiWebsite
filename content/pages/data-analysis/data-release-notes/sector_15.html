@@ -1,10 +1,11 @@
+<div class="drnalert bg-success text-white">
+  <span class="drnclosebtn" onclick="this.parentElement.style.display='none';">&times;</span>
+   Sector 15 was reprocessed in September 2020, updating timestamps, photometric apertures, data anomaly flags, and threshold crossing events. For more deatil please see the Reprocessing Information table below.
+</div>
+
 <div class="drnalert bg-warning text-dark">
   <span class="drnclosebtn" onclick="this.parentElement.style.display='none';">&times;</span>
   Warning for Sector 15: A single upset event in the star trackers caused the spacecraft to fall out of fine pointing in orbit 38. The issue lasts for 5 minutes at TJD 1725.93651 (cadences 358907, 358908, and 358909).
-</div>
-<div class="drnalert bg-success text-white">
-  <span class="drnclosebtn" onclick="this.parentElement.style.display='none';">&times;</span>
-   Sector 15 was reprocessed in September 2020, updating timestamps, photometric apertures, data anomaly flags, and threshold crossing events.
 </div>
 
 
@@ -15,16 +16,15 @@
 
 <table class="table table-striped table-hover" style="font-size: 0.77em;">
        <col style="width:5%">
-       <col style="width:5%">
        <col style="width:25%">
        <col style="width:25%">
-       <col style="width:13.3%">
-       <col style="width:13.3%">
-       <col style="width:13.3%">
+       <col style="width:15%">
+       <col style="width:15%">
+       <col style="width:15%">
+       <col style="width:15%">  
 
        <thead>
        <tr>
-       <th style="vertical-align: middle;">DRN</th>
        <th style="vertical-align: middle;">Orbits</th>
        <th style="vertical-align: middle;">Dates (UTC) <p>Start - End</p></th>
        <th style="vertical-align: middle;">Cadence # <p>Start - End</p></th>
@@ -36,51 +36,85 @@
        </thead>
 
        <tr>
-       <td><a href="https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_sector_15_drn21_v02.pdf">21</a> and <a href="https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_reprocessing-sector_14_19_drn30_v02.pdf">30</a></td>
-       <td><p>37</p>
-       <p>38</p></td>
-       <td><p>2019-08-15 -- 2019-08-28</p>
-       <p>2019-08-29 -- 2019-09-10</p></td>
-       <td><p>348411-- 357409</p>
-       <p>358186 -- 367167<p></td>
-       <td>1.08</td>
-       <td>24.97</td>
-       <td><p>Every 4.25 days</p>
-       <p>Every 4.25 days</p></td>
-       <td><a href="sector_16.html">list</a></td>
+         <td><p>37</p>
+	   <p>38</p></td>
+	 <td><p>2019-08-15 -- 2019-08-28</p>
+	   <p>2019-08-29 -- 2019-09-10</p></td>
+	 <td><p>348411-- 357409</p>
+	   <p>358186 -- 367167<p></td>
+	 <td>1.08</td>
+	 <td>24.97</td>
+	 <td><p>Every 4.25 days</p>
+	   <p>Every 4.25 days</p></td>
+	 <td><a href="sector_16.html">list</a></td>
        </tr>
 
- 	<td colspan="3" style="vertical-align: middle;"><b>Issue</b></td>
+       <tr>
+	 <td colspan="7">For full data release notes see: <a href="https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_sector_15_drn21_v02.pdf">DRN21</a>, <a href="https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_reprocessing-sector_14_19_drn30_v02.pdf">DRN30 (reprocessing)</a></td>
+       </tr>
+
+ 	<td colspan="2" style="vertical-align: middle;"><b>Issue</b></td>
 	<td colspan="5" style="vertical-align: middle;"><b>Description</b></td>
 
-<tr>
-	 <td colspan="3">Reprocessing information:</td>
-	 <td colspan="5">The data products of sectors 14 to 19 were generated using version 4.0 of the science processing pipeline and conform to the final set of data anomaly flags. A detailed description of the changes in the data products can be found in <a href="https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_reprocessing-sector_14_19_drn30_v02.pdf">DRN30</a>, but a summary is provided here.<p></p>
-	   <i>Timestamps:</i> For 2 minute cadence and FFI data the timestamps were made more accurate. The differences between reprocessed data and previous data releases are less than 2.0 seconds in all cases.<p></p>
-	   <i>Photometric apertures:</i> The apertures were increased in size for targets with Tmag less than 11.<p></p>
-	   <i>Data Anomaly Flags:</i> Three new flags were added to mitigate the effects of scattered light;<p></p>
-	   - Cadences with strong scattered light signals or saturation effects that corrupt the calibration data are flagged and removed from analysis.<p></p>
-	   - Scattered light data anomaly flags are customized for each target, and flagged automatically based on the local background level.<p></p>
-	   - Cadences with insufficient targets to derive cotrending basis vectors are flagged and the PDCSAP FLUX light curves are set to NULL at these times<p></p>
-	   The modifications to the data anomaly flags also changed the cotrended light curves produced by PDC. The changes also result in new cotrending basis vectors for each CCD in each sector. The scattered light flags are now only applied to the PDCSAP FLUX light curves.<p></p>
-	   <i>Threshold Corssing Event issue:</i> The planet search of the reprocessed light curves produced a different set of TCEs from the original processed data. Although there is a high degree of overlap between the original and reprocessed data (∼83% of targets produced TCEs in common), new TCEs were produced and not every TCE from previous data releases was recovered.<p></p>
-	 </td>
-	 </tr>
        <tr>
-       <td colspan="3">Star tracker anomaly:</td>
+       <td colspan="2">Star tracker anomaly:</td>
        <td colspan="5">A single upset event in the star trackers caused the spacecraft to fall out of fine pointing in orbit 38. The issue lasts for 5 minutes at TJD 1725.93651 (cadences 358907, 358908, and 358909).</td>
        </tr>
 
 
        <tr>
-       <td colspan="3">Spacecraft pointing:</td>
+       <td colspan="2">Spacecraft pointing:</td>
        <td colspan="5">As in Sector 14, the pointing in Sector 15 was set at +85 degrees in ecliptic latitude, so that Camera 2 and Camera 3 straddle the ecliptic pole. Camera 1 still suffers from strong scattered light signals, and so guiding was disabled in Camera 1 for both orbits 37 and 38. Camera 4 alone was used for guiding during this sector.</td>
        </tr>
 
        <tr>
-       <td colspan="3">Scattered light:</td>
+       <td colspan="2">Scattered light:</td>
        <td colspan="5">In Sector 15, the Earth is above the sunshade for almost the entire sector. The 24 hour rotation period of the Earth and several harmonics thereof are visible as oscillations in the background for most of both orbits. Finally, the Earth passes close to Camera 1 towards the last quarter of each orbit and saturates the detectors—these times were excluded with CCD-specific “Scattered Light” flags.</td>
        </tr>
 
 </table>
 </div>
+
+<div class="panel panel-primary">
+  <div class="panel-heading">
+    <h3 class="panel-title">Reprocessing Information: <a href="https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_reprocessing-sector_14_19_drn30_v02.pdf">DRN30</a></h3>
+  </div>
+
+  <table class="table table-striped table-hover" style="font-size: 0.77em;">
+    <col style="width:25%">
+    <col style="width:75%">
+
+    <tr>
+      <td colspan="2">The data products of sectors 14 to 19 were generated using version 4.0 of the science processing pipeline and conform to the final set of data anomaly flags. A detailed description of the changes in the data products can be found in <a href="https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_reprocessing-sector_14_19_drn30_v02.pdf">DRN30</a>, but a summary is provided here.</tr>
+    <tr>
+      <td colspan="1" style="vertical-align: middle;"><b>Update</b></td>
+      <td colspan="1" style="vertical-align: middle;"><b>Description</b></td>
+    </tr>
+    
+    <tr>
+      <td colspan="1">Timestamps:</td>
+      <td colspan="1">For 2 minute cadence and FFI data the timestamps were made more accurate. The differences between reprocessed data and previous data releases are less than 2.0 seconds in all cases.</td>
+    </tr>
+    
+    <tr>
+      <td colspan="1">Photometric apertures:</td>
+      <td colspan="1">The apertures were increased in size for targets with Tmag less than 11.</td>
+    </tr>
+    
+    <tr>
+      <td colspan="1">Data Anomaly Flags:</td>
+       <td colspan="1">Three new flags were added to mitigate the effects of scattered light;<p></p>
+	   - Cadences with strong scattered light signals or saturation effects that corrupt the calibration data are flagged and removed from analysis.<p></p>
+	   - Scattered light data anomaly flags are customized for each target, and flagged automatically based on the local background level.<p></p>
+	   - Cadences with insufficient targets to derive cotrending basis vectors are flagged and the PDCSAP FLUX light curves are set to NULL at these times<p></p>
+	   The modifications to the data anomaly flags also changed the cotrended light curves produced by PDC. The changes also result in new cotrending basis vectors for each CCD in each sector. The scattered light flags are now only applied to the PDCSAP FLUX light curves.</td>
+    </tr>
+    
+    <tr>
+      <td colspan="1">Threshold Corssing Event issue:</td>
+      <td colspan="1">The planet search of the reprocessed light curves produced a different set of TCEs from the original processed data. Although there is a high degree of overlap between the original and reprocessed data (∼83% of targets produced TCEs in common), new TCEs were produced and not every TCE from previous data releases was recovered.</td>
+    </tr>
+
+</table>
+</div>
+
