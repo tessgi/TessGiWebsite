@@ -14,7 +14,7 @@ Below you will find videos indicating the field of view as observed by TESS and 
 <center>
 <figure>
 <img src="images/TESS_FOVAnimation_Sectors.png" alt="sector image">
-<figcaption>Animation showing the TESS spacecraft and the coverage of its four cameras. Each camera covers a 24 degrees-square patch of sky and the four cameras are arranged in a vertical strip called an observation sector. Credits: NASA's Goddard Space Flight Center/CI Lab</figcaption>
+<figcaption>Illustation showing the TESS spacecraft and the coverage of its four cameras. Each camera covers a 24 degrees-square patch of sky and the four cameras are arranged in a vertical strip called an observation sector. Credits: NASA's Goddard Space Flight Center/CI Lab</figcaption>
 </figure>
 </center>
 
@@ -23,7 +23,7 @@ Below you will find videos indicating the field of view as observed by TESS and 
 
   <img src="images/TESS_FOVAnimation_hem.jpg" alt="sky coverage">
 
-<figcaption>Animation showing how TESS will observe the sky. TESS will watch each observation sector for at least 27 days, before rotating to the next one, covering first the south and then the north to build a map of 85 percent of the sky. Credits: NASA's Goddard Space Flight Center/CI Lab</figcaption>
+<figcaption>Illustation showing how TESS will observe the sky. TESS will watch each observation sector for at least 27 days, before rotating to the next one, covering first the south and then the north to build a map of 85 percent of the sky. Credits: NASA's Goddard Space Flight Center/CI Lab</figcaption>
 </figure>
 </center>
 
