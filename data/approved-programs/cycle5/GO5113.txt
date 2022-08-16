@@ -1,9 +1,0 @@
-# TESS Program GO5113
-
-Title: ROTATION, STAR SPOTS AND ACTIVITY IN TESS CYCLE 5
-
-PI: MARC PINSONNEAULT - OHIO STATE UNIVERSITY
-
-Type: SMALL
-
-Summary: The relationship between rotation, convection and stellar activity is a key challenge for stellar physics and exoplanet habitability. We propose to measure rotation periods and spot modulation amplitudes for a large (~1000 projected detections) sample of FFI TESS targets with star spot filling factors inferred from high-resolution spectroscopy. We will infer the dependence of spot filling factor on metallicity and Rossby number with 1,500 dwarf targets, 415 with simultaneous light curves and spectroscopy. Our 1,000 evolved active stars (300 simultaneous) will be a powerful resource for population studies and the correspondence of single and binary star activity. Simultaneous data allows us to map TESS spot modulation amplitude to star spot filling factor, which has broad applicability.

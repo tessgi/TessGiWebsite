@@ -1,9 +1,0 @@
-# TESS Program GO5112
-
-Title: UNDERSTANDING THE FLARING ACTIVITY OF K STARS IN THE WHITE-LIGHT AND UV WITH TESS AND GALEX
-
-PI: JAMES JACKMAN - ARIZONA STATE UNIVERSITY
-
-Type: SMALL
-
-Summary: Recent studies have shown that K stars undergo a period of prolonged elevated ultraviolet (UV) activity. The UV emission from flares is an important part of this picture, yet K stars have been overlooked relative to M stars. To estimate the UV activity of K stars current studies must either use UV flare rates measured for M stars, or extrapolate white-light measurements into the UV. We propose to test the accuracy of these UV predictions by combining white-light flare rates measured from TESS 20-s cadence observations with the observed flare activity in near-UV GALEX lightcurves for 4379 main sequence K stars. We will assess whether studies using white-light flare rates can accurately predict the UV flaring behaviour of K stars and thus the UV environments of the planets they host.

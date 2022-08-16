@@ -1,9 +1,0 @@
-# TESS Program GO5132
-
-Title: PROBING THE PHYSICS OF TIDAL DISRUPTION EVENTS WITH TESS
-
-PI: THOMAS HOLOIEN - CARNEGIE INSTITUTION OF WASHINGTON
-
-Type: SMALL
-
-Summary: We propose to use the unique capabilities of TESS to probe Tidal Disruption Events (TDEs) and their host galaxies, building a more complete observational picture of TDEs. TESS provides high-cadence, high-precision photometry unequalled by any other observatory. We expect TESS to detect 2+ TDEs in Cycle 5, and TESS data obtained at or before peak light are useful for constraining the properties of the star and the black hole, while data taken after peak can be used to search for short timescale variability that indicates changes in the accretion rate. Existing pre-flare TESS observations of the host galaxies of 10+ additional TDEs found in Cycle 5 will be used to search for signs of host variability and the presence of an underlying AGN.

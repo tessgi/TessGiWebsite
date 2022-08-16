@@ -1,9 +1,0 @@
-# TESS Program GO5036
-
-Title: MASSIVE STAR ASTEROSEISMOLOGY: TESS LIGHT CURVES THAT SURPASS KEPLER
-
-PI: DOMINIC BOWMAN - KATHOLIEKE UNIVERSITEIT LEUVEN
-
-Type: SMALL
-
-Summary: Massive stars are important metal factories in the Universe and progenitors of core-collapse supernovae. However, a major shortcoming of stellar evolution models is their large uncertainties for interior rotation and convective boundary mixing. This is because we lack detailed observational constraints on massive star interiors. Fortunately, most massive stars pulsate in gravity and pressure modes, which are extremely sensitive to a star's interior physics. The TESS mission is providing the first long-term and high-precision photometric data set for a large sample of massive stars. In this project, asteroseismology applied to 2-min TESS light curves will allow us to mitigate these large uncertainties currently in stellar evolution theory.

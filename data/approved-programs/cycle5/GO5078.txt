@@ -1,9 +1,0 @@
-# TESS Program GO5078
-
-Title: TESS PHOTOMETRY OF A SAMPLE OF SB2 ECLIPSING BINARIES
-
-PI: KRZYSZTOF HELMINIAK - COPERNICUS ASTRONOMICAL CENTER
-
-Type: MINI
-
-Summary: We intend to obtain very high precision light curves of a sample of detached eclipsing and double-lined spectroscopic (SB2) binaries, which have a large number of new and unpublished high-resolution spectra (from our own observations). In total, there are over 380 stars in the program, >150 of which are available for TESS in Cycle 5. The light curves will be combined with the precise radial velocity (RV) measurements in order to obtain accurate and precise, absolute stellar parameters.
