@@ -1,5 +1,5 @@
-Title: TESS Weekly Bulletin: Aug 15th
-Date: 2022-08-15 10:00
+Title: TESS Weekly Bulletin: Aug 25th
+Date: 2022-08-25 10:00
 Author: Veselin Kostov
 
 Welcome TESS followers to our latest news bulletin! This week, we are looking at three recent papers from the archive. Enjoy!
