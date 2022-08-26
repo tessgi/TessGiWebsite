@@ -1,9 +1,0 @@
-# TESS Program GO5155
-
-Title: ASTEROSEISMOLOGY OF BRIGHT SOLAR-TYPE STARS
-
-PI: DANIEL HUBER - UNIVERSITY OF HAWAII (MANOA)
-
-Type: SMALL
-
-Summary: Solar-type stars - stars with temperatures, radii and metallicities similar to the Sun - play a critical role for stellar astrophysics and exoplanet science. Asteroseismology provides a powerful tool to determine fundamental properties such as mass and age, but due to the small amplitudes and fast timescales of oscillations in solar-type stars only a small number of detections have been made using space-based photometry. Here we propose to use the unique 20-second cadence capabilities from TESS to establish a benchmark sample of bright asteroseismic solar-type stars, which will enable us to (i) investigate the connection between magnetic activity cycles and stellar age in solar-type stars and (ii) characterize the fundamental properties of exoplanet host stars.

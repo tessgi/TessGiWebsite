@@ -1,9 +1,0 @@
-# TESS Program GO5015
-
-Title: A SEARCH FOR COMPANIONS TO LONELY HOT JUPITERS
-
-PI: BENJAMIN HORD - UNIVERSITY OF MARYLAND (COLLEGE PARK)
-
-Type: MINI
-
-Summary: The formation of hot Jupiters (HJs) can be constrained by the existence of closely-orbiting small companions to HJs. We have already conducted a small-scale search for these companions in the available Cycle 1 TESS 2-minute cadence data, finding no new planets, but only a fraction of every known HJ system was observed at this cadence. We propose to observe all Cycle 5 HJs with TESS's 2-minute cadence in a search for small nearby companions that could help constrain the formation mechanism of HJ systems and calculate the multiplicity rate of this unique planet population. This would generate the first complete and uniform data set of HJ systems down to the precision of TESS, allowing for more detailed population analysis of this mysterious class of planets.
