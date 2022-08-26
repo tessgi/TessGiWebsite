@@ -591,7 +591,7 @@ A condensed version of these data release notes can be found via our [searchable
       <td>34</td>
       <td>2021-01-14 - 2021-02-08</td>
       <td>24.24</td>
-      <td><a href ="https://tess.mit.edu/observations/sector-34/">link</a></td> =
+      <td><a href ="https://tess.mit.edu/observations/sector-34/">link</a></td> 
       <td> <a href ="https://heasarc.gsfc.nasa.gov/docs/tess/images/sector-plots/sector-plots.034.jpeg">link</a></td>
        <td><a href ="https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_sector_34_drn50_v02.pdf">DRN50</a></td>
     </tr>
