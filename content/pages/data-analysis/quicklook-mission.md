@@ -216,7 +216,7 @@ A condensed version of these data release notes can be found via our [searchable
        <th style="vertical-align: middle;">Sector</th>
        <th style="vertical-align: middle;">Dates (UTC) <p>Start - End</p></th>
        <th style="vertical-align: middle;">Number of Science Days</th>
-       <th style="vertical-align: middle;">Plots and pointings</th>
+       <th style="vertical-align: middle;">Pointings</th>
        <th style="vertical-align: middle;">Target plots</th>
        <th style="vertical-align: middle;">DRNs</th>
       </tr>
@@ -365,7 +365,7 @@ A condensed version of these data release notes can be found via our [searchable
        <th style="vertical-align: middle;">Sector</th>
        <th style="vertical-align: middle;">Dates (UTC) <p>Start - End</p></th>
        <th style="vertical-align: middle;">Number of Science Days</th>
-       <th style="vertical-align: middle;">Plots and pointings</th>
+       <th style="vertical-align: middle;">Pointings</th>
        <th style="vertical-align: middle;">Target plots</th>
        <th style="vertical-align: middle;">DRNs</th>
       </tr>
@@ -516,7 +516,7 @@ A condensed version of these data release notes can be found via our [searchable
        <th style="vertical-align: middle;">Sector</th>
        <th style="vertical-align: middle;">Dates (UTC) <p>Start - End</p></th>
        <th style="vertical-align: middle;">Number of Science Days</th>
-       <th style="vertical-align: middle;">Plots and pointings</th>
+       <th style="vertical-align: middle;">Pointings</th>
        <th style="vertical-align: middle;">Target plots</th>
        <th style="vertical-align: middle;">DRNs</th>
       </tr>
@@ -665,7 +665,7 @@ A condensed version of these data release notes can be found via our [searchable
        <th style="vertical-align: middle;">Sector</th>
        <th style="vertical-align: middle;">Dates (UTC) <p>Start - End</p></th>
        <th style="vertical-align: middle;">Number of Science Days</th>
-       <th style="vertical-align: middle;">Plots and pointings</th>
+       <th style="vertical-align: middle;">Pointings</th>
        <th style="vertical-align: middle;">Target plots</th>
        <th style="vertical-align: middle;">DRNs</th>
       </tr>
@@ -847,7 +847,7 @@ A condensed version of these data release notes can be found via our [searchable
        <th style="vertical-align: middle;">Sector</th>
        <th style="vertical-align: middle;">Dates (UTC) <p>Start - End</p></th>
        <th style="vertical-align: middle;">Number of Science Days</th>
-       <th style="vertical-align: middle;">Plots and pointings</th>
+       <th style="vertical-align: middle;">Pointings</th>
        <th style="vertical-align: middle;">Target plots</th>
        <th style="vertical-align: middle;">DRNs</th>
       </tr>
