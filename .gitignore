@@ -19,3 +19,4 @@ upload.sh
 #*
 .ipynb_checkpoints/
 ~$*
+.python-version
