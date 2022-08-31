@@ -69,214 +69,214 @@ Save_as: data_release_notes.html
     <br>
 
     <div id="sector-1" class="drn">
-      {! content/pages/data-analysis/data-release-notes/sector_1.html !}
+      {! content/docs/data-release-notes/sector_1.html !}
     </div>
 
     <div id="sector-2" class="drn">
-      {! content/pages/data-analysis/data-release-notes/sector_2.html !}
+      {! content/docs/data-release-notes/sector_2.html !}
     </div>
 
     <div id="sector-3" class="drn">
-      {! content/pages/data-analysis/data-release-notes/sector_3.html !}
+      {! content/docs/data-release-notes/sector_3.html !}
     </div>
 
     <div id="sector-4" class="drn">
-      {! content/pages/data-analysis/data-release-notes/sector_4.html !}
+      {! content/docs/data-release-notes/sector_4.html !}
     </div>
 
     <div id="sector-5" class="drn">
-      {! content/pages/data-analysis/data-release-notes/sector_5.html !}
+      {! content/docs/data-release-notes/sector_5.html !}
     </div>
 
     <div id="sector-6" class="drn">
-      {! content/pages/data-analysis/data-release-notes/sector_6.html !}
+      {! content/docs/data-release-notes/sector_6.html !}
     </div>
 
     <div id="sector-7" class="drn">
-      {! content/pages/data-analysis/data-release-notes/sector_7.html !}
+      {! content/docs/data-release-notes/sector_7.html !}
     </div>
 
     <div id="sector-8" class="drn">
-      {! content/pages/data-analysis/data-release-notes/sector_8.html !}
+      {! content/docs/data-release-notes/sector_8.html !}
     </div>
 
     <div id="sector-9" class="drn">
-      {! content/pages/data-analysis/data-release-notes/sector_9.html !}
+      {! content/docs/data-release-notes/sector_9.html !}
     </div>
 
     <div id="sector-10" class="drn">
-      {! content/pages/data-analysis/data-release-notes/sector_10.html !}
+      {! content/docs/data-release-notes/sector_10.html !}
     </div>
 
     <div id="sector-11" class="drn">
-      {! content/pages/data-analysis/data-release-notes/sector_11.html !}
+      {! content/docs/data-release-notes/sector_11.html !}
     </div>
 
     <div id="sector-12" class="drn">
-      {! content/pages/data-analysis/data-release-notes/sector_12.html !}
+      {! content/docs/data-release-notes/sector_12.html !}
     </div>
 
     <div id="sector-13" class="drn">
-      {! content/pages/data-analysis/data-release-notes/sector_13.html !}
+      {! content/docs/data-release-notes/sector_13.html !}
     </div>
 
     <div id="sector-14" class="drn">
-      {! content/pages/data-analysis/data-release-notes/sector_14.html !}
+      {! content/docs/data-release-notes/sector_14.html !}
     </div>
 
     <div id="sector-15" class="drn">
-      {! content/pages/data-analysis/data-release-notes/sector_15.html !}
+      {! content/docs/data-release-notes/sector_15.html !}
     </div>
 
     <div id="sector-16" class="drn">
-      {! content/pages/data-analysis/data-release-notes/sector_16.html !}
+      {! content/docs/data-release-notes/sector_16.html !}
     </div>
 
     <div id="sector-17" class="drn">
-      {! content/pages/data-analysis/data-release-notes/sector_17.html !}
+      {! content/docs/data-release-notes/sector_17.html !}
     </div>
 
     <div id="sector-18" class="drn">
-      {! content/pages/data-analysis/data-release-notes/sector_18.html !}
+      {! content/docs/data-release-notes/sector_18.html !}
     </div>
 
     <div id="sector-19" class="drn">
-      {! content/pages/data-analysis/data-release-notes/sector_19.html !}
+      {! content/docs/data-release-notes/sector_19.html !}
     </div>
 
     <div id="sector-20" class="drn">
-      {! content/pages/data-analysis/data-release-notes/sector_20.html !}
+      {! content/docs/data-release-notes/sector_20.html !}
     </div>
 
     <div id="sector-21" class="drn">
-      {! content/pages/data-analysis/data-release-notes/sector_21.html !}
+      {! content/docs/data-release-notes/sector_21.html !}
     </div>
 
     <div id="sector-22" class="drn">
-      {! content/pages/data-analysis/data-release-notes/sector_22.html !}
+      {! content/docs/data-release-notes/sector_22.html !}
     </div>
 
     <div id="sector-23" class="drn">
-      {! content/pages/data-analysis/data-release-notes/sector_23.html !}
+      {! content/docs/data-release-notes/sector_23.html !}
     </div>
 
     <div id="sector-24" class="drn">
-      {! content/pages/data-analysis/data-release-notes/sector_24.html !}
+      {! content/docs/data-release-notes/sector_24.html !}
     </div>
 
     <div id="sector-25" class="drn">
-      {! content/pages/data-analysis/data-release-notes/sector_25.html !}
+      {! content/docs/data-release-notes/sector_25.html !}
     </div>
 
     <div id="sector-26" class="drn">
-      {! content/pages/data-analysis/data-release-notes/sector_26.html !}
+      {! content/docs/data-release-notes/sector_26.html !}
     </div>
 
     <div id="sector-27" class="drn">
-      {! content/pages/data-analysis/data-release-notes/sector_27.html !}
+      {! content/docs/data-release-notes/sector_27.html !}
     </div>
 
     <div id="sector-28" class="drn">
-      {! content/pages/data-analysis/data-release-notes/sector_28.html !}
+      {! content/docs/data-release-notes/sector_28.html !}
     </div>
 
     <div id="sector-29" class="drn">
-      {! content/pages/data-analysis/data-release-notes/sector_29.html !}
+      {! content/docs/data-release-notes/sector_29.html !}
     </div>
 
     <div id="sector-30" class="drn">
-      {! content/pages/data-analysis/data-release-notes/sector_30.html !}
+      {! content/docs/data-release-notes/sector_30.html !}
     </div>
 
     <div id="sector-31" class="drn">
-      {! content/pages/data-analysis/data-release-notes/sector_31.html !}
+      {! content/docs/data-release-notes/sector_31.html !}
     </div>
 
     <div id="sector-32" class="drn">
-      {! content/pages/data-analysis/data-release-notes/sector_32.html !}
+      {! content/docs/data-release-notes/sector_32.html !}
     </div>
 
     <div id="sector-33" class="drn">
-      {! content/pages/data-analysis/data-release-notes/sector_33.html !}
+      {! content/docs/data-release-notes/sector_33.html !}
     </div>
 
     <div id="sector-34" class="drn">
-      {! content/pages/data-analysis/data-release-notes/sector_34.html !}
+      {! content/docs/data-release-notes/sector_34.html !}
     </div>
 
     <div id="sector-35" class="drn">
-      {! content/pages/data-analysis/data-release-notes/sector_35.html !}
+      {! content/docs/data-release-notes/sector_35.html !}
     </div>
 
     <div id="sector-36" class="drn">
-      {! content/pages/data-analysis/data-release-notes/sector_36.html !}
+      {! content/docs/data-release-notes/sector_36.html !}
     </div>
 
     <div id="sector-37" class="drn">
-      {! content/pages/data-analysis/data-release-notes/sector_37.html !}
+      {! content/docs/data-release-notes/sector_37.html !}
     </div>
 
     <div id="sector-38" class="drn">
-      {! content/pages/data-analysis/data-release-notes/sector_38.html !}
+      {! content/docs/data-release-notes/sector_38.html !}
     </div>
 
     <div id="sector-39" class="drn">
-      {! content/pages/data-analysis/data-release-notes/sector_39.html !}
+      {! content/docs/data-release-notes/sector_39.html !}
     </div>
 
     <div id="sector-40" class="drn">
-      {! content/pages/data-analysis/data-release-notes/sector_40.html !}
+      {! content/docs/data-release-notes/sector_40.html !}
     </div>
 
     <div id="sector-41" class="drn">
-      {! content/pages/data-analysis/data-release-notes/sector_41.html !}
+      {! content/docs/data-release-notes/sector_41.html !}
     </div>
 
     <div id="sector-42" class="drn">
-      {! content/pages/data-analysis/data-release-notes/sector_42.html !}
+      {! content/docs/data-release-notes/sector_42.html !}
     </div>
 
     <div id="sector-43" class="drn">
-      {! content/pages/data-analysis/data-release-notes/sector_43.html !}
+      {! content/docs/data-release-notes/sector_43.html !}
     </div>
 
     <div id="sector-44" class="drn">
-      {! content/pages/data-analysis/data-release-notes/sector_44.html !}
+      {! content/docs/data-release-notes/sector_44.html !}
     </div>
 
     <div id="sector-45" class="drn">
-      {! content/pages/data-analysis/data-release-notes/sector_45.html !}
+      {! content/docs/data-release-notes/sector_45.html !}
     </div>
 
     <div id="sector-46" class="drn">
-      {! content/pages/data-analysis/data-release-notes/sector_46.html !}
+      {! content/docs/data-release-notes/sector_46.html !}
     </div>
 
     <div id="sector-47" class="drn">
-      {! content/pages/data-analysis/data-release-notes/sector_47.html !}
+      {! content/docs/data-release-notes/sector_47.html !}
     </div>
 
     <div id="sector-48" class="drn">
-      {! content/pages/data-analysis/data-release-notes/sector_48.html !}
+      {! content/docs/data-release-notes/sector_48.html !}
     </div>
 
     <div id="sector-49" class="drn">
-      {! content/pages/data-analysis/data-release-notes/sector_49.html !}
+      {! content/docs/data-release-notes/sector_49.html !}
     </div>
     <div id="sector-50" class="drn">
-      {! content/pages/data-analysis/data-release-notes/sector_50.html !}
+      {! content/docs/data-release-notes/sector_50.html !}
     </div>
 
     <div id="sector-51" class="drn">
-      {! content/pages/data-analysis/data-release-notes/sector_51.html !}
+      {! content/docs/data-release-notes/sector_51.html !}
     </div>
 
     <div id="sector-52" class="drn">
-      {! content/pages/data-analysis/data-release-notes/sector_52.html !}
+      {! content/docs/data-release-notes/sector_52.html !}
     </div>
 
     <div id="sector-53" class="drn">
-      {! content/pages/data-analysis/data-release-notes/sector_53.html !}
+      {! content/docs/data-release-notes/sector_53.html !}
     </div>
   </div>
 </div>
