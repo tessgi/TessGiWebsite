@@ -65,7 +65,6 @@ if pelican.__version__ >= '3.7.0':
             'markdown.extensions.toc': {},
             'markdown.extensions.tables': {},
         },
-        'extensions': ['mdx_include']
     }
 else:
     MD_EXTENSIONS = (['toc'])
@@ -110,7 +109,6 @@ MENUITEMS = (
                       )
         ),
         ('Observations', (
-          #  ('TESS at a glance', 'quicklook-mission.html'),
             ('Technical details', 'observing-technical.html'),
             ('Sector dates', 'sector.html'),
             ('Approved GI programs', 'approved-programs.html'),
@@ -128,7 +126,7 @@ MENUITEMS = (
         #     ('Media support', 'media.html'),
         #                          )
         # ),
-        #
+        # 
         )
 
 # Defines the "key information" box on the front page
@@ -169,7 +167,7 @@ RELATEDSITES = (
             ('News, Media, and Education Resources',
              'https://nasa.gov/tess'),
             ('TESS @ MIT',
-             'http://tess.mit.edu/'),
+             'http://tess.mit.edu/'), 
             # ('TESS @ Orbital ATK',
             #  'http://www.ballaerospace.com/page.jsp?page=72'),
             ('TESS @ MAST',

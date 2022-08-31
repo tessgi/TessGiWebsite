@@ -4,8 +4,8 @@ Save_as: community.html
 [TOC]
 
 
-## TESS Follow-Up Observing Program
-The TESS Follow-Up Observing Program (TFOP) is a large working group of astronomical observers brought together to primarily provide follow-up observations to support the TESS Mission's primary goal of measuring the masses for 50 planets smaller than 4 Earth radii. Stars hosting high priority planet candidates will be observed to establish reliable stellar parameters, confirm the existence of planets, refine their radii, and measure planet masses.
+## TESS Follow-Up Observing Program 
+The TESS Follow-Up Observing Program (TFOP) is a large working group of astronomical observers brought together to primarily provide follow-up observations to support the TESS Mission's primary goal of measuring the masses for 50 planets smaller than 4 Earth radii. Stars hosting high priority planet candidates will be observed to establish reliable stellar parameters, confirm the existence of planets, refine their radii, and measure planet masses. 
 
 The TFOP is led by the [Smithsonian Astrophysical Observatory](https://www.cfa.harvard.edu) (SAO), in coordination with MIT, as part of the TESS Science Office. A goal of TFOP is to foster communication and coordination among the TESS Science Team members and the community in order to maximize scientific output and minimize duplication of effort. 
 

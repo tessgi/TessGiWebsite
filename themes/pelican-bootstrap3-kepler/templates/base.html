@@ -83,9 +83,6 @@ in August 2015, using pelican-bootstrap and flatly.
     {# Twitter Cards tags #}
     {% include 'includes/twitter_cards.html' %}
 
-    <link href="{{ SITEURL }}/theme/css/drn.css" rel="stylesheet">
-
-
     <!-- Why use Helvetica Neue when you can have Lato? -->
     <!-- Why use Lato when you can have Nunito? -->
     <link href="{{ SITEURL }}/theme/css/nunito.css" rel="stylesheet">
@@ -102,9 +99,9 @@ in August 2015, using pelican-bootstrap and flatly.
     <link href="{{ SITEURL }}/theme/css/mission_icons.css" rel="stylesheet">
 <!--     <link href="{{ SITEURL }}/theme/css/photobanner.css" rel="stylesheet">
     <link href="{{ SITEURL }}/theme/css/slide-container.css" rel="stylesheet">
-    <link href="{{ SITEURL }}/theme/css/slide-transition.css" rel="stylesheet">
+    <link href="{{ SITEURL }}/theme/css/slide-transition.css" rel="stylesheet"> 
     <link href="{{ SITEURL }}/theme/css/slide-transition2.css" rel="stylesheet">  -->
-
+    
     <link href="{{ SITEURL }}/theme/css/pygments/{{ PYGMENTS_STYLE|default('native') }}.css" rel="stylesheet">
     {% if 'tipue_search' in PLUGINS %}
     <link href="{{ SITEURL}}/theme/tipuesearch/tipuesearch.css" rel="stylesheet">
@@ -194,7 +191,7 @@ in August 2015, using pelican-bootstrap and flatly.
                     {% endfor %}
                 {% endif %}
             </ul>
-
+            
             {% if RELATEDSITES %}
             <ul class="nav navbar-nav">
                 <li>
@@ -202,7 +199,7 @@ in August 2015, using pelican-bootstrap and flatly.
                 </li>
             </ul>
             {% endif %}
-
+            
         </div>
         <!-- /.navbar-collapse -->
     </div>
@@ -247,7 +244,6 @@ in August 2015, using pelican-bootstrap and flatly.
 
 {% include 'includes/footer.html' %}
 
-
 <script src="{{ SITEURL }}/theme/js/jquery.min.js"></script>
 
 <!-- Include all compiled plugins (below), or include individual files as needed -->
@@ -265,7 +261,6 @@ in August 2015, using pelican-bootstrap and flatly.
 {% include 'includes/analytics.html' %}
 {% include 'includes/piwik.html' %}
 
-<script src="{{ SITEURL }}/theme/js/drn.js"></script>
 
 {% block scripts %}{% endblock %}
 </body>
