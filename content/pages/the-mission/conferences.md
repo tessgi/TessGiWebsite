@@ -5,6 +5,29 @@ Save_as: conferences.html
 
 <table class="table table-striped table-hover" style="max-width:55em;">
 
+
+
+ <tr>
+    <td style="width: 9em;">June 2022</td>
+    <td style="width: 25em;">AAS #240: Workshop - Engaging the Public in Exoplanet Science Through the Legacy of TESS</a></td>
+    <td><a
+     href=''https://submissions.mirasmart.com/AAS240/itinerary/EventDetail.aspx?evt=6">website</a></td>
+  </tr>
+
+  <tr>
+    <td style="width: 9em;">June 2022</td>
+    <td style="width: 25em;">AAS #240: Splinter Session - Future Science with TESS</a></td>
+    <td><a
+     href=''https://submissions.mirasmart.com/AAS240/itinerary/EventDetail.aspx?evt=76">website</a></td>
+  </tr>
+
+  <tr>
+    <td style="width: 9em;">June 2022</td>
+    <td style="width: 25em;">AAS #240</a></td>
+    <td><a
+     href='https://aas.org/meetings/aas240'>website</a></td>
+  </tr>
+  
   <tr>
     <td style="width: 9em;">December 2021</td>
     <td style="width: 25em;">AGU Fall Meeting</a></td>
