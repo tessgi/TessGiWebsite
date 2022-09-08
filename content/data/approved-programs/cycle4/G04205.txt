@@ -9223,3 +9223,18 @@ Summary: In the coming years, our ability to characterize the atmospheres of sma
 
 # Sector 054 targets observed (2 min: 1, 20 s: 0)
 130538732,289.0918,-15.7713,12.04,G04205;G04240;G04242
+
+# Sector 054 targets observed (2 min: 1, 20 s: 0)
+130538732,289.0918,-15.7713,12.04,G04205;G04240;G04242
+
+# Sector 054 targets observed (2 min: 1, 20 s: 0)
+130538732,289.0918,-15.7713,12.04,G04205;G04240;G04242
+
+# Sector 054 targets observed (2 min: 1, 20 s: 0)
+130538732,289.0918,-15.7713,12.04,G04205;G04240;G04242
+
+# Sector 054 targets observed (2 min: 1, 20 s: 0)
+130538732,289.0918,-15.7713,12.04,G04205;G04240;G04242
+
+# Sector 054 targets observed (2 min: 1, 20 s: 0)
+130538732,289.0918,-15.7713,12.04,G04205;G04240;G04242
