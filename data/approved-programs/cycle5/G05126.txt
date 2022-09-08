@@ -1,0 +1,17 @@
+# TESS Program G05126
+
+Title: Simultaneous Space And Ground-Based Flare Photometry And Spectroscopy With TESS And Amateur Astronomers
+
+PI: Jackman, James - Arizona State University
+
+Type: SMALL
+
+Summary: Coordinated multi-wavelength photometry and spectroscopy is essential for the characterisation of flares and their contribution to the high energy environments of low-mass stars. However, professional facilities are limited to a few nights of observations, limiting analysis to small samples. In contrast, amateur astronomers can observe targets for weeks and can obtain photometry and spectroscopy simultaneously with TESS, allowing us to measure the temperatures and emission line energies of larger samples of white-light flares. We propose for 20-s cadence photometry of 9 active K and M stars that can be simultaneously observed by amateur astronomers, to study and characterise these energetic events. This target list will be made public for use by our team and the wider amateur community.
+
+
+# Sector 056 targets observed (2 min: 5, 20 s: 3)
+247985094,352.9713,19.9369,7.79,G05126;G05144;G05152;G05121;20SECONDTARGET
+154101678,341.701,44.3311,7.73,G05126;G05123;G05144;G05145;G05152;G05121;20SECONDTARGET
+431107890,335.0302,49.5033,7.7,G05126;G05150;G05105;G05144;20SECONDTARGET
+207436278,244.2733,55.2664,8.08,G05121;G05126
+219790151,264.665,61.2381,8.9,G05126;G05131

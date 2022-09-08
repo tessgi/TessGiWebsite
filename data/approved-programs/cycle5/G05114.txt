@@ -1,0 +1,15 @@
+# TESS Program G05114
+
+Title: Tracing The Evolution Of Optical And UV Flares From Low-Mass Stars With TESS And Hst
+
+PI: Jackman, James - Arizona State University
+
+Type: SMALL
+
+Summary: Flare studies are now measuring how the magnetic activity of low-mass stars changes with age, however it is not known whether these age-dependent white-light flare rates accurately trace the evolution of ultraviolet (UV) flares. We propose to obtain 20 second cadence lightcurves for 65 K and M stars previously observed with the Hubble Space Telescope (HST), to measure white-light flare rates. These stars range from pre-main sequence to field age stars and include members of the 40 Myr old Tuc-Hor association. By comparing how the UV and white-light flare rates change with age and testing whether white-light rates can accurately predict the flare behaviour in the UV, we will provide an insight into the contribution of flares to the UV environments of exoplanets, both young and old.
+
+
+# Sector 056 targets observed (2 min: 3, 20 s: 3)
+311551677,343.989,5.7534,9.39,G05114;G05121;20SECONDTARGET
+26656591,292.5662,49.5362,9.61,G05114;20SECONDTARGET
+28230919,297.7106,48.0823,8.51,G05015;G05095;G05114;G05003;20SECONDTARGET

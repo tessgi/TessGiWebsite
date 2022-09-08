@@ -1,9 +1,0 @@
-# TESS Program GO5135
-
-Title: ACCRETION ON AM CVN STARS AS REVEALED BY TESS
-
-PI: LILIANA RIVERA SANDOVAL - UNIVERSITY OF TEXAS RIO GRANDE VALLEY
-
-Type: SMALL
-
-Summary: AM CVns are binaries with 5< Porb <70 mins in which a white dwarf (WD) accretes He-rich material from another WD or a He star. AM CVns are rare systems. Until now we know 70 objects, of which 45 have shown outbursts, which are not well understood. Recent studies that exclude upper limits have shown that the relation Porb and superoutburst duration is much flatter than previously believed. Likely the relation between Porb and the recurrence time is strongly affected as well. This has implications for accretion models in AM CVns. For TESS Cycle 5 we request monitoring of 51 AM CVns at 20sec cadence to study their outbursts, in particular, to study the superhump evolution and further investigate the presence of enhance mass-transfer mechanisms recently identified in these binaries.

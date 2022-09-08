@@ -1,0 +1,38 @@
+# TESS Program G05088
+
+Title: Detection And Characterization Of Planets Around Hot White Dwarf Candidates
+
+PI: Gomez-Munoz, Marco - Instituto De Astronomia (Unam) Mexico
+
+Type: MINI
+
+Summary: It has become unclear in recent years how a planet can survive the late stages of the stellar evolution of low- and intermediate-mass stars. Recently, thanks to the TESS mission, it has been discovered a planet candidate, similar to the mass of Jupiter and ten times its mass, orbiting a white dwarf (WD) star, which demonstrates that planets can avoid being tidally disrupted by their host star. However, the proportion of planets that can survive being tidally disrupted by their host star or planets that survived the common envelope stage is unknown. In order to address these questions, a selection of hot-WD (Teff>50kK), as obtained from a spectral energy distribution analysis (from UV to optical) and public catalogues, are being proposed to be observed by the TESS mission on its Cycle 5.
+
+
+# Sector 056 targets observed (2 min: 26, 20 s: 8)
+2052876331,341.8428,3.363,16.78,G05088;G05084;G05115;20SECONDTARGET
+2052952077,346.8275,5.6032,17.45,G05088
+2052955885,346.2575,6.5402,17.69,G05088;G05084
+426955944,354.4639,13.5965,16.84,G05088;G05057
+372363437,332.0722,39.1196,15.92,G05088;G05115;G05084;20SECONDTARGET
+163802843,320.9797,34.3382,15.63,G05088;G05084;G05115;20SECONDTARGET
+2006867852,320.8329,37.3286,17.62,G05088
+2007480435,325.8662,41.7217,15.85,G05088
+2002726256,338.1266,25.8427,16.94,G05088
+2002927134,330.699,27.8365,17.0,G05088
+2002944696,332.3406,28.459,17.59,G05088
+2002994430,336.1289,29.2813,17.93,G05088
+2003237352,329.6368,32.1098,17.84,G05088;G05084
+2003280978,333.482,31.6115,17.57,G05088;G05084
+90884697,347.8671,29.4927,15.87,G05088;G05084;G05115;20SECONDTARGET
+194061710,312.0338,39.8601,14.79,G05088;G05084;G05115;20SECONDTARGET
+1979646736,314.9632,59.0926,16.51,G05088;G05084;G05115;20SECONDTARGET
+2022378976,327.2664,64.5578,17.7,G05088;G05084
+1883541601,295.9679,55.3297,17.24,G05088;G05084
+1884009881,292.5003,58.8114,17.67,G05088
+27688847,295.9342,52.2924,14.26,G05088;G05084;G05115;G05057;20SECONDTARGET
+232652205,282.0913,55.2737,16.75,G05088;G05057
+1884390851,299.9031,71.5127,17.93,G05088;G05084
+1271321142,252.3178,72.4029,17.85,G05088;G05084
+233197921,264.5109,66.8965,15.01,G05088;G05084;G05115;20SECONDTARGET
+1201200652,245.2631,59.9047,17.86,G05088;G05084

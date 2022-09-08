@@ -1,0 +1,13 @@
+# TESS Program G05145
+
+Title: Optical, Uv, And X-Ray Observations Of Stellar Flares
+
+PI: Pietras, Malgorzata - Uniwersytet Wroclawski
+
+Type: SMALL
+
+Summary: The main aim of the proposal is to study the fundamental properties of emission processes of the X-ray, ultraviolet, and visible radiation occurring in stellar flares on late spectral-type stars, and to evaluate the main physical properties of the flaring plasma in stellar flares. We plan to investigate the main physical processes of the energy deposition regions in stellar flares with a special interest in the radiative loss of the energy in the visible domain of the electromagnetic spectrum. Moreover, our goal is to create a numerical model of flaring stellar atmospheres based on observations.
+
+
+# Sector 056 targets observed (2 min: 1, 20 s: 1)
+154101678,341.701,44.3311,7.73,G05126;G05123;G05144;G05145;G05152;G05121;20SECONDTARGET

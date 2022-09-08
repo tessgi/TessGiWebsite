@@ -1,0 +1,18 @@
+# TESS Program G05129
+
+Title: Testing Stellar Gyrochronology Models With Wide Binaries
+
+PI: Buzasi, Derek - Florida Gulf Coast University
+
+Type: SMALL
+
+Summary: Gyrochronology is a method of stellar age determination based on the fact that cool stars spin down as they age. Models can be tested using stars of known age, but open clusters are biased towards young stars at only a few specific ages, while few field stars have accurate ages. We will use wide binaries to test gyro models, leveraging the requirement that models must yield the same age for both components of the binary. In support of this project, we will observe 2117 binaries which have previously been observed with TESS, making use of multiple epochs to increase the fraction for which Prot can be successfully measured and helping to decrease the incidence of period aliases. 2-minute cadence will allow us to simultaneously examine flare activity levels as a function of age and rotation.
+
+
+# Sector 056 targets observed (2 min: 6, 20 s: 0)
+310759362,344.5083,1.5466,11.77,G05129
+310934746,346.3623,2.6349,11.03,G05129
+310934750,346.3687,2.6391,11.25,G05129
+310934793,346.3931,2.7493,14.02,G05129
+310934795,346.3882,2.755,14.26,G05129
+311550477,343.966,1.347,8.92,G05129

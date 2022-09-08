@@ -1,9 +1,0 @@
-# TESS Program GO5090
-
-Title: A TESS STUDY OF COMETARY DUST TRAILS: DELIVERY OF OUTER SOLAR SYSTEM DUST AND ORGANICS TO THE INNER SOLAR SYSTEM
-
-PI: TONY FARNHAM - UNIVERSITY OF MARYLAND (COLLEGE PARK)
-
-Type: LARGE
-
-Summary: Cometary dust trails represent an important transport mechanism for delivering dust and organics from the outer Solar system to the terrestrial planets. TESS, with its wide field of view and ability to reveal faint structures in coadded observations, is an ideal tool for studying these phenomena. We propose to use full-frame images from Cycle 5 to perform a study of dust trails, using the observations to constrain trail models that will derive the dust grain properties and the parent comet production rates. Twenty-three periodic comets will appear in Sectors 56-69, and ~15 of them will exhibit trails. The number of trails available offer a statistically significant sample that will produce meaningful constraints on cometary contributions to the Solar system dust inventory.

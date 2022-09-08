@@ -1,0 +1,24 @@
+# TESS Program G05123
+
+Title: Refining The Search For M Dwarf Oscillations Using TESS
+
+PI: Kiman, Rocio - Kavli Institute For Theoretical Physics
+
+Type: SMALL
+
+Summary: Asteroseismology is one of the most powerful tools to study the interior and fundamental properties of stars. Oscillations have not yet been detected at the lowest-mass end of the main sequence, although they were predicted several years ago. TESS has a unique combination of red sensitivity and short observing cadence, which makes it ideally suited to photometric detection of M dwarf oscillations. If detected, these would be a true breakthrough in oscillation detection. M dwarf oscillations would also provide an independent way to estimate mass, radius and effective temperature, which could help fix the existing discrepancies between observations and models. In this proposal we attempt to measure M dwarf oscillations using the TESS 20 second cadence data on the best targets available.
+
+
+# Sector 056 targets observed (2 min: 12, 20 s: 12)
+154101678,341.701,44.3311,7.73,G05126;G05123;G05144;G05145;G05152;G05121;20SECONDTARGET
+387744326,323.7144,51.5391,9.55,G05123;G05121;20SECONDTARGET
+343335500,310.0773,61.691,9.44,G05123;G05121;20SECONDTARGET
+343564093,310.9269,64.281,9.64,G05123;G05121;20SECONDTARGET
+365670764,313.3325,62.1495,6.74,G05123;G05144;G05109;G05121;20SECONDTARGET
+219822564,268.0493,64.7668,9.5,G05123;G05121;20SECONDTARGET
+233051394,268.9097,60.5015,10.01,G05123;20SECONDTARGET
+392572237,280.6779,59.6386,7.32,G05087;G05123;G05109;20SECONDTARGET
+229589015,271.5755,72.8227,9.69,G05123;G05121;20SECONDTARGET
+264222219,294.8831,71.8692,9.21,G05123;G05121;20SECONDTARGET
+233193964,264.1024,68.3311,6.85,G05123;G05109;G05121;20SECONDTARGET
+219780306,263.8971,61.6783,8.17,G05123;G05121;20SECONDTARGET

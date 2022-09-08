@@ -1,0 +1,10 @@
+# TESS Program G05153
+
+Title: Flexible Toolkit To Compare Detrending Approaches On Large Samples Of TESS Light Curves
+
+PI: Rapetti, David - Universities Space Research Association (Usra)
+
+Type: SMALL
+
+Summary: Removal of systematics from light curves is critical for all TESS research. Existing approaches are demonstrated on limited sets of targets selected to present the advantages of the particular method. Thus, no comprehensive analyses have been performed to determine their validity on large, commonly selected samples. We propose to extend the capabilities of a software toolkit that is being developed to compare correction approaches and apply it to large samples of different target types that cycle 5 will provide from all cadence observations, 20-s, 2-min, and particularly 200-s FFIs. This will produce statistical conclusions on which technique performs best on each target class and set of instrumental effects. The software will be publicly released to facilitate community analyses.
+

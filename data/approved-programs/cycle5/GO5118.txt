@@ -1,9 +1,0 @@
-# TESS Program GO5118
-
-Title: TESTING X-RAY REPROCESSING IN MRK 359 WITH TESS, NICER, AND SWIFT
-
-PI: MICHAEL FAUSNAUGH - MASSACHUSETTS INSTITUTE OF TECHNOLOGY
-
-Type: SMALL
-
-Summary: It is often assumed that X-ray variations in AGN drive UV/optical variations by heating the outer parts of the accretion disk. However, AGN X-ray and UV/optical light curves are often poorly correlated, which challenges this assumption. We can test whether or not AGN UV/optical variations are reprocessed X-rays by searching for a correlation between X-ray reflection features measured by NICER and optical variations measured by TESS; such a correlation must exist if X-ray reprocessing drives AGN variability. Simultaneous TESS and Swift data can also constrain the total reprocessed energy and predict the X-ray reflection strength, which provides a second test. We propose coordinated observations of Mrk 359 with TESS, NICER, and Swift to carry out these tests of X-ray reprocessing.

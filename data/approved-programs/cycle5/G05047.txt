@@ -1,0 +1,23 @@
+# TESS Program G05047
+
+Title: Anchoring The Age Scale With Asteroseismic Binaries
+
+PI: Van Saders, Jennifer - University Of Hawaii (Manoa)
+
+Type: SMALL
+
+Summary: We propose to observe nearby, coeval, wide binary systems as fundamental astrophysical calibrators for period-age relations for low-mass (< 0.8 Msun) main sequence stars. We target systems where solar-like oscillations should be detectable in TESS in the F/G primary star, enabling a precise asteroseismic age determination (10-20%), and where the secondary star is of K or M spectral type. We select systems that are separated by more than 1 arcminute on-sky, enabling the separation of the primary and secondary lightcurves in both TESS and long-baseline ground-based archival data. 81 such binary systems meet these criteria and are visible in Cycle 5, nearly doubling the literature sample of asteroseismic age calibrators for period-age relations.
+
+
+# Sector 056 targets observed (2 min: 11, 20 s: 2)
+436781440,346.2639,24.5218,6.69,G05047;G05131
+236647148,329.4328,33.3844,7.52,G05047;G05131
+326202925,328.1242,28.7932,5.07,G05155;G05047;20SECONDTARGET
+387285744,309.4078,66.3655,8.21,G05047
+233097368,273.2615,63.3448,8.7,G05047
+424388050,271.4295,53.9558,9.38,G05047
+48445416,284.5805,53.5204,9.6,G05047
+237277760,299.1197,73.6159,8.7,G05105;G05047;G05003
+258802502,286.9392,68.5321,9.1,G05047
+219785789,264.3036,60.6333,8.61,G05155;G05047;20SECONDTARGET
+356110000,261.3862,54.5726,9.19,G05047
