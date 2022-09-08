@@ -1,9 +1,0 @@
-# TESS Program GO5094
-
-Title: EXPLORING ACCRETION PHYSICS IN ACCRETING COMPACT OBJECTS WITH TESS
-
-PI: SIMONE SCARINGI - DURHAM UNIVERSITY
-
-Type: MINI
-
-Summary: Accretion is responsible for the growth and evolution of most objects in the Universe, yet many unanswered questions remain in accretion disk physics. We propose to observe a sample of 970 accreting compact objects (comprising a mix of accreting white dwarfs, neutron stars, and stellar-mass black holes) at 2-minute cadence with TESS and 50 at 20 second cadence. These observations will provide a long-lasting legacy dataset of a variety of accreting compact objects.

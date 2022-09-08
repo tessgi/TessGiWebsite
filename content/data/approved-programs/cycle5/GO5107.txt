@@ -1,9 +1,0 @@
-# TESS Program GO5107
-
-Title: A MAGNITUDE LIMITED SAMPLE OF M DWARFS TO STUDY THE SUPER-EARTH RATE ACROSS THE FULLY CONVECTIVE BOUNDARY
-
-PI: CHRISTOPHER THEISSEN - UNIVERSITY OF CALIFORNIA (SAN DIEGO)
-
-Type: SMALL
-
-Summary: Recent pebble accretion models have estimated that the occurrence of Earth/super-Earth planets (1-4 Rearth) peaks around stars with masses 50% the mass of the Sun, and decreases for smaller stars, citing TRAPPIST-1 and Teegarden's Star as rare systems. We propose 20-second and 2-minute cadence observations for a magnitude-limited (Tmag < 13) sample of stars with masses between 10%-30% the mass of the Sun, which will mitigate issues with pointing jitter in FFIs. We discuss that higher cadence observations of the brightest very-low-mass stars will add an additional 1-5 planets in Cycle 5, doubling the yield expected from FFI frames. This magnitude limited sample, which was systematically built, will provide stronger constraints on the planet occurrence rate for the lowest-mass stars.

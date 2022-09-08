@@ -1,9 +1,0 @@
-# TESS Program GO5053
-
-Title: AN ALL-SKY MOSAIC OF TESS FULL FRAME IMAGES
-
-PI: GRAHAM BERRIMAN - CALIFORNIA INSTITUTE OF TECHNOLOGY
-
-Type: SMALL
-
-Summary: The calibrated full-frame images (FFIs) acquired by TESS provide a unique opportunity to study large-scale diffuse emission in the Universe. This proposal will create as a product for the community deep co-added mosaics of the TESS FFIs acquired in all sectors released through Cycle 5, and Jupyter notebooks and Containers that will offer access to them and enable replication of the results. The computations will be performed on the Elastic Cloud 2 of Amazon Web Services and will be underwritten with credits already in place. The processing will exploit mature, scalable Open Source tools: the Montage image mosaic engine, operating with the Pegasus Workflow Manager to orchestrate the processing and HT Condor to run jobs.
