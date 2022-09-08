@@ -1,4 +1,4 @@
-Title: TESS Data Release Notes
+lsTitle: TESS Data Release Notes
 Save_as: data_release_notes.html
 
 [TOC]
@@ -131,6 +131,67 @@ Below we outline some of the most important issues or data product modifications
 
 ##Cycle 4 DRN Tables
 Below we provide a brief summary of the DRNs for each Sector in Cycle 4. 
+
+
+###Sector 53
+
+<div class="panel panel-primary">
+  <div class="panel-heading">
+    <h3 class="panel-title">Information</h3>
+  </div>
+
+<table class="table table-striped table-hover" style="font-size: 0.77em;">
+       <col style="width:5%">
+       <col style="width:5%">
+       <col style="width:25%">
+       <col style="width:25%">
+       <col style="width:13.3%">
+       <col style="width:13.3%">
+       <col style="width:13.3%">
+
+       <thead>
+       <tr>
+       <th style="vertical-align: middle;">DRN</th>
+       <th style="vertical-align: middle;">Orbits</th>
+       <th style="vertical-align: middle;">Dates (UTC) <p>Start - End</p></th>
+       <th style="vertical-align: middle;">Cadence # <p>Start - End</p></th>
+       <th style="vertical-align: middle;">Data pause <p>(days)</p></th>
+       <th style="vertical-align: middle;">Science data (days)</th>
+       <th style="vertical-align: middle;">Momentum dumps</th>
+       <th style="vertical-align: middle;">Problematic <p>TIC ID's</p></th>
+       </tr>
+       </thead>
+
+       <tr>  
+       <td><a href="https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_sector_53_drn77_v01.pdf">77</a></td>
+       <td><p>114</p> 
+       <p>113</p></td>
+       <td><p>2022-06-13 - 2022-06-25</p>
+       <p>2022-06-26 - 2022-07-08</p></td>
+       <td><p>1091906 - 1100549</p>
+       <p>1101206 - 1109897<p></td>
+       <td>0.91</td>
+       <td>24.70</td>
+       <td><p>1</p>
+       <p>1</p></td>
+       <td><a href="sector_53.html">list</a></td>
+       </tr>
+
+ 	<td colspan="3" style="vertical-align: middle;"><b>Issue</b></td>
+	<td colspan="5" style="vertical-align: middle;"><b>Description</b></td>
+
+       <tr>  
+       <td colspan="3">Spacecraft pointing:</td>
+       <td colspan="5">Sector 53 consists of observations of the northern ecliptic hemisphere. The pointing was set at +85 degrees in ecliptic latitude so that Camera 2 and Camera 3 straddle the ecliptic pole. Camera 4 alone was used for guiding in both orbit 113 and 114.</td>
+        </tr>
+        
+        <tr>  
+       <td colspan="3" >Scattered light:</td>
+       <td colspan="5" >In Sector 53, the Earth and Moon introduce scattered light signals throughout both orbits, with a strong scattered light signature in Camera 1 at the midpoint of both orbits.</td>
+       </tr>
+      
+</table>
+</div>
 
 
 ###Sector 52
