@@ -1,0 +1,18 @@
+# TESS Program G05097
+
+Title: 20 Second Cadence Observations Of Known P-Mode Pulsating Subdwarf B Stars
+
+PI: Reed, Mike - Missouri State University
+
+Type: SMALL
+
+Summary: We propose to continue 20-second cadence observations of the 63 short-period (p-mode) pulsating subdwarf B (sdBVp) stars detected by TESS during Cycles 3 and 4. We have plenty of long-period (g-mode) pulsators from K2 & TESS, but only the 20-second TESS cadence provides necessary data for studying sdBVp stars, which probe their envelopes. This proposal would provide a 2nd year of 20-second cadence observations to add to Cycles 1 & 2's 2-minute data. This combination will allow 4 or 5 years to study unstable frequencies and long-term trends which are necessary for constraining models to understand these horizontal branch stars. We only propose the known TESS-observed sdBVp stars to understand their envelope structure, including stratification and the H/He transition zone.
+
+
+# Sector 056 targets observed (2 min: 6, 20 s: 4)
+1883989109,294.6168,58.4044,16.43,G05097
+424720852,294.6354,56.1624,13.44,G05097;G05148;G05057;20SECONDTARGET
+353735596,276.2184,57.7899,16.11,G05097;G05148;G05057;20SECONDTARGET
+441725813,256.2429,73.0785,11.05,G05097;G05057;20SECONDTARGET
+198412771,259.3419,58.0996,16.83,G05097;G05057
+199666369,252.1084,59.0544,12.34,G05084;G05115;G05097;G05081;20SECONDTARGET

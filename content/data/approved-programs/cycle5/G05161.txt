@@ -1,0 +1,10 @@
+# TESS Program G05161
+
+Title: Detecting And Vetting Planet Candidates In FFI Data
+
+PI: Caldwell, Douglas - Seti Institute
+
+Type: SMALL
+
+Summary: We propose to operate an existing pipeline to provide calibrated target pixels, light curves, and full transit search results for more than 150,000 targets per sector selected from the TESS Cycle 5 200 second cadence FFIs. We will provide a machine learning (ML) vetted list of planet candidates from the transit search.
+

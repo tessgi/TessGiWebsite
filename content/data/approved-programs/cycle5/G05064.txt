@@ -1,0 +1,19 @@
+# TESS Program G05064
+
+Title: Impacts Of Superflares On TESS Planetary Atmospheres
+
+PI: Howard, Ward - University Of Colorado
+
+Type: SMALL
+
+Summary: Nearly a hundred candidate and confirmed TESS planets orbit flaring stars, including 1/4 of terrestrial planets suitable for JWST transmission spectroscopy. We propose 20 sec cadence observations of 69 TOIs in the Cycle 5 fields to resolve 230 flares from these targets. We will determine whether different flare morphologies seen by TESS impact planetary atmospheres differently for a subsample of ~10 TOIs using 1D hydrodynamical modeling of their atmospheres. The modeling subsample of TOIs will be selected for a range of planet sizes and stellar activity levels.
+
+
+# Sector 056 targets observed (2 min: 7, 20 s: 7)
+233120979,273.5292,62.8582,10.65,G05105;G05064;G05003;20SECONDTARGET
+377293776,286.8543,59.0869,10.03,G05064;20SECONDTARGET
+235683377,287.2927,74.1752,12.49,G05064;20SECONDTARGET
+420112589,290.174,73.195,12.29,G05064;G05152;20SECONDTARGET
+236714379,239.2014,65.8888,10.79,G05150;G05064;G05003;20SECONDTARGET
+198211976,248.333,63.5247,11.21,G05064;20SECONDTARGET
+198385543,257.9548,54.5283,11.85,G05064;20SECONDTARGET

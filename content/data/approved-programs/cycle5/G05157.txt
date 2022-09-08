@@ -1,0 +1,10 @@
+# TESS Program G05157
+
+Title: Establishing Benchmark Star Clusters With TESS, Ztf, And Spectroscopy
+
+PI: Curtis, Jason - Columbia University
+
+Type: SMALL
+
+Summary: The calibration of empirical ages based on rotation, chromospheric emission, and lithium requires data from benchmark star clusters. The large gap in age between the Pleiades (120 Myr) and Praesepe (670 Myr) can be filled by previously unappreciated clusters that now have enhanced memberships from Gaia. We propose to measure periods from ZTF light curves, complementing those from TESS by reaching longer periods and fainter stars. We will also collect large samples of high-resolution spectra for each cluster. In summary, we will (1) establish 7 clusters as new benchmarks for stellar astrophysics using new [Fe/H] data, (2) produce extensive kinematic, rotation, activity, lithium, and other abundance data for a large number of their members, and (3) retune rotation, activity, and Li clocks.
+

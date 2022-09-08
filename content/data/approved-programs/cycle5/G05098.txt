@@ -1,0 +1,21 @@
+# TESS Program G05098
+
+Title: A Uniform Analysis Of Systematic Errors In 84 Hot Jupiters
+
+PI: Duck, Alison - Ohio State University
+
+Type: SMALL
+
+Summary: TESS can be used to determine the best exoplanet candidates for atmospheric follow up from missions like the James Webb Space Telescope (JWST) and the Atmospheric Remote-sensing Infrared Exoplanet Large-survey (ARIEL). These follow-up resources are valuable, and need to have the best constraints possible on potential targets. Unfortunately, transiting planet systems have generally been analyzed using a heterogeneous set of methodologies. Thus, unquantified and systematic uncertainties are often present. To reduce these uncertainties, we propose to obtain 20s-cadence postage-stamp photometry of a sample of 84 hot Jupiters orbiting bright (V<12) host stars, and to perform a uniform analysis using all available data in order to refine the physical parameters and ephemerides of these systems.
+
+
+# Sector 056 targets observed (2 min: 9, 20 s: 9)
+436478932,347.4928,18.3962,10.96,G05095;G05015;G05098;20SECONDTARGET
+199671901,335.5129,45.4573,10.97,G05015;G05098;20SECONDTARGET
+188876052,343.0417,35.4472,9.78,G05095;G05015;G05098;G05069;20SECONDTARGET
+346338552,344.4454,38.6748,9.76,G05095;G05015;G05098;G05069;20SECONDTARGET
+375506058,316.2037,55.5881,7.8,G05144;G05015;G05098;G05069;G05003;20SECONDTARGET
+395171208,325.0145,48.4067,9.04,G05144;G05015;G05098;G05069;20SECONDTARGET
+284475976,291.1624,55.473,11.15,G05015;G05098;G05069;20SECONDTARGET
+219854185,256.7705,70.2385,10.8,G05015;G05098;G05131;20SECONDTARGET
+257060897,227.5322,72.7103,11.26,G05015;G05098;G05069;20SECONDTARGET

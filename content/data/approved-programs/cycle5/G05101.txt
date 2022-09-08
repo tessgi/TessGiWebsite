@@ -1,0 +1,19 @@
+# TESS Program G05101
+
+Title: Searching For Variability In Spectrophotometric Standard Stars
+
+PI: Mullally, Susan - Space Telescope Science Institute
+
+Type: MINI
+
+Summary: We propose to monitor well known photometric standard stars from the HST/CALSPEC database to identify significant variability from pulsations, spots and flares using the TESS 2-minute data. This database is used to calibrate astronomical images in the optical and infrared, including telescopes like Spitzer and the James Webb Space Telescope (JWST). These stars are necessary to accurately calibrate the absolute and relative flux across different instruments and observatories, a requirement for precise astronomical measurements. TESS has already shown its value in identifying variability larger than 1 percent in a subset of these stars. Here we request to search for variability on stars yet to be observed by TESS and monitor the rest for unexpected variability.
+
+
+# Sector 056 targets observed (2 min: 7, 20 s: 2)
+258822592,332.8841,18.0932,8.96,G05101
+420814525,330.7951,18.8842,7.13,G05101;G05015;G05144;G05069;20SECONDTARGET
+452740376,327.7957,28.8636,10.87,G05101;G05057;20SECONDTARGET
+383623835,270.6279,58.6274,6.76,G05101
+219089401,268.8176,66.1698,12.46,G05101
+219097989,269.6583,66.7811,12.94,G05101
+207440438,244.9421,55.5716,15.62,G05101

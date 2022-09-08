@@ -1,0 +1,19 @@
+# TESS Program G05125
+
+Title: Short Cadence TESS Observations Of Eclipsing Binaries With A Pulsating/Potential Pulsating Component
+
+PI: Turner, Garrison - University Of Louisville
+
+Type: SMALL
+
+Summary: Pulsating variable stars in close eclipsing binary systems are valuable laboratories for asteroseismology and stellar modeling. Correlations between the dominant pulsation period and the orbital period of the binary system have been shown but still lack firm theoretical descriptions. Short-cadence space-based observations have allowed for a great increase in the resolution of stellar pulsation frequencies, which in turn aid in asteroseismology. This proposal seeks 2-minute cadence data on the targets specified in the Q5 cycle, along with 2-minute cadence data of previous cycles on the same targets. This will aid in identifying new eclipsing systems with pulsating components, along with refining the pulsation modes of known systems with pulsation.
+
+
+# Sector 056 targets observed (2 min: 7, 20 s: 0)
+430751415,333.8211,48.7214,11.7,G05125
+197757000,337.2079,53.7711,10.42,G05125;G05003
+326374705,331.8016,52.6356,8.6,G05125;G05003
+63972440,337.6094,54.6184,11.18,G05125;G05003
+377190161,285.6751,58.7329,10.11,G05125;G05003
+389916225,275.7725,58.9035,10.1,G05105;G05125;G05003
+258351350,296.5109,69.9193,7.93,G05108;G05125;G05003
