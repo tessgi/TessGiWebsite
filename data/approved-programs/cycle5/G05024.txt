@@ -1,0 +1,37 @@
+# TESS Program G05024
+
+Title: Using Eclipsing Binaries To Dramatically Improve The M-Dwarf Mass-Radius-Metallicity-Temperature Relation
+
+PI: Martin, David - Ohio State University
+
+Type: SMALL
+
+Summary: M-dwarfs are enticing targets for small transiting planets in the habitable zone. TESS will find hundreds, some bright enough for atmospheric probing by JWST. However, the field is frustrated by poor constraints on the host M-dwarfs, as identified in the Astro2020 Decadal. We aim to solve this with 227 eclipsing binaries comprised of F/G/K + M stars, with 12+ years of spectroscopy to unveil masses and metallicities. We require TESS light curves to measure the radius and temperature. We request short cadence observations and funding such that we can develop the most comprehensive sample of M-dwarfs known, significantly refine the empirical mass-radius-metallicity-temperature relation, assisting both exoplanet hunters and stellar modelers.
+
+
+# Sector 056 targets observed (2 min: 25, 20 s: 3)
+218046350,347.1239,17.3387,11.79,G05024
+436520557,348.8899,23.4437,10.85,G05024
+258738881,332.5297,20.1892,12.78,G05024
+258786074,332.8137,21.8506,11.88,G05024
+404555712,335.3646,13.0168,12.23,G05024
+404578730,335.7012,17.0007,12.79,G05024
+128927089,341.01,40.0864,12.15,G05024;G05003
+199010369,333.3173,43.9579,11.61,G05024;G05003
+200373531,338.444,43.3315,11.12,G05024;G05003
+407851974,336.8084,41.8407,13.32,G05024
+287234729,325.9321,34.4194,11.93,G05024;G05003
+26691445,331.9256,25.1779,10.33,G05024
+357336603,331.7548,25.3453,3.32,G05155;G05024;G05109;20SECONDTARGET
+431124333,334.9361,31.2127,10.95,G05024;G05003
+115686059,339.4022,34.607,12.02,G05024
+305982045,347.0349,33.6344,10.26,G05024
+373932701,345.9122,39.7082,11.12,G05024;G05143;G05003
+17038893,308.2138,41.9013,6.28,G05024;G05144;20SECONDTARGET
+295803225,303.8413,48.2871,10.46,G05024;G05003
+364628248,310.8798,53.3496,11.86,G05024;G05003
+469460566,307.888,59.1748,11.11,G05024;G05003
+229495981,296.636,60.889,11.61,G05024;G05003
+299096355,289.0759,51.7571,10.94,G05024;G05112;G05054;20SECONDTARGET
+198358825,256.3569,55.7241,11.44,G05024
+207493152,246.5422,57.3904,10.06,G05024;G05003

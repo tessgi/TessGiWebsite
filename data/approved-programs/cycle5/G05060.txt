@@ -1,0 +1,10 @@
+# TESS Program G05060
+
+Title: Tracking Down TESS's Long-Period Transits With A Coordinated Citizen Science Network
+
+PI: Dalba, Paul - University Of California (Riverside)
+
+Type: SMALL
+
+Summary: TESS has discovered many planet candidates via single transits and duotransits, whereby two transits are separated by a large data gap. These discoveries are the best pathway toward increasing TESS's sample of long-period giant planets, which have cooler temperatures and probe different pathways of migration and heavy element accretion. Yet, further characterization of these planets is hindered by their unknown orbital periods. We propose to refine the ephemerides of TESS single transit and duotransit planet candidates through observations from the Unistellar Citizen Science Network, which consists of 7,000 eVscopes around the world. The Network's longitudinal coverage makes it uniquely suited for long duration transits and poised to enhance the scientific legacy of the TESS mission.
+

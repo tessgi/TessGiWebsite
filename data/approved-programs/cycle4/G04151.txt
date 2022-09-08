@@ -53,3 +53,18 @@ Summary: Blazars are a class of active galactic nuclei characterized by non-ther
 
 # Sector 053 targets observed (2 min: 1, 20 s: 1)
 147796121,110.4727,71.3434,12.78,G04151;G04048;20SECONDTARGET
+
+# Sector 053 targets observed (2 min: 1, 20 s: 1)
+147796121,110.4727,71.3434,12.78,G04151;G04048;20SECONDTARGET
+
+# Sector 053 targets observed (2 min: 1, 20 s: 1)
+147796121,110.4727,71.3434,12.78,G04151;G04048;20SECONDTARGET
+
+# Sector 053 targets observed (2 min: 1, 20 s: 1)
+147796121,110.4727,71.3434,12.78,G04151;G04048;20SECONDTARGET
+
+# Sector 053 targets observed (2 min: 1, 20 s: 1)
+147796121,110.4727,71.3434,12.78,G04151;G04048;20SECONDTARGET
+
+# Sector 053 targets observed (2 min: 1, 20 s: 1)
+147796121,110.4727,71.3434,12.78,G04151;G04048;20SECONDTARGET

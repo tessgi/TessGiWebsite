@@ -1,0 +1,22 @@
+# TESS Program G05103
+
+Title: A Tale Of Space And Ground: Hunting For Exoplanets And Flares On The Nearest Late M Dwarfs
+
+PI: Guenther, Maximilian - European Space Agency
+
+Type: SMALL
+
+Summary: Late-type M dwarf exoplanet systems are ubiquitous and open new doors for detailed atmospheric characterization. However, TESS alone is less effective for ultra-cool stars, and so the community needs to establish collaborations with ground-based surveys. We here propose a joint effort to observe 280 carefully selected, nearby (< 40 pc) late M dwarfs with 20 s cadence in Cycle 5. We select targets where TESS can detect temperate Earth-sized planets with SNR>3 and the ground can immediately confirm them. This strongly expands TESS' reach and impact to the most interesting targets for JWST and the ELTs. As a free byproduct, we can study stellar flares on an under-explored sample in unprecedented detail, adding pivotal data on the interaction between stars and planets.
+
+
+# Sector 056 targets observed (2 min: 10, 20 s: 10)
+331700193,354.1846,21.8939,14.99,G05103;G05152;20SECONDTARGET
+434277975,353.6628,19.5504,15.31,G05103;G05152;20SECONDTARGET
+242346031,338.9569,18.6752,14.74,G05103;G05152;20SECONDTARGET
+408413037,357.6672,8.1084,14.46,G05103;G05152;20SECONDTARGET
+257911085,327.7714,23.4691,13.41,G05103;20SECONDTARGET
+278335977,324.573,52.9554,14.12,G05103;G05152;20SECONDTARGET
+316407947,321.859,55.8892,14.49,G05103;G05152;20SECONDTARGET
+229750872,280.6052,67.863,15.05,G05103;G05152;20SECONDTARGET
+198555502,237.7741,64.9514,15.58,G05103;20SECONDTARGET
+307956653,256.8296,64.6586,15.49,G05103;20SECONDTARGET

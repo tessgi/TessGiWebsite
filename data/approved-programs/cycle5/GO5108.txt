@@ -1,9 +1,0 @@
-# TESS Program GO5108
-
-Title: USING TESS TO STUDY TIDALLY TILTED PULSATORS
-
-PI: RAHUL JAYARAMAN - MASSACHUSETTS INSTITUTE OF TECHNOLOGY
-
-Type: MINI
-
-Summary: Tidally tilted pulsators are stars in tight binary systems whose pulsation axis is pulled into alignment with the binary's tidal axis. The first four tidally tilted pulsators were all discovered with TESS, and there is now conclusive proof that TTPs can occur in evolved stars. However, many unanswered questions about TTPs remain, including why only certain stars in tight binaries exhibit TTPs, and others do not. With this proposal, we seek short-cadence data to study tidally tilted pulsations in a set of candidates identified during prior stages of the TESS mission. This will allow for the first comprehensive census of TTPs and will allow for the inference of population-level properties of these unique stars.

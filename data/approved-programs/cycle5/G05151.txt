@@ -1,0 +1,28 @@
+# TESS Program G05151
+
+Title: Study Of Be Stars In Binary Systems
+
+PI: Andrade, Laerte - Laboratorio Nacional De Astrofisica
+
+Type: MINI
+
+Summary: We propose the use of TESS data to classify and characterize the binary systems of Be stars observed in Cycle 5. Be stars, as easily observable objects that give a privileged view of the structure of rapidly rotating stars, are among the most suitable laboratories for investigating fundamental problems in contemporary astrophysics, such as the effects of rapid rotation on stellar evolution. For confirmed eclipsing binaries disp&#314;aying outburst events in TESS light curves, we intend to obtain high resolution spectra to solve binary orbit parameters, including stellar mass. The measurement of stellar masses independent of stellar evolution models is essential to fine tune these models and consequently contribute to the elucidation of the Be phenomenon.
+
+
+# Sector 056 targets observed (2 min: 16, 20 s: 0)
+404555403,335.3795,12.2052,5.15,G05139;G05151
+153880067,340.7387,44.7217,8.57,G05139;G05151
+154355871,342.5908,41.9534,5.79,G05139;G05151
+155030422,345.4804,42.326,3.75,G05139;G05151
+239408899,321.2602,44.4518,8.22,G05036;G05139;G05151
+240258004,322.3119,44.3381,7.47,G05139;G05151
+136027289,317.1235,47.257,7.98,G05139;G05151
+240285395,322.5038,45.4942,6.93,G05139;G05151
+304114338,315.2956,46.1558,5.62,G05036;G05116;G05139;G05151
+364921141,311.2941,51.2105,9.1,G05036;G05151
+324820890,330.4092,50.168,9.15,G05139;G05151
+326247844,331.5348,49.9024,9.61,G05139;G05151
+429843636,323.0863,59.5725,7.58,G05151
+431116093,335.0947,51.861,7.12,G05139;G05151
+387813185,315.404,68.1633,6.77,G05036;G05139;G05151
+48022676,281.6797,52.9879,5.95,G05116;G05036;G05139;G05151

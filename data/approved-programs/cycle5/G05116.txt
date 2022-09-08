@@ -1,0 +1,24 @@
+# TESS Program G05116
+
+Title: Search For Outbursts Of Be Stars In The Observation Fields Of Cycle 5
+
+PI: Emilio, Marcelo - Universidade Estadual De Ponta Grossa
+
+Type: MINI
+
+Summary: We propose to continue the search for and characterization of discrete mass-loss events (outbursts) in Be stars located in TESS observation fields (initiated in TESS Cycle 1) as well as in Be stars observed during the Kepler/K2 mission. Rapid rotation alone cannot explain the ejection episodes, and non-radial pulsations (NRP) have been proposed as an explanation. Our goal is to verify the correlation between the NRP regime and the feeding of the envelope by combining ground-based spectroscopy data with the identification of outbursts and the measurement of small changes in pulsation frequencies with TESS 2-min cadence observations. Fourier analysis of photometric data is performed using a methodology developed for CoRoT and K2 Be stars.
+
+
+# Sector 056 targets observed (2 min: 12, 20 s: 0)
+310852121,345.9693,3.82,4.7,G05116;G05139
+373819241,320.7131,40.6972,7.39,G05116;G05036;G05139
+185226837,301.3569,46.6718,7.99,G05116;G05036;G05139
+267767305,312.1365,53.9061,7.63,G05116;G05036;G05139
+304114338,315.2956,46.1558,5.62,G05036;G05116;G05139;G05151
+329947655,314.9566,47.521,4.58,G05036;G05116;G05139
+268109716,312.7916,55.4887,7.47,G05116;G05139;G05036
+268105488,312.8504,57.062,9.01,G05116
+352556540,306.3867,54.6842,7.12,G05116;G05139;G05036
+233613741,283.4363,60.0179,7.15,G05116;G05139;G05036
+236785664,283.0091,59.6671,6.98,G05116;G05036
+48022676,281.6797,52.9879,5.95,G05116;G05036;G05139;G05151

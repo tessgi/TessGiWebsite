@@ -346,3 +346,45 @@ Summary: We propose to observe 30 gamma-ray blazars with TESS in a combination o
 
 # Sector 054 targets observed (2 min: 1, 20 s: 0)
 256615539,299.9994,65.1485,14.46,G04048
+
+# Sector 053 targets observed (2 min: 1, 20 s: 1)
+147796121,110.4727,71.3434,12.78,G04151;G04048;20SECONDTARGET
+
+# Sector 054 targets observed (2 min: 1, 20 s: 0)
+256615539,299.9994,65.1485,14.46,G04048
+
+# Sector 053 targets observed (2 min: 1, 20 s: 1)
+147796121,110.4727,71.3434,12.78,G04151;G04048;20SECONDTARGET
+
+# Sector 054 targets observed (2 min: 1, 20 s: 0)
+256615539,299.9994,65.1485,14.46,G04048
+
+# Sector 053 targets observed (2 min: 1, 20 s: 1)
+147796121,110.4727,71.3434,12.78,G04151;G04048;20SECONDTARGET
+
+# Sector 054 targets observed (2 min: 1, 20 s: 0)
+256615539,299.9994,65.1485,14.46,G04048
+
+# Sector 055 targets observed (2 min: 2, 20 s: 0)
+466376844,327.0227,6.9607,15.71,G04048
+256615539,299.9994,65.1485,14.46,G04048
+
+# Sector 053 targets observed (2 min: 1, 20 s: 1)
+147796121,110.4727,71.3434,12.78,G04151;G04048;20SECONDTARGET
+
+# Sector 054 targets observed (2 min: 1, 20 s: 0)
+256615539,299.9994,65.1485,14.46,G04048
+
+# Sector 055 targets observed (2 min: 2, 20 s: 0)
+466376844,327.0227,6.9607,15.71,G04048
+256615539,299.9994,65.1485,14.46,G04048
+
+# Sector 053 targets observed (2 min: 1, 20 s: 1)
+147796121,110.4727,71.3434,12.78,G04151;G04048;20SECONDTARGET
+
+# Sector 054 targets observed (2 min: 1, 20 s: 0)
+256615539,299.9994,65.1485,14.46,G04048
+
+# Sector 055 targets observed (2 min: 2, 20 s: 0)
+466376844,327.0227,6.9607,15.71,G04048
+256615539,299.9994,65.1485,14.46,G04048
