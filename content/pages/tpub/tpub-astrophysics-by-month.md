@@ -46,6 +46,41 @@ Southworth, John, Van Reeth, Timothy
 2022, refereed ([2022MNRAS.515.2755S](http://adsabs.harvard.edu/abs/2022MNRAS.515.2755S))
 <span class="badge">0 citations</span>
 
+7. [THE DISCOVERY OF NEW BINARY SYSTEMS USING VALUE-ADDED CATALOGS AND TESS DATA](http://adsabs.harvard.edu/abs/2022AJ....164...77C)  
+Carrell, Kenneth, Gray Cherry, Jackie, Gillespie, Charles    
+2022, refereed ([2022AJ....164...77C](http://adsabs.harvard.edu/abs/2022AJ....164...77C))
+<span class="badge">0 citations</span>
+
+8. [COROT-TESS ECLIPSING BINARIES WITH LIGHT-TRAVEL-TIME EFFECT](http://adsabs.harvard.edu/abs/2022arXiv220901142H)  
+Hajdu, T., Matécsa, B., Sallai, J. M., et al.    
+2022, not refereed ([2022arXiv220901142H](http://adsabs.harvard.edu/abs/2022arXiv220901142H))
+<span class="badge">0 citations</span>
+
+9. [A WHITE DWARF-MAIN-SEQUENCE BINARY UNVEILED BY TIME-DOMAIN OBSERVATIONS FROM LAMOST AND TESS](http://adsabs.harvard.edu/abs/2022ApJ...936...33Z)  
+Zheng, Ling-Lin, Gu, Wei-Min, Sun, Mouyuan, et al.    
+2022, refereed ([2022ApJ...936...33Z](http://adsabs.harvard.edu/abs/2022ApJ...936...33Z))
+<span class="badge">0 citations</span>
+
+10. [THE EBLM PROJECT -- IX. FIVE FULLY CONVECTIVE M-DWARFS, PRECISELY MEASURED WITH CHEOPS AND TESS LIGHT CURVES](http://adsabs.harvard.edu/abs/2022arXiv220903128S)  
+Sebastian, D., Swayne, M. I., Maxted, P. F. L., et al.    
+2022, not refereed ([2022arXiv220903128S](http://adsabs.harvard.edu/abs/2022arXiv220903128S))
+<span class="badge">0 citations</span>
+
+11. [ABSOLUTE DIMENSIONS AND APSIDAL MOTION OF THE ECLIPSING BINARIES V889 AQUILAE AND V402 LACERTAE](http://adsabs.harvard.edu/abs/2022A&A...665A..13B)  
+Baroch, D., Giménez, A., Morales, J. C., et al.    
+2022, refereed ([2022A&A...665A..13B](http://adsabs.harvard.edu/abs/2022A&A...665A..13B))
+<span class="badge">0 citations</span>
+
+12. [SPECTROPOLARIMETRY OF MAGNETIC CHEMICALLY PECULIAR STARS IN THE ORION OB1 ASSOCIATION](http://adsabs.harvard.edu/abs/2022MNRAS.515..998S)  
+Semenko, Eugene, Romanyuk, Iosif, Yakunin, Ilya, et al.    
+2022, refereed ([2022MNRAS.515..998S](http://adsabs.harvard.edu/abs/2022MNRAS.515..998S))
+<span class="badge">0 citations</span>
+
+13. [AU MICROSCOPII IN THE FAR-UV: OBSERVATIONS IN QUIESCENCE, DURING FLARES, AND IMPLICATIONS FOR AU MIC B AND C](http://adsabs.harvard.edu/abs/2022AJ....164..110F)  
+Feinstein, Adina D., France, Kevin, Youngblood, Allison, et al.    
+2022, refereed ([2022AJ....164..110F](http://adsabs.harvard.edu/abs/2022AJ....164..110F))
+<span class="badge">2 citations</span>
+
 
 2022-08
 -------

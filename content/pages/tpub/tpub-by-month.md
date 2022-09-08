@@ -91,6 +91,86 @@ Southworth, John, Van Reeth, Timothy
 2022, refereed ([2022MNRAS.515.2755S](http://adsabs.harvard.edu/abs/2022MNRAS.515.2755S))
 <span class="badge">0 citations</span>
 
+15. [THE DISCOVERY OF NEW BINARY SYSTEMS USING VALUE-ADDED CATALOGS AND TESS DATA](http://adsabs.harvard.edu/abs/2022AJ....164...77C)  
+Carrell, Kenneth, Gray Cherry, Jackie, Gillespie, Charles    
+2022, refereed ([2022AJ....164...77C](http://adsabs.harvard.edu/abs/2022AJ....164...77C))
+<span class="badge">0 citations</span>
+
+16. [TOI-1452 B: SPIROU AND TESS REVEAL A SUPER-EARTH IN A TEMPERATE ORBIT TRANSITING AN M4 DWARF](http://adsabs.harvard.edu/abs/2022AJ....164...96C)  
+Cadieux, Charles, Doyon, René, Plotnykov, Mykhaylo, et al.    
+2022, refereed ([2022AJ....164...96C](http://adsabs.harvard.edu/abs/2022AJ....164...96C))
+<span class="badge">0 citations</span>
+
+17. [TESS HUNT FOR YOUNG AND MATURING EXOPLANETS (THYME). VII. MEMBERSHIP, ROTATION, AND LITHIUM IN THE YOUNG CLUSTER GROUP-X AND A NEW YOUNG EXOPLANET](http://adsabs.harvard.edu/abs/2022AJ....164..115N)  
+Newton, Elisabeth R., Rampalli, Rayna, Kraus, Adam L., et al.    
+2022, refereed ([2022AJ....164..115N](http://adsabs.harvard.edu/abs/2022AJ....164..115N))
+<span class="badge">1 citations</span>
+
+18. [COROT-TESS ECLIPSING BINARIES WITH LIGHT-TRAVEL-TIME EFFECT](http://adsabs.harvard.edu/abs/2022arXiv220901142H)  
+Hajdu, T., Matécsa, B., Sallai, J. M., et al.    
+2022, not refereed ([2022arXiv220901142H](http://adsabs.harvard.edu/abs/2022arXiv220901142H))
+<span class="badge">0 citations</span>
+
+19. [A WHITE DWARF-MAIN-SEQUENCE BINARY UNVEILED BY TIME-DOMAIN OBSERVATIONS FROM LAMOST AND TESS](http://adsabs.harvard.edu/abs/2022ApJ...936...33Z)  
+Zheng, Ling-Lin, Gu, Wei-Min, Sun, Mouyuan, et al.    
+2022, refereed ([2022ApJ...936...33Z](http://adsabs.harvard.edu/abs/2022ApJ...936...33Z))
+<span class="badge">0 citations</span>
+
+20. [RVSPY -- RADIAL VELOCITY SURVEY FOR PLANETS AROUND YOUNG STARS. TARGET CHARACTERIZATION AND HIGH-CADENCE SURVEY](http://adsabs.harvard.edu/abs/2022arXiv220901125Z)  
+Zakhozhay, O., Launhardt, R., Mueller, A., et al.    
+2022, not refereed ([2022arXiv220901125Z](http://adsabs.harvard.edu/abs/2022arXiv220901125Z))
+<span class="badge">0 citations</span>
+
+21. [GJ 3929: HIGH-PRECISION PHOTOMETRIC AND DOPPLER CHARACTERIZATION OF AN EXO-VENUS AND ITS HOT, MINI-NEPTUNE-MASS COMPANION](http://adsabs.harvard.edu/abs/2022ApJ...936...55B)  
+Beard, Corey, Robertson, Paul, Kanodia, Shubham, et al.    
+2022, refereed ([2022ApJ...936...55B](http://adsabs.harvard.edu/abs/2022ApJ...936...55B))
+<span class="badge">0 citations</span>
+
+22. [A TESS SEARCH FOR SUBSTELLAR COMPANIONS THROUGH PULSATION TIMING OF $\DELTA$ SCUTI STARS. I. DISCOVERY OF COMPANIONS AROUND CHANG 134 AND V393 CAR](http://adsabs.harvard.edu/abs/2022arXiv220901220V)  
+Vaulato, V., Nascimbeni, V., Piotto, G.    
+2022, not refereed ([2022arXiv220901220V](http://adsabs.harvard.edu/abs/2022arXiv220901220V))
+<span class="badge">0 citations</span>
+
+23. [THE EBLM PROJECT -- IX. FIVE FULLY CONVECTIVE M-DWARFS, PRECISELY MEASURED WITH CHEOPS AND TESS LIGHT CURVES](http://adsabs.harvard.edu/abs/2022arXiv220903128S)  
+Sebastian, D., Swayne, M. I., Maxted, P. F. L., et al.    
+2022, not refereed ([2022arXiv220903128S](http://adsabs.harvard.edu/abs/2022arXiv220903128S))
+<span class="badge">0 citations</span>
+
+24. [HOT EXOPLANET ATMOSPHERES RESOLVED WITH TRANSIT SPECTROSCOPY (HEARTS) VII. DETECTION OF SODIUM ON THE LONG-TRANSITING INFLATED SUB-SATURN KELT-11 B](http://adsabs.harvard.edu/abs/2022arXiv220900597M)  
+Mounzer, Dany, Lovis, Christophe, Seidel, Julia V., et al.    
+2022, not refereed ([2022arXiv220900597M](http://adsabs.harvard.edu/abs/2022arXiv220900597M))
+<span class="badge">0 citations</span>
+
+25. [ABSOLUTE DIMENSIONS AND APSIDAL MOTION OF THE ECLIPSING BINARIES V889 AQUILAE AND V402 LACERTAE](http://adsabs.harvard.edu/abs/2022A&A...665A..13B)  
+Baroch, D., Giménez, A., Morales, J. C., et al.    
+2022, refereed ([2022A&A...665A..13B](http://adsabs.harvard.edu/abs/2022A&A...665A..13B))
+<span class="badge">0 citations</span>
+
+26. [TWO TEMPERATE SUPER-EARTHS TRANSITING A NEARBY LATE-TYPE M DWARF](http://adsabs.harvard.edu/abs/2022arXiv220902831D)  
+Delrez, L., Murray, C. A., Pozuelos, F. J., et al.    
+2022, not refereed ([2022arXiv220902831D](http://adsabs.harvard.edu/abs/2022arXiv220902831D))
+<span class="badge">0 citations</span>
+
+27. [SPECTROPOLARIMETRY OF MAGNETIC CHEMICALLY PECULIAR STARS IN THE ORION OB1 ASSOCIATION](http://adsabs.harvard.edu/abs/2022MNRAS.515..998S)  
+Semenko, Eugene, Romanyuk, Iosif, Yakunin, Ilya, et al.    
+2022, refereed ([2022MNRAS.515..998S](http://adsabs.harvard.edu/abs/2022MNRAS.515..998S))
+<span class="badge">0 citations</span>
+
+28. [AU MICROSCOPII IN THE FAR-UV: OBSERVATIONS IN QUIESCENCE, DURING FLARES, AND IMPLICATIONS FOR AU MIC B AND C](http://adsabs.harvard.edu/abs/2022AJ....164..110F)  
+Feinstein, Adina D., France, Kevin, Youngblood, Allison, et al.    
+2022, refereed ([2022AJ....164..110F](http://adsabs.harvard.edu/abs/2022AJ....164..110F))
+<span class="badge">2 citations</span>
+
+29. [ACCESS: TENTATIVE DETECTION OF H$_2$O IN THE GROUND-BASED OPTICAL TRANSMISSION SPECTRUM OF THE LOW-DENSITY HOT SATURN HATS-5B](http://adsabs.harvard.edu/abs/2022arXiv220900637A)  
+Allen, Natalie H., Espinoza, Néstor, Jordán, Andrés, et al.    
+2022, not refereed ([2022arXiv220900637A](http://adsabs.harvard.edu/abs/2022arXiv220900637A))
+<span class="badge">0 citations</span>
+
+30. [A TENDENCY TOWARD ALIGNMENT IN SINGLE-STAR WARM-JUPITER SYSTEMS](http://adsabs.harvard.edu/abs/2022AJ....164..104R)  
+Rice, Malena, Wang, Songhu, Wang, Xian-Yu, et al.    
+2022, refereed ([2022AJ....164..104R](http://adsabs.harvard.edu/abs/2022AJ....164..104R))
+<span class="badge">0 citations</span>
+
 
 2022-08
 -------
