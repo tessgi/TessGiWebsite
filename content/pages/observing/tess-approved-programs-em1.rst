@@ -30,6 +30,24 @@ Cycle 4
 
 .. include:: approved-programs/cycle4.html
 
+Sector 55
+=========
+.. raw:: html
+
+    <ul class="list-group">
+        <li class="list-group-item">
+          <i class="fa fa-calendar fa-margin"></i>
+          August 05, 2022 - September 01, 2022
+        </li>
+        <li class="list-group-item">
+            <i class="fa fa-download fa-margin"></i>
+            <a href="data/target_lists/sector055_targets_lists/GI_S055.csv">2 min target list (csv)</a>, 
+            <a href="data/target_lists/sector055_targets_lists/GI_20s_S055.csv">20 s target list (csv)</a>
+        </li>
+    </ul>
+
+.. include:: approved-programs/sector055.html
+	     
 
 Sector 54
 =========
@@ -47,7 +65,7 @@ Sector 54
         </li>
     </ul>
 
-.. include:: approved-programs/sector053.html
+.. include:: approved-programs/sector054.html
 	     
 Sector 53
 =========
