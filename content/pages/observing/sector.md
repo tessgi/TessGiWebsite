@@ -170,7 +170,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>North</td>
     <td>2022&nbsp;Sep&nbsp;01</td>
     <td>2022&nbsp;Sep&nbsp;30</td>
-    <td><a href='data/target_lists/sector054_targets_lists/GI_S056.csv'>Download</td>
+    <td><a href='data/target_lists/sector056_targets_lists/GI_S056.csv'>Download</td>
     <td style="min-width: 12em;">Second TESS extended mission field, Cycle 5 begins
     </td>
   </tr>
@@ -184,7 +184,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>North</td>
     <td>2022&nbsp;Aug&nbsp;05</td>
     <td>2022&nbsp;Sep&nbsp;01</td>
-    <td><a href='data/target_lists/sector054_targets_lists/GI_S055.csv'>Download</td>
+    <td><a href='data/target_lists/sector055_targets_lists/GI_S055.csv'>Download</td>
     <td style="min-width: 12em;">
     </td>
   </tr>
