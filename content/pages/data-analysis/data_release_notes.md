@@ -1,4 +1,4 @@
-lsTitle: TESS Data Release Notes
+Title: TESS Data Release Notes
 Save_as: data_release_notes.html
 
 [TOC]
