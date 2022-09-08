@@ -28,3 +28,21 @@ Cycle 5
 
 
 .. include:: approved-programs/cycle5.html
+	     
+Sector 56
+=========
+.. raw:: html
+
+    <ul class="list-group">
+        <li class="list-group-item">
+          <i class="fa fa-calendar fa-margin"></i>
+          September 01, 2022 - September 30, 2022
+        </li>
+        <li class="list-group-item">
+            <i class="fa fa-download fa-margin"></i>
+            <a href="data/target_lists/sector056_targets_lists/GI_S056.csv">2 min target list (csv)</a>, 
+            <a href="data/target_lists/sector056_targets_lists/GI_20s_S056.csv">20 s target list (csv)</a>
+        </li>
+    </ul>
+
+.. include:: approved-programs/sector056.html
