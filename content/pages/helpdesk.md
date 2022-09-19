@@ -55,6 +55,9 @@ The members of the TESS GI office are listed below.
     </div>
     
     <div class="col-sm-3 text-center">
+          <img src="images/faces/Nicole_BW_headshot.jpg"  style="max-width:80%;" class="img-circle"><br>
+        Dr Nicole Schanche<br>
+        Support Scientist
     </div>
     
 </div>
