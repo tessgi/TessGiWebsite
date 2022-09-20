@@ -149,19 +149,19 @@ KEY_INFORMATION = (
 
 # Defines the "important dates" box on the front page
 IMPORTANT_DATES = (
-    ('<b>11th June 2022</b>',
-             'AAS Workshop: Engaging the Public in Exoplanet Science Through the Legacy of TESS',
-             'https://submissions.mirasmart.com/AAS240/itinerary/EventDetail.aspx?evt=6',),
-    ('<b>13th June 2022</b>',
-     'AAS Splinter Session: Future Science with TESS',
-     'https://submissions.mirasmart.com/AAS240/itinerary/EventDetail.aspx?evt=76'),
+    ('<b>8th January 2023</b>',
+             'AAS #241 Workshop: NASAs TESS Mission Interactive Data Workshop',
+             '',),
      )
 
 # Defines the "meetings" box on the front page
 MEETINGS = (
-    ('<b>12th - 16th June 2022</b>',
-     'AAS #240',
-            'https://aas.org/meetings/aas240',),
+    ('<b>8th - 12th January 2023</b>',
+     'AAS #241',
+            'https://aas.org/meetings/aas241',),
+    ('<b>12th - 16th December 2022</b>',
+     'AGU Fall Metting',
+            'https://www.agu.org/Fall-Meeting',),
             )
 
 # Defines the "related websites" listing in the footer of all pages
