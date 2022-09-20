@@ -65,6 +65,7 @@ if pelican.__version__ >= '3.7.0':
             'markdown.extensions.toc': {},
             'markdown.extensions.tables': {},
         },
+        'extensions': ['mdx_include']
     }
 else:
     MD_EXTENSIONS = (['toc'])
@@ -109,6 +110,7 @@ MENUITEMS = (
                       )
         ),
         ('Observations', (
+          #  ('TESS at a glance', 'quicklook-mission.html'),
             ('Technical details', 'observing-technical.html'),
             ('Sector dates', 'sector.html'),
             ('Approved GI programs', 'approved-programs.html'),
@@ -126,7 +128,7 @@ MENUITEMS = (
         #     ('Media support', 'media.html'),
         #                          )
         # ),
-        # 
+        #
         )
 
 # Defines the "key information" box on the front page
@@ -147,19 +149,19 @@ KEY_INFORMATION = (
 
 # Defines the "important dates" box on the front page
 IMPORTANT_DATES = (
-    ('<b>8th January 2023</b>',
-             'AAS #241 Workshop: NASAs TESS Mission Interactive Data Workshop',
-             '',),
+    ('<b>11th June 2022</b>',
+             'AAS Workshop: Engaging the Public in Exoplanet Science Through the Legacy of TESS',
+             'https://submissions.mirasmart.com/AAS240/itinerary/EventDetail.aspx?evt=6',),
+    ('<b>13th June 2022</b>',
+     'AAS Splinter Session: Future Science with TESS',
+     'https://submissions.mirasmart.com/AAS240/itinerary/EventDetail.aspx?evt=76'),
      )
 
 # Defines the "meetings" box on the front page
 MEETINGS = (
-    ('<b>8th - 12th January 2023</b>',
-     'AAS #241',
-            'https://aas.org/meetings/aas241',),
-    ('<b>12th - 16th December 2022</b>',
-     'AGU Fall Metting',
-            'https://www.agu.org/Fall-Meeting',),
+    ('<b>12th - 16th June 2022</b>',
+     'AAS #240',
+            'https://aas.org/meetings/aas240',),
             )
 
 # Defines the "related websites" listing in the footer of all pages
@@ -167,7 +169,7 @@ RELATEDSITES = (
             ('News, Media, and Education Resources',
              'https://nasa.gov/tess'),
             ('TESS @ MIT',
-             'http://tess.mit.edu/'), 
+             'http://tess.mit.edu/'),
             # ('TESS @ Orbital ATK',
             #  'http://www.ballaerospace.com/page.jsp?page=72'),
             ('TESS @ MAST',
