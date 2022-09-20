@@ -5,7 +5,7 @@ Save_as: sector_52.html
 
 TIC ID's that had issues in Sector 52.
 
-#Blended targets in 20-second cadence observations
+##Blended targets in 20-second cadence observations
 TIC 441804565 and 1551711135
 
 These stars are blended with comparably bright stars. The contaminating flux for these objects is very large, and the resulting photometry is expected to be unreliable.
