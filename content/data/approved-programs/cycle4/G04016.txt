@@ -1,0 +1,16 @@
+# TESS Program G04016
+
+Title: A Gyrochronology Age For A New Benchmark Cluster
+
+PI: Newton, Elisabeth - Dartmouth College
+
+Type: SMALL
+
+Summary: Young stellar clusters provide benchmarks for investigations into both stellar evolution (calibrating stellar evolution models and empirical age relations), and exoplanetary science (discovering planets with known, young ages). A new young association, Group-X, provides a benchmark at an age that is not currently well-represented in nearby clusters (about 400 Myr). We will use TESS Cycle 4 data to significantly improve on the rotational analysis that can be done using Cycle 2 data. We will determine an age for the cluster using gyrochronology, representing the first in-depth look at this cluster.
+
+
+# Sector 050 targets observed (2 min: 1, 20 s: 0)
+159873822,237.9241,52.3063,10.76,G04016;G04242;G04039;G04191
+
+# Sector 051 targets observed (2 min: 1, 20 s: 0)
+159873822,237.9241,52.3063,10.76,G04016;G04242;G04039;G04191

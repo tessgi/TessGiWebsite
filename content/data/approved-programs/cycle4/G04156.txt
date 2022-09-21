@@ -1,0 +1,33 @@
+# TESS Program G04156
+
+Title: The Missing Link For M Dwarf Flares: Simultaneous TESS And Swift Observations
+
+PI: Guenther, Maximilian - Massachusetts Institute Of Technology
+
+Type: SMALL
+
+Summary: In our search for habitable worlds, M dwarfs have become prime targets. However, they harbor explosive stellar flares, impacting their exoplanets' surface habitability. The field thus needs a robust calibration for deriving X-ray/UV flare energies from TESS flare energies. Hence, we propose a timely pilot study to observe TESS's three most flaring M dwarfs synchronously with TESS 20s cad. and Swift, gaining continuous coverage across X-ray/UV, and optical wavelengths. We selected the top three targets possible, and with 33.3ks (9.3h) of Swift time per target, we have >80 100% statistical chance per target to catch one or more flares synchronously with TESS and Swift. Our program will open the door to one of TESS's primary mission goals: truly understanding M dwarf worlds.
+
+
+# Sector 040 targets observed (2 min: 2, 20 s: 2)
+289972535,118.9595,83.3811,10.43,G04033;G04214;G04156;G04211;G04188;G04234;G04178;20SECONDTARGET
+103687176,153.9303,66.0782,10.01,G04240;G04156;G04234;G04039;G04191;20SECONDTARGET
+
+# Sector 041 targets observed (2 min: 1, 20 s: 1)
+103687176,153.9303,66.0782,10.01,G04240;G04156;G04234;G04039;G04191;20SECONDTARGET
+
+# Sector 047 targets observed (2 min: 2, 20 s: 2)
+103687176,153.9303,66.0781,10.01,G04240;G04156;G04234;G04039;G04191;20SECONDTARGET
+289972535,118.9592,83.381,10.43,G04033;G04214;G04156;G04211;G04188;G04234;G04178;20SECONDTARGET
+
+# Sector 048 targets observed (2 min: 1, 20 s: 1)
+103687176,153.9303,66.0781,10.01,G04240;G04156;G04234;G04039;G04191;20SECONDTARGET
+
+# Sector 049 targets observed (2 min: 1, 20 s: 1)
+230200897,227.221,49.5685,10.61,G04212;G04132;G04156;G04234;G04039;G04191;20SECONDTARGET
+
+# Sector 050 targets observed (2 min: 1, 20 s: 1)
+230200897,227.221,49.5685,10.61,G04212;G04132;G04156;G04234;G04039;G04191;20SECONDTARGET
+
+# Sector 053 targets observed (2 min: 1, 20 s: 1)
+289972535,118.9589,83.381,10.43,G04033;G04214;G04156;G04211;G04188;G04234;G04178;20SECONDTARGET

@@ -1,0 +1,10 @@
+# TESS Program G04215
+
+Title: A Systematic Study To Characterize Rapid Optical Variability Of AGN And Search For Quasi-Periodic Oscillations
+
+PI: Pasham, Dheeraj - Massachusetts Institute Of Technology
+
+Type: SMALL
+
+Summary: We propose to identify variable AGN and quantify their rapid optical variability on tens of minutes to hours timescale using the high-cadence 10 min data from cycle 3 and 4. The goal is to derive the dependence of the black hole mass on the variability properties at these fastest timescales and compare it with predictions from state-of-the-art models for AGN accretion disks. Additionally, we will perform the first systematic search for optical quasi-periodic oscillations (QPOs) in all known variable AGN. Any detected QPOs would allow us to constrain the spins of the black holes. TESS is currently the only facility that can provide the uniform, high-cadence data required for the success of this program. We will make all the light curves and the entire transient detection pipeline public.
+

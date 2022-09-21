@@ -1,0 +1,58 @@
+# TESS Program G04168
+
+Title: Complex Photometric Modulations Of Rapidly-Rotating M Dwarfs In The Northern Hemisphere And Ecliptic
+
+PI: Jayaraman, Rahul - Massachusetts Institute Of Technology
+
+Type: MINI
+
+Summary: A new class of M dwarfs with strict, periodic complex modulations has recently been identified. These complex rotators have light curves exhibiting sharp features on short timescales; the periodicity of these features is sometimes well beyond the Nyquist limit of the TESS FFIs. Moreover, these stars' flux modulations exhibit stark changes over time periods of months to years. The most promising models able to explain such variations center on the occultation of stellar features by co-rotating dusty material. This proposal is requesting short-cadence data for six such targets in the North and the ecliptic. Short-cadence data for these targets will enable us to track the changes in these stars' light curves at various epochs and refine existing models for this intriguing class of stars.
+
+
+# Sector 040 targets observed (2 min: 1, 20 s: 0)
+366488770,299.7851,70.0901,14.26,G04168;G04171;G04178
+
+# Sector 041 targets observed (2 min: 2, 20 s: 0)
+207466636,245.7605,59.4567,12.88,G04168
+366488770,299.7851,70.0901,14.26,G04168;G04171;G04178
+
+# Sector 043 targets observed (2 min: 3, 20 s: 0)
+118769116,70.2226,20.9295,14.58,G04168;G04236;G04131
+59091144,74.7696,14.3489,12.69,G04168;G04131
+59129133,74.8684,14.2732,12.88,G04168;G04131
+
+# Sector 044 targets observed (2 min: 3, 20 s: 0)
+118769116,70.2226,20.9295,14.58,G04168;G04236;G04131
+59091144,74.7696,14.3489,12.69,G04168;G04131
+59129133,74.8684,14.2732,12.88,G04168;G04131
+
+# Sector 047 targets observed (2 min: 1, 20 s: 0)
+366488770,299.7851,70.0901,14.26,G04168;G04171;G04178
+
+# Sector 048 targets observed (2 min: 2, 20 s: 0)
+207466636,245.7605,59.4567,12.88,G04168
+366488770,299.7851,70.0901,14.26,G04168;G04171;G04178
+
+# Sector 049 targets observed (2 min: 2, 20 s: 0)
+207466636,245.7605,59.4567,12.88,G04168
+366488770,299.7851,70.0901,14.26,G04168;G04171;G04178
+
+# Sector 050 targets observed (2 min: 2, 20 s: 0)
+207466636,245.7605,59.4567,12.88,G04168
+366488770,299.7851,70.0901,14.26,G04168;G04171;G04178
+
+# Sector 051 targets observed (2 min: 2, 20 s: 0)
+207466636,245.7605,59.4567,12.88,G04168
+366488770,299.7851,70.0901,14.26,G04168;G04171;G04178
+
+# Sector 052 targets observed (2 min: 2, 20 s: 0)
+207466636,245.7605,59.4567,12.88,G04168
+366488770,299.7851,70.0901,14.26,G04168;G04171;G04178
+
+# Sector 053 targets observed (2 min: 2, 20 s: 0)
+366488770,299.7851,70.0901,14.26,G04168;G04171;G04178
+402980664,16.7356,80.4594,11.11,G04168;G04214;G04240;G04171;G04188;G04178;G04039
+
+# Sector 055 targets observed (2 min: 2, 20 s: 0)
+366488770,299.7851,70.0901,14.26,G04168;G04171;G04178
+207466636,245.7605,59.4567,12.88,G04168

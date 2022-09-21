@@ -1,0 +1,66 @@
+# TESS Program G04081
+
+Title: Early-L Dwarf Variability From Ground And Space: Spots, Clouds Or Aurorae?
+
+PI: Mccarthy, Allison - Boston University
+
+Type: SMALL
+
+Summary: Photometric variability observed in L dwarfs could be due to rotating magnetic spots, clouds, aurorae, or a combination therein. We propose 16 early L dwarf targets for short-cadence TESS observations, 10 of which we will simultaneously observe at infrared wavelengths from the ground. For the 10 targets with simultaneous optical/IR observations, the differences in amplitude and phase between the optical and IR light curves will determine the relative roles of spots, clouds, and aurorae in L dwarf variability. For the remaining 6, we will measure their variability characteristics using TESS data alone. The results are crucial for interpreting future JWST observations of L-type planetary companions to sun-like stars and L-type planetary-mass objects.
+
+
+# Sector 040 targets observed (2 min: 1, 20 s: 0)
+298554585,271.8166,50.258,16.28,G04171;G04081
+
+# Sector 041 targets observed (2 min: 2, 20 s: 0)
+298554585,271.8166,50.258,16.28,G04171;G04081
+311088146,219.5433,64.1422,16.17,G04081;G04211
+
+# Sector 042 targets observed (2 min: 4, 20 s: 0)
+244167275,6.1022,-1.9714,15.05,G04081;G04211
+269531033,14.1351,-1.1875,17.21,G04081
+38314290,13.4496,-1.2326,13.79,G04081
+257841489,37.1794,16.6566,16.33,G04081
+
+# Sector 043 targets observed (2 min: 3, 20 s: 0)
+244167275,6.1022,-1.9714,15.05,G04081;G04211
+269531033,14.1351,-1.1875,17.21,G04081
+38314290,13.4496,-1.2326,13.79,G04081
+
+# Sector 044 targets observed (2 min: 1, 20 s: 0)
+86019856,139.0612,21.6639,16.25,G04081;G04188
+
+# Sector 045 targets observed (2 min: 3, 20 s: 0)
+86019856,139.0612,21.6639,16.25,G04081;G04188
+311991265,139.2445,10.9553,14.22,G04081
+281706120,162.1757,1.1981,16.16,G04081;G04211
+
+# Sector 046 targets observed (2 min: 5, 20 s: 0)
+86019856,139.0612,21.6639,16.25,G04081;G04188
+311991265,139.2445,10.9553,14.22,G04081
+281706120,162.1757,1.1981,16.16,G04081;G04211
+62892848,161.3468,-1.8328,16.44,G04081;G04211
+377172800,185.3646,2.9552,16.34,G04081;G04211;G04188
+
+# Sector 048 targets observed (2 min: 2, 20 s: 0)
+285002767,162.8266,56.2171,16.57,G04081;G04211
+311088146,219.5435,64.1421,16.17,G04081;G04211
+
+# Sector 049 targets observed (2 min: 1, 20 s: 0)
+311088146,219.5436,64.1421,16.17,G04081;G04211
+
+# Sector 050 targets observed (2 min: 1, 20 s: 0)
+161640200,215.376,18.4602,16.49,G04081;G04211
+
+# Sector 051 targets observed (2 min: 1, 20 s: 0)
+368293312,232.8299,26.4785,15.58,G04081
+
+# Sector 052 targets observed (2 min: 2, 20 s: 0)
+321695100,262.8739,27.3551,15.29,G04081
+298554585,271.8166,50.2579,16.28,G04171;G04081
+
+# Sector 053 targets observed (2 min: 1, 20 s: 0)
+321695100,262.8739,27.3551,15.29,G04081
+
+# Sector 054 targets observed (2 min: 1, 20 s: 0)
+298554585,271.8166,50.2579,16.28,G04171;G04081

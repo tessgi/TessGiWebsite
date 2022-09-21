@@ -1,0 +1,22 @@
+# TESS Program G04134
+
+Title: TESS Observations Of The Bright Cepheid Polaris
+
+PI: Buzasi, Derek - Florida Gulf Coast University
+
+Type: SMALL
+
+Summary: Polaris, the current North Pole Star, is the brightest Cepheid in the sky, and features a dominant pulsation period of approximately 3.974 days. As the prototypical Classical Cepheid, the star has served as a laboratory for studies of the period-luminosity relationship, stellar pulsation, and massive star evolution for more than a century. Ironically, despite this concentrated study - and over 1100 ADS publications - much remains uncertain about this valuable astrophysical laboratory, including its mass, radius, age, and evolutionary state. TESS provides a unique and crucial opportunity to clarify this confusing situation and to test the stability of Polaris' light amplitude as well as the presence of additional short-timescale variability previously reported for the star.
+
+
+# Sector 040 targets observed (2 min: 1, 20 s: 0)
+303256075,37.9672,89.2641,1.37,G04134;G04028
+
+# Sector 047 targets observed (2 min: 1, 20 s: 0)
+303256075,37.9672,89.2641,1.37,G04134;G04028
+
+# Sector 052 targets observed (2 min: 1, 20 s: 0)
+303256075,37.9672,89.2641,1.37,G04134;G04028
+
+# Sector 053 targets observed (2 min: 1, 20 s: 0)
+303256075,37.9672,89.2641,1.37,G04134;G04028

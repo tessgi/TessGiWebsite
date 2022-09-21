@@ -1,0 +1,10 @@
+# TESS Program G04179
+
+Title: Planetary Archaeology: Exploring The Planet Population Around Evolved Stars With TESS
+
+PI: Grunblatt, Samuel - American Museum Of Natural History
+
+Type: SMALL
+
+Summary: In contrast to their quiet lives on the main sequence, post-main sequence evolution provides an opportunity to study the response of planets to changing irradiation, tides and mass loss. Moreover, the oscillations of such stars can be used to precisely measure both stellar and planet properties. We propose to continue the first all-sky survey to detect and characterize giant planets transiting evolved stars using TESS full-frame image (FFI) data. We select stars that allow both asteroseismology and planet transit detection using 10- and/or 30-minute cadence data. This program will allow us to address the occurrence of giant planets as a function of stellar mass, metallicity and evolution, and the mechanism(s) responsible for the inflation and engulfment of highly irradiated planets.
+

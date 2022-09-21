@@ -1,0 +1,13 @@
+# TESS Program G04210
+
+Title: Rapid Variability Of The Unique White Dwarf Merger Candidate J005311
+
+PI: Garnavich, Peter - University Of Notre Dame
+
+Type: MINI
+
+Summary: The star J005311 is suspected to be the product of a merger of two white dwarf stars. Its spectrum is unique and spectacular, displaying broad emission lines of five-times ionized oxygen. The line widths suggest a wind expanding at 16000 km/s, more than 5% of the speed of light. The wind is seen to have density fluctuations that vary on a times scale of minutes and there are overall brightness changes at the 5% level. In the future, as the wind removes angular momentum from the merged white dwarfs, the remnant may reach a critical density and explode as a supernova. This program proposes to search for the spin frequency of the merger using the 20-sec cadence of TESS. The star's magnetic field may couple its rotation to the wind resulting in a persistent, but weak, photometric signal.
+
+
+# Sector 052 targets observed (2 min: 1, 20 s: 1)
+351685700,13.2966,67.5007,15.02,G04210;20SECONDTARGET

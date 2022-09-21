@@ -1,0 +1,10 @@
+# TESS Program G04032
+
+Title: Difference Imaging Of Stars In Clusters
+
+PI: Bouma, Luke - Princeton University
+
+Type: LARGE
+
+Summary: We propose to produce, and make public, light curves for all ~100,000 known star cluster members brighter than T = 16 observed in the TESS full-frame images during Cycle 4. The light curves will be generated using image subtraction photometry, which outperforms aperture photometry in crowded fields. We will search the light curves for transiting planets, expecting to triple the number of transiting planets known in clusters. This will shed light on the timescales for processes in planet formation, evolution, and migration. The public data set will also be a gold mine for stellar astrophysics, including studies of gyrochronology, variability and tests of stellar evolution.
+
