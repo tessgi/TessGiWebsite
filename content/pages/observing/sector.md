@@ -38,8 +38,8 @@ The data from each sector are required to be available at the MAST no later than
  <tr>
     <td><a href="#s069">s069</a></td>
     <td>South</td>
-    <td>2023&nbsp;Sep&nbsp;20</td>
     <td>2023&nbsp;Aug&nbsp;25</td>
+    <td>2023&nbsp;Sep&nbsp;20</td>
     <td></td>
     <td style="min-width: 12em;">
     </td>
@@ -48,8 +48,8 @@ The data from each sector are required to be available at the MAST no later than
  <tr>
     <td><a href="#s068">s068</a></td>
     <td>South</td>
-    <td>2023&nbsp;Aug&nbsp;25</td>
     <td>2023&nbsp;Jul&nbsp;29</td>
+    <td>2023&nbsp;Aug&nbsp;25</td>
     <td></td>
     <td style="min-width: 12em;">
     </td>
@@ -58,8 +58,8 @@ The data from each sector are required to be available at the MAST no later than
  <tr>
     <td><a href="#s067">s067</a></td>
     <td>South</td>
-    <td>2023&nbsp;Jul&nbsp;29</td>
     <td>2023&nbsp;Jul&nbsp;01</td>
+    <td>2023&nbsp;Jul&nbsp;29</td>
     <td></td>
     <td style="min-width: 12em;">
     </td>
