@@ -12,8 +12,8 @@ the TESS mission is provided by the NASA's Science Mission Directorate.*
 
 The TESS Science Support Center curates a list of scientific publications
 pertaining to TESS.
-The database contains 252 publications,
-of which 207 are peer-reviewed.
+The database contains 1168 publications,
+of which 992 are peer-reviewed.
 It demonstrates the important impact of TESS data
 on astronomical research.
 
@@ -46,11 +46,11 @@ of year.
 
 Both TESS data have been used for scientific applications
 that reach far beyond exoplanet research.
-While 121 works relate to exoplanets
-(48%),
-a total of 131
+While 467 works relate to exoplanets
+(40%),
+a total of 700
 pertain to other areas of astrophysics
-(52%).
+(60%).
 
 
 ![Publications by subject](images/tpub/tpub-piechart.png)
@@ -60,7 +60,7 @@ pertain to other areas of astrophysics
 ## Most-cited publications
 
 TESS publications have cumulatively been cited
-8429 times.
+15034 times.
 The list below shows the most-cited publications,
 based on the citation count obtained from NASA ADS.
 
@@ -68,51 +68,51 @@ based on the citation count obtained from NASA ADS.
 1. TRANSITING EXOPLANET SURVEY SATELLITE (TESS)  
 Ricker, George R., Winn, Joshua N., Vanderspek, Roland, et al.    
 [2015JATIS...1a4003R](http://adsabs.harvard.edu/abs/2015JATIS...1a4003R)
-<span class="badge">1849 citations</span>
+<span class="badge">1810 citations</span>
 
 2. THE REVISED TESS INPUT CATALOG AND CANDIDATE TARGET LIST  
 Stassun, Keivan G., Oelkers, Ryan J., Paegert, Martin, et al.    
 [2019AJ....158..138S](http://adsabs.harvard.edu/abs/2019AJ....158..138S)
-<span class="badge">385 citations</span>
+<span class="badge">375 citations</span>
 
 3. THE TESS INPUT CATALOG AND CANDIDATE TARGET LIST  
 Stassun, Keivan G., Oelkers, Ryan J., Pepper, Joshua, et al.    
 [2018AJ....156..102S](http://adsabs.harvard.edu/abs/2018AJ....156..102S)
-<span class="badge">371 citations</span>
+<span class="badge">368 citations</span>
 
 4. THE TRANSITING EXOPLANET SURVEY SATELLITE: SIMULATIONS OF PLANET DETECTIONS AND ASTROPHYSICAL FALSE POSITIVES  
 Sullivan, Peter W., Winn, Joshua N., Berta-Thompson, Zachory K., et al.    
 [2015ApJ...809...77S](http://adsabs.harvard.edu/abs/2015ApJ...809...77S)
-<span class="badge">358 citations</span>
+<span class="badge">356 citations</span>
 
-5. A REVISED EXOPLANET YIELD FROM THE TRANSITING EXOPLANET SURVEY SATELLITE (TESS)  
-Barclay, Thomas, Pepper, Joshua, Quintana, Elisa V.    
-[2018ApJS..239....2B](http://adsabs.harvard.edu/abs/2018ApJS..239....2B)
-<span class="badge">211 citations</span>
-
-6. A FRAMEWORK FOR PRIORITIZING THE TESS PLANETARY CANDIDATES MOST AMENABLE TO ATMOSPHERIC CHARACTERIZATION  
+5. A FRAMEWORK FOR PRIORITIZING THE TESS PLANETARY CANDIDATES MOST AMENABLE TO ATMOSPHERIC CHARACTERIZATION  
 Kempton, Eliza M. -R., Bean, Jacob L., Louie, Dana R., et al.    
 [2018PASP..130k4401K](http://adsabs.harvard.edu/abs/2018PASP..130k4401K)
-<span class="badge">211 citations</span>
+<span class="badge">210 citations</span>
+
+6. A REVISED EXOPLANET YIELD FROM THE TRANSITING EXOPLANET SURVEY SATELLITE (TESS)  
+Barclay, Thomas, Pepper, Joshua, Quintana, Elisa V.    
+[2018ApJS..239....2B](http://adsabs.harvard.edu/abs/2018ApJS..239....2B)
+<span class="badge">208 citations</span>
 
 7. LIMB AND GRAVITY-DARKENING COEFFICIENTS FOR THE TESS SATELLITE AT SEVERAL METALLICITIES, SURFACE GRAVITIES, AND MICROTURBULENT VELOCITIES  
 Claret, A.    
 [2017A&A...600A..30C](http://adsabs.harvard.edu/abs/2017A&A...600A..30C)
-<span class="badge">159 citations</span>
+<span class="badge">156 citations</span>
 
 8. TESS DISCOVERY OF A TRANSITING SUPER-EARTH IN THE PI MENSAE SYSTEM  
 Huang, Chelsea X., Burt, Jennifer, Vanderburg, Andrew, et al.    
 [2018ApJ...868L..39H](http://adsabs.harvard.edu/abs/2018ApJ...868L..39H)
-<span class="badge">147 citations</span>
+<span class="badge">145 citations</span>
 
-9. TESS DISCOVERY OF AN ULTRA-SHORT-PERIOD PLANET AROUND THE NEARBY M DWARF LHS 3844  
+9. STELLAR FLARES FROM THE FIRST TESS DATA RELEASE: EXPLORING A NEW SAMPLE OF M DWARFS  
+Günther, Maximilian N., Zhan, Zhuchang, Seager, Sara, et al.    
+[2020AJ....159...60G](http://adsabs.harvard.edu/abs/2020AJ....159...60G)
+<span class="badge">138 citations</span>
+
+10. TESS DISCOVERY OF AN ULTRA-SHORT-PERIOD PLANET AROUND THE NEARBY M DWARF LHS 3844  
 Vanderspek, Roland, Huang, Chelsea X., Vanderburg, Andrew, et al.    
 [2019ApJ...871L..24V](http://adsabs.harvard.edu/abs/2019ApJ...871L..24V)
-<span class="badge">102 citations</span>
-
-10. THE ASAS-SN CATALOGUE OF VARIABLE STARS III: VARIABLES IN THE SOUTHERN TESS CONTINUOUS VIEWING ZONE  
-Jayasinghe, T., Stanek, K. Z., Kochanek, C. S., et al.    
-[2019MNRAS.485..961J](http://adsabs.harvard.edu/abs/2019MNRAS.485..961J)
 <span class="badge">101 citations</span>
 <hr/>
 
@@ -130,7 +130,27 @@ within the last 90 days.
 <!-- ## Most-active authors
 
 The entries in the publication database have been authored and co-authored
-by a total of 1999 unique author names.
+by a total of 5099 unique author names.
 Here we list the most-active authors, defined as those with six or more first-author publications in our database.
 
+
+ * Southworth, J (14 publications)
+
+ * Bouma, L (9 publications)
+
+ * Balona, L (8 publications)
+
+ * Lee, J (7 publications)
+
+ * Howard, W (7 publications)
+
+ * Jayasinghe, T (7 publications)
+
+ * Kostov, V (6 publications)
+
+ * Cloutier, R (6 publications)
+
+ * Feinstein, A (6 publications)
+
+ * Wong, I (6 publications)
 -->
