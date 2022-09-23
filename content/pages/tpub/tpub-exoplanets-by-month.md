@@ -4,6 +4,150 @@ Save_as: tpub-exoplanets-by-month.html
 [TOC]
 
 
+2022-09
+-------
+
+1. [GJ 3090 B: ONE OF THE MOST FAVOURABLE MINI-NEPTUNE FOR ATMOSPHERIC CHARACTERISATION](http://adsabs.harvard.edu/abs/2022A&A...665A..91A)  
+Almenara, J. M., Bonfils, X., Otegi, J. F., et al.    
+2022, refereed ([2022A&A...665A..91A](http://adsabs.harvard.edu/abs/2022A&A...665A..91A))
+<span class="badge">0 citations</span>
+
+2. [TESS HUNT FOR YOUNG AND MATURING EXOPLANETS (THYME). VII. MEMBERSHIP, ROTATION, AND LITHIUM IN THE YOUNG CLUSTER GROUP-X AND A NEW YOUNG EXOPLANET](http://adsabs.harvard.edu/abs/2022AJ....164..115N)  
+Newton, Elisabeth R., Rampalli, Rayna, Kraus, Adam L., et al.    
+2022, refereed ([2022AJ....164..115N](http://adsabs.harvard.edu/abs/2022AJ....164..115N))
+<span class="badge">2 citations</span>
+
+3. [THE TESS-KECK SURVEY. XIII. AN ECCENTRIC HOT NEPTUNE WITH A SIMILAR-MASS OUTER COMPANION AROUND TOI-1272](http://adsabs.harvard.edu/abs/2022AJ....164...97M)  
+MacDougall, Mason G., Petigura, Erik A., Fetherolf, Tara, et al.    
+2022, refereed ([2022AJ....164...97M](http://adsabs.harvard.edu/abs/2022AJ....164...97M))
+<span class="badge">0 citations</span>
+
+4. [TRANSIT HUNT FOR YOUNG AND MATURING EXOPLANETS (THYME). VIII. A PLEIADES-AGE ASSOCIATION HARBORING TWO TRANSITING PLANETARY SYSTEMS FROM KEPLER](http://adsabs.harvard.edu/abs/2022AJ....164...88B)  
+Barber, Madyson G., Mann, Andrew W., Bush, Jonathan L., et al.    
+2022, refereed ([2022AJ....164...88B](http://adsabs.harvard.edu/abs/2022AJ....164...88B))
+<span class="badge">1 citations</span>
+
+5. [PTERODACTYLS: A TOOL TO UNIFORMLY SEARCH AND VET FOR YOUNG TRANSITING PLANETS IN TESS PRIMARY MISSION PHOTOMETRY](http://adsabs.harvard.edu/abs/2022AJ....164...78F)  
+Fernandes, Rachel B., Mulders, Gijs D., Pascucci, Ilaria, et al.    
+2022, refereed ([2022AJ....164...78F](http://adsabs.harvard.edu/abs/2022AJ....164...78F))
+<span class="badge">0 citations</span>
+
+6. [SOLAR-TO-SUPERSOLAR SODIUM AND OXYGEN ABSOLUTE ABUNDANCES FOR A 'HOT SATURN' ORBITING A METAL-RICH STAR](http://adsabs.harvard.edu/abs/2022MNRAS.515.3037N)  
+Nikolov, Nikolay K., Sing, David K., Spake, Jessica J., et al.    
+2022, refereed ([2022MNRAS.515.3037N](http://adsabs.harvard.edu/abs/2022MNRAS.515.3037N))
+<span class="badge">3 citations</span>
+
+7. [HORUS TRANSMISSION SPECTROSCOPY AND REVISED PLANETARY PARAMETERS OF KELT-7 B](http://adsabs.harvard.edu/abs/2022MNRAS.515.1247T)  
+Tabernero, H. M., Zapatero Osorio, M. R., Allende Prieto, C., et al.    
+2022, refereed ([2022MNRAS.515.1247T](http://adsabs.harvard.edu/abs/2022MNRAS.515.1247T))
+<span class="badge">0 citations</span>
+
+8. [TOI-3757 B: A LOW-DENSITY GAS GIANT ORBITING A SOLAR-METALLICITY M DWARF](http://adsabs.harvard.edu/abs/2022AJ....164...81K)  
+Kanodia, Shubham, Libby-Roberts, Jessica, Cañas, Caleb I., et al.    
+2022, refereed ([2022AJ....164...81K](http://adsabs.harvard.edu/abs/2022AJ....164...81K))
+<span class="badge">1 citations</span>
+
+9. [GAIA-TESS SYNERGY: IMPROVING THE IDENTIFICATION OF TRANSIT CANDIDATES](http://adsabs.harvard.edu/abs/2022arXiv220905845P)  
+Panahi, Aviad, Mazeh, Tsevi, Zucker, Shay, et al.    
+2022, not refereed ([2022arXiv220905845P](http://adsabs.harvard.edu/abs/2022arXiv220905845P))
+<span class="badge">0 citations</span>
+
+10. [CHEOPS FINDS KELT-1B DARKER THAN EXPECTED IN VISIBLE LIGHT: DISCREPANCY BETWEEN THE CHEOPS AND TESS ECLIPSE DEPTHS](http://adsabs.harvard.edu/abs/2022arXiv220903890P)  
+Parviainen, H., Wilson, T. G., Lendl, M., et al.    
+2022, not refereed ([2022arXiv220903890P](http://adsabs.harvard.edu/abs/2022arXiv220903890P))
+<span class="badge">0 citations</span>
+
+11. [TOI-1452 B: SPIROU AND TESS REVEAL A SUPER-EARTH IN A TEMPERATE ORBIT TRANSITING AN M4 DWARF](http://adsabs.harvard.edu/abs/2022AJ....164...96C)  
+Cadieux, Charles, Doyon, René, Plotnykov, Mykhaylo, et al.    
+2022, refereed ([2022AJ....164...96C](http://adsabs.harvard.edu/abs/2022AJ....164...96C))
+<span class="badge">0 citations</span>
+
+12. [VALIDATION OF TESS EXOPLANET CANDIDATES ORBITING SOLAR ANALOGUES IN THE ALL-SKY PLATO INPUT CATALOGUE](http://adsabs.harvard.edu/abs/2022MNRAS.tmp.2311M)  
+Mantovan, Giacomo, Montalto, Marco, Piotto, Giampaolo, et al.    
+2022, refereed ([2022MNRAS.tmp.2311M](http://adsabs.harvard.edu/abs/2022MNRAS.tmp.2311M))
+<span class="badge">0 citations</span>
+
+13. [THE PHASE CURVE AND THE GEOMETRIC ALBEDO OF WASP-43B MEASURED WITH CHEOPS, TESS AND HST WFC3/UVIS](http://adsabs.harvard.edu/abs/2022arXiv220905303S)  
+Scandariato, G., Singh, V., Kitzmann, D., et al.    
+2022, not refereed ([2022arXiv220905303S](http://adsabs.harvard.edu/abs/2022arXiv220905303S))
+<span class="badge">0 citations</span>
+
+14. [REVISITING THE TRANSIT TIMING VARIATIONS IN THE TRES-3 AND QATAR-1 SYSTEMS WITH TESS DATA](http://adsabs.harvard.edu/abs/2022arXiv220904080M)  
+Mannaday, Vineet Kumar, Thakur, Parijat, Southworth, John, et al.    
+2022, not refereed ([2022arXiv220904080M](http://adsabs.harvard.edu/abs/2022arXiv220904080M))
+<span class="badge">0 citations</span>
+
+15. [A TESS SEARCH FOR SUBSTELLAR COMPANIONS THROUGH PULSATION TIMING OF $\DELTA$ SCUTI STARS. I. DISCOVERY OF COMPANIONS AROUND CHANG 134 AND V393 CAR](http://adsabs.harvard.edu/abs/2022arXiv220901220V)  
+Vaulato, V., Nascimbeni, V., Piotto, G.    
+2022, not refereed ([2022arXiv220901220V](http://adsabs.harvard.edu/abs/2022arXiv220901220V))
+<span class="badge">0 citations</span>
+
+16. [TESS-KECK SURVEY XIV: 2 GIANT EXOPLANETS FROM THE DISTANT GIANTS SURVEY](http://adsabs.harvard.edu/abs/2022arXiv220906958V)  
+Van Zandt, Judah E., Petigura, Erik A., MacDougall, Mason, et al.    
+2022, not refereed ([2022arXiv220906958V](http://adsabs.harvard.edu/abs/2022arXiv220906958V))
+<span class="badge">0 citations</span>
+
+17. [THE EBLM PROJECT - IX. FIVE FULLY CONVECTIVE M-DWARFS, PRECISELY MEASURED WITH CHEOPS AND TESS LIGHT CURVES](http://adsabs.harvard.edu/abs/2022MNRAS.tmp.2392S)  
+Sebastian, D., Swayne, M. I., Maxted, P. F. L., et al.    
+2022, refereed ([2022MNRAS.tmp.2392S](http://adsabs.harvard.edu/abs/2022MNRAS.tmp.2392S))
+<span class="badge">0 citations</span>
+
+18. [GJ 3929: HIGH-PRECISION PHOTOMETRIC AND DOPPLER CHARACTERIZATION OF AN EXO-VENUS AND ITS HOT, MINI-NEPTUNE-MASS COMPANION](http://adsabs.harvard.edu/abs/2022ApJ...936...55B)  
+Beard, Corey, Robertson, Paul, Kanodia, Shubham, et al.    
+2022, refereed ([2022ApJ...936...55B](http://adsabs.harvard.edu/abs/2022ApJ...936...55B))
+<span class="badge">0 citations</span>
+
+19. [HD 28109 HOSTS A TRIO OF TRANSITING NEPTUNIAN PLANETS INCLUDING A NEAR-RESONANT PAIR, CONFIRMED BY ASTEP FROM ANTARCTICA](http://adsabs.harvard.edu/abs/2022MNRAS.515.1328D)  
+Dransfield, Georgina, Triaud, Amaury H. M. J., Guillot, Tristan, et al.    
+2022, refereed ([2022MNRAS.515.1328D](http://adsabs.harvard.edu/abs/2022MNRAS.515.1328D))
+<span class="badge">0 citations</span>
+
+20. [TWO TEMPERATE SUPER-EARTHS TRANSITING A NEARBY LATE-TYPE M DWARF](http://adsabs.harvard.edu/abs/2022arXiv220902831D)  
+Delrez, L., Murray, C. A., Pozuelos, F. J., et al.    
+2022, not refereed ([2022arXiv220902831D](http://adsabs.harvard.edu/abs/2022arXiv220902831D))
+<span class="badge">0 citations</span>
+
+21. [TESS DISCOVERY OF A SUPER-EARTH AND TWO SUB-NEPTUNES ORBITING THE BRIGHT, NEARBY, SUN-LIKE STAR HD 22946](http://adsabs.harvard.edu/abs/2022arXiv220909597C)  
+Cacciapuoti, Luca, Inno, Laura, Covone, Giovanni, et al.    
+2022, not refereed ([2022arXiv220909597C](http://adsabs.harvard.edu/abs/2022arXiv220909597C))
+<span class="badge">0 citations</span>
+
+22. [MAXIMUM LIKELIHOOD SYSTEMATIC EFFECT MODELING AND MATCHED FILTERING TO DETECT TRANS-NEPTUNIAN OBJECTS WITH TESS](http://adsabs.harvard.edu/abs/2022arXiv220909848G)  
+Ganapathi, Varun    
+2022, not refereed ([2022arXiv220909848G](http://adsabs.harvard.edu/abs/2022arXiv220909848G))
+<span class="badge">0 citations</span>
+
+23. [A SEARCH FOR TRANSIT TIMING VARIATIONS IN THE HATS-18 PLANETARY SYSTEM](http://adsabs.harvard.edu/abs/2022MNRAS.515.3212S)  
+Southworth, John, Barker, A. J., Hinse, T. C., et al.    
+2022, refereed ([2022MNRAS.515.3212S](http://adsabs.harvard.edu/abs/2022MNRAS.515.3212S))
+<span class="badge">1 citations</span>
+
+24. [NEOSSAT OBSERVATIONS OF THREE TRANSITING HOT JUPITERS](http://adsabs.harvard.edu/abs/2022MNRAS.tmp.2370F)  
+Fox, Chris, Wiegert, Paul    
+2022, refereed ([2022MNRAS.tmp.2370F](http://adsabs.harvard.edu/abs/2022MNRAS.tmp.2370F))
+<span class="badge">0 citations</span>
+
+25. [HOT EXOPLANET ATMOSPHERES RESOLVED WITH TRANSIT SPECTROSCOPY (HEARTS) VII. DETECTION OF SODIUM ON THE LONG-TRANSITING INFLATED SUB-SATURN KELT-11 B](http://adsabs.harvard.edu/abs/2022arXiv220900597M)  
+Mounzer, Dany, Lovis, Christophe, Seidel, Julia V., et al.    
+2022, not refereed ([2022arXiv220900597M](http://adsabs.harvard.edu/abs/2022arXiv220900597M))
+<span class="badge">0 citations</span>
+
+26. [THE KOBE EXPERIMENT: K-DWARFS ORBITED BY HABITABLE EXOPLANETS. PROJECT GOALS, TARGET SELECTION AND STELLAR CHARACTERIZATION](http://adsabs.harvard.edu/abs/2022arXiv220905205L)  
+Lillo-Box, J., Santos, N. C., Santerne, A., et al.    
+2022, not refereed ([2022arXiv220905205L](http://adsabs.harvard.edu/abs/2022arXiv220905205L))
+<span class="badge">0 citations</span>
+
+27. [EXOCLOCK PROJECT III: 450 NEW EXOPLANET EPHEMERIDES FROM GROUND AND SPACE OBSERVATIONS](http://adsabs.harvard.edu/abs/2022arXiv220909673K)  
+Kokori, A., Tsiaras, A., Edwards, B., et al.    
+2022, not refereed ([2022arXiv220909673K](http://adsabs.harvard.edu/abs/2022arXiv220909673K))
+<span class="badge">0 citations</span>
+
+28. [ACCESS: TENTATIVE DETECTION OF H$_2$O IN THE GROUND-BASED OPTICAL TRANSMISSION SPECTRUM OF THE LOW-DENSITY HOT SATURN HATS-5B](http://adsabs.harvard.edu/abs/2022arXiv220900637A)  
+Allen, Natalie H., Espinoza, Néstor, Jordán, Andrés, et al.    
+2022, not refereed ([2022arXiv220900637A](http://adsabs.harvard.edu/abs/2022arXiv220900637A))
+<span class="badge">0 citations</span>
+
+
 2020-07
 -------
 
