@@ -101,6 +101,71 @@ Rice, Malena, Wang, Songhu, Wang, Xian-Yu, et al.
 2022, refereed ([2022AJ....164..104R](http://adsabs.harvard.edu/abs/2022AJ....164..104R))
 <span class="badge">0 citations</span>
 
+18. [GJ 3090 B: ONE OF THE MOST FAVOURABLE MINI-NEPTUNE FOR ATMOSPHERIC CHARACTERISATION](http://adsabs.harvard.edu/abs/2022A&A...665A..91A)  
+Almenara, J. M., Bonfils, X., Otegi, J. F., et al.    
+2022, refereed ([2022A&A...665A..91A](http://adsabs.harvard.edu/abs/2022A&A...665A..91A))
+<span class="badge">0 citations</span>
+
+19. [GAIA-TESS SYNERGY: IMPROVING THE IDENTIFICATION OF TRANSIT CANDIDATES](http://adsabs.harvard.edu/abs/2022arXiv220905845P)  
+Panahi, Aviad, Mazeh, Tsevi, Zucker, Shay, et al.    
+2022, not refereed ([2022arXiv220905845P](http://adsabs.harvard.edu/abs/2022arXiv220905845P))
+<span class="badge">0 citations</span>
+
+20. [CHEOPS FINDS KELT-1B DARKER THAN EXPECTED IN VISIBLE LIGHT: DISCREPANCY BETWEEN THE CHEOPS AND TESS ECLIPSE DEPTHS](http://adsabs.harvard.edu/abs/2022arXiv220903890P)  
+Parviainen, H., Wilson, T. G., Lendl, M., et al.    
+2022, not refereed ([2022arXiv220903890P](http://adsabs.harvard.edu/abs/2022arXiv220903890P))
+<span class="badge">0 citations</span>
+
+21. [VALIDATION OF TESS EXOPLANET CANDIDATES ORBITING SOLAR ANALOGUES IN THE ALL-SKY PLATO INPUT CATALOGUE](http://adsabs.harvard.edu/abs/2022MNRAS.tmp.2311M)  
+Mantovan, Giacomo, Montalto, Marco, Piotto, Giampaolo, et al.    
+2022, refereed ([2022MNRAS.tmp.2311M](http://adsabs.harvard.edu/abs/2022MNRAS.tmp.2311M))
+<span class="badge">0 citations</span>
+
+22. [THE PHASE CURVE AND THE GEOMETRIC ALBEDO OF WASP-43B MEASURED WITH CHEOPS, TESS AND HST WFC3/UVIS](http://adsabs.harvard.edu/abs/2022arXiv220905303S)  
+Scandariato, G., Singh, V., Kitzmann, D., et al.    
+2022, not refereed ([2022arXiv220905303S](http://adsabs.harvard.edu/abs/2022arXiv220905303S))
+<span class="badge">0 citations</span>
+
+23. [REVISITING THE TRANSIT TIMING VARIATIONS IN THE TRES-3 AND QATAR-1 SYSTEMS WITH TESS DATA](http://adsabs.harvard.edu/abs/2022arXiv220904080M)  
+Mannaday, Vineet Kumar, Thakur, Parijat, Southworth, John, et al.    
+2022, not refereed ([2022arXiv220904080M](http://adsabs.harvard.edu/abs/2022arXiv220904080M))
+<span class="badge">0 citations</span>
+
+24. [TESS-KECK SURVEY XIV: 2 GIANT EXOPLANETS FROM THE DISTANT GIANTS SURVEY](http://adsabs.harvard.edu/abs/2022arXiv220906958V)  
+Van Zandt, Judah E., Petigura, Erik A., MacDougall, Mason, et al.    
+2022, not refereed ([2022arXiv220906958V](http://adsabs.harvard.edu/abs/2022arXiv220906958V))
+<span class="badge">0 citations</span>
+
+25. [TESS DISCOVERY OF A SUPER-EARTH AND TWO SUB-NEPTUNES ORBITING THE BRIGHT, NEARBY, SUN-LIKE STAR HD 22946](http://adsabs.harvard.edu/abs/2022arXiv220909597C)  
+Cacciapuoti, Luca, Inno, Laura, Covone, Giovanni, et al.    
+2022, not refereed ([2022arXiv220909597C](http://adsabs.harvard.edu/abs/2022arXiv220909597C))
+<span class="badge">0 citations</span>
+
+26. [MAXIMUM LIKELIHOOD SYSTEMATIC EFFECT MODELING AND MATCHED FILTERING TO DETECT TRANS-NEPTUNIAN OBJECTS WITH TESS](http://adsabs.harvard.edu/abs/2022arXiv220909848G)  
+Ganapathi, Varun    
+2022, not refereed ([2022arXiv220909848G](http://adsabs.harvard.edu/abs/2022arXiv220909848G))
+<span class="badge">0 citations</span>
+
+27. [NEOSSAT OBSERVATIONS OF THREE TRANSITING HOT JUPITERS](http://adsabs.harvard.edu/abs/2022MNRAS.tmp.2370F)  
+Fox, Chris, Wiegert, Paul    
+2022, refereed ([2022MNRAS.tmp.2370F](http://adsabs.harvard.edu/abs/2022MNRAS.tmp.2370F))
+<span class="badge">0 citations</span>
+
+28. [THE KOBE EXPERIMENT: K-DWARFS ORBITED BY HABITABLE EXOPLANETS. PROJECT GOALS, TARGET SELECTION AND STELLAR CHARACTERIZATION](http://adsabs.harvard.edu/abs/2022arXiv220905205L)  
+Lillo-Box, J., Santos, N. C., Santerne, A., et al.    
+2022, not refereed ([2022arXiv220905205L](http://adsabs.harvard.edu/abs/2022arXiv220905205L))
+<span class="badge">0 citations</span>
+
+29. [EXOCLOCK PROJECT III: 450 NEW EXOPLANET EPHEMERIDES FROM GROUND AND SPACE OBSERVATIONS](http://adsabs.harvard.edu/abs/2022arXiv220909673K)  
+Kokori, A., Tsiaras, A., Edwards, B., et al.    
+2022, not refereed ([2022arXiv220909673K](http://adsabs.harvard.edu/abs/2022arXiv220909673K))
+<span class="badge">0 citations</span>
+
+30. [COLOR DEPENDENCE OF THE TRANSIT DETECTABILITY FOR YOUNG ACTIVE M-DWARFS](http://adsabs.harvard.edu/abs/2022arXiv220905765M)  
+Miyakawa, Kohei, Hirano, Teruyuki, Sato, Bun'ei, et al.    
+2022, not refereed ([2022arXiv220905765M](http://adsabs.harvard.edu/abs/2022arXiv220905765M))
+<span class="badge">0 citations</span>
+
 
 2022-08
 -------
