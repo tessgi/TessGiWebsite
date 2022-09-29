@@ -211,6 +211,41 @@ Li, Kai, Gao, Xiang, Liu, Xin-Yi, et al.
 2022, not refereed ([2022arXiv220903653L](http://adsabs.harvard.edu/abs/2022arXiv220903653L))
 <span class="badge">0 citations</span>
 
+40. [ON THE CHARACTERIZATION OF GJ 504: A MAGNETICALLY ACTIVE PLANET-HOST STAR OBSERVED BY THE TRANSITING EXOPLANET SURVEY SATELLITE (TESS)](http://adsabs.harvard.edu/abs/2022arXiv220912752D)  
+Di Mauro, Maria Pia, Reda, Raffaele, Mathur, Savita, et al.    
+2022, not refereed ([2022arXiv220912752D](http://adsabs.harvard.edu/abs/2022arXiv220912752D))
+<span class="badge">0 citations</span>
+
+41. [FUNDAMENTAL PARAMETERS FOR DEB SB2 BINARY SYSTEM J064726.39+223431.6. A NEW CHALLENGE FOR STELLAR EVOLUTION MODELS](http://adsabs.harvard.edu/abs/2022arXiv220912548K)  
+Kovalev, Mikhail, Wang, Song, Chen, Xuefei, et al.    
+2022, not refereed ([2022arXiv220912548K](http://adsabs.harvard.edu/abs/2022arXiv220912548K))
+<span class="badge">0 citations</span>
+
+42. [A DYNAMICALLY DISCOVERED AND CHARACTERIZED NON-ACCRETING NEUTRON STAR -- M DWARF BINARY CANDIDATE](http://adsabs.harvard.edu/abs/2022arXiv220912141Y)  
+Yi, Tuan, Gu, Wei-Min, Zhang, Zhi-Xiang, et al.    
+2022, not refereed ([2022arXiv220912141Y](http://adsabs.harvard.edu/abs/2022arXiv220912141Y))
+<span class="badge">0 citations</span>
+
+43. [SWIFT J0503.7-2819: A NEARLY SYNCHRONOUS INTERMEDIATE POLAR BELOW THE PERIOD GAP?](http://adsabs.harvard.edu/abs/2022arXiv220911141R)  
+Rawat, Nikita, Pandey, J. C., Joshi, Arti, et al.    
+2022, not refereed ([2022arXiv220911141R](http://adsabs.harvard.edu/abs/2022arXiv220911141R))
+<span class="badge">0 citations</span>
+
+44. [MASS-ACCRETING PULSATING COMPONENTS OF ALGOLS](http://adsabs.harvard.edu/abs/2022Galax..10...97M)  
+Mkrtichian, David, Gunsriviwat, Khemsinan, Lehmann, Holger, et al.    
+2022, refereed ([2022Galax..10...97M](http://adsabs.harvard.edu/abs/2022Galax..10...97M))
+<span class="badge">0 citations</span>
+
+45. [LOCATING THE FLICKERING SOURCE IN POLARS](http://adsabs.harvard.edu/abs/2022MNRAS.tmp.2421I)  
+Iłkiewicz, Krystian, Scaringi, Simone, Littlefield, Colin, et al.    
+2022, refereed ([2022MNRAS.tmp.2421I](http://adsabs.harvard.edu/abs/2022MNRAS.tmp.2421I))
+<span class="badge">0 citations</span>
+
+46. [SPYGLASS-II: THE MULTI-GENERATIONAL AND MULTI-ORIGIN STAR FORMATION HISTORY OF CEPHEUS FAR NORTH](http://adsabs.harvard.edu/abs/2022arXiv220912959K)  
+Kerr, Ronan, Kraus, Adam L., Murphy, Simon J., et al.    
+2022, not refereed ([2022arXiv220912959K](http://adsabs.harvard.edu/abs/2022arXiv220912959K))
+<span class="badge">0 citations</span>
+
 
 2022-08
 -------

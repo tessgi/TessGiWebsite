@@ -166,6 +166,51 @@ Miyakawa, Kohei, Hirano, Teruyuki, Sato, Bun'ei, et al.
 2022, not refereed ([2022arXiv220905765M](http://adsabs.harvard.edu/abs/2022arXiv220905765M))
 <span class="badge">0 citations</span>
 
+31. [TIDALLY-INDUCED MIGRATION OF TESS GAS GIANTS ORBITING M DWARFS](http://adsabs.harvard.edu/abs/2022arXiv220911375A)  
+Alvarado-Montes, Jaime A.    
+2022, not refereed ([2022arXiv220911375A](http://adsabs.harvard.edu/abs/2022arXiv220911375A))
+<span class="badge">0 citations</span>
+
+32. [TOI-5205B: A JUPITER TRANSITING AN M DWARF NEAR THE CONVECTIVE BOUNDARY](http://adsabs.harvard.edu/abs/2022arXiv220911160K)  
+Kanodia, Shubham, Mahadevan, Suvrath, Libby-Roberts, Jessica, et al.    
+2022, not refereed ([2022arXiv220911160K](http://adsabs.harvard.edu/abs/2022arXiv220911160K))
+<span class="badge">0 citations</span>
+
+33. [PHOTOMETRY AND TRANSIT MODELLING OF EXOPLANET WASP-140B](http://adsabs.harvard.edu/abs/2022arXiv220910582N)  
+North, Allen, Banks, Timothy    
+2022, not refereed ([2022arXiv220910582N](http://adsabs.harvard.edu/abs/2022arXiv220910582N))
+<span class="badge">0 citations</span>
+
+34. [A DETAILED ANALYSIS OF THE GL 486 PLANETARY SYSTEM](http://adsabs.harvard.edu/abs/2022A&A...665A.120C)  
+Caballero, J. A., González-Álvarez, E., Brady, M., et al.    
+2022, refereed ([2022A&A...665A.120C](http://adsabs.harvard.edu/abs/2022A&A...665A.120C))
+<span class="badge">3 citations</span>
+
+35. [VALIDATION OF TOI-1221 B, A WARM SUB-NEPTUNE EXHIBITING TTVS AROUND A SUN-LIKE STAR](http://adsabs.harvard.edu/abs/2022arXiv220913651M)  
+Mann, Christopher R., Lafrenière, David, Dragomir, Diana, et al.    
+2022, not refereed ([2022arXiv220913651M](http://adsabs.harvard.edu/abs/2022arXiv220913651M))
+<span class="badge">0 citations</span>
+
+36. [THE GAPS PROGRAMME AT TNG. XLI. THE CLIMATE OF KELT-9B REVEALED WITH A NEW APPROACH TO HIGH SPECTRAL RESOLUTION PHASE CURVES](http://adsabs.harvard.edu/abs/2022arXiv220911735P)  
+Pino, L., Brogi, M., Désert, J. M., et al.    
+2022, not refereed ([2022arXiv220911735P](http://adsabs.harvard.edu/abs/2022arXiv220911735P))
+<span class="badge">0 citations</span>
+
+37. [PLANET-STAR INTERACTIONS WITH PRECISE TRANSIT TIMING. III. ENTERING THE REGIME OF DYNAMICAL TIDES](http://adsabs.harvard.edu/abs/2022arXiv220910597M)  
+Maciejewski, G., Fernandez, M., Sota, A., et al.    
+2022, not refereed ([2022arXiv220910597M](http://adsabs.harvard.edu/abs/2022arXiv220910597M))
+<span class="badge">0 citations</span>
+
+38. [HD 23472: A MULTI-PLANETARY SYSTEM WITH THREE SUPER-EARTHS AND TWO POTENTIAL SUPER-MERCURIES](http://adsabs.harvard.edu/abs/2022arXiv220913345B)  
+Barros, S. C. C., Demangeon, O. D. S., Alibert, Y., et al.    
+2022, not refereed ([2022arXiv220913345B](http://adsabs.harvard.edu/abs/2022arXiv220913345B))
+<span class="badge">0 citations</span>
+
+39. [ARE AM STARS AND HOT-JUPITER PLANETS RELATED?](http://adsabs.harvard.edu/abs/2022arXiv220914257S)  
+Saffe, C., Alacoria, J., Miquelarena, P., et al.    
+2022, not refereed ([2022arXiv220914257S](http://adsabs.harvard.edu/abs/2022arXiv220914257S))
+<span class="badge">0 citations</span>
+
 
 2022-08
 -------
