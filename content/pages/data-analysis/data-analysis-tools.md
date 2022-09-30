@@ -25,6 +25,15 @@ Below we list tutorials that will help first time users get to grips with using 
 
 <tr>
     <td style="width: 15em;">
+    <a href='step0-install-lightkurve.html
+'>Step 0: How to get lightkurve running on your machine</a></td>
+    <td></td>
+    <td>In this tutorial, we show how to get the lightkurve Python package set up on your machine for you to start working with TESS.</td>
+  </tr>
+
+
+<tr>
+    <td style="width: 15em;">
     <a href='TESS-Intro.html'>An introduction to TESS data</a></td>
     <td><a href="docs/tutorials/TESS-Intro.ipynb" download>Download</a></td>
     <td>In this tutorial, we teach the user how to search for, download, and create TESS light curves.</td>
