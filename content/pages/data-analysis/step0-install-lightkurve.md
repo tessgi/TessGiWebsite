@@ -144,7 +144,7 @@ This should cause your terminal window to start printing debug information, and 
 
 **If this worked, and you navigated to an empty folder called "TESS", you should see something like this:**
 
-![newly opened notebook server](images/step0/jupyter-blank.png)
+![newly opened notebook server](images/step0/jupyter-blank.jpg)
 
 This is empty, because the folder is empty!  To create a new notebook from which to work on TESS data and follow along with the tutorials/quickstart, click on "New" on the top right side of the page and select "Python 3" under the notebook heading
 
@@ -176,7 +176,7 @@ To do this, enter the following command in the text box:
 
 This command can be executed using the Run button (or shift+return/enter).  If this is successful, a number of lines of debug should pop up in a cell below this and end in the line (you may have to scroll through the cell) "Successfully installed ..." followed by a list of packages installed, e.g.:
 
-![install Lightkurve](images/step0/jupyter-instlk.png)
+![install Lightkurve](images/step0/jupyter-instlk.jpg)
 
 ### Fin
 
@@ -195,7 +195,7 @@ This command can be executed using the Run button (or shift+return/enter).  If t
 
 - If you're having trouble installing Anaconda, see [their help page](https://docs.anaconda.com/anaconda/install/)  
 
-- if you are having trouble opening a Jupyter notebook via the terminal, you can try the [Anaconda Navigator](https://docs.anaconda.com/anaconda/navigator) application that has a graphical user interface and comes installed with anaconda. ![loading-ag-599](images/step0/AnacondaNavigator.png)
+- if you are having trouble opening a Jupyter notebook via the terminal, you can try the [Anaconda Navigator](https://docs.anaconda.com/anaconda/navigator) application that has a graphical user interface and comes installed with anaconda. ![loading-ag-599](images/step0/AnacondaNavigator.jpg)
   
   - You can Add Channels (#1; like Conda-Forge in <u>Stretch Goal #1</u>) using the channels button. 
   
