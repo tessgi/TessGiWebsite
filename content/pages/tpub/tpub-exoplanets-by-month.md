@@ -12,6 +12,46 @@ Panwar, Vatsal, Désert, Jean-Michel, Todorov, Kamen O., et al.
 2022, refereed ([2022MNRAS.515.5018P](http://adsabs.harvard.edu/abs/2022MNRAS.515.5018P))
 <span class="badge">0 citations</span>
 
+2. [CONSTRAINING THE PLANET OCCURRENCE RATE AROUND HALO STARS OF POTENTIALLY EXTRAGALACTIC ORIGIN](http://adsabs.harvard.edu/abs/2022AJ....164..119Y)  
+Yoshida, Stephanie, Grunblatt, Samuel, Price-Whelan, Adrian M.    
+2022, refereed ([2022AJ....164..119Y](http://adsabs.harvard.edu/abs/2022AJ....164..119Y))
+<span class="badge">0 citations</span>
+
+3. [REVISITING THE SECONDARY ECLIPSES OF KELT-1B USING TESS OBSERVATIONS](http://adsabs.harvard.edu/abs/2022NewA...9601837E)  
+Eftekhar, Mohammad, Abedini, Yousefali    
+2022, refereed ([2022NewA...9601837E](http://adsabs.harvard.edu/abs/2022NewA...9601837E))
+<span class="badge">1 citations</span>
+
+4. [EXPLORING THE DEPENDENCE OF HOT JUPITER OCCURRENCE RATES ON STELLAR MASS WITH TESS](http://adsabs.harvard.edu/abs/2022MNRAS.516...75B)  
+Beleznay, Maya, Kunimoto, M.    
+2022, refereed ([2022MNRAS.516...75B](http://adsabs.harvard.edu/abs/2022MNRAS.516...75B))
+<span class="badge">1 citations</span>
+
+5. [THE HOT NEPTUNE WASP-166 B WITH ESPRESSO - I. REFINING THE PLANETARY ARCHITECTURE AND STELLAR VARIABILITY](http://adsabs.harvard.edu/abs/2022MNRAS.516..298D)  
+Doyle, L., Cegla, H. M., Bryant, E., et al.    
+2022, refereed ([2022MNRAS.516..298D](http://adsabs.harvard.edu/abs/2022MNRAS.516..298D))
+<span class="badge">0 citations</span>
+
+6. [VALIDATION AND ATMOSPHERIC EXPLORATION OF THE SUB-NEPTUNE TOI-2136B AROUND A NEARBY M3 DWARF](http://adsabs.harvard.edu/abs/2022A&A...666A...4K)  
+Kawauchi, K., Murgas, F., Palle, E., et al.    
+2022, refereed ([2022A&A...666A...4K](http://adsabs.harvard.edu/abs/2022A&A...666A...4K))
+<span class="badge">1 citations</span>
+
+7. [A HOT SUB-NEPTUNE IN THE DESERT AND A TEMPERATE SUPER-EARTH AROUND FAINT M DWARFS. COLOR VALIDATION OF TOI-4479B AND TOI-2081B](http://adsabs.harvard.edu/abs/2022A&A...666A..10E)  
+Esparza-Borges, E., Parviainen, H., Murgas, F., et al.    
+2022, refereed ([2022A&A...666A..10E](http://adsabs.harvard.edu/abs/2022A&A...666A..10E))
+<span class="badge">0 citations</span>
+
+8. [NGTS-21B: AN INFLATED SUPER-JUPITER ORBITING A METAL-POOR K DWARF](http://adsabs.harvard.edu/abs/2022arXiv221001027A)  
+Alves, Douglas R., Jenkins, James S., Vines, Jose I., et al.    
+2022, not refereed ([2022arXiv221001027A](http://adsabs.harvard.edu/abs/2022arXiv221001027A))
+<span class="badge">0 citations</span>
+
+9. [A LARGE RANGE OF HAZINESS CONDITIONS IN HOT-JUPITER ATMOSPHERES](http://adsabs.harvard.edu/abs/2022MNRAS.515.4753A)  
+Arfaux, Anthony, Lavvas, Panayotis    
+2022, refereed ([2022MNRAS.515.4753A](http://adsabs.harvard.edu/abs/2022MNRAS.515.4753A))
+<span class="badge">1 citations</span>
+
 
 2022-09
 -------
