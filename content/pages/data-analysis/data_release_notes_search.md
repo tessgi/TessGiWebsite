@@ -63,6 +63,8 @@ Save_as: data_release_notes.html
         <option value="sector-51">51</option>
         <option value="sector-52">52</option>
         <option value="sector-53">53</option>
+	<option value="sector-54">54</option>
+	<option value="sector-55">55</option>
 
       </select>
     </form>
