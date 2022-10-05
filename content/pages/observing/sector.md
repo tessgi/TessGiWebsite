@@ -150,7 +150,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>North</td>
     <td>2022&nbsp;Oct&nbsp;29</td>
     <td>2022&nbsp;Nov&nbsp;26</td>
-    <td>href='data/target_lists/sector058_targets_lists/GI_S058.csv'>Download</td>
+    <td><a href='data/target_lists/sector058_targets_lists/GI_S058.csv'>Download</a></td>
     <td style="min-width: 12em;">
     </td>
   </tr>
@@ -160,7 +160,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>North</td>
     <td>2022&nbsp;Sep&nbsp;30</td>
     <td>2022&nbsp;Oct&nbsp;29</td>
-    <td>href='data/target_lists/sector057_targets_lists/GI_S057.csv'>Download</td>
+    <td><a href='data/target_lists/sector057_targets_lists/GI_S057.csv'>Download</a></td>
     <td style="min-width: 12em;">
     </td>
   </tr>
@@ -170,7 +170,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>North</td>
     <td>2022&nbsp;Sep&nbsp;01</td>
     <td>2022&nbsp;Sep&nbsp;30</td>
-    <td><a href='data/target_lists/sector056_targets_lists/GI_S056.csv'>Download</td>
+    <td><a href='data/target_lists/sector056_targets_lists/GI_S056.csv'>Download</a></td>
     <td style="min-width: 12em;">Second TESS extended mission field, Cycle 5 begins
     </td>
   </tr>
@@ -184,7 +184,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>North</td>
     <td>2022&nbsp;Aug&nbsp;05</td>
     <td>2022&nbsp;Sep&nbsp;01</td>
-    <td><a href='data/target_lists/sector055_targets_lists/GI_S055.csv'>Download</td>
+    <td><a href='data/target_lists/sector055_targets_lists/GI_S055.csv'>Download</a></td>
     <td style="min-width: 12em;">
     </td>
   </tr>
@@ -194,7 +194,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>North</td>
     <td>2022&nbsp;Jul&nbsp;09</td>
     <td>2022&nbsp;Aug&nbsp;05</td>
-    <td><a href='data/target_lists/sector054_targets_lists/GI_S054.csv'>Download</td>
+    <td><a href='data/target_lists/sector054_targets_lists/GI_S054.csv'>Download</a></td>
     <td style="min-width: 12em;">
     </td>
   </tr>
@@ -204,7 +204,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>North</td>
     <td>2022&nbsp;Jun&nbsp;13</td>
     <td>2022&nbsp;Jul&nbsp;09</td>
-    <td><a href='data/target_lists/sector053_targets_lists/GI_S053.csv'>Download</td>
+    <td><a href='data/target_lists/sector053_targets_lists/GI_S053.csv'>Download</a></td>
     <td style="min-width: 12em;">
     </td>
   </tr>
@@ -214,7 +214,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>North</td>
     <td>2022&nbsp;May&nbsp;18</td>
     <td>2022&nbsp;Jun&nbsp;13</td>
-    <td><a href='data/target_lists/sector052_targets_lists/GI_S052.csv'>Download</td>
+    <td><a href='data/target_lists/sector052_targets_lists/GI_S052.csv'>Download</a></td>
     <td style="min-width: 12em;">
     </td>
   </tr>
@@ -224,7 +224,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>North</td>
     <td>2022&nbsp;Apr&nbsp;22</td>
     <td>2022&nbsp;May&nbsp;18</td>
-    <td><a href='data/target_lists/sector051_targets_lists/GI_S051.csv'>Download</td>
+    <td><a href='data/target_lists/sector051_targets_lists/GI_S051.csv'>Download</a></td>
     <td style="min-width: 12em;">
     </td>
   </tr>
@@ -235,7 +235,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>North</td>
     <td>2022&nbsp;Mar&nbsp;26</td>
     <td>2022&nbsp;Apr&nbsp;22</td>
-    <td><a href='data/target_lists/sector050_targets_lists/GI_S050.csv'>Download</td>
+    <td><a href='data/target_lists/sector050_targets_lists/GI_S050.csv'>Download</a></td>
     <td style="min-width: 12em;">
     </td>
   </tr>
@@ -245,7 +245,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>North</td>
     <td>2022&nbsp;Feb&nbsp;26</td>
     <td>2022&nbsp;Mar&nbsp;26</td>
-    <td><a href='data/target_lists/sector049_targets_lists/GI_S049.csv'>Download</td>
+    <td><a href='data/target_lists/sector049_targets_lists/GI_S049.csv'>Download</a></td>
     <td style="min-width: 12em;">
     </td>
   </tr>
@@ -255,7 +255,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>North</td>
     <td>2022&nbsp;Jan&nbsp;28</td>
     <td>2022&nbsp;Feb&nbsp;26</td>
-    <td><a href='data/target_lists/sector048_targets_lists/GI_S048.csv'>Download</td>
+    <td><a href='data/target_lists/sector048_targets_lists/GI_S048.csv'>Download</a></td>
     <td style="min-width: 12em;">
     </td>
   </tr>
@@ -265,7 +265,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>North</td>
     <td>2021&nbsp;Dec&nbsp;30</td>
     <td>2022&nbsp;Jan&nbsp;28</td>
-    <td><a href='data/target_lists/sector047_targets_lists/GI_S047.csv'>Download</td>
+    <td><a href='data/target_lists/sector047_targets_lists/GI_S047.csv'>Download</a></td>
     <td style="min-width: 12em;">
     </td>
   </tr>
@@ -275,7 +275,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>North</td>
     <td>2021&nbsp;Dec&nbsp;02</td>
     <td>2022&nbsp;Dec&nbsp;30</td>
-    <td><a href='data/target_lists/sector046_targets_lists/GI_S046.csv'>Download</td>
+    <td><a href='data/target_lists/sector046_targets_lists/GI_S046.csv'>Download</a></td>
     <td style="min-width: 12em;">
     </td>
   </tr>
@@ -285,7 +285,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>North</td>
     <td>2021&nbsp;Nov&nbsp;06</td>
     <td>2021&nbsp;Dec&nbsp;02</td>
-    <td><a href='data/target_lists/sector045_targets_lists/GI_S045.csv'>Download</td>
+    <td><a href='data/target_lists/sector045_targets_lists/GI_S045.csv'>Download</a></td>
     <td style="min-width: 12em;">
     </td>
   </tr>
@@ -295,7 +295,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>North</td>
     <td>2021&nbsp;Oct&nbsp;12</td>
     <td>2021&nbsp;Nov&nbsp;06</td>
-    <td><a href='data/target_lists/sector044_targets_lists/GI_S044.csv'>Download</td>
+    <td><a href='data/target_lists/sector044_targets_lists/GI_S044.csv'>Download</a></td>
     <td style="min-width: 12em;">
     </td>
   </tr>
@@ -305,7 +305,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>North</td>
     <td>2021&nbsp;Sep&nbsp;16</td>
     <td>2021&nbsp;Oct&nbsp;12</td>
-    <td><a href='data/target_lists/sector043_targets_lists/GI_S043.csv'>Download</td>
+    <td><a href='data/target_lists/sector043_targets_lists/GI_S043.csv'>Download</a></td>
     <td style="min-width: 12em;">
     </td>
   </tr>
