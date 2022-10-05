@@ -29,6 +29,42 @@ Cycle 5
 
 
 .. include:: approved-programs/cycle5.html
+
+Sector 58
+=========
+.. raw:: html
+
+    <ul class="list-group">
+        <li class="list-group-item">
+          <i class="fa fa-calendar fa-margin"></i>
+          October 29, 2022 - November 26, 2022
+        </li>
+        <li class="list-group-item">
+            <i class="fa fa-download fa-margin"></i>
+            <a href="data/target_lists/sector058_targets_lists/GI_S058.csv">2 min target list (csv)</a>, 
+            <a href="data/target_lists/sector058_targets_lists/GI_20s_S058.csv">20 s target list (csv)</a>
+        </li>
+    </ul>
+
+.. include:: approved-programs/sector058.html
+	     
+Sector 57
+=========
+.. raw:: html
+
+    <ul class="list-group">
+        <li class="list-group-item">
+          <i class="fa fa-calendar fa-margin"></i>
+          September 30, 2022 - October 29, 2022
+        </li>
+        <li class="list-group-item">
+            <i class="fa fa-download fa-margin"></i>
+            <a href="data/target_lists/sector057_targets_lists/GI_S057.csv">2 min target list (csv)</a>, 
+            <a href="data/target_lists/sector057_targets_lists/GI_20s_S057.csv">20 s target list (csv)</a>
+        </li>
+    </ul>
+
+.. include:: approved-programs/sector057.html
 	     
 Sector 56
 =========
