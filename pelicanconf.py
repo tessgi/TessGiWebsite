@@ -156,7 +156,7 @@ IMPORTANT_DATES = (
 
 # Defines the "meetings" box on the front page
 MEETINGS = (
-    ('<b>8th - 12th January 2023</b>',
+    ('<b>7th - 12th January 2023</b>',
      'AAS #241',
             'https://aas.org/meetings/aas241',),
     ('<b>12th - 16th December 2022</b>',
