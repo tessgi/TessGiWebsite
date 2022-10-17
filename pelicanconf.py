@@ -149,7 +149,7 @@ KEY_INFORMATION = (
 
 # Defines the "important dates" box on the front page
 IMPORTANT_DATES = (
-    ('<b>8th January 2023</b>',
+    ('<b>7th January 2023</b>',
              'AAS #241 Workshop: NASAs TESS Mission Interactive Data Workshop',
              '',),
      )
