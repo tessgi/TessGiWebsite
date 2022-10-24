@@ -22,7 +22,7 @@ HD 35833 is a bright (T = 6.2 mag) G0 subgiant star observed by TESS in Sectors 
 ![Ganapathi2022](images/Ganapathi_2022_Fig4.png)
 **Fig. 1:** *Taken from Ganapathi et al. (2022). Recovery rate as a function of magnitude and pixel displacement (``vel'') for 5-sigma detections.*
 
-![Hatt2022](images/Hatt_2022_Fig3)
+![Hatt2022](images/Hatt_2022_Fig3.png)
 **Fig. 2:** *Taken from Hatt al. (2022). Asteroseismic HR diagram and nu-T<sub>eff</sub> distribution for their sample of 4177 stars (orange symbols). The contour lines represent previous measurements from Kepler data, and the horizontal dashed line represents the corresponding long-cadence Nyquist frequency. The grey lines represents MIST isochrones for 1, 1.5 and 2 M<sub>Sun</sub>.*
 
 ![Gupta 2022](images/Gupta_Fig5.png)
