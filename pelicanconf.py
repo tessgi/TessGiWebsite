@@ -152,6 +152,9 @@ IMPORTANT_DATES = (
     ('<b>7th January 2023</b>',
              'AAS #241 Workshop: NASAs TESS Mission Interactive Data Workshop',
              '',),
+    ('<b>10th January 2023</b>',
+             'AAS #241 Splinter Session: Science from the TESS Extended Mission',
+             '',),
      )
 
 # Defines the "meetings" box on the front page
