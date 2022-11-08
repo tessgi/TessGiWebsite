@@ -19,10 +19,13 @@ The vast majority of the stars in the Galaxy will evolve into white dwarfs, abou
  
  
 ![Grunblatt2022](images/Grunblatt_2022_Fig1.png)
+
 **Fig. 1:** *Taken from Grunblatt et al. (2022). Phase-folded TESS photometry of TOI-4582 from QLP (upper panel), SPOC (middle panel), and the authors' "giants" pipeline (lower panel).*
  
-![Jackman2022](images/Jackman_2022_Fig3)
+![Jackman2022](images/Jackman_2022_Fig3.png)
+
 **Fig. 2:** *Taken from Jackman (2022). Simultaneous flare observations with TESS (lower panel) and Swift (upper panel). The author calculates an average pseudo-continuum flare temperature of 7340 K during the decay phase.*
  
-![Romero2022](images/Romero_Fig1and5.Romero_Fig2and5.png)
+![Romero2022](images/Romero_2022_Fig1and5.png)
+
 **Fig. 3:** *Taken from Romero et. al. (2022). Fourier transforms of all 120-sec cadence TESS data for PG 1541+651 (upper panel) and BPM 31594 (lower panel). *
