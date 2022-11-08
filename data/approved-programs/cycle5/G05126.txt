@@ -25,3 +25,7 @@ Summary: Coordinated multi-wavelength photometry and spectroscopy is essential f
 # Sector 058 targets observed (2 min: 2, 20 s: 1)
 435160829,346.5227,63.9258,9.06,G05121;G05123;G05126;20SECONDTARGET
 219790151,264.665,61.2381,8.9,G05126;G05131
+
+# Sector 059 targets observed (2 min: 2, 20 s: 0)
+96681015,73.9041,30.2985,9.7,G05126
+219790151,264.665,61.2381,8.9,G05126;G05131
