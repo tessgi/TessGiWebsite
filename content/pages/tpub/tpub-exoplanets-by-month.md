@@ -36,6 +36,86 @@ Lee, Elspeth K. H., Prinoth, Bibiana, Kitzmann, Daniel, et al.
 2022, refereed ([2022MNRAS.517..240L](http://adsabs.harvard.edu/abs/2022MNRAS.517..240L))
 <span class="badge">0 citations</span>
 
+5. [DETECTION OF NA AND K IN THE ATMOSPHERE OF THE HOT JUPITER HAT-P-1B WITH P200/DBSP](http://adsabs.harvard.edu/abs/2022AJ....164..173C)  
+Chen, Guo, Wang, Hongchi, van Boekel, Roy, et al.    
+2022, refereed ([2022AJ....164..173C](http://adsabs.harvard.edu/abs/2022AJ....164..173C))
+<span class="badge">0 citations</span>
+
+6. [KEPLER AND THE BEHEMOTH: THREE MINI-NEPTUNES IN A 40 MILLION YEAR OLD ASSOCIATION](http://adsabs.harvard.edu/abs/2022AJ....164..215B)  
+Bouma, L. G., Kerr, R., Curtis, J. L., et al.    
+2022, refereed ([2022AJ....164..215B](http://adsabs.harvard.edu/abs/2022AJ....164..215B))
+<span class="badge">5 citations</span>
+
+7. [HUBBLE WFC3 SPECTROSCOPY OF THE ROCKY PLANET L 98-59 B: NO EVIDENCE FOR A CLOUD-FREE PRIMORDIAL ATMOSPHERE](http://adsabs.harvard.edu/abs/2022AJ....164..203Z)  
+Zhou, Li, Ma, Bo, Wang, Yonghao, et al.    
+2022, refereed ([2022AJ....164..203Z](http://adsabs.harvard.edu/abs/2022AJ....164..203Z))
+<span class="badge">1 citations</span>
+
+8. [A MIRAGE OR AN OASIS? WATER VAPOR IN THE ATMOSPHERE OF THE WARM NEPTUNE TOI-674 B](http://adsabs.harvard.edu/abs/2022AJ....164..197B)  
+Brande, Jonathan, Crossfield, Ian J. M., Kreidberg, Laura, et al.    
+2022, refereed ([2022AJ....164..197B](http://adsabs.harvard.edu/abs/2022AJ....164..197B))
+<span class="badge">6 citations</span>
+
+9. [GAIA-TESS SYNERGY: IMPROVING THE IDENTIFICATION OF TRANSIT CANDIDATES](http://adsabs.harvard.edu/abs/2022A&A...667A..14P)  
+Panahi, Aviad, Mazeh, Tsevi, Zucker, Shay, et al.    
+2022, refereed ([2022A&A...667A..14P](http://adsabs.harvard.edu/abs/2022A&A...667A..14P))
+<span class="badge">0 citations</span>
+
+10. [THE HD 93963 A TRANSITING SYSTEM: A 1.04 D SUPER-EARTH AND A 3.65 D SUB-NEPTUNE DISCOVERED BY TESS AND CHEOPS](http://adsabs.harvard.edu/abs/2022A&A...667A...1S)  
+Serrano, L. M., Gandolfi, D., Hoyer, S., et al.    
+2022, refereed ([2022A&A...667A...1S](http://adsabs.harvard.edu/abs/2022A&A...667A...1S))
+<span class="badge">0 citations</span>
+
+11. [CONFIRMATION AND CHARACTERISATION OF THREE GIANT PLANETS DETECTED BY TESS FROM THE FIES/NOT AND TULL/MCDONALD SPECTROGRAPHS](http://adsabs.harvard.edu/abs/2022A&A...667A..22K)  
+Knudstrup, Emil, Serrano, Luisa M., Gandolfi, Davide, et al.    
+2022, refereed ([2022A&A...667A..22K](http://adsabs.harvard.edu/abs/2022A&A...667A..22K))
+<span class="badge">3 citations</span>
+
+12. [HD 20329B: AN ULTRA-SHORT-PERIOD PLANET AROUND A SOLAR-TYPE STAR FOUND BY TESS](http://adsabs.harvard.edu/abs/2022arXiv221102547M)  
+Murgas, F., Nowak, G., Masseron, T., et al.    
+2022, not refereed ([2022arXiv221102547M](http://adsabs.harvard.edu/abs/2022arXiv221102547M))
+<span class="badge">0 citations</span>
+
+13. [THE GAPS PROGRAMME AT TNG. XL. A PUFFY AND WARM NEPTUNE-SIZED PLANET AND AN OUTER NEPTUNE-MASS CANDIDATE ORBITING THE SOLAR-TYPE STAR TOI-1422](http://adsabs.harvard.edu/abs/2022A&A...667A...8N)  
+Naponiello, L., Mancini, L., Damasso, M., et al.    
+2022, refereed ([2022A&A...667A...8N](http://adsabs.harvard.edu/abs/2022A&A...667A...8N))
+<span class="badge">0 citations</span>
+
+14. [UTILIZING A GLOBAL NETWORK OF TELESCOPES TO UPDATE THE EPHEMERIS FOR THE HIGHLY ECCENTRIC PLANET HD 80606 B AND TO ENSURE THE EFFICIENT SCHEDULING OF JWST](http://adsabs.harvard.edu/abs/2022AJ....164..178P)  
+Pearson, Kyle A., Beichman, Charles, Fulton, B. J., et al.    
+2022, refereed ([2022AJ....164..178P](http://adsabs.harvard.edu/abs/2022AJ....164..178P))
+<span class="badge">1 citations</span>
+
+15. [HD 191939 REVISITED: NEW AND REFINED PLANET MASS DETERMINATIONS, AND A NEW PLANET IN THE HABITABLE ZONE](http://adsabs.harvard.edu/abs/2022arXiv221100667O)  
+Orell-Miquel, J., Nowak, G., Murgas, F., et al.    
+2022, not refereed ([2022arXiv221100667O](http://adsabs.harvard.edu/abs/2022arXiv221100667O))
+<span class="badge">0 citations</span>
+
+16. [PLANET(ESIMAL)S AROUND STARS WITH TESS (PAST) III: A SEARCH FOR TRIPLET HE I IN THE ATMOSPHERES OF TWO 200 MYR-OLD PLANETS](http://adsabs.harvard.edu/abs/2022arXiv221102887G)  
+Gaidos, Eric, Hirano, Teruyuki, Lee, Rena A., et al.    
+2022, not refereed ([2022arXiv221102887G](http://adsabs.harvard.edu/abs/2022arXiv221102887G))
+<span class="badge">0 citations</span>
+
+17. [A TRANSMISSION SPECTRUM OF THE SUB-EARTH PLANET L98-59 B IN 1.1-1.7 ΜM](http://adsabs.harvard.edu/abs/2022AJ....164..225D)  
+Damiano, Mario, Hu, Renyu, Barclay, Thomas, et al.    
+2022, refereed ([2022AJ....164..225D](http://adsabs.harvard.edu/abs/2022AJ....164..225D))
+<span class="badge">1 citations</span>
+
+18. [COLOR DEPENDENCE OF THE TRANSIT DETECTABILITY OF YOUNG ACTIVE M DWARFS](http://adsabs.harvard.edu/abs/2022AJ....164..209M)  
+Miyakawa, Kohei, Hirano, Teruyuki, Sato, Bun'ei, et al.    
+2022, refereed ([2022AJ....164..209M](http://adsabs.harvard.edu/abs/2022AJ....164..209M))
+<span class="badge">0 citations</span>
+
+19. [THE DISCOVERY OF THREE HOT JUPITERS, NGTS-23B, 24B AND 25B, AND UPDATED PARAMETERS FOR HATS-54B FROM THE NEXT GENERATION TRANSIT SURVEY](http://adsabs.harvard.edu/abs/2022arXiv221101044J)  
+Jackson, David G., Watson, Christopher A., de Mooij, Ernst J. W., et al.    
+2022, not refereed ([2022arXiv221101044J](http://adsabs.harvard.edu/abs/2022arXiv221101044J))
+<span class="badge">0 citations</span>
+
+20. [SPECTROSCOPIC TIME-SERIES PERFORMANCE OF JWST/NIRSPEC FROM COMMISSIONING OBSERVATIONS](http://adsabs.harvard.edu/abs/2022arXiv221101459E)  
+Espinoza, Néstor, Úbeda, Leonardo, Birkmann, Stephan M., et al.    
+2022, not refereed ([2022arXiv221101459E](http://adsabs.harvard.edu/abs/2022arXiv221101459E))
+<span class="badge">0 citations</span>
+
 
 2022-10
 -------
