@@ -65,6 +65,7 @@ Save_as: data_release_notes.html
         <option value="sector-53">53</option>
 	<option value="sector-54">54</option>
 	<option value="sector-55">55</option>
+	<option value="sector-55">56</option>
 
       </select>
     </form>
@@ -292,6 +293,12 @@ Save_as: data_release_notes.html
     <div id="sector-55" class="drn">
       {! content/docs/data-release-notes/sector_55.html !}
     </div>
+
+    <div id="sector-56" class="drn">
+      {! content/docs/data-release-notes/sector_56.html !}
+    </div>
+
+    
 
 
   </div>
