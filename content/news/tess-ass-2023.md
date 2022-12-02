@@ -1,8 +1,8 @@
 Title: TESS Splinter Session at AAS 241
-Date: 2022-11-28 10:00
+Date: 2022-12-02 10:00
 Author: Rebekah Hounsell
 
-The TESS team is hosting a TESS Splinter Session at AAS 241 on Tuesday, January 10th, 2023 from 6pm-8:30pm PST at the Seattle Conference Center, Room 4c-3.
+The TESS team is hosting a TESS Splinter Session at AAS 241 on Tuesday, January 10th, 2023 from 6:30pm-9:00pm PST at the Seattle Conference Center, Room 4c-3.
  
 NASA's Transiting Exoplanet Survey Satellite (TESS) has been in operation since July 2018, monitoring millions of stars across the entire sky and discovering thousands of exoplanets and exoplanet candidates. TESS's capability for precision photometry over long time baselines, as well as open access to TESS data, have resulted in extraordinarily high scientific output from the mission across a broad range of astrophysics.
  
