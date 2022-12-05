@@ -30,6 +30,24 @@ Cycle 5
 
 .. include:: approved-programs/cycle5.html
 
+Sector 60
+=========
+.. raw:: html
+
+    <ul class="list-group">
+        <li class="list-group-item">
+          <i class="fa fa-calendar fa-margin"></i>
+           December 23, 2022 - January 18. 2023
+        </li>
+        <li class="list-group-item">
+            <i class="fa fa-download fa-margin"></i>
+            <a href="data/target_lists/sector060_targets_lists/GI_S060.csv">2 min target list (csv)</a>, 
+            <a href="data/target_lists/sector060_targets_lists/GI_20s_S060.csv">20 s target list (csv)</a>
+        </li>
+    </ul>
+
+.. include:: approved-programs/sector060.html
+	     
 Sector 59
 =========
 .. raw:: html
