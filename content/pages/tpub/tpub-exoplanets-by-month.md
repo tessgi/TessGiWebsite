@@ -21,6 +21,31 @@ Alvarado-Montes, Jaime A.
 2022, refereed ([2022MNRAS.517.2831A](http://adsabs.harvard.edu/abs/2022MNRAS.517.2831A))
 <span class="badge">0 citations</span>
 
+2. [THE UPPER EDGE OF THE NEPTUNE DESERT IS STABLE AGAINST PHOTOEVAPORATION](http://adsabs.harvard.edu/abs/2022AJ....164..234V)  
+Vissapragada, Shreyas, Knutson, Heather A., Greklek-McKeon, Michael, et al.    
+2022, refereed ([2022AJ....164..234V](http://adsabs.harvard.edu/abs/2022AJ....164..234V))
+<span class="badge">3 citations</span>
+
+3. [PHASE CURVE AND GEOMETRIC ALBEDO OF WASP-43B MEASURED WITH CHEOPS, TESS, AND HST WFC3/UVIS](http://adsabs.harvard.edu/abs/2022A&A...668A..17S)  
+Scandariato, G., Singh, V., Kitzmann, D., et al.    
+2022, refereed ([2022A&A...668A..17S](http://adsabs.harvard.edu/abs/2022A&A...668A..17S))
+<span class="badge">0 citations</span>
+
+4. [A JUPITER ANALOG ORBITING THE NEARBY M DWARF GJ 463](http://adsabs.harvard.edu/abs/2022AJ....164..238E)  
+Endl, Michael, Robertson, Paul, Cochran, William D., et al.    
+2022, refereed ([2022AJ....164..238E](http://adsabs.harvard.edu/abs/2022AJ....164..238E))
+<span class="badge">0 citations</span>
+
+5. [A STRONG H<SUP>−</SUP> OPACITY SIGNAL IN THE NEAR-INFRARED EMISSION SPECTRUM OF THE ULTRA-HOT JUPITER KELT-9B](http://adsabs.harvard.edu/abs/2022A&A...668L...1J)  
+Jacobs, B., Désert, J. -M., Pino, L., et al.    
+2022, refereed ([2022A&A...668L...1J](http://adsabs.harvard.edu/abs/2022A&A...668L...1J))
+<span class="badge">0 citations</span>
+
+6. [TENTATIVE EVIDENCE FOR TRANSIT-TIMING VARIATIONS OF WASP-161B](http://adsabs.harvard.edu/abs/2022AJ....164..259Y)  
+Yang, Fan, Chary, Ranga-Ram    
+2022, refereed ([2022AJ....164..259Y](http://adsabs.harvard.edu/abs/2022AJ....164..259Y))
+<span class="badge">0 citations</span>
+
 
 2022-11
 -------

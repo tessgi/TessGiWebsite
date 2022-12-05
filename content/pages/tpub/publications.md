@@ -12,8 +12,8 @@ the TESS mission is provided by the NASA's Science Mission Directorate.*
 
 The TESS Science Support Center curates a list of scientific publications
 pertaining to TESS.
-The database contains 1306 publications,
-of which 1126 are peer-reviewed.
+The database contains 1323 publications,
+of which 1141 are peer-reviewed.
 It demonstrates the important impact of TESS data
 on astronomical research.
 
@@ -29,7 +29,7 @@ Or seach by topic:
 If you spot an error in the database, such as a missing entry,
 please get in touch or open an issue in the <a href="https://github.com/tessgi/tpub">GitHub repository</a> of the database.
 
-Last update: 21 Nov 2022.
+Last update: 05 Dec 2022.
 
 <hr/>
 
@@ -46,11 +46,11 @@ of year.
 
 Both TESS data have been used for scientific applications
 that reach far beyond exoplanet research.
-While 529 works relate to exoplanets
-(41%),
-a total of 777
+While 534 works relate to exoplanets
+(40%),
+a total of 789
 pertain to other areas of astrophysics
-(59%).
+(60%).
 
 
 ![Publications by subject](images/tpub/tpub-piechart.png)
@@ -60,7 +60,7 @@ pertain to other areas of astrophysics
 ## Most-cited publications
 
 TESS publications have cumulatively been cited
-17370 times.
+17376 times.
 The list below shows the most-cited publications,
 based on the citation count obtained from NASA ADS.
 
@@ -130,29 +130,29 @@ within the last 90 days.
 <!-- ## Most-active authors
 
 The entries in the publication database have been authored and co-authored
-by a total of 5554 unique author names.
+by a total of 5567 unique author names.
 Here we list the most-active authors, defined as those with six or more first-author publications in our database.
 
 
- * Southworth, J (15 publications)
-
- * Bouma, L (9 publications)
+ * Southworth, J (16 publications)
 
  * Balona, L (9 publications)
 
- * Howard, W (7 publications)
+ * Bouma, L (9 publications)
 
- * Lee, J (7 publications)
+ * Howard, W (7 publications)
 
  * Jayasinghe, T (7 publications)
 
- * Koen, C (6 publications)
+ * Lee, J (7 publications)
 
  * Wong, I (6 publications)
 
+ * Kostov, V (6 publications)
+
  * Gan, T (6 publications)
 
- * Kostov, V (6 publications)
+ * Koen, C (6 publications)
 
  * Cloutier, R (6 publications)
 -->

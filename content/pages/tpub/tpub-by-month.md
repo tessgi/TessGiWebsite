@@ -66,6 +66,91 @@ Miller, N. J., Maxted, P. F. L., Graczyk, D., et al.
 2022, refereed ([2022MNRAS.517.5129M](http://adsabs.harvard.edu/abs/2022MNRAS.517.5129M))
 <span class="badge">1 citations</span>
 
+11. [SPECTRAL ANALYSIS OF ULTRA-COOL WHITE DWARFS POLLUTED BY PLANETARY DEBRIS](http://adsabs.harvard.edu/abs/2022MNRAS.517.4557E)  
+Elms, Abbigail K., Tremblay, Pier-Emmanuel, Gänsicke, Boris T., et al.    
+2022, refereed ([2022MNRAS.517.4557E](http://adsabs.harvard.edu/abs/2022MNRAS.517.4557E))
+<span class="badge">1 citations</span>
+
+12. [ESTABLISHING THE ACCURACY OF ASTEROSEISMIC MASS AND RADIUS ESTIMATES OF GIANT STARS - II. REVISED STELLAR MASSES AND RADII FOR KIC 8430105](http://adsabs.harvard.edu/abs/2022MNRAS.517.4187T)  
+Thomsen, J. S., Brogaard, K., Arentoft, T., et al.    
+2022, refereed ([2022MNRAS.517.4187T](http://adsabs.harvard.edu/abs/2022MNRAS.517.4187T))
+<span class="badge">0 citations</span>
+
+13. [DETECTION OF P-MODE OSCILLATIONS IN HD 35833 WITH NEID AND TESS](http://adsabs.harvard.edu/abs/2022AJ....164..254G)  
+Gupta, Arvind F., Luhn, Jacob, Wright, Jason T., et al.    
+2022, refereed ([2022AJ....164..254G](http://adsabs.harvard.edu/abs/2022AJ....164..254G))
+<span class="badge">0 citations</span>
+
+14. [THE UPPER EDGE OF THE NEPTUNE DESERT IS STABLE AGAINST PHOTOEVAPORATION](http://adsabs.harvard.edu/abs/2022AJ....164..234V)  
+Vissapragada, Shreyas, Knutson, Heather A., Greklek-McKeon, Michael, et al.    
+2022, refereed ([2022AJ....164..234V](http://adsabs.harvard.edu/abs/2022AJ....164..234V))
+<span class="badge">3 citations</span>
+
+15. [THE DOUBLE-LINED SPECTROSCOPIC BINARY ORBIT OF THE MASSIVE SUPERGIANT HD 152147: A NEW TARGET FOR INTERFEROMETRY](http://adsabs.harvard.edu/abs/2022MNRAS.517.3101P)  
+Putkuri, C., Gamen, R., Benvenuto, O. G., et al.    
+2022, refereed ([2022MNRAS.517.3101P](http://adsabs.harvard.edu/abs/2022MNRAS.517.3101P))
+<span class="badge">0 citations</span>
+
+16. [PHASE CURVE AND GEOMETRIC ALBEDO OF WASP-43B MEASURED WITH CHEOPS, TESS, AND HST WFC3/UVIS](http://adsabs.harvard.edu/abs/2022A&A...668A..17S)  
+Scandariato, G., Singh, V., Kitzmann, D., et al.    
+2022, refereed ([2022A&A...668A..17S](http://adsabs.harvard.edu/abs/2022A&A...668A..17S))
+<span class="badge">0 citations</span>
+
+17. [THE WHITE DWARF BINARY PATHWAYS SURVEY - VIII. A POST-COMMON ENVELOPE BINARY WITH A MASSIVE WHITE DWARF AND AN ACTIVE G-TYPE SECONDARY STAR](http://adsabs.harvard.edu/abs/2022MNRAS.517.2867H)  
+Hernandez, M. S., Schreiber, M. R., Parsons, S. G., et al.    
+2022, refereed ([2022MNRAS.517.2867H](http://adsabs.harvard.edu/abs/2022MNRAS.517.2867H))
+<span class="badge">1 citations</span>
+
+18. [A JUPITER ANALOG ORBITING THE NEARBY M DWARF GJ 463](http://adsabs.harvard.edu/abs/2022AJ....164..238E)  
+Endl, Michael, Robertson, Paul, Cochran, William D., et al.    
+2022, refereed ([2022AJ....164..238E](http://adsabs.harvard.edu/abs/2022AJ....164..238E))
+<span class="badge">0 citations</span>
+
+19. [REDISCUSSION OF ECLIPSING BINARIES. PAPER 11: ZZ URSAE MAJORIS, A SOLAR-TYPE SYSTEM SHOWING TOTAL ECLIPSES AND A RADIUS DISCREPANCY](http://adsabs.harvard.edu/abs/2022Obs...142..267S)  
+Southworth, J.    
+2022, refereed ([2022Obs...142..267S](http://adsabs.harvard.edu/abs/2022Obs...142..267S))
+<span class="badge">0 citations</span>
+
+20. [SEARCHING FOR SHELL STARS IN LAMOST DR4 BY PROBING THE FE 42 MULTIPLET LINES](http://adsabs.harvard.edu/abs/2022MNRAS.517.4229H)  
+Hümmerich, Stefan, Paunzen, Ernst, Bernhard, Klaus    
+2022, refereed ([2022MNRAS.517.4229H](http://adsabs.harvard.edu/abs/2022MNRAS.517.4229H))
+<span class="badge">0 citations</span>
+
+21. [SURFACE ACTIVITY OF THE G DWARF PRIMARY IN THE QUATERNARY STAR SYSTEM V815 HER](http://adsabs.harvard.edu/abs/2022arXiv221200558K)  
+Kővári, Zsolt, Strassmeier, Klaus G., Borkovits, Tamás, et al.    
+2022, not refereed ([2022arXiv221200558K](http://adsabs.harvard.edu/abs/2022arXiv221200558K))
+<span class="badge">0 citations</span>
+
+22. [A STRONG H<SUP>−</SUP> OPACITY SIGNAL IN THE NEAR-INFRARED EMISSION SPECTRUM OF THE ULTRA-HOT JUPITER KELT-9B](http://adsabs.harvard.edu/abs/2022A&A...668L...1J)  
+Jacobs, B., Désert, J. -M., Pino, L., et al.    
+2022, refereed ([2022A&A...668L...1J](http://adsabs.harvard.edu/abs/2022A&A...668L...1J))
+<span class="badge">0 citations</span>
+
+23. [STARSPOTS, CHROMOSPHERIC EMISSION LINES, AND FLARES OF ZERO-AGE MAIN-SEQUENCE STARS](http://adsabs.harvard.edu/abs/2022PASJ...74.1295Y)  
+Yamashita, Mai, Itoh, Yoichi, Oasa, Yumiko    
+2022, refereed ([2022PASJ...74.1295Y](http://adsabs.harvard.edu/abs/2022PASJ...74.1295Y))
+<span class="badge">0 citations</span>
+
+24. [OBSERVED RATE VARIATION IN SUPERFLARING G-TYPE STARS](http://adsabs.harvard.edu/abs/2022arXiv221200993C)  
+Crowley, James, Wheatland, Michael S., Yang, Kai    
+2022, not refereed ([2022arXiv221200993C](http://adsabs.harvard.edu/abs/2022arXiv221200993C))
+<span class="badge">0 citations</span>
+
+25. [TENTATIVE EVIDENCE FOR TRANSIT-TIMING VARIATIONS OF WASP-161B](http://adsabs.harvard.edu/abs/2022AJ....164..259Y)  
+Yang, Fan, Chary, Ranga-Ram    
+2022, refereed ([2022AJ....164..259Y](http://adsabs.harvard.edu/abs/2022AJ....164..259Y))
+<span class="badge">0 citations</span>
+
+26. [ANALYSIS OF DUAL BAND AND SURVEY PHOTOMETRY OF TWO LOW MASS RATIO CONTACT BINARY SYSTEMS](http://adsabs.harvard.edu/abs/2022JApA...43...42W)  
+Wadhwa, Surjit S., de Horta, Ain Y., Filipović, Miroslav D., et al.    
+2022, refereed ([2022JApA...43...42W](http://adsabs.harvard.edu/abs/2022JApA...43...42W))
+<span class="badge">1 citations</span>
+
+27. [THE FIRST PHOTOMETRIC AND ORBITAL PERIOD INVESTIGATION OF AN EXTREMELY LOW MASS RATIO CONTACT BINARY WITH A SUDDEN PERIOD CHANGE TYC 4002-2628-1](http://adsabs.harvard.edu/abs/2022MNRAS.517.1928G)  
+Guo, Di-Fu, Li, Kai, Liu, Fen, et al.    
+2022, refereed ([2022MNRAS.517.1928G](http://adsabs.harvard.edu/abs/2022MNRAS.517.1928G))
+<span class="badge">0 citations</span>
+
 
 2022-11
 -------
