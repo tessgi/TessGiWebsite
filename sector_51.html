@@ -3,8 +3,7 @@
 Crafted with ♥ by Geert Barentsen, Thomas Barclay & Knicole colon at NASA Ames
 in August 2015, using pelican-bootstrap and flatly.
 -->
-<html lang="en"
->
+<html lang="en" >
 
 <head>
     <title>Sector 51 - TESS Science Support Center</title>
@@ -17,7 +16,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - TESS Science Support Center" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2022-12-08" />
+    <meta name="dc.date.modified" content="2023-01-02" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Users of TESS Data" />
     <meta name="dc.identifier" content="https://heasarc.gsfc.nasa.gov/docs/tess/" />
@@ -28,7 +27,8 @@ in August 2015, using pelican-bootstrap and flatly.
     <meta name="content-owner" content="Thomas.Barclay">
     <meta name="webmaster" content="Thomas.Barclay">
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:description" content="Transiting Exoplanet Survey Satellite is a NASA Mission to Study Stars, Planets and Galaxies." />
+    <meta name="twitter:description"
+        content="Transiting Exoplanet Survey Satellite is a NASA Mission to Study Stars, Planets and Galaxies." />
     <meta name="twitter:title" content="NASA - TESS Science Support Center" />
     <meta name="twitter:site" content="@NASA_TESS" />
     <meta name="twitter:creator" content="@NASA_TESS" />
@@ -59,112 +59,126 @@ in August 2015, using pelican-bootstrap and flatly.
     <link href="./theme/css/nunito.css" rel="stylesheet">
 
     <!-- Bootstrap -->
-        <link rel="stylesheet" href="./theme/css/bootstrap.cosmo.min.css" type="text/css"/>
+    <link rel="stylesheet" href="./theme/css/bootstrap.cosmo.min.css" type="text/css" />
     <link href="./theme/css/font-awesome.min.css" rel="stylesheet">
 
     <link href="./theme/css/exoplanet_archive_icons.css" rel="stylesheet">
     <link href="./theme/css/mission_icons.css" rel="stylesheet">
-<!--     <link href="./theme/css/photobanner.css" rel="stylesheet">
+    <!--     <link href="./theme/css/photobanner.css" rel="stylesheet">
     <link href="./theme/css/slide-container.css" rel="stylesheet">
     <link href="./theme/css/slide-transition.css" rel="stylesheet">
     <link href="./theme/css/slide-transition2.css" rel="stylesheet">  -->
 
     <link href="./theme/css/pygments/native.css" rel="stylesheet">
-    <link rel="stylesheet" href="./theme/css/style.css" type="text/css"/>
+    <link rel="stylesheet" href="./theme/css/style.css" type="text/css" />
 
-    <link href="./feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="TESS ATOM Feed"/>
-    <link href="./feeds/all.rss.xml" type="application/rss+xml" rel="alternate" title="TESS RSS Feed"/>
+    <link href="./feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
+        title="TESS ATOM Feed" />
+    <link href="./feeds/all.rss.xml" type="application/rss+xml" rel="alternate"
+        title="TESS RSS Feed" />
 
 </head>
+
 <body>
 
-<!-- Print a warning message that this is not the official site -->
-<div class="container container-wide" style="background-color: #d35400; color: white; padding: 1.5em; font-weight: bold;">
-  <div class="container">
-   <i class="fa fa-warning fa-lg fa-margin"></i>
-    This is the development version of the TESS Science Support Center website.
-    For the live website, visit <a href="https://heasarc.gsfc.nasa.gov/docs/tess/">https://heasarc.gsfc.nasa.gov/docs/tess</a>
-  </div>
-</div>
-
-<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
-
-  <div class="container">
-        <div class="navbar-header">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-            <a href="./" class="navbar-brand">
-<img src="./images/NASA_logo_vector_lg.png" width="32"/> TESS            </a>
+    <!-- Print a warning message that this is not the official site -->
+    <div class="container container-wide"
+        style="background-color: #d35400; color: white; padding: 1.5em; font-weight: bold;">
+        <div class="container">
+            <i class="fa fa-warning fa-lg fa-margin"></i>
+            This is the development version of the TESS Science Support Center website.
+            For the live website, visit <a
+                href="https://heasarc.gsfc.nasa.gov/docs/tess/">https://heasarc.gsfc.nasa.gov/docs/tess</a>
         </div>
-        <div class="collapse navbar-collapse navbar-ex1-collapse">
-            <ul class="nav navbar-nav navbar-nav">
-                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Mission <b class="caret"></b></a>
-                            <ul class="dropdown-menu">
-                                <li><a href="./objectives.html">Objectives</a></li>
-                                <li><a href="./the-tess-space-telescope.html">Telescope</a></li>
-                                <li><a href="./primary.html">Primary mission</a></li>
-                                <li><a href="./extended.html">First Extended mission</a></li>
-                                <li><a href="./second-extended.html">Second Extended mission</a></li>
-                                <li><a href="./faq.html">FAQ</a></li>
-                                <li><a href="./citizenscience.html">Citizen Science</a></li>
-                                <li><a href="./gallery.html">Outreach resources</a></li>
-                                <li><a href="./publications.html">Publications</a></li>
-                                <li><a href="./media.html">Media Request</a></li>
-                            </ul>
-                        </li>
-                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Data & tools <b class="caret"></b></a>
-                            <ul class="dropdown-menu">
-                                <li><a href="./data-handling.html">Data pipeline</a></li>
-                                <li><a href="./data-products.html">Data products</a></li>
-                                <li><a href="./data-access.html">Data access</a></li>
-                                <li><a href="./data-analysis-tools.html">Data analysis tools</a></li>
-                                <li><a href="./community.html">Community products</a></li>
-                                <li><a href="./community-tools.html">Community tools</a></li>
-                                <li><a href="./documentation.html">Documentation</a></li>
-                                <li><a href="./data_release_notes.html">Data release notes</a></li>
-                            </ul>
-                        </li>
-                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Observations <b class="caret"></b></a>
-                            <ul class="dropdown-menu">
-                                <li><a href="./observing-technical.html">Technical details</a></li>
-                                <li><a href="./sector.html">Sector dates</a></li>
-                                <li><a href="./approved-programs.html">Approved GI programs</a></li>
-                            </ul>
-                        </li>
-                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Proposing <b class="caret"></b></a>
-                            <ul class="dropdown-menu">
-                                <li><a href="./proposing-investigations.html">Guest Investigator Proposals</a></li>
-                                <li><a href="./proposal-tools.html">Proposal & observation tools</a></li>
-                                <li><a href="./ddt.html">Director's Discretionary Target program</a></li>
-                                <li><a href="./proposal-templates.html">Proposal templates</a></li>
-                            </ul>
-                        </li>
-            </ul>
-
-            <ul class="nav navbar-nav">
-                <li>
-                    <a href="./helpdesk.html"><i class="fa fa-info-circle fa-lg"></i> Helpdesk</a>
-                </li>
-            </ul>
-
-        </div>
-        <!-- /.navbar-collapse -->
     </div>
-</div> <!-- /.navbar -->
-<!-- Banner -->
-<!-- End Banner -->
 
-<div class="container">
-    <div class="row">
-        <div class="col-lg-12">
+    <div class="container container-wide" style="background-color: #4caf50; color: white; padding: 1.1em;">
+        <div class="container">
+            <i class="fa fa-info-circle fa-lg fa-margin"></i>
+            The <a href="https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bF595238E-19D1-C0D6-D9AF-805702BC3D59%7d&path=&method=init"><b>TESS Cycle 6 Call For Proposals</b></a> is now Live! To read the Call for Proposals please <a
+                href="https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=860780/solicitationId=%7BF595238E-19D1-C0D6-D9AF-805702BC3D59%7D/viewSolicitationDocument=1/D.10%20TESS%20Cycle_6_Amend79.pdf">click here</a>. Cycle 6 Proposals are due <b>	Apr 14, 2023</b>.
+        </div>
+    </div>
+
+    <div class="navbar navbar-inverse navbar-fixed-top"
+        role="navigation">
+
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a href="./" class="navbar-brand">
+<img src="./images/NASA_logo_vector_lg.png" width="32" /> TESS                </a>
+            </div>
+            <div class="collapse navbar-collapse navbar-ex1-collapse">
+                <ul class="nav navbar-nav navbar-nav">
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Mission <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="./objectives.html">Objectives</a></li>
+                            <li><a href="./the-tess-space-telescope.html">Telescope</a></li>
+                            <li><a href="./primary.html">Primary mission</a></li>
+                            <li><a href="./extended.html">First Extended mission</a></li>
+                            <li><a href="./second-extended.html">Second Extended mission</a></li>
+                            <li><a href="./faq.html">FAQ</a></li>
+                            <li><a href="./citizenscience.html">Citizen Science</a></li>
+                            <li><a href="./gallery.html">Outreach resources</a></li>
+                            <li><a href="./publications.html">Publications</a></li>
+                            <li><a href="./media.html">Media Request</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Data & tools <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="./data-handling.html">Data pipeline</a></li>
+                            <li><a href="./data-products.html">Data products</a></li>
+                            <li><a href="./data-access.html">Data access</a></li>
+                            <li><a href="./data-analysis-tools.html">Data analysis tools</a></li>
+                            <li><a href="./community.html">Community products</a></li>
+                            <li><a href="./community-tools.html">Community tools</a></li>
+                            <li><a href="./documentation.html">Documentation</a></li>
+                            <li><a href="./data_release_notes.html">Data release notes</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Observations <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="./observing-technical.html">Technical details</a></li>
+                            <li><a href="./sector.html">Sector dates</a></li>
+                            <li><a href="./approved-programs.html">Approved GI programs</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Proposing <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="./proposing-investigations.html">Guest Investigator Proposals</a></li>
+                            <li><a href="./proposal-tools.html">Proposal & observation tools</a></li>
+                            <li><a href="./ddt.html">Director's Discretionary Target program</a></li>
+                            <li><a href="./proposal-templates.html">Proposal templates</a></li>
+                        </ul>
+                    </li>
+                </ul>
+
+                <ul class="nav navbar-nav">
+                    <li>
+                        <a href="./helpdesk.html"><i class="fa fa-info-circle fa-lg"></i> Helpdesk</a>
+                    </li>
+                </ul>
+
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+    </div> <!-- /.navbar -->
+    <!-- Banner -->
+    <!-- End Banner -->
+
+    <div class="container">
+        <div class="row">
+                <div class="col-lg-12">
 
     <div class="col-sm-9" data-spy="scroll" data-target="#sidebarCol">
         <section id="content" class="body">
@@ -199,9 +213,9 @@ This object has a pixel stamp that does not fully capture the bleed trails.</p>
 </div>
             </div>
         </nav>
+                </div>
+            </div>
         </div>
-    </div>
-</div>
 
 <div class="container container-wide" style="margin-top: 1.5em;">
   <footer>
@@ -251,7 +265,7 @@ This object has a pixel stamp that does not fully capture the bleed trails.</p>
       <!-- NASA logo and notices -->
       <div class="row" style="margin-top:2em;">
          <div class="col-md-10"> <a href="http://www.nasa.gov/"><img src="./images/NASA_logo_vector_lg.png" width="30" alt="NASA Logo"></a> 
-         Last modified: Fri 02 December 2022
+         Last modified: Mon 02 January 2023
             &middot; Editor: Thomas Barclay &middot; NASA Official: Patricia T Boyd 
             &middot; <a href="http://www.nasa.gov/about/highlights/HP_Privacy.html">Privacy Policy and Important Notices</a><p></p>         </div>
          <div class="col-md-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
@@ -261,18 +275,18 @@ This object has a pixel stamp that does not fully capture the bleed trails.</p>
   </footer>
 </div>
 
-<script src="./theme/js/jquery.min.js"></script>
+        <script src="./theme/js/jquery.min.js"></script>
 
-<!-- Include all compiled plugins (below), or include individual files as needed -->
-<script src="./theme/js/bootstrap.min.js"></script>
+        <!-- Include all compiled plugins (below), or include individual files as needed -->
+        <script src="./theme/js/bootstrap.min.js"></script>
 
-<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
-<script src="./theme/js/respond.min.js"></script>
+        <!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
+        <script src="./theme/js/respond.min.js"></script>
 
-    <script src="./theme/js/bodypadding.js"></script>
+        <script src="./theme/js/bodypadding.js"></script>
 <!-- Analytics scripts -->
 
-<script src="./theme/js/drn.js"></script>
+        <script src="./theme/js/drn.js"></script>
 
         <script>
           $('#mytoc').affix({
@@ -294,4 +308,5 @@ This object has a pixel stamp that does not fully capture the bleed trails.</p>
           $("img").bind('load', refreshScrollspy);
         </script>
 </body>
+
 </html>
