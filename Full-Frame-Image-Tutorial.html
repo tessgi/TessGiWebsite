@@ -3,8 +3,7 @@
 Crafted with ♥ by Geert Barentsen, Thomas Barclay & Knicole colon at NASA Ames
 in August 2015, using pelican-bootstrap and flatly.
 -->
-<html lang="en"
->
+<html lang="en" >
 
 <head>
     <title>Full Frame Images - TESS Science Support Center</title>
@@ -17,7 +16,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - TESS Science Support Center" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2022-12-09" />
+    <meta name="dc.date.modified" content="2023-01-02" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Users of TESS Data" />
     <meta name="dc.identifier" content="https://heasarc.gsfc.nasa.gov/docs/tess/" />
@@ -28,7 +27,8 @@ in August 2015, using pelican-bootstrap and flatly.
     <meta name="content-owner" content="Thomas.Barclay">
     <meta name="webmaster" content="Thomas.Barclay">
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:description" content="Transiting Exoplanet Survey Satellite is a NASA Mission to Study Stars, Planets and Galaxies." />
+    <meta name="twitter:description"
+        content="Transiting Exoplanet Survey Satellite is a NASA Mission to Study Stars, Planets and Galaxies." />
     <meta name="twitter:title" content="NASA - TESS Science Support Center" />
     <meta name="twitter:site" content="@NASA_TESS" />
     <meta name="twitter:creator" content="@NASA_TESS" />
@@ -59,105 +59,117 @@ in August 2015, using pelican-bootstrap and flatly.
     <link href="./theme/css/nunito.css" rel="stylesheet">
 
     <!-- Bootstrap -->
-        <link rel="stylesheet" href="./theme/css/bootstrap.cosmo.min.css" type="text/css"/>
+    <link rel="stylesheet" href="./theme/css/bootstrap.cosmo.min.css" type="text/css" />
     <link href="./theme/css/font-awesome.min.css" rel="stylesheet">
 
     <link href="./theme/css/exoplanet_archive_icons.css" rel="stylesheet">
     <link href="./theme/css/mission_icons.css" rel="stylesheet">
-<!--     <link href="./theme/css/photobanner.css" rel="stylesheet">
+    <!--     <link href="./theme/css/photobanner.css" rel="stylesheet">
     <link href="./theme/css/slide-container.css" rel="stylesheet">
     <link href="./theme/css/slide-transition.css" rel="stylesheet">
     <link href="./theme/css/slide-transition2.css" rel="stylesheet">  -->
 
     <link href="./theme/css/pygments/native.css" rel="stylesheet">
-    <link rel="stylesheet" href="./theme/css/style.css" type="text/css"/>
+    <link rel="stylesheet" href="./theme/css/style.css" type="text/css" />
 
-    <link href="./feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="TESS ATOM Feed"/>
-    <link href="./feeds/all.rss.xml" type="application/rss+xml" rel="alternate" title="TESS RSS Feed"/>
+    <link href="./feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
+        title="TESS ATOM Feed" />
+    <link href="./feeds/all.rss.xml" type="application/rss+xml" rel="alternate"
+        title="TESS RSS Feed" />
 
 </head>
+
 <body>
 
-<!-- Print a warning message that this is not the official site -->
+    <!-- Print a warning message that this is not the official site -->
 
-<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
-
-  <div class="container">
-        <div class="navbar-header">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-            <a href="./" class="navbar-brand">
-<img src="./images/NASA_logo_vector_lg.png" width="32"/> TESS            </a>
+    <div class="container container-wide" style="background-color: #4caf50; color: white; padding: 1.1em;">
+        <div class="container">
+            <i class="fa fa-info-circle fa-lg fa-margin"></i>
+            The <a href="https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bF595238E-19D1-C0D6-D9AF-805702BC3D59%7d&path=&method=init"><b>TESS Cycle 6 Call For Proposals</b></a> is now Live! To read the Call for Proposals please <a
+                href="https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=860780/solicitationId=%7BF595238E-19D1-C0D6-D9AF-805702BC3D59%7D/viewSolicitationDocument=1/D.10%20TESS%20Cycle_6_Amend79.pdf">click here</a>. Cycle 6 Proposals are due <b>	Apr 14, 2023</b>.
         </div>
-        <div class="collapse navbar-collapse navbar-ex1-collapse">
-            <ul class="nav navbar-nav navbar-nav">
-                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Mission <b class="caret"></b></a>
-                            <ul class="dropdown-menu">
-                                <li><a href="./objectives.html">Objectives</a></li>
-                                <li><a href="./the-tess-space-telescope.html">Telescope</a></li>
-                                <li><a href="./primary.html">Primary mission</a></li>
-                                <li><a href="./extended.html">First Extended mission</a></li>
-                                <li><a href="./second-extended.html">Second Extended mission</a></li>
-                                <li><a href="./faq.html">FAQ</a></li>
-                                <li><a href="./citizenscience.html">Citizen Science</a></li>
-                                <li><a href="./gallery.html">Outreach resources</a></li>
-                                <li><a href="./publications.html">Publications</a></li>
-                                <li><a href="./media.html">Media Request</a></li>
-                            </ul>
-                        </li>
-                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Data & tools <b class="caret"></b></a>
-                            <ul class="dropdown-menu">
-                                <li><a href="./data-handling.html">Data pipeline</a></li>
-                                <li><a href="./data-products.html">Data products</a></li>
-                                <li><a href="./data-access.html">Data access</a></li>
-                                <li><a href="./data-analysis-tools.html">Data analysis tools</a></li>
-                                <li><a href="./community.html">Community products</a></li>
-                                <li><a href="./community-tools.html">Community tools</a></li>
-                                <li><a href="./documentation.html">Documentation</a></li>
-                                <li><a href="./data_release_notes.html">Data release notes</a></li>
-                            </ul>
-                        </li>
-                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Observations <b class="caret"></b></a>
-                            <ul class="dropdown-menu">
-                                <li><a href="./observing-technical.html">Technical details</a></li>
-                                <li><a href="./sector.html">Sector dates</a></li>
-                                <li><a href="./approved-programs.html">Approved GI programs</a></li>
-                            </ul>
-                        </li>
-                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Proposing <b class="caret"></b></a>
-                            <ul class="dropdown-menu">
-                                <li><a href="./proposing-investigations.html">Guest Investigator Proposals</a></li>
-                                <li><a href="./proposal-tools.html">Proposal & observation tools</a></li>
-                                <li><a href="./ddt.html">Director's Discretionary Target program</a></li>
-                                <li><a href="./proposal-templates.html">Proposal templates</a></li>
-                            </ul>
-                        </li>
-            </ul>
-
-            <ul class="nav navbar-nav">
-                <li>
-                    <a href="./helpdesk.html"><i class="fa fa-info-circle fa-lg"></i> Helpdesk</a>
-                </li>
-            </ul>
-
-        </div>
-        <!-- /.navbar-collapse -->
     </div>
-</div> <!-- /.navbar -->
-<!-- Banner -->
-<!-- End Banner -->
 
-<div class="container">
-    <div class="row">
-        <div class="col-lg-12">
+    <div class="navbar navbar-inverse navbar-fixed-top"
+        role="navigation">
+
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a href="./" class="navbar-brand">
+<img src="./images/NASA_logo_vector_lg.png" width="32" /> TESS                </a>
+            </div>
+            <div class="collapse navbar-collapse navbar-ex1-collapse">
+                <ul class="nav navbar-nav navbar-nav">
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Mission <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="./objectives.html">Objectives</a></li>
+                            <li><a href="./the-tess-space-telescope.html">Telescope</a></li>
+                            <li><a href="./primary.html">Primary mission</a></li>
+                            <li><a href="./extended.html">First Extended mission</a></li>
+                            <li><a href="./second-extended.html">Second Extended mission</a></li>
+                            <li><a href="./faq.html">FAQ</a></li>
+                            <li><a href="./citizenscience.html">Citizen Science</a></li>
+                            <li><a href="./gallery.html">Outreach resources</a></li>
+                            <li><a href="./publications.html">Publications</a></li>
+                            <li><a href="./media.html">Media Request</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Data & tools <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="./data-handling.html">Data pipeline</a></li>
+                            <li><a href="./data-products.html">Data products</a></li>
+                            <li><a href="./data-access.html">Data access</a></li>
+                            <li><a href="./data-analysis-tools.html">Data analysis tools</a></li>
+                            <li><a href="./community.html">Community products</a></li>
+                            <li><a href="./community-tools.html">Community tools</a></li>
+                            <li><a href="./documentation.html">Documentation</a></li>
+                            <li><a href="./data_release_notes.html">Data release notes</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Observations <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="./observing-technical.html">Technical details</a></li>
+                            <li><a href="./sector.html">Sector dates</a></li>
+                            <li><a href="./approved-programs.html">Approved GI programs</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Proposing <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="./proposing-investigations.html">Guest Investigator Proposals</a></li>
+                            <li><a href="./proposal-tools.html">Proposal & observation tools</a></li>
+                            <li><a href="./ddt.html">Director's Discretionary Target program</a></li>
+                            <li><a href="./proposal-templates.html">Proposal templates</a></li>
+                        </ul>
+                    </li>
+                </ul>
+
+                <ul class="nav navbar-nav">
+                    <li>
+                        <a href="./helpdesk.html"><i class="fa fa-info-circle fa-lg"></i> Helpdesk</a>
+                    </li>
+                </ul>
+
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+    </div> <!-- /.navbar -->
+    <!-- Banner -->
+    <!-- End Banner -->
+
+    <div class="container">
+        <div class="row">
+                <div class="col-lg-12">
 
     <div class="col-sm-12">
         <section id="content" class="body">
@@ -560,25 +572,25 @@ DATASUM = '3805688324'         / data unit checksum updated 2020-08-26T14:10:38
 <span class="n">tpfs_s4</span><span class="o">.</span><span class="n">flux</span>
 </pre>
 <div class="formula">
-[[[129.99297, 128.63951, 132.87094, …, 139.99612, 137.95688, 142.58392], [138.64349, 153.85022, 161.18605, …, 132.13853, 131.88116, 136.26653], [147.42535, 185.44145, 202.03874, …, 131.27419, 129.55354, 132.28387], …, [148.45624, 168.75594, 169.70703, …, 193.291, 262.43341, 225.49281], [143.34943, 148.85297, 140.99071, …, 632.60272, 1230.0093, 481.08664], [138.4722, 136.3645, 133.1722, …, 582.95276, 1186.0709, 478.35709]], 
+[[[129.99297,  128.63951,  132.87094,  …,  139.99612,  137.95688,  142.58392],  [138.64349,  153.85022,  161.18605,  …,  132.13853,  131.88116,  136.26653],  [147.42535,  185.44145,  202.03874,  …,  131.27419,  129.55354,  132.28387],  …,  [148.45624,  168.75594,  169.70703,  …,  193.291,  262.43341,  225.49281],  [143.34943,  148.85297,  140.99071,  …,  632.60272,  1230.0093,  481.08664],  [138.4722,  136.3645,  133.1722,  …,  582.95276,  1186.0709,  478.35709]],  
 </div>
 <div class="formula">
-[[129.82346, 128.34328, 132.64188, …, 139.19876, 137.08186, 142.32404], [139.79184, 152.97951, 161.24356, …, 132.91368, 131.2858, 136.80386], [147.51363, 185.70856, 202.45325, …, 131.01465, 129.47301, 132.81329], …, [147.99286, 167.25301, 168.89616, …, 194.54517, 264.9231, 225.16179], [143.70619, 149.3633, 140.49521, …, 632.60107, 1227.5686, 482.08145], [138.03108, 136.32384, 133.2, …, 582.40741, 1182.1221, 479.85046]], 
+[[129.82346,  128.34328,  132.64188,  …,  139.19876,  137.08186,  142.32404],  [139.79184,  152.97951,  161.24356,  …,  132.91368,  131.2858,  136.80386],  [147.51363,  185.70856,  202.45325,  …,  131.01465,  129.47301,  132.81329],  …,  [147.99286,  167.25301,  168.89616,  …,  194.54517,  264.9231,  225.16179],  [143.70619,  149.3633,  140.49521,  …,  632.60107,  1227.5686,  482.08145],  [138.03108,  136.32384,  133.2,  …,  582.40741,  1182.1221,  479.85046]],  
 </div>
 <div class="formula">
-[[129.21542, 129.74716, 132.78502, …, 138.40413, 137.88484, 143.00275], [139.7187, 155.0994, 160.00632, …, 132.12894, 131.79468, 136.66957], [147.73445, 183.78162, 200.47708, …, 130.74011, 129.2097, 132.41162], …, [147.66319, 166.57088, 168.81226, …, 215.93103, 281.56219, 224.84123], [142.83057, 148.42052, 140.91992, …, 642.88855, 1205.141, 467.6749], [137.69144, 135.93571, 133.34496, …, 573.22418, 1151.689, 483.14612]], 
+[[129.21542,  129.74716,  132.78502,  …,  138.40413,  137.88484,  143.00275],  [139.7187,  155.0994,  160.00632,  …,  132.12894,  131.79468,  136.66957],  [147.73445,  183.78162,  200.47708,  …,  130.74011,  129.2097,  132.41162],  …,  [147.66319,  166.57088,  168.81226,  …,  215.93103,  281.56219,  224.84123],  [142.83057,  148.42052,  140.91992,  …,  642.88855,  1205.141,  467.6749],  [137.69144,  135.93571,  133.34496,  …,  573.22418,  1151.689,  483.14612]],  
 </div>
 <div class="formula">
-…, 
+…,  
 </div>
 <div class="formula">
-[[792.39258, 789.263, 795.30682, …, 809.82086, 811.76941, 815.80994], [803.67145, 809.58545, 835.54602, …, 800.33563, 802.27563, 808.07153], [803.70325, 832.35767, 866.13525, …, 802.09814, 800.79468, 804.69025], …, [799.46198, 814.78491, 819.1286, …, 869.16278, 1009.9353, 943.88312], [794.48761, 799.0069, 792.25012, …, 1211.3436, 2031.7046, 1349.0428], [790.42419, 785.95496, 787.04718, …, 1130.4243, 1644.5442, 1246.1456]], 
+[[792.39258,  789.263,  795.30682,  …,  809.82086,  811.76941,  815.80994],  [803.67145,  809.58545,  835.54602,  …,  800.33563,  802.27563,  808.07153],  [803.70325,  832.35767,  866.13525,  …,  802.09814,  800.79468,  804.69025],  …,  [799.46198,  814.78491,  819.1286,  …,  869.16278,  1009.9353,  943.88312],  [794.48761,  799.0069,  792.25012,  …,  1211.3436,  2031.7046,  1349.0428],  [790.42419,  785.95496,  787.04718,  …,  1130.4243,  1644.5442,  1246.1456]],  
 </div>
 <div class="formula">
-[[813.54431, 809.97974, 817.47009, …, 830.65527, 830.61475, 836.75928], [826.25146, 831.77899, 856.91522, …, 821.61914, 823.5957, 828.23602], [825.62567, 854.96924, 889.86981, …, 822.89606, 820.79828, 824.80457], …, [821.97601, 836.54681, 844.15063, …, 892.07336, 1033.9146, 965.64771], [816.31024, 823.79694, 816.89545, …, 1233.7531, 2053.4348, 1371.8173], [813.43365, 809.15466, 809.1488, …, 1154.3142, 1664.0698, 1269.6807]], 
+[[813.54431,  809.97974,  817.47009,  …,  830.65527,  830.61475,  836.75928],  [826.25146,  831.77899,  856.91522,  …,  821.61914,  823.5957,  828.23602],  [825.62567,  854.96924,  889.86981,  …,  822.89606,  820.79828,  824.80457],  …,  [821.97601,  836.54681,  844.15063,  …,  892.07336,  1033.9146,  965.64771],  [816.31024,  823.79694,  816.89545,  …,  1233.7531,  2053.4348,  1371.8173],  [813.43365,  809.15466,  809.1488,  …,  1154.3142,  1664.0698,  1269.6807]],  
 </div>
 <div class="formula">
-[[843.42645, 838.84576, 847.90161, …, 861.24701, 861.25537, 867.8017], [855.00861, 862.23065, 888.0213, …, 849.95538, 852.78198, 859.7309], [856.35095, 883.28583, 919.44934, …, 852.11145, 851.24445, 854.23767], …, [849.98053, 867.28394, 872.92499, …, 923.02142, 1061.4458, 994.54596], [847.56006, 852.9693, 846.55609, …, 1264.6205, 2082.7625, 1403.7192], [843.9043, 838.604, 839.48645, …, 1181.7628, 1696.9923, 1301.2625]]] <span class="mathrm"> <span class="fraction"><span class="ignored">(</span><span class="numerator">e<sup> − </sup></span><span class="ignored">)/(</span><span class="denominator">s</span><span class="ignored">)</span></span></span>
+[[843.42645,  838.84576,  847.90161,  …,  861.24701,  861.25537,  867.8017],  [855.00861,  862.23065,  888.0213,  …,  849.95538,  852.78198,  859.7309],  [856.35095,  883.28583,  919.44934,  …,  852.11145,  851.24445,  854.23767],  …,  [849.98053,  867.28394,  872.92499,  …,  923.02142,  1061.4458,  994.54596],  [847.56006,  852.9693,  846.55609,  …,  1264.6205,  2082.7625,  1403.7192],  [843.9043,  838.604,  839.48645,  …,  1181.7628,  1696.9923,  1301.2625]]]<span class="thickspace"> </span><span class="mathrm"> <span class="fraction"><span class="ignored">(</span><span class="numerator">e<sup> − </sup></span><span class="ignored">)/(</span><span class="denominator">s</span><span class="ignored">)</span></span></span>
 </div>
 </div>
 </div>
@@ -587,9 +599,9 @@ DATASUM = '3805688324'         / data unit checksum updated 2020-08-26T14:10:38
         </section>
     </div>
 
+                </div>
+            </div>
         </div>
-    </div>
-</div>
 
 <div class="container container-wide" style="margin-top: 1.5em;">
   <footer>
@@ -639,7 +651,7 @@ DATASUM = '3805688324'         / data unit checksum updated 2020-08-26T14:10:38
       <!-- NASA logo and notices -->
       <div class="row" style="margin-top:2em;">
          <div class="col-md-10"> <a href="http://www.nasa.gov/"><img src="./images/NASA_logo_vector_lg.png" width="30" alt="NASA Logo"></a> 
-         Last modified: Fri 02 December 2022
+         Last modified: Mon 02 January 2023
             &middot; Editor: Thomas Barclay &middot; NASA Official: Patricia T Boyd 
             &middot; <a href="http://www.nasa.gov/about/highlights/HP_Privacy.html">Privacy Policy and Important Notices</a><p></p>         </div>
          <div class="col-md-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
@@ -649,20 +661,21 @@ DATASUM = '3805688324'         / data unit checksum updated 2020-08-26T14:10:38
   </footer>
 </div>
 
-<script src="./theme/js/jquery.min.js"></script>
+        <script src="./theme/js/jquery.min.js"></script>
 
-<!-- Include all compiled plugins (below), or include individual files as needed -->
-<script src="./theme/js/bootstrap.min.js"></script>
+        <!-- Include all compiled plugins (below), or include individual files as needed -->
+        <script src="./theme/js/bootstrap.min.js"></script>
 
-<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
-<script src="./theme/js/respond.min.js"></script>
+        <!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
+        <script src="./theme/js/respond.min.js"></script>
 
-    <script src="./theme/js/bodypadding.js"></script>
+        <script src="./theme/js/bodypadding.js"></script>
 <!-- Analytics scripts -->
 <script language="javascript" id="_fed_an_ua_tag" src="//dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=NASA"></script>
 <script language="javascript" id="_fed_an_ua_tag" src="//dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=NASA&subagency=GSFC&dclink=true"></script>
 
-<script src="./theme/js/drn.js"></script>
+        <script src="./theme/js/drn.js"></script>
 
 </body>
+
 </html>
