@@ -1,219 +1,238 @@
 {% extends "base.html" %}
 
-{% block canonical_rel %}<link rel="canonical" href="{{ SITEURL }}">{% endblock %}
+{% block canonical_rel %}
+<link rel="canonical" href="{{ SITEURL }}">{% endblock %}
 
 {% block banner %}
-  {% include 'includes/banner_new2.html' %}
+{% include 'includes/banner_new2.html' %}
 {% endblock %}
 
 {% block core %}
 
+
 <div class="container">
 
-<div class="row">
-<div class="col-md-8">
+  <div class="row">
+    <div class="col-md-8">
 
-<h2 style="padding-bottom:0.3em;">News for scientists</h2>
-    {% if articles %}
-        {% for article in (articles_page.object_list if articles_page else articles) %}
-            <article>
-                <div><b><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></b>
-                </div>
-                <span class="categories-timestamp"><time datetime="{{ article.date.isoformat() }}">{{ article.date.strftime("%d %b %Y") }}</time></span>  
-                <div class="summary entry-content" style="padding-top: 0.5em; ">{{ article.summary|replace("…","...")}}
-                    {% include 'includes/comment_count.html' %}
-                    <a class="btn btn-default btn-xs" href="{{ SITEURL }}/{{ article.url }}">More &raquo;</a>
-                </div>
-            </article>
-            <hr/>
-        {% endfor %}
-    {% endif %}
+      <h2 style="padding-bottom:0.3em;">News for scientists</h2>
+      {% if articles %}
+      {% for article in (articles_page.object_list if articles_page else articles) %}
+      <article>
+        <div><b><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></b>
+        </div>
+        <span class="categories-timestamp"><time datetime="{{ article.date.isoformat() }}">{{ article.date.strftime("%d
+            %b %Y") }}</time></span>
+        <div class="summary entry-content" style="padding-top: 0.5em; ">{{ article.summary|replace("…","...")}}
+          {% include 'includes/comment_count.html' %}
+          <a class="btn btn-default btn-xs" href="{{ SITEURL }}/{{ article.url }}">More &raquo;</a>
+        </div>
+      </article>
+      <hr />
+      {% endfor %}
+      {% endif %}
 
- <a class="btn btn-primary" href="archives.html">News archive &raquo;</a>
-  <!-- {% include 'includes/pagination.html' %} -->
-</div>
+      <a class="btn btn-primary" href="archives.html">News archive &raquo;</a>
+      <!-- {% include 'includes/pagination.html' %} -->
+    </div>
 
 
-<!-- SIDEBAR starts here -->
+    <!-- SIDEBAR starts here -->
 
-<div class="col-md-4" style="padding-top:1.5em;">
+    <div class="col-md-4" style="padding-top:1.5em;">
 
-<!-- We are hiring! -->
-<!-- <div class="panel panel-default">
+      <!-- We are hiring! -->
+      <!-- <div class="panel panel-default">
   <div class="panel-body" style="padding:0;">
     <a href='we-are-hiring-job-opportunities-available-at-the-keplerk2-science-center.html'>
     <img src="images/we-are-hiring-banner.jpg" class='img-responsive'/></a>
   </div>
 </div> -->
 
-<!-- Kepler/K2 SciCon 2017 -->
-<!-- <div class="panel panel-default">
+      <!-- Kepler/K2 SciCon 2017 -->
+      <!-- <div class="panel panel-default">
   <div class="panel-body" style="padding:0;">
     <a href='/scicon4'>
     <img src="images/scicon2017-banner.jpg" class='img-responsive'/></a>
   </div>
 </div> -->
 
-<!-- submit proposal -->
-<!-- <a href="https://heasarc.gsfc.nasa.gov/ark/rps/">
-<div class="panel panel-primary">
-  <div class="panel-heading">
-    <h4 class="panel-title"><i class="fa fa-magic fa-lg"></i><span class="icon-label">Submit your proposal</span></h4>
-  </div>
-</div>
-</a> -->
-
-<!-- key information panel -->
-<div class="panel panel-default">
-  <div class="panel-heading">
-    <h4 class="panel-title"><i class="fa fa-search fa-lg"></i><span class="icon-label"><strong>Key Information</strong></span></h4>
-  </div>
-  <div>
-    <h4>
-      &nbsp;&nbsp;
-      <i class="fa fa-lg fa-margin exoplanet-icon-transit-borderless"></i>
-      <a href="extended.html">The TESS extended mission</a>
-      <p></p>
-
-      &nbsp;&nbsp;
-      <i class="fa fa-lg fa-margin exoplanet-icon-observatory-borderless"></i>
-      <a href="the-tess-space-telescope.html">Telescope information</a>
-      <p></p>
-
-      &nbsp;&nbsp;
-      <i class="fa fa-lg fa-margin exoplanet-icon-download-borderless"></i>
-      <a href="data-access.html">How to access the data</a>
-      <p></p>
-
-      &nbsp;&nbsp;
-      <i class="fa fa-lg fa-margin exoplanet-icon-planet-confirmed-borderless"></i>
-      <a href="https://heasarc.gsfc.nasa.gov/cgi-bin/tess/webtess/wtv.py">Web TESS target tool</a>
-      <p></p>
-      
-      &nbsp;&nbsp;
-      <i class="fa fa-lg fa-margin exoplanet-icon-calendar-borderless"></i>
-      <a href="sector.html">Observing dates</a>
-      <p></p>
-
-      &nbsp;&nbsp;
-      <i class="fa fa-lg fa-margin exoplanet-icon-book-borderless"></i>
-      <a href="proposing-investigations.html">Proposing science</a>
-      <p></p>
-
-      &nbsp;&nbsp;
-      <i class="fa fa-lg fa-margin exoplanet-icon-light-curve-borderless"></i>
-      <a href="citizenscience.html">Citizen Science</a>
-      <p></p>
-
-      &nbsp;&nbsp;
-      <i class="fa fa-lg fa-margin exoplanet-icon-discussion-borderless"></i>
-      <a href="https://goo.gl/forms/p4ZqiTQSEHjbM6nz2">Volunteer to serve on a review</a>
-      <p></p>
-
-      &nbsp;&nbsp;
-      <i class="fa fa-lg fa-margin exoplanet-icon-plot-borderless"></i>
-      <a href="media.html">Do you a have news-worthy TESS &nbsp;&nbsp;&nbsp;result?</a>
-      <p></p>
-
-      &nbsp;&nbsp;
-      <i class="fa fa-lg fa-margin exoplanet-icon-video-borderless"></i>
-      <a href="gallery.html">Outreach resources</p>
-      <p></a>
-
-      &nbsp;&nbsp;
-      <i class="fa fa-lg fa-margin exoplanet-icon-planet-multi-borderless"></i>
-      <a href="publications.html">Publications</a>
-      <p></p>
-      
-      
-    </h4>
-  </div>
-</div>
-
-<!-- Mailing list subscribe -->
-<div class="panel panel-default">
-  <div class="panel-heading">
-    <h4 class="panel-title"><i class="fa fa-envelope-o fa-lg"></i><span class="icon-label"><strong>Subscribe to our mailing list</strong></span></h4>
-  </div>
-  <div class="panel-body entry-content">
-    <!-- Begin MailChimp Signup Form -->
-    <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
-    <div id="mc_embed_signup">
-    <form action="//nasa.us15.list-manage.com/subscribe/post?u=157ce755ac3a9b51b8ab7373b&amp;id=c62f997f18" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscri\
-be-form" class="validate" target="_blank" novalidate>
-        <div id="mc_embed_signup_scroll">
-    <div class="mc-field-group">
-      <label for="mce-EMAIL">Email address </label>
-      <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-    </div>
-      <div id="mce-responses" class="clear">
-        <div class="response" id="mce-error-response" style="display:none"></div>
-        <div class="response" id="mce-success-response" style="display:none"></div>
-      </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-        <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_157ce755ac3a9b51b8ab7373b_c62f997f18" tabindex="-1" value=""></div>
-        <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+      <!-- submit proposal -->
+      <a
+        href="https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bF595238E-19D1-C0D6-D9AF-805702BC3D59%7d&path=&method=init">
+        <div class="panel panel-primary">
+          <div class="panel-heading">
+            <h4 class="panel-title"><i class="fa fa-magic fa-lg"></i><span class="icon-label">Cycle 6 Proposal
+                Information</span></h4>
+          </div>
         </div>
-    </form>
-   </div>
-    <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Arr\
-ay(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict\
-(true);</script>
-    <!--End mc_embed_signup-->
-  </div>
-</div>
+      </a>
+
+      <!-- key information panel -->
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title"><i class="fa fa-search fa-lg"></i><span class="icon-label"><strong>Key
+                Information</strong></span></h4>
+        </div>
+        <div>
+          <h4>
+            &nbsp;&nbsp;
+            <i class="fa fa-lg fa-margin exoplanet-icon-transit-borderless"></i>
+            <a href="extended.html">The TESS extended mission</a>
+            <p></p>
+
+            &nbsp;&nbsp;
+            <i class="fa fa-lg fa-margin exoplanet-icon-observatory-borderless"></i>
+            <a href="the-tess-space-telescope.html">Telescope information</a>
+            <p></p>
+
+            &nbsp;&nbsp;
+            <i class="fa fa-lg fa-margin exoplanet-icon-download-borderless"></i>
+            <a href="data-access.html">How to access the data</a>
+            <p></p>
+
+            &nbsp;&nbsp;
+            <i class="fa fa-lg fa-margin exoplanet-icon-planet-confirmed-borderless"></i>
+            <a href="https://heasarc.gsfc.nasa.gov/cgi-bin/tess/webtess/wtv.py">Web TESS target tool</a>
+            <p></p>
+
+            &nbsp;&nbsp;
+            <i class="fa fa-lg fa-margin exoplanet-icon-calendar-borderless"></i>
+            <a href="sector.html">Observing dates</a>
+            <p></p>
+
+            &nbsp;&nbsp;
+            <i class="fa fa-lg fa-margin exoplanet-icon-book-borderless"></i>
+            <a href="proposing-investigations.html">Proposing science</a>
+            <p></p>
+
+            &nbsp;&nbsp;
+            <i class="fa fa-lg fa-margin exoplanet-icon-light-curve-borderless"></i>
+            <a href="citizenscience.html">Citizen Science</a>
+            <p></p>
+
+            &nbsp;&nbsp;
+            <i class="fa fa-lg fa-margin exoplanet-icon-discussion-borderless"></i>
+            <a href="https://goo.gl/forms/p4ZqiTQSEHjbM6nz2">Volunteer to serve on a review</a>
+            <p></p>
+
+            &nbsp;&nbsp;
+            <i class="fa fa-lg fa-margin exoplanet-icon-plot-borderless"></i>
+            <a href="media.html">Do you a have news-worthy TESS &nbsp;&nbsp;&nbsp;result?</a>
+            <p></p>
+
+            &nbsp;&nbsp;
+            <i class="fa fa-lg fa-margin exoplanet-icon-video-borderless"></i>
+            <a href="gallery.html">Outreach resources</p>
+              <p>
+            </a>
+
+            &nbsp;&nbsp;
+            <i class="fa fa-lg fa-margin exoplanet-icon-planet-multi-borderless"></i>
+            <a href="publications.html">Publications</a>
+            <p></p>
 
 
-<!-- Important dates panel -->
-<div class="panel panel-default">
-  <div class="panel-heading">
-    <h4 class="panel-title"><i class="fa fa-calendar fa-lg"></i><span class="icon-label"><strong>Important dates</strong></span></h4>
-  </div>
-  <div class="panel-body">
-    <ul class="list-group">
-      {% for date, name, link in IMPORTANT_DATES %}
-      <li class="list-group-item">
-          {{ date }}<br>
-          <a href="{{ link }}">
-              {{ name }}
-          </a>
-      </li>
-      {% endfor %}
-    </ul>
-  </div>
-</div>
+          </h4>
+        </div>
+      </div>
 
-<!-- Upcoming Meetings panel -->
-<div class="panel panel-default">
-  <div class="panel-heading">
-    <h4 class="panel-title"><i class="fa fa-group fa-lg"></i><span class="icon-label"><strong>Upcoming meetings</strong></span></h4>
-  </div>
-  <div class="panel-body">
-    <ul class="list-group">
-      {% for date, name, link in MEETINGS %}
-      <li class="list-group-item">
-	  {{ date }}<br>
-          <a href="{{ link }}">
-              {{ name }}
-          </a>
-      </li>
-      {% endfor %}
+      <!-- Mailing list subscribe -->
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title"><i class="fa fa-envelope-o fa-lg"></i><span class="icon-label"><strong>Subscribe to
+                our mailing list</strong></span></h4>
+        </div>
+        <div class="panel-body entry-content">
+          <!-- Begin MailChimp Signup Form -->
+          <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+          <div id="mc_embed_signup">
+            <form action="//nasa.us15.list-manage.com/subscribe/post?u=157ce755ac3a9b51b8ab7373b&amp;id=c62f997f18"
+              method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscri\
+be-form" class="validate" target="_blank" novalidate>
+              <div id="mc_embed_signup_scroll">
+                <div class="mc-field-group">
+                  <label for="mce-EMAIL">Email address </label>
+                  <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+                </div>
+                <div id="mce-responses" class="clear">
+                  <div class="response" id="mce-error-response" style="display:none"></div>
+                  <div class="response" id="mce-success-response" style="display:none"></div>
+                </div>
+                <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text"
+                    name="b_157ce755ac3a9b51b8ab7373b_c62f997f18" tabindex="-1" value=""></div>
+                <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe"
+                    class="button"></div>
+              </div>
+            </form>
+          </div>
+          <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
+          <script type='text/javascript'>(function ($) {
+              window.fnames = new Arr\
+              ay(); window.ftypes = new Array(); fnames[0] = 'EMAIL'; ftypes[0] = 'email'; fnames[1] = 'FNAME'; ftypes[1] = 'text'; fnames[2] = 'LNAME'; ftypes[2] = 'text';
+            }(jQuery)); var $mcj = jQuery.noConflict\
+            (true);</script>
+          <!--End mc_embed_signup-->
+        </div>
+      </div>
 
-      <li class="list-group-item">
-        <a href="conferences.html">View past meetings &raquo;</a>
-      </li>
-    </ul>
-  </div>
-</div>
+
+      <!-- Important dates panel -->
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title"><i class="fa fa-calendar fa-lg"></i><span class="icon-label"><strong>Important
+                dates</strong></span></h4>
+        </div>
+        <div class="panel-body">
+          <ul class="list-group">
+            {% for date, name, link in IMPORTANT_DATES %}
+            <li class="list-group-item">
+              {{ date }}<br>
+              <a href="{{ link }}">
+                {{ name }}
+              </a>
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+
+      <!-- Upcoming Meetings panel -->
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title"><i class="fa fa-group fa-lg"></i><span class="icon-label"><strong>Upcoming
+                meetings</strong></span></h4>
+        </div>
+        <div class="panel-body">
+          <ul class="list-group">
+            {% for date, name, link in MEETINGS %}
+            <li class="list-group-item">
+              {{ date }}<br>
+              <a href="{{ link }}">
+                {{ name }}
+              </a>
+            </li>
+            {% endfor %}
+
+            <li class="list-group-item">
+              <a href="conferences.html">View past meetings &raquo;</a>
+            </li>
+          </ul>
+        </div>
+      </div>
 
 
-<!-- Twitter panel -->
-<div>
-  <!-- Code provided by Twitter: -->  
-  <a class="twitter-timeline" data-width="360" data-height="400" href="https://twitter.com/tesshelp">Tweets by us</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
+      <!-- Twitter panel -->
+      <div>
+        <!-- Code provided by Twitter: -->
+        <a class="twitter-timeline" data-width="360" data-height="400" href="https://twitter.com/tesshelp">Tweets by
+          us</a>
+        <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+      </div>
 
-<!-- Dashboard -->
-<!-- <div class="panel panel-default">
+      <!-- Dashboard -->
+      <!-- <div class="panel panel-default">
   <div class="panel-heading">
     <h4 class="panel-title"><i class="fa fa-dashboard fa-lg"></i><span class="icon-label">Science dashboard</span></h4>
   </div>
@@ -228,14 +247,14 @@ ay(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]=
       <li class="list-group-item">
         <a href="/dashboard">View more stats &raquo;</a>
       </li> -->
-<!--
+      <!--
     </ul>
   </div>
 </div> -->
 
 
-<!-- Special-purpose panel -->
-<!--
+      <!-- Special-purpose panel -->
+      <!--
 <div class="panel panel-default">
   <div class="panel-heading">
     <h4 class="panel-title"><i class="fa fa-group fa-lg"></i><span class="icon-label">Upcoming conference</span></h4>
@@ -248,9 +267,9 @@ ay(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]=
 -->
 
 
-</div>
+    </div>
 
-</div>
+  </div>
 
 
 </div>

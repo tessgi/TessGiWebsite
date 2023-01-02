@@ -3,10 +3,8 @@
 Crafted with ♥ by Geert Barentsen, Thomas Barclay & Knicole colon at NASA Ames
 in August 2015, using pelican-bootstrap and flatly.
 -->
-<html lang="{% block html_lang %}{{ DEFAULT_LANG }}{% endblock %}"
-      {% if USE_OPEN_GRAPH %}
-      xmlns:og="http://ogp.me/ns#"
-      xmlns:fb="https://www.facebook.com/2008/fbml"{% endif %}>
+<html lang="{% block html_lang %}{{ DEFAULT_LANG }}{% endblock %}" {% if USE_OPEN_GRAPH %} xmlns:og="http://ogp.me/ns#"
+    xmlns:fb="https://www.facebook.com/2008/fbml" {% endif %}>
 
 <head>
     <title>{% block title %}{{ SITENAME }} {{ BANNER_SUBTITLE }}{% endblock %}</title>
@@ -30,17 +28,19 @@ in August 2015, using pelican-bootstrap and flatly.
     <meta name="content-owner" content="Thomas.Barclay">
     <meta name="webmaster" content="Thomas.Barclay">
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:description" content="Transiting Exoplanet Survey Satellite is a NASA Mission to Study Stars, Planets and Galaxies." />
+    <meta name="twitter:description"
+        content="Transiting Exoplanet Survey Satellite is a NASA Mission to Study Stars, Planets and Galaxies." />
     <meta name="twitter:title" content="NASA - TESS Science Support Center" />
     <meta name="twitter:site" content="@NASA_TESS" />
     <meta name="twitter:creator" content="@NASA_TESS" />
     <meta name="twitter:image" content="https://heasarc.gsfc.nasa.gov/docs/tess/images/logo-for-twitter.jpeg" />
 
     {% if 'liquid_tags.notebook' in PLUGINS %}
-        {% include 'includes/liquid_tags_nb_header.html' %}
+    {% include 'includes/liquid_tags_nb_header.html' %}
     {% endif %}
 
-    {# Favicons are a touchy subject. For reasoning for the following code, see: http://stackoverflow.com/a/23851464/872397 #}
+    {# Favicons are a touchy subject. For reasoning for the following code, see:
+    http://stackoverflow.com/a/23851464/872397 #}
     {% if FAVICON %}
     <link href="{{ SITEURL }}/{{ FAVICON }}" rel="icon">
     {% endif %}
@@ -54,29 +54,28 @@ in August 2015, using pelican-bootstrap and flatly.
     {% block canonical_rel %}{% endblock %}
 
     {% block meta %}
-        <meta name="author" content="{{ AUTHOR }}" />
+    <meta name="author" content="{{ AUTHOR }}" />
     {% endblock %}
 
     {# Open Graph tags #}
     {% if USE_OPEN_GRAPH is not defined %}
-        {% set USE_OPEN_GRAPH = True %}
+    {% set USE_OPEN_GRAPH = True %}
     {% endif %}
     {% if USE_OPEN_GRAPH %}
     {% block opengraph %}
     <!-- Open Graph tags -->
-        {% if OPEN_GRAPH_FB_APP_ID %}
-            <meta property="fb:app_id" content="{{ OPEN_GRAPH_FB_APP_ID }}"/>
-        {% endif %}
-        <meta property="og:locale" content="en_US" />
-        <meta property="og:site_name" content="{{ SITENAME }}" />
-        <meta property="og:type" content="website"/>
-        <meta property="og:title" content="{{ SITENAME }}"/>
-        <meta property="og:url" content="{{ SITEURL }}"/>
-        <meta property="og:description" content="Resources and Information for Users of TESS Data."/>
-        {% if OPEN_GRAPH_IMAGE %}
-            <meta property="og:image"
-                  content="{{ SITEURL }}/{{ OPEN_GRAPH_IMAGE }}"/>
-        {% endif %}
+    {% if OPEN_GRAPH_FB_APP_ID %}
+    <meta property="fb:app_id" content="{{ OPEN_GRAPH_FB_APP_ID }}" />
+    {% endif %}
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:site_name" content="{{ SITENAME }}" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="{{ SITENAME }}" />
+    <meta property="og:url" content="{{ SITEURL }}" />
+    <meta property="og:description" content="Resources and Information for Users of TESS Data." />
+    {% if OPEN_GRAPH_IMAGE %}
+    <meta property="og:image" content="{{ SITEURL }}/{{ OPEN_GRAPH_IMAGE }}" />
+    {% endif %}
     {% endblock %}
     {% endif %}
 
@@ -92,15 +91,15 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <!-- Bootstrap -->
     {% if BOOTSTRAP_THEME %}
-        <link rel="stylesheet" href="{{ SITEURL }}/theme/css/bootstrap.{{ BOOTSTRAP_THEME }}.min.css" type="text/css"/>
+    <link rel="stylesheet" href="{{ SITEURL }}/theme/css/bootstrap.{{ BOOTSTRAP_THEME }}.min.css" type="text/css" />
     {% else %}
-        <link rel="stylesheet" href="{{ SITEURL }}/theme/css/bootstrap.min.css" type="text/css"/>
+    <link rel="stylesheet" href="{{ SITEURL }}/theme/css/bootstrap.min.css" type="text/css" />
     {% endif %}
     <link href="{{ SITEURL }}/theme/css/font-awesome.min.css" rel="stylesheet">
 
     <link href="{{ SITEURL }}/theme/css/exoplanet_archive_icons.css" rel="stylesheet">
     <link href="{{ SITEURL }}/theme/css/mission_icons.css" rel="stylesheet">
-<!--     <link href="{{ SITEURL }}/theme/css/photobanner.css" rel="stylesheet">
+    <!--     <link href="{{ SITEURL }}/theme/css/photobanner.css" rel="stylesheet">
     <link href="{{ SITEURL }}/theme/css/slide-container.css" rel="stylesheet">
     <link href="{{ SITEURL }}/theme/css/slide-transition.css" rel="stylesheet">
     <link href="{{ SITEURL }}/theme/css/slide-transition2.css" rel="stylesheet">  -->
@@ -110,163 +109,179 @@ in August 2015, using pelican-bootstrap and flatly.
     <link href="{{ SITEURL}}/theme/tipuesearch/tipuesearch.css" rel="stylesheet">
     {% endif %}
     {% if DOCUTIL_CSS %}
-        <link href="{{ SITEURL }}/theme/css/html4css1.css" rel="stylesheet">
+    <link href="{{ SITEURL }}/theme/css/html4css1.css" rel="stylesheet">
     {% endif %}
     {% if TYPOGRIFY %}
-        <link href="{{ SITEURL }}/theme/css/typogrify.css" rel="stylesheet">
+    <link href="{{ SITEURL }}/theme/css/typogrify.css" rel="stylesheet">
     {% endif %}
-    <link rel="stylesheet" href="{{ SITEURL }}/theme/css/style.css" type="text/css"/>
+    <link rel="stylesheet" href="{{ SITEURL }}/theme/css/style.css" type="text/css" />
     {% if CUSTOM_CSS %}
-        <link href="{{ SITEURL }}/{{ CUSTOM_CSS }}" rel="stylesheet">
+    <link href="{{ SITEURL }}/{{ CUSTOM_CSS }}" rel="stylesheet">
     {% endif %}
     {% if SHARIFF %}
-        <link href="{{ SITEURL }}/theme/css/shariff/shariff.min.css" rel="stylesheet">
+    <link href="{{ SITEURL }}/theme/css/shariff/shariff.min.css" rel="stylesheet">
     {% endif %}
 
     {% if FEED_ALL_ATOM %}
-    <link href="{{ SITEURL }}/{{ FEED_ALL_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} ATOM Feed"/>
+    <link href="{{ SITEURL }}/{{ FEED_ALL_ATOM }}" type="application/atom+xml" rel="alternate"
+        title="{{ SITENAME }} ATOM Feed" />
     {% endif %}
     {% if FEED_ALL_RSS %}
-    <link href="{{ SITEURL }}/{{ FEED_ALL_RSS }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} RSS Feed"/>
+    <link href="{{ SITEURL }}/{{ FEED_ALL_RSS }}" type="application/rss+xml" rel="alternate"
+        title="{{ SITENAME }} RSS Feed" />
     {% endif %}
 
 </head>
+
 <body>
 
-<!-- Print a warning message that this is not the official site -->
-{% if DEVMODE %}
-<div class="container container-wide" style="background-color: #d35400; color: white; padding: 1.5em; font-weight: bold;">
-  <div class="container">
-   <i class="fa fa-warning fa-lg fa-margin"></i>
-    This is the development version of the TESS Science Support Center website.
-    For the live website, visit <a href="https://heasarc.gsfc.nasa.gov/docs/tess/">https://heasarc.gsfc.nasa.gov/docs/tess</a>
-  </div>
-</div>
-{% endif %}
-
-<div class="navbar {% if BOOTSTRAP_NAVBAR_INVERSE %}navbar-inverse{% else %}navbar-default{% endif %} navbar-fixed-top" role="navigation">
-
-  <div class="container{% if BOOTSTRAP_FLUID %}-fluid{% endif %}">
-        <div class="navbar-header">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-            <a href="{{ SITEURL }}/" class="navbar-brand">
-                {% if SITELOGO %}<img src="{{ SITEURL }}/{{ SITELOGO }}" width="{{ SITELOGO_SIZE }}"/> {% endif %}
-                {% if not HIDE_SITENAME %}{{ SITENAME }}{% endif %}
-            </a>
+    <!-- Print a warning message that this is not the official site -->
+    {% if DEVMODE %}
+    <div class="container container-wide"
+        style="background-color: #d35400; color: white; padding: 1.5em; font-weight: bold;">
+        <div class="container">
+            <i class="fa fa-warning fa-lg fa-margin"></i>
+            This is the development version of the TESS Science Support Center website.
+            For the live website, visit <a
+                href="https://heasarc.gsfc.nasa.gov/docs/tess/">https://heasarc.gsfc.nasa.gov/docs/tess</a>
         </div>
-        <div class="collapse navbar-collapse navbar-ex1-collapse">
-            <ul class="nav navbar-nav navbar-nav">
-                {% for title, link in MENUITEMS %}
+    </div>
+    {% endif %}
+
+    {% if PROPOSALBANNER %}
+    <div class="container container-wide" style="background-color: #4caf50; color: white; padding: 1.1em;">
+        <div class="container">
+            <i class="fa fa-info-circle fa-lg fa-margin"></i>
+            {{ PROPOSALMESSAGE }}
+        </div>
+    </div>
+    {% endif %}
+
+    <div class="navbar {% if BOOTSTRAP_NAVBAR_INVERSE %}navbar-inverse{% else %}navbar-default{% endif %} navbar-fixed-top"
+        role="navigation">
+
+        <div class="container{% if BOOTSTRAP_FLUID %}-fluid{% endif %}">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a href="{{ SITEURL }}/" class="navbar-brand">
+                    {% if SITELOGO %}<img src="{{ SITEURL }}/{{ SITELOGO }}" width="{{ SITELOGO_SIZE }}" /> {% endif %}
+                    {% if not HIDE_SITENAME %}{{ SITENAME }}{% endif %}
+                </a>
+            </div>
+            <div class="collapse navbar-collapse navbar-ex1-collapse">
+                <ul class="nav navbar-nav navbar-nav">
+                    {% for title, link in MENUITEMS %}
                     {% if link is string %}
-                        {% if "http" in link%}
-                            <li><a href="{{ link }}">{{ title }}</a></li>
-                        {% else %}
-                            <li><a href="{{ SITEURL }}/{{ link }}">{{ title }}</a></li>
-                        {% endif %}
+                    {% if "http" in link%}
+                    <li><a href="{{ link }}">{{ title }}</a></li>
                     {% else %}
-                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">{{ title }} <b class="caret"></b></a>
-                            <ul class="dropdown-menu">
-                                {% for title, target in link %}
-                                <li><a href="{{ SITEURL }}/{{ target }}">{{ title }}</a></li>
-                                {% endfor %}
-                            </ul>
-                        </li>
+                    <li><a href="{{ SITEURL }}/{{ link }}">{{ title }}</a></li>
                     {% endif %}
-                {% endfor %}
-                {% if DISPLAY_PAGES_ON_MENU %}
+                    {% else %}
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">{{ title }} <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            {% for title, target in link %}
+                            <li><a href="{{ SITEURL }}/{{ target }}">{{ title }}</a></li>
+                            {% endfor %}
+                        </ul>
+                    </li>
+                    {% endif %}
+                    {% endfor %}
+                    {% if DISPLAY_PAGES_ON_MENU %}
                     {% for p in PAGES %}
-                         <li{% if p == page %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ p.url }}">
-                             {{ p.menulabel|default(p.title) }}
-                          </a></li>
-                      {% endfor %}
-                {% endif %}
-                {% if DISPLAY_CATEGORIES_ON_MENU %}
-                    {% for cat, null in categories %}
-                        <li {% if cat == category %}class="active"{% endif %}>
+                    <li{% if p==page %} class="active" {% endif %}><a href="{{ SITEURL }}/{{ p.url }}">
+                            {{ p.menulabel|default(p.title) }}
+                        </a></li>
+                        {% endfor %}
+                        {% endif %}
+                        {% if DISPLAY_CATEGORIES_ON_MENU %}
+                        {% for cat, null in categories %}
+                        <li {% if cat==category %}class="active" {% endif %}>
                             <a href="{{ SITEURL }}/{{ cat.url }}">{{ cat | capitalize }}</a>
                         </li>
-                    {% endfor %}
+                        {% endfor %}
+                        {% endif %}
+                </ul>
+
+                {% if RELATEDSITES %}
+                <ul class="nav navbar-nav">
+                    <li>
+                        <a href="{{ SITEURL }}/helpdesk.html"><i class="fa fa-info-circle fa-lg"></i> Helpdesk</a>
+                    </li>
+                </ul>
                 {% endif %}
-            </ul>
 
-            {% if RELATEDSITES %}
-            <ul class="nav navbar-nav">
-                <li>
-                    <a href="{{ SITEURL }}/helpdesk.html"><i class="fa fa-info-circle fa-lg"></i> Helpdesk</a>
-                </li>
-            </ul>
-            {% endif %}
-
+            </div>
+            <!-- /.navbar-collapse -->
         </div>
-        <!-- /.navbar-collapse -->
-    </div>
-</div> <!-- /.navbar -->
-<!-- Banner -->
-{% if BANNER and BANNER_ALL_PAGES %}
+    </div> <!-- /.navbar -->
+    <!-- Banner -->
+    {% if BANNER and BANNER_ALL_PAGES %}
     {% include 'includes/banner.html' %}
-{% elif BANNER and not BANNER_ALL_PAGES %}
+    {% elif BANNER and not BANNER_ALL_PAGES %}
     {% block banner %}{% endblock %}
-{% endif %}
-<!-- End Banner -->
+    {% endif %}
+    <!-- End Banner -->
 
-{% block core %}
-<div class="container{% if BOOTSTRAP_FLUID %}-fluid{% endif %}">
-    <div class="row">
-        {% if not HIDE_SIDEBAR or ABOUT_ME %}
-        <div class="col-sm-9">
-        {% else %}
-        <div class="col-lg-12">
-        {% endif %}
-        {% block breadcrumbs %}
-        {% endblock %}
+    {% block core %}
+    <div class="container{% if BOOTSTRAP_FLUID %}-fluid{% endif %}">
+        <div class="row">
+            {% if not HIDE_SIDEBAR or ABOUT_ME %}
+            <div class="col-sm-9">
+                {% else %}
+                <div class="col-lg-12">
+                    {% endif %}
+                    {% block breadcrumbs %}
+                    {% endblock %}
 
-        {% block content %}
-        {% endblock %}
+                    {% block content %}
+                    {% endblock %}
+                </div>
+                {% if not HIDE_SIDEBAR or ABOUT_ME %}
+                <div class="col-sm-3" id="sidebar">
+                    <aside>
+                        {% if ABOUT_ME %}
+                        {% include 'includes/aboutme.html' %}
+                        {% endif %}
+                        {% if not HIDE_SIDEBAR %}
+                        {% include 'includes/sidebar.html' %}
+                        {% endif %}
+                    </aside>
+                </div>
+                {% endif %}
+            </div>
         </div>
-        {% if not HIDE_SIDEBAR or ABOUT_ME %}
-        <div class="col-sm-3" id="sidebar">
-            <aside>
-            {% if ABOUT_ME %}
-                {% include 'includes/aboutme.html' %}
-            {% endif %}
-            {% if not HIDE_SIDEBAR %}
-                {% include 'includes/sidebar.html' %}
-            {% endif %}
-            </aside>
-        </div>
+        {% endblock core %}
+
+        {% include 'includes/footer.html' %}
+
+
+        <script src="{{ SITEURL }}/theme/js/jquery.min.js"></script>
+
+        <!-- Include all compiled plugins (below), or include individual files as needed -->
+        <script src="{{ SITEURL }}/theme/js/bootstrap.min.js"></script>
+
+        <!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
+        <script src="{{ SITEURL }}/theme/js/respond.min.js"></script>
+
+        {% if BANNER %}
+        <script src="{{ SITEURL }}/theme/js/bodypadding.js"></script>
         {% endif %}
-    </div>
-</div>
-{% endblock core %}
+        {% include 'includes/github-js.html' %}
+        {% include 'includes/disqus_script.html' %}
+        {% include 'includes/ga.html' %}
+        {% include 'includes/analytics.html' %}
+        {% include 'includes/piwik.html' %}
 
-{% include 'includes/footer.html' %}
+        <script src="{{ SITEURL }}/theme/js/drn.js"></script>
 
-
-<script src="{{ SITEURL }}/theme/js/jquery.min.js"></script>
-
-<!-- Include all compiled plugins (below), or include individual files as needed -->
-<script src="{{ SITEURL }}/theme/js/bootstrap.min.js"></script>
-
-<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
-<script src="{{ SITEURL }}/theme/js/respond.min.js"></script>
-
-{% if BANNER %}
-    <script src="{{ SITEURL }}/theme/js/bodypadding.js"></script>
-{% endif %}
-{% include 'includes/github-js.html' %}
-{% include 'includes/disqus_script.html' %}
-{% include 'includes/ga.html' %}
-{% include 'includes/analytics.html' %}
-{% include 'includes/piwik.html' %}
-
-<script src="{{ SITEURL }}/theme/js/drn.js"></script>
-
-{% block scripts %}{% endblock %}
+        {% block scripts %}{% endblock %}
 </body>
+
 </html>
