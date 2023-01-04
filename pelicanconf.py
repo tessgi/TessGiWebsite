@@ -195,3 +195,7 @@ BOOTSTRAP_NAVBAR_INVERSE = True
 
 
 DATE_MODIFIED = datetime.datetime.now().strftime('%Y-%m-%d')
+
+PROPOSALBANNER = True
+PROPOSALMESSAGE = """The <a href="https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bF595238E-19D1-C0D6-D9AF-805702BC3D59%7d&path=&method=init"><b>TESS Cycle 6 Call For Proposals</b></a> is now Live! To read the Call for Proposals please <a
+                href="https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=860780/solicitationId=%7BF595238E-19D1-C0D6-D9AF-805702BC3D59%7D/viewSolicitationDocument=1/D.10%20TESS%20Cycle_6_Amend79.pdf">click here</a>. Cycle 6 Proposals are due <b>	Apr 14, 2023</b>."""
