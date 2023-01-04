@@ -5,32 +5,33 @@ Save_as: proposing-investigations.html
 
 The TESS Guest Investigator (GI) program is intended to enable the community to participate in science investigations using TESS. The program enables teams to propose the collection of new 2-minute and 20-second cadence targets and provides funding to selected US investigators to analyze 2-minute and 20-second cadence and full-frame image (FFI) data, which now has a cadence of 200 seconds. The GI program also provides funding for US investigators to collect ground-based data that supports TESS science. All proposals are managed by the [GI office](helpdesk.html).
 
-The next opportunity is TESS Cycle 5, which begins observations in September 2022 and ends in September 2023, covering observing sectors 56 - 69. TESS Cycle 5 proposals are solicited for targets in both the northern and southern Ecliptic Hemisphere fields. 
+The next opportunity is TESS Cycle 6, which begins observations in eptember
+2023 and ends in October 2024, covering observing sectors 70 - 83. TESS Cycle 6 proposals are solicited for targets in the Northern Ecliptic Hemisphere and in fields along the ecliptic plane. 
 
 There is no exclusive-use data rights to observations collected by TESS. All data is made available through the [MAST public archive](http://archive.stsci.edu/tess/summary.html) once data processing and validation is complete.
 
-Important information and useful tools for Cycle 5 proposals are highlighted in the table below.
+Important information and useful tools for Cycle 6 proposals are highlighted in the table below.
 
 <table class="table table-striped table-hover" style="max-width:55em;">
 
   <tr>
     <td style="width: 15em;">
-     The  Cycle 5 solicitation is now available on <a href="https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=807371/solicitationId=%7B5032D2F8-F5DF-692A-8E7C-15A801B08DE1%7D/viewSolicitationDocument=1/D.10%20TESS%20Cycle_5_Amend49.pdf">NSPIRES</a>.</td>
+     The  Cycle 6 solicitation is now available on <a href="https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=860780/solicitationId=%7BF595238E-19D1-C0D6-D9AF-805702BC3D59%7D/viewSolicitationDocument=1/D.10%20TESS%20Cycle_6_Amend79.pdf">NSPIRES</a>.</td>
   </tr>
 
   <tr>
     <td style="width: 15em;">
-     The Cycle 5 proposal deadline is on March 18th, 2022 at 4.30pm EDT. Proposals must be submitted through the  <a href="https://heasarc.gsfc.nasa.gov/ark/rps/">ARK/RPS site</a>.</td>
+     The Cycle 6 proposal deadline is on April 14, 2023 at 4.30pm EDT. Proposals must be submitted through the  <a href="https://heasarc.gsfc.nasa.gov/ark/rps/">ARK/RPS site</a>.</td>
   </tr>
 
   <tr>
     <td style="width: 15em;">
-     As in Cycle 4, all Phase-1 proposals submitted to the TESS GI program for Cycle 5 will be evaluated following a dual-anonymous peer review process.</td>
+     As in Cycle 5, all Phase-1 proposals submitted to the TESS GI program for Cycle 6 will be evaluated following a dual-anonymous peer review process.</td>
   </tr>
 
   <tr>
     <td style="width: 15em;">
-     Cycle 5 <a href="proposal-templates.html">proposal templates</a> are available. Their use is optional.</td>
+     Cycle 6 <a href="proposal-templates.html">proposal templates</a> are available. Their use is optional.</td>
   </tr>
 
   <tr>
@@ -52,21 +53,21 @@ Important information and useful tools for Cycle 5 proposals are highlighted in 
 
 * More than 8,000 target slots are available in each sector for 2-min cadence data per sector, facilitating very large GI programs.
 
-* Full-frame images are also available,  now with a cadence of 200 seconds.
+* Full-frame images are also available, with a cadence of 200 seconds.
 
 ##Proposal types
 
-There are four categories of TESS GI proposals for Cycle 5; investigators are free to select the category that best reflects their scope of their proposed work.
+There are four categories of TESS GI proposals for Cycle 6; investigators are free to select the category that best reflects their scope of their proposed work.
 
 * Mini proposals - These programs require minimal resources, up to 50 20-second cadence targets and 1,000 2-minute cadence targets. Proposals in this category are not eligible for funding.
 * Small proposals - Proposals of limited scope.
 * Large proposals - Proposals of wide-ranging scope and science yield. Large proposals must deliver a clear benefit for the broader scientific community.
-* Key project proposals - Large multi-year programs with a very broad scope. These are available in Cycle 5 and have a maximum duration of 36 months. 
+* Key project proposals - Large multi-year programs with a very broad scope. These are available in Cycle 6 and have a maximum duration of 24 months. 
 
 Mini proposals are limited to no more than two pages for the science/technical section. Small proposals are restricted to four pages for the science/technical section. Large and Key-project proposals should be a total of six pages long, where the additional space to the science/technical section is used to describe the benefits that the program will provide to the scientific community. References are not included in the page limits.
 
 ### Ground-based observation focused projects
-Proposals that support the acquisition and analysis of scientific data from ground-based telescopes are solicited. Ground-based observing focused proposals may support the analysis and/or interpretation of TESS scientific data collected in Cycle 5 or TESS data already collected in Cycles 1-4.
+Proposals that support the acquisition and analysis of scientific data from ground-based telescopes are solicited. Ground-based observing focused proposals may support the analysis and/or interpretation of TESS scientific data collected in Cycle 6 or TESS data already collected in Cycles 1-5.
 
 Ground-based focused proposals should be identified in ARK/RPS as such and will be reviewed in a panel separately from other proposals submitted to the TESS GI program. All size programs are encouraged, but ground-based observations are not permitted in proposals submitted to the Mini category.
 
@@ -79,7 +80,7 @@ Proposals for joint HST observations should be submitted through the HST GO prog
 Proposals for joint Fermi observations may be submitted through the Fermi GI program, and the TESS targets will be recommended by that review. Funds for selected programs will be awarded from the Fermi project for joint investigations in this case (and no funds will be awarded from the TESS project). Alternatively, proposals that plan to make use of Fermi data may be submitted to the TESS GI program. TESS GI funding is available to successful U.S.-based investigators who submit a joint TESS-Fermi proposal. If accepted as a TESS proposal no funds will be awarded from Fermi project. 
 
 The TESS GI program can also award Swift observations through a joint program with the Swift mission. A minimum of 100 ks Swift time will be available through this program. 
-In addition a new joint proposal category has been established with the Neutron Star Interior Composition ExploreR (NICER). Up to 300 ksec of NICER time will be available in Cycle 5 through the TESS GI Program. 
+In addition a new joint proposal category has been established with the Neutron Star Interior Composition ExploreR (NICER). Up to 300 ksec of NICER time will be available in Cycle 6 through the TESS GI Program. 
 
 Proposals wishing to take advantage of the joint TESS Swift/NICER programs must adhere to the following constraints:
 
@@ -104,7 +105,7 @@ The primary purpose of the TESS Guest Investigator Program is to enhance and max
 
 Proposals may utilize any combination of 2-minute cadence, 20-second cadence, and the full-frame image data. Additionally, proposals that support the acquisition and analysis of scientific data from ground-based telescopes are solicited. All science proposals must be compelling and carefully justified scientifically and technically.
 
-Cycle 5, proposals are subject to a dual-anonymous peer review. The aim of a dual-anonymous peer review is to reduce unconscious bias in the evaluation of the merit of a proposal. 
+Cycle 6 proposals are subject to a dual-anonymous peer review. The aim of a dual-anonymous peer review is to reduce unconscious bias in the evaluation of the merit of a proposal. 
 
 ### Evaluation criteria
 When writing a proposal the user should consider the following,
@@ -119,18 +120,18 @@ When writing a proposal the user should consider the following,
     * Ground-based data collected with TESS GI funding support must be made publicly available in a timely fashion at either the NASA Exoplanet Science  Institute (NExScI) [ExoFOP service](https://exofop.ipac.caltech.edu) or as a [MAST High-Level Science Product](http://archive.stsci.edu/hlsp/)
 * Other data products created with TESS GI funding support should be archived as a MAST High-Level Science Product (http://archive.stsci.edu/hlsp/).
 
-In addition proposals submitted in response to the [Cycle 5 GI call](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=807371/solicitationId=%7B5032D2F8-F5DF-692A-8E7C-15A801B08DE1%7D/viewSolicitationDocument=1/D.10%20TESS%20Cycle_5_Amend49.pdf) will be evaluated with respect to the criteria specified in Section C.2 of the [NASA Guidebook for Proposers](http://www.hq.nasa.gov/office/procurement/nraguidebook/), which are intrinsic merit, relevance to the GI solicitation, and the realism/reasonableness of the proposed work effort and resources. Intrinsic merit includes the following factors:
+In addition proposals submitted in response to the [Cycle 6 GI call](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=860780/solicitationId=%7BF595238E-19D1-C0D6-D9AF-805702BC3D59%7D/viewSolicitationDocument=1/D.10%20TESS%20Cycle_6_Amend79.pdf) will be evaluated with respect to the criteria specified in Section C.2 of the [NASA Guidebook for Proposers](http://www.hq.nasa.gov/office/procurement/nraguidebook/), which are intrinsic merit, relevance to the GI solicitation, and the realism/reasonableness of the proposed work effort and resources. Intrinsic merit includes the following factors:
 
 * The suitability of using the TESS survey and data products for the proposed investigation (not applicable for ground-based observing focused programs, although ground-based programs should make clear the need for ground-based data in order to analyze or interpret TESS data);
 * The suitability of using the TESS survey and data products for the proposed investigation 
-* The degree to which the proposed investigation places demands upon mission resources (this includes justification of the observing cadence requested and the impact on science if a given observing mode is not available during Cycle 5); and
+* The degree to which the proposed investigation places demands upon mission resources (this includes justification of the observing cadence requested and the impact on science if a given observing mode is not available during Cycle 6); and
 * The degree to which the proposed investigation capitalizes on the unique capabilities of TESS.
 
 Proposers must take into account the difference between science that can be achieved exclusively using full-frame image data and science that requires new observations at 2-minute and 20-second cadence. 
 
 Example proposal templates can be found on the [template page](proposal-templates.html).
 
-Investigations focused on the analysis of archival TESS data from Cycles 1, 2, 3 and/or 4, are not compliant with this solicitation and should be submitted to the ROSES-2022 Astrophysics Data Analysis Program (ADAP; D.2) or the Exoplanet Research Program (XRP; E.3).
+Investigations focused on the analysis of archival TESS data from Cycles 1, 2, 3, 4 and/or 5, are not compliant with this solicitation and should be submitted to the ROSES-2022 Astrophysics Data Analysis Program (ADAP; D.2) or the Exoplanet Research Program (XRP; E.3).
 
 
 ## Target selection
@@ -199,13 +200,13 @@ The Phase-1 peer review will be performed in a "dual-anonymous" manner, i.e., no
 
 * Joint Fermi, NICER, or Swift programs must check the appropriate box(es) in the ARK/RPS form prior to submission.
 
-All proposal materials must be submitted electronically by 4:30 p.m. Eastern time on March 18th, 2022 in order to be included in the proposal review for this cycle of the TESS Guest Investigator program. Note that the 4:30 p.m. deadline supersedes the deadline stated in the Guidebook for Proposers and in the ROSES Summary of Solicitation. 
+All proposal materials must be submitted electronically by 4:30 p.m. Eastern time on April 14th, 2023 in order to be included in the proposal review for this cycle of the TESS Guest Investigator program. Note that the 4:30 p.m. deadline supersedes the deadline stated in the Guidebook for Proposers and in the ROSES Summary of Solicitation. 
 
 NASA uses a single, uniform set of instructions for the submission of ROSES proposals. These instructions are given in the [NASA Guidebook for Proposers](http://www.hq.nasa.gov/office/procurement/nraguidebook/). TESS GI Proposers should follow these instructions, except where they are overridden by the instructions given in the ROSES Summary of Solicitation.
 
 ###Instructions for dual-anonymous peer review proposals
 
-Cycle 5 will have a dual-anonymous peer review. Under this system the reviewers do not have knowledge of the proposal teams while they perform their scientific evaluation of the proposal.
+Cycle 6 will have a dual-anonymous peer review. Under this system the reviewers do not have knowledge of the proposal teams while they perform their scientific evaluation of the proposal.
 
 Proposers should consult the [Guidelines for Anonymous Proposals document](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=736703/solicitationId=%7B4B9CAAB3-D398-183A-B1F3-EF963DF415C7%7D/viewSolicitationDocument=1/Guidelines%20for%20Anonymous%20Proposals%20DAPR%20Doc%20Astro%20GO%20Programs.pdf) on the NSPIRES of this program element for instructions on writing proposals appropriate for dual-anonymous peer review. The instructions here and in that document supersede the default instructions given in the NASA Guidebook for Proposers and the ROSES Summary of Solicitation. Proposers will also be required to upload a separate "Expertise and Resources - Not Anonymized" document, which is not anonymized. The "Guidelines for Anonymous Proposals" document contains complete information on how to write this separate document.
 
@@ -224,25 +225,25 @@ NASA understands that dual-anonymous peer review represents a major shift in the
 
 All proposals are peer-reviewed and ranked by a panel of professional volunteers, followed by ratification from NASA Headquarters. The members of the peer-review panel will not be disclosed. The deliberations of the panel will be disclosed to PIs only after ratification by the selecting official. We anticipate that all proposals focused on ground-based observing will be reviewed by a single panel.
 
-As stated above Cycle 5 will be a dual-anonymous peer review. In order to meet the objectives of dual-anonymous peer review, review panels will be instructed to evaluate the anonymized proposals based on their scientific merit, without initially taking into account the proposing team qualifications. As a final check, and only after the scientific evaluation is finalized for all proposals, the panel will be provided with the "Expertise and Resources - Not Anonymized" documents. The panel will validate the qualifications of the team in order to allow the reviewers to assess the team capabilities required to execute a given proposed science investigation.
+As stated above Cycle 6 will be a dual-anonymous peer review. In order to meet the objectives of dual-anonymous peer review, review panels will be instructed to evaluate the anonymized proposals based on their scientific merit, without initially taking into account the proposing team qualifications. As a final check, and only after the scientific evaluation is finalized for all proposals, the panel will be provided with the "Expertise and Resources - Not Anonymized" documents. The panel will validate the qualifications of the team in order to allow the reviewers to assess the team capabilities required to execute a given proposed science investigation.
 
 NASA recognizes and supports the benefits of having diverse and inclusive scientific, engineering, and technology communities and fully expects that such values will be reflected in the composition of all panels and teams including peer review panels (science, engineering, and technology), proposal teams, science definition teams, and mission and instrument teams.
 
 ## Availability of funds
-The total amount of funding for Cycle 5 available to U.S.-based PIs through this solicitation is ~$3M. TESS GI funding is open to all individuals who are identified as Principal Investigators and employed at U.S. institutions. 
+The total amount of funding for Cycle 6 available to U.S.-based PIs through this solicitation is ~$3M. TESS GI funding is open to all individuals who are identified as Principal Investigators and employed at U.S. institutions. 
 
 The dollar amounts assigned to each proposal category are maximum award amounts and are roughly listed below,
 
  * Mini proposals ~ $0, no funding
  * Small proposals ~ $70,000. (per award)
  * Large proposals ~ $250,000 (per award)
- * Key project proposals ~ $250,000 (per year for 3 years)
+ * Key project proposals ~ $250,000 (per year for 2 years)
  
 Note that $500,000 will be available for ground-based focused programs.
  
 Funding for selected programs typically starts upon availability of data to the public archive at [MAST](data-access.html). There is no exclusive use period associated with any TESS data.
 
-The performance period of each award will be 1 year; PIs will be allowed to request a no-cost extension for one additional year as needed. The Cycle 5 GI program will also include unfunded non-U.S.-based investigations of high merit, as determined by peer review. Additional Guest Investigation targets will be drawn from proposals in the Mini category and from proposals that are not selected for funding, if target resources permit. 
+The performance period of each award will be 1 year; PIs will be allowed to request a no-cost extension for one additional year as needed. The Cycle 6 GI program will also include unfunded non-U.S.-based investigations of high merit, as determined by peer review. Additional Guest Investigation targets will be drawn from proposals in the Mini category and from proposals that are not selected for funding, if target resources permit. 
 
 ## Eligibility
 
