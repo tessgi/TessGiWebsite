@@ -1,10 +1,10 @@
 Title: TESS Interactive Data Workshop Materials
-Date: 2023-01-07 08:00
+Date: 2023-01-05 16:00
 Author: Christina Hedges
 
 <center><a href="https://github.com/tessgi/InteractiveWorkshop" class="btn btn-primary btn-md active" role="button" aria-pressed="true">Click Here for Workshop Materials</a></center>
 <br>
-The TESS Interactive Data Workshop is underway at AAS 241! The materials for this workshop are available online for the community at [this GitHub repository](https://github.com/tessgi/InteractiveWorkshop). Materials include talk slides on how to access data and propose for funding, notebooks and science tutorials, and handouts. 
+The TESS Interactive Data Workshop will soon be underway at AAS 241! The materials for this workshop are available online for the community at [this GitHub repository](https://github.com/tessgi/InteractiveWorkshop). Materials include talk slides on how to access data and propose for funding, notebooks and science tutorials, and handouts. 
 
 <br>
 
