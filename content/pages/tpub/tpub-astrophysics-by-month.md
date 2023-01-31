@@ -172,6 +172,106 @@ Southworth, John
 2023, not refereed ([2023arXiv230102531S](http://adsabs.harvard.edu/abs/2023arXiv230102531S))
 <span class="badge">0 citations</span>
 
+34. [A NEED TO REVISE STELLAR OPACITIES FROM ASTEROSEISMOLOGY OF Δ SCUTI STARS](http://adsabs.harvard.edu/abs/2023ApJ...942L..38D)  
+Daszyńska-Daszkiewicz, Jadwiga, Walczak, Przemysław, Pamyatnykh, Alexey, et al.    
+2023, refereed ([2023ApJ...942L..38D](http://adsabs.harvard.edu/abs/2023ApJ...942L..38D))
+<span class="badge">0 citations</span>
+
+35. [A CATALOG OF 59 THOUSAND $\DELTA$ SCUTI STARS AND DOZEN DISCOVERIES OF NEW VARIABLES WITH TESS DATA](http://adsabs.harvard.edu/abs/2023arXiv230108355Z)  
+Zhou, A. -Y.    
+2023, not refereed ([2023arXiv230108355Z](http://adsabs.harvard.edu/abs/2023arXiv230108355Z))
+<span class="badge">0 citations</span>
+
+36. [LINKING ANOMALOUS BEHAVIOUR WITH STELLAR PROPERTIES: AN UNSUPERVISED EXPLORATION OF TESS LIGHT CURVES](http://adsabs.harvard.edu/abs/2023arXiv230110264C)  
+Crake, Dennis A., Martínez-Galarza, Juan Rafael    
+2023, not refereed ([2023arXiv230110264C](http://adsabs.harvard.edu/abs/2023arXiv230110264C))
+<span class="badge">0 citations</span>
+
+37. [A STUDY OF THE RAPID ROTATOR Ζ AQL: DIFFERENTIAL SURFACE ROTATION?](http://adsabs.harvard.edu/abs/2023MNRAS.tmp..177H)  
+Howarth, Ian D., Bailey, Jeremy, Cotton, Daniel V., et al.    
+2023, refereed ([2023MNRAS.tmp..177H](http://adsabs.harvard.edu/abs/2023MNRAS.tmp..177H))
+<span class="badge">0 citations</span>
+
+38. [TIDALLY PERTURBED G-MODE PULSATIONS IN A SAMPLE OF CLOSE ECLIPSING BINARIES](http://adsabs.harvard.edu/abs/2023arXiv230108816V)  
+Van Reeth, T., Johnston, C., Southworth, J., et al.    
+2023, not refereed ([2023arXiv230108816V](http://adsabs.harvard.edu/abs/2023arXiv230108816V))
+<span class="badge">0 citations</span>
+
+39. [MAIA VARIABLES AND OTHER ANOMALIES AMONG PULSATING STARS](http://adsabs.harvard.edu/abs/2023arXiv230109280B)  
+Balona, Luis A    
+2023, not refereed ([2023arXiv230109280B](http://adsabs.harvard.edu/abs/2023arXiv230109280B))
+<span class="badge">0 citations</span>
+
+40. [THE ACTIVE WEAK-LINE T TAURI STAR LKCA 4 OBSERVED WITH SPIROU AND TESS](http://adsabs.harvard.edu/abs/2023MNRAS.tmp..275F)  
+Finociety, B., Donati, J. -F., Grankin, K., et al.    
+2023, refereed ([2023MNRAS.tmp..275F](http://adsabs.harvard.edu/abs/2023MNRAS.tmp..275F))
+<span class="badge">0 citations</span>
+
+41. [DETECTION OF QUASIPERIODIC OSCILLATIONS IN THE BLAZAR S4 0954+658 WITH TESS](http://adsabs.harvard.edu/abs/2023ApJ...943...53K)  
+Kishore, Shubham, Gupta, Alok C., Wiita, Paul J.    
+2023, refereed ([2023ApJ...943...53K](http://adsabs.harvard.edu/abs/2023ApJ...943...53K))
+<span class="badge">0 citations</span>
+
+42. [HIDDEN COMPANIONS DETECTED BY ASTEROSEISMOLOGY. II. A LONG-PERIOD NONECLIPSING BINARY SYSTEM REVEALED BY KEPLER AND TESS](http://adsabs.harvard.edu/abs/2023ApJ...943L...7L)  
+Lyu, Xin, Yang, Ming    
+2023, refereed ([2023ApJ...943L...7L](http://adsabs.harvard.edu/abs/2023ApJ...943L...7L))
+<span class="badge">0 citations</span>
+
+43. [SPOTTEDNESS ACTIVITY OF THE YOUNG STAR HIP 94235 FROM THE MOVING GROUP AB DORADUS](http://adsabs.harvard.edu/abs/2023Ap....tmp...13S)  
+Savanov, I. S.    
+2023, refereed ([2023Ap....tmp...13S](http://adsabs.harvard.edu/abs/2023Ap....tmp...13S))
+<span class="badge">0 citations</span>
+
+44. [THE PHOTOMETRIC PERIODS OF RAPIDLY ROTATING FIELD ULTRA-COOL DWARFS](http://adsabs.harvard.edu/abs/2023MNRAS.tmp..283M)  
+Miles-Páez, Paulo A., Metchev, Stanimir A., George, Benjamin    
+2023, refereed ([2023MNRAS.tmp..283M](http://adsabs.harvard.edu/abs/2023MNRAS.tmp..283M))
+<span class="badge">0 citations</span>
+
+45. [MAGNETIC ACTIVITY AND PARAMETERS OF 43 FLARE STARS IN THE GWAC ARCHIVE](http://adsabs.harvard.edu/abs/2023RAA....23a5016L)  
+Li, Guang-Wei, Wu, Chao, Zhou, Gui-Ping, et al.    
+2023, refereed ([2023RAA....23a5016L](http://adsabs.harvard.edu/abs/2023RAA....23a5016L))
+<span class="badge">0 citations</span>
+
+46. [SDSS J134441.83+204408.3: A HIGHLY ASYNCHRONOUS, SHORT-PERIOD MAGNETIC CATACLYSMIC VARIABLE WITH A 56 MG FIELD STRENGTH](http://adsabs.harvard.edu/abs/2023arXiv230105723L)  
+Littlefield, Colin, Mason, Paul A., Garnavich, Peter, et al.    
+2023, not refereed ([2023arXiv230105723L](http://adsabs.harvard.edu/abs/2023arXiv230105723L))
+<span class="badge">0 citations</span>
+
+47. [PROJECTED SPIN-ORBIT ALIGNMENTS FROM KEPLER ASTEROSEISMOLOGY AND GAIA ASTROMETRY](http://adsabs.harvard.edu/abs/2023arXiv230110308B)  
+Ball, Warrick H., Triaud, Amaury H. M. J., Hatt, Emily, et al.    
+2023, not refereed ([2023arXiv230110308B](http://adsabs.harvard.edu/abs/2023arXiv230110308B))
+<span class="badge">0 citations</span>
+
+48. [TILTED DISCS IN SIX POORLY STUDIED CATACLYSMIC VARIABLES](http://adsabs.harvard.edu/abs/2023MNRAS.tmp..272S)  
+Stefanov, Stefan Y., Stefanov, Atanas K.    
+2023, refereed ([2023MNRAS.tmp..272S](http://adsabs.harvard.edu/abs/2023MNRAS.tmp..272S))
+<span class="badge">0 citations</span>
+
+49. [OPTICAL AND NEAR-INFRARED STELLAR ACTIVITY CHARACTERIZATION OF THE EARLY M DWARF GL~205 WITH SOPHIE AND SPIROU](http://adsabs.harvard.edu/abs/2023arXiv230110614C)  
+Cortes-Zuleta, P., Boisse, I., Klein, B., et al.    
+2023, not refereed ([2023arXiv230110614C](http://adsabs.harvard.edu/abs/2023arXiv230110614C))
+<span class="badge">0 citations</span>
+
+50. [THE EIGHTEENTH DATA RELEASE OF THE SLOAN DIGITAL SKY SURVEYS: TARGETING AND FIRST SPECTRA FROM SDSS-V](http://adsabs.harvard.edu/abs/2023arXiv230107688A)  
+Almeida, Andrés, Anderson, Scott F., Argudo-Fernández, Maria, et al.    
+2023, not refereed ([2023arXiv230107688A](http://adsabs.harvard.edu/abs/2023arXiv230107688A))
+<span class="badge">1 citations</span>
+
+51. [SPECTRUM OF THE SECONDARY COMPONENT AND NEW ORBITAL ELEMENTS OF THE MASSIVE TRIPLE STAR DELTA ORI A](http://adsabs.harvard.edu/abs/2023arXiv230110290O)  
+Oplištilová, A., Mayer, P., Harmanec, P., et al.    
+2023, not refereed ([2023arXiv230110290O](http://adsabs.harvard.edu/abs/2023arXiv230110290O))
+<span class="badge">0 citations</span>
+
+52. [A STUDY OF STELLAR SPINS IN 15 OPEN CLUSTERS](http://adsabs.harvard.edu/abs/2023arXiv230110249H)  
+Healy, Brian F., McCullough, P. R., Schlaufman, Kevin C., et al.    
+2023, not refereed ([2023arXiv230110249H](http://adsabs.harvard.edu/abs/2023arXiv230110249H))
+<span class="badge">0 citations</span>
+
+53. [THE VALUE-ADDED CATALOG OF ASAS-SN ECLIPSING BINARIES II: PROPERTIES OF EXTRA-PHYSICS SYSTEMS](http://adsabs.harvard.edu/abs/2023MNRAS.tmp..122R)  
+Rowan, D. M., Jayasinghe, T., Stanek, K. Z., et al.    
+2023, refereed ([2023MNRAS.tmp..122R](http://adsabs.harvard.edu/abs/2023MNRAS.tmp..122R))
+<span class="badge">1 citations</span>
+
 
 2022-12
 -------

@@ -92,6 +92,86 @@ Kossakowski, D., Kürster, M., Trifonov, T., et al.
 2023, not refereed ([2023arXiv230102477K](http://adsabs.harvard.edu/abs/2023arXiv230102477K))
 <span class="badge">0 citations</span>
 
+18. [CHARACTERIZATION OF A SET OF SMALL PLANETS WITH TESS AND CHEOPS AND AN ANALYSIS OF PHOTOMETRIC PERFORMANCE](http://adsabs.harvard.edu/abs/2023arXiv230108162O)  
+Oddo, Dominic, Dragomir, Diana, Brandeker, Alexis, et al.    
+2023, not refereed ([2023arXiv230108162O](http://adsabs.harvard.edu/abs/2023arXiv230108162O))
+<span class="badge">0 citations</span>
+
+19. [THE BENCHMARK M DWARF ECLIPSING BINARY CM DRACONIS WITH TESS: SPOTS, FLARES AND ULTRA-PRECISE PARAMETERS](http://adsabs.harvard.edu/abs/2023arXiv230110858M)  
+Martin, David V., Sethi, Ritika, Armitage, Tayt, et al.    
+2023, not refereed ([2023arXiv230110858M](http://adsabs.harvard.edu/abs/2023arXiv230110858M))
+<span class="badge">0 citations</span>
+
+20. [VATEST II: STATISTICAL VALIDATION OF 16 EXOPLANETS OF TESS](http://adsabs.harvard.edu/abs/2023arXiv230109865M)  
+Mistry, Priyashkumar, Pathak, Kamlesh, Prasad, Aniket, et al.    
+2023, not refereed ([2023arXiv230109865M](http://adsabs.harvard.edu/abs/2023arXiv230109865M))
+<span class="badge">0 citations</span>
+
+21. [THE UNUSUAL M-DWARF WARM JUPITER TOI-1899~B: REFINEMENT OF ORBITAL AND PLANETARY PARAMETERS](http://adsabs.harvard.edu/abs/2023arXiv230110837L)  
+Lin, Andrea S. J., Libby-Roberts, Jessica E., Alvarado-Montes, Jaime A., et al.    
+2023, not refereed ([2023arXiv230110837L](http://adsabs.harvard.edu/abs/2023arXiv230110837L))
+<span class="badge">0 citations</span>
+
+22. [THE STUDY ON TRANSITING SYSTEMS HAT-P-13, HAT-P-16 AND WASP-32 THROUGH COMBINING GROUND-BASED AND TESS PHOTOMETRY](http://adsabs.harvard.edu/abs/2023MNRAS.tmp..235S)  
+Sun, L., Gu, S., Wang, X., et al.    
+2023, refereed ([2023MNRAS.tmp..235S](http://adsabs.harvard.edu/abs/2023MNRAS.tmp..235S))
+<span class="badge">0 citations</span>
+
+23. [HIP 33609 B: AN ECCENTRIC BROWN DWARF TRANSITING A V=7.3 RAPIDLY ROTATING B-STAR](http://adsabs.harvard.edu/abs/2023arXiv230109663V)  
+Vowell, Noah, Rodriguez, Joseph E., Quinn, Samuel N., et al.    
+2023, not refereed ([2023arXiv230109663V](http://adsabs.harvard.edu/abs/2023arXiv230109663V))
+<span class="badge">0 citations</span>
+
+24. [THE GAIA-KEPLER-TESS-HOST STELLAR PROPERTIES CATALOG: UNIFORM PHYSICAL PARAMETERS FOR 7993 HOST STARS AND 9324 PLANETS](http://adsabs.harvard.edu/abs/2023arXiv230111338B)  
+Berger, Travis A., Schlieder, Joshua E., Huber, Daniel    
+2023, not refereed ([2023arXiv230111338B](http://adsabs.harvard.edu/abs/2023arXiv230111338B))
+<span class="badge">0 citations</span>
+
+25. [GJ 806 (TOI-4481): A BRIGHT NEARBY MULTI-PLANETARY SYSTEM WITH A TRANSITING HOT, LOW-DENSITY SUPER-EARTH](http://adsabs.harvard.edu/abs/2023arXiv230106873P)  
+Palle, E., Orell-Miquel, J., Brady, M., et al.    
+2023, not refereed ([2023arXiv230106873P](http://adsabs.harvard.edu/abs/2023arXiv230106873P))
+<span class="badge">0 citations</span>
+
+26. [THE GEOMETRIC ALBEDO OF THE HOT JUPITER HD 189733B MEASURED WITH CHEOPS](http://adsabs.harvard.edu/abs/2023arXiv230107731K)  
+Krenn, A. F., Lendl, M., Patel, J. A., et al.    
+2023, not refereed ([2023arXiv230107731K](http://adsabs.harvard.edu/abs/2023arXiv230107731K))
+<span class="badge">0 citations</span>
+
+27. [TOI-969: A LATE-K DWARF WITH A HOT MINI-NEPTUNE IN THE DESERT AND AN ECCENTRIC COLD JUPITER](http://adsabs.harvard.edu/abs/2023A&A...669A.109L)  
+Lillo-Box, J., Gandolfi, D., Armstrong, D. J., et al.    
+2023, refereed ([2023A&A...669A.109L](http://adsabs.harvard.edu/abs/2023A&A...669A.109L))
+<span class="badge">0 citations</span>
+
+28. [FIRST OBSERVATIONS OF THE BROWN DWARF HD 19467 B WITH JWST](http://adsabs.harvard.edu/abs/2023arXiv230111455G)  
+Greenbaum, Alexandra Z., Llop-Sayson, Jorge, Lew, Ben, et al.    
+2023, not refereed ([2023arXiv230111455G](http://adsabs.harvard.edu/abs/2023arXiv230111455G))
+<span class="badge">0 citations</span>
+
+29. [THE FIRST CIRCUMBINARY PLANET DISCOVERED WITH RADIAL VELOCITIES](http://adsabs.harvard.edu/abs/2023arXiv230110794S)  
+Standing, Matthew R., Sairam, Lalitha, Martin, David V., et al.    
+2023, not refereed ([2023arXiv230110794S](http://adsabs.harvard.edu/abs/2023arXiv230110794S))
+<span class="badge">0 citations</span>
+
+30. [EXAMINING THE ORBITAL DECAY TARGETS KELT-9 B, KELT-16 B, AND WASP-4B, AND THE TRANSIT-TIMING VARIATIONS OF HD 97658 B](http://adsabs.harvard.edu/abs/2023A&A...669A.124H)  
+Harre, J. -V., Smith, A. M. S., Barros, S. C. C., et al.    
+2023, refereed ([2023A&A...669A.124H](http://adsabs.harvard.edu/abs/2023A&A...669A.124H))
+<span class="badge">0 citations</span>
+
+31. [TRANSIT TIMING VARIATION ANALYSIS OF THE LOW-MASS BROWN DWARF KELT-1 B](http://adsabs.harvard.edu/abs/2023MNRAS.tmp..288B)  
+Baştürk, Ö., Southworth, J., Yalçınkaya, S., et al.    
+2023, refereed ([2023MNRAS.tmp..288B](http://adsabs.harvard.edu/abs/2023MNRAS.tmp..288B))
+<span class="badge">0 citations</span>
+
+32. [A BROADBAND THERMAL EMISSION SPECTRUM OF THE ULTRA-HOT JUPITER WASP-18B](http://adsabs.harvard.edu/abs/2023arXiv230108192C)  
+Coulombe, Louis-Philippe, Benneke, Björn, Challener, Ryan, et al.    
+2023, not refereed ([2023arXiv230108192C](http://adsabs.harvard.edu/abs/2023arXiv230108192C))
+<span class="badge">0 citations</span>
+
+33. [DREAM. I. ORBITAL ARCHITECTURE ORRERY](http://adsabs.harvard.edu/abs/2023A&A...669A..63B)  
+Bourrier, V., Attia, O., Mallonn, M., et al.    
+2023, refereed ([2023A&A...669A..63B](http://adsabs.harvard.edu/abs/2023A&A...669A..63B))
+<span class="badge">0 citations</span>
+
 
 2022
 ----
