@@ -30,6 +30,42 @@ Cycle 5
 
 .. include:: approved-programs/cycle5.html
 
+Sector 62
+=========
+.. raw:: html
+
+    <ul class="list-group">
+        <li class="list-group-item">
+          <i class="fa fa-calendar fa-margin"></i>
+           February 12. 2023 - March 10. 2023
+        </li>
+        <li class="list-group-item">
+            <i class="fa fa-download fa-margin"></i>
+            <a href="data/target_lists/sector062_targets_lists/GI_S062.csv">2 min target list (csv)</a>, 
+            <a href="data/target_lists/sector062_targets_lists/GI_20s_S062.csv">20 s target list (csv)</a>
+        </li>
+    </ul>
+
+.. include:: approved-programs/sector062.html
+
+Sector 61
+=========
+.. raw:: html
+
+    <ul class="list-group">
+        <li class="list-group-item">
+          <i class="fa fa-calendar fa-margin"></i>
+           January 18. 2023 - February 12. 2023
+        </li>
+        <li class="list-group-item">
+            <i class="fa fa-download fa-margin"></i>
+            <a href="data/target_lists/sector061_targets_lists/GI_S061.csv">2 min target list (csv)</a>, 
+            <a href="data/target_lists/sector061_targets_lists/GI_20s_S061.csv">20 s target list (csv)</a>
+        </li>
+    </ul>
+
+.. include:: approved-programs/sector061.html
+	     
 Sector 60
 =========
 .. raw:: html
