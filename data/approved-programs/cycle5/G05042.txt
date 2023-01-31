@@ -1,0 +1,16 @@
+# TESS Program G05042
+
+Title: Multiple Earth-Sized Habitable Zone Planets In Toi-700
+
+PI: Rodriguez, Joseph - Michigan State University
+
+Type: SMALL
+
+Summary: Recently, a system of three small planets were discovered orbiting the early M-dwarf, TOI-700, including TOI-700 d, an Earth-sized in the habitable zone of its star (P=37.5 days). A second Earth-sized planet in the star s habitable zone (P=27.8 days) was confirmed through cycle 3 observations. With two habitable zone Earth-sized planets known and extensive characterization in progress, we want to understand the architecture of the TOI-700. The Cycle 3 observations of TOI- also led to the discovery of short duration (<2 min) flares that were only discovered due to the 20s cadenced observing, and these flares could significantly impact the potential habitability. We propose for 20-second cadence observations of TOI-700 to discover new planets and study the host star s flaring rate.
+
+
+# Sector 061 targets observed (2 min: 1, 20 s: 1)
+150428135,97.0952,-65.5783,10.91,G05042;G05114;G05002;G05064;20SECONDTARGET
+
+# Sector 062 targets observed (2 min: 1, 20 s: 1)
+150428135,97.0952,-65.5783,10.91,G05042;G05114;G05002;G05064;20SECONDTARGET
