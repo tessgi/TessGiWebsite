@@ -1,0 +1,16 @@
+# TESS Program G05159
+
+Title: Longevity Of Structure In Complex Rotators In Young Moving Groups
+
+PI: Popinchalk, Mark - American Museum Of Natural History
+
+Type: SMALL
+
+Summary: Recently Kepler K2 and TESS have introduced a new category in young stars: rapidly rotating young M's that show multifarious structure in their light curves. TESS Cycle 5 provides a critical extension to this baseline and will be pivotal in understanding the phenomena further. We are proposing a target list of 42 complex rotators for the TESS Cycle 5 two minute cadence postage stamp observing so that we can further characterize the longevity of the multifarious features in these objects. We also propose to mine the estimated 3120 young M stars within 100pc observed with TESS cycle 5 to identify new complex rotators.
+
+
+# Sector 061 targets observed (2 min: 1, 20 s: 1)
+177309964,103.4526,-75.7037,13.1,G05105;G05106;G05159;20SECONDTARGET
+
+# Sector 062 targets observed (2 min: 1, 20 s: 1)
+177309964,103.4526,-75.7037,13.1,G05105;G05106;G05159;20SECONDTARGET
