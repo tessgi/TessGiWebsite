@@ -110,7 +110,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>South</td>
     <td>2023&nbsp;Feb&nbsp;12</td>
     <td>2023&nbsp;Mar&nbsp;10</td>
-    <td></td>
+    <td><a href='data/target_lists/sector062_targets_lists/GI_S062.csv'>Download</a></td>
     <td style="min-width: 12em;">
     </td>
   </tr>
@@ -120,7 +120,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>South</td>
     <td>2023&nbsp;Jan&nbsp;18</td>
     <td>2023&nbsp;Feb&nbsp;12</td>
-    <td></td>
+    <td><a href='data/target_lists/sector061_targets_lists/GI_S061.csv'>Download</a></td>
     <td style="min-width: 12em;">
     </td>
   </tr>
