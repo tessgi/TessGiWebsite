@@ -756,6 +756,21 @@ cadence for each camera and sector.
 
 <div class="row">
     <div class="col-md-6 text-center">
+      <a href="images/sector-plots/sector-plots.062.jpeg">
+        <img id="s062" src="images/sector-plots/sector-plots.062.jpeg" class="img-responsive">
+        Sector 62
+      </a>
+    </div>
+    <div class="col-md-6 text-center">
+      <a href="images/sector-plots/sector-plots.061.jpeg">
+        <img id="s061" src="images/sector-plots/sector-plots.061.jpeg" class="img-responsive">
+        Sector 61
+      </a>
+    </div>
+</div>
+<br>
+<div class="row">
+    <div class="col-md-6 text-center">
       <a href="images/sector-plots/sector-plots.060.jpeg">
         <img id="s060" src="images/sector-plots/sector-plots.060.jpeg" class="img-responsive">
         Sector 60
