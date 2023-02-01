@@ -1,5 +1,5 @@
 Title: TESS Weekly Bulletin: Jan 27th
-Date: 2022-01-27 10:00
+Date: 2023-01-27 10:00
 Author: Veselin Kostov
 
 Welcome TESS followers to our latest news bulletin! This week, we are looking at three recent papers from the archive. Enjoy!
@@ -26,4 +26,3 @@ Investigations into the demographics of transiting exoplanets rely on detailed c
 
 ![Kunimoto2023](images/Kunimoto_2023_Fig1.png)
 **Fig. 3:** *Taken from Kunimoto et. al. (2023). Number of detected Threshold Crossing Events in QLP and Eleanor data as a function of the measured period in the observed and inverted light-curves. The vertical gray lines represent aliases of the 13.7-day orbital period of TESS.*
-
