@@ -27,14 +27,14 @@ In addition to the above six columns, the following additional columns can be pr
 12. Remarks
 
 
-### Web TESS Viewing tool
-The [Web TESS Viewing (WTV) tool](https://heasarc.gsfc.nasa.gov/cgi-bin/tess/webtess/wtv.py) allows users to check whether a target potentially falls within the TESS field of view (FOV). In addition, WTV can be used to calculate the brightness of a target in the TESS bandpass.
+### TESS-point Web Tool
+The [TESS-point Web Tool](https://heasarc.gsfc.nasa.gov/wsgi-scripts/TESS/TESS-point_Web_Tool/TESS-point_Web_Tool/wtv_v2.0.py) allows users to check whether a target potentially falls within the TESS field of view (FOV). In addition, the tool can be used to calculate the brightness of a target in the TESS bandpass.
 
 The user provides the name (or TIC ID, or RA/DEC) of an object, and the tool will output which sector and camera the object is expected to be observed with (or null results if it will not fall in the TESS FOV).
 
-For larger sets of targets, WTV will take an input file (csv) with RA and DEC (in decimal) and return the potential visibility (sector/camera) per object.
+For larger sets of targets, the TESS-point Web Tool will take an input file (csv) with RA and DEC (in decimal) and return the potential visibility (sector/camera) per object.
 
-WTV can also be used to estimate the magnitude and photometric error for a point source given known magnitudes (based on the functionality of the ticgen tool, described below).
+This tool can also be used to estimate the magnitude and photometric error for a point source given known magnitudes (based on the functionality of the ticgen tool, described below).
 
 <!--
 The [Web TESS Viewing (WTV) tool](https://heasarc.gsfc.nasa.gov/cgi-bin/tess/webtess/wtv.py) developed by the TESS Science Support Center assists the community in planning and proposing.
@@ -88,7 +88,7 @@ This will return a file with the two original columns plus two additional column
 -->
 
 ### ticgen
-ticgen is a Python package that allows users to calculate a TESS magnitude from various other bandpasses, and calculate a 1-sigma noise level. This feature is also enabled in the [Web TESS Viewing (WTV) tool](https://heasarc.gsfc.nasa.gov/cgi-bin/tess/webtess/wtv.py). This package adds the ticgen and ticgen-csv tools to the command line.
+ticgen is a Python package that allows users to calculate a TESS magnitude from various other bandpasses, and calculate a 1-sigma noise level. This feature is also enabled in the [TESS-point Web Tool](https://heasarc.gsfc.nasa.gov/wsgi-scripts/TESS/TESS-point_Web_Tool/TESS-point_Web_Tool/wtv_v2.0.py). This package adds the ticgen and ticgen-csv tools to the command line.
 
 The code and documentation is hosted on [Github](https://github.com/tessgi/ticgen) and only briefly summarized here.
 
