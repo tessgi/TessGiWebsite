@@ -35,7 +35,7 @@ Important information and useful tools for Cycle 6 proposals are highlighted in 
 
   <tr>
     <td style="width: 15em;">
-     The <a href="https://heasarc.gsfc.nasa.gov/cgi-bin/tess/webtess/wtv.py">Web TESS Viewing (WTV)</a> tool allows checking of whether a target falls within the TESS field of view. The downloadable software, <a href="https://github.com/christopherburke/tess-point">TESS-Point</a> can also be used to check on the observability of targets.</td>
+     The <a href="https://heasarc.gsfc.nasa.gov/wsgi-scripts/TESS/TESS-point_Web_Tool/TESS-point_Web_Tool/wtv_v2.0.py/">TESS-point Web Tool</a> tool allows checking of whether a target falls within the TESS field of view. The downloadable software, <a href="https://github.com/christopherburke/tess-point">TESS-Point</a> can also be used to check on the observability of targets.</td>
   </tr>
 
  <tr>
