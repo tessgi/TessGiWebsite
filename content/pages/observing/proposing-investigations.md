@@ -1,9 +1,9 @@
-Title: Guest Investigator proposals
+Title: General Investigator proposals
 Save_as: proposing-investigations.html
 
 [TOC]
 
-The TESS Guest Investigator (GI) program is intended to enable the community to participate in science investigations using TESS. The program enables teams to propose the collection of new 2-minute and 20-second cadence targets and provides funding to selected US investigators to analyze 2-minute and 20-second cadence and full-frame image (FFI) data, which now has a cadence of 200 seconds. The GI program also provides funding for US investigators to collect ground-based data that supports TESS science. All proposals are managed by the [GI office](helpdesk.html).
+The TESS General Investigator (GI) program is intended to enable the community to participate in science investigations using TESS. The program enables teams to propose the collection of new 2-minute and 20-second cadence targets and provides funding to selected US investigators to analyze 2-minute and 20-second cadence and full-frame image (FFI) data, which now has a cadence of 200 seconds. Details of the proposal process are given on this page. Proposals are 2-6 pages, target lists for 2-min and 20-sec postage stamp targets must be submitted along with the proposal, and target lists must follow a required format described [below](proposing-investigations.html#target-of-opportunity-observations). The GI program also provides funding for US investigators to collect ground-based data that supports TESS science. All proposals are managed by the [GI office](helpdesk.html).
 
 The next opportunity is TESS Cycle 6, which begins observations in September 2023 and ends in October 2024, covering observing sectors 70 - 83. TESS Cycle 6 proposals are solicited for targets in the Northern Ecliptic Hemisphere and in fields along the ecliptic plane. 
 
@@ -100,7 +100,7 @@ During the extended mission there are no reserved targets or restricted science 
 
 The GI office welcomes proposals addressing compelling scientific questions in almost any area of astrophysics and planetary science provided the required observations are amenable to the operational characteristics and constraints of the mission. The science motivation may include, but is not limited to; exoplanet detection and characterization, stellar astrophysics, galactic and extragalactic astrophysics, and solar system science. 
 
-The primary purpose of the TESS Guest Investigator Program is to enhance and maximize the science return from TESS. The program facilitates and supports both 2-minute and 20-second cadence observations with TESS and research undertaken with the FFIs. Any area of astrophysics may be proposed.
+The primary purpose of the TESS General Investigator Program is to enhance and maximize the science return from TESS. The program facilitates and supports both 2-minute and 20-second cadence observations with TESS and research undertaken with the FFIs. Any area of astrophysics may be proposed.
 
 Proposals may utilize any combination of 2-minute cadence, 20-second cadence, and the full-frame image data. Additionally, proposals that support the acquisition and analysis of scientific data from ground-based telescopes are solicited. All science proposals must be compelling and carefully justified scientifically and technically.
 
@@ -110,7 +110,7 @@ Cycle 6 proposals are subject to a dual-anonymous peer review. The aim of a dual
 When writing a proposal the user should consider the following,
 
 * The scientific justification of a GI proposal should focus on a compelling investigation that requires the collection of new TESS data or new ground-based data that supports the analysis and/or interpretation of TESS data.
-* The proposed TESS Guest Investigation must clearly enhance the science return of the TESS mission.
+* The proposed TESS General Investigation must clearly enhance the science return of the TESS mission.
 * The proposal may include limited theoretical components, software development and/or data simulation that strengthens the proposal.
     * Proposals must clearly describe the plans to make any new software, higher level data products and/or supporting data publicly available
     * Software developed with TESS GI funds must add value to the TESS science community, be free, and open source.
@@ -199,7 +199,7 @@ The Phase-1 peer review will be performed in a "dual-anonymous" manner, i.e., no
 
 * Joint Fermi, NICER, or Swift programs must check the appropriate box(es) in the ARK/RPS form prior to submission.
 
-All proposal materials must be submitted electronically by 4:30 p.m. Eastern time on April 14th, 2023 in order to be included in the proposal review for this cycle of the TESS Guest Investigator program. Note that the 4:30 p.m. deadline supersedes the deadline stated in the Guidebook for Proposers and in the ROSES Summary of Solicitation. 
+All proposal materials must be submitted electronically by 4:30 p.m. Eastern time on April 14th, 2023 in order to be included in the proposal review for this cycle of the TESS General Investigator program. Note that the 4:30 p.m. deadline supersedes the deadline stated in the Guidebook for Proposers and in the ROSES Summary of Solicitation. 
 
 NASA uses a single, uniform set of instructions for the submission of ROSES proposals. These instructions are given in the [NASA Guidebook for Proposers](http://www.hq.nasa.gov/office/procurement/nraguidebook/). TESS GI Proposers should follow these instructions, except where they are overridden by the instructions given in the ROSES Summary of Solicitation.
 
@@ -242,7 +242,7 @@ Note that $500,000 will be available for ground-based focused programs.
  
 Funding for selected programs typically starts upon availability of data to the public archive at [MAST](data-access.html). There is no exclusive use period associated with any TESS data.
 
-The performance period of each award will be 1 year; PIs will be allowed to request a no-cost extension for one additional year as needed. The Cycle 6 GI program will also include unfunded non-U.S.-based investigations of high merit, as determined by peer review. Additional Guest Investigation targets will be drawn from proposals in the Mini category and from proposals that are not selected for funding, if target resources permit. 
+The performance period of each award will be 1 year; PIs will be allowed to request a no-cost extension for one additional year as needed. The Cycle 6 GI program will also include unfunded non-U.S.-based investigations of high merit, as determined by peer review. Additional General Investigation targets will be drawn from proposals in the Mini category and from proposals that are not selected for funding, if target resources permit. 
 
 ## Eligibility
 
