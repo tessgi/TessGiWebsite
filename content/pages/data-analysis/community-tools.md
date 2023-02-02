@@ -151,8 +151,8 @@ Many tools are under development, and some are more robust than others. The TESS
 
   <tr>
     <td style="width: 15em;"><a
-    href='https://heasarc.gsfc.nasa.gov/cgi-bin/tess/webtess/wtv.py'>Web TESS Viewing Tool (WTV)</a></td>
-    <td>A tool for determining whether stars and galaxies are observable by TESS.
+    href='https://heasarc.gsfc.nasa.gov/wsgi-scripts/TESS/TESS-point_Web_Tool/TESS-point_Web_Tool/wtv_v2.0.py/'>TESS-point Web Tool</a></td>
+    <td>A tool which uses tess-point for determining whether stars and galaxies are observable by TESS.
 </td>
   </tr>
   
