@@ -136,7 +136,7 @@ KEY_INFORMATION = (
     ('The TESS extended mission', 'extended.html'),
     ('Telescope Information', 'the-tess-space-telescope.html'),
     ('How to access the data', 'data-access.html'),
-    ('Web TESS Target Tool', 'https://heasarc.gsfc.nasa.gov/cgi-bin/tess/webtess/wtv.py'),
+    ('NEW! TESS-point Web Tool', 'https://heasarc.gsfc.nasa.gov/wsgi-scripts/TESS/TESS-point_Web_Tool/TESS-point_Web_Tool/wtv_v2.0.py'),
     ('Observing dates', 'sector.html'),
     ('Proposing science', 'proposing-investigations.html'),
     ('Citizen Science projects', 'citizenscience.html'),
