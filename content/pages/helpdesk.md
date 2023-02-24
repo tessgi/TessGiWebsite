@@ -12,7 +12,7 @@ The members of the TESS GI office are listed below.
     <div class="col-sm-3 text-center">
         <img src="images/faces/knicole.jpg" style="max-width:80%;" class="img-circle"><br>
         Dr Knicole Colón<br>
-        Project Scientist / Director of the Guest Investigator Office
+        Project Scientist 
     </div>
     
     <div class="col-sm-3 text-center">
@@ -21,12 +21,12 @@ The members of the TESS GI office are listed below.
         Deputy Project Scientist
     </div>
     
-    <div class="col-sm-3 text-center">
+     <div class="col-sm-3 text-center">
         <img src="images/faces/christina.jpg"  style="max-width:80%;" class="img-circle"><br>
         Dr Christina Hedges<br>
-        Deputy Director of the Guest Investigator Office
+        Director of the Guest Investigator Office
     </div>
-
+    
     <div class="col-sm-3 text-center">
         <img src="images/faces/mark.png"  style="max-width:80%;" class="img-circle"><br>
         Mark Messersmith<br>
