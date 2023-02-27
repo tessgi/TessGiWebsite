@@ -14,7 +14,7 @@ Authors
 Hounsell <https://heasarc.gsfc.nasa.gov/docs/tess/helpdesk.html>`__ -
 Support scientist for *TESS* in the NASA GSFC GI Office.
 
-.. image:: images/helpdesk.png
+
 
 Download the notebook
 =====================
@@ -971,3 +971,5 @@ please visit the following pages.
    astronomical data packages to demonstrate how to analyze time series
    data from these NASA missions. New tools are presented here and
    techniques for the advanced user.
+
+.. image:: images/helpdesk.png

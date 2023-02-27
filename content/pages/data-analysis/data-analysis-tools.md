@@ -101,6 +101,13 @@ Below we list tutorials that will help first time users get to grips with using 
     <td><a href="docs/tutorials/UnderstandingCrowdingv2.ipynb" download>Download</a></td>
     <td>In this tutorial, we examine crowding of targets and how to correct for it.</td>
   </tr>
+  
+  <tr>
+    <td style="width: 15em;">
+    <a href='TESS-CosmicRayPrimer.html'>Cosmic ray mitigation</a></td>
+    <td><a href="docs/tutorials/TESS-CosmicRayPrimer.ipynb" download>Download</a></td>
+    <td>In this tutorial, we examine how TESS addresses cosmic rays in different data products.</td>
+  </tr>
 
 </table>
 
