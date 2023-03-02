@@ -51,6 +51,31 @@ Southworth, John, Murphy, S. J., Pavlovski, K.
 2023, refereed ([2023MNRAS.520L..53S](http://adsabs.harvard.edu/abs/2023MNRAS.520L..53S))
 <span class="badge">0 citations</span>
 
+8. [INVESTIGATING STELLAR VARIABILITY IN THE OPEN CLUSTER REGION NGC 381](http://adsabs.harvard.edu/abs/2023AJ....165...90M)  
+Maurya, Jayanand, Joshi, Y. C., Panchal, A., et al.    
+2023, refereed ([2023AJ....165...90M](http://adsabs.harvard.edu/abs/2023AJ....165...90M))
+<span class="badge">0 citations</span>
+
+9. [APSIDAL MOTION AND ABSOLUTE PARAMETERS OF GV NOR AND V881 SCO BASED ON MID-RESOLUTION SPECTROSCOPY AND TESS PHOTOMETRY](http://adsabs.harvard.edu/abs/2023MNRAS.519.4699S)  
+Sürgit, Derya, Zasche, Petr, Hadrava, Petr, et al.    
+2023, refereed ([2023MNRAS.519.4699S](http://adsabs.harvard.edu/abs/2023MNRAS.519.4699S))
+<span class="badge">0 citations</span>
+
+10. [V907 SCO SWITCHED TO THE ECLIPSING MODE AGAIN](http://adsabs.harvard.edu/abs/2023AJ....165...81Z)  
+Zasche, Petr, Vokrouhlický, David, Barlow, Brad N., et al.    
+2023, refereed ([2023AJ....165...81Z](http://adsabs.harvard.edu/abs/2023AJ....165...81Z))
+<span class="badge">0 citations</span>
+
+11. [FUNDAMENTAL PARAMETERS FOR DOUBLE-LINED SPECTROSCOPIC AND DETACHED ECLIPSING BINARY SYSTEM J064726.39 + 223431.6](http://adsabs.harvard.edu/abs/2023MNRAS.519.5454K)  
+Kovalev, Mikhail, Wang, Song, Chen, Xuefei, et al.    
+2023, refereed ([2023MNRAS.519.5454K](http://adsabs.harvard.edu/abs/2023MNRAS.519.5454K))
+<span class="badge">0 citations</span>
+
+12. [THE STUDY OF 11 CONTACT BINARIES WITH MASS RATIOS LESS THAN 0.1](http://adsabs.harvard.edu/abs/2023MNRAS.519.5760L)  
+Liu, Xin-Yi, Li, Kai, Michel, Raul, et al.    
+2023, refereed ([2023MNRAS.519.5760L](http://adsabs.harvard.edu/abs/2023MNRAS.519.5760L))
+<span class="badge">0 citations</span>
+
 
 2023-02
 -------
