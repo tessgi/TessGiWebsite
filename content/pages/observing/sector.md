@@ -31,142 +31,8 @@ The data from each sector are required to be available at the MAST no later than
     </tr>
   </thead>
 
-
-
- <tr>
   <td colspan="6">TESS GI Cycle 6</td>
  </tr>
-
- <tr>
-    <td><a href="#s096">s096</a></td>
-    <td>North</td>
-    <td>2025&nbsp;Aug&nbsp;20</td>
-    <td>2025&nbsp;Sep&nbsp;15</td>
-    <td></td>
-    <td style="min-width: 12em;">
-    </td>
-  </tr>
-
- <tr>
-    <td><a href="#s095">s095</a></td>
-    <td>North</td>
-    <td>2025&nbsp;Jul&nbsp;25</td>
-    <td>2025&nbsp;Aug&nbsp;20</td>
-    <td></td>
-    <td style="min-width: 12em;">
-    </td>
-  </tr>
-
- <tr>
-    <td><a href="#s094">s094</a></td>
-    <td>North</td>
-    <td>2025&nbsp;Jun&nbsp;29</td>
-    <td>2025&nbsp;Jul&nbsp;25</td>
-    <td></td>
-    <td style="min-width: 12em;">
-    </td>
-  </tr>
-
- <tr>
-    <td><a href="#s093">s093</a></td>
-    <td>North</td>
-    <td>2025&nbsp;Jun&nbsp;03</td>
-    <td>2025&nbsp;Jun&nbsp;29</td>
-    <td></td>
-    <td style="min-width: 12em;">
-    </td>
-  </tr>
-
- <tr>
-    <td><a href="#s092">s092</a></td>
-    <td>North</td>
-    <td>2025&nbsp;May&nbsp;07</td>
-    <td>2025&nbsp;Jun&nbsp;03</td>
-    <td></td>
-    <td style="min-width: 12em;">
-    </td>
-  </tr>
-
- <tr>
-    <td><a href="#s091">s091</a></td>
-    <td>North</td>
-    <td>2025&nbsp;Apr&nbsp;09</td>
-    <td>2025&nbsp;May&nbsp;07</td>
-    <td></td>
-    <td style="min-width: 12em;">
-    </td>
-  </tr>
-
- <tr>
-    <td><a href="#s090">s090</a></td>
-    <td>North</td>
-    <td>2025&nbsp;Mar&nbsp;12</td>
-    <td>2025&nbsp;Apr&nbsp;09</td>
-    <td></td>
-    <td style="min-width: 12em;">
-    </td>
-  </tr>
-
-
- <tr>
-    <td><a href="#s089">s089</a></td>
-    <td>North</td>
-    <td>2025&nbsp;Feb&nbsp;11</td>
-    <td>2025&nbsp;Mar&nbsp;12</td>
-    <td></td>
-    <td style="min-width: 12em;">
-    </td>
-  </tr>
-
- <tr>
-    <td><a href="#s088">s088</a></td>
-    <td>North</td>
-    <td>2025&nbsp;Jan&nbsp;14</td>
-    <td>2025&nbsp;Feb&nbsp;11</td>
-    <td></td>
-    <td style="min-width: 12em;">
-    </td>
-  </tr>
-
- <tr>
-    <td><a href="#s087">s087</a></td>
-    <td>North</td>
-    <td>2024&nbsp;Dec&nbsp;18</td>
-    <td>2025&nbsp;Jan&nbsp;14</td>
-    <td></td>
-    <td style="min-width: 12em;">
-    </td>
-  </tr>
-
- <tr>
-    <td><a href="#s086">s086</a></td>
-    <td>North</td>
-    <td>2024&nbsp;Nov&nbsp;21</td>
-    <td>2024&nbsp;Dec&nbsp;18</td>
-    <td></td>
-    <td style="min-width: 12em;">
-    </td>
-  </tr>
-
- <tr>
-    <td><a href="#s085">s085</a></td>
-    <td>North</td>
-    <td>2024&nbsp;Oct&nbsp;26</td>
-    <td>2024&nbsp;Nov&nbsp;21</td>
-    <td></td>
-    <td style="min-width: 12em;">
-    </td>
-  </tr>
-
- <tr>
-    <td><a href="#s084">s084</a></td>
-    <td>North</td>
-    <td>2024&nbsp;Oct&nbsp;01</td>
-    <td>2024&nbsp;Oct&nbsp;26</td>
-    <td></td>
-    <td style="min-width: 12em;">
-    </td>
-  </tr>
 
  <tr>
     <td><a href="#s083">s083</a></td>
@@ -181,7 +47,7 @@ The data from each sector are required to be available at the MAST no later than
  <tr>
     <td><a href="#s082">s082</a></td>
     <td>North</td>
-    <td>2024&nbsp;Aug&nbsp;24</td>
+    <td>2024&nbsp;Aug&nbsp;10</td>
     <td>2024&nbsp;Sep&nbsp;05</td>
     <td></td>
     <td style="min-width: 12em;">
@@ -280,7 +146,7 @@ The data from each sector are required to be available at the MAST no later than
 
  <tr>
     <td><a href="#s072">s072</a></td>
-    <td>North</td>
+    <td>Ecliptic</td>
     <td>2023&nbsp;Nov&nbsp;11</td>
     <td>2023&nbsp;Dec&nbsp;07</td>
     <td></td>
@@ -290,7 +156,7 @@ The data from each sector are required to be available at the MAST no later than
 
  <tr>
     <td><a href="#s071">s071</a></td>
-    <td>North</td>
+    <td>Ecliptic</td>
     <td>2023&nbsp;Oct&nbsp;16</td>
     <td>2023&nbsp;Nov&nbsp;11</td>
     <td></td>
@@ -300,9 +166,9 @@ The data from each sector are required to be available at the MAST no later than
 
  <tr>
     <td><a href="#s070">s070</a></td>
-    <td>North</td>
-    <td>2024&nbsp;Sep&nbsp;20</td>
-    <td>2024&nbsp;Oct&nbsp;16</td>
+    <td>Ecliptic</td>
+    <td>2023&nbsp;Sep&nbsp;20</td>
+    <td>2023&nbsp;Oct&nbsp;16</td>
     <td></td>
     <td style="min-width: 12em;">
     </td>
