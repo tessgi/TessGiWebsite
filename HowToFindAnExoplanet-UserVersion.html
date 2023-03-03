@@ -16,7 +16,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - TESS Science Support Center" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2023-02-27" />
+    <meta name="dc.date.modified" content="2023-03-03" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Users of TESS Data" />
     <meta name="dc.identifier" content="https://heasarc.gsfc.nasa.gov/docs/tess/" />
@@ -258,10 +258,10 @@ create time series.</li>
 <em>TESS</em> data (v2.0.1) - <a class="reference external" href="https://matplotlib.org/">Matplotlib</a> for
 plotting. - <a class="reference external" href="https://numpy.org">Numpy</a> for manipulating the data.</p>
 <pre class="code ipython3 literal-block">
-<span class="kn">import</span> <span class="nn">lightkurve</span> <span class="k">as</span> <span class="nn">lk</span><span class="w">
-</span><span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="nn">np</span><span class="w">
-</span><span class="kn">import</span> <span class="nn">matplotlib.pyplot</span> <span class="k">as</span> <span class="nn">plt</span><span class="w">
-</span><span class="o">%</span><span class="k">matplotlib</span> inline
+<span class="kn">import</span> <span class="nn">lightkurve</span> <span class="k">as</span> <span class="nn">lk</span>
+<span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="nn">np</span>
+<span class="kn">import</span> <span class="nn">matplotlib.pyplot</span> <span class="k">as</span> <span class="nn">plt</span>
+<span class="o">%</span><span class="k">matplotlib</span> inline
 </pre>
 <div class="section" id="first-time-users">
 <h4>First time users</h4>
@@ -300,9 +300,9 @@ for more details.</p>
 <p>Let’s go through each one of the above functions and see what data is
 available.</p>
 <pre class="code ipython3 literal-block">
-<span class="n">search_ffi</span> <span class="o">=</span> <span class="n">lk</span><span class="o">.</span><span class="n">search_tesscut</span><span class="p">(</span><span class="s1">'Pi Mensae'</span><span class="p">)</span><span class="w">
-</span><span class="n">search_tpf</span> <span class="o">=</span> <span class="n">lk</span><span class="o">.</span><span class="n">search_targetpixelfile</span><span class="p">(</span><span class="s1">'Pi Mensae'</span><span class="p">)</span><span class="w">
-</span><span class="n">search_lcf</span> <span class="o">=</span> <span class="n">lk</span><span class="o">.</span><span class="n">search_lightcurve</span><span class="p">(</span><span class="s1">'Pi Mensae'</span><span class="p">)</span>
+<span class="n">search_ffi</span> <span class="o">=</span> <span class="n">lk</span><span class="o">.</span><span class="n">search_tesscut</span><span class="p">(</span><span class="s1">'Pi Mensae'</span><span class="p">)</span>
+<span class="n">search_tpf</span> <span class="o">=</span> <span class="n">lk</span><span class="o">.</span><span class="n">search_targetpixelfile</span><span class="p">(</span><span class="s1">'Pi Mensae'</span><span class="p">)</span>
+<span class="n">search_lcf</span> <span class="o">=</span> <span class="n">lk</span><span class="o">.</span><span class="n">search_lightcurve</span><span class="p">(</span><span class="s1">'Pi Mensae'</span><span class="p">)</span>
 </pre>
 <pre class="code ipython3 literal-block">
 <span class="n">search_ffi</span>
@@ -412,8 +412,8 @@ For this tutorial, let’s stick to “SPOC” data products which have a
 2-min cadence. We can return only these results using the following
 commands.</p>
 <pre class="code ipython3 literal-block">
-<span class="n">search_lcf_refined</span> <span class="o">=</span> <span class="n">lk</span><span class="o">.</span><span class="n">search_lightcurve</span><span class="p">(</span><span class="s1">'Pi Mensae'</span><span class="p">,</span> <span class="n">author</span><span class="o">=</span><span class="s2">&quot;SPOC&quot;</span><span class="p">,</span> <span class="n">exptime</span><span class="o">=</span><span class="mi">120</span><span class="p">)</span><span class="w">
-</span><span class="n">search_lcf_refined</span>
+<span class="n">search_lcf_refined</span> <span class="o">=</span> <span class="n">lk</span><span class="o">.</span><span class="n">search_lightcurve</span><span class="p">(</span><span class="s1">'Pi Mensae'</span><span class="p">,</span> <span class="n">author</span><span class="o">=</span><span class="s2">&quot;SPOC&quot;</span><span class="p">,</span> <span class="n">exptime</span><span class="o">=</span><span class="mi">120</span><span class="p">)</span>
+<span class="n">search_lcf_refined</span>
 </pre>
 SearchResult containing 12 data products.
 
@@ -513,8 +513,8 @@ sapflux = lcf[0].sap_flux
 <p>Let’s now plot both the PDCSAP and SAP light curves and see what they
 look like.</p>
 <pre class="code ipython3 literal-block">
-<span class="n">ax</span> <span class="o">=</span> <span class="n">lcf</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">column</span><span class="o">=</span><span class="s1">'sap_flux'</span><span class="p">,</span> <span class="n">normalize</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s2">&quot;SAP&quot;</span><span class="p">);</span><span class="w">
-</span><span class="n">lcf</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">ax</span><span class="o">=</span><span class="n">ax</span><span class="p">,</span> <span class="n">column</span><span class="o">=</span><span class="s1">'pdcsap_flux'</span><span class="p">,</span> <span class="n">normalize</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s2">&quot;PDCSAP&quot;</span><span class="p">);</span>
+<span class="n">ax</span> <span class="o">=</span> <span class="n">lcf</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">column</span><span class="o">=</span><span class="s1">'sap_flux'</span><span class="p">,</span> <span class="n">normalize</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s2">&quot;SAP&quot;</span><span class="p">);</span>
+<span class="n">lcf</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">ax</span><span class="o">=</span><span class="n">ax</span><span class="p">,</span> <span class="n">column</span><span class="o">=</span><span class="s1">'pdcsap_flux'</span><span class="p">,</span> <span class="n">normalize</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s2">&quot;PDCSAP&quot;</span><span class="p">);</span>
 </pre>
 <img alt="" src="images/HowToFindAnExoplanet-UserVersion/output_21_0.png" />
 <p>There are some big differences between these two light curves,
@@ -542,8 +542,8 @@ each bin.</li>
 <p>We can use these simply on a light curve object. For this tutorial,
 let’s stick with the PDCSAP flux.</p>
 <pre class="code ipython3 literal-block">
-<span class="n">ax</span> <span class="o">=</span> <span class="n">lcf</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span><span class="o">.</span><span class="n">plot</span><span class="p">()</span><span class="w">
-</span><span class="n">ax</span><span class="o">.</span><span class="n">set_title</span><span class="p">(</span><span class="s2">&quot;PDCSAP light curve of  Pi Mensae&quot;</span><span class="p">)</span>
+<span class="n">ax</span> <span class="o">=</span> <span class="n">lcf</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span><span class="o">.</span><span class="n">plot</span><span class="p">()</span>
+<span class="n">ax</span><span class="o">.</span><span class="n">set_title</span><span class="p">(</span><span class="s2">&quot;PDCSAP light curve of  Pi Mensae&quot;</span><span class="p">)</span>
 </pre>
 <pre class="literal-block">
 Text(0.5, 1.0, 'PDCSAP light curve of  Pi Mensae')
@@ -556,8 +556,8 @@ light curve some more to see if we can pull it out.</p>
 <div class="section" id="flattening">
 <h4>Flattening</h4>
 <pre class="code ipython3 literal-block">
-<span class="n">flat_lc</span> <span class="o">=</span> <span class="n">lcf</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span><span class="o">.</span><span class="n">flatten</span><span class="p">(</span><span class="n">window_length</span><span class="o">=</span><span class="mi">1001</span><span class="p">)</span><span class="w">
-</span><span class="n">flat_lc</span><span class="o">.</span><span class="n">plot</span><span class="p">();</span>
+<span class="n">flat_lc</span> <span class="o">=</span> <span class="n">lcf</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span><span class="o">.</span><span class="n">flatten</span><span class="p">(</span><span class="n">window_length</span><span class="o">=</span><span class="mi">1001</span><span class="p">)</span>
+<span class="n">flat_lc</span><span class="o">.</span><span class="n">plot</span><span class="p">();</span>
 </pre>
 <img alt="" src="images/HowToFindAnExoplanet-UserVersion/output_25_0.png" />
 <p>The light curve looks much flatter. Unfortunately, there is a portion of
@@ -565,12 +565,12 @@ the light curve that is very noisy, due to a jitter in the TESS
 spacecraft. We can remove this simply by masking the light curve. First,
 we’ll select the times that had the jitter.</p>
 <pre class="code ipython3 literal-block">
-<span class="c1"># Flag the times that are good quality</span><span class="w">
-</span><span class="n">mask</span> <span class="o">=</span> <span class="p">(</span><span class="n">flat_lc</span><span class="o">.</span><span class="n">time</span><span class="o">.</span><span class="n">value</span> <span class="o">&lt;</span> <span class="mi">1346</span><span class="p">)</span> <span class="o">|</span> <span class="p">(</span><span class="n">flat_lc</span><span class="o">.</span><span class="n">time</span><span class="o">.</span><span class="n">value</span> <span class="o">&gt;</span> <span class="mi">1350</span><span class="p">)</span>
+<span class="c1"># Flag the times that are good quality</span>
+<span class="n">mask</span> <span class="o">=</span> <span class="p">(</span><span class="n">flat_lc</span><span class="o">.</span><span class="n">time</span><span class="o">.</span><span class="n">value</span> <span class="o">&lt;</span> <span class="mi">1346</span><span class="p">)</span> <span class="o">|</span> <span class="p">(</span><span class="n">flat_lc</span><span class="o">.</span><span class="n">time</span><span class="o">.</span><span class="n">value</span> <span class="o">&gt;</span> <span class="mi">1350</span><span class="p">)</span>
 </pre>
 <pre class="code ipython3 literal-block">
-<span class="n">masked_lc</span> <span class="o">=</span> <span class="n">flat_lc</span><span class="p">[</span><span class="n">mask</span><span class="p">]</span><span class="w">
-</span><span class="n">masked_lc</span><span class="o">.</span><span class="n">plot</span><span class="p">()</span>
+<span class="n">masked_lc</span> <span class="o">=</span> <span class="n">flat_lc</span><span class="p">[</span><span class="n">mask</span><span class="p">]</span>
+<span class="n">masked_lc</span><span class="o">.</span><span class="n">plot</span><span class="p">()</span>
 </pre>
 <pre class="literal-block">
 &lt;matplotlib.axes._subplots.AxesSubplot at 0x7fb070571ed0&gt;
@@ -579,11 +579,11 @@ we’ll select the times that had the jitter.</p>
 <p>We can use Lightkurve to plot these two light curves over each other to
 see the difference.</p>
 <pre class="code ipython3 literal-block">
-<span class="c1"># First define the `matplotlib.pyplot.axes`</span><span class="w">
-</span><span class="n">ax</span> <span class="o">=</span> <span class="n">flat_lc</span><span class="o">.</span><span class="n">plot</span><span class="p">()</span><span class="w">
+<span class="c1"># First define the `matplotlib.pyplot.axes`</span>
+<span class="n">ax</span> <span class="o">=</span> <span class="n">flat_lc</span><span class="o">.</span><span class="n">plot</span><span class="p">()</span>
 
-</span><span class="c1"># Pass that axis to the next plot</span><span class="w">
-</span><span class="n">masked_lc</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">ax</span><span class="o">=</span><span class="n">ax</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s1">'masked'</span><span class="p">);</span>
+<span class="c1"># Pass that axis to the next plot</span>
+<span class="n">masked_lc</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">ax</span><span class="o">=</span><span class="n">ax</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s1">'masked'</span><span class="p">);</span>
 </pre>
 <img alt="" src="images/HowToFindAnExoplanet-UserVersion/output_30_0.png" />
 <p>This looks much better. Now we might want to clip out some outliers from
@@ -593,8 +593,8 @@ remove_outliers().</p>
 <div class="section" id="remove-outliers">
 <h4>Remove outliers</h4>
 <pre class="code ipython3 literal-block">
-<span class="n">clipped_lc</span> <span class="o">=</span> <span class="n">masked_lc</span><span class="o">.</span><span class="n">remove_outliers</span><span class="p">(</span><span class="n">sigma</span><span class="o">=</span><span class="mi">6</span><span class="p">)</span><span class="w">
-</span><span class="n">clipped_lc</span><span class="o">.</span><span class="n">plot</span><span class="p">();</span>
+<span class="n">clipped_lc</span> <span class="o">=</span> <span class="n">masked_lc</span><span class="o">.</span><span class="n">remove_outliers</span><span class="p">(</span><span class="n">sigma</span><span class="o">=</span><span class="mi">6</span><span class="p">)</span>
+<span class="n">clipped_lc</span><span class="o">.</span><span class="n">plot</span><span class="p">();</span>
 </pre>
 <img alt="" src="images/HowToFindAnExoplanet-UserVersion/output_33_0.png" />
 <p>Finally, let’s use <em>Lightkurve</em> to fold the data at the exoplanet
@@ -606,8 +606,8 @@ orbital period and see if we can detect the transit.</p>
 days. We can use the <tt class="docutils literal">fold()</tt> function to find the transit in our data
 as shown below.</p>
 <pre class="code ipython3 literal-block">
-<span class="n">folded_lc</span> <span class="o">=</span> <span class="n">clipped_lc</span><span class="o">.</span><span class="n">fold</span><span class="p">(</span><span class="n">period</span><span class="o">=</span><span class="mf">6.27</span><span class="p">,</span> <span class="n">epoch_time</span><span class="o">=</span><span class="mf">1325.504</span><span class="p">)</span><span class="w">
-</span><span class="n">folded_lc</span><span class="o">.</span><span class="n">plot</span><span class="p">();</span>
+<span class="n">folded_lc</span> <span class="o">=</span> <span class="n">clipped_lc</span><span class="o">.</span><span class="n">fold</span><span class="p">(</span><span class="n">period</span><span class="o">=</span><span class="mf">6.27</span><span class="p">,</span> <span class="n">epoch_time</span><span class="o">=</span><span class="mf">1325.504</span><span class="p">)</span>
+<span class="n">folded_lc</span><span class="o">.</span><span class="n">plot</span><span class="p">();</span>
 </pre>
 <img alt="" src="images/HowToFindAnExoplanet-UserVersion/output_36_0.png" />
 <p>It looks like there’s something there, but it’s hard to see. Let’s bin
@@ -617,9 +617,9 @@ uncertainty of those points.</p>
 <div class="section" id="binning-the-light-curve">
 <h4>Binning the light curve</h4>
 <pre class="code ipython3 literal-block">
-<span class="kn">import</span> <span class="nn">astropy.units</span> <span class="k">as</span> <span class="nn">u</span><span class="w">
-</span><span class="n">binned_lc</span> <span class="o">=</span> <span class="n">folded_lc</span><span class="o">.</span><span class="n">bin</span><span class="p">(</span><span class="n">time_bin_size</span><span class="o">=</span><span class="mi">5</span><span class="o">*</span><span class="n">u</span><span class="o">.</span><span class="n">minute</span><span class="p">)</span><span class="w">
-</span><span class="n">binned_lc</span><span class="o">.</span><span class="n">errorbar</span><span class="p">();</span>
+<span class="kn">import</span> <span class="nn">astropy.units</span> <span class="k">as</span> <span class="nn">u</span>
+<span class="n">binned_lc</span> <span class="o">=</span> <span class="n">folded_lc</span><span class="o">.</span><span class="n">bin</span><span class="p">(</span><span class="n">time_bin_size</span><span class="o">=</span><span class="mi">5</span><span class="o">*</span><span class="n">u</span><span class="o">.</span><span class="n">minute</span><span class="p">)</span>
+<span class="n">binned_lc</span><span class="o">.</span><span class="n">errorbar</span><span class="p">();</span>
 </pre>
 <img alt="" src="images/HowToFindAnExoplanet-UserVersion/output_38_0.png" />
 <p>And now we can see the transit of Pi Mensae c!</p>
@@ -666,9 +666,9 @@ aperture photometry, as it doesn’t involve trial and error beyond
 finding the best sigma value. You can define a threshold mask using the
 following code:</p>
 <pre class="code ipython3 literal-block">
-<span class="n">target_mask</span> <span class="o">=</span> <span class="n">ffi_data</span><span class="o">.</span><span class="n">create_threshold_mask</span><span class="p">(</span><span class="n">threshold</span><span class="o">=</span><span class="mi">10</span><span class="p">,</span> <span class="n">reference_pixel</span><span class="o">=</span><span class="s1">'center'</span><span class="p">)</span><span class="w">
-</span><span class="n">n_target_pixels</span> <span class="o">=</span> <span class="n">target_mask</span><span class="o">.</span><span class="n">sum</span><span class="p">()</span><span class="w">
-</span><span class="n">n_target_pixels</span>
+<span class="n">target_mask</span> <span class="o">=</span> <span class="n">ffi_data</span><span class="o">.</span><span class="n">create_threshold_mask</span><span class="p">(</span><span class="n">threshold</span><span class="o">=</span><span class="mi">10</span><span class="p">,</span> <span class="n">reference_pixel</span><span class="o">=</span><span class="s1">'center'</span><span class="p">)</span>
+<span class="n">n_target_pixels</span> <span class="o">=</span> <span class="n">target_mask</span><span class="o">.</span><span class="n">sum</span><span class="p">()</span>
+<span class="n">n_target_pixels</span>
 </pre>
 <pre class="literal-block">
 18
@@ -737,9 +737,9 @@ the SAP flux.</p>
 which are probably due to jitter. Once again, we can remove these data
 points via creating and applying a mask.</p>
 <pre class="code ipython3 literal-block">
-<span class="n">mask_ffi</span> <span class="o">=</span> <span class="p">(</span><span class="n">ffi_lc</span><span class="o">.</span><span class="n">time</span><span class="o">.</span><span class="n">value</span> <span class="o">&lt;</span> <span class="mi">1346</span><span class="p">)</span> <span class="o">|</span> <span class="p">(</span><span class="n">ffi_lc</span><span class="o">.</span><span class="n">time</span><span class="o">.</span><span class="n">value</span> <span class="o">&gt;</span> <span class="mi">1350</span><span class="p">)</span><span class="w">
-</span><span class="n">masked_lc_ffi</span> <span class="o">=</span> <span class="n">ffi_lc</span><span class="p">[</span><span class="n">mask_ffi</span><span class="p">]</span><span class="w">
-</span><span class="n">masked_lc_ffi</span><span class="o">.</span><span class="n">plot</span><span class="p">()</span>
+<span class="n">mask_ffi</span> <span class="o">=</span> <span class="p">(</span><span class="n">ffi_lc</span><span class="o">.</span><span class="n">time</span><span class="o">.</span><span class="n">value</span> <span class="o">&lt;</span> <span class="mi">1346</span><span class="p">)</span> <span class="o">|</span> <span class="p">(</span><span class="n">ffi_lc</span><span class="o">.</span><span class="n">time</span><span class="o">.</span><span class="n">value</span> <span class="o">&gt;</span> <span class="mi">1350</span><span class="p">)</span>
+<span class="n">masked_lc_ffi</span> <span class="o">=</span> <span class="n">ffi_lc</span><span class="p">[</span><span class="n">mask_ffi</span><span class="p">]</span>
+<span class="n">masked_lc_ffi</span><span class="o">.</span><span class="n">plot</span><span class="p">()</span>
 </pre>
 <pre class="literal-block">
 &lt;matplotlib.axes._subplots.AxesSubplot at 0x7fb0d1bab050&gt;
@@ -747,8 +747,8 @@ points via creating and applying a mask.</p>
 <img alt="" src="images/HowToFindAnExoplanet-UserVersion/output_55_1.png" />
 <p>OK, this looks a bit better but we should also clip the data again.</p>
 <pre class="code ipython3 literal-block">
-<span class="n">clipped_ffi</span> <span class="o">=</span> <span class="n">masked_lc_ffi</span><span class="o">.</span><span class="n">remove_outliers</span><span class="p">(</span><span class="n">sigma</span><span class="o">=</span><span class="mi">6</span><span class="p">)</span><span class="w">
-</span><span class="n">clipped_ffi</span><span class="o">.</span><span class="n">plot</span><span class="p">();</span>
+<span class="n">clipped_ffi</span> <span class="o">=</span> <span class="n">masked_lc_ffi</span><span class="o">.</span><span class="n">remove_outliers</span><span class="p">(</span><span class="n">sigma</span><span class="o">=</span><span class="mi">6</span><span class="p">)</span>
+<span class="n">clipped_ffi</span><span class="o">.</span><span class="n">plot</span><span class="p">();</span>
 </pre>
 <img alt="" src="images/HowToFindAnExoplanet-UserVersion/output_57_0.png" />
 <p>Looking at the above light curve, we can see that there are still a few
@@ -769,12 +769,12 @@ that effectively models the systematic noise introduced by spacecraft
 motion. This noise model is then subtracted from the uncorrected light
 curve. We can apply it to our data using the code shown below.</p>
 <pre class="code ipython3 literal-block">
-<span class="kn">from</span> <span class="nn">lightkurve.correctors</span> <span class="kn">import</span> <span class="n">PLDCorrector</span><span class="w">
-</span><span class="n">pld</span> <span class="o">=</span> <span class="n">PLDCorrector</span><span class="p">(</span><span class="n">ffi_data</span><span class="p">[</span><span class="n">mask_ffi</span><span class="p">],</span> <span class="n">aperture_mask</span><span class="o">=</span><span class="n">target_mask</span><span class="p">)</span><span class="w">
-</span><span class="n">pld</span><span class="o">.</span><span class="n">correct</span><span class="p">(</span><span class="n">pca_components</span><span class="o">=</span><span class="mi">3</span><span class="p">)</span><span class="w">
-</span><span class="n">pltAxis</span> <span class="o">=</span> <span class="n">pld</span><span class="o">.</span><span class="n">diagnose</span><span class="p">()</span><span class="w">
+<span class="kn">from</span> <span class="nn">lightkurve.correctors</span> <span class="kn">import</span> <span class="n">PLDCorrector</span>
+<span class="n">pld</span> <span class="o">=</span> <span class="n">PLDCorrector</span><span class="p">(</span><span class="n">ffi_data</span><span class="p">[</span><span class="n">mask_ffi</span><span class="p">],</span> <span class="n">aperture_mask</span><span class="o">=</span><span class="n">target_mask</span><span class="p">)</span>
+<span class="n">pld</span><span class="o">.</span><span class="n">correct</span><span class="p">(</span><span class="n">pca_components</span><span class="o">=</span><span class="mi">3</span><span class="p">)</span>
+<span class="n">pltAxis</span> <span class="o">=</span> <span class="n">pld</span><span class="o">.</span><span class="n">diagnose</span><span class="p">()</span>
 
-</span><span class="n">corrected_ffi</span> <span class="o">=</span> <span class="n">pld</span><span class="o">.</span><span class="n">correct</span><span class="p">(</span><span class="n">pca_components</span><span class="o">=</span><span class="mi">3</span><span class="p">)</span>
+<span class="n">corrected_ffi</span> <span class="o">=</span> <span class="n">pld</span><span class="o">.</span><span class="n">correct</span><span class="p">(</span><span class="n">pca_components</span><span class="o">=</span><span class="mi">3</span><span class="p">)</span>
 </pre>
 <img alt="" src="images/HowToFindAnExoplanet-UserVersion/output_59_0.png" />
 <p>The above plots indicate the corrections applied to our light curve. It
@@ -782,9 +782,9 @@ removed a background and applied a spline; outliers are also presented.
 Let’s now plot up our corrected light curve and compare to the corrected
 flux to the non-corrected flux.</p>
 <pre class="code ipython3 literal-block">
-<span class="n">ax</span> <span class="o">=</span> <span class="n">ffi_lc</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">normalize</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s2">&quot;SAP FFI&quot;</span><span class="p">);</span><span class="w">
-</span><span class="n">corrected_ffi</span><span class="o">.</span><span class="n">remove_outliers</span><span class="p">()</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">ax</span><span class="o">=</span><span class="n">ax</span><span class="p">,</span><span class="n">normalize</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span><span class="n">label</span><span class="o">=</span><span class="s2">&quot;SAP FFI corrected&quot;</span><span class="p">)</span><span class="w">
-</span><span class="n">plt</span><span class="o">.</span><span class="n">ylim</span><span class="p">(</span><span class="mf">0.9975</span><span class="p">,</span><span class="mf">1.0025</span><span class="p">)</span>
+<span class="n">ax</span> <span class="o">=</span> <span class="n">ffi_lc</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">normalize</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s2">&quot;SAP FFI&quot;</span><span class="p">);</span>
+<span class="n">corrected_ffi</span><span class="o">.</span><span class="n">remove_outliers</span><span class="p">()</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">ax</span><span class="o">=</span><span class="n">ax</span><span class="p">,</span><span class="n">normalize</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span><span class="n">label</span><span class="o">=</span><span class="s2">&quot;SAP FFI corrected&quot;</span><span class="p">)</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">ylim</span><span class="p">(</span><span class="mf">0.9975</span><span class="p">,</span><span class="mf">1.0025</span><span class="p">)</span>
 </pre>
 <pre class="literal-block">
 (0.9975, 1.0025)
@@ -794,8 +794,8 @@ flux to the non-corrected flux.</p>
 seeing. Let’s now proceed as we did before and compare the results.
 First we need to <tt class="docutils literal">flatten()</tt>.</p>
 <pre class="code ipython3 literal-block">
-<span class="n">ffi_flat_lc</span> <span class="o">=</span> <span class="n">corrected_ffi</span><span class="o">.</span><span class="n">flatten</span><span class="p">(</span><span class="n">window_length</span><span class="o">=</span><span class="mi">1001</span><span class="p">)</span><span class="w">
-</span><span class="n">ffi_flat_lc</span><span class="o">.</span><span class="n">plot</span><span class="p">()</span>
+<span class="n">ffi_flat_lc</span> <span class="o">=</span> <span class="n">corrected_ffi</span><span class="o">.</span><span class="n">flatten</span><span class="p">(</span><span class="n">window_length</span><span class="o">=</span><span class="mi">1001</span><span class="p">)</span>
+<span class="n">ffi_flat_lc</span><span class="o">.</span><span class="n">plot</span><span class="p">()</span>
 </pre>
 <pre class="literal-block">
 &lt;matplotlib.axes._subplots.AxesSubplot at 0x7fb09473f4d0&gt;
@@ -803,9 +803,9 @@ First we need to <tt class="docutils literal">flatten()</tt>.</p>
 <img alt="" src="images/HowToFindAnExoplanet-UserVersion/output_63_1.png" />
 <p>Now we need to <tt class="docutils literal">fold()</tt>.</p>
 <pre class="code ipython3 literal-block">
-<span class="n">folded_ffi</span> <span class="o">=</span> <span class="n">ffi_flat_lc</span><span class="o">.</span><span class="n">fold</span><span class="p">(</span><span class="n">period</span><span class="o">=</span><span class="mf">6.27</span><span class="p">,</span> <span class="n">epoch_time</span><span class="o">=</span><span class="mf">1325.504</span><span class="p">)</span><span class="w">
-</span><span class="n">folded_ffi</span><span class="o">.</span><span class="n">plot</span><span class="p">()</span><span class="w">
-</span><span class="n">plt</span><span class="o">.</span><span class="n">ylim</span><span class="p">(</span><span class="mf">0.999</span><span class="p">,</span><span class="mf">1.001</span><span class="p">)</span>
+<span class="n">folded_ffi</span> <span class="o">=</span> <span class="n">ffi_flat_lc</span><span class="o">.</span><span class="n">fold</span><span class="p">(</span><span class="n">period</span><span class="o">=</span><span class="mf">6.27</span><span class="p">,</span> <span class="n">epoch_time</span><span class="o">=</span><span class="mf">1325.504</span><span class="p">)</span>
+<span class="n">folded_ffi</span><span class="o">.</span><span class="n">plot</span><span class="p">()</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">ylim</span><span class="p">(</span><span class="mf">0.999</span><span class="p">,</span><span class="mf">1.001</span><span class="p">)</span>
 </pre>
 <pre class="literal-block">
 (0.999, 1.001)
@@ -815,8 +815,8 @@ First we need to <tt class="docutils literal">flatten()</tt>.</p>
 the longer cadence (30-min), but we can clearly make out the transit
 again. Let’s compare this to our earlier light curve.</p>
 <pre class="code ipython3 literal-block">
-<span class="n">ax</span> <span class="o">=</span> <span class="n">folded_lc</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">label</span><span class="o">=</span><span class="s2">&quot;LightCurve Object&quot;</span><span class="p">)</span><span class="w">
-</span><span class="n">folded_ffi</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">ax</span><span class="o">=</span><span class="n">ax</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s2">&quot;FFI&quot;</span><span class="p">)</span>
+<span class="n">ax</span> <span class="o">=</span> <span class="n">folded_lc</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">label</span><span class="o">=</span><span class="s2">&quot;LightCurve Object&quot;</span><span class="p">)</span>
+<span class="n">folded_ffi</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">ax</span><span class="o">=</span><span class="n">ax</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s2">&quot;FFI&quot;</span><span class="p">)</span>
 </pre>
 <pre class="literal-block">
 &lt;matplotlib.axes._subplots.AxesSubplot at 0x7fb0a1d59890&gt;
@@ -916,7 +916,7 @@ please contact us at <a class="reference external" href="mailto:tesshelp&#64;big
       <!-- NASA logo and notices -->
       <div class="row" style="margin-top:2em;">
          <div class="col-md-10"> <a href="http://www.nasa.gov/"><img src="./images/NASA_logo_vector_lg.png" width="30" alt="NASA Logo"></a> 
-         Last modified: Thu 16 February 2023
+         Last modified: Tue 28 February 2023
             &middot; Editor: Thomas Barclay &middot; NASA Official: Patricia T Boyd 
             &middot; <a href="http://www.nasa.gov/about/highlights/HP_Privacy.html">Privacy Policy and Important Notices</a><p></p>         </div>
          <div class="col-md-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>

@@ -16,7 +16,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - TESS Science Support Center" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2023-02-27" />
+    <meta name="dc.date.modified" content="2023-03-03" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Users of TESS Data" />
     <meta name="dc.identifier" content="https://heasarc.gsfc.nasa.gov/docs/tess/" />
@@ -241,9 +241,9 @@ SAP flux and will have fewer systematic trends.</li>
 </ul>
 <pre class="code ipython3 literal-block">
 <span class="o">%</span><span class="k">matplotlib</span> inline
-<span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="nn">np</span><span class="w">
-</span><span class="kn">import</span> <span class="nn">lightkurve</span> <span class="k">as</span> <span class="nn">lk</span><span class="w">
-</span><span class="kn">import</span> <span class="nn">matplotlib.pyplot</span> <span class="k">as</span> <span class="nn">plt</span>
+<span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="nn">np</span>
+<span class="kn">import</span> <span class="nn">lightkurve</span> <span class="k">as</span> <span class="nn">lk</span>
+<span class="kn">import</span> <span class="nn">matplotlib.pyplot</span> <span class="k">as</span> <span class="nn">plt</span>
 </pre>
 </div>
 <div class="section" id="downloading-the-data">
@@ -252,8 +252,8 @@ SAP flux and will have fewer systematic trends.</li>
 System</a> again, focusing on
 planet c. First let’s search for a TPF for this object.</p>
 <pre class="code ipython3 literal-block">
-<span class="n">search_result</span> <span class="o">=</span> <span class="n">lk</span><span class="o">.</span><span class="n">search_targetpixelfile</span><span class="p">(</span><span class="s1">'TIC 307210830'</span><span class="p">)</span><span class="w">
-</span><span class="n">search_result</span>
+<span class="n">search_result</span> <span class="o">=</span> <span class="n">lk</span><span class="o">.</span><span class="n">search_targetpixelfile</span><span class="p">(</span><span class="s1">'TIC 307210830'</span><span class="p">)</span>
+<span class="n">search_result</span>
 </pre>
 SearchResult containing 7 data products.
 
@@ -268,8 +268,8 @@ SearchResult containing 7 data products.
 <tr><td>6</td><td>TESS Sector 12</td><td>SPOC</td><td>307210830</td><td>tess2019140104343-s0012-0000000307210830-0144-s_tp.fits</td><td>0.0</td></tr>
 </table><p>Lets pick and download the data for sector 2.</p>
 <pre class="code ipython3 literal-block">
-<span class="n">tpf_file</span> <span class="o">=</span> <span class="n">search_result</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span><span class="o">.</span><span class="n">download</span><span class="p">()</span><span class="w">
-</span><span class="n">tpf_file</span>
+<span class="n">tpf_file</span> <span class="o">=</span> <span class="n">search_result</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span><span class="o">.</span><span class="n">download</span><span class="p">()</span>
+<span class="n">tpf_file</span>
 </pre>
 <pre class="literal-block">
 TessTargetPixelFile(TICID: 307210830)
@@ -319,8 +319,8 @@ can perform simple aperture photometry via the
 <a class="reference external" href="https://docs.lightkurve.org/api/lightkurve.targetpixelfile.TessTargetPixelFile.html#lightkurve.targetpixelfile.TessTargetPixelFile.extract_aperture_photometry">extract_aperture_photometry</a>
 function as shown below,</p>
 <pre class="code ipython3 literal-block">
-<span class="n">lc</span> <span class="o">=</span> <span class="n">tpf_file</span><span class="o">.</span><span class="n">extract_aperture_photometry</span><span class="p">()</span><span class="w">
-</span><span class="n">lc</span>
+<span class="n">lc</span> <span class="o">=</span> <span class="n">tpf_file</span><span class="o">.</span><span class="n">extract_aperture_photometry</span><span class="p">()</span>
+<span class="n">lc</span>
 </pre>
 <i>TessLightCurve targetid=307210830 length=18317</i>
 <table id="table140331223478512" class="table-striped table-bordered table-condensed">
@@ -365,9 +365,9 @@ above the overall median. The standard deviation is estimated in a
 robust way by multiplying the Median Absolute Deviation (MAD) with
 1.4826. In this example we will pick 10 as our threshold.</p>
 <pre class="code ipython3 literal-block">
-<span class="n">target_mask</span> <span class="o">=</span> <span class="n">tpf_file</span><span class="o">.</span><span class="n">create_threshold_mask</span><span class="p">(</span><span class="n">threshold</span><span class="o">=</span><span class="mi">10</span><span class="p">,</span> <span class="n">reference_pixel</span><span class="o">=</span><span class="s1">'center'</span><span class="p">)</span><span class="w">
-</span><span class="n">n_target_pixels</span> <span class="o">=</span> <span class="n">target_mask</span><span class="o">.</span><span class="n">sum</span><span class="p">()</span><span class="w">
-</span><span class="n">n_target_pixels</span>
+<span class="n">target_mask</span> <span class="o">=</span> <span class="n">tpf_file</span><span class="o">.</span><span class="n">create_threshold_mask</span><span class="p">(</span><span class="n">threshold</span><span class="o">=</span><span class="mi">10</span><span class="p">,</span> <span class="n">reference_pixel</span><span class="o">=</span><span class="s1">'center'</span><span class="p">)</span>
+<span class="n">n_target_pixels</span> <span class="o">=</span> <span class="n">target_mask</span><span class="o">.</span><span class="n">sum</span><span class="p">()</span>
+<span class="n">n_target_pixels</span>
 </pre>
 <pre class="literal-block">
 13
@@ -387,9 +387,9 @@ background pixels included. Lets see if we can adjust this.</p>
 our object of interest only. We have seen that apertures are defined
 within boolean arrays, based on this lets make up a new array.</p>
 <pre class="code ipython3 literal-block">
-<span class="n">aper_new</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">zeros</span><span class="p">(</span><span class="n">tpf_file</span><span class="o">.</span><span class="n">shape</span><span class="p">[</span><span class="mi">1</span><span class="p">:],</span> <span class="n">dtype</span><span class="o">=</span><span class="nb">bool</span><span class="p">)</span><span class="w">
-</span><span class="n">aper_new</span><span class="p">[</span><span class="mi">5</span><span class="p">:</span><span class="mi">8</span><span class="p">,</span> <span class="mi">4</span><span class="p">:</span><span class="mi">7</span><span class="p">]</span> <span class="o">=</span> <span class="kc">True</span><span class="w">
-</span><span class="n">tpf_file</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">aperture_mask</span><span class="o">=</span><span class="n">aper_new</span><span class="p">,</span> <span class="n">mask_color</span><span class="o">=</span><span class="s1">'red'</span><span class="p">)</span>
+<span class="n">aper_new</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">zeros</span><span class="p">(</span><span class="n">tpf_file</span><span class="o">.</span><span class="n">shape</span><span class="p">[</span><span class="mi">1</span><span class="p">:],</span> <span class="n">dtype</span><span class="o">=</span><span class="nb">bool</span><span class="p">)</span>
+<span class="n">aper_new</span><span class="p">[</span><span class="mi">5</span><span class="p">:</span><span class="mi">8</span><span class="p">,</span> <span class="mi">4</span><span class="p">:</span><span class="mi">7</span><span class="p">]</span> <span class="o">=</span> <span class="kc">True</span>
+<span class="n">tpf_file</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">aperture_mask</span><span class="o">=</span><span class="n">aper_new</span><span class="p">,</span> <span class="n">mask_color</span><span class="o">=</span><span class="s1">'red'</span><span class="p">)</span>
 </pre>
 <pre class="literal-block">
 &lt;matplotlib.axes._subplots.AxesSubplot at 0x7fa1790b85c0&gt;
@@ -398,8 +398,8 @@ within boolean arrays, based on this lets make up a new array.</p>
 <p>OK great, it looks like we have covered our object,but not included too
 much background. Lets now make this into a light curve.</p>
 <pre class="code ipython3 literal-block">
-<span class="n">target_lc_new</span> <span class="o">=</span> <span class="n">tpf_file</span><span class="o">.</span><span class="n">to_lightcurve</span><span class="p">(</span><span class="n">aperture_mask</span><span class="o">=</span><span class="n">aper_new</span><span class="p">)</span><span class="w">
-</span><span class="n">target_lc_new</span>
+<span class="n">target_lc_new</span> <span class="o">=</span> <span class="n">tpf_file</span><span class="o">.</span><span class="n">to_lightcurve</span><span class="p">(</span><span class="n">aperture_mask</span><span class="o">=</span><span class="n">aper_new</span><span class="p">)</span>
+<span class="n">target_lc_new</span>
 </pre>
 <i>TessLightCurve targetid=307210830 length=18317</i>
 <table id="table140331496638336" class="table-striped table-bordered table-condensed">
@@ -505,7 +505,7 @@ tutorial</a>.</p>
       <!-- NASA logo and notices -->
       <div class="row" style="margin-top:2em;">
          <div class="col-md-10"> <a href="http://www.nasa.gov/"><img src="./images/NASA_logo_vector_lg.png" width="30" alt="NASA Logo"></a> 
-         Last modified: Thu 16 February 2023
+         Last modified: Tue 28 February 2023
             &middot; Editor: Thomas Barclay &middot; NASA Official: Patricia T Boyd 
             &middot; <a href="http://www.nasa.gov/about/highlights/HP_Privacy.html">Privacy Policy and Important Notices</a><p></p>         </div>
          <div class="col-md-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
