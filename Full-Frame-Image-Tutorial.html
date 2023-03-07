@@ -16,7 +16,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - TESS Science Support Center" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2023-03-03" />
+    <meta name="dc.date.modified" content="2023-03-07" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Users of TESS Data" />
     <meta name="dc.identifier" content="https://heasarc.gsfc.nasa.gov/docs/tess/" />
@@ -258,8 +258,8 @@ function to download a cut out of the target in a chosen sector. You can
 determine which sectors the target was observed in using the <a class="reference external" href="https://mast.stsci.edu/portal/Mashup/Clients/Mast/Portal.html">MAST TESS
 portal</a>.</p>
 <pre class="code ipython3 literal-block">
-<span class="n">search_result</span> <span class="o">=</span> <span class="n">lk</span><span class="o">.</span><span class="n">search_tesscut</span><span class="p">(</span><span class="s1">'Gaia DR25290850609994130560'</span><span class="p">)</span>
-<span class="nb">print</span><span class="p">(</span><span class="n">search_result</span><span class="p">)</span>
+<span class="n">search_result</span> <span class="o">=</span> <span class="n">lk</span><span class="o">.</span><span class="n">search_tesscut</span><span class="p">(</span><span class="s1">'Gaia DR25290850609994130560'</span><span class="p">)</span><span class="w">
+</span><span class="nb">print</span><span class="p">(</span><span class="n">search_result</span><span class="p">)</span>
 </pre>
 <pre class="literal-block">
 SearchResult containing 5 data products.
@@ -277,9 +277,9 @@ You can download data from just one sector and specify the cutout_size
 in number of TESS pixels on a side as an argument to <tt class="docutils literal">.download()</tt>.
 The default is a meager 5 × 5 square. Let’s go with 10 pixels square.</p>
 <pre class="code ipython3 literal-block">
-<span class="n">search_result_s4</span> <span class="o">=</span> <span class="n">lk</span><span class="o">.</span><span class="n">search_tesscut</span><span class="p">(</span><span class="s1">'Gaia DR25290850609994130560'</span><span class="p">,</span> <span class="n">sector</span><span class="o">=</span><span class="mi">4</span><span class="p">)</span>
-<span class="n">tpfs_s4</span> <span class="o">=</span> <span class="n">search_result_s4</span><span class="o">.</span><span class="n">download</span><span class="p">(</span><span class="n">cutout_size</span><span class="o">=</span><span class="mi">10</span><span class="p">)</span>
-<span class="nb">print</span><span class="p">(</span><span class="n">tpfs_s4</span><span class="p">)</span>
+<span class="n">search_result_s4</span> <span class="o">=</span> <span class="n">lk</span><span class="o">.</span><span class="n">search_tesscut</span><span class="p">(</span><span class="s1">'Gaia DR25290850609994130560'</span><span class="p">,</span> <span class="n">sector</span><span class="o">=</span><span class="mi">4</span><span class="p">)</span><span class="w">
+</span><span class="n">tpfs_s4</span> <span class="o">=</span> <span class="n">search_result_s4</span><span class="o">.</span><span class="n">download</span><span class="p">(</span><span class="n">cutout_size</span><span class="o">=</span><span class="mi">10</span><span class="p">)</span><span class="w">
+</span><span class="nb">print</span><span class="p">(</span><span class="n">tpfs_s4</span><span class="p">)</span>
 </pre>
 <pre class="literal-block">
 TessTargetPixelFile(TICID: Gaia DR25290850609994130560)

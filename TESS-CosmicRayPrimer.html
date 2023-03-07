@@ -16,7 +16,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - TESS Science Support Center" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2023-03-03" />
+    <meta name="dc.date.modified" content="2023-03-07" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Users of TESS Data" />
     <meta name="dc.identifier" content="https://heasarc.gsfc.nasa.gov/docs/tess/" />
@@ -216,26 +216,23 @@ your science with TESS data.</p>
 <h3>0. Introduction to TESS data products</h3>
 <p>TESS has three main data products. We will briefly discuss them here,
 and lay out how cosmic rays are addressed in the data files.</p>
-<ul class="simple">
-<li>Full Frame Images (FFIs): An FFI is the full set of all science and
+<p>Full Frame Images (FFIs): An FFI is the full set of all science and
 collateral pixels across all four CCDs of a given camera. In the prime
 mission (Cycles 1 and 2), they had a cadence of 30-minutes, then
 10-minutes in the first extension (Cycles 3 and 4), and 200-seconds in
 the second extension (Cycle 5+). The images are built up from 2-second
 exposures, with Cosmic Ray Mitigation (CMR) being implemented onboard as
-described in Section 1.</li>
-<li>Target Pixel Files (TPFs): These are cutouts of the pixels surrounding
+described in Section 1.</p>
+<p>Target Pixel Files (TPFs): These are cutouts of the pixels surrounding
 pre-selected targets of interest. TPFs have a cadence of 120-seconds
 only in the primary mission, but from the extended mission onwards they
 may also have a cadence of 20-seconds. Cosmic Ray Mitigation is applied
-onboard for 120-second TPFs, but not for 20-second TPFs.</li>
-<li>Lightcurves (LCs): Files containing the brightness of a given target
-over time for pre-selected targets. Lightcurves are created by combining
-the flux within a given aperture on the TPF. These have cadences of
-either 2 minutes or, beginning in the extended mission, 20-seconds.
-120-second tpfs have Cosmic Ray Mitigation, while 20-second data
-products do not.</li>
-</ul>
+onboard for 120-second TPFs, but not for 20-second TPFs.</p>
+<p>Lightcurves (LC): Files containing the brightness of a given target over
+time for pre-selected targets. Lightcurves are created by combining the
+flux within a given aperture on the TPF. These have cadences of either 2
+minutes or, beginning in the extended mission, 20-seconds. 120-second
+LCs have Cosmic Ray Mitigation, while 20-second data products do not.</p>
 <p>All LCs are processed using the Science Processing Operations Center
 (SPOC) pipeline. The SPOC is located at NASA Ames and the pipeline,
 based on that developed for Kepler (see Jenkins 2016), is used to
@@ -250,8 +247,8 @@ rays are identified and removed. See Section 2 for further details.</p>
 <p>Cosmic Ray Mitigtaion (CRM) is a strategy employed by TESS during data
 collection. This strategy modifies the data collection of images of the
 sky to remove large outliers. The minimum exposure time for TESS is 2
-seconds. Every image product is made of the addition of several 2-second
-exposures. The CRM procedure is as follows:</p>
+seconds. Every image product is made from the addition of several
+2-second exposures. The CRM procedure is as follows:</p>
 <ul class="simple">
 <li>The TESS spacecraft takes 10, 2-second exposures of the sky, totaling
 20-seconds</li>
@@ -269,27 +266,27 @@ times to create one 30-minute FFI during the prime mission.</li>
 <p>Below is a representation of what occurs on-board, for each pixel for
 each 20-second frame</p>
 <pre class="code ipython3 literal-block">
-<span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="nn">np</span>
-<span class="kn">import</span> <span class="nn">matplotlib.pyplot</span> <span class="k">as</span> <span class="nn">plt</span>
-<span class="n">plt</span><span class="o">.</span><span class="n">style</span><span class="o">.</span><span class="n">use</span><span class="p">(</span><span class="s1">'seaborn-white'</span><span class="p">)</span>
+<span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="nn">np</span><span class="w">
+</span><span class="kn">import</span> <span class="nn">matplotlib.pyplot</span> <span class="k">as</span> <span class="nn">plt</span><span class="w">
+</span><span class="n">plt</span><span class="o">.</span><span class="n">style</span><span class="o">.</span><span class="n">use</span><span class="p">(</span><span class="s1">'seaborn-white'</span><span class="p">)</span>
 </pre>
 <pre class="code ipython3 literal-block">
-<span class="n">f</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">random</span><span class="o">.</span><span class="n">normal</span><span class="p">(</span><span class="mi">100</span><span class="p">,</span> <span class="mi">10</span><span class="p">,</span> <span class="n">size</span><span class="o">=</span><span class="mi">10</span><span class="p">)</span>
+<span class="n">f</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">random</span><span class="o">.</span><span class="n">normal</span><span class="p">(</span><span class="mi">100</span><span class="p">,</span> <span class="mi">10</span><span class="p">,</span> <span class="n">size</span><span class="o">=</span><span class="mi">10</span><span class="p">)</span><span class="w">
 
-<span class="n">fig</span><span class="p">,</span> <span class="n">ax</span> <span class="o">=</span> <span class="n">plt</span><span class="o">.</span><span class="n">subplots</span><span class="p">()</span>
-<span class="n">ax</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">arange</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="mi">20</span><span class="p">,</span> <span class="mi">2</span><span class="p">),</span> <span class="n">f</span><span class="p">,</span> <span class="n">c</span><span class="o">=</span><span class="s1">'k'</span><span class="p">,</span> <span class="n">zorder</span><span class="o">=</span><span class="mi">1</span><span class="p">,</span> <span class="n">marker</span><span class="o">=</span><span class="s1">'.'</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s1">'Kept Cadences'</span><span class="p">)</span>
-<span class="n">ax</span><span class="o">.</span><span class="n">scatter</span><span class="p">([</span><span class="n">np</span><span class="o">.</span><span class="n">argmin</span><span class="p">(</span><span class="n">f</span><span class="p">)</span><span class="o">*</span><span class="mi">2</span><span class="p">,</span> <span class="n">np</span><span class="o">.</span><span class="n">argmax</span><span class="p">(</span><span class="n">f</span><span class="p">)</span><span class="o">*</span><span class="mi">2</span><span class="p">],</span> <span class="p">[</span><span class="n">f</span><span class="o">.</span><span class="n">min</span><span class="p">(),</span> <span class="n">f</span><span class="o">.</span><span class="n">max</span><span class="p">()],</span> <span class="n">c</span><span class="o">=</span><span class="s1">'r'</span><span class="p">,</span> <span class="n">marker</span><span class="o">=</span><span class="s1">'x'</span><span class="p">,</span> <span class="n">s</span><span class="o">=</span><span class="mi">100</span><span class="p">,</span> <span class="n">zorder</span><span class="o">=</span><span class="mi">10</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s1">'Removed Cadences'</span><span class="p">)</span>
+</span><span class="n">fig</span><span class="p">,</span> <span class="n">ax</span> <span class="o">=</span> <span class="n">plt</span><span class="o">.</span><span class="n">subplots</span><span class="p">()</span><span class="w">
+</span><span class="n">ax</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">arange</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="mi">20</span><span class="p">,</span> <span class="mi">2</span><span class="p">),</span> <span class="n">f</span><span class="p">,</span> <span class="n">c</span><span class="o">=</span><span class="s1">'k'</span><span class="p">,</span> <span class="n">zorder</span><span class="o">=</span><span class="mi">1</span><span class="p">,</span> <span class="n">marker</span><span class="o">=</span><span class="s1">'.'</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s1">'Kept Cadences'</span><span class="p">)</span><span class="w">
+</span><span class="n">ax</span><span class="o">.</span><span class="n">scatter</span><span class="p">([</span><span class="n">np</span><span class="o">.</span><span class="n">argmin</span><span class="p">(</span><span class="n">f</span><span class="p">)</span><span class="o">*</span><span class="mi">2</span><span class="p">,</span> <span class="n">np</span><span class="o">.</span><span class="n">argmax</span><span class="p">(</span><span class="n">f</span><span class="p">)</span><span class="o">*</span><span class="mi">2</span><span class="p">],</span> <span class="p">[</span><span class="n">f</span><span class="o">.</span><span class="n">min</span><span class="p">(),</span> <span class="n">f</span><span class="o">.</span><span class="n">max</span><span class="p">()],</span> <span class="n">c</span><span class="o">=</span><span class="s1">'r'</span><span class="p">,</span> <span class="n">marker</span><span class="o">=</span><span class="s1">'x'</span><span class="p">,</span> <span class="n">s</span><span class="o">=</span><span class="mi">100</span><span class="p">,</span> <span class="n">zorder</span><span class="o">=</span><span class="mi">10</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s1">'Removed Cadences'</span><span class="p">)</span><span class="w">
 
-<span class="n">ax</span><span class="o">.</span><span class="n">hlines</span><span class="p">(</span> <span class="n">np</span><span class="o">.</span><span class="n">mean</span><span class="p">(</span><span class="n">f</span><span class="p">),</span> <span class="mi">0</span><span class="p">,</span><span class="mi">24</span><span class="p">,</span><span class="n">linestyles</span><span class="o">=</span><span class="s1">'dashed'</span><span class="p">,</span> <span class="n">color</span><span class="o">=</span><span class="s1">'k'</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s1">'mean (with outliers)'</span><span class="p">)</span>
-<span class="n">ax</span><span class="o">.</span><span class="n">hlines</span><span class="p">(</span> <span class="n">np</span><span class="o">.</span><span class="n">mean</span><span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">delete</span><span class="p">(</span><span class="n">f</span><span class="p">,</span> <span class="p">[</span><span class="n">np</span><span class="o">.</span><span class="n">argmin</span><span class="p">(</span><span class="n">f</span><span class="p">),</span> <span class="n">np</span><span class="o">.</span><span class="n">argmax</span><span class="p">(</span><span class="n">f</span><span class="p">)])),</span> <span class="mi">0</span><span class="p">,</span><span class="mi">24</span><span class="p">,</span><span class="n">linestyles</span><span class="o">=</span><span class="s1">'dashed'</span><span class="p">,</span> <span class="n">color</span><span class="o">=</span><span class="s1">'r'</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s1">'mean (removed outliers)'</span><span class="p">)</span>
+</span><span class="n">ax</span><span class="o">.</span><span class="n">hlines</span><span class="p">(</span> <span class="n">np</span><span class="o">.</span><span class="n">mean</span><span class="p">(</span><span class="n">f</span><span class="p">),</span> <span class="mi">0</span><span class="p">,</span><span class="mi">24</span><span class="p">,</span><span class="n">linestyles</span><span class="o">=</span><span class="s1">'dashed'</span><span class="p">,</span> <span class="n">color</span><span class="o">=</span><span class="s1">'k'</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s1">'mean (with outliers)'</span><span class="p">)</span><span class="w">
+</span><span class="n">ax</span><span class="o">.</span><span class="n">hlines</span><span class="p">(</span> <span class="n">np</span><span class="o">.</span><span class="n">mean</span><span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">delete</span><span class="p">(</span><span class="n">f</span><span class="p">,</span> <span class="p">[</span><span class="n">np</span><span class="o">.</span><span class="n">argmin</span><span class="p">(</span><span class="n">f</span><span class="p">),</span> <span class="n">np</span><span class="o">.</span><span class="n">argmax</span><span class="p">(</span><span class="n">f</span><span class="p">)])),</span> <span class="mi">0</span><span class="p">,</span><span class="mi">24</span><span class="p">,</span><span class="n">linestyles</span><span class="o">=</span><span class="s1">'dashed'</span><span class="p">,</span> <span class="n">color</span><span class="o">=</span><span class="s1">'r'</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s1">'mean (removed outliers)'</span><span class="p">)</span><span class="w">
 
-<span class="n">ax</span><span class="o">.</span><span class="n">set_xlim</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span><span class="mi">20</span><span class="p">)</span>
-<span class="n">ax</span><span class="o">.</span><span class="n">set</span><span class="p">(</span><span class="n">xlabel</span><span class="o">=</span><span class="s1">'Time [seconds]'</span><span class="p">,</span> <span class="n">ylabel</span><span class="o">=</span><span class="s1">'Measured Flux'</span><span class="p">)</span>
-<span class="n">ax</span><span class="o">.</span><span class="n">legend</span><span class="p">(</span><span class="n">loc</span><span class="o">=</span><span class="s1">'upper center'</span><span class="p">,</span> <span class="n">bbox_to_anchor</span><span class="o">=</span><span class="p">(</span><span class="mf">0.5</span><span class="p">,</span> <span class="mf">1.15</span><span class="p">),</span>
-          <span class="n">fancybox</span><span class="o">=</span><span class="kc">False</span><span class="p">,</span> <span class="n">shadow</span><span class="o">=</span><span class="kc">False</span><span class="p">,</span> <span class="n">ncol</span><span class="o">=</span><span class="mi">2</span><span class="p">)</span>
+</span><span class="n">ax</span><span class="o">.</span><span class="n">set_xlim</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span><span class="mi">20</span><span class="p">)</span><span class="w">
+</span><span class="n">ax</span><span class="o">.</span><span class="n">set</span><span class="p">(</span><span class="n">xlabel</span><span class="o">=</span><span class="s1">'Time [seconds]'</span><span class="p">,</span> <span class="n">ylabel</span><span class="o">=</span><span class="s1">'Measured Flux'</span><span class="p">)</span><span class="w">
+</span><span class="n">ax</span><span class="o">.</span><span class="n">legend</span><span class="p">(</span><span class="n">loc</span><span class="o">=</span><span class="s1">'upper center'</span><span class="p">,</span> <span class="n">bbox_to_anchor</span><span class="o">=</span><span class="p">(</span><span class="mf">0.5</span><span class="p">,</span> <span class="mf">1.15</span><span class="p">),</span><span class="w">
+</span>          <span class="n">fancybox</span><span class="o">=</span><span class="kc">False</span><span class="p">,</span> <span class="n">shadow</span><span class="o">=</span><span class="kc">False</span><span class="p">,</span> <span class="n">ncol</span><span class="o">=</span><span class="mi">2</span><span class="p">)</span>
 </pre>
 <pre class="literal-block">
-&lt;matplotlib.legend.Legend at 0x29fae2100&gt;
+&lt;matplotlib.legend.Legend at 0x115d0fc70&gt;
 </pre>
 <img alt="" src="images/CRM_demo.png" />
 <p>CRM is “baked in” to the data, it can not be removed, and it can not be
@@ -328,7 +325,7 @@ to the archive.</li>
 <li><strong>Extremely fast, asymmetric, astrophysical variability (on
 time-scales of 20-seconds or less) may be adversly effected.</strong> The
 CRM might, for example, remove extremely short term stellar flares.</li>
-<li><strong>The noise distributions of the data are effected.</strong> Because cosmic
+<li><strong>The noise distributions of the data are affected.</strong> Because cosmic
 rays do not occur in every 20-second coadd, the CRM will alter the
 pixel time-series of the true target flux. This can impact the noise
 distribution and properties of the target.</li>
@@ -346,38 +343,35 @@ this case we recommend that you propose to the TESS General Investigator
 to obtain 20-second data of your targets of interest. However, 20-second
 targets are a limited resource as they are a large volumn of data, so
 there is more competition for those resources.</p>
-<p>However, 20-second data will be more suceptible to cosmic rays, which
-will also impact your analyses. For further details, see below:</p>
+<p>As the 20-second data will be more suceptible to cosmic rays, this will
+also impact your analyses. For further details, see below:</p>
 </div>
 <div class="section" id="spoc-pipeline-cosmic-ray-identification-and-removal">
 <h3>2. SPOC Pipeline Cosmic Ray Identification and Removal</h3>
-<p>Once data is recieved, data is processed by the TESS pipeline. For
+<p>Once data is recieved, it is processed by the TESS pipeline. For
 20-second data only, because CRM is not used on board, the SPOC pipeline
-identifies cosmic rays in the data and removes them. The removal process
-is based on the one employed by Kepler (See Section 6.3.1 in the <a class="reference external" href="https://archive.stsci.edu/kepler/manuals/KSCI-19081-003-KDPH.pdf">Kepler
-manual</a>).
-The removed cosmic rays are stored in the FITS file and can be accessed
-and added back to the TPF if required. To briefly summarize the process,
-cosmic rays are:</p>
+identifies cosmic rays in the data and removes them. The removed cosmic
+rays are stored in the FITS file and can be accessed and added back to
+the TPF if required. To briefly summarize the process, cosmic rays are:</p>
 <ul class="simple">
 <li>Identified in each 20-second image</li>
 <li>In images where there is a cosmic ray identified, the amplitude of
 the cosmic ray in each pixel is recorded.</li>
 <li>Cosmic rays are removed (subtracted) from the pixel level data</li>
 <li>The time, pixel positions, and flux value removed are recorded to an
-array as an extention to the fits file.</li>
+array as an extension to the fits file.</li>
 </ul>
-<p>Below is an example of the information in the cosmic ray extention. For
+<p>Below is an example of the information in the cosmic ray extension. For
 further details on the process, see the <a class="reference external" href="https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_sector_27_drn38_v02.pdf">data release notes from Sector
 27</a>,
 Section 4.1.</p>
 <pre class="code ipython3 literal-block">
-<span class="kn">import</span> <span class="nn">lightkurve</span> <span class="k">as</span> <span class="nn">lk</span>
-<span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="nn">np</span>
-<span class="kn">import</span> <span class="nn">matplotlib.pyplot</span> <span class="k">as</span> <span class="nn">plt</span>
+<span class="kn">import</span> <span class="nn">lightkurve</span> <span class="k">as</span> <span class="nn">lk</span><span class="w">
+</span><span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="nn">np</span><span class="w">
+</span><span class="kn">import</span> <span class="nn">matplotlib.pyplot</span> <span class="k">as</span> <span class="nn">plt</span><span class="w">
 
-<span class="k">def</span> <span class="nf">load_cosmicray_extention</span><span class="p">(</span><span class="n">tpf</span><span class="p">):</span>
-    <span class="sd">&quot;&quot;&quot;Function to load the cosmic ray extention into a datacube
+</span><span class="k">def</span> <span class="nf">load_cosmicray_extension</span><span class="p">(</span><span class="n">tpf</span><span class="p">):</span><span class="w">
+    </span><span class="sd">&quot;&quot;&quot;Function to load the cosmic ray extension into a datacube
 
     Parameters:
     -----------
@@ -388,39 +382,39 @@ Section 4.1.</p>
     -------
     cmr: np.ndarray
         Array containing cosmic ray fluxes of shape tpf.shape
-    &quot;&quot;&quot;</span>
-    <span class="n">cadenceno</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">asarray</span><span class="p">(</span><span class="n">tpf</span><span class="o">.</span><span class="n">cadenceno</span><span class="p">)</span>
+    &quot;&quot;&quot;</span><span class="w">
+</span>    <span class="n">cadenceno</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">asarray</span><span class="p">(</span><span class="n">tpf</span><span class="o">.</span><span class="n">cadenceno</span><span class="p">)</span><span class="w">
 
-    <span class="c1"># Get cosmic ray information</span>
-    <span class="n">l</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">where</span><span class="p">([</span><span class="n">hdu</span><span class="o">.</span><span class="n">name</span> <span class="o">==</span> <span class="s1">'TARGET COSMIC RAY'</span> <span class="k">for</span> <span class="n">hdu</span> <span class="ow">in</span> <span class="n">tpf</span><span class="o">.</span><span class="n">hdu</span><span class="p">])[</span><span class="mi">0</span><span class="p">]</span>
-    <span class="k">if</span> <span class="nb">len</span><span class="p">(</span><span class="n">l</span><span class="p">)</span> <span class="o">!=</span> <span class="mi">1</span><span class="p">:</span>
-        <span class="k">raise</span> <span class="ne">ValueError</span><span class="p">(</span><span class="s2">&quot;TPF product has no cosmic ray extension.&quot;</span><span class="p">)</span>
-    <span class="n">hdu</span> <span class="o">=</span> <span class="n">tpf</span><span class="o">.</span><span class="n">hdu</span><span class="p">[</span><span class="n">l</span><span class="p">[</span><span class="mi">0</span><span class="p">]]</span>
-    <span class="n">c</span><span class="p">,</span> <span class="n">x</span><span class="p">,</span> <span class="n">y</span><span class="p">,</span> <span class="n">f</span> <span class="o">=</span> <span class="p">[</span><span class="n">hdu</span><span class="o">.</span><span class="n">data</span><span class="p">[</span><span class="n">attr</span><span class="p">]</span><span class="o">.</span><span class="n">copy</span><span class="p">()</span> <span class="k">for</span> <span class="n">attr</span> <span class="ow">in</span> <span class="p">[</span><span class="s1">'CADENCENO'</span><span class="p">,</span> <span class="s1">'RAWX'</span><span class="p">,</span> <span class="s1">'RAWY'</span><span class="p">,</span> <span class="s1">'COSMIC_RAY'</span><span class="p">]]</span>
-    <span class="k">if</span> <span class="nb">len</span><span class="p">(</span><span class="n">c</span><span class="p">)</span> <span class="o">==</span> <span class="mi">0</span><span class="p">:</span>
-        <span class="k">raise</span> <span class="ne">ValueError</span><span class="p">(</span><span class="s2">&quot;No cosmic rays identified. Is this a 20-second dataset?&quot;</span><span class="p">)</span>
-    <span class="n">x</span> <span class="o">-=</span> <span class="n">tpf</span><span class="o">.</span><span class="n">column</span>
-    <span class="n">y</span> <span class="o">-=</span> <span class="n">tpf</span><span class="o">.</span><span class="n">row</span>
+</span>    <span class="c1"># Get cosmic ray information</span><span class="w">
+</span>    <span class="n">l</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">where</span><span class="p">([</span><span class="n">hdu</span><span class="o">.</span><span class="n">name</span> <span class="o">==</span> <span class="s1">'TARGET COSMIC RAY'</span> <span class="k">for</span> <span class="n">hdu</span> <span class="ow">in</span> <span class="n">tpf</span><span class="o">.</span><span class="n">hdu</span><span class="p">])[</span><span class="mi">0</span><span class="p">]</span><span class="w">
+</span>    <span class="k">if</span> <span class="nb">len</span><span class="p">(</span><span class="n">l</span><span class="p">)</span> <span class="o">!=</span> <span class="mi">1</span><span class="p">:</span><span class="w">
+</span>        <span class="k">raise</span> <span class="ne">ValueError</span><span class="p">(</span><span class="s2">&quot;TPF product has no cosmic ray extension.&quot;</span><span class="p">)</span><span class="w">
+</span>    <span class="n">hdu</span> <span class="o">=</span> <span class="n">tpf</span><span class="o">.</span><span class="n">hdu</span><span class="p">[</span><span class="n">l</span><span class="p">[</span><span class="mi">0</span><span class="p">]]</span><span class="w">
+</span>    <span class="n">c</span><span class="p">,</span> <span class="n">x</span><span class="p">,</span> <span class="n">y</span><span class="p">,</span> <span class="n">f</span> <span class="o">=</span> <span class="p">[</span><span class="n">hdu</span><span class="o">.</span><span class="n">data</span><span class="p">[</span><span class="n">attr</span><span class="p">]</span><span class="o">.</span><span class="n">copy</span><span class="p">()</span> <span class="k">for</span> <span class="n">attr</span> <span class="ow">in</span> <span class="p">[</span><span class="s1">'CADENCENO'</span><span class="p">,</span> <span class="s1">'RAWX'</span><span class="p">,</span> <span class="s1">'RAWY'</span><span class="p">,</span> <span class="s1">'COSMIC_RAY'</span><span class="p">]]</span><span class="w">
+</span>    <span class="k">if</span> <span class="nb">len</span><span class="p">(</span><span class="n">c</span><span class="p">)</span> <span class="o">==</span> <span class="mi">0</span><span class="p">:</span><span class="w">
+</span>        <span class="k">raise</span> <span class="ne">ValueError</span><span class="p">(</span><span class="s2">&quot;No cosmic rays identified. Is this a 20-second dataset?&quot;</span><span class="p">)</span><span class="w">
+</span>    <span class="n">x</span> <span class="o">-=</span> <span class="n">tpf</span><span class="o">.</span><span class="n">column</span><span class="w">
+</span>    <span class="n">y</span> <span class="o">-=</span> <span class="n">tpf</span><span class="o">.</span><span class="n">row</span><span class="w">
 
-    <span class="c1"># Mask down to only cosmic rays in cadences within the TPF</span>
-    <span class="n">k</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">in1d</span><span class="p">(</span><span class="n">c</span><span class="p">,</span> <span class="n">cadenceno</span><span class="p">)</span>
-    <span class="n">c</span><span class="p">,</span> <span class="n">x</span><span class="p">,</span> <span class="n">y</span><span class="p">,</span> <span class="n">f</span> <span class="o">=</span> <span class="n">c</span><span class="p">[</span><span class="n">k</span><span class="p">],</span> <span class="n">x</span><span class="p">[</span><span class="n">k</span><span class="p">],</span> <span class="n">y</span><span class="p">[</span><span class="n">k</span><span class="p">],</span> <span class="n">f</span><span class="p">[</span><span class="n">k</span><span class="p">]</span>
+</span>    <span class="c1"># Mask down to only cosmic rays in cadences within the TPF</span><span class="w">
+</span>    <span class="n">k</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">in1d</span><span class="p">(</span><span class="n">c</span><span class="p">,</span> <span class="n">cadenceno</span><span class="p">)</span><span class="w">
+</span>    <span class="n">c</span><span class="p">,</span> <span class="n">x</span><span class="p">,</span> <span class="n">y</span><span class="p">,</span> <span class="n">f</span> <span class="o">=</span> <span class="n">c</span><span class="p">[</span><span class="n">k</span><span class="p">],</span> <span class="n">x</span><span class="p">[</span><span class="n">k</span><span class="p">],</span> <span class="n">y</span><span class="p">[</span><span class="n">k</span><span class="p">],</span> <span class="n">f</span><span class="p">[</span><span class="n">k</span><span class="p">]</span><span class="w">
 
-    <span class="c1"># Map cosmic ray cadences to array indices</span>
-    <span class="n">r</span> <span class="o">=</span> <span class="p">{</span><span class="n">cadenceno</span><span class="p">[</span><span class="n">idx</span><span class="p">]:</span><span class="n">idx</span> <span class="k">for</span> <span class="n">idx</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="n">tpf</span><span class="o">.</span><span class="n">shape</span><span class="p">[</span><span class="mi">0</span><span class="p">])}</span>
-    <span class="n">inv</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">asarray</span><span class="p">([</span><span class="n">r</span><span class="p">[</span><span class="n">c1</span><span class="p">]</span> <span class="k">for</span> <span class="n">c1</span> <span class="ow">in</span> <span class="n">c</span><span class="p">])</span>
+</span>    <span class="c1"># Map cosmic ray cadences to array indices</span><span class="w">
+</span>    <span class="n">r</span> <span class="o">=</span> <span class="p">{</span><span class="n">cadenceno</span><span class="p">[</span><span class="n">idx</span><span class="p">]:</span><span class="n">idx</span> <span class="k">for</span> <span class="n">idx</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="n">tpf</span><span class="o">.</span><span class="n">shape</span><span class="p">[</span><span class="mi">0</span><span class="p">])}</span><span class="w">
+</span>    <span class="n">inv</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">asarray</span><span class="p">([</span><span class="n">r</span><span class="p">[</span><span class="n">c1</span><span class="p">]</span> <span class="k">for</span> <span class="n">c1</span> <span class="ow">in</span> <span class="n">c</span><span class="p">])</span><span class="w">
 
-    <span class="c1"># Build a cube</span>
-    <span class="n">cr</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">zeros</span><span class="p">(</span><span class="n">tpf</span><span class="o">.</span><span class="n">shape</span><span class="p">)</span>
-    <span class="n">cr</span><span class="p">[</span><span class="n">inv</span><span class="p">,</span> <span class="n">y</span><span class="p">,</span> <span class="n">x</span><span class="p">]</span> <span class="o">=</span> <span class="n">f</span>
-    <span class="k">return</span> <span class="n">cr</span>
+</span>    <span class="c1"># Build a cube</span><span class="w">
+</span>    <span class="n">cr</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">zeros</span><span class="p">(</span><span class="n">tpf</span><span class="o">.</span><span class="n">shape</span><span class="p">)</span><span class="w">
+</span>    <span class="n">cr</span><span class="p">[</span><span class="n">inv</span><span class="p">,</span> <span class="n">y</span><span class="p">,</span> <span class="n">x</span><span class="p">]</span> <span class="o">=</span> <span class="n">f</span><span class="w">
+</span>    <span class="k">return</span> <span class="n">cr</span>
 </pre>
 <p>In the example below, we make use of a TPF file. If you need a refresher
 on how to handle TPF files before proceeding, check out <a class="reference external" href="https://docs.lightkurve.org/tutorials/1-getting-started/what-are-targetpixelfile-objects.html">this
 tutorial</a>.</p>
 <pre class="code ipython3 literal-block">
-<span class="c1">#Get an example 20-s TPF file</span>
-<span class="n">tpf</span> <span class="o">=</span> <span class="n">lk</span><span class="o">.</span><span class="n">search_targetpixelfile</span><span class="p">(</span><span class="s1">'Kepler 10'</span><span class="p">,</span> <span class="n">mission</span><span class="o">=</span><span class="s1">'TESS'</span><span class="p">,</span> <span class="n">author</span><span class="o">=</span><span class="s1">'SPOC'</span><span class="p">,</span> <span class="n">exptime</span><span class="o">=</span><span class="mi">20</span><span class="p">,</span> <span class="n">sector</span><span class="o">=</span><span class="mi">40</span><span class="p">)</span><span class="o">.</span><span class="n">download</span><span class="p">()</span>
+<span class="c1">#Get an example 20-s TPF file</span><span class="w">
+</span><span class="n">tpf</span> <span class="o">=</span> <span class="n">lk</span><span class="o">.</span><span class="n">search_targetpixelfile</span><span class="p">(</span><span class="s1">'Kepler 10'</span><span class="p">,</span> <span class="n">mission</span><span class="o">=</span><span class="s1">'TESS'</span><span class="p">,</span> <span class="n">author</span><span class="o">=</span><span class="s1">'SPOC'</span><span class="p">,</span> <span class="n">exptime</span><span class="o">=</span><span class="mi">20</span><span class="p">,</span> <span class="n">sector</span><span class="o">=</span><span class="mi">40</span><span class="p">)</span><span class="o">.</span><span class="n">download</span><span class="p">()</span>
 </pre>
 <pre class="code ipython3 literal-block">
 <span class="n">tpf</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">vmin</span><span class="o">=</span><span class="mi">0</span><span class="p">,</span> <span class="n">vmax</span><span class="o">=</span><span class="mi">250</span><span class="p">)</span>
@@ -430,25 +424,25 @@ tutorial</a>.</p>
 </pre>
 <img alt="" src="images/TPF_cosmic_ray_primer.png" />
 <pre class="code ipython3 literal-block">
-<span class="c1">#Get the cosmic ray data using the function we defined above</span>
-<span class="n">cosmic_ray_cube</span> <span class="o">=</span> <span class="n">load_cosmicray_extention</span><span class="p">(</span><span class="n">tpf</span><span class="p">)</span>
+<span class="c1">#Get the cosmic ray data using the function we defined above</span><span class="w">
+</span><span class="n">cosmic_ray_cube</span> <span class="o">=</span> <span class="n">load_cosmicray_extension</span><span class="p">(</span><span class="n">tpf</span><span class="p">)</span>
 </pre>
 <pre class="code ipython3 literal-block">
-<span class="c1">#Plot some random examples of the CRs in the data</span>
-<span class="n">ax_num</span> <span class="o">=</span> <span class="mi">0</span>
-<span class="n">fig</span><span class="p">,</span> <span class="n">ax</span> <span class="o">=</span> <span class="n">plt</span><span class="o">.</span><span class="n">subplots</span><span class="p">(</span><span class="mi">2</span><span class="p">,</span><span class="mi">3</span><span class="p">,</span> <span class="n">figsize</span><span class="o">=</span><span class="p">(</span><span class="mi">14</span><span class="p">,</span><span class="mi">8</span><span class="p">))</span>
-<span class="k">for</span> <span class="n">ii</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="mi">100</span><span class="p">,</span><span class="mi">1000</span><span class="p">,</span> <span class="mi">10</span><span class="p">):</span>
-    <span class="c1">#only plot if a CR was found in the frame</span>
-    <span class="k">if</span> <span class="n">np</span><span class="o">.</span><span class="n">sum</span><span class="p">(</span><span class="n">cosmic_ray_cube</span><span class="p">[</span><span class="n">ii</span><span class="p">])</span> <span class="o">&gt;</span> <span class="mi">0</span><span class="p">:</span>
-        <span class="n">im</span> <span class="o">=</span> <span class="n">ax</span><span class="o">.</span><span class="n">flat</span><span class="p">[</span><span class="n">ax_num</span><span class="p">]</span><span class="o">.</span><span class="n">imshow</span><span class="p">(</span><span class="n">cosmic_ray_cube</span><span class="p">[</span><span class="n">ii</span><span class="p">],</span> <span class="n">cmap</span><span class="o">=</span><span class="s1">'viridis'</span><span class="p">,</span><span class="n">vmin</span><span class="o">=</span><span class="mi">0</span><span class="p">,</span> <span class="n">vmax</span><span class="o">=</span><span class="mi">250</span><span class="p">)</span>
-        <span class="n">ax</span><span class="o">.</span><span class="n">flat</span><span class="p">[</span><span class="n">ax_num</span><span class="p">]</span><span class="o">.</span><span class="n">set</span><span class="p">(</span><span class="n">xlabel</span><span class="o">=</span><span class="s1">'Pixel Column'</span><span class="p">,</span> <span class="n">ylabel</span><span class="o">=</span><span class="s1">'Pixel Row'</span><span class="p">,</span> <span class="n">title</span><span class="o">=</span><span class="s1">'Cosmic Ray Extention'</span><span class="p">)</span>
-        <span class="n">cbar</span> <span class="o">=</span> <span class="n">plt</span><span class="o">.</span><span class="n">colorbar</span><span class="p">(</span><span class="n">im</span><span class="p">,</span> <span class="n">ax</span><span class="o">=</span><span class="n">ax</span><span class="o">.</span><span class="n">flat</span><span class="p">[</span><span class="n">ax_num</span><span class="p">])</span>
-        <span class="n">cbar</span><span class="o">.</span><span class="n">set_label</span><span class="p">(</span><span class="s1">'Counts [e$^-$/s]'</span><span class="p">)</span>
-        <span class="n">ax_num</span> <span class="o">+=</span><span class="mi">1</span>
-        <span class="k">if</span> <span class="n">ax_num</span><span class="o">==</span><span class="mi">6</span><span class="p">:</span>
-            <span class="k">break</span>
+<span class="c1">#Plot some random examples of the CRs in the data</span><span class="w">
+</span><span class="n">ax_num</span> <span class="o">=</span> <span class="mi">0</span><span class="w">
+</span><span class="n">fig</span><span class="p">,</span> <span class="n">ax</span> <span class="o">=</span> <span class="n">plt</span><span class="o">.</span><span class="n">subplots</span><span class="p">(</span><span class="mi">2</span><span class="p">,</span><span class="mi">3</span><span class="p">,</span> <span class="n">figsize</span><span class="o">=</span><span class="p">(</span><span class="mi">14</span><span class="p">,</span><span class="mi">8</span><span class="p">))</span><span class="w">
+</span><span class="k">for</span> <span class="n">ii</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="mi">100</span><span class="p">,</span><span class="mi">1000</span><span class="p">,</span> <span class="mi">10</span><span class="p">):</span><span class="w">
+</span>    <span class="c1">#only plot if a CR was found in the frame</span><span class="w">
+</span>    <span class="k">if</span> <span class="n">np</span><span class="o">.</span><span class="n">sum</span><span class="p">(</span><span class="n">cosmic_ray_cube</span><span class="p">[</span><span class="n">ii</span><span class="p">])</span> <span class="o">&gt;</span> <span class="mi">0</span><span class="p">:</span><span class="w">
+</span>        <span class="n">im</span> <span class="o">=</span> <span class="n">ax</span><span class="o">.</span><span class="n">flat</span><span class="p">[</span><span class="n">ax_num</span><span class="p">]</span><span class="o">.</span><span class="n">imshow</span><span class="p">(</span><span class="n">cosmic_ray_cube</span><span class="p">[</span><span class="n">ii</span><span class="p">],</span> <span class="n">cmap</span><span class="o">=</span><span class="s1">'viridis'</span><span class="p">,</span><span class="n">vmin</span><span class="o">=</span><span class="mi">0</span><span class="p">,</span> <span class="n">vmax</span><span class="o">=</span><span class="mi">250</span><span class="p">)</span><span class="w">
+</span>        <span class="n">ax</span><span class="o">.</span><span class="n">flat</span><span class="p">[</span><span class="n">ax_num</span><span class="p">]</span><span class="o">.</span><span class="n">set</span><span class="p">(</span><span class="n">xlabel</span><span class="o">=</span><span class="s1">'Pixel Column'</span><span class="p">,</span> <span class="n">ylabel</span><span class="o">=</span><span class="s1">'Pixel Row'</span><span class="p">,</span> <span class="n">title</span><span class="o">=</span><span class="s1">'Cosmic Ray Extension'</span><span class="p">)</span><span class="w">
+</span>        <span class="n">cbar</span> <span class="o">=</span> <span class="n">plt</span><span class="o">.</span><span class="n">colorbar</span><span class="p">(</span><span class="n">im</span><span class="p">,</span> <span class="n">ax</span><span class="o">=</span><span class="n">ax</span><span class="o">.</span><span class="n">flat</span><span class="p">[</span><span class="n">ax_num</span><span class="p">])</span><span class="w">
+</span>        <span class="n">cbar</span><span class="o">.</span><span class="n">set_label</span><span class="p">(</span><span class="s1">'Counts [e$^-$/s]'</span><span class="p">)</span><span class="w">
+</span>        <span class="n">ax_num</span> <span class="o">+=</span><span class="mi">1</span><span class="w">
+</span>        <span class="k">if</span> <span class="n">ax_num</span><span class="o">==</span><span class="mi">6</span><span class="p">:</span><span class="w">
+</span>            <span class="k">break</span><span class="w">
 
-<span class="n">plt</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
+</span><span class="n">plt</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
 </pre>
 <img alt="" src="images/Cosmic_ray_examplegrid.png" />
 <p>The cosmic ray extension can be used to re-inject the cosmic rays into
@@ -456,19 +450,19 @@ the pixel data. For example, using the pipeline processed pixels we can
 simply add the cosmic rays back into the simple aperture photometry
 <a class="reference external" href="https://heasarc.gsfc.nasa.gov/docs/tess/LightCurveFile-Object-Tutorial.html">(SAP)</a>.</p>
 <pre class="code ipython3 literal-block">
-<span class="n">lc</span> <span class="o">=</span> <span class="n">tpf</span><span class="o">.</span><span class="n">to_lightcurve</span><span class="p">(</span><span class="n">aperture_mask</span><span class="o">=</span><span class="n">tpf</span><span class="o">.</span><span class="n">pipeline_mask</span><span class="p">)</span>
-<span class="n">lc</span><span class="o">.</span><span class="n">plot</span><span class="p">()</span>
+<span class="n">lc</span> <span class="o">=</span> <span class="n">tpf</span><span class="o">.</span><span class="n">to_lightcurve</span><span class="p">(</span><span class="n">aperture_mask</span><span class="o">=</span><span class="n">tpf</span><span class="o">.</span><span class="n">pipeline_mask</span><span class="p">)</span><span class="w">
+</span><span class="n">lc</span><span class="o">.</span><span class="n">plot</span><span class="p">()</span>
 </pre>
 <pre class="literal-block">
 &lt;AxesSubplot:xlabel='Time - 2457000 [BTJD days]', ylabel='Flux [$\mathrm{e^{-}\,s^{-1}}$]'&gt;
 </pre>
 <img alt="" src="images/SAP_without_CR.png" />
 <pre class="code ipython3 literal-block">
-<span class="n">tpf_with_cr</span> <span class="o">=</span> <span class="p">(</span><span class="n">tpf</span> <span class="o">+</span> <span class="n">cosmic_ray_cube</span><span class="p">)</span>
-<span class="n">lc_with_cr</span> <span class="o">=</span> <span class="n">tpf_with_cr</span><span class="o">.</span><span class="n">to_lightcurve</span><span class="p">(</span><span class="n">aperture_mask</span><span class="o">=</span><span class="n">tpf</span><span class="o">.</span><span class="n">pipeline_mask</span><span class="p">)</span>
-<span class="n">ax</span> <span class="o">=</span> <span class="n">lc_with_cr</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">c</span><span class="o">=</span><span class="s1">'r'</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s1">'SAP flux, with cosmic rays'</span><span class="p">)</span>
-<span class="n">lc</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">ax</span><span class="o">=</span><span class="n">ax</span><span class="p">,</span> <span class="n">c</span><span class="o">=</span><span class="s1">'k'</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s1">'SAP flux, without cosmic rays'</span><span class="p">)</span>
-<span class="n">plt</span><span class="o">.</span><span class="n">ylim</span><span class="p">(</span><span class="mi">9000</span><span class="p">,</span><span class="mi">20000</span><span class="p">)</span>
+<span class="n">tpf_with_cr</span> <span class="o">=</span> <span class="p">(</span><span class="n">tpf</span> <span class="o">+</span> <span class="n">cosmic_ray_cube</span><span class="p">)</span><span class="w">
+</span><span class="n">lc_with_cr</span> <span class="o">=</span> <span class="n">tpf_with_cr</span><span class="o">.</span><span class="n">to_lightcurve</span><span class="p">(</span><span class="n">aperture_mask</span><span class="o">=</span><span class="n">tpf</span><span class="o">.</span><span class="n">pipeline_mask</span><span class="p">)</span><span class="w">
+</span><span class="n">ax</span> <span class="o">=</span> <span class="n">lc_with_cr</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">c</span><span class="o">=</span><span class="s1">'r'</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s1">'SAP flux, with cosmic rays'</span><span class="p">)</span><span class="w">
+</span><span class="n">lc</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">ax</span><span class="o">=</span><span class="n">ax</span><span class="p">,</span> <span class="n">c</span><span class="o">=</span><span class="s1">'k'</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s1">'SAP flux, without cosmic rays'</span><span class="p">)</span><span class="w">
+</span><span class="n">plt</span><span class="o">.</span><span class="n">ylim</span><span class="p">(</span><span class="mi">9000</span><span class="p">,</span><span class="mi">20000</span><span class="p">)</span>
 </pre>
 <pre class="literal-block">
 (9000.0, 20000.0)
@@ -480,7 +474,7 @@ all pixels of the aperture. For the SAP flux, you can simply add this
 flux in. However, for the corrected Pre-search Data Conditioning SAP
 <a class="reference external" href="https://heasarc.gsfc.nasa.gov/docs/tess/LightCurveFile-Object-Tutorial.html">(PDCSAP)</a>
 lightcurves, you will need to multiply the cosmic ray correction by an
-extra factor for all pixel within the aperture as follows:</p>
+extra factor for all pixels within the chosen aperture as follows:</p>
 <p><span class="formula"><i>f</i>’<sub><i>PDCSAP</i>_<i>flux</i></sub>(<i>n</i>) = <i>f</i><sub><i>PDCSAP</i>_<i>flux</i></sub>(<i>n</i>) + Δ<i>f</i>(<i>n</i>)*<span class="fullfraction"><span class="ignored">(</span><span class="numerator"><i>CROWDSAP</i></span><span class="ignored">)/(</span><span class="denominator"><i>FLFRCSAP</i></span><span class="ignored">)</span></span></span></p>
 <p>where <span class="formula"><i>f</i>’<sub><i>PDCSAP</i>_<i>flux</i></sub>(<i>n</i>)</span> is the UNCORRECTED flux (ie, with
 cosmic rays injected back in), <span class="formula"><i>f</i><sub><i>PDCSAP</i>_<i>flux</i></sub>(<i>n</i>)</span> is the PDCSAP

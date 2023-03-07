@@ -16,7 +16,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - TESS Science Support Center" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2023-03-03" />
+    <meta name="dc.date.modified" content="2023-03-07" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Users of TESS Data" />
     <meta name="dc.identifier" content="https://heasarc.gsfc.nasa.gov/docs/tess/" />
@@ -266,8 +266,8 @@ function to fetch the files from the data archive.</p>
 System</a> again, focusing on
 planet c.</p>
 <pre class="code ipython3 literal-block">
-<span class="n">search_result</span> <span class="o">=</span> <span class="n">lk</span><span class="o">.</span><span class="n">search_lightcurve</span><span class="p">(</span><span class="s1">'TIC 307210830 c'</span><span class="p">)</span>
-<span class="n">search_result</span>
+<span class="n">search_result</span> <span class="o">=</span> <span class="n">lk</span><span class="o">.</span><span class="n">search_lightcurve</span><span class="p">(</span><span class="s1">'TIC 307210830 c'</span><span class="p">)</span><span class="w">
+</span><span class="n">search_result</span>
 </pre>
 SearchResult containing 7 data products.
 
@@ -354,8 +354,8 @@ keyword while plotting.</p>
 <p><strong>Note</strong>: alternatively, you can replace the <tt class="docutils literal">flux</tt> column with the
 <tt class="docutils literal">sap_flux</tt> column by using `lcf.flux = lcf[‘sap_flux’]</p>
 <pre class="code ipython3 literal-block">
-<span class="n">ax</span> <span class="o">=</span> <span class="n">lcf</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">label</span><span class="o">=</span><span class="s1">'PDCSAP Flux'</span><span class="p">,</span> <span class="n">normalize</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
-<span class="n">lcf</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">column</span><span class="o">=</span><span class="s1">'sap_flux'</span><span class="p">,</span> <span class="n">normalize</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s1">'SAP Flux'</span><span class="p">,</span> <span class="n">ax</span><span class="o">=</span><span class="n">ax</span><span class="p">);</span>
+<span class="n">ax</span> <span class="o">=</span> <span class="n">lcf</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">label</span><span class="o">=</span><span class="s1">'PDCSAP Flux'</span><span class="p">,</span> <span class="n">normalize</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span><span class="w">
+</span><span class="n">lcf</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">column</span><span class="o">=</span><span class="s1">'sap_flux'</span><span class="p">,</span> <span class="n">normalize</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s1">'SAP Flux'</span><span class="p">,</span> <span class="n">ax</span><span class="o">=</span><span class="n">ax</span><span class="p">);</span>
 </pre>
 <img alt="" src="images/LightCurveFile-Objects_files/LightCurveFile-Objects_19_0.png" />
 <p>In brief:</p>
@@ -393,8 +393,8 @@ change anything.</p>
 it lets us manipulate the plot using standard Matplotlib functions. For
 example, we can set the title as follow:</p>
 <pre class="code ipython3 literal-block">
-<span class="n">ax</span> <span class="o">=</span> <span class="n">lcf</span><span class="o">.</span><span class="n">plot</span><span class="p">()</span>
-<span class="n">ax</span><span class="o">.</span><span class="n">set_title</span><span class="p">(</span><span class="s2">&quot;PDCSAP light curve of  L 98-59&quot;</span><span class="p">)</span>
+<span class="n">ax</span> <span class="o">=</span> <span class="n">lcf</span><span class="o">.</span><span class="n">plot</span><span class="p">()</span><span class="w">
+</span><span class="n">ax</span><span class="o">.</span><span class="n">set_title</span><span class="p">(</span><span class="s2">&quot;PDCSAP light curve of  L 98-59&quot;</span><span class="p">)</span>
 </pre>
 <pre class="literal-block">
 Text(0.5, 1.0, 'PDCSAP light curve of  L 98-59')
