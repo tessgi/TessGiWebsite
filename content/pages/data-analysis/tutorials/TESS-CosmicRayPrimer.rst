@@ -7,7 +7,7 @@ Authors
 Christina Hedges - Director of the TESS GI Office
 
 Nicole Schanche - Support scientist in the TESS GI Office
-          
+
 How does TESS handle cosmic rays?
 =================================
 
@@ -35,25 +35,25 @@ your science with TESS data.
 TESS has three main data products. We will briefly discuss them here,
 and lay out how cosmic rays are addressed in the data files.
 
--  Full Frame Images (FFIs): An FFI is the full set of all science and
-   collateral pixels across all four CCDs of a given camera. In the prime
-   mission (Cycles 1 and 2), they had a cadence of 30-minutes, then
-   10-minutes in the first extension (Cycles 3 and 4), and 200-seconds in
-   the second extension (Cycle 5+). The images are built up from 2-second
-   exposures, with Cosmic Ray Mitigation (CMR) being implemented onboard as
-   described in Section 1.
--  Target Pixel Files (TPFs): These are cutouts of the pixels surrounding
-   pre-selected targets of interest. TPFs have a cadence of 120-seconds
-   only in the primary mission, but from the extended mission onwards they
-   may also have a cadence of 20-seconds. Cosmic Ray Mitigation is applied
-   onboard for 120-second TPFs, but not for 20-second TPFs.
--  Lightcurves (LCs): Files containing the brightness of a given target
-   over time for pre-selected targets. Lightcurves are created by combining
-   the flux within a given aperture on the TPF. These have cadences of
-   either 2 minutes or, beginning in the extended mission, 20-seconds.
-   120-second tpfs have Cosmic Ray Mitigation, while 20-second data
-   products do not.
+Full Frame Images (FFIs): An FFI is the full set of all science and
+collateral pixels across all four CCDs of a given camera. In the prime
+mission (Cycles 1 and 2), they had a cadence of 30-minutes, then
+10-minutes in the first extension (Cycles 3 and 4), and 200-seconds in
+the second extension (Cycle 5+). The images are built up from 2-second
+exposures, with Cosmic Ray Mitigation (CMR) being implemented onboard as
+described in Section 1.
 
+Target Pixel Files (TPFs): These are cutouts of the pixels surrounding
+pre-selected targets of interest. TPFs have a cadence of 120-seconds
+only in the primary mission, but from the extended mission onwards they
+may also have a cadence of 20-seconds. Cosmic Ray Mitigation is applied
+onboard for 120-second TPFs, but not for 20-second TPFs.
+
+Lightcurves (LC): Files containing the brightness of a given target over
+time for pre-selected targets. Lightcurves are created by combining the
+flux within a given aperture on the TPF. These have cadences of either 2
+minutes or, beginning in the extended mission, 20-seconds. 120-second
+LCs have Cosmic Ray Mitigation, while 20-second data products do not.
 
 All LCs are processed using the Science Processing Operations Center
 (SPOC) pipeline. The SPOC is located at NASA Ames and the pipeline,
@@ -70,8 +70,8 @@ rays are identified and removed. See Section 2 for further details.
 Cosmic Ray Mitigtaion (CRM) is a strategy employed by TESS during data
 collection. This strategy modifies the data collection of images of the
 sky to remove large outliers. The minimum exposure time for TESS is 2
-seconds. Every image product is made of the addition of several 2-second
-exposures. The CRM procedure is as follows:
+seconds. Every image product is made from the addition of several
+2-second exposures. The CRM procedure is as follows:
 
 -  The TESS spacecraft takes 10, 2-second exposures of the sky, totaling
    20-seconds
@@ -116,7 +116,7 @@ each 20-second frame
 
 .. parsed-literal::
 
-    <matplotlib.legend.Legend at 0x29fae2100>
+    <matplotlib.legend.Legend at 0x115d0fc70>
 
 
 
@@ -164,7 +164,7 @@ the key impacts:
 -  **Extremely fast, asymmetric, astrophysical variability (on
    time-scales of 20-seconds or less) may be adversly effected.** The
    CRM might, for example, remove extremely short term stellar flares.
--  **The noise distributions of the data are effected.** Because cosmic
+-  **The noise distributions of the data are affected.** Because cosmic
    rays do not occur in every 20-second coadd, the CRM will alter the
    pixel time-series of the true target flux. This can impact the noise
    distribution and properties of the target.
@@ -184,29 +184,26 @@ to obtain 20-second data of your targets of interest. However, 20-second
 targets are a limited resource as they are a large volumn of data, so
 there is more competition for those resources.
 
-However, 20-second data will be more suceptible to cosmic rays, which
-will also impact your analyses. For further details, see below:
+As the 20-second data will be more suceptible to cosmic rays, this will
+also impact your analyses. For further details, see below:
 
 2. SPOC Pipeline Cosmic Ray Identification and Removal
 ======================================================
 
-Once data is recieved, data is processed by the TESS pipeline. For
+Once data is recieved, it is processed by the TESS pipeline. For
 20-second data only, because CRM is not used on board, the SPOC pipeline
-identifies cosmic rays in the data and removes them. The removal process
-is based on the one employed by Kepler (See Section 6.3.1 in the `Kepler
-manual <https://archive.stsci.edu/kepler/manuals/KSCI-19081-003-KDPH.pdf>`__).
-The removed cosmic rays are stored in the FITS file and can be accessed
-and added back to the TPF if required. To briefly summarize the process,
-cosmic rays are:
+identifies cosmic rays in the data and removes them. The removed cosmic
+rays are stored in the FITS file and can be accessed and added back to
+the TPF if required. To briefly summarize the process, cosmic rays are:
 
 -  Identified in each 20-second image
 -  In images where there is a cosmic ray identified, the amplitude of
    the cosmic ray in each pixel is recorded.
 -  Cosmic rays are removed (subtracted) from the pixel level data
 -  The time, pixel positions, and flux value removed are recorded to an
-   array as an extention to the fits file.
+   array as an extension to the fits file.
 
-Below is an example of the information in the cosmic ray extention. For
+Below is an example of the information in the cosmic ray extension. For
 further details on the process, see the `data release notes from Sector
 27 <https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_sector_27_drn38_v02.pdf>`__,
 Section 4.1.
@@ -217,8 +214,8 @@ Section 4.1.
     import numpy as np
     import matplotlib.pyplot as plt
     
-    def load_cosmicray_extention(tpf):
-        """Function to load the cosmic ray extention into a datacube
+    def load_cosmicray_extension(tpf):
+        """Function to load the cosmic ray extension into a datacube
         
         Parameters:
         -----------
@@ -285,7 +282,7 @@ tutorial <https://docs.lightkurve.org/tutorials/1-getting-started/what-are-targe
 .. code:: ipython3
 
     #Get the cosmic ray data using the function we defined above
-    cosmic_ray_cube = load_cosmicray_extention(tpf)
+    cosmic_ray_cube = load_cosmicray_extension(tpf)
 
 .. code:: ipython3
 
@@ -296,7 +293,7 @@ tutorial <https://docs.lightkurve.org/tutorials/1-getting-started/what-are-targe
         #only plot if a CR was found in the frame
         if np.sum(cosmic_ray_cube[ii]) > 0:  
             im = ax.flat[ax_num].imshow(cosmic_ray_cube[ii], cmap='viridis',vmin=0, vmax=250)
-            ax.flat[ax_num].set(xlabel='Pixel Column', ylabel='Pixel Row', title='Cosmic Ray Extention')
+            ax.flat[ax_num].set(xlabel='Pixel Column', ylabel='Pixel Row', title='Cosmic Ray Extension')
             cbar = plt.colorbar(im, ax=ax.flat[ax_num])
             cbar.set_label('Counts [e$^-$/s]')
             ax_num +=1
@@ -360,7 +357,7 @@ all pixels of the aperture. For the SAP flux, you can simply add this
 flux in. However, for the corrected Pre-search Data Conditioning SAP
 `(PDCSAP) <https://heasarc.gsfc.nasa.gov/docs/tess/LightCurveFile-Object-Tutorial.html>`__
 lightcurves, you will need to multiply the cosmic ray correction by an
-extra factor for all pixel within the aperture as follows:
+extra factor for all pixels within the chosen aperture as follows:
 
 :math:`f'_{PDCSAP\_flux}(n) = f_{PDCSAP\_flux}(n)+\Delta f(n)*\dfrac{CROWDSAP}{FLFRCSAP}`
 
