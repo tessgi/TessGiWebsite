@@ -8,6 +8,7 @@ Christina Hedges - Director of the TESS GI Office
 
 Nicole Schanche - Support scientist in the TESS GI Office
 
+
 How does TESS handle cosmic rays?
 =================================
 
@@ -29,65 +30,65 @@ In this notebook you will learn about the different ways cosmic rays are
 dealt with by TESS mission products, and learn how that might impact
 your science with TESS data.
 
-0. Introduction to TESS data products
-=====================================
+Introduction to TESS data products
+==================================
 
 TESS has three main data products. We will briefly discuss them here,
 and lay out how cosmic rays are addressed in the data files.
 
 Full Frame Images (FFIs): An FFI is the full set of all science and
 collateral pixels across all four CCDs of a given camera. In the prime
-mission (Cycles 1 and 2), they had a cadence of 30-minutes, then
-10-minutes in the first extension (Cycles 3 and 4), and 200-seconds in
-the second extension (Cycle 5+). The images are built up from 2-second
-exposures, with Cosmic Ray Mitigation (CMR) being implemented onboard as
+mission (Cycles 1 and 2), they had a cadence of 30 minutes, then 10
+minutes in the first extension (Cycles 3 and 4), and 200 seconds in the
+second extension (Cycle 5+). The images are built up from 2-second
+exposures, with Cosmic Ray Mitigation (CRM) being implemented onboard as
 described in Section 1.
 
 Target Pixel Files (TPFs): These are cutouts of the pixels surrounding
-pre-selected targets of interest. TPFs have a cadence of 120-seconds
-only in the primary mission, but from the extended mission onwards they
-may also have a cadence of 20-seconds. Cosmic Ray Mitigation is applied
-onboard for 120-second TPFs, but not for 20-second TPFs.
+pre-selected targets of interest and are created on the ground. TPFs
+have a cadence of 120 seconds only in the primary mission, but from the
+extended mission onwards they may also have a cadence of 20 seconds.
+Cosmic Ray Mitigation is applied onboard for 120-second targets, but not
+for 20-second targets.
 
 Lightcurves (LC): Files containing the brightness of a given target over
 time for pre-selected targets. Lightcurves are created by combining the
-flux within a given aperture on the TPF. These have cadences of either 2
-minutes or, beginning in the extended mission, 20-seconds. 120-second
-LCs have Cosmic Ray Mitigation, while 20-second data products do not.
+flux within a given aperture around the target on the TPF. These have
+cadences of either 2 minutes or, beginning in the extended mission, 20
+seconds.
 
-All LCs are processed using the Science Processing Operations Center
-(SPOC) pipeline. The SPOC is located at NASA Ames and the pipeline,
-based on that developed for Kepler (see Jenkins 2016), is used to
-process and correct the raw TESS data. LCs created from 120-second
-cadence TPF data have already been corrected for cosmic rays, and as
-such need no further CMR. LCs created from 20-second cadenced data
-however require additional processing and it is with SPOC that cosmic
+The TPFs and LCs are created by the Science Processing Operations Center
+(SPOC) pipeline using raw data from TESS. The SPOC is located at NASA
+Ames and the pipeline, based on that developed for Kepler (see Jenkins
+2016), is used to process and correct the raw TESS data. LCs created
+from 120 second cadence TPF data have already been corrected for cosmic
+rays, and as such need no further CRM. LCs created from 20-second
+cadence data undergo an extra step of processing by SPOC in which cosmic
 rays are identified and removed. See Section 2 for further details.
 
-1. Cosmic Ray Mitigation
-========================
+Method 1: Cosmic Ray Mitigation
+===============================
 
 Cosmic Ray Mitigtaion (CRM) is a strategy employed by TESS during data
-collection. This strategy modifies the data collection of images of the
-sky to remove large outliers. The minimum exposure time for TESS is 2
-seconds. Every image product is made from the addition of several
-2-second exposures. The CRM procedure is as follows:
+collection. The strategy is intended to remove large outliers created by
+cosmic ray impacts from the pixel data. CRM is applied to each pixel in
+the following steps:
 
--  The TESS spacecraft takes 10, 2-second exposures of the sky, totaling
-   20-seconds
--  For each pixel, the spacecraft computer identifies both the brightest
-   and faintest point in the 10 images that comprise that 20-second
-   time-series, and removes them
--  The remaining 8 points of the time-series are summed. This is then
-   stored on board.
--  Subsequent 20-second frames are then co-added. i.e. The above
-   proceedure is completed 6 times and coadded to create 120-second
-   TPFs, it is completed 10 times and co-added to create 200-second FFIs
-   for Cycles 5+, 30 times for the first extended mission FFIs, and 90
-   times to create one 30-minute FFI during the prime mission.
+-  Data are collected from the CCDs every two seconds. FFI and shorter
+   cadence data are created by summing 2s images.
+-  For each pixel, the spacecraft computer identifies and removes both
+   the brightest and faintest value in groups of 10 exposures.
+-  The values of the remaining 8 exposures are summed and used to create
+   the relevant data product, i.e. the above procedure is completed 6
+   times and coadded to create the 120 second cadence TPFs with 96
+   second total integration time. The procedure is 10 times and co-added
+   to create 200 second FFIs for Cycles 5+, 30 times for the 10 minute
+   FFIs during the first extended mission, and 90 times to create one
+   30-minute FFI during the prime mission, resulting in 160-second, and
+   480-second, and 1440-second integration times respectively.
 
 Below is a representation of what occurs on-board, for each pixel for
-each 20-second frame
+each 20 second frame
 
 .. code:: ipython3
 
@@ -116,7 +117,7 @@ each 20-second frame
 
 .. parsed-literal::
 
-    <matplotlib.legend.Legend at 0x115d0fc70>
+    <matplotlib.legend.Legend at 0x11da401f0>
 
 
 
@@ -128,12 +129,12 @@ CRM is “baked in” to the data, it can not be removed, and it can not be
 reversed.
 
 **Crucially, for 20-second TPF data taken by the mission and delivered,
-this strategy is not employed.** 20-second data consists of 10 coadded
-2-second frames, with no frames removed.
+this strategy is not employed.** 20 second data consists of 10 co-added
+2 second frames, with no frames removed.
 
 In addition, for every 20-second TPF, a 120-second TPF (with on-board
-CRM) is also created and archived. Meaning, for any target with
-20-second TESS data there is:
+CRM) is also created and archived. Meaning, for any target with 20
+second TESS data there is:
 
 -  A 20-second TPF without on-board Cosmic Ray Mitigation
 -  A 20-second LC, made from the 20-second TPF, without on-board CRM
@@ -141,12 +142,12 @@ CRM) is also created and archived. Meaning, for any target with
 -  A 120-second LC, made from the 120-second TPF, with on-board CRM
 
 Because of this, simply coadding the 20-second data from TESS will not
-produce exactly the 120-second data.
+produce exactly the 120 second data.
 
 After the 20-second data is on the ground, cosmic rays are removed using
 a different method during processing with SPOC. Therefore any SPOC TPF
 or LC products you download will have cosmic ray correction that *is*
-reversable. The details of this process will be dicussed in more detail
+reversable. The details of this process will be discussed in more detail
 in Section 2 below.
 
 What are the impacts of Cosmic Ray Mitigation?
@@ -162,44 +163,27 @@ the key impacts:
    pipeline corrects for this in the light curve data products delivered
    to the archive.
 -  **Extremely fast, asymmetric, astrophysical variability (on
-   time-scales of 20-seconds or less) may be adversly effected.** The
+   time-scales of 20 seconds or less) may be adveresly affected.** The
    CRM might, for example, remove extremely short term stellar flares.
 -  **The noise distributions of the data are affected.** Because cosmic
-   rays do not occur in every 20-second coadd, the CRM will alter the
+   rays do not occur in every 20 second co-add, the CRM will alter the
    pixel time-series of the true target flux. This can impact the noise
    distribution and properties of the target.
 
-What do I do?
-=============
+Method 2: SPOC Pipeline Cosmic Ray Identification and Removal
+=============================================================
 
-If you are an astronomer mostly interested in variability on time-scales
-much longer than 20-seconds, you are likely to only benefit from data
-that uses Cosmic Ray Mitigation. CRM will largely make your data less
-susceptible to significant upwards outliers.
+Once data is received on the ground, it is processed by the TESS
+pipeline. Because CRM is not used on board for 20 second data, the SPOC
+pipeline runs an additional step on these data to identify cosmic rays
+and remove them. The removed cosmic rays are stored in the FITS file and
+can be accessed and added back to the TPF if desired. To briefly
+summarize the process, cosmic rays are:
 
-If you are an astronomer mostly interested in variability on or similar
-to 20-second time scales or less, CRM may hamper your investigations. In
-this case we recommend that you propose to the TESS General Investigator
-to obtain 20-second data of your targets of interest. However, 20-second
-targets are a limited resource as they are a large volumn of data, so
-there is more competition for those resources.
-
-As the 20-second data will be more suceptible to cosmic rays, this will
-also impact your analyses. For further details, see below:
-
-2. SPOC Pipeline Cosmic Ray Identification and Removal
-======================================================
-
-Once data is recieved, it is processed by the TESS pipeline. For
-20-second data only, because CRM is not used on board, the SPOC pipeline
-identifies cosmic rays in the data and removes them. The removed cosmic
-rays are stored in the FITS file and can be accessed and added back to
-the TPF if required. To briefly summarize the process, cosmic rays are:
-
--  Identified in each 20-second image
+-  Identified in each 20-second image.
 -  In images where there is a cosmic ray identified, the amplitude of
    the cosmic ray in each pixel is recorded.
--  Cosmic rays are removed (subtracted) from the pixel level data
+-  Cosmic rays are removed (subtracted) from the pixel level data.
 -  The time, pixel positions, and flux value removed are recorded to an
    array as an extension to the fits file.
 
@@ -224,7 +208,7 @@ Section 4.1.
         
         Returns:
         -------
-        cmr: np.ndarray
+        cr: np.ndarray
             Array containing cosmic ray fluxes of shape tpf.shape
         """
         cadenceno = np.asarray(tpf.cadenceno)
@@ -297,6 +281,7 @@ tutorial <https://docs.lightkurve.org/tutorials/1-getting-started/what-are-targe
             cbar = plt.colorbar(im, ax=ax.flat[ax_num])
             cbar.set_label('Counts [e$^-$/s]')
             ax_num +=1
+            #Stop after plotting 6
             if ax_num==6:
                 break
             
@@ -351,29 +336,28 @@ simply add the cosmic rays back into the simple aperture photometry
 .. image:: images/SAP_with_CR.png
 
 
-The cosmic rays that are removed are stored in the tpf files. In order
-to add CRs back into a lightcurve, you would need to sum the CR flux in
-all pixels of the aperture. For the SAP flux, you can simply add this
-flux in. However, for the corrected Pre-search Data Conditioning SAP
-`(PDCSAP) <https://heasarc.gsfc.nasa.gov/docs/tess/LightCurveFile-Object-Tutorial.html>`__
-lightcurves, you will need to multiply the cosmic ray correction by an
+The cosmic rays that are removed are stored in the TPF files. In order
+to add CRs back into a LC directly, you would need to sum the CR flux in
+all pixels of the photometric aperture. For the SAP flux, you can simply
+add this flux in. However, for the corrected Presearch Data Conditioning
+SAP
+`(PDC-SAP) <https://heasarc.gsfc.nasa.gov/docs/tess/LightCurveFile-Object-Tutorial.html>`__
+lightcurves, you will need to normalize the cosmic ray correction by an
 extra factor for all pixels within the chosen aperture as follows:
 
-:math:`f'_{PDCSAP\_flux}(n) = f_{PDCSAP\_flux}(n)+\Delta f(n)*\dfrac{CROWDSAP}{FLFRCSAP}`
+:math:`f'_{PDCSAP\_flux}(n) = f_{PDCSAP\_flux}(n)+\dfrac{\Delta f(n)}{FLFRCSAP}`
 
 where :math:`f'_{PDCSAP\_flux}(n)` is the UNCORRECTED flux (ie, with
-cosmic rays injected back in), :math:`f_{PDCSAP\_flux}(n)` is the PDCSAP
-corrected flux, :math:`\Delta f(n)` is the flux removed by the cosmic
-ray correction, CROWDSAP is the crowding metric, and FLFRCSAP is the
-flux fraction correction. The latter two values are stored in the LC and
-TPF header. More details are provided in the `sector 27 data release
-notes <https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_sector_27_drn38_v02.pdf>`__.
+cosmic rays injected back in), :math:`f_{PDCSAP\_flux}(n)` is the
+PDC-SAP corrected flux, :math:`\Delta f(n)` is the flux removed by the
+cosmic ray correction, and FLFRCSAP is the flux fraction correction. The
+latter value is stored in the LC and TPF binary table headers.
 
-Additional outliers caused by uncorrected cosmic rays will still remain,
+Additional outliers caused by uncorrected cosmic rays may still remain,
 particularly when the target is bright. In this case, the suspected CRs
-will be labeled with a data quality bit of 10 as impulsive outliers.
-Users should consider their science objectives and determine whether or
-not these ouliers should be masked.
+will be labeled with a data quality bit of 10 (quality value = 512) as
+impulsive outliers. Users should consider their science objectives and
+determine whether or not these outliers should be masked.
 
 Conclusion
 ==========
@@ -382,8 +366,20 @@ Cosmic rays are frequently seen in TESS data. The on-board cosmic ray
 mitigation system is effective at removing the majority of cosmic rays
 for FFI images and 120-second TPF and LCs. The on-board CRM system is
 not run for the 20-second data product, but rather cosmic arrays are
-corrected for by the SPOC pipeline. Observers who are very interested in
-short term flares or other impulsive events may wish to use the TPF
+corrected for by the SPOC pipeline.
+
+If you are an astronomer mostly interested in variability on time-scales
+much longer than 20 seconds, you are likely to only benefit from data
+that uses Cosmic Ray Mitigation. CRM will largely make your data less
+susceptible to significant upwards outliers.
+
+If you are an astronomer mostly interested in short term flares or other
+impulsive events with time scales on the order of 20 seconds or less,
+CRM may hamper your investigations. Users may wish to use the TPF
 *without* cosmic rays removed and build a model that accounts for cosmic
-rays in their detection pipeline.
+rays in their detection pipeline. In this case we recommend that you
+propose to the TESS General Investigator program to obtain 20 second
+data of your targets of interest. However, 20 second targets are a
+limited resource as they are a large volume of data, so there is more
+competition for those resources.
 
