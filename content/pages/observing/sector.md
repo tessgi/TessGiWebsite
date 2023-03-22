@@ -253,7 +253,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>Southern hemisphere</td>
     <td>2023&nbsp;Apr&nbsp;06</td>
     <td>2023&nbsp;May&nbsp;04</td>
-    <td></td>
+    <td><a href='data/target_lists/sector064_targets_lists/GI_S064.csv'>Download</a></td>
     <td style="min-width: 12em;">
     </td>
   </tr>
@@ -263,7 +263,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>Southern hemisphere</td>
     <td>2023&nbsp;Mar&nbsp;10</td>
     <td>2023&nbsp;Apr&nbsp;06</td>
-    <td></td>
+    <td><a href='data/target_lists/sector063_targets_lists/GI_S063.csv'>Download</a></td>
     <td style="min-width: 12em;">
     </td>
   </tr>

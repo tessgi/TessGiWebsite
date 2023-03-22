@@ -101,3 +101,11 @@ Summary: We propose the use of TESS data to classify and characterize the binary
 # Sector 062 targets observed (2 min: 2, 20 s: 0)
 146036695,123.3729,-35.8995,5.15,G05151
 90296023,128.0974,-49.6013,6.67,G05139;G05151
+
+# Sector 063 targets observed (2 min: 3, 20 s: 0)
+57211952,170.9109,-30.4903,8.24,G05151
+90296023,128.0974,-49.6013,6.67,G05139;G05151
+140031673,126.3804,-51.7273,5.39,G05116;G05139;G05151
+
+# Sector 064 targets observed (2 min: 1, 20 s: 0)
+306142817,179.1593,-62.4625,9.75,G05151
