@@ -12,8 +12,8 @@ the TESS mission is provided by the NASA's Science Mission Directorate.*
 
 The TESS Science Support Center curates a list of scientific publications
 pertaining to TESS.
-The database contains 1 publications,
-of which 0 are peer-reviewed.
+The database contains 1461 publications,
+of which 1268 are peer-reviewed.
 It demonstrates the important impact of TESS data
 on astronomical research.
 
@@ -46,11 +46,11 @@ of year.
 
 Both TESS data have been used for scientific applications
 that reach far beyond exoplanet research.
-While 0 works relate to exoplanets
-(0%),
-a total of 1
+While 596 works relate to exoplanets
+(41%),
+a total of 865
 pertain to other areas of astrophysics
-(100%).
+(59%).
 
 
 ![Publications by subject](images/tpub/tpub-piechart.png)
@@ -60,15 +60,60 @@ pertain to other areas of astrophysics
 ## Most-cited publications
 
 TESS publications have cumulatively been cited
-12 times.
+19058 times.
 The list below shows the most-cited publications,
 based on the citation count obtained from NASA ADS.
 
 
-1. A HIGH EARTH, LUNAR RESONANT ORBIT FOR LOWER COST SPACE SCIENCE MISSIONS  
-Gangestad, Joseph W., Henning, Gregory A., Persinger, Randy R., et al.    
-[2013arXiv1306.5333G](http://adsabs.harvard.edu/abs/2013arXiv1306.5333G)
-<span class="badge">12 citations</span>
+1. TRANSITING EXOPLANET SURVEY SATELLITE (TESS)  
+Ricker, George R., Winn, Joshua N., Vanderspek, Roland, et al.    
+[2015JATIS...1a4003R](http://adsabs.harvard.edu/abs/2015JATIS...1a4003R)
+<span class="badge">2084 citations</span>
+
+2. THE REVISED TESS INPUT CATALOG AND CANDIDATE TARGET LIST  
+Stassun, Keivan G., Oelkers, Ryan J., Paegert, Martin, et al.    
+[2019AJ....158..138S](http://adsabs.harvard.edu/abs/2019AJ....158..138S)
+<span class="badge">471 citations</span>
+
+3. THE TESS INPUT CATALOG AND CANDIDATE TARGET LIST  
+Stassun, Keivan G., Oelkers, Ryan J., Pepper, Joshua, et al.    
+[2018AJ....156..102S](http://adsabs.harvard.edu/abs/2018AJ....156..102S)
+<span class="badge">417 citations</span>
+
+4. THE TRANSITING EXOPLANET SURVEY SATELLITE: SIMULATIONS OF PLANET DETECTIONS AND ASTROPHYSICAL FALSE POSITIVES  
+Sullivan, Peter W., Winn, Joshua N., Berta-Thompson, Zachory K., et al.    
+[2015ApJ...809...77S](http://adsabs.harvard.edu/abs/2015ApJ...809...77S)
+<span class="badge">365 citations</span>
+
+5. A FRAMEWORK FOR PRIORITIZING THE TESS PLANETARY CANDIDATES MOST AMENABLE TO ATMOSPHERIC CHARACTERIZATION  
+Kempton, Eliza M. -R., Bean, Jacob L., Louie, Dana R., et al.    
+[2018PASP..130k4401K](http://adsabs.harvard.edu/abs/2018PASP..130k4401K)
+<span class="badge">249 citations</span>
+
+6. A REVISED EXOPLANET YIELD FROM THE TRANSITING EXOPLANET SURVEY SATELLITE (TESS)  
+Barclay, Thomas, Pepper, Joshua, Quintana, Elisa V.    
+[2018ApJS..239....2B](http://adsabs.harvard.edu/abs/2018ApJS..239....2B)
+<span class="badge">218 citations</span>
+
+7. LIMB AND GRAVITY-DARKENING COEFFICIENTS FOR THE TESS SATELLITE AT SEVERAL METALLICITIES, SURFACE GRAVITIES, AND MICROTURBULENT VELOCITIES  
+Claret, A.    
+[2017A&A...600A..30C](http://adsabs.harvard.edu/abs/2017A&A...600A..30C)
+<span class="badge">189 citations</span>
+
+8. STELLAR FLARES FROM THE FIRST TESS DATA RELEASE: EXPLORING A NEW SAMPLE OF M DWARFS  
+Günther, Maximilian N., Zhan, Zhuchang, Seager, Sara, et al.    
+[2020AJ....159...60G](http://adsabs.harvard.edu/abs/2020AJ....159...60G)
+<span class="badge">162 citations</span>
+
+9. TESS DISCOVERY OF A TRANSITING SUPER-EARTH IN THE PI MENSAE SYSTEM  
+Huang, Chelsea X., Burt, Jennifer, Vanderburg, Andrew, et al.    
+[2018ApJ...868L..39H](http://adsabs.harvard.edu/abs/2018ApJ...868L..39H)
+<span class="badge">150 citations</span>
+
+10. THE TESS OBJECTS OF INTEREST CATALOG FROM THE TESS PRIME MISSION  
+Guerrero, Natalia M., Seager, S., Huang, Chelsea X., et al.    
+[2021ApJS..254...39G](http://adsabs.harvard.edu/abs/2021ApJS..254...39G)
+<span class="badge">130 citations</span>
 <hr/>
 
 <!-- 
@@ -85,7 +130,31 @@ within the last 90 days.
 <!-- ## Most-active authors
 
 The entries in the publication database have been authored and co-authored
-by a total of 4 unique author names.
+by a total of 5943 unique author names.
 Here we list the most-active authors, defined as those with six or more first-author publications in our database.
 
+
+ * Southworth, J (18 publications)
+
+ * Balona, L (10 publications)
+
+ * Bouma, L (9 publications)
+
+ * Jayasinghe, T (7 publications)
+
+ * Lee, J (7 publications)
+
+ * Howard, W (7 publications)
+
+ * Cloutier, R (6 publications)
+
+ * Kostov, V (6 publications)
+
+ * Zasche, P (6 publications)
+
+ * Wong, I (6 publications)
+
+ * Gan, T (6 publications)
+
+ * Koen, C (6 publications)
 -->
