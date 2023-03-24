@@ -1004,7 +1004,22 @@ Illustrations showing all targets (in red) observed at 2-minute
 cadence for each camera and sector.
 
 
-### Cycle 5 
+### Cycle 5
+<div class="row">
+    <div class="col-md-6 text-center">
+      <a href="images/sector-plots/sector-plots.064.jpeg">
+        <img id="s064" src="images/sector-plots/sector-plots.064.jpeg" class="img-responsive">
+        Sector 64
+      </a>
+    </div>
+    <div class="col-md-6 text-center">
+      <a href="images/sector-plots/sector-plots.063.jpeg">
+        <img id="s063" src="images/sector-plots/sector-plots.063.jpeg" class="img-responsive">
+        Sector 63
+      </a>
+    </div>
+</div>
+<br>
 <div class="row">
     <div class="col-md-6 text-center">
       <a href="images/sector-plots/sector-plots.062.jpeg">
