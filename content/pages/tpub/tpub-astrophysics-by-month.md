@@ -159,6 +159,14 @@ Irving, Zackery A., Saar, Steven H., Wargelin, Bradford J., et al.
 Qi, Senyu, Gu, Wei-Min, Yi, Tuan, et al.    
 2023, not refereed ([2023arXiv230306083Q](http://adsabs.harvard.edu/abs/2023arXiv230306083Q))  
 
+37. [FREQUENCY ANALYSIS OF THE FIRST-OVERTONE RR LYRAE STARS BASED ON THE EXTENDED APERTURE PHOTOMETRY FROM THE K2 DATA](http://adsabs.harvard.edu/abs/2023arXiv230312884N)  
+Netzel, H., Molnar, L., Plachy, E., et al.    
+2023, not refereed ([2023arXiv230312884N](http://adsabs.harvard.edu/abs/2023arXiv230312884N))  
+
+38. [A HELIUM-BURNING WHITE DWARF BINARY AS A SUPERSOFT X-RAY SOURCE](http://adsabs.harvard.edu/abs/2023arXiv230313338G)  
+Greiner, J., Maitra, C., Haberl, F., et al.    
+2023, not refereed ([2023arXiv230313338G](http://adsabs.harvard.edu/abs/2023arXiv230313338G))  
+
 
 2023-02
 -------
