@@ -4,6 +4,18 @@ Save_as: tpub-exoplanets-by-month.html
 [TOC]
 
 
+2023-05
+-------
+
+1. [VATEST I: VALIDATION OF SUB-SATURN EXOPLANET TOI-181B IN NARROW ORBIT FROM ITS HOST STAR](http://adsabs.harvard.edu/abs/2023MNRAS.521.1066M)  
+Mistry, Priyashkumar, Pathak, Kamlesh, Lekkas, Georgios, et al.    
+2023, refereed ([2023MNRAS.521.1066M](http://adsabs.harvard.edu/abs/2023MNRAS.521.1066M))  
+
+2. [TRANSIT TIMING VARIATION ANALYSIS OF THE LOW-MASS BROWN DWARF KELT-1 B](http://adsabs.harvard.edu/abs/2023MNRAS.521.1200B)  
+Baştürk, Ö., Southworth, J., Yalçınkaya, S., et al.    
+2023, refereed ([2023MNRAS.521.1200B](http://adsabs.harvard.edu/abs/2023MNRAS.521.1200B))  
+
+
 2023-04
 -------
 
@@ -179,6 +191,22 @@ Blanco-Pozo, J., Perger, M., Damasso, M., et al.
 Stefansson, Gudmundur, Mahadevan, Suvrath, Miguel, Yamila, et al.    
 2023, not refereed ([2023arXiv230313321S](http://adsabs.harvard.edu/abs/2023arXiv230313321S))  
 
+30. [A SUB-NEPTUNE TRANSITING THE YOUNG FIELD STAR HD 18599 AT 40 PC](http://adsabs.harvard.edu/abs/2023MNRAS.tmp..893D)  
+de Leon, J. P., Livingston, J. H., Jenkins, J. S., et al.    
+2023, refereed ([2023MNRAS.tmp..893D](http://adsabs.harvard.edu/abs/2023MNRAS.tmp..893D))  
+
+31. [A PUFFY POLAR PLANET. THE LOW DENSITY, HOT JUPITER TOI-640 B IS ON A POLAR ORBIT](http://adsabs.harvard.edu/abs/2023A&A...671A.164K)  
+Knudstrup, Emil, Albrecht, Simon H., Gandolfi, Davide, et al.    
+2023, refereed ([2023A&A...671A.164K](http://adsabs.harvard.edu/abs/2023A&A...671A.164K))  
+
+32. [A FULL TRANSIT OF V<SUP>2</SUP> LUPI D AND THE SEARCH FOR AN EXOMOON IN ITS HILL SPHERE WITH CHEOPS](http://adsabs.harvard.edu/abs/2023A&A...671A.154E)  
+Ehrenreich, D., Delrez, L., Akinsanmi, B., et al.    
+2023, refereed ([2023A&A...671A.154E](http://adsabs.harvard.edu/abs/2023A&A...671A.154E))  
+
+33. [THE TESS TRIPLE-9 CATALOG II: A NEW SET OF 999 UNIFORMLY-VETTED EXOPLANET CANDIDATES](http://adsabs.harvard.edu/abs/2023MNRAS.tmp..803M)  
+Magliano, Christian, Kostov, Veselin, Cacciapuoti, Luca, et al.    
+2023, refereed ([2023MNRAS.tmp..803M](http://adsabs.harvard.edu/abs/2023MNRAS.tmp..803M))  
+
 
 2023-02
 -------
@@ -318,6 +346,34 @@ Melton, Elizabeth J., Feigelson, Eric D., Montalto, Marco, et al.
 34. [TOI-3984 A B AND TOI-5293 A B: TWO TEMPERATE GAS GIANTS TRANSITING MID-M DWARFS IN WIDE BINARY SYSTEMS](http://adsabs.harvard.edu/abs/2023arXiv230207714C)  
 Cañas, Caleb I., Kanodia, Shubham, Libby-Roberts, Jessica, et al.    
 2023, not refereed ([2023arXiv230207714C](http://adsabs.harvard.edu/abs/2023arXiv230207714C))  
+
+35. [MEASURED SPIN-ORBIT ALIGNMENT OF ULTRA-SHORT-PERIOD SUPER-EARTH 55 CANCRI E](http://adsabs.harvard.edu/abs/2023NatAs...7..198Z)  
+Zhao, Lily L., Kunovac, Vedad, Brewer, John M., et al.    
+2023, refereed ([2023NatAs...7..198Z](http://adsabs.harvard.edu/abs/2023NatAs...7..198Z))  
+
+36. [ANOTHER SHIPMENT OF SIX SHORT-PERIOD GIANT PLANETS FROM TESS](http://adsabs.harvard.edu/abs/2023MNRAS.tmp..609R)  
+Rodriguez, Joseph E., Quinn, Samuel N., Vanderburg, Andrew, et al.    
+2023, refereed ([2023MNRAS.tmp..609R](http://adsabs.harvard.edu/abs/2023MNRAS.tmp..609R))  
+
+37. [A SUB-NEPTUNE PLANET AROUND TOI-1695 DISCOVERED AND CHARACTERIZED WITH SPIROU AND TESS](http://adsabs.harvard.edu/abs/2023A&A...670A.136K)  
+Kiefer, F., Hébrard, G., Martioli, E., et al.    
+2023, refereed ([2023A&A...670A.136K](http://adsabs.harvard.edu/abs/2023A&A...670A.136K))  
+
+38. [NEID REVEALS THAT THE YOUNG WARM NEPTUNE TOI-2076 B HAS A LOW OBLIQUITY](http://adsabs.harvard.edu/abs/2023ApJ...944L..41F)  
+Frazier, Robert C., Stefánsson, Gudmundur, Mahadevan, Suvrath, et al.    
+2023, refereed ([2023ApJ...944L..41F](http://adsabs.harvard.edu/abs/2023ApJ...944L..41F))  
+
+39. [THE CARMENES SEARCH FOR EXOPLANETS AROUND M DWARFS. WOLF 1069 B: EARTH-MASS PLANET IN THE HABITABLE ZONE OF A NEARBY, VERY LOW-MASS STAR](http://adsabs.harvard.edu/abs/2023A&A...670A..84K)  
+Kossakowski, D., Kürster, M., Trifonov, T., et al.    
+2023, refereed ([2023A&A...670A..84K](http://adsabs.harvard.edu/abs/2023A&A...670A..84K))  
+
+40. [A SECOND EARTH-SIZED PLANET IN THE HABITABLE ZONE OF THE M DWARF, TOI-700](http://adsabs.harvard.edu/abs/2023ApJ...944L..35G)  
+Gilbert, Emily A., Vanderburg, Andrew, Rodriguez, Joseph E., et al.    
+2023, refereed ([2023ApJ...944L..35G](http://adsabs.harvard.edu/abs/2023ApJ...944L..35G))  
+
+41. [THE SIMILAR SEVEN: A SET OF VERY ALIKE EXOPLANETS TO TEST CORRELATIONS BETWEEN SYSTEM PARAMETERS AND ATMOSPHERIC PROPERTIES](http://adsabs.harvard.edu/abs/2023ApJ...944L..56M)  
+McGruder, Chima D., López-Morales, Mercedes, Brahm, Rafael, et al.    
+2023, refereed ([2023ApJ...944L..56M](http://adsabs.harvard.edu/abs/2023ApJ...944L..56M))  
 
 
 2023-01
