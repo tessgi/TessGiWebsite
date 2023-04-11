@@ -39,6 +39,18 @@ Guo, Di-Fu, Li, Kai, Liu, Fen, et al.
 Rauw, Gregor, Nazé, Yaël, ud-Doula, Asif, et al.    
 2023, refereed ([2023MNRAS.521.2874R](http://adsabs.harvard.edu/abs/2023MNRAS.521.2874R))  
 
+7. [HD 42477: COUPLED R MODES, G MODES, AND A P MODE IN AN A0VNNE STAR](http://adsabs.harvard.edu/abs/2023MNRAS.521.4765K)  
+Kurtz, D. W., Jayaraman, R., Sowicka, P., et al.    
+2023, refereed ([2023MNRAS.521.4765K](http://adsabs.harvard.edu/abs/2023MNRAS.521.4765K))  
+
+8. [MODULATION OF THE BLAZHKO CYCLE IN LS HER](http://adsabs.harvard.edu/abs/2023AJ....165..194W)  
+Wilhelm, Ronald, Carrell, Kenneth, Means, Hannah H., et al.    
+2023, refereed ([2023AJ....165..194W](http://adsabs.harvard.edu/abs/2023AJ....165..194W))  
+
+9. [SEARCHING FOR COMPACT OBJECT CANDIDATES FROM LAMOST TIME-DOMAIN SURVEY OF FOUR K2 PLATES](http://adsabs.harvard.edu/abs/2023AJ....165..187Q)  
+Qi, Senyu, Gu, Wei-Min, Yi, Tuan, et al.    
+2023, refereed ([2023AJ....165..187Q](http://adsabs.harvard.edu/abs/2023AJ....165..187Q))  
+
 
 2023-04
 -------
@@ -154,6 +166,22 @@ Froebrich, Dirk, Hillenbrand, Lynne A., Herbert, Carys, et al.
 28. [SPECTRUM OF THE SECONDARY COMPONENT AND NEW ORBITAL ELEMENTS OF THE MASSIVE TRIPLE STAR Δ ORI A](http://adsabs.harvard.edu/abs/2023A&A...672A..31O)  
 Oplištilová, A., Mayer, P., Harmanec, P., et al.    
 2023, refereed ([2023A&A...672A..31O](http://adsabs.harvard.edu/abs/2023A&A...672A..31O))  
+
+29. [15000 ELLIPSOIDAL BINARY CANDIDATES IN TESS: ORBITAL PERIODS, BINARY FRACTION, AND TERTIARY COMPANIONS](http://adsabs.harvard.edu/abs/2023MNRAS.tmp..975G)  
+Green, Matthew J., Maoz, Dan, Mazeh, Tsevi, et al.    
+2023, refereed ([2023MNRAS.tmp..975G](http://adsabs.harvard.edu/abs/2023MNRAS.tmp..975G))  
+
+30. [UNDERSTANDING THE FLARE EMISSION IN CF TUCANAE USING TESS](http://adsabs.harvard.edu/abs/2023PASJ...75..476S)  
+Sriram, Kandulapati, Vijaya, Annemalla, Lahiri, Deblina, et al.    
+2023, refereed ([2023PASJ...75..476S](http://adsabs.harvard.edu/abs/2023PASJ...75..476S))  
+
+31. [DIRECT IMAGING DISCOVERY OF A SUPER-JOVIAN AROUND THE YOUNG SUN-LIKE STAR AF LEPORIS](http://adsabs.harvard.edu/abs/2023A&A...672A..94D)  
+De Rosa, Robert J., Nielsen, Eric L., Wahhaj, Zahed, et al.    
+2023, refereed ([2023A&A...672A..94D](http://adsabs.harvard.edu/abs/2023A&A...672A..94D))  
+
+32. [A SUPER-EARTH AND A MINI-NEPTUNE NEAR THE 2:1 MMR STRADDLING THE RADIUS VALLEY AROUND THE NEARBY MID-M DWARF TOI-2096](http://adsabs.harvard.edu/abs/2023A&A...672A..70P)  
+Pozuelos, F. J., Timmermans, M., Rackham, B. V., et al.    
+2023, refereed ([2023A&A...672A..70P](http://adsabs.harvard.edu/abs/2023A&A...672A..70P))  
 
 
 2023-03

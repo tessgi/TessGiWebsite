@@ -71,6 +71,14 @@ Krenn, A. F., Lendl, M., Patel, J. A., et al.
 Diamond-Lowe, Hannah, Mendonça, João M., Charbonneau, David, et al.    
 2023, refereed ([2023AJ....165..169D](http://adsabs.harvard.edu/abs/2023AJ....165..169D))  
 
+14. [DIRECT IMAGING DISCOVERY OF A SUPER-JOVIAN AROUND THE YOUNG SUN-LIKE STAR AF LEPORIS](http://adsabs.harvard.edu/abs/2023A&A...672A..94D)  
+De Rosa, Robert J., Nielsen, Eric L., Wahhaj, Zahed, et al.    
+2023, refereed ([2023A&A...672A..94D](http://adsabs.harvard.edu/abs/2023A&A...672A..94D))  
+
+15. [A SUPER-EARTH AND A MINI-NEPTUNE NEAR THE 2:1 MMR STRADDLING THE RADIUS VALLEY AROUND THE NEARBY MID-M DWARF TOI-2096](http://adsabs.harvard.edu/abs/2023A&A...672A..70P)  
+Pozuelos, F. J., Timmermans, M., Rackham, B. V., et al.    
+2023, refereed ([2023A&A...672A..70P](http://adsabs.harvard.edu/abs/2023A&A...672A..70P))  
+
 
 2023-03
 -------
