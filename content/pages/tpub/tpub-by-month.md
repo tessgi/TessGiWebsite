@@ -225,6 +225,66 @@ Pozuelos, F. J., Timmermans, M., Rackham, B. V., et al.
 2023, refereed ([2023A&A...672A..70P](http://adsabs.harvard.edu/abs/2023A&A...672A..70P))
 <span class="badge">0 citations</span>
 
+33. [THREE LONG PERIOD TRANSITING GIANT PLANETS FROM TESS](http://adsabs.harvard.edu/abs/2023arXiv230402139B)  
+Brahm, Rafael, Ulmer-Moll, Solène, Hobson, Melissa J., et al.    
+2023, not refereed ([2023arXiv230402139B](http://adsabs.harvard.edu/abs/2023arXiv230402139B))
+<span class="badge">0 citations</span>
+
+34. [CONVERTING THE SUB-JOVIAN DESERT OF EXOPLANETS TO A SAVANNA WITH TESS, PLATO AND ARIEL](http://adsabs.harvard.edu/abs/2023MNRAS.tmp..976K)  
+Kálmán, Szilárd, Szabó, Gyula M., Borsato, Luca, et al.    
+2023, refereed ([2023MNRAS.tmp..976K](http://adsabs.harvard.edu/abs/2023MNRAS.tmp..976K))
+<span class="badge">0 citations</span>
+
+35. [PHOTOMETRIC ANALYSIS OF ECLIPSING BINARIES: VY UMI, RU UMI AND GSC 04364-00648](http://adsabs.harvard.edu/abs/2023RMxAA..59..137K)  
+Kudak, V., Parimucha, Š., Perig, V., et al.    
+2023, refereed ([2023RMxAA..59..137K](http://adsabs.harvard.edu/abs/2023RMxAA..59..137K))
+<span class="badge">0 citations</span>
+
+36. [THE GAPS PROGRAMME AT TNG XLV. A MASSIVE BROWN DWARF ORBITING THE ACTIVE M DWARF TOI-5375](http://adsabs.harvard.edu/abs/2023arXiv230404477M)  
+Maldonado, J., Petralia, A., Mantovan, G., et al.    
+2023, not refereed ([2023arXiv230404477M](http://adsabs.harvard.edu/abs/2023arXiv230404477M))
+<span class="badge">0 citations</span>
+
+37. [UPDATED PLANETARY MASS CONSTRAINTS OF THE YOUNG V1298 TAU SYSTEM USING MAROON-X](http://adsabs.harvard.edu/abs/2023arXiv230400797S)  
+Sikora, James, Rowe, Jason, Barat, Saugata, et al.    
+2023, not refereed ([2023arXiv230400797S](http://adsabs.harvard.edu/abs/2023arXiv230400797S))
+<span class="badge">0 citations</span>
+
+38. [LHS 475 B: A VENUS-SIZED PLANET ORBITING A NEARBY M DWARF](http://adsabs.harvard.edu/abs/2023arXiv230401920M)  
+Ment, Kristo, Charbonneau, David, Irwin, Jonathan, et al.    
+2023, not refereed ([2023arXiv230401920M](http://adsabs.harvard.edu/abs/2023arXiv230401920M))
+<span class="badge">0 citations</span>
+
+39. [REVISITING THE RED-GIANT BRANCH HOSTS KOI-3886 AND $\IOTA$ DRACONIS. DETAILED ASTEROSEISMIC MODELING AND CONSOLIDATED STELLAR PARAMETERS](http://adsabs.harvard.edu/abs/2023arXiv230401570C)  
+Campante, Tiago L., Li, Tanda, Ong, J. M. Joel, et al.    
+2023, not refereed ([2023arXiv230401570C](http://adsabs.harvard.edu/abs/2023arXiv230401570C))
+<span class="badge">0 citations</span>
+
+40. [G 68-34: A DOUBLE-LINED M-DWARF ECLIPSING BINARY IN A HIERARCHICAL TRIPLE SYSTEM](http://adsabs.harvard.edu/abs/2023arXiv230402466P)  
+Pass, Emily K, Charbonneau, David    
+2023, not refereed ([2023arXiv230402466P](http://adsabs.harvard.edu/abs/2023arXiv230402466P))
+<span class="badge">0 citations</span>
+
+41. [CM MIC AND OTHER ER UMA STARS SHOWING STANDSTILLS](http://adsabs.harvard.edu/abs/2023arXiv230404973K)  
+Kato, Taichi, Kojiguchi, Naoto    
+2023, not refereed ([2023arXiv230404973K](http://adsabs.harvard.edu/abs/2023arXiv230404973K))
+<span class="badge">0 citations</span>
+
+42. [HST PANCET PROGRAM: A FLAT OPTICAL TRANSMISSION SPECTRUM FOR THE HOT JUPITER WASP-101B](http://adsabs.harvard.edu/abs/2023MNRAS.tmp..960R)  
+Rathcke, Alexander D., Buchhave, Lars A., Mendonça, João M., et al.    
+2023, refereed ([2023MNRAS.tmp..960R](http://adsabs.harvard.edu/abs/2023MNRAS.tmp..960R))
+<span class="badge">0 citations</span>
+
+43. [THE X-RAY ACTIVITY OF F STARS WITH HOT JUPITERS: KELT-24 VERSUS WASP-18](http://adsabs.harvard.edu/abs/2023arXiv230400854P)  
+Pillitteri, I., Colombo, S., Micela, G., et al.    
+2023, not refereed ([2023arXiv230400854P](http://adsabs.harvard.edu/abs/2023arXiv230400854P))
+<span class="badge">0 citations</span>
+
+44. [TOI-3785 B: A LOW-DENSITY NEPTUNE ORBITING AN M2-DWARF STAR](http://adsabs.harvard.edu/abs/2023arXiv230404730P)  
+Powers, Luke C., Libby-Roberts, Jessica, Lin, Andrea S. J., et al.    
+2023, not refereed ([2023arXiv230404730P](http://adsabs.harvard.edu/abs/2023arXiv230404730P))
+<span class="badge">0 citations</span>
+
 
 2023-03
 -------

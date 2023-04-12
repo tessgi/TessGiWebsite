@@ -96,6 +96,46 @@ Pozuelos, F. J., Timmermans, M., Rackham, B. V., et al.
 2023, refereed ([2023A&A...672A..70P](http://adsabs.harvard.edu/abs/2023A&A...672A..70P))
 <span class="badge">0 citations</span>
 
+16. [THREE LONG PERIOD TRANSITING GIANT PLANETS FROM TESS](http://adsabs.harvard.edu/abs/2023arXiv230402139B)  
+Brahm, Rafael, Ulmer-Moll, Solène, Hobson, Melissa J., et al.    
+2023, not refereed ([2023arXiv230402139B](http://adsabs.harvard.edu/abs/2023arXiv230402139B))
+<span class="badge">0 citations</span>
+
+17. [CONVERTING THE SUB-JOVIAN DESERT OF EXOPLANETS TO A SAVANNA WITH TESS, PLATO AND ARIEL](http://adsabs.harvard.edu/abs/2023MNRAS.tmp..976K)  
+Kálmán, Szilárd, Szabó, Gyula M., Borsato, Luca, et al.    
+2023, refereed ([2023MNRAS.tmp..976K](http://adsabs.harvard.edu/abs/2023MNRAS.tmp..976K))
+<span class="badge">0 citations</span>
+
+18. [THE GAPS PROGRAMME AT TNG XLV. A MASSIVE BROWN DWARF ORBITING THE ACTIVE M DWARF TOI-5375](http://adsabs.harvard.edu/abs/2023arXiv230404477M)  
+Maldonado, J., Petralia, A., Mantovan, G., et al.    
+2023, not refereed ([2023arXiv230404477M](http://adsabs.harvard.edu/abs/2023arXiv230404477M))
+<span class="badge">0 citations</span>
+
+19. [UPDATED PLANETARY MASS CONSTRAINTS OF THE YOUNG V1298 TAU SYSTEM USING MAROON-X](http://adsabs.harvard.edu/abs/2023arXiv230400797S)  
+Sikora, James, Rowe, Jason, Barat, Saugata, et al.    
+2023, not refereed ([2023arXiv230400797S](http://adsabs.harvard.edu/abs/2023arXiv230400797S))
+<span class="badge">0 citations</span>
+
+20. [LHS 475 B: A VENUS-SIZED PLANET ORBITING A NEARBY M DWARF](http://adsabs.harvard.edu/abs/2023arXiv230401920M)  
+Ment, Kristo, Charbonneau, David, Irwin, Jonathan, et al.    
+2023, not refereed ([2023arXiv230401920M](http://adsabs.harvard.edu/abs/2023arXiv230401920M))
+<span class="badge">0 citations</span>
+
+21. [HST PANCET PROGRAM: A FLAT OPTICAL TRANSMISSION SPECTRUM FOR THE HOT JUPITER WASP-101B](http://adsabs.harvard.edu/abs/2023MNRAS.tmp..960R)  
+Rathcke, Alexander D., Buchhave, Lars A., Mendonça, João M., et al.    
+2023, refereed ([2023MNRAS.tmp..960R](http://adsabs.harvard.edu/abs/2023MNRAS.tmp..960R))
+<span class="badge">0 citations</span>
+
+22. [THE X-RAY ACTIVITY OF F STARS WITH HOT JUPITERS: KELT-24 VERSUS WASP-18](http://adsabs.harvard.edu/abs/2023arXiv230400854P)  
+Pillitteri, I., Colombo, S., Micela, G., et al.    
+2023, not refereed ([2023arXiv230400854P](http://adsabs.harvard.edu/abs/2023arXiv230400854P))
+<span class="badge">0 citations</span>
+
+23. [TOI-3785 B: A LOW-DENSITY NEPTUNE ORBITING AN M2-DWARF STAR](http://adsabs.harvard.edu/abs/2023arXiv230404730P)  
+Powers, Luke C., Libby-Roberts, Jessica, Lin, Andrea S. J., et al.    
+2023, not refereed ([2023arXiv230404730P](http://adsabs.harvard.edu/abs/2023arXiv230404730P))
+<span class="badge">0 citations</span>
+
 
 2023-03
 -------

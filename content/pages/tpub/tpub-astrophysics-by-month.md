@@ -140,6 +140,26 @@ Sriram, Kandulapati, Vijaya, Annemalla, Lahiri, Deblina, et al.
 2023, refereed ([2023PASJ...75..476S](http://adsabs.harvard.edu/abs/2023PASJ...75..476S))
 <span class="badge">0 citations</span>
 
+18. [PHOTOMETRIC ANALYSIS OF ECLIPSING BINARIES: VY UMI, RU UMI AND GSC 04364-00648](http://adsabs.harvard.edu/abs/2023RMxAA..59..137K)  
+Kudak, V., Parimucha, Š., Perig, V., et al.    
+2023, refereed ([2023RMxAA..59..137K](http://adsabs.harvard.edu/abs/2023RMxAA..59..137K))
+<span class="badge">0 citations</span>
+
+19. [REVISITING THE RED-GIANT BRANCH HOSTS KOI-3886 AND $\IOTA$ DRACONIS. DETAILED ASTEROSEISMIC MODELING AND CONSOLIDATED STELLAR PARAMETERS](http://adsabs.harvard.edu/abs/2023arXiv230401570C)  
+Campante, Tiago L., Li, Tanda, Ong, J. M. Joel, et al.    
+2023, not refereed ([2023arXiv230401570C](http://adsabs.harvard.edu/abs/2023arXiv230401570C))
+<span class="badge">0 citations</span>
+
+20. [G 68-34: A DOUBLE-LINED M-DWARF ECLIPSING BINARY IN A HIERARCHICAL TRIPLE SYSTEM](http://adsabs.harvard.edu/abs/2023arXiv230402466P)  
+Pass, Emily K, Charbonneau, David    
+2023, not refereed ([2023arXiv230402466P](http://adsabs.harvard.edu/abs/2023arXiv230402466P))
+<span class="badge">0 citations</span>
+
+21. [CM MIC AND OTHER ER UMA STARS SHOWING STANDSTILLS](http://adsabs.harvard.edu/abs/2023arXiv230404973K)  
+Kato, Taichi, Kojiguchi, Naoto    
+2023, not refereed ([2023arXiv230404973K](http://adsabs.harvard.edu/abs/2023arXiv230404973K))
+<span class="badge">0 citations</span>
+
 
 2023-03
 -------
