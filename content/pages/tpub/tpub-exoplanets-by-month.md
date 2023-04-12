@@ -514,6 +514,21 @@ McGruder, Chima D., López-Morales, Mercedes, Brahm, Rafael, et al.
 2023, refereed ([2023ApJ...944L..56M](http://adsabs.harvard.edu/abs/2023ApJ...944L..56M))
 <span class="badge">0 citations</span>
 
+42. [EARLY RELEASE SCIENCE OF THE EXOPLANET WASP-39B WITH JWST NIRCAM](http://adsabs.harvard.edu/abs/2023Natur.614..653A)  
+Ahrer, Eva-Maria, Stevenson, Kevin B., Mansfield, Megan, et al.    
+2023, refereed ([2023Natur.614..653A](http://adsabs.harvard.edu/abs/2023Natur.614..653A))
+<span class="badge">14 citations</span>
+
+43. [QLP DATA RELEASE NOTES 003: GPU-BASED TRANSIT SEARCH](http://adsabs.harvard.edu/abs/2023RNAAS...7...28K)  
+Kunimoto, Michelle, Tey, Evan, Fong, Willie, et al.    
+2023, not refereed ([2023RNAAS...7...28K](http://adsabs.harvard.edu/abs/2023RNAAS...7...28K))
+<span class="badge">0 citations</span>
+
+44. [EARLY RELEASE SCIENCE OF THE EXOPLANET WASP-39B WITH JWST NIRSPEC PRISM](http://adsabs.harvard.edu/abs/2023Natur.614..659R)  
+Rustamkulov, Z., Sing, D. K., Mukherjee, S., et al.    
+2023, refereed ([2023Natur.614..659R](http://adsabs.harvard.edu/abs/2023Natur.614..659R))
+<span class="badge">19 citations</span>
+
 
 2023-01
 -------

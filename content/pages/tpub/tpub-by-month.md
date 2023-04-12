@@ -1068,6 +1068,71 @@ Jennings, Z., Southworth, J., Maxted, P. F. L., et al.
 2023, refereed ([2023MNRAS.tmp..535J](http://adsabs.harvard.edu/abs/2023MNRAS.tmp..535J))
 <span class="badge">0 citations</span>
 
+79. [EARLY RELEASE SCIENCE OF THE EXOPLANET WASP-39B WITH JWST NIRCAM](http://adsabs.harvard.edu/abs/2023Natur.614..653A)  
+Ahrer, Eva-Maria, Stevenson, Kevin B., Mansfield, Megan, et al.    
+2023, refereed ([2023Natur.614..653A](http://adsabs.harvard.edu/abs/2023Natur.614..653A))
+<span class="badge">14 citations</span>
+
+80. [QLP DATA RELEASE NOTES 003: GPU-BASED TRANSIT SEARCH](http://adsabs.harvard.edu/abs/2023RNAAS...7...28K)  
+Kunimoto, Michelle, Tey, Evan, Fong, Willie, et al.    
+2023, not refereed ([2023RNAAS...7...28K](http://adsabs.harvard.edu/abs/2023RNAAS...7...28K))
+<span class="badge">0 citations</span>
+
+81. [THE EVOLUTION OF THE SUPERSOFT X-RAY SOURCE WX CEN DOMINATED BY MAGNETIC WIND](http://adsabs.harvard.edu/abs/2023ApJ...944...97Z)  
+Zang, Lei, Qian, Shengbang, Fernández-Lajús, Eduardo    
+2023, refereed ([2023ApJ...944...97Z](http://adsabs.harvard.edu/abs/2023ApJ...944...97Z))
+<span class="badge">0 citations</span>
+
+82. [AN X-RAY-DIM "ISOLATED" NEUTRON STAR IN A BINARY?](http://adsabs.harvard.edu/abs/2023ApJ...944L...4L)  
+Lin, Jie, Li, Chunqian, Wang, Weiyang, et al.    
+2023, refereed ([2023ApJ...944L...4L](http://adsabs.harvard.edu/abs/2023ApJ...944L...4L))
+<span class="badge">2 citations</span>
+
+83. [V4142 SGR: DOUBLE PERIODIC VARIABLE WITH AN ACCRETOR SURROUNDED BY THE ACCRETION DISK'S ATMOSPHERE](http://adsabs.harvard.edu/abs/2023A&A...670A..94R)  
+Rosales, J. A., Mennickent, R. E., Djurašević, G., et al.    
+2023, refereed ([2023A&A...670A..94R](http://adsabs.harvard.edu/abs/2023A&A...670A..94R))
+<span class="badge">0 citations</span>
+
+84. [A NEW STUDY ON A TYPE IAX STELLAR REMNANT AND ITS PROBABLE ASSOCIATION WITH SN 1181](http://adsabs.harvard.edu/abs/2023ApJ...944..120L)  
+Lykou, Foteini, Parker, Quentin A., Ritter, Andreas, et al.    
+2023, refereed ([2023ApJ...944..120L](http://adsabs.harvard.edu/abs/2023ApJ...944..120L))
+<span class="badge">5 citations</span>
+
+85. [STARSPOT MAPPING WITH ADAPTIVE PARALLEL TEMPERING. II. APPLICATION TO TESS DATA FOR M-DWARF FLARE STARS, AU MICROSCOPII, YZ CANIS MINORIS, AND EV LACERTAE](http://adsabs.harvard.edu/abs/2023arXiv230209249I)  
+Ikuta, Kai, Namekata, Kosuke, Notsu, Yuta, et al.    
+2023, not refereed ([2023arXiv230209249I](http://adsabs.harvard.edu/abs/2023arXiv230209249I))
+<span class="badge">0 citations</span>
+
+86. [SERENDIPITOUS DISCOVERY OF THE MAGNETIC CATACLYSMIC VARIABLE SRGE J075818-612027](http://adsabs.harvard.edu/abs/2023arXiv230213315O)  
+Ok, Samet, Lamer, Georg, Schwope, Axel, et al.    
+2023, not refereed ([2023arXiv230213315O](http://adsabs.harvard.edu/abs/2023arXiv230213315O))
+<span class="badge">0 citations</span>
+
+87. [ON THE ORBITAL PERIOD OF THE DWARF NOVA CW MON](http://adsabs.harvard.edu/abs/2023arXiv230209782K)  
+Kato, Taichi, Hambsch, Franz-Josef    
+2023, not refereed ([2023arXiv230209782K](http://adsabs.harvard.edu/abs/2023arXiv230209782K))
+<span class="badge">0 citations</span>
+
+88. [MACRO-FLICKERING OF AQ MENSAE ON THE DAILY TIME-SCALES: PARAMETERS AND QUASI-PERIOD MODES](http://adsabs.harvard.edu/abs/2023BlgAJ..38...68G)  
+Georgiev, Ts. B., Zamanov, R. K., Stefanov, S. Y.    
+2023, refereed ([2023BlgAJ..38...68G](http://adsabs.harvard.edu/abs/2023BlgAJ..38...68G))
+<span class="badge">0 citations</span>
+
+89. [HOT SUBDWARFS IN CLOSE BINARIES OBSERVED FROM SPACE II: ANALYSIS OF THE LIGHT CURVES](http://adsabs.harvard.edu/abs/2023arXiv230212507S)  
+Schaffenroth, V., Barlow, B. N., Pelisoli, I., et al.    
+2023, not refereed ([2023arXiv230212507S](http://adsabs.harvard.edu/abs/2023arXiv230212507S))
+<span class="badge">0 citations</span>
+
+90. [UNCORRELATED AMPLITUDE AND FREQUENCY VARIATIONS OF THE HARMONICS IN SX PHOENICIS STAR XX CYGNI](http://adsabs.harvard.edu/abs/2023arXiv230209477N)  
+Niu, Jia-Shu, Xue, Hui-Fang    
+2023, not refereed ([2023arXiv230209477N](http://adsabs.harvard.edu/abs/2023arXiv230209477N))
+<span class="badge">0 citations</span>
+
+91. [EARLY RELEASE SCIENCE OF THE EXOPLANET WASP-39B WITH JWST NIRSPEC PRISM](http://adsabs.harvard.edu/abs/2023Natur.614..659R)  
+Rustamkulov, Z., Sing, D. K., Mukherjee, S., et al.    
+2023, refereed ([2023Natur.614..659R](http://adsabs.harvard.edu/abs/2023Natur.614..659R))
+<span class="badge">19 citations</span>
+
 
 2023-01
 -------
