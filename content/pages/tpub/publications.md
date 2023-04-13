@@ -12,8 +12,8 @@ the TESS mission is provided by the NASA's Science Mission Directorate.*
 
 The TESS Science Support Center curates a list of scientific publications
 pertaining to TESS.
-The database contains 1519 publications,
-of which 1344 are peer-reviewed.
+The database contains 1535 publications,
+of which 1354 are peer-reviewed.
 It demonstrates the important impact of TESS data
 on astronomical research.
 
@@ -46,9 +46,9 @@ of year.
 
 Both TESS data have been used for scientific applications
 that reach far beyond exoplanet research.
-While 613 works relate to exoplanets
+While 618 works relate to exoplanets
 (40%),
-a total of 906
+a total of 917
 pertain to other areas of astrophysics
 (60%).
 
@@ -60,7 +60,7 @@ pertain to other areas of astrophysics
 ## Most-cited publications
 
 TESS publications have cumulatively been cited
-20512 times.
+20520 times.
 The list below shows the most-cited publications,
 based on the citation count obtained from NASA ADS.
 
@@ -130,7 +130,7 @@ within the last 90 days.
 <!-- ## Most-active authors
 
 The entries in the publication database have been authored and co-authored
-by a total of 6054 unique author names.
+by a total of 6079 unique author names.
 Here we list the most-active authors, defined as those with six or more first-author publications in our database.
 
 
@@ -142,23 +142,23 @@ Here we list the most-active authors, defined as those with six or more first-au
 
  * Lee, J (8 publications)
 
- * Howard, W (7 publications)
-
  * Zasche, P (7 publications)
+
+ * Howard, W (7 publications)
 
  * Jayasinghe, T (7 publications)
 
- * Cloutier, R (6 publications)
-
- * Wong, I (6 publications)
+ * Kostov, V (7 publications)
 
  * Kato, T (6 publications)
 
  * Koen, C (6 publications)
 
- * Kostov, V (6 publications)
+ * Wong, I (6 publications)
 
  * Gan, T (6 publications)
 
  * Kunimoto, M (6 publications)
+
+ * Cloutier, R (6 publications)
 -->
