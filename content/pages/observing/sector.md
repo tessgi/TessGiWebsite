@@ -1005,7 +1005,7 @@ cadence for each camera and sector.
 
 
 ### Cycle 5
-<div>
+<div class="row">
     <div class="col-md-6 text-center">
       <a href="images/sector-plots/sector-plots.065.jpeg">
         <img id="s065" src="images/sector-plots/sector-plots.065.jpeg" class="img-responsive">
