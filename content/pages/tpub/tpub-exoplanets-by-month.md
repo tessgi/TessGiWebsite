@@ -136,6 +136,56 @@ Powers, Luke C., Libby-Roberts, Jessica, Lin, Andrea S. J., et al.
 2023, not refereed ([2023arXiv230404730P](http://adsabs.harvard.edu/abs/2023arXiv230404730P))  
 <span class="badge">0 citations</span>
 
+24. [THE GAPS PROGRAMME AT TNG. XLII. A CHARACTERISATION STUDY OF THE MULTI-PLANET SYSTEM AROUND THE 400 MYR-OLD STAR HD 63433 (TOI-1726)](http://adsabs.harvard.edu/abs/2023A&A...672A.126D)  
+Damasso, M., Locci, D., Benatti, S., et al.    
+2023, refereed ([2023A&A...672A.126D](http://adsabs.harvard.edu/abs/2023A&A...672A.126D))  
+<span class="badge">0 citations</span>
+
+25. [DISCOVERY OF A MASSIVE GIANT PLANET WITH EXTREME DENSITY AROUND THE SUB-GIANT STAR TOI-4603](http://adsabs.harvard.edu/abs/2023A&A...672L...7K)  
+Khandelwal, Akanksha, Sharma, Rishikesh, Chakraborty, Abhijit, et al.    
+2023, refereed ([2023A&A...672L...7K](http://adsabs.harvard.edu/abs/2023A&A...672L...7K))  
+<span class="badge">0 citations</span>
+
+26. [TOI-733 B -- A PLANET IN THE SMALL-PLANET RADIUS VALLEY ORBITING A SUN-LIKE STAR](http://adsabs.harvard.edu/abs/2023arXiv230406655G)  
+Georgieva, Iskra Y., Persson, Carina M., Goffo, Elisa, et al.    
+2023, not refereed ([2023arXiv230406655G](http://adsabs.harvard.edu/abs/2023arXiv230406655G))  
+<span class="badge">0 citations</span>
+
+27. [TWO SUPER-EARTHS AT THE EDGE OF THE HABITABLE ZONE OF THE NEARBY M DWARF TOI-2095](http://adsabs.harvard.edu/abs/2023arXiv230409220M)  
+Murgas, F., Castro-González, A., Pallé, E., et al.    
+2023, not refereed ([2023arXiv230409220M](http://adsabs.harvard.edu/abs/2023arXiv230409220M))  
+<span class="badge">0 citations</span>
+
+28. [TWO WARM SUPER-EARTHS TRANSITING THE NEARBY M DWARF TOI-2095](http://adsabs.harvard.edu/abs/2023arXiv230409189Q)  
+Quintana, Elisa V., Gilbert, Emily A., Barclay, Thomas, et al.    
+2023, not refereed ([2023arXiv230409189Q](http://adsabs.harvard.edu/abs/2023arXiv230409189Q))  
+<span class="badge">0 citations</span>
+
+29. [DISTINGUISHING A PLANETARY TRANSIT FROM FALSE POSITIVES: A TRANSFORMER-BASED CLASSIFICATION FOR PLANETARY TRANSIT SIGNALS](http://adsabs.harvard.edu/abs/2023MNRAS.tmp.1107S)  
+Salinas, H., Pichara, K., Brahm, R., et al.    
+2023, refereed ([2023MNRAS.tmp.1107S](http://adsabs.harvard.edu/abs/2023MNRAS.tmp.1107S))  
+<span class="badge">0 citations</span>
+
+30. [EXPLORING THE STELLAR SURFACE PHENOMENA OF WASP-52 AND HAT-P-30 WITH ESPRESSO](http://adsabs.harvard.edu/abs/2023arXiv230411022C)  
+Cegla, H. M., Roguet-Kern, N., Lendl, M., et al.    
+2023, not refereed ([2023arXiv230411022C](http://adsabs.harvard.edu/abs/2023arXiv230411022C))  
+<span class="badge">0 citations</span>
+
+31. [WASP-131 B WITH ESPRESSO I: A BLOATED SUB-SATURN ON A POLAR ORBIT AROUND A DIFFERENTIALLY ROTATING SOLAR-TYPE STAR](http://adsabs.harvard.edu/abs/2023arXiv230412163D)  
+Doyle, L., Cegla, H. M., Anderson, D. R., et al.    
+2023, not refereed ([2023arXiv230412163D](http://adsabs.harvard.edu/abs/2023arXiv230412163D))  
+<span class="badge">0 citations</span>
+
+32. [HYADES MEMBER K2-136C: THE SMALLEST PLANET IN AN OPEN CLUSTER WITH A PRECISELY MEASURED MASS](http://adsabs.harvard.edu/abs/2023arXiv230402779M)  
+Mayo, Andrew W., Dressing, Courtney D., Vanderburg, Andrew, et al.    
+2023, not refereed ([2023arXiv230402779M](http://adsabs.harvard.edu/abs/2023arXiv230402779M))  
+<span class="badge">1 citations</span>
+
+33. [THE MAGNETIC FIELD AND MULTIPLE PLANETS OF THE YOUNG DWARF AU~MIC](http://adsabs.harvard.edu/abs/2023arXiv230409642D)  
+Donati, J. -F., Cristofari, P. I., Finociety, B., et al.    
+2023, not refereed ([2023arXiv230409642D](http://adsabs.harvard.edu/abs/2023arXiv230409642D))  
+<span class="badge">0 citations</span>
+
 
 2023-03
 -------

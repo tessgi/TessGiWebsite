@@ -290,6 +290,111 @@ Pedersen, May G., Bell, Keaton J.
 2023, not refereed ([2023arXiv230405706P](http://adsabs.harvard.edu/abs/2023arXiv230405706P))  
 <span class="badge">0 citations</span>
 
+46. [PERIOD INVESTIGATION ON TWO W UMA BINARIES HH UMA AND V1175 HER](http://adsabs.harvard.edu/abs/2023RAA....23d5017C)  
+Chang, Linfeng, Zhu, Liying, Meng, Fangbin    
+2023, refereed ([2023RAA....23d5017C](http://adsabs.harvard.edu/abs/2023RAA....23d5017C))  
+<span class="badge">0 citations</span>
+
+47. [THE GAPS PROGRAMME AT TNG. XLII. A CHARACTERISATION STUDY OF THE MULTI-PLANET SYSTEM AROUND THE 400 MYR-OLD STAR HD 63433 (TOI-1726)](http://adsabs.harvard.edu/abs/2023A&A...672A.126D)  
+Damasso, M., Locci, D., Benatti, S., et al.    
+2023, refereed ([2023A&A...672A.126D](http://adsabs.harvard.edu/abs/2023A&A...672A.126D))  
+<span class="badge">0 citations</span>
+
+48. [PHOTOMETRIC VARIATIONS FROM STELLAR ACTIVITY AS AN AGE INDICATOR FOR SOLAR-TWINS](http://adsabs.harvard.edu/abs/2023MNRAS.tmp.1035P)  
+Ponte, Geisa, Lorenzo-Oliveira, Diego, Melendez, Jorge, et al.    
+2023, refereed ([2023MNRAS.tmp.1035P](http://adsabs.harvard.edu/abs/2023MNRAS.tmp.1035P))  
+<span class="badge">0 citations</span>
+
+49. [INVESTIGATING GAIA EDR3 PARALLAX SYSTEMATICS USING ASTEROSEISMOLOGY OF COOL GIANT STARS OBSERVED BY KEPLER, K2, AND TESS I. ASTEROSEISMIC DISTANCES TO 12,500 RED-GIANT STARS](http://adsabs.harvard.edu/abs/2023arXiv230407158K)  
+Khan, Saniya, Miglio, Andrea, Willett, Emma, et al.    
+2023, not refereed ([2023arXiv230407158K](http://adsabs.harvard.edu/abs/2023arXiv230407158K))  
+<span class="badge">0 citations</span>
+
+50. [DISCOVERY OF A MASSIVE GIANT PLANET WITH EXTREME DENSITY AROUND THE SUB-GIANT STAR TOI-4603](http://adsabs.harvard.edu/abs/2023A&A...672L...7K)  
+Khandelwal, Akanksha, Sharma, Rishikesh, Chakraborty, Abhijit, et al.    
+2023, refereed ([2023A&A...672L...7K](http://adsabs.harvard.edu/abs/2023A&A...672L...7K))  
+<span class="badge">0 citations</span>
+
+51. [TOI-733 B -- A PLANET IN THE SMALL-PLANET RADIUS VALLEY ORBITING A SUN-LIKE STAR](http://adsabs.harvard.edu/abs/2023arXiv230406655G)  
+Georgieva, Iskra Y., Persson, Carina M., Goffo, Elisa, et al.    
+2023, not refereed ([2023arXiv230406655G](http://adsabs.harvard.edu/abs/2023arXiv230406655G))  
+<span class="badge">0 citations</span>
+
+52. [FUNDAMENTAL EFFECTIVE TEMPERATURE MEASUREMENTS FOR ECLIPSING BINARY STARS - IV. SELECTION OF NEW BENCHMARK STARS AND FIRST RESULTS FOR HD 22064](http://adsabs.harvard.edu/abs/2023MNRAS.tmp.1081M)  
+Maxted, Pierre F. L.    
+2023, refereed ([2023MNRAS.tmp.1081M](http://adsabs.harvard.edu/abs/2023MNRAS.tmp.1081M))  
+<span class="badge">0 citations</span>
+
+53. [TWO SUPER-EARTHS AT THE EDGE OF THE HABITABLE ZONE OF THE NEARBY M DWARF TOI-2095](http://adsabs.harvard.edu/abs/2023arXiv230409220M)  
+Murgas, F., Castro-González, A., Pallé, E., et al.    
+2023, not refereed ([2023arXiv230409220M](http://adsabs.harvard.edu/abs/2023arXiv230409220M))  
+<span class="badge">0 citations</span>
+
+54. [TWO WARM SUPER-EARTHS TRANSITING THE NEARBY M DWARF TOI-2095](http://adsabs.harvard.edu/abs/2023arXiv230409189Q)  
+Quintana, Elisa V., Gilbert, Emily A., Barclay, Thomas, et al.    
+2023, not refereed ([2023arXiv230409189Q](http://adsabs.harvard.edu/abs/2023arXiv230409189Q))  
+<span class="badge">0 citations</span>
+
+55. [EI ERIDANI: A STAR UNDER THE INFLUENCE -- THE EFFECT OF MAGNETIC ACTIVITY IN THE SHORT AND LONG TERM](http://adsabs.harvard.edu/abs/2023arXiv230413234K)  
+Kriskovics, L., Kővári, Zs., Seli, B., et al.    
+2023, not refereed ([2023arXiv230413234K](http://adsabs.harvard.edu/abs/2023arXiv230413234K))  
+<span class="badge">0 citations</span>
+
+56. [SPECTROSCOPIC AND PHOTOMETRIC STUDIES ON FOUR SOLAR-TYPE SHORT-PERIOD CONTACT BINARIES IN THE TRIPLE STELLAR SYSTEMS](http://adsabs.harvard.edu/abs/2023MNRAS.tmp.1082Y)  
+Yang, Yuangui, Michel, Raúl, Yuan, Huiyu, et al.    
+2023, refereed ([2023MNRAS.tmp.1082Y](http://adsabs.harvard.edu/abs/2023MNRAS.tmp.1082Y))  
+<span class="badge">0 citations</span>
+
+57. [LIGHT AND PERIOD VARIATIONS IN THE SUPERSOFT X-RAY SOURCE QR AND (=RX J0019.8+2156)](http://adsabs.harvard.edu/abs/2023MNRAS.tmp.1108Z)  
+Zang, Lei, Qian, Shengbang, Fernández-Lajús, Eduardo    
+2023, refereed ([2023MNRAS.tmp.1108Z](http://adsabs.harvard.edu/abs/2023MNRAS.tmp.1108Z))  
+<span class="badge">0 citations</span>
+
+58. [DISTINGUISHING A PLANETARY TRANSIT FROM FALSE POSITIVES: A TRANSFORMER-BASED CLASSIFICATION FOR PLANETARY TRANSIT SIGNALS](http://adsabs.harvard.edu/abs/2023MNRAS.tmp.1107S)  
+Salinas, H., Pichara, K., Brahm, R., et al.    
+2023, refereed ([2023MNRAS.tmp.1107S](http://adsabs.harvard.edu/abs/2023MNRAS.tmp.1107S))  
+<span class="badge">0 citations</span>
+
+59. [RELATIVISTIC CORRECTIONS IN WHITE DWARF ASTEROSEISMOLOGY](http://adsabs.harvard.edu/abs/2023arXiv230413055R)  
+Reece Boston, S, Evans, Charles R, Clemens, J Christopher    
+2023, not refereed ([2023arXiv230413055R](http://adsabs.harvard.edu/abs/2023arXiv230413055R))  
+<span class="badge">0 citations</span>
+
+60. [EXPLORING THE STELLAR SURFACE PHENOMENA OF WASP-52 AND HAT-P-30 WITH ESPRESSO](http://adsabs.harvard.edu/abs/2023arXiv230411022C)  
+Cegla, H. M., Roguet-Kern, N., Lendl, M., et al.    
+2023, not refereed ([2023arXiv230411022C](http://adsabs.harvard.edu/abs/2023arXiv230411022C))  
+<span class="badge">0 citations</span>
+
+61. [REVEALING THE BINARITY OF HD 36030—ONE OF THE HOTTEST FLARE STARS](http://adsabs.harvard.edu/abs/2023Galax..11...55M)  
+Maryeva, Olga, Németh, Péter, Karpov, Sergey    
+2023, refereed ([2023Galax..11...55M](http://adsabs.harvard.edu/abs/2023Galax..11...55M))  
+<span class="badge">0 citations</span>
+
+62. [WASP-131 B WITH ESPRESSO I: A BLOATED SUB-SATURN ON A POLAR ORBIT AROUND A DIFFERENTIALLY ROTATING SOLAR-TYPE STAR](http://adsabs.harvard.edu/abs/2023arXiv230412163D)  
+Doyle, L., Cegla, H. M., Anderson, D. R., et al.    
+2023, not refereed ([2023arXiv230412163D](http://adsabs.harvard.edu/abs/2023arXiv230412163D))  
+<span class="badge">0 citations</span>
+
+63. [HYADES MEMBER K2-136C: THE SMALLEST PLANET IN AN OPEN CLUSTER WITH A PRECISELY MEASURED MASS](http://adsabs.harvard.edu/abs/2023arXiv230402779M)  
+Mayo, Andrew W., Dressing, Courtney D., Vanderburg, Andrew, et al.    
+2023, not refereed ([2023arXiv230402779M](http://adsabs.harvard.edu/abs/2023arXiv230402779M))  
+<span class="badge">1 citations</span>
+
+64. [UNAMBIGUOUS DETECTION OF DOUBLY-IONIZED THORIUM IN THE EXTREME AP STAR CPD-62 2717](http://adsabs.harvard.edu/abs/2023arXiv230412938C)  
+Chojnowski, S. Drew, Hubrig, Swetlana, Nidever, David L., et al.    
+2023, not refereed ([2023arXiv230412938C](http://adsabs.harvard.edu/abs/2023arXiv230412938C))  
+<span class="badge">0 citations</span>
+
+65. [FU ORIONIS DISK OUTBURST: EVIDENCE FOR A GRAVITATIONAL INSTABILITY SCENARIO TRIGGERED IN A MAGNETICALLY DEAD ZONE](http://adsabs.harvard.edu/abs/2023arXiv230413414B)  
+Bourdarot, G., Berger, J-P., Lesur, G., et al.    
+2023, not refereed ([2023arXiv230413414B](http://adsabs.harvard.edu/abs/2023arXiv230413414B))  
+<span class="badge">0 citations</span>
+
+66. [THE MAGNETIC FIELD AND MULTIPLE PLANETS OF THE YOUNG DWARF AU~MIC](http://adsabs.harvard.edu/abs/2023arXiv230409642D)  
+Donati, J. -F., Cristofari, P. I., Finociety, B., et al.    
+2023, not refereed ([2023arXiv230409642D](http://adsabs.harvard.edu/abs/2023arXiv230409642D))  
+<span class="badge">0 citations</span>
+
 
 2023-03
 -------
