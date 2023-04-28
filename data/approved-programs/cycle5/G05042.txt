@@ -20,3 +20,6 @@ Summary: Recently, a system of three small planets were discovered orbiting the 
 
 # Sector 064 targets observed (2 min: 1, 20 s: 1)
 150428135,97.0952,-65.5783,10.91,G05042;G05114;G05002;G05064;20SECONDTARGET
+
+# Sector 065 targets observed (2 min: 1, 20 s: 1)
+150428135,97.0952,-65.5783,10.91,G05042;G05114;G05002;G05064;20SECONDTARGET
