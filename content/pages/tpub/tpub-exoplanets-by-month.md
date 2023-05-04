@@ -17,6 +17,36 @@ Baştürk, Ö., Southworth, J., Yalçınkaya, S., et al.
 2023, refereed ([2023MNRAS.521.1200B](http://adsabs.harvard.edu/abs/2023MNRAS.521.1200B))  
 <span class="badge">0 citations</span>
 
+3. [SPINNING UP A DAZE: TESS UNCOVERS A HOT JUPITER ORBITING THE RAPID ROTATOR TOI-778](http://adsabs.harvard.edu/abs/2023AJ....165..207C)  
+Clark, Jake T., Addison, Brett C., Okumura, Jack, et al.    
+2023, refereed ([2023AJ....165..207C](http://adsabs.harvard.edu/abs/2023AJ....165..207C))  
+<span class="badge">0 citations</span>
+
+4. [THE OCCURRENCE RATE OF GIANT PLANETS ORBITING LOW-MASS STARS WITH TESS](http://adsabs.harvard.edu/abs/2023MNRAS.521.3663B)  
+Bryant, Edward M., Bayliss, Daniel, Van Eylen, Vincent    
+2023, refereed ([2023MNRAS.521.3663B](http://adsabs.harvard.edu/abs/2023MNRAS.521.3663B))  
+<span class="badge">1 citations</span>
+
+5. [ANOTHER SHIPMENT OF SIX SHORT-PERIOD GIANT PLANETS FROM TESS](http://adsabs.harvard.edu/abs/2023MNRAS.521.2765R)  
+Rodriguez, Joseph E., Quinn, Samuel N., Vanderburg, Andrew, et al.    
+2023, refereed ([2023MNRAS.521.2765R](http://adsabs.harvard.edu/abs/2023MNRAS.521.2765R))  
+<span class="badge">5 citations</span>
+
+6. [THE TESS TRIPLE-9 CATALOG II: A NEW SET OF 999 UNIFORMLY VETTED EXOPLANET CANDIDATES](http://adsabs.harvard.edu/abs/2023MNRAS.521.3749M)  
+Magliano, Christian, Kostov, Veselin, Cacciapuoti, Luca, et al.    
+2023, refereed ([2023MNRAS.521.3749M](http://adsabs.harvard.edu/abs/2023MNRAS.521.3749M))  
+<span class="badge">0 citations</span>
+
+7. [THE YOUNG MINI-NEPTUNE HD 207496B THAT IS EITHER A NAKED CORE OR ON THE VERGE OF BECOMING ONE](http://adsabs.harvard.edu/abs/2023A&A...673A...4B)  
+Barros, S. C. C., Demangeon, O. D. S., Armstrong, D. J., et al.    
+2023, refereed ([2023A&A...673A...4B](http://adsabs.harvard.edu/abs/2023A&A...673A...4B))  
+<span class="badge">0 citations</span>
+
+8. [REVISED PROPERTIES AND DYNAMICAL HISTORY FOR THE HD 17156 SYSTEM](http://adsabs.harvard.edu/abs/2023arXiv230501000K)  
+Kane, Stephen R., Hill, Michelle L., Dalba, Paul A., et al.    
+2023, not refereed ([2023arXiv230501000K](http://adsabs.harvard.edu/abs/2023arXiv230501000K))  
+<span class="badge">0 citations</span>
+
 
 2023-04
 -------
