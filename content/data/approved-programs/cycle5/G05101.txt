@@ -56,3 +56,7 @@ Summary: We propose to monitor well known photometric standard stars from the HS
 
 # Sector 064 targets observed (2 min: 1, 20 s: 0)
 5914520,193.3148,-18.5274,7.81,G05101
+
+# Sector 066 targets observed (2 min: 2, 20 s: 1)
+148533811,265.705,-40.3235,8.21,G05101
+468150691,307.1032,-87.4726,7.48,G05101;G05155;20SECONDTARGET
