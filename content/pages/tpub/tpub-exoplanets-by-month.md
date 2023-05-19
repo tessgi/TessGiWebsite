@@ -37,14 +37,94 @@ Magliano, Christian, Kostov, Veselin, Cacciapuoti, Luca, et al.
 2023, refereed ([2023MNRAS.521.3749M](http://adsabs.harvard.edu/abs/2023MNRAS.521.3749M))  
 <span class="badge">0 citations</span>
 
-7. [THE YOUNG MINI-NEPTUNE HD 207496B THAT IS EITHER A NAKED CORE OR ON THE VERGE OF BECOMING ONE](http://adsabs.harvard.edu/abs/2023A&A...673A...4B)  
-Barros, S. C. C., Demangeon, O. D. S., Armstrong, D. J., et al.    
-2023, refereed ([2023A&A...673A...4B](http://adsabs.harvard.edu/abs/2023A&A...673A...4B))  
-<span class="badge">0 citations</span>
-
-8. [REVISED PROPERTIES AND DYNAMICAL HISTORY FOR THE HD 17156 SYSTEM](http://adsabs.harvard.edu/abs/2023arXiv230501000K)  
+7. [REVISED PROPERTIES AND DYNAMICAL HISTORY FOR THE HD 17156 SYSTEM](http://adsabs.harvard.edu/abs/2023arXiv230501000K)  
 Kane, Stephen R., Hill, Michelle L., Dalba, Paul A., et al.    
 2023, not refereed ([2023arXiv230501000K](http://adsabs.harvard.edu/abs/2023arXiv230501000K))  
+<span class="badge">0 citations</span>
+
+8. [VALIDATION OF TOI-1221 B: A WARM SUB-NEPTUNE EXHIBITING TRANSIT TIMING VARIATIONS AROUND A SUN-LIKE STAR](http://adsabs.harvard.edu/abs/2023AJ....165..217M)  
+Mann, Christopher, Lafreniére, David, Dragomir, Diana, et al.    
+2023, refereed ([2023AJ....165..217M](http://adsabs.harvard.edu/abs/2023AJ....165..217M))  
+<span class="badge">0 citations</span>
+
+9. [NO EVIDENCE FOR ADDITIONAL PLANETS AT GJ 3470 FROM TESS AND ARCHIVAL RADIAL VELOCITIES](http://adsabs.harvard.edu/abs/2023arXiv230502551T)  
+Tarrants, Thomas, Li, Andrew    
+2023, not refereed ([2023arXiv230502551T](http://adsabs.harvard.edu/abs/2023arXiv230502551T))  
+<span class="badge">0 citations</span>
+
+10. [DISCOVERY OF A SUBSTELLAR COMPANION IN THE TESS LIGHT CURVE OF THE $\DELTA$ SCUTI/$\GAMMA$ DORADUS HYBRID PULSATOR HD 31221](http://adsabs.harvard.edu/abs/2023arXiv230504000K)  
+Kálmán, Sz., Derekas, A., Csizmadia, Sz., et al.    
+2023, not refereed ([2023arXiv230504000K](http://adsabs.harvard.edu/abs/2023arXiv230504000K))  
+<span class="badge">0 citations</span>
+
+11. [COMPARATIVE STUDY OF TESS PHOTOMETRY AND RADIAL VELOCITIES ON SIX EARLY K-TYPE CONTACT BINARIES WITH SIMILAR PERIODS AROUND 0.268 DAYS](http://adsabs.harvard.edu/abs/2023arXiv230508198L)  
+Liu, N. -P., Qian, S. -B., Liao, W. -P., et al.    
+2023, not refereed ([2023arXiv230508198L](http://adsabs.harvard.edu/abs/2023arXiv230508198L))  
+<span class="badge">0 citations</span>
+
+12. [A HOT SUPER-EARTH PLANET IN THE WASP-84 PLANETARY SYSTEM](http://adsabs.harvard.edu/abs/2023arXiv230509177M)  
+Maciejewski, G., Golonka, J., Łoboda, W., et al.    
+2023, not refereed ([2023arXiv230509177M](http://adsabs.harvard.edu/abs/2023arXiv230509177M))  
+<span class="badge">0 citations</span>
+
+13. [A 1.55 R$_{\OPLUS}$ HABITABLE-ZONE PLANET HOSTED BY TOI-715, AN M4 STAR NEAR THE ECLIPTIC SOUTH POLE](http://adsabs.harvard.edu/abs/2023arXiv230506206D)  
+Dransfield, Georgina, Timmermans, Mathilde, Triaud, Amaury H. M. J., et al.    
+2023, not refereed ([2023arXiv230506206D](http://adsabs.harvard.edu/abs/2023arXiv230506206D))  
+<span class="badge">0 citations</span>
+
+14. [AN UNUSUALLY LOW-DENSITY SUPER-EARTH TRANSITING THE BRIGHT EARLY-TYPE M-DWARF GJ 1018 (TOI-244)](http://adsabs.harvard.edu/abs/2023arXiv230504922C)  
+Castro-González, A., Demangeon, O. D. S., Lillo-Box, J., et al.    
+2023, not refereed ([2023arXiv230504922C](http://adsabs.harvard.edu/abs/2023arXiv230504922C))  
+<span class="badge">0 citations</span>
+
+15. [TOI-2498 B: A HOT BLOATED SUPER-NEPTUNE WITHIN THE NEPTUNE DESERT](http://adsabs.harvard.edu/abs/2023arXiv230506950F)  
+Frame, Ginger, Armstrong, David J., Cegla, Heather M., et al.    
+2023, not refereed ([2023arXiv230506950F](http://adsabs.harvard.edu/abs/2023arXiv230506950F))  
+<span class="badge">0 citations</span>
+
+16. [TOI-1442 B AND TOI-2445 B: TWO POTENTIALLY ROCKY ULTRA-SHORT PERIOD PLANETS AROUND M DWARFS](http://adsabs.harvard.edu/abs/2023A&A...673A..32M)  
+Morello, G., Parviainen, H., Murgas, F., et al.    
+2023, refereed ([2023A&A...673A..32M](http://adsabs.harvard.edu/abs/2023A&A...673A..32M))  
+<span class="badge">2 citations</span>
+
+17. [PLANETARY SYSTEM AROUND LTT 1445A UNVEILED BY ESPRESSO: MULTIPLE PLANETS IN A TRIPLE M-DWARF SYSTEM](http://adsabs.harvard.edu/abs/2023A&A...673A..69L)  
+Lavie, B., Bouchy, F., Lovis, C., et al.    
+2023, refereed ([2023A&A...673A..69L](http://adsabs.harvard.edu/abs/2023A&A...673A..69L))  
+<span class="badge">2 citations</span>
+
+18. [VARIABILITY OF KNOWN EXOPLANET HOST STARS OBSERVED BY TESS](http://adsabs.harvard.edu/abs/2023arXiv230509687S)  
+Simpson, Emilie R., Fetherolf, Tara, Kane, Stephen R., et al.    
+2023, not refereed ([2023arXiv230509687S](http://adsabs.harvard.edu/abs/2023arXiv230509687S))  
+<span class="badge">0 citations</span>
+
+19. [THE X-RAY ACTIVITY OF F STARS WITH HOT JUPITERS: KELT-24 VERSUS WASP-18](http://adsabs.harvard.edu/abs/2023A&A...673A..61P)  
+Pillitteri, I., Colombo, S., Micela, G., et al.    
+2023, refereed ([2023A&A...673A..61P](http://adsabs.harvard.edu/abs/2023A&A...673A..61P))  
+<span class="badge">0 citations</span>
+
+20. [A SEARCH FOR STELLAR SIBLINGS OF THE ~ 200 MYR TOI-251B PLANETARY SYSTEM](http://adsabs.harvard.edu/abs/2023arXiv230503255S)  
+Sun, Qinghui, Xuesong Wang, Sharon, Mann, Andrew W., et al.    
+2023, not refereed ([2023arXiv230503255S](http://adsabs.harvard.edu/abs/2023arXiv230503255S))  
+<span class="badge">0 citations</span>
+
+21. [A NEW DYNAMICAL MODELING OF THE WASP-47 SYSTEM WITH CHEOPS OBSERVATIONS](http://adsabs.harvard.edu/abs/2023A&A...673A..42N)  
+Nascimbeni, V., Borsato, L., Zingales, T., et al.    
+2023, refereed ([2023A&A...673A..42N](http://adsabs.harvard.edu/abs/2023A&A...673A..42N))  
+<span class="badge">0 citations</span>
+
+22. [TOI-1994B: A LOW MASS ECCENTRIC BROWN DWARF TRANSITING A SUBGIANT STAR](http://adsabs.harvard.edu/abs/2023arXiv230508836P)  
+Page, Emma, Pepper, Joshua, Wright, Duncan, et al.    
+2023, not refereed ([2023arXiv230508836P](http://adsabs.harvard.edu/abs/2023arXiv230508836P))  
+<span class="badge">0 citations</span>
+
+23. [THE PERIOD DISTRIBUTION OF HOT JUPITERS IS NOT DEPENDENT ON HOST STAR METALLICITY](http://adsabs.harvard.edu/abs/2023arXiv230509488Y)  
+Yee, Samuel W., Winn, Joshua N.    
+2023, not refereed ([2023arXiv230509488Y](http://adsabs.harvard.edu/abs/2023arXiv230509488Y))  
+<span class="badge">0 citations</span>
+
+24. [THE YOUNG MINI-NEPTUNE HD 207496B THAT IS EITHER A NAKED CORE OR ON THE VERGE OF BECOMING ONE](http://adsabs.harvard.edu/abs/2023A&A...673A...4B)  
+Barros, S. C. C., Demangeon, O. D. S., Armstrong, D. J., et al.    
+2023, refereed ([2023A&A...673A...4B](http://adsabs.harvard.edu/abs/2023A&A...673A...4B))  
 <span class="badge">0 citations</span>
 
 
