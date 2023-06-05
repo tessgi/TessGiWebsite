@@ -4,6 +4,65 @@ Save_as: tpub-exoplanets-by-month.html
 [TOC]
 
 
+2023-06
+-------
+
+1. [THREE LONG-PERIOD TRANSITING GIANT PLANETS FROM TESS](http://adsabs.harvard.edu/abs/2023AJ....165..227B)  
+Brahm, Rafael, Ulmer-Moll, Solène, Hobson, Melissa J., et al.    
+2023, refereed ([2023AJ....165..227B](http://adsabs.harvard.edu/abs/2023AJ....165..227B))  
+<span class="badge">0 citations</span>
+
+2. [A SUB-NEPTUNE TRANSITING THE YOUNG FIELD STAR HD 18599 AT 40 PC](http://adsabs.harvard.edu/abs/2023MNRAS.522..750D)  
+de Leon, J. P., Livingston, J. H., Jenkins, J. S., et al.    
+2023, refereed ([2023MNRAS.522..750D](http://adsabs.harvard.edu/abs/2023MNRAS.522..750D))  
+<span class="badge">1 citations</span>
+
+3. [TRANSIT DEPTH VARIATIONS REVEAL TOI-216 B TO BE A SUPER-PUFF](http://adsabs.harvard.edu/abs/2023AJ....165..236M)  
+McKee, Brendan J., Montet, Benjamin T.    
+2023, refereed ([2023AJ....165..236M](http://adsabs.harvard.edu/abs/2023AJ....165..236M))  
+<span class="badge">0 citations</span>
+
+4. [A HIGH-ECCENTRICITY WARM JUPITER ORBITING TOI-4127](http://adsabs.harvard.edu/abs/2023AJ....165..234G)  
+Gupta, Arvind F., Jackson, Jonathan M., Hébrard, Guillaume, et al.    
+2023, refereed ([2023AJ....165..234G](http://adsabs.harvard.edu/abs/2023AJ....165..234G))  
+<span class="badge">0 citations</span>
+
+5. [UPDATED PLANETARY MASS CONSTRAINTS OF THE YOUNG V1298 TAU SYSTEM USING MAROON-X](http://adsabs.harvard.edu/abs/2023AJ....165..250S)  
+Sikora, James, Rowe, Jason, Barat, Saugata, et al.    
+2023, refereed ([2023AJ....165..250S](http://adsabs.harvard.edu/abs/2023AJ....165..250S))  
+<span class="badge">0 citations</span>
+
+6. [AN IN-DEPTH LOOK AT TOI-3884B: A SUPER-NEPTUNE TRANSITING AN M4DWARF WITH PERSISTENT STARSPOT CROSSINGS](http://adsabs.harvard.edu/abs/2023AJ....165..249L)  
+Libby-Roberts, Jessica E., Schutte, Maria, Hebb, Leslie, et al.    
+2023, refereed ([2023AJ....165..249L](http://adsabs.harvard.edu/abs/2023AJ....165..249L))  
+<span class="badge">0 citations</span>
+
+7. [CONVERTING THE SUB-JOVIAN DESERT OF EXOPLANETS TO A SAVANNA WITH TESS, PLATO, AND ARIEL](http://adsabs.harvard.edu/abs/2023MNRAS.522..488K)  
+Kálmán, Szilárd, Szabó, Gyula M., Borsato, Luca, et al.    
+2023, refereed ([2023MNRAS.522..488K](http://adsabs.harvard.edu/abs/2023MNRAS.522..488K))  
+<span class="badge">0 citations</span>
+
+8. [REVISED PROPERTIES AND DYNAMICAL HISTORY FOR THE HD 17156 SYSTEM](http://adsabs.harvard.edu/abs/2023AJ....165..252K)  
+Kane, Stephen R., Hill, Michelle L., Dalba, Paul A., et al.    
+2023, refereed ([2023AJ....165..252K](http://adsabs.harvard.edu/abs/2023AJ....165..252K))  
+<span class="badge">1 citations</span>
+
+9. [POWER-2 LIMB-DARKENING COEFFICIENTS FOR THE UVBY, UBVRIJHK, SDSS UGRIZ, GAIA, KEPLER, TESS, AND CHEOPS PHOTOMETRIC SYSTEMS. II. PHOENIX SPHERICALLY SYMMETRIC STELLAR ATMOSPHERE MODELS](http://adsabs.harvard.edu/abs/2023A&A...674A..63C)  
+Claret, A., Southworth, J.    
+2023, refereed ([2023A&A...674A..63C](http://adsabs.harvard.edu/abs/2023A&A...674A..63C))  
+<span class="badge">0 citations</span>
+
+10. [HST PANCET PROGRAMME: A FLAT OPTICAL TRANSMISSION SPECTRUM FOR THE HOT JUPITER WASP-101B](http://adsabs.harvard.edu/abs/2023MNRAS.522..582R)  
+Rathcke, Alexander D., Buchhave, Lars A., Mendonça, João M., et al.    
+2023, refereed ([2023MNRAS.522..582R](http://adsabs.harvard.edu/abs/2023MNRAS.522..582R))  
+<span class="badge">0 citations</span>
+
+11. [HYADES MEMBER K2-136C: THE SMALLEST PLANET IN AN OPEN CLUSTER WITH A PRECISELY MEASURED MASS](http://adsabs.harvard.edu/abs/2023AJ....165..235M)  
+Mayo, Andrew W., Dressing, Courtney D., Vanderburg, Andrew, et al.    
+2023, refereed ([2023AJ....165..235M](http://adsabs.harvard.edu/abs/2023AJ....165..235M))  
+<span class="badge">2 citations</span>
+
+
 2023-05
 -------
 

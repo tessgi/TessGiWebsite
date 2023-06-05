@@ -60,3 +60,6 @@ Summary: Recently Kepler K2 and TESS have introduced a new category in young sta
 
 # Sector 066 targets observed (2 min: 1, 20 s: 1)
 177309964,103.4526,-75.7037,13.1,G05105;G05106;G05159;20SECONDTARGET
+
+# Sector 067 targets observed (2 min: 1, 20 s: 1)
+177309964,103.4526,-75.7037,13.1,G05105;G05106;G05159;20SECONDTARGET

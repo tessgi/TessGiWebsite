@@ -223,7 +223,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>Southern hemisphere</td>
     <td>2023&nbsp;Jul&nbsp;01</td>
     <td>2023&nbsp;Jul&nbsp;29</td>
-    <td></td>
+    <td><a href='data/target_lists/sector067_targets_lists/GI_S067.csv'>Download</a></td>
     <td style="min-width: 12em;">
     </td>
   </tr>
@@ -1005,6 +1005,15 @@ cadence for each camera and sector.
 
 
 ### Cycle 5
+<div class="row">
+    <div class="col-md-6 text-center">
+      <a href="images/sector-plots/sector-plots.067.jpeg">
+        <img id="s067" src="images/sector-plots/sector-plots.065.jpeg" class="img-responsive">
+        Sector 67
+      </a>
+	</div>
+</div>
+<br>
 <div class="row">
     <div class="col-md-6 text-center">
       <a href="images/sector-plots/sector-plots.065.jpeg">
