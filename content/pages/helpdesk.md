@@ -9,54 +9,49 @@ The members of the TESS GI office are listed below.
 
 <div class="row">
 
-    <div class="col-sm-3 text-center">
+    <div class="col-sm-3 text-center"> 
         <img src="images/faces/knicole.jpg" style="max-width:80%;" class="img-circle"><br>
-        Dr Knicole Colón<br>
+        Dr. Knicole Colón<br>
         Project Scientist 
     </div>
     
     <div class="col-sm-3 text-center">
         <img src="images/faces/Allison_photo.jpg" style="max-width:80%;" class="img-circle"><br>
-        Dr Allison Youngblood<br>
+        Dr. Allison Youngblood<br>
         Deputy Project Scientist
     </div>
     
      <div class="col-sm-3 text-center">
         <img src="images/faces/christina.jpg"  style="max-width:80%;" class="img-circle"><br>
-        Dr Christina Hedges<br>
+        Dr. Christina Hedges<br>
         Director of the Guest Investigator Office
     </div>
     
-    <div class="col-sm-3 text-center">
-        <img src="images/faces/mark.png"  style="max-width:80%;" class="img-circle"><br>
-        Mark Messersmith<br>
-        Administrative Support
-    </div>
 </div>
     
 <div class="row">
 
    <div class="col-sm-3 text-center">
     <img src="images/faces/rebekah.jpg" style="max-width:80%;" class="img-circle"><br>
-        Dr Rebekah Hounsell<br>
+        Dr. Rebekah Hounsell<br>
         Support Scientist
     </div>
     
     <div class="col-sm-3 text-center">
         <img src="images/faces/Veselin_Kostov.png"  style="max-width:80%;" class="img-circle"><br>
-        Dr Veselin Kostov<br>
+        Dr. Veselin Kostov<br>
         Support Scientist
     </div>
     
      <div class="col-sm-3 text-center">
         <img src="images/faces/Tyler2.jpg"  style="max-width:80%;" class="img-circle"><br>
-        Dr Tyler Pritchard<br>
+        Dr. Tyler Pritchard<br>
         Support Scientist
     </div>
     
     <div class="col-sm-3 text-center">
           <img src="images/faces/Nicole_BW_headshot.jpg"  style="max-width:80%;" class="img-circle"><br>
-        Dr Nicole Schanche<br>
+        Dr. Nicole Schanche<br>
         Support Scientist
     </div>
     
