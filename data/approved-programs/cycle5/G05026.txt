@@ -1,0 +1,13 @@
+# TESS Program G05026
+
+Title: Bridging The Gap Between Nuv And White-Light Flare Emission With TESS And The Swift UV Grism
+
+PI: Jackman, James - Arizona State University
+
+Type: SMALL
+
+Summary: NUV flare emission from low-mass stars may influence rocky exoplanet atmospheric photochemistry and the abundance of biosignatures, yet flares may provide the needed flux for prebiotic chemistry to occur on their surfaces. Due to the scarcity of measured NUV flare rates, many studies rely on using poorly tested empirical models to extrapolate white-light flare rates measured with TESS to the NUV. We propose to simultaneously observe the highly active bright M2 star Smethells 94 with TESS 20-s cadence photometry and the Swift UVOT grism to study the NUV spectra of white-light flares. We will constrain flare NUV line emission and test the accuracy of modelling the NUV activity of low-mass stars from TESS data alone, providing a vital resource for future habitability studies.
+
+
+# Sector 068 targets observed (2 min: 1, 20 s: 1)
+140045538,329.4213,-51.0087,8.23,G05026;G05071;G05121;20SECONDTARGET
