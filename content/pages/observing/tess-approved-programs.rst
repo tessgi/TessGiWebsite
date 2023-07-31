@@ -30,6 +30,24 @@ Cycle 5
 
 .. include:: approved-programs/cycle5.html
 
+Sector 69
+=========
+.. raw:: html
+
+    <ul class="list-group">
+        <li class="list-group-item">
+          <i class="fa fa-calendar fa-margin"></i>
+           August 25. 2023 - September 20. 2023
+        </li>
+        <li class="list-group-item">
+            <i class="fa fa-download fa-margin"></i>
+            <a href="data/target_lists/sector069_targets_lists/GI_S069.csv">2 min target list (csv)</a>, 
+            <a href="data/target_lists/sector069_targets_lists/GI_20s_S069.csv">20 s target list (csv)</a>
+        </li>
+    </ul>
+
+.. include:: approved-programs/sector069.html
+
 
 Sector 68
 =========
