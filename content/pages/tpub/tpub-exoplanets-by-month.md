@@ -67,6 +67,116 @@ Morello, Giuseppe, Changeat, Quentin, Dyrek, Achrène, et al.
 2023, not refereed ([2023arXiv230700669M](http://adsabs.harvard.edu/abs/2023arXiv230700669M))  
 <span class="badge">0 citations</span>
 
+13. [TOI-179: A YOUNG SYSTEM WITH A TRANSITING COMPACT NEPTUNE-MASS PLANET AND A LOW-MASS COMPANION IN OUTER ORBIT](http://adsabs.harvard.edu/abs/2023A&A...675A.158D)  
+Desidera, S., Damasso, M., Gratton, R., et al.    
+2023, refereed ([2023A&A...675A.158D](http://adsabs.harvard.edu/abs/2023A&A...675A.158D))  
+<span class="badge">1 citations</span>
+
+14. [TWO SUB-NEPTUNES AROUND THE M DWARF TOI-1470](http://adsabs.harvard.edu/abs/2023A&A...675A.177G)  
+González-Álvarez, E., Zapatero Osorio, M. R., Caballero, J. A., et al.    
+2023, refereed ([2023A&A...675A.177G](http://adsabs.harvard.edu/abs/2023A&A...675A.177G))  
+<span class="badge">0 citations</span>
+
+15. [AN UNUSUALLY LOW-DENSITY SUPER-EARTH TRANSITING THE BRIGHT EARLY-TYPE M-DWARF GJ 1018 (TOI-244)](http://adsabs.harvard.edu/abs/2023A&A...675A..52C)  
+Castro-González, A., Demangeon, O. D. S., Lillo-Box, J., et al.    
+2023, refereed ([2023A&A...675A..52C](http://adsabs.harvard.edu/abs/2023A&A...675A..52C))  
+<span class="badge">1 citations</span>
+
+16. [MULTIPLICITY BOOST OF TRANSIT SIGNAL CLASSIFIERS: VALIDATION OF 69 NEW EXOPLANETS USING THE MULTIPLICITY BOOST OF EXOMINER](http://adsabs.harvard.edu/abs/2023AJ....166...28V)  
+Valizadegan, Hamed, Martinho, Miguel J. S., Jenkins, Jon M., et al.    
+2023, refereed ([2023AJ....166...28V](http://adsabs.harvard.edu/abs/2023AJ....166...28V))  
+<span class="badge">1 citations</span>
+
+17. [DISCOVERY AND CHARACTERISATION OF TWO NEPTUNE-MASS PLANETS ORBITING HD 212729 WITH TESS](http://adsabs.harvard.edu/abs/2023MNRAS.tmp.2090A)  
+Armstrong, David J., Osborn, Ares, Adibekyan, Vardan, et al.    
+2023, refereed ([2023MNRAS.tmp.2090A](http://adsabs.harvard.edu/abs/2023MNRAS.tmp.2090A))  
+<span class="badge">0 citations</span>
+
+18. [TESS DISCOVERY OF A SUPER-EARTH ORBITING THE M DWARF STAR TOI-1680](http://adsabs.harvard.edu/abs/2023arXiv230705368G)  
+Ghachoui, M., Soubkiou, A., Wells, R. D., et al.    
+2023, not refereed ([2023arXiv230705368G](http://adsabs.harvard.edu/abs/2023arXiv230705368G))  
+<span class="badge">0 citations</span>
+
+19. [THREE SATURN-MASS PLANETS TRANSITING F-TYPE STARS REVEALED WITH TESS AND HARPS. TOI-615B, TOI-622B, AND TOI-2641B](http://adsabs.harvard.edu/abs/2023A&A...675A..39P)  
+Psaridi, Angelica, Bouchy, François, Lendl, Monika, et al.    
+2023, refereed ([2023A&A...675A..39P](http://adsabs.harvard.edu/abs/2023A&A...675A..39P))  
+<span class="badge">0 citations</span>
+
+20. [A MASSIVE HOT JUPITER ORBITING A METAL-RICH EARLY-M STAR DISCOVERED IN THE TESS FULL FRAME IMAGES](http://adsabs.harvard.edu/abs/2023arXiv230707329G)  
+Gan, Tianjun, Cadieux, Charles, Jahandar, Farbod, et al.    
+2023, not refereed ([2023arXiv230707329G](http://adsabs.harvard.edu/abs/2023arXiv230707329G))  
+<span class="badge">0 citations</span>
+
+21. [SEARCH FOR PLANETS IN HOT JUPITER SYSTEMS WITH MULTI-SECTOR TESS PHOTOMETRY. III. A STUDY OF TEN SYSTEMS ENHANCED WITH NEW GROUND-BASED PHOTOMETRY](http://adsabs.harvard.edu/abs/2023AcA....73...57M)  
+Maciejewski, G., Fernández, M., Sota, A., et al.    
+2023, refereed ([2023AcA....73...57M](http://adsabs.harvard.edu/abs/2023AcA....73...57M))  
+<span class="badge">0 citations</span>
+
+22. [TOI-4201: AN EARLY M-DWARF HOSTING A MASSIVE TRANSITING JUPITER STRETCHING THEORIES OF CORE-ACCRETION](http://adsabs.harvard.edu/abs/2023arXiv230706880D)  
+Delamer, Megan, Kanodia, Shubham, Cañas, Caleb I., et al.    
+2023, not refereed ([2023arXiv230706880D](http://adsabs.harvard.edu/abs/2023arXiv230706880D))  
+<span class="badge">0 citations</span>
+
+23. [DISCOVERY AND CHARACTERISATION OF TWO NEPTUNE-MASS PLANETS ORBITING HD 212729 WITH TESS](http://adsabs.harvard.edu/abs/2023MNRAS.tmp.2102A)  
+Armstrong, David J., Osborn, Ares, Adibekyan, Vardan, et al.    
+2023, refereed ([2023MNRAS.tmp.2102A](http://adsabs.harvard.edu/abs/2023MNRAS.tmp.2102A))  
+<span class="badge">0 citations</span>
+
+24. [DMPP-4: CANDIDATE SUB-NEPTUNE MASS PLANETS ORBITING A NAKED-EYE STAR](http://adsabs.harvard.edu/abs/2023MNRAS.tmp.2033B)  
+Barnes, J. R., Standing, M. R., Haswell, C. A., et al.    
+2023, refereed ([2023MNRAS.tmp.2033B](http://adsabs.harvard.edu/abs/2023MNRAS.tmp.2033B))  
+<span class="badge">0 citations</span>
+
+25. [THE PLANETARY SYSTEM AROUND HD 190622 (TOI-1054). MEASURING THE GAS CONTENT OF LOW-MASS PLANETS ORBITING F-STARS](http://adsabs.harvard.edu/abs/2023A&A...675A.183C)  
+Cabrera, J., Gandolfi, D., Serrano, L. M., et al.    
+2023, refereed ([2023A&A...675A.183C](http://adsabs.harvard.edu/abs/2023A&A...675A.183C))  
+<span class="badge">0 citations</span>
+
+26. [THE EXTREMELY HIGH ALBEDO OF LTT 9779 B REVEALED BY CHEOPS. AN ULTRAHOT NEPTUNE WITH A HIGHLY METALLIC ATMOSPHERE](http://adsabs.harvard.edu/abs/2023A&A...675A..81H)  
+Hoyer, S., Jenkins, J. S., Parmentier, V., et al.    
+2023, refereed ([2023A&A...675A..81H](http://adsabs.harvard.edu/abs/2023A&A...675A..81H))  
+<span class="badge">0 citations</span>
+
+27. [WASP-193B: AN EXTREMELY LOW-DENSITY SUPER-NEPTUNE](http://adsabs.harvard.edu/abs/2023arXiv230708350B)  
+Barkaoui, Khalid, Pozuelos, Francisco J., Hellier, Coel, et al.    
+2023, not refereed ([2023arXiv230708350B](http://adsabs.harvard.edu/abs/2023arXiv230708350B))  
+<span class="badge">0 citations</span>
+
+28. [DETECTION OF AN ATMOSPHERIC OUTFLOW FROM THE YOUNG HOT SATURN TOI-1268B](http://adsabs.harvard.edu/abs/2023arXiv230709515P)  
+Pérez González, Jorge, Greklek-McKeon, Michael, Vissapragada, Shreyas, et al.    
+2023, not refereed ([2023arXiv230709515P](http://adsabs.harvard.edu/abs/2023arXiv230709515P))  
+<span class="badge">0 citations</span>
+
+29. [TOI 4201 B AND TOI 5344 B: DISCOVERY OF TWO TRANSITING GIANT PLANETS AROUND M DWARF STARS AND REVISED PARAMETERS FOR THREE OTHERS](http://adsabs.harvard.edu/abs/2023arXiv230706809H)  
+Hartman, J. D., Bakos, G. Á., Csubry, Z., et al.    
+2023, not refereed ([2023arXiv230706809H](http://adsabs.harvard.edu/abs/2023arXiv230706809H))  
+<span class="badge">0 citations</span>
+
+30. [EXOMMR: A NEW PYTHON PACKAGE TO CONFIRM AND CHARACTERIZE MEAN MOTION RESONANCES](http://adsabs.harvard.edu/abs/2023arXiv230706171M)  
+MacDonald, Mariah G., Polania Vivas, Michael S., D'Angiolillo, Skylar, et al.    
+2023, not refereed ([2023arXiv230706171M](http://adsabs.harvard.edu/abs/2023arXiv230706171M))  
+<span class="badge">0 citations</span>
+
+31. [COMPANY FOR THE ULTRA-HIGH DENSITY, ULTRA-SHORT PERIOD SUB-EARTH GJ 367 B: DISCOVERY OF TWO ADDITIONAL LOW-MASS PLANETS AT 11.5 AND 34 DAYS](http://adsabs.harvard.edu/abs/2023arXiv230709181G)  
+Goffo, Elisa, Gandolfi, Davide, Egger, Jo Ann, et al.    
+2023, not refereed ([2023arXiv230709181G](http://adsabs.harvard.edu/abs/2023arXiv230709181G))  
+<span class="badge">0 citations</span>
+
+32. [CONFIRMATION OF AN HE I EVAPORATING ATMOSPHERE AROUND THE 650-MYR-OLD SUB-NEPTUNE HD235088 B (TOI-1430 B) WITH CARMENES](http://adsabs.harvard.edu/abs/2023arXiv230705191O)  
+Orell-Miquel, J., Lampón, M., López-Puertas, M., et al.    
+2023, not refereed ([2023arXiv230705191O](http://adsabs.harvard.edu/abs/2023arXiv230705191O))  
+<span class="badge">0 citations</span>
+
+33. [THE GAPS PROGRAM AT TNG XLVII: THE UNUSUAL FORMATION HISTORY OF V1298 TAU](http://adsabs.harvard.edu/abs/2023arXiv230708653T)  
+Turrini, D., Marzari, F., Polychroni, D., et al.    
+2023, not refereed ([2023arXiv230708653T](http://adsabs.harvard.edu/abs/2023arXiv230708653T))  
+<span class="badge">0 citations</span>
+
+34. [ORBITAL ALIGNMENT OF THE ECCENTRIC WARM JUPITER TOI-677 B](http://adsabs.harvard.edu/abs/2023arXiv230707598S)  
+Sedaghati, Elyar, Jordán, Andrés, Brahm, Rafael, et al.    
+2023, not refereed ([2023arXiv230707598S](http://adsabs.harvard.edu/abs/2023arXiv230707598S))  
+<span class="badge">0 citations</span>
+
 
 2023-06
 -------
