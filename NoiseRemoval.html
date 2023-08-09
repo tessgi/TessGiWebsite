@@ -16,7 +16,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - TESS Science Support Center" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2023-07-31" />
+    <meta name="dc.date.modified" content="2023-08-09" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Users of TESS Data" />
     <meta name="dc.identifier" content="https://heasarc.gsfc.nasa.gov/docs/tess/" />
@@ -108,6 +108,7 @@ in August 2015, using pelican-bootstrap and flatly.
                             <li><a href="./primary.html">Primary mission</a></li>
                             <li><a href="./extended.html">First Extended mission</a></li>
                             <li><a href="./second-extended.html">Second Extended mission</a></li>
+                            <li><a href="./TUC.html">Users Committee</a></li>
                             <li><a href="./faq.html">FAQ</a></li>
                             <li><a href="./citizenscience.html">Citizen Science</a></li>
                             <li><a href="./gallery.html">Outreach resources</a></li>
@@ -224,10 +225,10 @@ command at the top of your colab notebook:</p>
 <p><tt class="docutils literal">!pip install lightkurve</tt></p>
 <p>This downloads the <em>Lightkurve</em> package.</p>
 <pre class="code ipython3 literal-block">
-<span class="kn">import</span> <span class="nn">lightkurve</span> <span class="k">as</span> <span class="nn">lk</span><span class="w">
-</span><span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="nn">np</span><span class="w">
-</span><span class="kn">import</span> <span class="nn">matplotlib.pyplot</span> <span class="k">as</span> <span class="nn">plt</span><span class="w">
-</span><span class="o">%</span><span class="k">matplotlib</span> inline
+<span class="kn">import</span> <span class="nn">lightkurve</span> <span class="k">as</span> <span class="nn">lk</span>
+<span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="nn">np</span>
+<span class="kn">import</span> <span class="nn">matplotlib.pyplot</span> <span class="k">as</span> <span class="nn">plt</span>
+<span class="o">%</span><span class="k">matplotlib</span> inline
 </pre>
 </div>
 <div class="section" id="introduction-to-the-corrector-class">
@@ -304,8 +305,8 @@ for TESS FFI data on this object using the
 <a class="reference external" href="https://docs.lightkurve.org/reference/api/lightkurve.search_tesscut.html?highlight=search_tesscut#lightkurve.search_tesscut">search_tesscut()</a>
 function.</p>
 <pre class="code ipython3 literal-block">
-<span class="n">search_lc</span> <span class="o">=</span> <span class="n">lk</span><span class="o">.</span><span class="n">search_tesscut</span><span class="p">(</span><span class="s2">&quot;KT Eri&quot;</span><span class="p">)</span><span class="w">
-</span><span class="n">search_lc</span>
+<span class="n">search_lc</span> <span class="o">=</span> <span class="n">lk</span><span class="o">.</span><span class="n">search_tesscut</span><span class="p">(</span><span class="s2">&quot;KT Eri&quot;</span><span class="p">)</span>
+<span class="n">search_lc</span>
 </pre>
 SearchResult containing 2 data products.
 
@@ -320,8 +321,8 @@ data we must specify a cut out size in pixels and use the
 <a class="reference external" href="https://docs.lightkurve.org/reference/search.html?highlight=download">download()</a>
 function.</p>
 <pre class="code ipython3 literal-block">
-<span class="n">S32</span> <span class="o">=</span> <span class="n">search_lc</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span><span class="o">.</span><span class="n">download</span><span class="p">(</span><span class="n">cutout_size</span><span class="o">=</span><span class="mi">50</span><span class="p">)</span><span class="w">
-</span><span class="n">S32</span><span class="o">.</span><span class="n">plot</span><span class="p">()</span>
+<span class="n">S32</span> <span class="o">=</span> <span class="n">search_lc</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span><span class="o">.</span><span class="n">download</span><span class="p">(</span><span class="n">cutout_size</span><span class="o">=</span><span class="mi">50</span><span class="p">)</span>
+<span class="n">S32</span><span class="o">.</span><span class="n">plot</span><span class="p">()</span>
 </pre>
 <pre class="literal-block">
 &lt;matplotlib.axes._subplots.AxesSubplot at 0x7f8da8e321d0&gt;
@@ -337,9 +338,9 @@ function. Our object is in the center, but it is kind of faint in
 comparison to some other objects. We must therefore create our own
 aperture as shown below.</p>
 <pre class="code ipython3 literal-block">
-<span class="n">aper_new</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">zeros</span><span class="p">(</span><span class="n">S32</span><span class="o">.</span><span class="n">shape</span><span class="p">[</span><span class="mi">1</span><span class="p">:],</span> <span class="n">dtype</span><span class="o">=</span><span class="nb">bool</span><span class="p">)</span><span class="w">
-</span><span class="n">aper_new</span><span class="p">[</span><span class="mi">24</span><span class="p">:</span><span class="mi">27</span><span class="p">,</span> <span class="mi">24</span><span class="p">:</span><span class="mi">27</span><span class="p">]</span> <span class="o">=</span> <span class="kc">True</span><span class="w">
-</span><span class="n">S32</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">aperture_mask</span><span class="o">=</span><span class="n">aper_new</span><span class="p">,</span> <span class="n">mask_color</span><span class="o">=</span><span class="s1">'red'</span><span class="p">)</span>
+<span class="n">aper_new</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">zeros</span><span class="p">(</span><span class="n">S32</span><span class="o">.</span><span class="n">shape</span><span class="p">[</span><span class="mi">1</span><span class="p">:],</span> <span class="n">dtype</span><span class="o">=</span><span class="nb">bool</span><span class="p">)</span>
+<span class="n">aper_new</span><span class="p">[</span><span class="mi">24</span><span class="p">:</span><span class="mi">27</span><span class="p">,</span> <span class="mi">24</span><span class="p">:</span><span class="mi">27</span><span class="p">]</span> <span class="o">=</span> <span class="kc">True</span>
+<span class="n">S32</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">aperture_mask</span><span class="o">=</span><span class="n">aper_new</span><span class="p">,</span> <span class="n">mask_color</span><span class="o">=</span><span class="s1">'red'</span><span class="p">)</span>
 </pre>
 <pre class="literal-block">
 &lt;matplotlib.axes._subplots.AxesSubplot at 0x7f8dd96dcfd0&gt;
@@ -348,8 +349,8 @@ aperture as shown below.</p>
 <p>Excellent it covers our object! Let’s now make our light curve using
 this aperture and plot the result.</p>
 <pre class="code ipython3 literal-block">
-<span class="n">lc_S32</span> <span class="o">=</span> <span class="n">S32</span><span class="o">.</span><span class="n">to_lightcurve</span><span class="p">(</span><span class="n">aperture_mask</span><span class="o">=</span><span class="s1">'threshold'</span><span class="p">)</span><span class="w">
-</span><span class="n">lc_S32</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">label</span><span class="o">=</span><span class="s2">&quot;S32 FFI lc&quot;</span><span class="p">)</span>
+<span class="n">lc_S32</span> <span class="o">=</span> <span class="n">S32</span><span class="o">.</span><span class="n">to_lightcurve</span><span class="p">(</span><span class="n">aperture_mask</span><span class="o">=</span><span class="s1">'threshold'</span><span class="p">)</span>
+<span class="n">lc_S32</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">label</span><span class="o">=</span><span class="s2">&quot;S32 FFI lc&quot;</span><span class="p">)</span>
 </pre>
 <pre class="literal-block">
 &lt;matplotlib.axes._subplots.AxesSubplot at 0x7f8dd96dccd0&gt;
@@ -370,9 +371,9 @@ for more information.</p>
 <p>First, we must import the <em>CBVCorrector</em> from <em>lightkurve.correctors</em>,
 and then we can refer to our generate light curve.</p>
 <pre class="code ipython3 literal-block">
-<span class="kn">from</span> <span class="nn">lightkurve.correctors</span> <span class="kn">import</span> <span class="n">CBVCorrector</span><span class="w">
-</span><span class="n">cbvCorrector</span> <span class="o">=</span> <span class="n">CBVCorrector</span><span class="p">(</span><span class="n">lc_S32</span><span class="p">,</span> <span class="n">interpolate_cbvs</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span><span class="w">
-</span><span class="n">cbvCorrector</span><span class="o">.</span><span class="n">cbvs</span>
+<span class="kn">from</span> <span class="nn">lightkurve.correctors</span> <span class="kn">import</span> <span class="n">CBVCorrector</span>
+<span class="n">cbvCorrector</span> <span class="o">=</span> <span class="n">CBVCorrector</span><span class="p">(</span><span class="n">lc_S32</span><span class="p">,</span> <span class="n">interpolate_cbvs</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
+<span class="n">cbvCorrector</span><span class="o">.</span><span class="n">cbvs</span>
 </pre>
 <pre class="literal-block">
 [TESS CBVs, Sector.Camera.CCD : 32.2.4, CBVType : SingleScale, nCBVS : 16,
@@ -412,8 +413,8 @@ under or over-fit our data. There is a handy way of checking this via
 the use of a goodness_metric_scan_plot. A “Goodness Metric” value of 0.8
 and above tends to indicate a good fit to the data.</p>
 <pre class="code ipython3 literal-block">
-<span class="n">cbvCorrector</span><span class="o">.</span><span class="n">goodness_metric_scan_plot</span><span class="p">(</span><span class="n">cbv_type</span><span class="o">=</span><span class="n">cbv_type</span><span class="p">,</span> <span class="n">cbv_indices</span><span class="o">=</span><span class="n">cbv_indices</span><span class="p">);</span><span class="w">
-</span><span class="n">plt</span><span class="o">.</span><span class="n">plot</span><span class="p">([</span><span class="mf">1.5e-1</span><span class="p">,</span> <span class="mf">1.5e-1</span><span class="p">],</span> <span class="p">[</span><span class="mi">0</span><span class="p">,</span><span class="mi">1</span><span class="p">])</span>
+<span class="n">cbvCorrector</span><span class="o">.</span><span class="n">goodness_metric_scan_plot</span><span class="p">(</span><span class="n">cbv_type</span><span class="o">=</span><span class="n">cbv_type</span><span class="p">,</span> <span class="n">cbv_indices</span><span class="o">=</span><span class="n">cbv_indices</span><span class="p">);</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">plot</span><span class="p">([</span><span class="mf">1.5e-1</span><span class="p">,</span> <span class="mf">1.5e-1</span><span class="p">],</span> <span class="p">[</span><span class="mi">0</span><span class="p">,</span><span class="mi">1</span><span class="p">])</span>
 </pre>
 <pre class="literal-block">
 [&lt;matplotlib.lines.Line2D at 0x7f8d8a297290&gt;]
@@ -423,16 +424,16 @@ and above tends to indicate a good fit to the data.</p>
 1.5e-1 is appropriate for our data. We can now specify this and check it
 via a diagnose method.</p>
 <pre class="code ipython3 literal-block">
-<span class="n">cbvcorrector</span> <span class="o">=</span> <span class="n">CBVCorrector</span><span class="p">(</span><span class="n">lc_S32</span><span class="p">,</span> <span class="n">interpolate_cbvs</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span><span class="w">
-</span><span class="n">cbvcorrector</span><span class="o">.</span><span class="n">correct_gaussian_prior</span><span class="p">(</span><span class="n">cbv_type</span><span class="o">=</span><span class="n">cbv_type</span><span class="p">,</span> <span class="n">cbv_indices</span><span class="o">=</span><span class="n">cbv_indices</span><span class="p">,</span> <span class="n">alpha</span><span class="o">=</span><span class="mf">1.5e-1</span><span class="p">)</span><span class="w">
-</span><span class="n">pltAxis</span> <span class="o">=</span> <span class="n">cbvcorrector</span><span class="o">.</span><span class="n">diagnose</span><span class="p">()</span><span class="w">
-</span><span class="n">pltAxis</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span><span class="o">.</span><span class="n">set_ylim</span><span class="p">(</span><span class="mi">300</span><span class="p">,</span> <span class="mi">500</span><span class="p">);</span><span class="w">
-</span><span class="n">pltAxis</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span><span class="o">.</span><span class="n">set_ylim</span><span class="p">(</span><span class="mi">300</span><span class="p">,</span> <span class="mi">500</span><span class="p">);</span>
+<span class="n">cbvcorrector</span> <span class="o">=</span> <span class="n">CBVCorrector</span><span class="p">(</span><span class="n">lc_S32</span><span class="p">,</span> <span class="n">interpolate_cbvs</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
+<span class="n">cbvcorrector</span><span class="o">.</span><span class="n">correct_gaussian_prior</span><span class="p">(</span><span class="n">cbv_type</span><span class="o">=</span><span class="n">cbv_type</span><span class="p">,</span> <span class="n">cbv_indices</span><span class="o">=</span><span class="n">cbv_indices</span><span class="p">,</span> <span class="n">alpha</span><span class="o">=</span><span class="mf">1.5e-1</span><span class="p">)</span>
+<span class="n">pltAxis</span> <span class="o">=</span> <span class="n">cbvcorrector</span><span class="o">.</span><span class="n">diagnose</span><span class="p">()</span>
+<span class="n">pltAxis</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span><span class="o">.</span><span class="n">set_ylim</span><span class="p">(</span><span class="mi">300</span><span class="p">,</span> <span class="mi">500</span><span class="p">);</span>
+<span class="n">pltAxis</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span><span class="o">.</span><span class="n">set_ylim</span><span class="p">(</span><span class="mi">300</span><span class="p">,</span> <span class="mi">500</span><span class="p">);</span>
 </pre>
 <img alt="" src="output_27_0.png" />
 <pre class="code ipython3 literal-block">
-<span class="n">cbvcorrector_lc</span> <span class="o">=</span> <span class="n">cbvcorrector</span><span class="o">.</span><span class="n">corrected_lc</span><span class="w">
-</span><span class="n">cbvcorrector_lc</span><span class="o">.</span><span class="n">remove_outliers</span><span class="p">()</span><span class="o">.</span><span class="n">plot</span><span class="p">()</span>
+<span class="n">cbvcorrector_lc</span> <span class="o">=</span> <span class="n">cbvcorrector</span><span class="o">.</span><span class="n">corrected_lc</span>
+<span class="n">cbvcorrector_lc</span><span class="o">.</span><span class="n">remove_outliers</span><span class="p">()</span><span class="o">.</span><span class="n">plot</span><span class="p">()</span>
 </pre>
 <pre class="literal-block">
 &lt;matplotlib.axes._subplots.AxesSubplot at 0x7f8debd37ad0&gt;
@@ -449,27 +450,27 @@ next method.</p>
 previously defined object aperture to determine our systematics. We can
 apply regression correction as follows.</p>
 <pre class="code ipython3 literal-block">
-<span class="c1">#Import the packages you need</span><span class="w">
-</span><span class="kn">from</span> <span class="nn">lightkurve.correctors</span> <span class="kn">import</span> <span class="n">RegressionCorrector</span><span class="p">,</span> <span class="n">DesignMatrix</span>
+<span class="c1">#Import the packages you need</span>
+<span class="kn">from</span> <span class="nn">lightkurve.correctors</span> <span class="kn">import</span> <span class="n">RegressionCorrector</span><span class="p">,</span> <span class="n">DesignMatrix</span>
 </pre>
 <p>Next, we are going to define a design matrix which will contain all the
 systematics detected in the pixels outside of our aperture.</p>
 <pre class="code ipython3 literal-block">
-<span class="c1"># Make a design matrix and pass it to a linear regression corrector</span><span class="w">
-</span><span class="n">dm</span> <span class="o">=</span> <span class="n">DesignMatrix</span><span class="p">(</span><span class="n">S32</span><span class="o">.</span><span class="n">flux</span><span class="p">[:,</span> <span class="o">~</span><span class="n">aper_new</span><span class="p">],</span> <span class="n">name</span><span class="o">=</span><span class="s1">'regressors'</span><span class="p">)</span><span class="c1">#.pca(5).append_constant()</span>
+<span class="c1"># Make a design matrix and pass it to a linear regression corrector</span>
+<span class="n">dm</span> <span class="o">=</span> <span class="n">DesignMatrix</span><span class="p">(</span><span class="n">S32</span><span class="o">.</span><span class="n">flux</span><span class="p">[:,</span> <span class="o">~</span><span class="n">aper_new</span><span class="p">],</span> <span class="n">name</span><span class="o">=</span><span class="s1">'regressors'</span><span class="p">)</span><span class="c1">#.pca(5).append_constant()</span>
 </pre>
 <p>We only want the most dominant vectors and so specify the number of
 principle componant (PCA) as follows,</p>
 <pre class="code ipython3 literal-block">
-<span class="n">dm</span> <span class="o">=</span> <span class="n">dm</span><span class="o">.</span><span class="n">pca</span><span class="p">(</span><span class="mi">10</span><span class="p">)</span><span class="w">
-</span><span class="n">plt</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">S32</span><span class="o">.</span><span class="n">time</span><span class="o">.</span><span class="n">value</span><span class="p">,</span> <span class="n">dm</span><span class="o">.</span><span class="n">values</span> <span class="o">+</span> <span class="n">np</span><span class="o">.</span><span class="n">arange</span><span class="p">(</span><span class="mi">10</span><span class="p">)</span><span class="o">*</span><span class="mf">0.2</span><span class="p">,</span> <span class="s1">'.'</span><span class="p">);</span>
+<span class="n">dm</span> <span class="o">=</span> <span class="n">dm</span><span class="o">.</span><span class="n">pca</span><span class="p">(</span><span class="mi">10</span><span class="p">)</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">S32</span><span class="o">.</span><span class="n">time</span><span class="o">.</span><span class="n">value</span><span class="p">,</span> <span class="n">dm</span><span class="o">.</span><span class="n">values</span> <span class="o">+</span> <span class="n">np</span><span class="o">.</span><span class="n">arange</span><span class="p">(</span><span class="mi">10</span><span class="p">)</span><span class="o">*</span><span class="mf">0.2</span><span class="p">,</span> <span class="s1">'.'</span><span class="p">);</span>
 </pre>
 <img alt="" src="images/NoiseRemoval/output_35_0.png" />
 <p>From this we can see that 10 is excessive and we should probably use
 only 5. Let’s do this and plot it up.</p>
 <pre class="code ipython3 literal-block">
-<span class="n">dm</span> <span class="o">=</span> <span class="n">DesignMatrix</span><span class="p">(</span><span class="n">S32</span><span class="o">.</span><span class="n">flux</span><span class="p">[:,</span> <span class="o">~</span><span class="n">aper_new</span><span class="p">],</span> <span class="n">name</span><span class="o">=</span><span class="s1">'regressors'</span><span class="p">)</span><span class="o">.</span><span class="n">pca</span><span class="p">(</span><span class="mi">5</span><span class="p">)</span><span class="w">
-</span><span class="n">dm</span><span class="o">.</span><span class="n">plot</span><span class="p">()</span>
+<span class="n">dm</span> <span class="o">=</span> <span class="n">DesignMatrix</span><span class="p">(</span><span class="n">S32</span><span class="o">.</span><span class="n">flux</span><span class="p">[:,</span> <span class="o">~</span><span class="n">aper_new</span><span class="p">],</span> <span class="n">name</span><span class="o">=</span><span class="s1">'regressors'</span><span class="p">)</span><span class="o">.</span><span class="n">pca</span><span class="p">(</span><span class="mi">5</span><span class="p">)</span>
+<span class="n">dm</span><span class="o">.</span><span class="n">plot</span><span class="p">()</span>
 </pre>
 <pre class="literal-block">
 &lt;matplotlib.axes._subplots.AxesSubplot at 0x7f8db9fa0750&gt;
@@ -486,13 +487,13 @@ above by appending a“constant” to the design matrix.</p>
 <p>Next we pass this design matrix to the <em>RegressionCorrector</em> which
 de-trends the light curves against the vectors.</p>
 <pre class="code ipython3 literal-block">
-<span class="n">rc</span> <span class="o">=</span> <span class="n">RegressionCorrector</span><span class="p">(</span><span class="n">lc_S32</span><span class="p">)</span><span class="w">
-</span><span class="n">rc</span><span class="o">.</span><span class="n">correct</span><span class="p">(</span><span class="n">dm</span><span class="p">)</span><span class="w">
-</span><span class="n">pltAxis</span> <span class="o">=</span> <span class="n">rc</span><span class="o">.</span><span class="n">diagnose</span><span class="p">()</span><span class="w">
-</span><span class="n">pltAxis</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span><span class="o">.</span><span class="n">set_ylim</span><span class="p">(</span><span class="mi">300</span><span class="p">,</span> <span class="mi">500</span><span class="p">);</span><span class="w">
-</span><span class="n">pltAxis</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span><span class="o">.</span><span class="n">set_ylim</span><span class="p">(</span><span class="mi">300</span><span class="p">,</span> <span class="mi">500</span><span class="p">);</span><span class="w">
+<span class="n">rc</span> <span class="o">=</span> <span class="n">RegressionCorrector</span><span class="p">(</span><span class="n">lc_S32</span><span class="p">)</span>
+<span class="n">rc</span><span class="o">.</span><span class="n">correct</span><span class="p">(</span><span class="n">dm</span><span class="p">)</span>
+<span class="n">pltAxis</span> <span class="o">=</span> <span class="n">rc</span><span class="o">.</span><span class="n">diagnose</span><span class="p">()</span>
+<span class="n">pltAxis</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span><span class="o">.</span><span class="n">set_ylim</span><span class="p">(</span><span class="mi">300</span><span class="p">,</span> <span class="mi">500</span><span class="p">);</span>
+<span class="n">pltAxis</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span><span class="o">.</span><span class="n">set_ylim</span><span class="p">(</span><span class="mi">300</span><span class="p">,</span> <span class="mi">500</span><span class="p">);</span>
 
-</span><span class="n">corrected_ffi_lc</span> <span class="o">=</span> <span class="n">rc</span><span class="o">.</span><span class="n">correct</span><span class="p">(</span><span class="n">dm</span><span class="p">)</span>
+<span class="n">corrected_ffi_lc</span> <span class="o">=</span> <span class="n">rc</span><span class="o">.</span><span class="n">correct</span><span class="p">(</span><span class="n">dm</span><span class="p">)</span>
 </pre>
 <img alt="" src="images/NoiseRemoval/output_41_0.png" />
 <p><strong>HOWEVER!</strong> The <em>RegressionCorrector</em> assumes that you want to remove
@@ -507,9 +508,9 @@ flux value at the 5th percentile.</p>
 <p>We can then apply all these factors to the FFI light curve using the
 following code,</p>
 <pre class="code ipython3 literal-block">
-<span class="c1"># Optional: Remove the scattered light, allowing for the large offset from scattered light</span><span class="w">
-</span><span class="n">corrected_ffi_lc</span> <span class="o">=</span> <span class="n">lc_S32</span> <span class="o">-</span> <span class="n">rc</span><span class="o">.</span><span class="n">model_lc</span> <span class="o">+</span> <span class="n">np</span><span class="o">.</span><span class="n">percentile</span><span class="p">(</span><span class="n">rc</span><span class="o">.</span><span class="n">model_lc</span><span class="o">.</span><span class="n">flux</span><span class="p">,</span> <span class="mi">5</span><span class="p">)</span><span class="w">
-</span><span class="n">corrected_ffi_lc</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">label</span><span class="o">=</span><span class="s1">'Corrected light curve'</span><span class="p">);</span>
+<span class="c1"># Optional: Remove the scattered light, allowing for the large offset from scattered light</span>
+<span class="n">corrected_ffi_lc</span> <span class="o">=</span> <span class="n">lc_S32</span> <span class="o">-</span> <span class="n">rc</span><span class="o">.</span><span class="n">model_lc</span> <span class="o">+</span> <span class="n">np</span><span class="o">.</span><span class="n">percentile</span><span class="p">(</span><span class="n">rc</span><span class="o">.</span><span class="n">model_lc</span><span class="o">.</span><span class="n">flux</span><span class="p">,</span> <span class="mi">5</span><span class="p">)</span>
+<span class="n">corrected_ffi_lc</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">label</span><span class="o">=</span><span class="s1">'Corrected light curve'</span><span class="p">);</span>
 </pre>
 <img alt="" src="images/NoiseRemoval/output_43_0.png" />
 <p>This has removed all the scattered light and the slope, but again could
@@ -527,15 +528,15 @@ define the pixels, where as <em>PLDCorrector</em> does not.</p>
 <p>We will create a <em>PLDCorrector</em> object, and use the default values for
 PLDCorrector.correct to remove this scattered light background.</p>
 <pre class="code ipython3 literal-block">
-<span class="kn">from</span> <span class="nn">lightkurve.correctors</span> <span class="kn">import</span> <span class="n">PLDCorrector</span><span class="w">
-</span><span class="n">pld_S32</span> <span class="o">=</span> <span class="n">PLDCorrector</span><span class="p">(</span><span class="n">S32</span><span class="p">)</span><span class="w">
-</span><span class="n">pld_S32</span><span class="o">.</span><span class="n">correct</span><span class="p">(</span><span class="n">pca_components</span><span class="o">=</span><span class="mi">5</span><span class="p">)</span><span class="w">
-</span><span class="n">pltAxis</span> <span class="o">=</span> <span class="n">pld_S32</span><span class="o">.</span><span class="n">diagnose</span><span class="p">()</span><span class="w">
-</span><span class="n">pltAxis</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span><span class="o">.</span><span class="n">set_ylim</span><span class="p">(</span><span class="mi">300</span><span class="p">,</span> <span class="mi">500</span><span class="p">);</span><span class="w">
-</span><span class="n">pltAxis</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span><span class="o">.</span><span class="n">set_ylim</span><span class="p">(</span><span class="mi">300</span><span class="p">,</span> <span class="mi">500</span><span class="p">);</span><span class="w">
-</span><span class="n">pltAxis</span><span class="p">[</span><span class="mi">2</span><span class="p">]</span><span class="o">.</span><span class="n">set_ylim</span><span class="p">(</span><span class="mi">300</span><span class="p">,</span> <span class="mi">500</span><span class="p">);</span><span class="w">
+<span class="kn">from</span> <span class="nn">lightkurve.correctors</span> <span class="kn">import</span> <span class="n">PLDCorrector</span>
+<span class="n">pld_S32</span> <span class="o">=</span> <span class="n">PLDCorrector</span><span class="p">(</span><span class="n">S32</span><span class="p">)</span>
+<span class="n">pld_S32</span><span class="o">.</span><span class="n">correct</span><span class="p">(</span><span class="n">pca_components</span><span class="o">=</span><span class="mi">5</span><span class="p">)</span>
+<span class="n">pltAxis</span> <span class="o">=</span> <span class="n">pld_S32</span><span class="o">.</span><span class="n">diagnose</span><span class="p">()</span>
+<span class="n">pltAxis</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span><span class="o">.</span><span class="n">set_ylim</span><span class="p">(</span><span class="mi">300</span><span class="p">,</span> <span class="mi">500</span><span class="p">);</span>
+<span class="n">pltAxis</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span><span class="o">.</span><span class="n">set_ylim</span><span class="p">(</span><span class="mi">300</span><span class="p">,</span> <span class="mi">500</span><span class="p">);</span>
+<span class="n">pltAxis</span><span class="p">[</span><span class="mi">2</span><span class="p">]</span><span class="o">.</span><span class="n">set_ylim</span><span class="p">(</span><span class="mi">300</span><span class="p">,</span> <span class="mi">500</span><span class="p">);</span>
 
-</span><span class="n">corrected_pldlc</span> <span class="o">=</span> <span class="n">pld_S32</span><span class="o">.</span><span class="n">correct</span><span class="p">(</span><span class="n">pca_components</span><span class="o">=</span><span class="mi">5</span><span class="p">)</span>
+<span class="n">corrected_pldlc</span> <span class="o">=</span> <span class="n">pld_S32</span><span class="o">.</span><span class="n">correct</span><span class="p">(</span><span class="n">pca_components</span><span class="o">=</span><span class="mi">5</span><span class="p">)</span>
 </pre>
 <img alt="" src="images/NoiseRemoval/output_45_0.png" />
 <p>We can also examine the apertures used to perform this correction. For
@@ -569,14 +570,14 @@ of which can be found
 <p>Let’s now plot up all of our corrected light curves in addition to the
 light curve originally derived from the FFI’s, and compare our results.</p>
 <pre class="code ipython3 literal-block">
-<span class="c1"># Lets plot and compare the different methods</span><span class="w">
-</span><span class="n">ax</span> <span class="o">=</span> <span class="n">lc_S32</span><span class="o">.</span><span class="n">normalize</span><span class="p">()</span><span class="o">.</span><span class="n">remove_outliers</span><span class="p">()</span><span class="o">.</span><span class="n">scatter</span><span class="p">(</span><span class="n">color</span><span class="o">=</span><span class="s1">'black'</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s1">'Uncorrected Light Curve'</span><span class="p">);</span><span class="w">
-</span><span class="c1"># Plot the CBV-corrected light curve in green</span><span class="w">
-</span><span class="n">cbvcorrector_lc</span><span class="o">.</span><span class="n">normalize</span><span class="p">()</span><span class="o">.</span><span class="n">remove_outliers</span><span class="p">()</span><span class="o">.</span><span class="n">scatter</span><span class="p">(</span><span class="n">ax</span><span class="o">=</span><span class="n">ax</span><span class="p">,</span> <span class="n">color</span><span class="o">=</span><span class="s1">'green'</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s1">'CBV-corrected Light Curve'</span><span class="p">)</span><span class="w">
-</span><span class="c1"># Plot the regressor-corrected light curve in blue</span><span class="w">
-</span><span class="n">corrected_ffi_lc</span><span class="o">.</span><span class="n">normalize</span><span class="p">()</span><span class="o">.</span><span class="n">remove_outliers</span><span class="p">()</span><span class="o">.</span><span class="n">scatter</span><span class="p">(</span><span class="n">ax</span><span class="o">=</span><span class="n">ax</span><span class="p">,</span> <span class="n">color</span><span class="o">=</span><span class="s1">'blue'</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s1">'Regressor-corrected Light Curve'</span><span class="p">)</span><span class="w">
-</span><span class="c1"># Plot the PLD-corrected light curve in red</span><span class="w">
-</span><span class="n">corrected_pldlc</span><span class="o">.</span><span class="n">normalize</span><span class="p">()</span><span class="o">.</span><span class="n">remove_outliers</span><span class="p">()</span><span class="o">.</span><span class="n">scatter</span><span class="p">(</span><span class="n">ax</span><span class="o">=</span><span class="n">ax</span><span class="p">,</span> <span class="n">color</span><span class="o">=</span><span class="s1">'red'</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s1">'PLD-corrected Light Curve'</span><span class="p">)</span>
+<span class="c1"># Lets plot and compare the different methods</span>
+<span class="n">ax</span> <span class="o">=</span> <span class="n">lc_S32</span><span class="o">.</span><span class="n">normalize</span><span class="p">()</span><span class="o">.</span><span class="n">remove_outliers</span><span class="p">()</span><span class="o">.</span><span class="n">scatter</span><span class="p">(</span><span class="n">color</span><span class="o">=</span><span class="s1">'black'</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s1">'Uncorrected Light Curve'</span><span class="p">);</span>
+<span class="c1"># Plot the CBV-corrected light curve in green</span>
+<span class="n">cbvcorrector_lc</span><span class="o">.</span><span class="n">normalize</span><span class="p">()</span><span class="o">.</span><span class="n">remove_outliers</span><span class="p">()</span><span class="o">.</span><span class="n">scatter</span><span class="p">(</span><span class="n">ax</span><span class="o">=</span><span class="n">ax</span><span class="p">,</span> <span class="n">color</span><span class="o">=</span><span class="s1">'green'</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s1">'CBV-corrected Light Curve'</span><span class="p">)</span>
+<span class="c1"># Plot the regressor-corrected light curve in blue</span>
+<span class="n">corrected_ffi_lc</span><span class="o">.</span><span class="n">normalize</span><span class="p">()</span><span class="o">.</span><span class="n">remove_outliers</span><span class="p">()</span><span class="o">.</span><span class="n">scatter</span><span class="p">(</span><span class="n">ax</span><span class="o">=</span><span class="n">ax</span><span class="p">,</span> <span class="n">color</span><span class="o">=</span><span class="s1">'blue'</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s1">'Regressor-corrected Light Curve'</span><span class="p">)</span>
+<span class="c1"># Plot the PLD-corrected light curve in red</span>
+<span class="n">corrected_pldlc</span><span class="o">.</span><span class="n">normalize</span><span class="p">()</span><span class="o">.</span><span class="n">remove_outliers</span><span class="p">()</span><span class="o">.</span><span class="n">scatter</span><span class="p">(</span><span class="n">ax</span><span class="o">=</span><span class="n">ax</span><span class="p">,</span> <span class="n">color</span><span class="o">=</span><span class="s1">'red'</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s1">'PLD-corrected Light Curve'</span><span class="p">)</span>
 </pre>
 <pre class="literal-block">
 &lt;matplotlib.axes._subplots.AxesSubplot at 0x7f8d8bb519d0&gt;
