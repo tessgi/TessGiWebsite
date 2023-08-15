@@ -6,9 +6,9 @@ Save_as: software.html
 ## Observation planning
 
 
-### [Web TESS Viewing (WTV) tool](https://heasarc.gsfc.nasa.gov/cgi-bin/tess/webtess/wtv.py)
-The WTV tool allows users to check whether a target potentially falls within the
-TESS field of view (FOV). In addition, WTV can be used to calculate
+### [TESS-point Web Tool](https://heasarc.gsfc.nasa.gov/wsgi-scripts/TESS/TESS-point_Web_Tool/TESS-point_Web_Tool/wtv_v2.0.py/)
+The TESS-point Web Tool allows users to check whether a target potentially falls within the
+TESS field of view (FOV). In addition, the tool can be used to calculate
 the brightness of a target in the TESS bandpass. 
 
 ### [TESS-Point](https://github.com/christopherburke/tess-point)
