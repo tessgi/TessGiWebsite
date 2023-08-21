@@ -18,13 +18,24 @@ For GI programs executed as part of the primary mission (July 2018-July 2020) pl
 
 For GI programs executed as part of the first extension of the mission (July 2020-September 2022) please see our `first extension proposals page <approved-programs-em1.html>`_ .
 
+Cycle 6
+=======
+.. raw:: html
+
+    <p>
+    Cycle 6 contains all targets proposed through the General Investigator program for the sixth year of the TESS mission. Programs observe sources in the ecliptic (Sectors 70-72), and the Northern hemisphere (Sectors 73-83).
+    </p>
+
+
+.. include:: approved-programs/cycle6.html
+
 
 Cycle 5
 =======
 .. raw:: html
 
     <p>
-    Cycle 5 contains all targets proposed through the Guest Investigator program for the fifth year of the TESS mission. Programs observe sources in the Northern ecliptic hemisphere (Sectors 56-60) and the Southern hemisphere (Sectors 61-69).
+    Cycle 5 contains all targets proposed through the General Investigator program for the fifth year of the TESS mission. Programs observe sources in the Northern ecliptic hemisphere (Sectors 56-60) and the Southern hemisphere (Sectors 61-69).
     </p>
 
 

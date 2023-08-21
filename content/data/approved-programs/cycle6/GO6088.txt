@@ -1,0 +1,9 @@
+# TESS Program GO6088
+
+Title: A TESS VIEW OF THE FIRST LIGHT FROM TIDAL DISRUPTION EVENTS
+
+PI: JASON, HINKLE - UNIVERSITY OF HAWAII (MANOA)
+
+Type: SMALL
+
+Summary: A tidal disruption event (TDE) occurs when a star is ripped apart by a supermassive black hole (SMBH). Many TDE models are sensitive to the early-time TDE emission, a phase that is poorly constrained. We propose to use the high cadence and high precision photometry of TESS to probe the early phases of TDEs, which encodes information on the disrupted star and central SMBH. Strong constraints on TDE rise times and slopes will inform theoretical models on how the first light from TDEs is produced. We will also use TESS to place deep limits on the variability of TDE host galaxies and understand potential AGN activity. We expect TESS to detect at least 2 new TDEs in Cycle 6 during flare and that there will be at least 10 additional TDEs with pre-flare TESS observations of their host galaxy.
