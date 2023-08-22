@@ -1,0 +1,9 @@
+# TESS Program GO6100
+
+Title: GALACTIC EVOLUTION VIA THE ASTEROSEISMOLOGY OF THE NORTHERN CONTINUOUS VIEWING ZONE
+
+PI: MARC TENG YEN, HON - UNIVERSITY OF HAWAII (MANOA)
+
+Type: SMALL
+
+Summary: The TESS Northern Continuous Viewing Zone (NCVZ) in Cycle 6 will provide the longest high-cadence space photometry of stellar populations to date, making it an exceptional region for red giant asteroseismology. Far-reaching observations in the NCVZ will uniquely capture the stellar variability of many stars within the Galactic thick disk and halo populations that were only sparsely explored by previous asteroseismic surveys. We propose to measure the stellar pulsations of red giants in the NCVZ using Full Frame Images to determine their asteroseismic ages. Supplemented by present large spectroscopic surveys, these measurements will shed light on the formation history and development of old Galactic populations at much broader spatial scales than ever before.

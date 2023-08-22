@@ -1,0 +1,9 @@
+# TESS Program GO6042
+
+Title: THE ORIGIN OF HIGH-FREQUENCY RADIO EMISSION IN AGN: UNVEILING THE CORONA
+
+PI: KRISTA, SMITH - SOUTHERN METHODIST UNIVERSITY
+
+Type: SMALL
+
+Summary: The large majority of AGN are "radio-quiet," and the origin of their apparently ubiquitous radio emission is not understood. Theories for its origin include weak jets, shock interaction of a radiative outflow with nuclear interstellar gas, and most intriguingly, the radio counterpart of the X-ray source commonly referred to as the "corona." The relationship between the corona and the accretion disk represents a major gap in our understanding of AGN central engines. We propose to use awarded time on the VLBA, in addition to the requested TESS and NICER observations, to definitively confirm or rule out the coronal origin theory and motivate a new multi-wavelength means of investigating causal relationships in the central engine.

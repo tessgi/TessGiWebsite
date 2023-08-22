@@ -1,5 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>TESS</title><link href="https://heasarc.gsfc.nasa.gov/docs/tess/" rel="alternate"></link><link href="https://heasarc.gsfc.nasa.gov/docs/tess/feeds/all.atom.xml" rel="self"></link><id>https://heasarc.gsfc.nasa.gov/docs/tess/</id><updated>2023-08-10T10:00:00-04:00</updated><entry><title>TESS Weekly Bulletin: Aug 10th</title><link href="https://heasarc.gsfc.nasa.gov/docs/tess/tess-weekly-bulletin-aug-10th.html" rel="alternate"></link><published>2023-08-10T10:00:00-04:00</published><updated>2023-08-10T10:00:00-04:00</updated><author><name>Veselin Kostov</name></author><id>tag:heasarc.gsfc.nasa.gov,2023-08-10:/docs/tess/tess-weekly-bulletin-aug-10th.html</id><summary type="html">&lt;p&gt;Welcome TESS followers to our latest news bulletin! This week, we are looking at three recent papers from the archive. Enjoy!&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>TESS</title><link href="https://heasarc.gsfc.nasa.gov/docs/tess/" rel="alternate"></link><link href="https://heasarc.gsfc.nasa.gov/docs/tess/feeds/all.atom.xml" rel="self"></link><id>https://heasarc.gsfc.nasa.gov/docs/tess/</id><updated>2023-08-22T10:00:00-04:00</updated><entry><title>TESS Weekly Bulletin: Aug 22nd</title><link href="https://heasarc.gsfc.nasa.gov/docs/tess/tess-weekly-bulletin-aug-22nd.html" rel="alternate"></link><published>2023-08-22T10:00:00-04:00</published><updated>2023-08-22T10:00:00-04:00</updated><author><name>Veselin Kostov</name></author><id>tag:heasarc.gsfc.nasa.gov,2023-08-22:/docs/tess/tess-weekly-bulletin-aug-22nd.html</id><summary type="html">&lt;p&gt;Welcome TESS followers to our latest news bulletin! This week, we are looking at three recent papers from the archive. Enjoy!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href="https://arxiv.org/abs/2307.14081"&gt;TIC 43152097. The first eclipsing binary in NGC 2232&lt;/a&gt;&lt;/strong&gt; &lt;em&gt;(Frasca et al. 2023)&lt;/em&gt; &lt;strong&gt;:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Eclipsing binary stars have long been used as fundamental calibrators for precise stellar masses, sizes, and …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Welcome TESS followers to our latest news bulletin! This week, we are looking at three recent papers from the archive. Enjoy!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href="https://arxiv.org/abs/2307.14081"&gt;TIC 43152097. The first eclipsing binary in NGC 2232&lt;/a&gt;&lt;/strong&gt; &lt;em&gt;(Frasca et al. 2023)&lt;/em&gt; &lt;strong&gt;:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Eclipsing binary stars have long been used as fundamental calibrators for precise stellar masses, sizes, and effective temperatures. Young systems containing active late-type stars are particularly important as they can help address a long-standing disagreement between measured and theoretically-predicted stellar radii. Frasca et al. (2023) present the discovery and detailed characterization of the young, totally eclipsing binary system TIC 43152097 – a member of the young open cluster NGC 2232 with an estimated age of 28-38 Myr and Solar metallicity. The authors combine TESS photometry from Sectors 6 and  33 with follow-up photometric and spectroscopic observations from OACT and HARPS-N to derive precise parameters for the system. Frasca et al. (2023) note that the TESS lightcurve outside the observed eclipses exhibits modulations with an amplitude of 15-20 mmag and period consistent with the orbital period of the binary system, suggesting the presence of cool spots on one or both stars that are rotating synchronously (or pseudo-synchronously) with the binary. The author’s analysis demonstrates that TIC 43152097 consists of a late F-type primary and a late K-type secondary orbiting each other every 3.7 days with negligible eccentricity. The measured orbital and stellar parameters of the two components are as follows: M&lt;sub&gt;primary&lt;/sub&gt; = 1.16 M&lt;sub&gt;Sun&lt;/sub&gt;, R&lt;sub&gt;primary&lt;/sub&gt; = 1.12 R&lt;sub&gt;Sun&lt;/sub&gt;, Teff&lt;sub&gt;primary&lt;/sub&gt; = 6070 K; M&lt;sub&gt;secondary&lt;/sub&gt; = 0.76 M&lt;sub&gt;Sun&lt;/sub&gt;, R&lt;sub&gt;secondary&lt;/sub&gt; = 0.89 R&lt;sub&gt;Sun&lt;/sub&gt;, Teff&lt;sub&gt;secondary&lt;/sub&gt; = 4130 K. Frasca et al. (2023) note that the primary has already reached the main sequence, and that the radius of the secondary star is ~7-11% larger than expected from standard stellar evolution models. Utilizing the SPOT isochrones that take into account the effect of the inferred starspots and of magnetically-induced inhibition of the convective energy transport, the authors were able to mitigate the radius discrepancy and reproduce the parameters of the secondary for an age of 28 Myr. Thanks to TESS, Frasca et al. (2023) discovered and precisely characterized a benchmark young, totally eclipsing binary system in NGC 2232 with percent-level measurement uncertainties for the stellar masses and sizes.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href="https://arxiv.org/abs/2308.02368"&gt;Extreme mass ratios and fast rotation in three massive binaries&lt;/a&gt;&lt;/strong&gt; &lt;em&gt;(Naze et al. 2023)&lt;/em&gt; &lt;strong&gt;:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Most massive stars (spectral type OB) exhibit rapid rotation, typically ~200 km/sec, with some Be stars in particular reaching up to 88% of the critical rotational velocity. As rapid stellar rotation directly impacts stellar evolution, in-depth studies of fast early-type rotators can provide important new insight into their origin and characteristics. Naze et al. (2023) present a detailed analysis of three such systems, HD 25631 (spectral type B3V), HD 191495 (spectral type B0V), and HD 46485 (spectral type O7V). The targets were observed by TESS in multiple sectors at both long- and short-cadence, reside in regions of the sky with relatively low contamination, and have lightcurves that exhibit characteristic out-of-eclipse sinusoidal modulations with an amplitude of 10-30 mmag, indicative of a reflection effect. The authors complemented the TESS photometry with spectroscopic observations from multiple instruments at VLT, CFTH, TIGRE, and FUSE. Combining all available data, Naze et al. (2023) discover that all three targets are in fact binary systems with orbital periods of 3-7 days. The primary components have (M = 7-8 M&lt;sub&gt;Sun&lt;/sub&gt;, R = 4-4.4 R&lt;sub&gt;Sun&lt;/sub&gt;, T&lt;sub&gt;eff&lt;/sub&gt; = 19930 K), (M = 15 M&lt;sub&gt;Sun&lt;/sub&gt;, R = 6.5-7.1 R&lt;sub&gt;Sun&lt;/sub&gt;, T&lt;sub&gt;eff&lt;/sub&gt; = 28250 K), and (M = 24 M&lt;sub&gt;Sun&lt;/sub&gt;, R = 10-12 R&lt;sub&gt;Sun&lt;/sub&gt;, Teff = 36100 K), for HD 25631, HD 191495, and HD 46485, respectively. The authors note that the secondary stars are much smaller and cooler, with well-constrained masses between 0.8 and 1.8 M&lt;sub&gt;Sun&lt;/sub&gt; and radii between ~1.5 and 4 R&lt;sub&gt;Sun&lt;/sub&gt;, and somewhat uncertain effective temperatures in the range of 3400 K to 15000 K. Naze et al. (2023) also argue that the companions are unlikely to be hot subdwarfs as none of them produce detectable UV emission. Instead, the authors suggest that all three systems are young (~20 Myr), pre-interacting OB primaries with pre-Main-Sequence secondaries. Capitalizing on data from TESS, Naze et al. (2023) suggested that the fast rotation observed from HD 25631, HD 191495, and HD 46485 is likely primordial and not the result of previous binary interactions. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href="https://arxiv.org/abs/2308.01454"&gt;TOI-4860 b, a short-period giant planet transiting an M3.5 dwarf&lt;/a&gt;&lt;/strong&gt; &lt;em&gt;(Almenara et al. 2023)&lt;/em&gt; &lt;strong&gt;:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Large planets in short orbits around small stars provide an important ingredient to our understanding of planet formation and evolution. Recent studies have indicated that these might have a lower occurrence rate compared to Hot Jupiters orbiting Solar-type stars. Almenara et al. (2023) present the discovery and detailed characterization of the newest member of this population, TOI-4860 b. The authors combine TESS data with ground-based photometric and spectroscopic observations from ExTrA, SPIRou, ESPRESSO, and Gaia measurements to confirm that the transits are on-target, constrain the properties of the host star, and measure the planet’s mass.  The analysis of Almenara et al. (2023) show that TOI-4860 is an M3.5 dwarf at a distance of 80 pc with a mass of 0.34 M&lt;sub&gt;Sun&lt;/sub&gt;, radius of 0.35 R&lt;sub&gt;Sun&lt;/sub&gt;, effective temperature of 3255 K, metallicity of [Fe/H] = 0.27 and relatively high proper motion. TESS observed the target in Sectors 10, 36, 46, and 63, and enabled the detection of ~6%-deep transits with a periodicity of 1.52 days. TOI-4860 b has a measured mass of 0.27 M&lt;sub&gt;Jup&lt;/sub&gt; and radius of 0.7 R&lt;sub&gt;Jup&lt;/sub&gt; and, at a separation of only 1.8 times the Roche limit, it is close enough to the host star to experience strong tidal interactions. The authors estimate a period change of about 10&lt;sup&gt;-9&lt;/sup&gt; per year and note that this is outside the detection capabilities of current instruments. Almenara et al. (2023) calculate a transmission spectroscopy metric of 180 for TOI-4860 b, making it a high-value target, and note that the radial velocity measurements show potential hints for an additional planet in the system with a period of about 430 days and high eccentricity of ~0.67. The authors argue that the presence of an outer planet could explain the current orbit of TOI-4860 b through Kozai resonance. Data from TESS enabled the discovery of a new giant planet orbiting a small star in a relatively sparse parameter space. &lt;/p&gt;
+&lt;p&gt;&lt;img alt="Frasca2023" src="images/Frasca_2023_Fig2.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fig. 1:&lt;/strong&gt; &lt;em&gt;Taken from Frasca et al. (2023). TESS photometry for the young, totally eclipsing binary TIC 43152097. The upper panel represents data from Sector 6 while the lower panel shows data from Sector 33.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Naze2023" src="images/Naze_2023_Fig1.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fig. 2:&lt;/strong&gt; &lt;em&gt;Taken from Naze et al. (2023). TESS lightcurves of massive fast rotators HD 25631, HD 191495, and HD 46485.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Almenara2023" src="images/Almenara_2023_Fig7.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fig. 3:&lt;/strong&gt; &lt;em&gt;Taken from Almenara et al. (2023). Upper and middle panels: Transit photometry of TOI-4860 b from TESS and ExTrA, along with the best-fit models. Lower panels: Corresponding radial velocity measurements from SPIRou (left) and ESPRESSO (right).&lt;/em&gt;&lt;/p&gt;</content><category term="news"></category></entry><entry><title>TESS Cycle 6 selections</title><link href="https://heasarc.gsfc.nasa.gov/docs/tess/tess-cycle-6-selections.html" rel="alternate"></link><published>2023-08-21T10:00:00-04:00</published><updated>2023-08-21T10:00:00-04:00</updated><author><name>Rebekah Hounsell</name></author><id>tag:heasarc.gsfc.nasa.gov,2023-08-21:/docs/tess/tess-cycle-6-selections.html</id><summary type="html">&lt;p&gt;Hello and welcome TESS followers to this special news bulletin! Here we will discuss the results of the Cycle 6 proposal season.&lt;/p&gt;
+&lt;p&gt;The Cycle 6 review was held earlier this year in late May, with over 100 proposals submitted. Of these proposals 2 were Key, 13 were large, 93 small …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Hello and welcome TESS followers to this special news bulletin! Here we will discuss the results of the Cycle 6 proposal season.&lt;/p&gt;
+&lt;p&gt;The Cycle 6 review was held earlier this year in late May, with over 100 proposals submitted. Of these proposals 2 were Key, 13 were large, 93 small, and 11 mini. These proposals were split into one of four fields: Exoplanet (40), Stellar Astrophysics (40), Accretion and Extragalactic (15), and Ground-based Focused (24). The proposals were then assessed by one of six panels.&lt;/p&gt;
+&lt;p&gt;In total 41 proposals were accepted with the following breakdown:&lt;/p&gt;
+&lt;div class="panel panel-primary"&gt;
+  &lt;div class="panel-heading"&gt;
+    &lt;h3 class="panel-title"&gt;Accepted Proposals&lt;/h3&gt;
+  &lt;/div&gt;
+
+&lt;table class="table table-striped table-hover" style="font-size: 0.77em;"&gt;
+       &lt;col style="width:20%"&gt;
+       &lt;col style="width:20%"&gt;
+       &lt;col style="width:20%"&gt;
+       &lt;col style="width:20%"&gt;
+
+       &lt;thead&gt;
+       &lt;tr&gt;
+       &lt;th style="vertical-align: middle;"&gt;Category&lt;/th&gt;
+       &lt;th style="vertical-align: middle;"&gt;Exoplanet&lt;/th&gt;
+       &lt;th style="vertical-align: middle;"&gt;Stellar Astrophysics&lt;/th&gt;
+       &lt;th style="vertical-align: middle;"&gt;&lt;/p&gt;Accretion and Extragalactic&lt;/th&gt;
+       &lt;th style="vertical-align: middle;"&gt;Ground-based Focused&lt;/th&gt;
+       &lt;/tr&gt;
+       &lt;/thead&gt;
+
+       &lt;tr&gt;  
+       &lt;td&gt;Key&lt;/td&gt;
+       &lt;td&gt;0&lt;/td&gt; 
+       &lt;td&gt;0&lt;/td&gt;
+       &lt;td&gt;0&lt;/td&gt;
+       &lt;td&gt;1&lt;/td&gt;
+       &lt;/tr&gt;
+
+       &lt;tr&gt;  
+       &lt;td&gt;Large&lt;/td&gt;
+       &lt;td&gt;2&lt;/td&gt; 
+       &lt;td&gt;0&lt;/td&gt;
+       &lt;td&gt;1&lt;/td&gt;
+       &lt;td&gt;1&lt;/td&gt;
+       &lt;/tr&gt;
+
+        &lt;tr&gt;  
+       &lt;td&gt;Small&lt;/td&gt;
+       &lt;td&gt;8&lt;/td&gt; 
+       &lt;td&gt;14&lt;/td&gt;
+       &lt;td&gt;5&lt;/td&gt;
+       &lt;td&gt;4&lt;/td&gt;
+       &lt;/tr&gt;
+
+        &lt;tr&gt;  
+       &lt;td&gt;Mini&lt;/td&gt;
+       &lt;td&gt;1&lt;/td&gt; 
+       &lt;td&gt;5&lt;/td&gt;
+       &lt;td&gt;0&lt;/td&gt;
+       &lt;td&gt;0&lt;/td&gt;
+       &lt;/tr&gt;
+
+        &lt;tr&gt;  
+       &lt;td&gt;&lt;b&gt;Total:&lt;/b&gt;&lt;/td&gt;
+       &lt;td&gt;&lt;b&gt;11&lt;/b&gt;&lt;/td&gt; 
+       &lt;td&gt;&lt;b&gt;18&lt;/b&gt;&lt;/td&gt;
+       &lt;td&gt;&lt;b&gt;6&lt;/b&gt;&lt;/td&gt;
+       &lt;td&gt;&lt;b&gt;6&lt;/b&gt;&lt;/td&gt;
+       &lt;/tr&gt;
+
+     &lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;img src="images/Cycle6_selected.png", style="max-width:70%;"&gt;&lt;/p&gt;
+&lt;p&gt;Our &lt;a href="approved-programs.html#cycle-6"&gt;approved programs page&lt;/a&gt; provides the full list of accepted Cycle 6 proposals. &lt;/p&gt;
+&lt;p&gt;Congratulations to all successful PI's and Co-I's!
+To those of you who did not receive acceptance letters this time round, we strongly encourage you to apply again in the future. 
+Thank you all for the wonderful science proposed, it is through your hard work that the TESS mission is a success. &lt;/p&gt;</content><category term="news"></category></entry><entry><title>TESS Weekly Bulletin: Aug 10th</title><link href="https://heasarc.gsfc.nasa.gov/docs/tess/tess-weekly-bulletin-aug-10th.html" rel="alternate"></link><published>2023-08-10T10:00:00-04:00</published><updated>2023-08-10T10:00:00-04:00</updated><author><name>Veselin Kostov</name></author><id>tag:heasarc.gsfc.nasa.gov,2023-08-10:/docs/tess/tess-weekly-bulletin-aug-10th.html</id><summary type="html">&lt;p&gt;Welcome TESS followers to our latest news bulletin! This week, we are looking at three recent papers from the archive. Enjoy!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href="https://arxiv.org/abs/2307.08425"&gt;Analysis of Solar-like X-Class Flare on Wolf 359 Observed Simultaneously with TESS and
 XMM-Newton&lt;/a&gt;&lt;/strong&gt; &lt;em&gt;(Pietras et al. 2023)&lt;/em&gt; &lt;strong&gt;:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Wolf 359 is one of the closest stars to our Sun …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Welcome TESS followers to our latest news bulletin! This week, we are looking at three recent papers from the archive. Enjoy!&lt;/p&gt;

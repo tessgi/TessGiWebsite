@@ -1,0 +1,9 @@
+# TESS Program GO6109
+
+Title: MAXIMISING TESS'S SENSITIVITY TO TARGETS PRE-SELECTED AS LIKELY HOSTS OF TRANSITING HOT ROCKY PLANETS
+
+PI: CAROLE, HASWELL- OPEN UNIVERSITY
+
+Type: MINI
+
+Summary: RV searches on stars pre-selected through their anomalously low chromospheric emission prove this property signals the presence of hot planets. Hot planets lose mass, forming a circumstellar gas shroud concentrated around the planet's orbital plane. For edge-on orbits, this gas absorbs in the stellar chromospheric emission lines. Thus the presence of hot, mass-losing planets depresses a star's apparent chromospheric emission. For intrinsically inactive stars, this effect suppresses the chromospheric emission to an impossibly low level. Our target FGK stars have been selected for their anomalously low chromospheric emission. We propose for 20s cadence light curves and 120s FFIs for 8 bright nearby targets expected to be hosts of hot low mass planets in edge-on orbits.

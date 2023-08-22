@@ -1,0 +1,9 @@
+# TESS Program GO6165
+
+Title: SEARCHING FOR TRANSIT TIMING VARIATIONS WITH TESS
+
+PI: JAKE, TURNER - CORNELL UNIVERSITY
+
+Type: LARGE
+
+Summary: Transit timing variations (TTVs) of exoplanets may indicate a decaying planetary orbit or additional unseen bodies in the system, and TESS is an ideal observatory to search for TTVs. Measurements of orbital decay will help us understand the evolution of the hot Jupiter population but only one hot Jupiter is observed to have a decaying orbit. We propose to search for TTVs in all known hot Jupiter and multi-planet systems observable by TESS in Cycle 6 in high cadence mode. We will also use the TESS full-frame images to update the ephemerides of all planets. These observations will greatly inform theoretical models of orbital decay, provide constraints on the role of orbital resonances in the evolution of multi-planet systems, and yield updated ephemerides to aid in follow-up observations.

@@ -1,0 +1,9 @@
+# TESS Program GO6173
+
+Title: DETECTING AND VETTING PLANET CANDIDATES IN FFI DATA
+
+PI: DOUGLAS, CALDWELL - SETI INSTITUTE
+
+Type: SMALL
+
+Summary: We propose to operate an existing data analysis pipeline to provide calibrated target pixels, light curves, and full transit search results for more than 150,000 targets per sector selected from the TESS Cycle-6 200-second cadence Full Frame Images (FFI). We will provide a machine learning vetted list of planet candidates from the transit search. Our analysis will also generate cotrending basis vectors useful for mitigating systematic errors in any light curves generated from the full frame image data. All resulting data products will be archived as High Level Science Products (HLSP) at the Mikulski Archive for Space Telescopes (MAST).

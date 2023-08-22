@@ -1,0 +1,9 @@
+# TESS Program GO6200
+
+Title: PRECISE EXOPLANET TRANSITS FOR THE BRIGHTEST STARS USING TESS 20-SECOND CADENCE DATA
+
+PI: ASHLEY, CHONTOS - PRINCETON UNIVERSITY
+
+Type: SMALL
+
+Summary: A key innovation of the first TESS extended mission was the introduction of 20-second data, which shows up to 30% better photometric precision than 2-minute data for bright stars due to differences in data processing algorithms. We propose to use 20-second data to (i) improve transit parameters for all bright (T<10mag) TESS Objects of Interest and (ii) search for small planets around the brightest stars that may have been missed with 2-minute data. Our program will yield improved radii and orbital eccentricities for several key exoplanet systems, including many confirmed multi-planet systems and several sub-Neptune systems slated for atmospheric studies with JWST. Furthermore, our program may lead to the detection of a transiting planet around the brightest star to date.
