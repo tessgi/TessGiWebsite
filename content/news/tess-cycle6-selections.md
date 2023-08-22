@@ -74,7 +74,7 @@ In total 41 proposals were accepted with the following breakdown:
 </div>
 
 
-<img src="images/Cycle6_selections.png", style="max-width:70%;">
+<img src="images/Cycle6_selected.png", style="max-width:70%;">
 
 
 Our [approved programs page](approved-programs.html#cycle-6) provides the full list of accepted Cycle 6 proposals. 
