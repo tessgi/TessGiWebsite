@@ -12,8 +12,8 @@ the TESS mission is provided by the NASA's Science Mission Directorate.*
 
 The TESS Science Support Center curates a list of scientific publications
 pertaining to TESS.
-The database contains 336 publications,
-of which 316 are peer-reviewed.
+The database contains 1702 publications,
+of which 1518 are peer-reviewed.
 It demonstrates the important impact of TESS data
 on astronomical research.
 
@@ -46,11 +46,11 @@ of year.
 
 Both TESS data have been used for scientific applications
 that reach far beyond exoplanet research.
-While 174 works relate to exoplanets
-(52%),
-a total of 162
+While 685 works relate to exoplanets
+(40%),
+a total of 1017
 pertain to other areas of astrophysics
-(48%).
+(60%).
 
 
 ![Publications by subject](images/tpub/tpub-piechart.png)
@@ -60,7 +60,7 @@ pertain to other areas of astrophysics
 ## Most-cited publications
 
 TESS publications have cumulatively been cited
-13838 times.
+23663 times.
 The list below shows the most-cited publications,
 based on the citation count obtained from NASA ADS.
 
@@ -105,15 +105,15 @@ Günther, Maximilian N., Zhan, Zhuchang, Seager, Sara, et al.
 [2020AJ....159...60G](http://adsabs.harvard.edu/abs/2020AJ....159...60G)
 <span class="badge">194 citations</span>
 
-9. TESS DISCOVERY OF A TRANSITING SUPER-EARTH IN THE PI MENSAE SYSTEM  
+9. THE TESS OBJECTS OF INTEREST CATALOG FROM THE TESS PRIME MISSION  
+Guerrero, Natalia M., Seager, S., Huang, Chelsea X., et al.    
+[2021ApJS..254...39G](http://adsabs.harvard.edu/abs/2021ApJS..254...39G)
+<span class="badge">169 citations</span>
+
+10. TESS DISCOVERY OF A TRANSITING SUPER-EARTH IN THE PI MENSAE SYSTEM  
 Huang, Chelsea X., Burt, Jennifer, Vanderburg, Andrew, et al.    
 [2018ApJ...868L..39H](http://adsabs.harvard.edu/abs/2018ApJ...868L..39H)
 <span class="badge">157 citations</span>
-
-10. SOAR TESS SURVEY. I. SCULPTING OF TESS PLANETARY SYSTEMS BY STELLAR COMPANIONS  
-Ziegler, Carl, Tokovinin, Andrei, Briceño, César, et al.    
-[2020AJ....159...19Z](http://adsabs.harvard.edu/abs/2020AJ....159...19Z)
-<span class="badge">133 citations</span>
 <hr/>
 
 <!-- 
@@ -130,9 +130,39 @@ within the last 90 days.
 <!-- ## Most-active authors
 
 The entries in the publication database have been authored and co-authored
-by a total of 2025 unique author names.
+by a total of 6425 unique author names.
 Here we list the most-active authors, defined as those with six or more first-author publications in our database.
 
 
- * Bouma, L (6 publications)
+ * Southworth, J (19 publications)
+
+ * Balona, L (10 publications)
+
+ * Bouma, L (9 publications)
+
+ * Zasche, P (8 publications)
+
+ * Lee, J (8 publications)
+
+ * Maciejewski, G (7 publications)
+
+ * Kunimoto, M (7 publications)
+
+ * Gan, T (7 publications)
+
+ * Jayasinghe, T (7 publications)
+
+ * Kostov, V (7 publications)
+
+ * Howard, W (7 publications)
+
+ * Koen, C (6 publications)
+
+ * Knudstrup, E (6 publications)
+
+ * Kato, T (6 publications)
+
+ * Wong, I (6 publications)
+
+ * Cloutier, R (6 publications)
 -->
