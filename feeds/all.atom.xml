@@ -14,9 +14,9 @@
 &lt;p&gt;&lt;strong&gt;Fig. 2:&lt;/strong&gt; &lt;em&gt;Taken from Naze et al. (2023). TESS lightcurves of massive fast rotators HD 25631, HD 191495, and HD 46485.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img alt="Almenara2023" src="images/Almenara_2023_Fig7.png" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Fig. 3:&lt;/strong&gt; &lt;em&gt;Taken from Almenara et al. (2023). Upper and middle panels: Transit photometry of TOI-4860 b from TESS and ExTrA, along with the best-fit models. Lower panels: Corresponding radial velocity measurements from SPIRou (left) and ESPRESSO (right).&lt;/em&gt;&lt;/p&gt;</content><category term="news"></category></entry><entry><title>TESS Cycle 6 selections</title><link href="https://heasarc.gsfc.nasa.gov/docs/tess/tess-cycle-6-selections.html" rel="alternate"></link><published>2023-08-21T10:00:00-04:00</published><updated>2023-08-21T10:00:00-04:00</updated><author><name>Rebekah Hounsell</name></author><id>tag:heasarc.gsfc.nasa.gov,2023-08-21:/docs/tess/tess-cycle-6-selections.html</id><summary type="html">&lt;p&gt;Hello and welcome TESS followers to this special news bulletin! Here we will discuss the results of the Cycle 6 proposal season.&lt;/p&gt;
-&lt;p&gt;The Cycle 6 review was held earlier this year in late May, with over 100 proposals submitted. Of these proposals 2 were Key, 13 were large, 93 small …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Hello and welcome TESS followers to this special news bulletin! Here we will discuss the results of the Cycle 6 proposal season.&lt;/p&gt;
-&lt;p&gt;The Cycle 6 review was held earlier this year in late May, with over 100 proposals submitted. Of these proposals 2 were Key, 13 were large, 93 small, and 11 mini. These proposals were split into one of four fields: Exoplanet (40), Stellar Astrophysics (40), Accretion and Extragalactic (15), and Ground-based Focused (24). The proposals were then assessed by one of six panels.&lt;/p&gt;
-&lt;p&gt;In total 41 proposals were accepted with the following breakdown:&lt;/p&gt;
+&lt;p&gt;The Cycle 6 review was held earlier this year in late May, with over 100 proposals submitted, seven of which being joint proposals. Of these proposals 2 were …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Hello and welcome TESS followers to this special news bulletin! Here we will discuss the results of the Cycle 6 proposal season.&lt;/p&gt;
+&lt;p&gt;The Cycle 6 review was held earlier this year in late May, with over 100 proposals submitted, seven of which being joint proposals. Of these proposals 2 were Key, 13 were large, 93 small, and 11 mini. These proposals were split into one of four fields: Exoplanet (40), Stellar Astrophysics (40), Accretion and Extragalactic (15), and Ground-based Focused (24). The proposals were then assessed by one of six panels.&lt;/p&gt;
+&lt;p&gt;In total 41 proposals were accepted, two of which were joint programs with Swift or NICER. The scientific breakdown of these proposals were as follows:&lt;/p&gt;
 &lt;div class="panel panel-primary"&gt;
   &lt;div class="panel-heading"&gt;
     &lt;h3 class="panel-title"&gt;Accepted Proposals&lt;/h3&gt;
@@ -34,22 +34,22 @@
        &lt;th style="vertical-align: middle;"&gt;Exoplanet&lt;/th&gt;
        &lt;th style="vertical-align: middle;"&gt;Stellar Astrophysics&lt;/th&gt;
        &lt;th style="vertical-align: middle;"&gt;&lt;/p&gt;Accretion and Extragalactic&lt;/th&gt;
-       &lt;th style="vertical-align: middle;"&gt;Ground-based Focused&lt;/th&gt;
+       &lt;th style="vertical-align: middle;"&gt;Solar System&lt;/th&gt;
        &lt;/tr&gt;
        &lt;/thead&gt;
 
        &lt;tr&gt;  
        &lt;td&gt;Key&lt;/td&gt;
-       &lt;td&gt;0&lt;/td&gt; 
+       &lt;td&gt;1&lt;/td&gt; 
        &lt;td&gt;0&lt;/td&gt;
        &lt;td&gt;0&lt;/td&gt;
-       &lt;td&gt;1&lt;/td&gt;
+       &lt;td&gt;0&lt;/td&gt;
        &lt;/tr&gt;
 
        &lt;tr&gt;  
        &lt;td&gt;Large&lt;/td&gt;
-       &lt;td&gt;2&lt;/td&gt; 
-       &lt;td&gt;0&lt;/td&gt;
+       &lt;td&gt;1&lt;/td&gt; 
+       &lt;td&gt;1&lt;/td&gt;
        &lt;td&gt;1&lt;/td&gt;
        &lt;td&gt;1&lt;/td&gt;
        &lt;/tr&gt;
@@ -57,15 +57,15 @@
         &lt;tr&gt;  
        &lt;td&gt;Small&lt;/td&gt;
        &lt;td&gt;8&lt;/td&gt; 
-       &lt;td&gt;14&lt;/td&gt;
-       &lt;td&gt;5&lt;/td&gt;
-       &lt;td&gt;4&lt;/td&gt;
+       &lt;td&gt;21&lt;/td&gt;
+       &lt;td&gt;2&lt;/td&gt;
+       &lt;td&gt;0&lt;/td&gt;
        &lt;/tr&gt;
 
         &lt;tr&gt;  
        &lt;td&gt;Mini&lt;/td&gt;
        &lt;td&gt;1&lt;/td&gt; 
-       &lt;td&gt;5&lt;/td&gt;
+       &lt;td&gt;4&lt;/td&gt;
        &lt;td&gt;0&lt;/td&gt;
        &lt;td&gt;0&lt;/td&gt;
        &lt;/tr&gt;
@@ -73,9 +73,9 @@
         &lt;tr&gt;  
        &lt;td&gt;&lt;b&gt;Total:&lt;/b&gt;&lt;/td&gt;
        &lt;td&gt;&lt;b&gt;11&lt;/b&gt;&lt;/td&gt; 
-       &lt;td&gt;&lt;b&gt;18&lt;/b&gt;&lt;/td&gt;
-       &lt;td&gt;&lt;b&gt;6&lt;/b&gt;&lt;/td&gt;
-       &lt;td&gt;&lt;b&gt;6&lt;/b&gt;&lt;/td&gt;
+       &lt;td&gt;&lt;b&gt;26&lt;/b&gt;&lt;/td&gt;
+       &lt;td&gt;&lt;b&gt;3&lt;/b&gt;&lt;/td&gt;
+       &lt;td&gt;&lt;b&gt;1&lt;/b&gt;&lt;/td&gt;
        &lt;/tr&gt;
 
      &lt;/table&gt;
