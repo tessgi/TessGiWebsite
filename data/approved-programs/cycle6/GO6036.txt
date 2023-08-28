@@ -1,0 +1,9 @@
+# TESS Program GO6036
+
+Title: THE SEARCH FOR ADDITIONAL PLANETS IN KNOWN YOUNG PLANETARY SYSTEMS
+
+PI: MADYSON, BARBER - UNIVERSITY OF NORTH CAROLINA
+
+Type: SMALL
+
+Summary: Young multi-planet systems are heterogeneous in terms of planet radii and orbital spacings, while older planets show a high level of internal similarity. This difference suggests that intra-system uniformity arises from evolutionary, rather than formative processes. However, we are far less sensitive to small planets in young systems than old ones. In many young multi-planet systems, a planet hiding just below our detection threshold could explain away some of the differences. To explore this, we propose for higher-cadence TESS data of known young planetary systems. The new data and better cadence, combined with improved light curve extraction and search methods, will increase our sensitivity by 20-50%. With this, we can separate out effects of evolution and detection biases.

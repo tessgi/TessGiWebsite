@@ -1,0 +1,9 @@
+# TESS Program GO6201
+
+Title: CHARACTERIZING COMPLEX ROTATORS IN TESS CYCLE 6 BENCHMARK CLUSTERS
+
+PI: MARK, POPINCHALK - AMERICAN MUSEUM OF NATURAL HISTORY
+
+Type: SMALL
+
+Summary: TESS Cycle 6 provides a critical extension to the TESS and K2 baselines specifically for complex rotators in benchmark clusters across the ecliptic including the ~2Myr star forming complex in Taurus and the ~25Myr Beta Pictoris moving group. Using Cycle 6 data alongside previous observations in K2 as well as Cycles 1-5, we will investigate the longevity of 10 known complex rotators as well as search for new sources among the ~2000 young M dwarfs that will be observed in Cycle 6. The extended baseline of TESS will lead to more conclusive understanding of the physical mechanism for these outstanding sources revealing whether they are from co-rotating material around the stars or from intrinsic physical changes specific to M dwarfs.
