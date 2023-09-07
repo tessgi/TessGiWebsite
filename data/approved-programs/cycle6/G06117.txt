@@ -1,0 +1,19 @@
+# TESS Program G06117
+
+Title: A TESS Search For Slobs: Self-Lensing Objects In Binary Systems
+
+PI: Canas, Caleb - NASA/GSFC & Orau
+
+Type: SMALL
+
+Summary: Compact companions in edge-on, main-sequence binary systems are able to gravitationally magnify the light received from their main-sequence companions and product a detectable, periodic pulse in the photometry. These "self-lensing" systems enable detailed studies of dark objects that would be otherwise unfeasible. By modeling an observed pulse as gravitational magnification (a microlensing event) along with dynamical constraints from radial velocities, it is possible to unambiguously derive mass of compact object. We propose to use TESS to perform a search for self-lensing events in bright (T<=15) M-dwarfs to identify candidate stellar mass black holes that are amenable to ground-based confirmation with radial velocities.
+
+
+# Sector 070 targets observed (2 min: 7, 20 s: 1)
+456906082,26.2934,18.946,14.84,G06117
+88845864,27.209,16.6843,14.75,G06117
+26079178,52.9549,23.393,12.53,G06117
+385552593,56.348,24.8505,13.37,G06120;G06117
+245830829,68.0997,17.7505,12.46,G06176;G06120;G06117;G06197;20SECONDTARGET
+22952798,59.9306,26.2476,14.96,G06117
+58173586,64.2219,26.4047,14.84,G06117

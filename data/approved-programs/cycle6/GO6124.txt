@@ -1,9 +1,0 @@
-# TESS Program GO6124
-
-Title: FLARES RATES OF EXOPLANET HOST STARS IN THE CONTEXT OF THE ESA-ARIEL MISSION
-
-PI: BILLY, EDWARDS - SRON, NETHERLANDS INSTITUTE FOR SPACE RESEARCH
-
-Type: MINI
-
-Summary: We ask for 20-second cadence data for 38 key targets for flare studies in the context of the ESA-Ariel mission. The targets are either young, M-dwarfs, or known to be highly active. Each hosts at least one planet which is an excellent target for the Ariel mission and these preliminary characterisation efforts will help in the target selection for the mission.

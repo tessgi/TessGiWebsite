@@ -1,9 +1,0 @@
-# TESS Program GO6039
-
-Title: PROGENITORS AND EXPLOSIONS OF TESS SUPERNOVAE
-
-PI: DAVID, SAND- UNIVERSITY OF ARIZONA
-
-Type: SMALL
-
-Summary: In the hours after explosion, SNe provide clues to how they explode, and what their progenitor star systems were. TESS light curves can pinpoint the moment of explosion and highlight light curve morphologies that may signal shock breakout, companion star/circumstellar interaction, or an unusual nickel distribution. Despite the unique role of TESS, to maximize its science return ground-based data must accompany it. Here we will provide discovery data and complete ground-based follow-up of the nearest SNe that will be in TESS Cycle 6 (~5 SNe total) and will utilize new tools to spectroscopically classify SNe minutes after discovery. This follow-up data, including access to high cadence Swift ultra-violet light curves, will break model degeneracies inherent to the single-band TESS data alone.

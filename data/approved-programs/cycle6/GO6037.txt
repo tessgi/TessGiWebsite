@@ -1,9 +1,0 @@
-# TESS Program GO6037
-
-Title: TESS LIFTS THE VEIL ON THE UNCONSTRAINED INTERIORS OF MASSIVE STARS
-
-PI: DOMINIC, BOWMAN - KATHOLIEKE UNIVERSITEIT LEUVEN
-
-Type: SMALL
-
-Summary: Massive stars are important chemical factories in the Universe and progenitors of core-collapse supernovae. However, a major limitation of stellar evolution models is their uncalibrated prescriptions for interior rotation and mixing processes. This is because we lack detailed empirical constraints on massive star interiors. Fortunately, most massive stars pulsate in pressure and gravity modes, which are highly sensitive to a star s interior physics. The TESS mission is providing the first set of long-duration and high-precision light curves for a large sample of massive stars. In this project, asteroseismology applied to 2-min TESS light curves will allow us to mitigate the large rotation and mixing uncertainties in stellar evolution theory.

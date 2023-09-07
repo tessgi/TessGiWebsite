@@ -1,0 +1,40 @@
+# TESS Program G06150
+
+Title: Phase Monitoring Of Compact Hot Subdwarf Binaries With TESS Cycle 6 Photometry
+
+PI: Barlow, Brad - High Point University
+
+Type: SMALL
+
+Summary: Hot subdwarf B stars are the descendants of red giants that were stripped of their outer envelopes due to binary interactions. Here we propose 20-s and 2-min cadence TESS observations of compact hot subdwarf binaries falling in Cycle 6. When combined with data from previous cycles, these high S/N light curves will allow us to generate the first large and homogeneous set of orbital ephemerides for three types of compact systems: (i) ellipsoidally modulated sdB+WD binaries, (ii) eclipsing sdB+dM/BD reflection effect binaries, and (iii) non-eclipsing sdB+dM/BD binaries. Together, these ephemerides will help us determine the prevalence of circumbinary planets around post-common envelope binaries and measure orbital period changes due to gravitational wave radiation or tidal effects.
+
+
+# Sector 070 targets observed (2 min: 28, 20 s: 21)
+262748917,349.9808,4.8762,12.78,G06150
+422603709,353.4924,4.0653,14.96,G06150;20SECONDTARGET
+250316296,339.9816,-0.8779,14.89,G06150
+250358571,341.7538,-4.3898,16.23,G06150;20SECONDTARGET
+36707830,343.93,-6.9944,12.46,G06150;20SECONDTARGET
+402323876,353.6489,-15.065,15.83,G06150;20SECONDTARGET
+49530836,349.445,-6.4752,9.65,G06150
+380908682,19.1138,6.0532,12.57,G06150;20SECONDTARGET
+398940155,18.8577,19.3803,12.81,G06150
+58720736,3.1157,3.9089,13.35,G06150;20SECONDTARGET
+244164604,5.8501,-0.4981,15.73,G06150;20SECONDTARGET
+257592912,11.9978,3.6291,11.99,G06150
+346894954,24.1093,11.6588,12.44,G06150;20SECONDTARGET
+293502807,27.7298,2.8776,16.58,G06150;20SECONDTARGET
+337044368,32.5914,8.516,13.03,G06150
+337137913,34.4682,9.1004,14.28,G06150;20SECONDTARGET
+420049852,36.2283,1.1609,11.8,G06150;20SECONDTARGET
+368628965,38.8,9.7605,11.77,G06150;20SECONDTARGET
+387540013,43.889,10.6228,13.39,G06150;20SECONDTARGET
+247017534,38.5552,23.703,11.68,G06150;20SECONDTARGET
+426419494,40.3062,21.9619,12.61,G06150;20SECONDTARGET
+91516678,45.3037,18.6816,15.15,G06150;20SECONDTARGET
+346597868,57.3453,27.2266,11.09,G06150;20SECONDTARGET
+60903609,66.6443,16.9239,13.27,G06150
+23113511,60.8945,26.0662,11.88,G06150;20SECONDTARGET
+286564543,66.1769,32.8498,14.5,G06150;20SECONDTARGET
+286686266,66.5164,33.0705,15.56,G06150;20SECONDTARGET
+56654122,63.8403,25.3775,15.95,G06150;20SECONDTARGET

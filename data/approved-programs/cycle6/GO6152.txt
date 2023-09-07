@@ -1,9 +1,0 @@
-# TESS Program GO6152
-
-Title: COPAS: COMPACT OBJECTS AND THE PHYSICS OF ACCRETION SURVEY
-
-PI: LILIANA, RIVERA SANDOVAL - UNIVERSITY OF TEXAS RIO GRANDE VALLEY
-
-Type: LARGE
-
-Summary: AM CVns are H-deficient accreting white dwarf binaries with 5<P_orb<70 mins. Recent outbursts observations have demonstrated their unique behavior, challenging traditional accretion models, but their understanding is very limited given the small number of known systems. Very often AM CVns are misclassified as H-rich cataclysmic variables (CVs) by ground-based surveys given the limited photometric coverage. We propose to perform a TESS survey on 1397 transients classified as "CV candidates" to uncover the hidden population of outbursting AM CVs. We will obtain the best estimate of the AM CVn population density, while studying their outburst characteristics. Our project will provide to the astro-community the largest catalog of CV ligthcurves to be used for observational/theoretical studies.

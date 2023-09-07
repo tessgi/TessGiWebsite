@@ -1,0 +1,13 @@
+# TESS Program G06035
+
+Title: High-Speed Photometry Of Magnetic Cataclysmic Variables To Enhance TESS Light Curves.
+
+PI: Mason, Paul - New Mexico State University
+
+Type: SMALL
+
+Summary: This proposal is to obtain ground-based photometry of magnetic cataclysmic variables (MCVs) to enhance the high-cadence photometric data provided by TESS. We will use one or more, 2 to 3-m class, telescopes. High-quality photometry at a cadence of 1 to 5 seconds allows a more detailed study of the light curve than allowed by TESS. However, TESS can obtain hundreds of light curves per sector. Combining ground-based high-speed photometry with the TESS light curves, leverages the strengths of complementary data sets by 1) providing additional epochs for long-term data analysis, 2) combining the results of high precision measurements with high quantity data sets allowing for variability studies and 3) ground-based observations can provide multi-wavelength datasets for modeling.
+
+
+# Sector 070 targets observed (2 min: 1, 20 s: 1)
+422651186,28.9312,0.4687,17.42,G06035;G06027;20SECONDTARGET

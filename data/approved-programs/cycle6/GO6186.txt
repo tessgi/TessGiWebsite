@@ -1,9 +1,0 @@
-# TESS Program GO6186
-
-Title: ALBEDO AND ATMOSPHERIC VARIABILITY OF HOT JUPITERS
-
-PI: ANUSHA, PAI ASNODKAR - OHIO STATE UNIVERSITY
-
-Type: SMALL
-
-Summary: Hot Jupiters (HJs) display atmospheric wind structures unique to this class of planets. They are also hot enough to host clouds, which affect the atmosphere's thermal structure and may drive observable variability. We propose to uniformly constrain albedos and assess variability for a sample of 24 HJs with multiple sectors of TESS phase curves. For at least 6 HJs in our sample, we can compare phase curve measurements of equatorial jet velocity with constraints from phase curves. We may even break the degeneracy between albedo and jet velocity for targets that are expected to have such a degeneracy from energy balanced models. We aim to validate a preliminary positive correlation between albedo and dayside temperature and seek evidence of temporally varying cloud coverage and advection.

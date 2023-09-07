@@ -1,0 +1,19 @@
+# TESS Program G06139
+
+Title: Exploring Outbursts In Be Stars With TESS And Ground-Based Spectroscopy
+
+PI: Emilio, Marcelo - Universidade Estadual De Ponta Grossa
+
+Type: MINI
+
+Summary: We propose to continue the search for and characterization of discrete mass-loss events (outbursts) in Be stars located in TESS observation fields as well as in those observed during the Kepler/K2 mission. Rapid rotation alone cannot explain the ejection episodes of Be stars, and non-radial pulsations (NRP) have been proposed as an explanation. Our goal is to verify the correlation between the NRP regime and the feeding of the envelope by combining ground-based spectroscopy data with the identification of outbursts and the measurement of small changes in pulsation frequencies with TESS 2-min cadence observations. Fourier analysis of photometric data is performed using a methodology developed for CoRoT and K2 Be stars.
+
+
+# Sector 070 targets observed (2 min: 7, 20 s: 0)
+265911941,336.3194,1.3774,4.61,G06073;G06183;G06139
+310852121,345.9693,3.82,4.7,G06073;G06183;G06139
+49531426,349.476,-9.1826,4.59,G06037;G06139
+114082976,55.579,19.7002,5.69,G06073;G06139
+346626171,57.2969,24.1364,5.29,G06073;G06120;G06139
+389053989,62.7642,16.647,6.54,G06073;G06139
+407933440,60.9763,28.1258,7.96,G06073;G06183;G06139
