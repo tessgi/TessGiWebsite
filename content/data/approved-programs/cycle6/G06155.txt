@@ -1,0 +1,19 @@
+# TESS Program G06155
+
+Title: TESS High-Cadence Observations Of Pandora Smallsat Mission Targets
+
+PI: Bonney, Paul - Seti Institute
+
+Type: SMALL
+
+Summary: Pandora is a NASA SmallSat mission, scheduled to launch in early 2025, that is designed to quantify and correct for stellar contamination in the transmission spectra of 20 exoplanets and their host stars. To do so, Pandora will obtain long-duration, simultaneous multiwavelength observations that will provide constraints on spot and faculae contrasts and covering fractions that are needed to disentangle star and planet signals in transmission spectra. We propose TESS 20-second cadence observations for 33 stars that are viable Pandora targets, that collectively host 51 transiting planets visible in TESS Cycle 6, to characterize and prioritize the systems in anticipation of finalizing Pandora's target list.
+
+
+# Sector 070 targets observed (2 min: 7, 20 s: 7)
+262715204,349.3844,1.3001,11.24,G06058;G06155;20SECONDTARGET
+301235044,350.9173,-1.1891,10.03,G06058;G06155;G06032;G06195;20SECONDTARGET
+301289516,351.7726,-1.2848,9.07,G06124;G06200;G06058;G06155;G06032;20SECONDTARGET
+278892590,346.6285,-5.0446,13.85,G06165;G06058;G06002;G06155;G06032;G06195;G06034;G06132;20SECONDTARGET
+418761354,11.4802,6.3471,11.38,G06058;G06155;20SECONDTARGET
+270380593,32.7823,2.4183,10.73,G06165;G06058;G06155;G06032;G06057;20SECONDTARGET
+434226736,63.2742,15.2477,13.03,G06040;G06036;G06165;G06058;G06120;G06155;G06032;20SECONDTARGET

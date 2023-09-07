@@ -1,0 +1,23 @@
+# TESS Program G06062
+
+Title: A Systematic Study Of TESS Orbital Phase Curves
+
+PI: Shporer, Avi - Massachusetts Institute Of Technology
+
+Type: SMALL
+
+Summary: TESS light curves show the entire orbital phase curve, including the transit, secondary eclipse, and sinusoidal phase modulations. Those modulations are shaped by atmospheric processes in the planet s atmosphere and by star-planet gravitational interaction. We propose to extend to Cycle 6 our ongoing systematic study of TESS phase curves. Combining Cycle 6 data with that of previous Cycles will extend the time baseline of TESS data, allowing to look for variations in planetary atmospheric properties, and, result in higher quality phase curves. Our project maximizes TESS s science by extracting all information encoded in the light curves.
+
+
+# Sector 070 targets observed (2 min: 11, 20 s: 5)
+176220787,0.3258,-8.9262,9.48,G06062;G06165;G06200;G06058;G06032;G06203;G06142;20SECONDTARGET
+37718056,4.1464,-10.9764,11.71,G06062;G06165;G06058;G06032
+9725627,358.4084,-10.1181,10.98,G06062;G06058
+398572544,353.6163,-1.58,11.62,G06062;G06165;G06058;G06032
+36592530,342.386,-10.6754,10.93,G06062;G06165;G06058;G06032;G06142;20SECONDTARGET
+380907135,19.5506,2.7028,10.56,G06062;G06165;G06058;G06032;G06142;20SECONDTARGET
+422655579,29.2635,0.7588,10.16,G06062;G06165;G06058;G06032;G06203;G06142;20SECONDTARGET
+113810736,47.8093,21.097,7.86,G06062;G06200;G06058;20SECONDTARGET
+389018596,61.756,15.3349,9.34,G06062;G06058;G06120
+268397995,68.2918,24.5619,10.83,G06062;G06058
+56399553,62.6705,24.4016,11.55,G06062;G06165;G06058;G06032

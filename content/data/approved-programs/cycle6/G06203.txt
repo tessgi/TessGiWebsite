@@ -1,0 +1,14 @@
+# TESS Program G06203
+
+Title: Constraining Orbital Decay Of Hot Jupiters In Post-Main Sequence Systems
+
+PI: Grunblatt, Samuel - American Museum Of Natural History
+
+Type: SMALL
+
+Summary: Hot Jupiter systems are some of the most well-studied exoplanet systems to date. The large signals produced by these giant, close-in planets make them particularly useful for understanding planet demographics and star-planet interactions. As post-main sequence stellar evolution provides an opportunity to study the response of planets to rapidly evolving stellar properties, evolved hot Jupiter systems provide new insights into tides and mass loss in a manner that is not possible on the main sequence. We propose to leverage the longer baselines for transit photometry made possible by TESS Cycle 6 to continue improving orbital decay constraints and potentially confirm new detections of planetary orbital decay, thus testing stellar tidal theory.
+
+
+# Sector 070 targets observed (2 min: 2, 20 s: 2)
+176220787,0.3258,-8.9262,9.48,G06062;G06165;G06200;G06058;G06032;G06203;G06142;20SECONDTARGET
+422655579,29.2635,0.7588,10.16,G06062;G06165;G06058;G06032;G06203;G06142;20SECONDTARGET
