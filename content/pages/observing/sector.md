@@ -168,8 +168,8 @@ The data from each sector are required to be available at the MAST no later than
     <td>Ecliptic</td>
     <td>2023&nbsp;Sep&nbsp;20</td>
     <td>2023&nbsp;Oct&nbsp;16</td>
-    <td>href='data/target_lists/sector070_targets_lists/GI_S070.csv'>Download</a></td>
-    <td style="min-width: 12em;">
+    <td><a href='data/target_lists/sector070_targets_lists/GI_S070.csv'>Download</a></td>
+    <td style="min-width: 12em;">Fourth TESS extended mission field, Cycle 6 begins
     </td>
   </tr>
 
@@ -334,7 +334,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>2022&nbsp;Sep&nbsp;01</td>
     <td>2022&nbsp;Sep&nbsp;30</td>
     <td><a href='data/target_lists/sector056_targets_lists/GI_S056.csv'>Download</a></td>
-    <td style="min-width: 12em;">Second TESS extended mission field, Cycle 5 begins
+    <td style="min-width: 12em;">Third TESS extended mission field, Cycle 5 begins
     </td>
   </tr>
 
@@ -521,7 +521,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>2021&nbsp;Jun&nbsp;24</td>
     <td>2021&nbsp;Jul&nbsp;23</td>
     <td><a href='data/target_lists/sector040_targets_lists/GI_S040.csv'>Download</a></td>
-    <td style="min-width: 12em;">
+    <td style="min-width: 12em;">Second TESS extended mission field, Cycle 4 begins
     </td>
   </tr>
 
