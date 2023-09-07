@@ -56,6 +56,26 @@ MacDonald, Mariah G., Polania Vivas, Michael S., D'Angiolillo, Skylar, et al.
 2023, refereed ([2023AJ....166...94M](http://adsabs.harvard.edu/abs/2023AJ....166...94M))  
 <span class="badge">0 citations</span>
 
+6. [TESS DISCOVERY OF A SUPER-EARTH ORBITING THE M-DWARF STAR TOI-1680](http://adsabs.harvard.edu/abs/2023A&A...677A..31G)  
+Ghachoui, M., Soubkiou, A., Wells, R. D., et al.    
+2023, refereed ([2023A&A...677A..31G](http://adsabs.harvard.edu/abs/2023A&A...677A..31G))  
+<span class="badge">0 citations</span>
+
+7. [TOI-4600 B AND C: TWO LONG-PERIOD GIANT PLANETS ORBITING AN EARLY K DWARF](http://adsabs.harvard.edu/abs/2023ApJ...954L..15M)  
+Mireles, Ismael, Dragomir, Diana, Osborn, Hugh P., et al.    
+2023, refereed ([2023ApJ...954L..15M](http://adsabs.harvard.edu/abs/2023ApJ...954L..15M))  
+<span class="badge">0 citations</span>
+
+8. [TOI-2084 B AND TOI-4184 B: TWO NEW SUB-NEPTUNES AROUND M DWARF STARS](http://adsabs.harvard.edu/abs/2023A&A...677A..38B)  
+Barkaoui, K., Timmermans, M., Soubkiou, A., et al.    
+2023, refereed ([2023A&A...677A..38B](http://adsabs.harvard.edu/abs/2023A&A...677A..38B))  
+<span class="badge">0 citations</span>
+
+9. [TOI-1416: A SYSTEM WITH A SUPER-EARTH PLANET WITH A 1.07 D PERIOD](http://adsabs.harvard.edu/abs/2023A&A...677A..12D)  
+Deeg, H. J., Georgieva, I. Y., Nowak, G., et al.    
+2023, refereed ([2023A&A...677A..12D](http://adsabs.harvard.edu/abs/2023A&A...677A..12D))  
+<span class="badge">0 citations</span>
+
 
 2023-08
 -------
