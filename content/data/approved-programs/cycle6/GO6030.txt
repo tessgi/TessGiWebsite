@@ -1,9 +1,0 @@
-# TESS Program GO6030
-
-Title: A CENSUS OF COMPLEX PERIODIC VARIABLES
-
-PI: LUKE, BOUMA - CALIFORNIA INSTITUTE OF TECHNOLOGY
-
-Type: SMALL
-
-Summary: Complex periodic variables (CPVs) are a type of variable star whose root cause is not understood. Possible explanations include transiting dust clumps; stellar prominences; or misaligned, low-mass debris disks. We propose to use the Cycle 6 FFIs to make light curves for all T<16 K- and M-dwarfs within 100pc. By searching these stars for new CPVs, we expect to double the sample of known CPVs within 100pc. We will also release the light curves to MAST. Independently, we propose that new 2-minute observations be acquired for CPVs that we have found in the Cycle 1-5 2-minute data, to determine how CPV variability changes over thousands of cycles. These efforts will advance our understanding of M-dwarf evolution, including perhaps the evolution of debris disks and young rocky planets.

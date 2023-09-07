@@ -29,6 +29,24 @@ Cycle 6
 
 .. include:: approved-programs/cycle6.html
 
+Sector 70
+=========
+.. raw:: html
+
+    <ul class="list-group">
+        <li class="list-group-item">
+          <i class="fa fa-calendar fa-margin"></i>
+           September 20. 2023 - October 16. 2023
+        </li>
+        <li class="list-group-item">
+            <i class="fa fa-download fa-margin"></i>
+            <a href="data/target_lists/sector070_targets_lists/GI_S070.csv">2 min target list (csv)</a>, 
+            <a href="data/target_lists/sector070_targets_lists/GI_20s_S070.csv">20 s target list (csv)</a>
+        </li>
+    </ul>
+
+.. include:: approved-programs/sector070.html
+
 
 Cycle 5
 =======

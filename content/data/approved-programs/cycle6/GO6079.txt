@@ -1,9 +1,0 @@
-# TESS Program GO6079
-
-Title: SIMULTANEOUS SPECTROSCOPY AND PHOTOMETRY OF STELLAR FLARES WITH TESS AND AMATEUR ASTRONOMERS
-
-PI: ROBERT, BUCHHEIM - SOCIETY FOR ASTRONOMICAL SCIENCES
-
-Type: SMALL
-
-Summary: We propose 20-s cadence observations of 9 bright (V~11) and active K and M stars that will be simultaneously observed with the facilities of amateur astronomers. The TESS observations will be combined with ground-based spectroscopy and B and V band photometry to measure flare color temperatures, the energy released via line emission, and distinguish changes in the continuum from emission-line enhancement during flares.

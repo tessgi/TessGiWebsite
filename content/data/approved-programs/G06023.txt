@@ -1,0 +1,18 @@
+# TESS Program G06023
+
+Title: Tidal And Magnetic Interactions In Tight Binaries
+
+PI: Martin, David - Ohio State University
+
+Type: SMALL
+
+Summary: Stellar binaries are ubiquitous in the galaxy and produce some of the most heavily-studied astrophysical phenomena, including supernovae and gravitational waves. It is imperative to understand fundamental interactions within the binary, and we shall study two such interactions: tidal and magnetic. We will use TESS photometry to measure spot modulations: their periodicity, phase, amplitude and also variations over the now ~5 years of TESS baseline. We will combine with archival and new spectroscopy to constrain the strength of tidal physics, and also investigate magnetic interactions between the two stars in the production of spots at active longitudes.
+
+
+# Sector 070 targets observed (2 min: 6, 20 s: 0)
+414807623,13.1907,14.0236,12.29,G06057;G06022;G06023;G06022;G06023
+269504659,13.8075,-0.1318,10.47,G06022;G06023
+328068200,10.0061,1.0939,10.37,G06022;G06023;G06022;G06023
+422844353,37.0371,5.5965,9.86,G06057;G06022;G06023
+302451038,47.0396,16.0642,12.32,G06022;G06023;G06022;G06023
+61146016,56.6571,23.7874,9.57,G06120;G06022;G06023

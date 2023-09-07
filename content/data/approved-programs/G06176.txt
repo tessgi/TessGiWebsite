@@ -1,0 +1,14 @@
+# TESS Program G06176
+
+Title: Winds, Flares, And Orbits In White Dwarf-M Dwarf Binary Systems
+
+PI: Cloutier, Ryan - Mcmaster University
+
+Type: MINI
+
+Summary: While terrestrial planets around M dwarfs are superlative opportunities to search for biosignatures, M dwarfs exhibit extended active phases that impact habitability. While much progress has been made to understand M dwarf activity processes, a clear picture of their stellar winds remains elusive. Fortunately, close binary systems containing a white dwarf and an M dwarf are unique laboratories to measure M dwarf wind rates as wind material accreted onto the WD may be detectable with UV/optical spectroscopy. We propose to target 7 WD-MD binaries to assess their flare rates and orbital periods. These data will deepen our understanding of WD physics, binary star evolution, the connection between M dwarf flare rates and winds, and the joint impact of these processes on planetary atmospheres.
+
+
+# Sector 070 targets observed (2 min: 2, 20 s: 2)
+337219837,47.7294,9.8233,15.06,G06176;20SECONDTARGET
+245830829,68.0997,17.7505,12.46,G06176;G06120;G06117;G06197;20SECONDTARGET

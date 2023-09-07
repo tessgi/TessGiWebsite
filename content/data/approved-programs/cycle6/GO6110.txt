@@ -1,9 +1,0 @@
-# TESS Program GO6110
-
-Title: SEARCHING FOR SUBDWARF B LONG ORBITAL PERIOD BINARY SYSTEMS AND SINGLE STARS USING THE LIGHT TIME DELAY METHOD
-
-PI: TOMOMI, OTANI - EMBRY-RIDDLE AERONAUTICAL UNIVERSITY
-
-Type: SMALL
-
-Summary: Our group will use pulsation timing methods to obtain the orbital solutions of long-period subdwarf B (sdB) star binaries and search for single sdB stars. The most promising formation scenarios for sdB stars involve the evolution of close binary systems through three different channels: 1) the Common Envelope channel, which produces short-period (P = 0.1-10 d) sdB binary systems; 2) the Roche Lobe Overflow channel, which results in long-period (450 < P < 1400 d) sdB binary systems; and 3) the white-dwarf merger channel, which produces single sdB stars. Observational studies of the orbital parameters of binaries with P > 100 d and the existence of single sdB stars are incomplete using conventional methods. Therefore, pulsation timing methods are suitable for these research areas.

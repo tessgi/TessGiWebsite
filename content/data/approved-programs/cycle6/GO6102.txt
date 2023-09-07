@@ -1,9 +1,0 @@
-# TESS Program GO6102
-
-Title: WIDE BINARY DEMOGRAPHICS AND EXOPLANET OCCURRENCE AROUND INTERMEDIATE-MASS STARS USING TESS PULSATION TIMING
-
-PI: DANIEL        , HEY               - UNIVERSITY OF HAWAII (MANOA)                   
-
-Type: SMALL 
-
-Summary: Stellar companions and exoplanets in wide orbits are poorly understood, in particular around intermediate-mass stars for which spectroscopic radial velocities cannot be precisely measured. We propose to use pulsation timing variations to map orbits around the intermediate-mass delta Scuti variable stars, probing both exoplanets and binary companions. The method is immune to data gaps and increases in sensitivity with the orbital period and is thus uniquely suited for the 6-year timebase that will be enabled through TESS Cycle 6.

@@ -1,0 +1,21 @@
+# TESS Program G06132
+
+Title: Flicker And Jitter : Using Photometric Variability To Mitigate Rv Activity In M Dwarfs
+
+PI: Robertson, Paul - University Of California (Irvine)
+
+Type: SMALL
+
+Summary: Stellar activity remains a persistent barrier to radial velocity (RV) detection of low-mass planets, particularly for M dwarfs. We aim to develop techniques to predict and mitigate the stellar jitter in the RV time series by studying the corresponding short time-scale photometric variability, or flicker . We are conducting a multi-year RV survey of ~70 nearby M dwarfs, which will allow us to study RV flicker in conjunction with TESS lightcurves. Many of our targets were observed in Cycles 2 and 4, and additional Cycle 6 observations will allow us to study how these activity indicators evolve over time. This project will improve our understanding of the underlying processes that drive RV activity in M dwarfs and provide tools to diagnose and mitigate stellar activity in RVs.
+
+
+# Sector 070 targets observed (2 min: 9, 20 s: 1)
+176287658,1.6746,-7.5506,10.25,G06132
+471016474,353.7988,-2.3946,11.28,G06132
+278892590,346.6285,-5.0446,13.85,G06165;G06058;G06002;G06155;G06032;G06195;G06034;G06132;20SECONDTARGET
+404715018,30.0614,13.0403,9.3,G06058;G06132
+347509900,30.5632,10.3354,11.88,G06132
+278962913,39.0756,6.8812,9.02,G06132
+218088471,41.6389,16.4157,12.96,G06132
+436856183,41.0709,25.521,8.28,G06132
+35025268,48.5543,28.6727,13.02,G06132
