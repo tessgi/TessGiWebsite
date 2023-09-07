@@ -1,9 +1,0 @@
-# TESS Program GO6151
-
-Title: ORBITAL PERIODS AND FLARE RATES OF WHITE DWARF - MAIN SEQUENCE STAR BINARIES WITH TESS
-
-PI: DAVID, WILSON - UNIVERSITY OF COLORADO AT BOULDER
-
-Type: SMALL
-
-Summary: Binaries consisting of a white dwarf and a main sequence star are common throughout the galaxy, and provide insight into a range of astrophysical questions such as the activity of M dwarfs and the origins of Type-1A supernovae. Over 3000 have been identified via spectroscopy, but the orbital periods for the majority of those systems are unknown. TESS photometry is the ideal tool to detect the percent-level optical variations induced by reflection, ellipsoidal modulation and starspots that reveal the orbital period. We will survey over 500 systems, expecting to detect at least 100 new orbital periods. We will also calculate flare frequency distributions for the main-sequence stars, comparing them as a function of rotation period with single stars.

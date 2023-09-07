@@ -1,0 +1,13 @@
+# TESS Program G06158
+
+Title: TESS Survey For Magnetic White Dwarfs In Symbiotic Binaries
+
+PI: Pichardo Marcano, Manuel - American Museum Of Natural History
+
+Type: SMALL
+
+Summary: Symbiotic stars (SySts) are a subclass of compact binaries where typically a white dwarf (WD), accretes material from an evolved giant. Short-time-scale variability in these systems is related to the accretion process, which is crucial for understanding the evolution of these systems. The detection of periodic modulations in the optical light curves of SySts provides evidence for the presence of magnetic WD, which plays an important role in the accretion process by truncating the accretion disk and regulating the accretion flow. Finding evidence of magnetic WDs has been hard to do due to the needed cadence and accuracy of millimag. We will exploit the capabilities of TESS to do a complete survey of SySts to find evidence of magnetic WDs in all the confirmed Galactic symbiotic binaries.
+
+
+# Sector 070 targets observed (2 min: 1, 20 s: 1)
+92138849,355.9563,-15.2847,5.36,G06158;20SECONDTARGET

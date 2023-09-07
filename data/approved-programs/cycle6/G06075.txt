@@ -1,0 +1,25 @@
+# TESS Program G06075
+
+Title: Using White Dwarfs To Constrain Angular Momentum Transport In Stellar Evolution
+
+PI: Provencal, Judith - University Of Delaware
+
+Type: SMALL
+
+Summary: There are few empirical constraints on angular momentum transport mechanisms through the final stages of stellar evolution. White dwarfs are small, compact stellar remnants whose rotation rates provide an end point boundary condition that could shed light on this question. This proposal takes advantage of TESS's unique time base, number of targets, and high frequency resolution to undertake a detailed study of white dwarf rotation with emphasis on 1) providing a sample of white dwarfs with direct detection of rotation rates and 2) calibrating asteroseismic rotation rates for white dwarf pulsators. The science impact includes 1) constraints on angular momentum transport mechanisms in stellar evolution and 2) a connection between surface rotation and asteroseismic rotation rates
+
+
+# Sector 070 targets observed (2 min: 13, 20 s: 12)
+8988748,354.7116,-7.689,13.31,G06161;G06049;G06028;G06075;G06197;20SECONDTARGET
+422526868,352.1958,5.2466,13.11,G06161;G06049;G06028;G06075;20SECONDTARGET
+630426257,20.6446,0.5067,17.02,G06161;G06049;G06028;G06075;20SECONDTARGET
+376920914,18.6567,10.6844,15.66,G06161;G06049;G06028;G06075;20SECONDTARGET
+418789164,11.8718,9.9823,10.56,G06197;G06075;G06175;20SECONDTARGET
+620222618,31.4556,20.9506,17.68,G06049;G06028;G06075;20SECONDTARGET
+293565926,28.5601,2.0233,15.07,G06161;G06049;G06028;G06075;20SECONDTARGET
+381108845,40.0277,11.8078,15.09,G06075;20SECONDTARGET
+456863710,57.6049,17.2464,8.64,G06120;G06075
+67827103,56.1481,18.4286,14.8,G06049;G06028;G06075;20SECONDTARGET
+15933236,62.5435,18.0394,14.32,G06161;G06049;G06028;G06075;G06197;20SECONDTARGET
+348665500,62.3712,17.1316,15.51,G06049;G06028;G06075;20SECONDTARGET
+58285090,64.7365,27.2963,15.07,G06161;G06049;G06028;G06075;20SECONDTARGET

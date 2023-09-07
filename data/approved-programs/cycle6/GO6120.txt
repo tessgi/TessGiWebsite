@@ -1,9 +1,0 @@
-# TESS Program GO6120
-
-Title: PLANETS AND STELLAR ACTIVITY THROUGH TIME: UNDERSTANDING THE EVOLUTION, DIVERSITY AND HABITABILITY OF PLANETARY SYSTEMS
-
-PI: EDWARD, GILLEN - QUEEN MARY UNIVERSITY OF LONDON
-
-Type: SMALL
-
-Summary: We propose 2-min cadence observations of 5808 young stars located in 39 nearby associations, co-moving groups and open clusters with ages spanning 1 Myr - 2 Gyr. Young planets can constrain key processes that drive the early evolution of planetary systems and inform our understanding of various properties observed in the older exoplanet population. Stellar activity plays an important role in this evolution, especially at young ages. We will search for young transiting planets and characterise the early evolution of stellar flare activity to understand the subsequent diversity and habitability of planetary systems. We additionally propose 20-sec cadence observations of 30 potentially young TOIs to facilitate detailed transit and flare analyses in these systems.

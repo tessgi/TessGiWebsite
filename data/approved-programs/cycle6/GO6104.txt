@@ -1,9 +1,0 @@
-# TESS Program GO6104
-
-Title: EXPANDING OUTER SOLAR SYSTEM SCIENCE WITH TESS
-
-PI: MALENA, RICE- YALE UNIVERSITY
-
-Type: LARGE
-
-Summary: While distant solar system bodies are underrepresented in the set of known minor planets, they offer key insights informing the solar system s structure and early evolution. TESS is ideally suited to observe distant minor planets at scale due to its space-based vantage point, near-all-sky coverage, and continuous observing cadence. However, no framework currently exists to systematically extract these signals from the TESS dataset. We propose to develop and release an open-source linear shift-stacking program that will enable the rapid detection and follow-up of solar system minor planets in the TESS dataset, with an emphasis on relatively distant and faint objects in Cycle 6. We will apply the developed framework to report minor planet candidate tracklets for the full Cycle 6 dataset.

@@ -1,9 +1,0 @@
-# TESS Program GO6058
-
-Title: AN IN-DEPTH STUDY OF BROWN DWARFS WITH TESS
-
-PI: FREDERIC, MARCADON- VILLANOVA UNIVERSITY
-
-Type: SMALL
-
-Summary: With the detection of thousands of brown dwarfs (BDs) to date, the field of substellar objects has developed significantly since the discovery of Teide 1 in 1995. However, there are still open questions concerning their formation and evolution processes. In order to understand BD formation and evolution in more detail, it is necessary to explore the diversity of BD population properties. The purpose of this project is twofold. First, we aim to extend the number of known transiting BDs and to re-analyse previously known systems using new TESS data combined with Gaia DR3 parallaxes. Second, we plan to search for asteroseismic signatures of confirmed BD host stars and to assess their fundamental parameters using advanced stellar modeling and scaling relations.
