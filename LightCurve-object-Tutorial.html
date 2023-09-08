@@ -245,8 +245,8 @@ System</a> focusing on planet c.</p>
 <a class="reference external" href="https://docs.lightkurve.org/api/lightkurve.search.search_targetpixelfile.html?highlight=search_targetpixelfile">search_targetpixelfile</a>
 function.</p>
 <pre class="code ipython3 literal-block">
-<span class="n">search</span> <span class="o">=</span> <span class="n">lk</span><span class="o">.</span><span class="n">search_targetpixelfile</span><span class="p">(</span><span class="s1">'TIC 307210830 c'</span><span class="p">)</span>
-<span class="n">search</span>
+<span class="n">search</span> <span class="o">=</span> <span class="n">lk</span><span class="o">.</span><span class="n">search_targetpixelfile</span><span class="p">(</span><span class="s1">'TIC 307210830 c'</span><span class="p">)</span><span class="w">
+</span><span class="n">search</span>
 </pre>
 SearchResult containing 7 data products.
 
@@ -262,8 +262,8 @@ SearchResult containing 7 data products.
 </table><p>Our object of interest can be found in seven sectors. Let’s take the
 first sector, sector 2 and download that.</p>
 <pre class="code ipython3 literal-block">
-<span class="n">tpf</span> <span class="o">=</span> <span class="n">lk</span><span class="o">.</span><span class="n">search_targetpixelfile</span><span class="p">(</span><span class="s1">'TIC 307210830 c'</span><span class="p">,</span> <span class="n">sector</span><span class="o">=</span><span class="mi">2</span><span class="p">)</span><span class="o">.</span><span class="n">download</span><span class="p">()</span>
-<span class="n">tpf</span>
+<span class="n">tpf</span> <span class="o">=</span> <span class="n">lk</span><span class="o">.</span><span class="n">search_targetpixelfile</span><span class="p">(</span><span class="s1">'TIC 307210830 c'</span><span class="p">,</span> <span class="n">sector</span><span class="o">=</span><span class="mi">2</span><span class="p">)</span><span class="o">.</span><span class="n">download</span><span class="p">()</span><span class="w">
+</span><span class="n">tpf</span>
 </pre>
 <pre class="literal-block">
 TessTargetPixelFile(TICID: 307210830)
@@ -280,8 +280,8 @@ function.</p>
 <a class="reference external" href="https://heasarc.gsfc.nasa.gov/docs/tess/pipeline.html">SPOC</a>
 pipeline aperture, which sums all the pixels in its defined mask.</p>
 <pre class="code ipython3 literal-block">
-<span class="n">lc</span> <span class="o">=</span> <span class="n">tpf</span><span class="o">.</span><span class="n">to_lightcurve</span><span class="p">(</span><span class="n">aperture_mask</span><span class="o">=</span><span class="n">tpf</span><span class="o">.</span><span class="n">pipeline_mask</span><span class="p">)</span>
-<span class="n">lc</span>
+<span class="n">lc</span> <span class="o">=</span> <span class="n">tpf</span><span class="o">.</span><span class="n">to_lightcurve</span><span class="p">(</span><span class="n">aperture_mask</span><span class="o">=</span><span class="n">tpf</span><span class="o">.</span><span class="n">pipeline_mask</span><span class="p">)</span><span class="w">
+</span><span class="n">lc</span>
 </pre>
 <i>TessLightCurve targetid=307210830 length=18317</i>
 <table id="table140359674564792" class="table-striped table-bordered table-condensed">
@@ -382,8 +382,8 @@ Reduce the time resolution of the array, taking the average value in
 each bin.</p>
 <p>We can use these simply on a light curve object</p>
 <pre class="code ipython3 literal-block">
-<span class="n">flat_lc</span> <span class="o">=</span> <span class="n">lc</span><span class="o">.</span><span class="n">flatten</span><span class="p">(</span><span class="n">window_length</span><span class="o">=</span><span class="mi">401</span><span class="p">)</span>
-<span class="n">flat_lc</span><span class="o">.</span><span class="n">plot</span><span class="p">();</span>
+<span class="n">flat_lc</span> <span class="o">=</span> <span class="n">lc</span><span class="o">.</span><span class="n">flatten</span><span class="p">(</span><span class="n">window_length</span><span class="o">=</span><span class="mi">401</span><span class="p">)</span><span class="w">
+</span><span class="n">flat_lc</span><span class="o">.</span><span class="n">plot</span><span class="p">();</span>
 </pre>
 <img alt="" src="images/LightCurve-objects_files/LightCurve-objects_25_0.png" />
 <div class="section" id="folding-the-light-curve">
@@ -393,8 +393,8 @@ we know that planet c has a time corresponding to zero phase (noted as
 epoch_time) of 1367.2755 BTJD days and period of 3.690621 days. We can
 use the <tt class="docutils literal">fold()</tt> function to find the transit in our data.</p>
 <pre class="code ipython3 literal-block">
-<span class="n">folded_lc</span> <span class="o">=</span> <span class="n">flat_lc</span><span class="o">.</span><span class="n">fold</span><span class="p">(</span><span class="n">period</span><span class="o">=</span><span class="mf">3.690621</span><span class="p">,</span>  <span class="n">epoch_time</span><span class="o">=</span><span class="mf">1367.2755</span><span class="p">)</span>
-<span class="n">folded_lc</span><span class="o">.</span><span class="n">plot</span><span class="p">();</span>
+<span class="n">folded_lc</span> <span class="o">=</span> <span class="n">flat_lc</span><span class="o">.</span><span class="n">fold</span><span class="p">(</span><span class="n">period</span><span class="o">=</span><span class="mf">3.690621</span><span class="p">,</span>  <span class="n">epoch_time</span><span class="o">=</span><span class="mf">1367.2755</span><span class="p">)</span><span class="w">
+</span><span class="n">folded_lc</span><span class="o">.</span><span class="n">plot</span><span class="p">();</span>
 </pre>
 <img alt="" src="images/LightCurve-objects_files/LightCurve-objects_27_0.png" />
 </div>
@@ -403,8 +403,8 @@ use the <tt class="docutils literal">fold()</tt> function to find the transit in
 <p>Often to see a trend it can be beneficial to bin the data, this can be
 achieved via the <tt class="docutils literal">bin()</tt> function.</p>
 <pre class="code ipython3 literal-block">
-<span class="n">binned_lc</span> <span class="o">=</span> <span class="n">folded_lc</span><span class="o">.</span><span class="n">bin</span><span class="p">(</span><span class="n">time_bin_size</span><span class="o">=</span><span class="mf">0.025</span><span class="p">)</span>
-<span class="n">binned_lc</span><span class="o">.</span><span class="n">plot</span><span class="p">();</span>
+<span class="n">binned_lc</span> <span class="o">=</span> <span class="n">folded_lc</span><span class="o">.</span><span class="n">bin</span><span class="p">(</span><span class="n">time_bin_size</span><span class="o">=</span><span class="mf">0.025</span><span class="p">)</span><span class="w">
+</span><span class="n">binned_lc</span><span class="o">.</span><span class="n">plot</span><span class="p">();</span>
 </pre>
 <img alt="" src="images/LightCurve-objects_files/LightCurve-objects_29_0.png" />
 <p>We can now see our transit very clearly! Note that we can achieve the
