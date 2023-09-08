@@ -202,17 +202,17 @@ portal</a>.</p>
 <a class="reference external" href="https://matplotlib.org/">Matplotlib</a> - <a class="reference external" href="https://numpy.org">numpy</a></p>
 <pre class="code ipython3 literal-block">
 <span class="o">%</span><span class="k">matplotlib</span> inline
-<span class="kn">import</span> <span class="nn">lightkurve</span> <span class="k">as</span> <span class="nn">lk</span>
-<span class="kn">import</span> <span class="nn">matplotlib.pyplot</span> <span class="k">as</span> <span class="nn">plt</span>
-<span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="nn">np</span>
+<span class="kn">import</span> <span class="nn">lightkurve</span> <span class="k">as</span> <span class="nn">lk</span><span class="w">
+</span><span class="kn">import</span> <span class="nn">matplotlib.pyplot</span> <span class="k">as</span> <span class="nn">plt</span><span class="w">
+</span><span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="nn">np</span>
 </pre>
 </div>
 <div class="section" id="downloading-data">
 <h3>Downloading data</h3>
 <p>Lets see when Gaia object DR25290850609994130560 was observed.</p>
 <pre class="code ipython3 literal-block">
-<span class="n">search_result</span> <span class="o">=</span> <span class="n">lk</span><span class="o">.</span><span class="n">search_tesscut</span><span class="p">(</span><span class="s1">'Gaia DR25290850609994130560'</span><span class="p">)</span>
-<span class="nb">print</span><span class="p">(</span><span class="n">search_result</span><span class="p">)</span>
+<span class="n">search_result</span> <span class="o">=</span> <span class="n">lk</span><span class="o">.</span><span class="n">search_tesscut</span><span class="p">(</span><span class="s1">'Gaia DR25290850609994130560'</span><span class="p">)</span><span class="w">
+</span><span class="nb">print</span><span class="p">(</span><span class="n">search_result</span><span class="p">)</span>
 </pre>
 <pre class="literal-block">
 SearchResult containing 5 data products.
@@ -230,9 +230,9 @@ You can download data from just one sector and specify the cutout_size
 in number of TESS pixels on a side as an argument to <tt class="docutils literal">.download()</tt>.
 The default is a meager 5 × 5 square. Let’s go with 10 pixels square.</p>
 <pre class="code ipython3 literal-block">
-<span class="n">search_result</span> <span class="o">=</span> <span class="n">lk</span><span class="o">.</span><span class="n">search_tesscut</span><span class="p">(</span><span class="s1">'Gaia DR25290850609994130560'</span><span class="p">,</span> <span class="n">sector</span><span class="o">=</span><span class="mi">8</span><span class="p">)</span>
-<span class="n">tpfs</span> <span class="o">=</span> <span class="n">search_result</span><span class="o">.</span><span class="n">download</span><span class="p">(</span><span class="n">cutout_size</span><span class="o">=</span><span class="mi">10</span><span class="p">)</span>
-<span class="nb">print</span><span class="p">(</span><span class="n">tpfs</span><span class="p">)</span>
+<span class="n">search_result</span> <span class="o">=</span> <span class="n">lk</span><span class="o">.</span><span class="n">search_tesscut</span><span class="p">(</span><span class="s1">'Gaia DR25290850609994130560'</span><span class="p">,</span> <span class="n">sector</span><span class="o">=</span><span class="mi">8</span><span class="p">)</span><span class="w">
+</span><span class="n">tpfs</span> <span class="o">=</span> <span class="n">search_result</span><span class="o">.</span><span class="n">download</span><span class="p">(</span><span class="n">cutout_size</span><span class="o">=</span><span class="mi">10</span><span class="p">)</span><span class="w">
+</span><span class="nb">print</span><span class="p">(</span><span class="n">tpfs</span><span class="p">)</span>
 </pre>
 <pre class="literal-block">
 TessTargetPixelFile(TICID: Gaia DR25290850609994130560)
@@ -278,9 +278,9 @@ overall median. The standard deviation is estimated in a robust way by
 multiplying the Median Absolute Deviation (MAD) with 1.4826. In this
 example we will pick 10 as our threshold.</p>
 <pre class="code ipython3 literal-block">
-<span class="n">target_mask</span> <span class="o">=</span> <span class="n">tpfs</span><span class="o">.</span><span class="n">create_threshold_mask</span><span class="p">(</span><span class="n">threshold</span><span class="o">=</span><span class="mi">10</span><span class="p">,</span> <span class="n">reference_pixel</span><span class="o">=</span><span class="s1">'center'</span><span class="p">)</span>
-<span class="n">n_target_pixels</span> <span class="o">=</span> <span class="n">target_mask</span><span class="o">.</span><span class="n">sum</span><span class="p">()</span>
-<span class="n">n_target_pixels</span>
+<span class="n">target_mask</span> <span class="o">=</span> <span class="n">tpfs</span><span class="o">.</span><span class="n">create_threshold_mask</span><span class="p">(</span><span class="n">threshold</span><span class="o">=</span><span class="mi">10</span><span class="p">,</span> <span class="n">reference_pixel</span><span class="o">=</span><span class="s1">'center'</span><span class="p">)</span><span class="w">
+</span><span class="n">n_target_pixels</span> <span class="o">=</span> <span class="n">target_mask</span><span class="o">.</span><span class="n">sum</span><span class="p">()</span><span class="w">
+</span><span class="n">n_target_pixels</span>
 </pre>
 <pre class="literal-block">
 4
@@ -301,9 +301,9 @@ what the light curve looks like!</p>
 our object of interest. In our [previous tutorial](Aperture-Photometry-Tutorial.html) we learn that
 aperture arrays are boolean, based on this lets make up a new array.</p>
 <pre class="code ipython3 literal-block">
-<span class="n">aper_new</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">zeros</span><span class="p">(</span><span class="n">tpfs</span><span class="o">.</span><span class="n">shape</span><span class="p">[</span><span class="mi">1</span><span class="p">:],</span> <span class="n">dtype</span><span class="o">=</span><span class="nb">bool</span><span class="p">)</span>
-<span class="n">aper_new</span><span class="p">[</span><span class="mi">4</span><span class="p">:</span><span class="mi">6</span><span class="p">,</span> <span class="mi">5</span><span class="p">:</span><span class="mi">7</span><span class="p">]</span> <span class="o">=</span> <span class="kc">True</span>
-<span class="n">tpfs</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">aperture_mask</span><span class="o">=</span><span class="n">aper_new</span><span class="p">,</span> <span class="n">mask_color</span><span class="o">=</span><span class="s1">'red'</span><span class="p">)</span>
+<span class="n">aper_new</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">zeros</span><span class="p">(</span><span class="n">tpfs</span><span class="o">.</span><span class="n">shape</span><span class="p">[</span><span class="mi">1</span><span class="p">:],</span> <span class="n">dtype</span><span class="o">=</span><span class="nb">bool</span><span class="p">)</span><span class="w">
+</span><span class="n">aper_new</span><span class="p">[</span><span class="mi">4</span><span class="p">:</span><span class="mi">6</span><span class="p">,</span> <span class="mi">5</span><span class="p">:</span><span class="mi">7</span><span class="p">]</span> <span class="o">=</span> <span class="kc">True</span><span class="w">
+</span><span class="n">tpfs</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">aperture_mask</span><span class="o">=</span><span class="n">aper_new</span><span class="p">,</span> <span class="n">mask_color</span><span class="o">=</span><span class="s1">'red'</span><span class="p">)</span>
 </pre>
 <pre class="literal-block">
 &lt;matplotlib.axes._subplots.AxesSubplot at 0x7fa9d0b49278&gt;
@@ -312,8 +312,8 @@ aperture arrays are boolean, based on this lets make up a new array.</p>
 <p>Ok that is much better. Lets take a look at the light curve data using
 this aperture.</p>
 <pre class="code ipython3 literal-block">
-<span class="n">target_lc</span> <span class="o">=</span> <span class="n">tpfs</span><span class="o">.</span><span class="n">to_lightcurve</span><span class="p">(</span><span class="n">aperture_mask</span><span class="o">=</span><span class="n">target_mask</span><span class="p">)</span>
-<span class="nb">print</span><span class="p">(</span><span class="n">target_lc</span><span class="p">)</span>
+<span class="n">target_lc</span> <span class="o">=</span> <span class="n">tpfs</span><span class="o">.</span><span class="n">to_lightcurve</span><span class="p">(</span><span class="n">aperture_mask</span><span class="o">=</span><span class="n">target_mask</span><span class="p">)</span><span class="w">
+</span><span class="nb">print</span><span class="p">(</span><span class="n">target_lc</span><span class="p">)</span>
 </pre>
 <pre class="literal-block">
        time               flux            flux_err      ... cadenceno quality
