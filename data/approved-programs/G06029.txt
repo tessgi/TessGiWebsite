@@ -1,0 +1,16 @@
+# TESS Program G06029
+
+Title: An Acid Test Of Two Stellar Age Dating Methods
+
+PI: Melis, Carl - University Of California (San Diego)
+
+Type: MINI
+
+Summary: We propose an acid test of two "gold standard" methods for deriving ages of main sequence stars with ages greater than roughly 1 Gyr. We will obtain TESS 20 second cadence observations of old stars in wide-separation binary systems with a white dwarf, derive ages for the star from asteroseismology, then compare to ages independently estimated for the white dwarf companion. This will serve as a validation and cross-check for the usage of both methods as accurate chronometers and pave the way for making age estimates for as many single nearby old stars as possible.
+
+
+# Sector 070 targets observed (2 min: 4, 20 s: 4)
+336959732,30.4694,7.864,6.59,G06029;G06191;G06024;20SECONDTARGET
+420031394,35.5034,4.7473,7.59,G06029;G06200;G06058;G06092;20SECONDTARGET
+365294034,45.9633,6.1336,6.39,G06029;G06200;G06024;20SECONDTARGET
+125838647,69.2027,27.1312,7.03,G06029;G06200;G06058;G06120;G06092;G06024;20SECONDTARGET

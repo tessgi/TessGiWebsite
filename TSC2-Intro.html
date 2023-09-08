@@ -16,7 +16,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - TESS Science Support Center" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2023-09-07" />
+    <meta name="dc.date.modified" content="2023-09-08" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Users of TESS Data" />
     <meta name="dc.identifier" content="https://heasarc.gsfc.nasa.gov/docs/tess/" />
@@ -214,10 +214,10 @@ visualize them</li>
 <em>TESS</em> data (v2.0.1) - <a class="reference external" href="https://matplotlib.org/">Matplotlib</a> for
 plotting. - <a class="reference external" href="https://numpy.org">Numpy</a> for manipulating the data.</p>
 <pre class="code ipython3 literal-block">
-<span class="kn">import</span> <span class="nn">lightkurve</span> <span class="k">as</span> <span class="nn">lk</span><span class="w">
-</span><span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="nn">np</span><span class="w">
-</span><span class="kn">import</span> <span class="nn">matplotlib.pyplot</span> <span class="k">as</span> <span class="nn">plt</span><span class="w">
-</span><span class="o">%</span><span class="k">matplotlib</span> inline
+<span class="kn">import</span> <span class="nn">lightkurve</span> <span class="k">as</span> <span class="nn">lk</span>
+<span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="nn">np</span>
+<span class="kn">import</span> <span class="nn">matplotlib.pyplot</span> <span class="k">as</span> <span class="nn">plt</span>
+<span class="o">%</span><span class="k">matplotlib</span> inline
 </pre>
 <div class="section" id="first-time-users">
 <h4>First time users</h4>
@@ -300,9 +300,9 @@ planets and is also known in the <em>TESS</em> system as TIC 307210830.</p>
 <p>Let’s go through each one of the above functions and see what data is
 available.</p>
 <pre class="code ipython3 literal-block">
-<span class="n">search_ffi</span> <span class="o">=</span> <span class="n">lk</span><span class="o">.</span><span class="n">search_tesscut</span><span class="p">(</span><span class="s1">'L 98-59'</span><span class="p">)</span><span class="w">
-</span><span class="n">search_tpf</span> <span class="o">=</span> <span class="n">lk</span><span class="o">.</span><span class="n">search_targetpixelfile</span><span class="p">(</span><span class="s1">'L 98-59'</span><span class="p">)</span><span class="w">
-</span><span class="n">search_lcf</span> <span class="o">=</span> <span class="n">lk</span><span class="o">.</span><span class="n">search_lightcurve</span><span class="p">(</span><span class="s1">'L 98-59'</span><span class="p">)</span>
+<span class="n">search_ffi</span> <span class="o">=</span> <span class="n">lk</span><span class="o">.</span><span class="n">search_tesscut</span><span class="p">(</span><span class="s1">'L 98-59'</span><span class="p">)</span>
+<span class="n">search_tpf</span> <span class="o">=</span> <span class="n">lk</span><span class="o">.</span><span class="n">search_targetpixelfile</span><span class="p">(</span><span class="s1">'L 98-59'</span><span class="p">)</span>
+<span class="n">search_lcf</span> <span class="o">=</span> <span class="n">lk</span><span class="o">.</span><span class="n">search_lightcurve</span><span class="p">(</span><span class="s1">'L 98-59'</span><span class="p">)</span>
 </pre>
 <pre class="code ipython3 literal-block">
 <span class="n">search_ffi</span>
@@ -413,8 +413,8 @@ For the purpose of this tutorial, let’s stick to “SPOC” data products
 which have a 2-min cadence. We can return only these results using the
 following commands.</p>
 <pre class="code ipython3 literal-block">
-<span class="n">search_lcf_refined</span> <span class="o">=</span> <span class="n">lk</span><span class="o">.</span><span class="n">search_lightcurve</span><span class="p">(</span><span class="s1">'L 98-59'</span><span class="p">,</span> <span class="n">author</span><span class="o">=</span><span class="s2">&quot;SPOC&quot;</span><span class="p">,</span> <span class="n">exptime</span><span class="o">=</span><span class="mi">120</span><span class="p">)</span><span class="w">
-</span><span class="n">search_lcf_refined</span>
+<span class="n">search_lcf_refined</span> <span class="o">=</span> <span class="n">lk</span><span class="o">.</span><span class="n">search_lightcurve</span><span class="p">(</span><span class="s1">'L 98-59'</span><span class="p">,</span> <span class="n">author</span><span class="o">=</span><span class="s2">&quot;SPOC&quot;</span><span class="p">,</span> <span class="n">exptime</span><span class="o">=</span><span class="mi">120</span><span class="p">)</span>
+<span class="n">search_lcf_refined</span>
 </pre>
 SearchResult containing 15 data products.
 
@@ -520,8 +520,8 @@ sapflux = lcf[0].sap_flux
 <p>Let’s now plot both the pdcsap and sap light curves and see what they
 look like.</p>
 <pre class="code ipython3 literal-block">
-<span class="n">ax</span> <span class="o">=</span> <span class="n">lcf</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">column</span><span class="o">=</span><span class="s1">'sap_flux'</span><span class="p">,</span> <span class="n">normalize</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s2">&quot;SAP&quot;</span><span class="p">);</span><span class="w">
-</span><span class="n">lcf</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">ax</span><span class="o">=</span><span class="n">ax</span><span class="p">,</span> <span class="n">column</span><span class="o">=</span><span class="s1">'pdcsap_flux'</span><span class="p">,</span> <span class="n">normalize</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s2">&quot;PDCSAP&quot;</span><span class="p">);</span>
+<span class="n">ax</span> <span class="o">=</span> <span class="n">lcf</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">column</span><span class="o">=</span><span class="s1">'sap_flux'</span><span class="p">,</span> <span class="n">normalize</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s2">&quot;SAP&quot;</span><span class="p">);</span>
+<span class="n">lcf</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">ax</span><span class="o">=</span><span class="n">ax</span><span class="p">,</span> <span class="n">column</span><span class="o">=</span><span class="s1">'pdcsap_flux'</span><span class="p">,</span> <span class="n">normalize</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s2">&quot;PDCSAP&quot;</span><span class="p">);</span>
 </pre>
 <img alt="" src="images/TSC2-Intro/output_24_0.png" />
 <p>There are some big differences between these two light curves,
@@ -551,8 +551,8 @@ each bin.</li>
 <p>We can use these simply on a light curve object. For this tutorial lets
 stick with the PDCSAP flux.</p>
 <pre class="code ipython3 literal-block">
-<span class="n">ax</span> <span class="o">=</span> <span class="n">lcf</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span><span class="o">.</span><span class="n">plot</span><span class="p">()</span><span class="w">
-</span><span class="n">ax</span><span class="o">.</span><span class="n">set_title</span><span class="p">(</span><span class="s2">&quot;PDCSAP light curve of  L 98-59&quot;</span><span class="p">)</span>
+<span class="n">ax</span> <span class="o">=</span> <span class="n">lcf</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span><span class="o">.</span><span class="n">plot</span><span class="p">()</span>
+<span class="n">ax</span><span class="o">.</span><span class="n">set_title</span><span class="p">(</span><span class="s2">&quot;PDCSAP light curve of  L 98-59&quot;</span><span class="p">)</span>
 </pre>
 <pre class="literal-block">
 Text(0.5, 1.0, 'PDCSAP light curve of  L 98-59')
@@ -562,8 +562,8 @@ Text(0.5, 1.0, 'PDCSAP light curve of  L 98-59')
 <div class="section" id="flattening">
 <h5>Flattening</h5>
 <pre class="code ipython3 literal-block">
-<span class="n">flat_lc</span> <span class="o">=</span> <span class="n">lcf</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span><span class="o">.</span><span class="n">flatten</span><span class="p">(</span><span class="n">window_length</span><span class="o">=</span><span class="mi">401</span><span class="p">)</span><span class="w">
-</span><span class="n">flat_lc</span><span class="o">.</span><span class="n">plot</span><span class="p">();</span>
+<span class="n">flat_lc</span> <span class="o">=</span> <span class="n">lcf</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span><span class="o">.</span><span class="n">flatten</span><span class="p">(</span><span class="n">window_length</span><span class="o">=</span><span class="mi">401</span><span class="p">)</span>
+<span class="n">flat_lc</span><span class="o">.</span><span class="n">plot</span><span class="p">();</span>
 </pre>
 <img alt="" src="images/TSC2-Intro/output_28_0.png" />
 </div>
@@ -573,8 +573,8 @@ Text(0.5, 1.0, 'PDCSAP light curve of  L 98-59')
 paper, we know that planet c has a period of 3.690621 days. We can use
 the <tt class="docutils literal">fold()</tt> function to find the transit in our data as shown below.</p>
 <pre class="code ipython3 literal-block">
-<span class="n">folded_lc</span> <span class="o">=</span> <span class="n">flat_lc</span><span class="o">.</span><span class="n">fold</span><span class="p">(</span><span class="n">period</span><span class="o">=</span><span class="mf">3.690621</span><span class="p">)</span><span class="w">
-</span><span class="n">folded_lc</span><span class="o">.</span><span class="n">plot</span><span class="p">();</span>
+<span class="n">folded_lc</span> <span class="o">=</span> <span class="n">flat_lc</span><span class="o">.</span><span class="n">fold</span><span class="p">(</span><span class="n">period</span><span class="o">=</span><span class="mf">3.690621</span><span class="p">)</span>
+<span class="n">folded_lc</span><span class="o">.</span><span class="n">plot</span><span class="p">();</span>
 </pre>
 <img alt="" src="images/TSC2-Intro/output_30_0.png" />
 </div>
@@ -583,8 +583,8 @@ the <tt class="docutils literal">fold()</tt> function to find the transit in our
 <p>Often, to see a trend, it can be beneficial to bin the data, this can be
 achieved via the <tt class="docutils literal">bin()</tt> function.</p>
 <pre class="code ipython3 literal-block">
-<span class="n">binned_lc</span> <span class="o">=</span> <span class="n">folded_lc</span><span class="o">.</span><span class="n">bin</span><span class="p">(</span><span class="n">time_bin_size</span><span class="o">=</span><span class="mf">0.01</span><span class="p">)</span><span class="w">
-</span><span class="n">binned_lc</span><span class="o">.</span><span class="n">plot</span><span class="p">();</span>
+<span class="n">binned_lc</span> <span class="o">=</span> <span class="n">folded_lc</span><span class="o">.</span><span class="n">bin</span><span class="p">(</span><span class="n">time_bin_size</span><span class="o">=</span><span class="mf">0.01</span><span class="p">)</span>
+<span class="n">binned_lc</span><span class="o">.</span><span class="n">plot</span><span class="p">();</span>
 </pre>
 <img alt="" src="images/TSC2-Intro/output_32_0.png" />
 <p>Great, we can now see our transit very clearly! Note that we can achieve
@@ -669,9 +669,9 @@ aperture photometry, as it doesn’t involve trial and error beyond
 finding the best sigma value. You can define a threshold mask using the
 following code:</p>
 <pre class="code ipython3 literal-block">
-<span class="n">target_mask</span> <span class="o">=</span> <span class="n">ffi_data</span><span class="o">.</span><span class="n">create_threshold_mask</span><span class="p">(</span><span class="n">threshold</span><span class="o">=</span><span class="mi">15</span><span class="p">,</span> <span class="n">reference_pixel</span><span class="o">=</span><span class="s1">'center'</span><span class="p">)</span><span class="w">
-</span><span class="n">n_target_pixels</span> <span class="o">=</span> <span class="n">target_mask</span><span class="o">.</span><span class="n">sum</span><span class="p">()</span><span class="w">
-</span><span class="n">n_target_pixels</span>
+<span class="n">target_mask</span> <span class="o">=</span> <span class="n">ffi_data</span><span class="o">.</span><span class="n">create_threshold_mask</span><span class="p">(</span><span class="n">threshold</span><span class="o">=</span><span class="mi">15</span><span class="p">,</span> <span class="n">reference_pixel</span><span class="o">=</span><span class="s1">'center'</span><span class="p">)</span>
+<span class="n">n_target_pixels</span> <span class="o">=</span> <span class="n">target_mask</span><span class="o">.</span><span class="n">sum</span><span class="p">()</span>
+<span class="n">n_target_pixels</span>
 </pre>
 <pre class="literal-block">
 9
@@ -746,8 +746,8 @@ typically related to <em>TESS’</em> orbit (such as the scattered light effect)
 <p>Lets take a look at the SAP light curves derived from our FFI data and
 the PDCSAP light curve derived from our Light Curve File.</p>
 <pre class="code ipython3 literal-block">
-<span class="n">ax</span> <span class="o">=</span> <span class="n">lcf</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">column</span><span class="o">=</span><span class="s1">'pdcsap_flux'</span><span class="p">,</span> <span class="n">normalize</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s2">&quot;PDCSAP&quot;</span><span class="p">);</span><span class="w">
-</span><span class="n">ffi_lc</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">ax</span><span class="o">=</span><span class="n">ax</span><span class="p">,</span> <span class="n">normalize</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s2">&quot;SAP FFI&quot;</span><span class="p">)</span>
+<span class="n">ax</span> <span class="o">=</span> <span class="n">lcf</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">column</span><span class="o">=</span><span class="s1">'pdcsap_flux'</span><span class="p">,</span> <span class="n">normalize</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s2">&quot;PDCSAP&quot;</span><span class="p">);</span>
+<span class="n">ffi_lc</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">ax</span><span class="o">=</span><span class="n">ax</span><span class="p">,</span> <span class="n">normalize</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s2">&quot;SAP FFI&quot;</span><span class="p">)</span>
 </pre>
 <pre class="literal-block">
 &lt;matplotlib.axes._subplots.AxesSubplot at 0x7f849105ccd0&gt;
