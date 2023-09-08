@@ -8,7 +8,7 @@ The TESS Users Committee (TUC) is a group of approximately ten members from rele
 
 Key areas that the TUC is anticipated to examine include: data processing pipelines, data products, data access, data analysis tools, documentation, General Investigator (GI) program policies and implementation, and observing strategies to optimize science return. 
 
-The [TUC Charter](data/TESS_Users_Committee_Charter_2023Mar29.pdf) describes in more detail the goals and structure of the TUC. Please contact the TUC chair or any member for more information or to submit an idea or topic for a future TUC meeting. TUC meeting dates and agendas will be made publicly available on this website. 
+The [TUC Charter](data/TESS_Users_Committee_Charter_2023Aug15.pdf) describes in more detail the goals and structure of the TUC. Please contact the TUC chair or any member for more information or to submit an idea or topic for a future TUC meeting. TUC meeting dates and agendas will be made publicly available on this website. 
  
 ### 2023-2025 TUC Chair and Members 
 - Dan Huber (chair, email: <huberd@hawaii.edu>), University of Hawai’i & University of Sydney  
