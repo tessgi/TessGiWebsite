@@ -1,0 +1,15 @@
+# TESS Program G06183
+
+Title: Investigating The Rotational Properties Of Be Stars In Binary Systems
+
+PI: Andrade, Laerte - Laboratorio Nacional De Astrofisica
+
+Type: MINI
+
+Summary: We propose the use of TESS data to classify and characterize the binary systems of Be stars observed in Cycle 6. Be stars, as easily observable objects that give a privileged view of the structure of rapidly rotating stars, are among the most suitable laboratories for investigating fundamental problems in contemporary astrophysics, such as the effects of rapid rotation on stellar evolution. In this project, we aim to measure the apsidal motion in binary systems in order to determine the oblateness of Be stars and infer their rotation rates. We will also analyze the residuals of the binary fit model to look for signals of stellar rotation, which will help us constrain the uncertainties of the inferred rotation rates.
+
+
+# Sector 070 targets observed (2 min: 3, 20 s: 0)
+265911941,336.3194,1.3774,4.61,G06073;G06183;G06139
+310852121,345.9693,3.82,4.7,G06073;G06183;G06139
+407933440,60.9763,28.1258,7.96,G06073;G06183;G06139

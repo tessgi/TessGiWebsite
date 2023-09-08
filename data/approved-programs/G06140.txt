@@ -1,0 +1,10 @@
+# TESS Program G06140
+
+Title: TESS Ground-Based Support Using Asas-Sn And Scat
+
+PI: Shappee, Benjamin - University Of Hawaii (Manoa)
+
+Type: LARGE
+
+Summary: The transient sky is ripe for TESS. The FFIs will not only be a treasure trove for exoplanet science, but they also present a great opportunity for the transient community. TESS will uniquely produce high-dynamic range, high-cadence FFI light curves for bright transients. We propose to capitalize on the TESS FFIs in cycle 6 in two ways: 1) At its fastest, TESS can only discover transients after downlinking its data. To alleviate this delay, we will observe the full TESS field with an increased cadence (4-6 times per day) using ASAS-SN. 2) We will spectroscopically classify all bright transients discovered in the TESS footprints using the SCAT survey. The combination of the two will allow the community to obtain the crucial multi-wavelength data needed to put the TESS data in context.
+

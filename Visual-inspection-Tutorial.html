@@ -16,7 +16,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - TESS Science Support Center" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2023-09-07" />
+    <meta name="dc.date.modified" content="2023-09-08" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Users of TESS Data" />
     <meta name="dc.identifier" content="https://heasarc.gsfc.nasa.gov/docs/tess/" />
@@ -202,9 +202,9 @@ arrays via an interactive tool.</p>
 <a class="reference external" href="https://pypi.org/project/opencv-python/">opencv-python</a></p>
 <pre class="code ipython3 literal-block">
 <span class="o">%</span><span class="k">matplotlib</span> inline
-<span class="kn">import</span> <span class="nn">lightkurve</span> <span class="k">as</span> <span class="nn">lk</span><span class="w">
-</span><span class="kn">import</span> <span class="nn">matplotlib.pyplot</span> <span class="k">as</span> <span class="nn">plt</span><span class="w">
-</span><span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="nn">np</span>
+<span class="kn">import</span> <span class="nn">lightkurve</span> <span class="k">as</span> <span class="nn">lk</span>
+<span class="kn">import</span> <span class="nn">matplotlib.pyplot</span> <span class="k">as</span> <span class="nn">plt</span>
+<span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="nn">np</span>
 </pre>
 </div>
 <div class="section" id="defining-terms">
@@ -235,8 +235,8 @@ You can determine which sectors the target was observed in using the
 portal</a>.</p>
 <p>Lets grab our data for Gaia object DR25290850609994130560.</p>
 <pre class="code ipython3 literal-block">
-<span class="n">search_result</span> <span class="o">=</span> <span class="n">lk</span><span class="o">.</span><span class="n">search_tesscut</span><span class="p">(</span><span class="s1">'Gaia DR25290850609994130560'</span><span class="p">)</span><span class="w">
-</span><span class="nb">print</span><span class="p">(</span><span class="n">search_result</span><span class="p">)</span>
+<span class="n">search_result</span> <span class="o">=</span> <span class="n">lk</span><span class="o">.</span><span class="n">search_tesscut</span><span class="p">(</span><span class="s1">'Gaia DR25290850609994130560'</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">search_result</span><span class="p">)</span>
 </pre>
 <pre class="literal-block">
 SearchResult containing 5 data products.
@@ -252,9 +252,9 @@ SearchResult containing 5 data products.
 <p>We see that this object has been observed in 5 sectors. Lets download
 the data for sector 8, and cut out a region of 10 x 10 pixels.</p>
 <pre class="code ipython3 literal-block">
-<span class="n">search_result</span> <span class="o">=</span> <span class="n">lk</span><span class="o">.</span><span class="n">search_tesscut</span><span class="p">(</span><span class="s1">'Gaia DR25290850609994130560'</span><span class="p">,</span> <span class="n">sector</span><span class="o">=</span><span class="mi">8</span><span class="p">)</span><span class="w">
-</span><span class="n">tpfs</span> <span class="o">=</span> <span class="n">search_result</span><span class="o">.</span><span class="n">download</span><span class="p">(</span><span class="n">cutout_size</span><span class="o">=</span><span class="mi">10</span><span class="p">)</span><span class="w">
-</span><span class="n">tpfs</span>
+<span class="n">search_result</span> <span class="o">=</span> <span class="n">lk</span><span class="o">.</span><span class="n">search_tesscut</span><span class="p">(</span><span class="s1">'Gaia DR25290850609994130560'</span><span class="p">,</span> <span class="n">sector</span><span class="o">=</span><span class="mi">8</span><span class="p">)</span>
+<span class="n">tpfs</span> <span class="o">=</span> <span class="n">search_result</span><span class="o">.</span><span class="n">download</span><span class="p">(</span><span class="n">cutout_size</span><span class="o">=</span><span class="mi">10</span><span class="p">)</span>
+<span class="n">tpfs</span>
 </pre>
 <pre class="literal-block">
 TessTargetPixelFile(TICID: Gaia DR25290850609994130560)
@@ -267,16 +267,16 @@ therefore define our own as in the previous <a class="reference external" href="
 Tutorial</a>. We can define our mask initially
 using a threshold cut as shown below.</p>
 <pre class="code ipython3 literal-block">
-<span class="n">target_mask</span> <span class="o">=</span> <span class="n">tpfs</span><span class="o">.</span><span class="n">create_threshold_mask</span><span class="p">(</span><span class="n">threshold</span><span class="o">=</span><span class="mi">10</span><span class="p">,</span> <span class="n">reference_pixel</span><span class="o">=</span><span class="s1">'center'</span><span class="p">)</span><span class="w">
-</span><span class="n">tpfs</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">aperture_mask</span><span class="o">=</span><span class="n">target_mask</span><span class="p">,</span> <span class="n">mask_color</span><span class="o">=</span><span class="s1">'r'</span><span class="p">);</span>
+<span class="n">target_mask</span> <span class="o">=</span> <span class="n">tpfs</span><span class="o">.</span><span class="n">create_threshold_mask</span><span class="p">(</span><span class="n">threshold</span><span class="o">=</span><span class="mi">10</span><span class="p">,</span> <span class="n">reference_pixel</span><span class="o">=</span><span class="s1">'center'</span><span class="p">)</span>
+<span class="n">tpfs</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">aperture_mask</span><span class="o">=</span><span class="n">target_mask</span><span class="p">,</span> <span class="n">mask_color</span><span class="o">=</span><span class="s1">'r'</span><span class="p">);</span>
 </pre>
 <img alt="" src="images/Visual-inspection_files/Visual-inspection_10_0.png" />
 <p>Oh no! It looks like the bright object next to our object of interest
 was covered. We have to correct this by specifying a mask array.</p>
 <pre class="code ipython3 literal-block">
-<span class="n">aper_new</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">zeros</span><span class="p">(</span><span class="n">tpfs</span><span class="o">.</span><span class="n">shape</span><span class="p">[</span><span class="mi">1</span><span class="p">:],</span> <span class="n">dtype</span><span class="o">=</span><span class="nb">bool</span><span class="p">)</span><span class="w">
-</span><span class="n">aper_new</span><span class="p">[</span><span class="mi">4</span><span class="p">:</span><span class="mi">6</span><span class="p">,</span> <span class="mi">5</span><span class="p">:</span><span class="mi">7</span><span class="p">]</span> <span class="o">=</span> <span class="kc">True</span><span class="w">
-</span><span class="n">tpfs</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">aperture_mask</span><span class="o">=</span><span class="n">aper_new</span><span class="p">,</span> <span class="n">mask_color</span><span class="o">=</span><span class="s1">'red'</span><span class="p">)</span>
+<span class="n">aper_new</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">zeros</span><span class="p">(</span><span class="n">tpfs</span><span class="o">.</span><span class="n">shape</span><span class="p">[</span><span class="mi">1</span><span class="p">:],</span> <span class="n">dtype</span><span class="o">=</span><span class="nb">bool</span><span class="p">)</span>
+<span class="n">aper_new</span><span class="p">[</span><span class="mi">4</span><span class="p">:</span><span class="mi">6</span><span class="p">,</span> <span class="mi">5</span><span class="p">:</span><span class="mi">7</span><span class="p">]</span> <span class="o">=</span> <span class="kc">True</span>
+<span class="n">tpfs</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">aperture_mask</span><span class="o">=</span><span class="n">aper_new</span><span class="p">,</span> <span class="n">mask_color</span><span class="o">=</span><span class="s1">'red'</span><span class="p">)</span>
 </pre>
 <pre class="literal-block">
 &lt;matplotlib.axes._subplots.AxesSubplot at 0x7ffa71fad710&gt;
@@ -285,8 +285,8 @@ was covered. We have to correct this by specifying a mask array.</p>
 <p>OK phew! Our object is now covered by the aperture. Lets take a look at
 the light curve data using this aperture.</p>
 <pre class="code ipython3 literal-block">
-<span class="n">target_lc</span> <span class="o">=</span> <span class="n">tpfs</span><span class="o">.</span><span class="n">to_lightcurve</span><span class="p">(</span><span class="n">aperture_mask</span><span class="o">=</span><span class="n">aper_new</span><span class="p">)</span><span class="w">
-</span><span class="n">target_lc</span><span class="o">.</span><span class="n">scatter</span><span class="p">(</span><span class="n">label</span><span class="o">=</span><span class="s1">'Target + background'</span><span class="p">)</span>
+<span class="n">target_lc</span> <span class="o">=</span> <span class="n">tpfs</span><span class="o">.</span><span class="n">to_lightcurve</span><span class="p">(</span><span class="n">aperture_mask</span><span class="o">=</span><span class="n">aper_new</span><span class="p">)</span>
+<span class="n">target_lc</span><span class="o">.</span><span class="n">scatter</span><span class="p">(</span><span class="n">label</span><span class="o">=</span><span class="s1">'Target + background'</span><span class="p">)</span>
 </pre>
 <pre class="literal-block">
 &lt;matplotlib.axes._subplots.AxesSubplot at 0x7ffa91274240&gt;
@@ -338,8 +338,8 @@ the tool tips list the cadence, time, flux, and quality flags.</p>
 selection.</p>
 <p>The gif below illustrates these features and more,</p>
 <pre class="code ipython3 literal-block">
-<span class="kn">from</span> <span class="nn">IPython.display</span> <span class="kn">import</span> <span class="n">Image</span><span class="w">
-</span><span class="n">Image</span><span class="p">(</span><span class="n">url</span><span class="o">=</span><span class="s1">'https://docs.lightkurve.org/_images/20180925_interact_EB_contam.gif'</span><span class="p">)</span>
+<span class="kn">from</span> <span class="nn">IPython.display</span> <span class="kn">import</span> <span class="n">Image</span>
+<span class="n">Image</span><span class="p">(</span><span class="n">url</span><span class="o">=</span><span class="s1">'https://docs.lightkurve.org/_images/20180925_interact_EB_contam.gif'</span><span class="p">)</span>
 </pre>
 <img src="https://docs.lightkurve.org/_images/20180925_interact_EB_contam.gif"/><p>Lets move the cadence slider to a the peak flux date, so somewhere
 around 1435 days. If you do this you see that the entire TPF becomes
@@ -358,8 +358,8 @@ When the Earth is below the level of the sun shade there is no scattered
 light. When the Earth or Moon is directly in the FoV of a camera the
 data is no longer viable.</p>
 <pre class="code ipython3 literal-block">
-<span class="kn">from</span> <span class="nn">IPython.lib.display</span> <span class="kn">import</span> <span class="n">YouTubeVideo</span><span class="w">
-</span><span class="n">YouTubeVideo</span><span class="p">(</span><span class="s1">'https://www.youtube.com/watch?v=p_B85Lot8iU'</span><span class="p">)</span>
+<span class="kn">from</span> <span class="nn">IPython.lib.display</span> <span class="kn">import</span> <span class="n">YouTubeVideo</span>
+<span class="n">YouTubeVideo</span><span class="p">(</span><span class="s1">'https://www.youtube.com/watch?v=p_B85Lot8iU'</span><span class="p">)</span>
 </pre>
 <iframe
     width="400"
@@ -408,52 +408,52 @@ A work around to this is described below.</p>
 aperture mask, and save these pixels in an array to be applied at a
 later point. This avoids having to create a fits file.</p>
 <pre class="code ipython3 literal-block">
-<span class="k">def</span> <span class="nf">image_inspect</span><span class="p">(</span><span class="n">tess_cut</span><span class="p">,</span> <span class="n">epoch</span><span class="p">):</span><span class="w">
-</span>    <span class="kn">import</span> <span class="nn">astrowidgets</span><span class="w">
-</span>    <span class="kn">from</span> <span class="nn">astrowidgets</span> <span class="kn">import</span> <span class="n">ImageWidget</span><span class="w">
+<span class="k">def</span> <span class="nf">image_inspect</span><span class="p">(</span><span class="n">tess_cut</span><span class="p">,</span> <span class="n">epoch</span><span class="p">):</span>
+    <span class="kn">import</span> <span class="nn">astrowidgets</span>
+    <span class="kn">from</span> <span class="nn">astrowidgets</span> <span class="kn">import</span> <span class="n">ImageWidget</span>
 
-</span>    <span class="n">iw</span> <span class="o">=</span> <span class="n">ImageWidget</span><span class="p">()</span><span class="w">
-</span>    <span class="n">iw</span><span class="o">.</span><span class="n">load_array</span><span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">array</span><span class="p">(</span><span class="n">tess_cut</span><span class="o">.</span><span class="n">flux</span><span class="p">[</span><span class="n">epoch</span><span class="p">]))</span><span class="w">
+    <span class="n">iw</span> <span class="o">=</span> <span class="n">ImageWidget</span><span class="p">()</span>
+    <span class="n">iw</span><span class="o">.</span><span class="n">load_array</span><span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">array</span><span class="p">(</span><span class="n">tess_cut</span><span class="o">.</span><span class="n">flux</span><span class="p">[</span><span class="n">epoch</span><span class="p">]))</span>
 
-</span>    <span class="n">gv</span> <span class="o">=</span> <span class="n">iw</span><span class="o">.</span><span class="n">_viewer</span><span class="w">
-</span>    <span class="c1"># set a color map on the viewer</span><span class="w">
-</span>    <span class="n">gv</span><span class="o">.</span><span class="n">set_color_map</span><span class="p">(</span><span class="s1">'jet'</span><span class="p">)</span><span class="w">
-</span>    <span class="c1"># Set color distribution algorithm</span><span class="w">
-</span>    <span class="c1"># choices: linear, log, power, sqrt, squared, asinh, sinh, histeq,</span><span class="w">
-</span>    <span class="n">gv</span><span class="o">.</span><span class="n">set_color_algorithm</span><span class="p">(</span><span class="s1">'linear'</span><span class="p">)</span><span class="w">
-</span>    <span class="n">gv</span><span class="o">.</span><span class="n">auto_levels</span><span class="p">()</span><span class="w">
+    <span class="n">gv</span> <span class="o">=</span> <span class="n">iw</span><span class="o">.</span><span class="n">_viewer</span>
+    <span class="c1"># set a color map on the viewer</span>
+    <span class="n">gv</span><span class="o">.</span><span class="n">set_color_map</span><span class="p">(</span><span class="s1">'jet'</span><span class="p">)</span>
+    <span class="c1"># Set color distribution algorithm</span>
+    <span class="c1"># choices: linear, log, power, sqrt, squared, asinh, sinh, histeq,</span>
+    <span class="n">gv</span><span class="o">.</span><span class="n">set_color_algorithm</span><span class="p">(</span><span class="s1">'linear'</span><span class="p">)</span>
+    <span class="n">gv</span><span class="o">.</span><span class="n">auto_levels</span><span class="p">()</span>
 
-</span>    <span class="n">canvas</span> <span class="o">=</span> <span class="n">gv</span><span class="o">.</span><span class="n">add_canvas</span><span class="p">()</span><span class="w">
-</span>    <span class="n">canvas</span><span class="o">.</span><span class="n">delete_all_objects</span><span class="p">()</span><span class="w">
-</span>    <span class="n">canvas</span><span class="o">.</span><span class="n">set_drawtype</span><span class="p">(</span><span class="s1">'point'</span><span class="p">,</span> <span class="n">color</span><span class="o">=</span><span class="s1">'black'</span><span class="p">)</span><span class="w">
+    <span class="n">canvas</span> <span class="o">=</span> <span class="n">gv</span><span class="o">.</span><span class="n">add_canvas</span><span class="p">()</span>
+    <span class="n">canvas</span><span class="o">.</span><span class="n">delete_all_objects</span><span class="p">()</span>
+    <span class="n">canvas</span><span class="o">.</span><span class="n">set_drawtype</span><span class="p">(</span><span class="s1">'point'</span><span class="p">,</span> <span class="n">color</span><span class="o">=</span><span class="s1">'black'</span><span class="p">)</span>
 
-</span>    <span class="k">return</span> <span class="n">iw</span><span class="p">,</span> <span class="n">canvas</span><span class="w">
+    <span class="k">return</span> <span class="n">iw</span><span class="p">,</span> <span class="n">canvas</span>
 
-</span><span class="k">def</span> <span class="nf">inter_mask</span><span class="p">(</span><span class="n">canvas</span><span class="p">):</span><span class="w">
+<span class="k">def</span> <span class="nf">inter_mask</span><span class="p">(</span><span class="n">canvas</span><span class="p">):</span>
 
-</span>    <span class="n">mask_arrayx</span><span class="o">=</span><span class="p">[]</span><span class="w">
-</span>    <span class="n">mask_arrayy</span><span class="o">=</span><span class="p">[]</span><span class="w">
+    <span class="n">mask_arrayx</span><span class="o">=</span><span class="p">[]</span>
+    <span class="n">mask_arrayy</span><span class="o">=</span><span class="p">[]</span>
 
-</span>    <span class="n">aper_out</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">zeros</span><span class="p">([</span><span class="mi">10</span><span class="p">,</span><span class="mi">10</span><span class="p">],</span> <span class="n">dtype</span><span class="o">=</span><span class="nb">bool</span><span class="p">)</span><span class="w">
+    <span class="n">aper_out</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">zeros</span><span class="p">([</span><span class="mi">10</span><span class="p">,</span><span class="mi">10</span><span class="p">],</span> <span class="n">dtype</span><span class="o">=</span><span class="nb">bool</span><span class="p">)</span>
 
-</span>    <span class="k">for</span> <span class="n">a</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="nb">len</span><span class="p">(</span><span class="n">canvas</span><span class="o">.</span><span class="n">objects</span><span class="p">)):</span><span class="w">
-</span>        <span class="n">p</span> <span class="o">=</span> <span class="n">canvas</span><span class="o">.</span><span class="n">objects</span><span class="p">[</span><span class="n">a</span><span class="p">]</span><span class="w">
-</span>        <span class="nb">print</span><span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">round</span><span class="p">(</span><span class="n">p</span><span class="o">.</span><span class="n">x</span><span class="p">,</span><span class="mi">0</span><span class="p">),</span><span class="n">np</span><span class="o">.</span><span class="n">round</span><span class="p">(</span><span class="n">p</span><span class="o">.</span><span class="n">y</span><span class="p">,</span><span class="mi">0</span><span class="p">))</span><span class="w">
-</span>        <span class="n">mask_arrayx</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="nb">int</span><span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">round</span><span class="p">(</span><span class="n">p</span><span class="o">.</span><span class="n">x</span><span class="p">,</span><span class="mi">0</span><span class="p">)))</span><span class="w">
-</span>        <span class="n">mask_arrayy</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="nb">int</span><span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">round</span><span class="p">(</span><span class="n">p</span><span class="o">.</span><span class="n">y</span><span class="p">,</span><span class="mi">0</span><span class="p">)))</span><span class="w">
+    <span class="k">for</span> <span class="n">a</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="nb">len</span><span class="p">(</span><span class="n">canvas</span><span class="o">.</span><span class="n">objects</span><span class="p">)):</span>
+        <span class="n">p</span> <span class="o">=</span> <span class="n">canvas</span><span class="o">.</span><span class="n">objects</span><span class="p">[</span><span class="n">a</span><span class="p">]</span>
+        <span class="nb">print</span><span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">round</span><span class="p">(</span><span class="n">p</span><span class="o">.</span><span class="n">x</span><span class="p">,</span><span class="mi">0</span><span class="p">),</span><span class="n">np</span><span class="o">.</span><span class="n">round</span><span class="p">(</span><span class="n">p</span><span class="o">.</span><span class="n">y</span><span class="p">,</span><span class="mi">0</span><span class="p">))</span>
+        <span class="n">mask_arrayx</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="nb">int</span><span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">round</span><span class="p">(</span><span class="n">p</span><span class="o">.</span><span class="n">x</span><span class="p">,</span><span class="mi">0</span><span class="p">)))</span>
+        <span class="n">mask_arrayy</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="nb">int</span><span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">round</span><span class="p">(</span><span class="n">p</span><span class="o">.</span><span class="n">y</span><span class="p">,</span><span class="mi">0</span><span class="p">)))</span>
 
-</span>        <span class="n">aper_out</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">zeros</span><span class="p">([</span><span class="mi">10</span><span class="p">,</span><span class="mi">10</span><span class="p">],</span> <span class="n">dtype</span><span class="o">=</span><span class="nb">bool</span><span class="p">)</span><span class="w">
-</span>        <span class="n">aper_out</span><span class="p">[</span><span class="n">mask_arrayy</span><span class="p">,</span><span class="n">mask_arrayx</span><span class="p">]</span> <span class="o">=</span> <span class="kc">True</span><span class="w">
+        <span class="n">aper_out</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">zeros</span><span class="p">([</span><span class="mi">10</span><span class="p">,</span><span class="mi">10</span><span class="p">],</span> <span class="n">dtype</span><span class="o">=</span><span class="nb">bool</span><span class="p">)</span>
+        <span class="n">aper_out</span><span class="p">[</span><span class="n">mask_arrayy</span><span class="p">,</span><span class="n">mask_arrayx</span><span class="p">]</span> <span class="o">=</span> <span class="kc">True</span>
 
-</span>    <span class="k">return</span> <span class="n">aper_out</span>
+    <span class="k">return</span> <span class="n">aper_out</span>
 </pre>
 <p>The following lines of code will bring up a <em>canvas</em> displaying the TPF.
 The user can place their mouse on the canvas and select pixels via
 clicking on them, this will bring up a black cross. The pixels selected
 will then be stored in an array that can be applied as an aperture mask.</p>
 <pre class="code ipython3 literal-block">
-<span class="n">iw</span><span class="p">,</span> <span class="n">canvas</span> <span class="o">=</span> <span class="n">image_inspect</span><span class="p">(</span><span class="n">tpfs</span><span class="p">,</span> <span class="mi">1</span><span class="p">)</span><span class="w">
-</span><span class="n">iw</span>
+<span class="n">iw</span><span class="p">,</span> <span class="n">canvas</span> <span class="o">=</span> <span class="n">image_inspect</span><span class="p">(</span><span class="n">tpfs</span><span class="p">,</span> <span class="mi">1</span><span class="p">)</span>
+<span class="n">iw</span>
 </pre>
 <pre class="literal-block">
 ImageWidget(children=(Image(value=b'xffxd8xffxe0x00x10JFIFx00x01x01x00x00x01x00x01x00x00xffx…
@@ -482,8 +482,8 @@ it falls where we expect.</p>
 <p>Our interactive aperture is exactly where we expect it to be. Lets now
 look at the flux in that aperture and plot up its light curve.</p>
 <pre class="code ipython3 literal-block">
-<span class="n">target_lc</span><span class="o">=</span> <span class="n">tpfs</span><span class="o">.</span><span class="n">to_lightcurve</span><span class="p">(</span><span class="n">aperture_mask</span><span class="o">=</span><span class="n">aper2</span><span class="p">)</span><span class="w">
-</span><span class="nb">print</span><span class="p">(</span><span class="n">target_lc</span><span class="p">)</span>
+<span class="n">target_lc</span><span class="o">=</span> <span class="n">tpfs</span><span class="o">.</span><span class="n">to_lightcurve</span><span class="p">(</span><span class="n">aperture_mask</span><span class="o">=</span><span class="n">aper2</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">target_lc</span><span class="p">)</span>
 </pre>
 <pre class="literal-block">
        time               flux            flux_err      ... cadenceno quality

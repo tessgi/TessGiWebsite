@@ -1,0 +1,16 @@
+# TESS Program G06142
+
+Title: Uniform Analysis Of Systematic Errors And Eccentricities In 83 Hot Jupiters
+
+PI: Duck, Alison - Ohio State University
+
+Type: SMALL
+
+Summary: Transit surveys such as TESS serve as finder scopes to determine optimal exoplanet candidates for follow-up from missions like JWST and ARIEL. We aim to tightly constrain the physical parameters of transiting systems and reduce observational overhead. However, unquantified systematic uncertainties occur in inferred parameters of planets and their host stars due to heterogenous stellar characterization methods. We can reduce these uncertainties through the use of consistent stellar modeling, Gaia DR3 parallaxes, SEDs, and high cadence TESS photometry. We propose to obtain 20s-cadence postage-stamp photometry of a sample of 83 hot Jupiters and to perform a uniform analysis of these systems using all available data to refine physical parameters and eccentricities.
+
+
+# Sector 070 targets observed (2 min: 4, 20 s: 4)
+176220787,0.3258,-8.9262,9.48,G06062;G06165;G06200;G06058;G06032;G06203;G06142;20SECONDTARGET
+36592530,342.386,-10.6754,10.93,G06062;G06165;G06058;G06032;G06142;20SECONDTARGET
+380907135,19.5506,2.7028,10.56,G06062;G06165;G06058;G06032;G06142;20SECONDTARGET
+422655579,29.2635,0.7588,10.16,G06062;G06165;G06058;G06032;G06203;G06142;20SECONDTARGET

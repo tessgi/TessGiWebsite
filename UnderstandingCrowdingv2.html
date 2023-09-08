@@ -16,7 +16,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - TESS Science Support Center" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2023-09-07" />
+    <meta name="dc.date.modified" content="2023-09-08" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Users of TESS Data" />
     <meta name="dc.identifier" content="https://heasarc.gsfc.nasa.gov/docs/tess/" />
@@ -232,12 +232,12 @@ command at the top of your colab notebook:</p>
 <p><tt class="docutils literal">!pip install <span class="pre">git+https://github.com/lightkurve/lightkurve.git</span> <span class="pre">--quiet</span></tt></p>
 <p>This downloads the <em>Lightkurve</em> package.</p>
 <pre class="code ipython3 literal-block">
-<span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="nn">np</span><span class="w">
-</span><span class="kn">import</span> <span class="nn">lightkurve</span> <span class="k">as</span> <span class="nn">lk</span><span class="w">
-</span><span class="kn">import</span> <span class="nn">matplotlib.pyplot</span> <span class="k">as</span> <span class="nn">plt</span><span class="w">
-</span><span class="kn">from</span> <span class="nn">lightkurve.correctors</span> <span class="kn">import</span> <span class="n">RegressionCorrector</span><span class="p">,</span> <span class="n">DesignMatrix</span><span class="w">
-</span><span class="kn">from</span> <span class="nn">lightkurve.correctors</span> <span class="kn">import</span> <span class="n">PLDCorrector</span><span class="w">
-</span><span class="kn">import</span> <span class="nn">warnings</span>
+<span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="nn">np</span>
+<span class="kn">import</span> <span class="nn">lightkurve</span> <span class="k">as</span> <span class="nn">lk</span>
+<span class="kn">import</span> <span class="nn">matplotlib.pyplot</span> <span class="k">as</span> <span class="nn">plt</span>
+<span class="kn">from</span> <span class="nn">lightkurve.correctors</span> <span class="kn">import</span> <span class="n">RegressionCorrector</span><span class="p">,</span> <span class="n">DesignMatrix</span>
+<span class="kn">from</span> <span class="nn">lightkurve.correctors</span> <span class="kn">import</span> <span class="n">PLDCorrector</span>
+<span class="kn">import</span> <span class="nn">warnings</span>
 </pre>
 </div>
 <div class="section" id="introduction-into-crowding">
@@ -274,8 +274,8 @@ additional crowding effect.</p>
 <a class="reference external" href="https://en.wikipedia.org/wiki/WR_21a">WR21a</a>. Let’s first see if
 there are any LightCurve objects avalible for download.</p>
 <pre class="code ipython3 literal-block">
-<span class="n">search_lk</span> <span class="o">=</span> <span class="n">lk</span><span class="o">.</span><span class="n">search_lightcurve</span><span class="p">(</span><span class="s2">&quot;WR21a&quot;</span><span class="p">)</span><span class="w">
-</span><span class="n">search_lk</span>
+<span class="n">search_lk</span> <span class="o">=</span> <span class="n">lk</span><span class="o">.</span><span class="n">search_lightcurve</span><span class="p">(</span><span class="s2">&quot;WR21a&quot;</span><span class="p">)</span>
+<span class="n">search_lk</span>
 </pre>
 SearchResult containing 4 data products.
 
@@ -290,8 +290,8 @@ SearchResult containing 4 data products.
 will examining data from Sector 36 which is provided by the SPOC. We can
 download this via the following functions,</p>
 <pre class="code ipython3 literal-block">
-<span class="n">lc36</span> <span class="o">=</span> <span class="n">search_lk</span><span class="p">[</span><span class="mi">2</span><span class="p">]</span><span class="o">.</span><span class="n">download</span><span class="p">()</span><span class="w">
-</span><span class="n">lc36</span><span class="o">.</span><span class="n">plot</span><span class="p">()</span>
+<span class="n">lc36</span> <span class="o">=</span> <span class="n">search_lk</span><span class="p">[</span><span class="mi">2</span><span class="p">]</span><span class="o">.</span><span class="n">download</span><span class="p">()</span>
+<span class="n">lc36</span><span class="o">.</span><span class="n">plot</span><span class="p">()</span>
 </pre>
 <pre class="literal-block">
 &lt;matplotlib.axes._subplots.AxesSubplot at 0x7fc6e008eed0&gt;
@@ -302,9 +302,9 @@ the PDCSAP flux which has been fully corrected. Let’s see what the SAP
 flux looks like in comparison. We can do this by specifying the column
 in the plot function.</p>
 <pre class="code ipython3 literal-block">
-<span class="n">ax</span> <span class="o">=</span> <span class="n">lc36</span><span class="o">.</span><span class="n">scatter</span><span class="p">(</span><span class="n">normalize</span><span class="o">=</span><span class="kc">False</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s1">'PDCSAP'</span><span class="p">)</span><span class="w">
-</span><span class="n">lc36</span><span class="o">.</span><span class="n">scatter</span><span class="p">(</span><span class="n">ax</span><span class="o">=</span><span class="n">ax</span><span class="p">,</span> <span class="n">column</span><span class="o">=</span><span class="s1">'sap_flux'</span><span class="p">,</span> <span class="n">normalize</span><span class="o">=</span><span class="kc">False</span><span class="p">,</span> <span class="n">color</span><span class="o">=</span><span class="s1">'red'</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s1">'SAP'</span><span class="p">)</span><span class="w">
-</span><span class="n">plt</span><span class="o">.</span><span class="n">xlim</span><span class="p">(</span><span class="n">xmin</span><span class="o">=</span><span class="mi">2290</span><span class="p">,</span> <span class="n">xmax</span><span class="o">=</span><span class="mi">2293</span><span class="p">)</span>
+<span class="n">ax</span> <span class="o">=</span> <span class="n">lc36</span><span class="o">.</span><span class="n">scatter</span><span class="p">(</span><span class="n">normalize</span><span class="o">=</span><span class="kc">False</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s1">'PDCSAP'</span><span class="p">)</span>
+<span class="n">lc36</span><span class="o">.</span><span class="n">scatter</span><span class="p">(</span><span class="n">ax</span><span class="o">=</span><span class="n">ax</span><span class="p">,</span> <span class="n">column</span><span class="o">=</span><span class="s1">'sap_flux'</span><span class="p">,</span> <span class="n">normalize</span><span class="o">=</span><span class="kc">False</span><span class="p">,</span> <span class="n">color</span><span class="o">=</span><span class="s1">'red'</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s1">'SAP'</span><span class="p">)</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">xlim</span><span class="p">(</span><span class="n">xmin</span><span class="o">=</span><span class="mi">2290</span><span class="p">,</span> <span class="n">xmax</span><span class="o">=</span><span class="mi">2293</span><span class="p">)</span>
 </pre>
 <pre class="literal-block">
 (2290, 2293)
@@ -317,9 +317,9 @@ magnitudes of the light curves.</p>
 <p>Now we plot the normalized PDCSAP and SAP flux to show that the transit
 depth has changed.</p>
 <pre class="code ipython3 literal-block">
-<span class="n">ax</span> <span class="o">=</span> <span class="n">lc36</span><span class="o">.</span><span class="n">scatter</span><span class="p">(</span><span class="n">normalize</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s1">'PDCSAP'</span><span class="p">)</span><span class="w">
-</span><span class="n">lc36</span><span class="o">.</span><span class="n">scatter</span><span class="p">(</span><span class="n">ax</span><span class="o">=</span><span class="n">ax</span><span class="p">,</span> <span class="n">column</span><span class="o">=</span><span class="s1">'sap_flux'</span><span class="p">,</span> <span class="n">normalize</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">color</span><span class="o">=</span><span class="s1">'red'</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s1">'SAP'</span><span class="p">)</span><span class="w">
-</span><span class="n">plt</span><span class="o">.</span><span class="n">xlim</span><span class="p">(</span><span class="n">xmin</span><span class="o">=</span><span class="mi">2290</span><span class="p">,</span> <span class="n">xmax</span><span class="o">=</span><span class="mi">2293</span><span class="p">)</span>
+<span class="n">ax</span> <span class="o">=</span> <span class="n">lc36</span><span class="o">.</span><span class="n">scatter</span><span class="p">(</span><span class="n">normalize</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s1">'PDCSAP'</span><span class="p">)</span>
+<span class="n">lc36</span><span class="o">.</span><span class="n">scatter</span><span class="p">(</span><span class="n">ax</span><span class="o">=</span><span class="n">ax</span><span class="p">,</span> <span class="n">column</span><span class="o">=</span><span class="s1">'sap_flux'</span><span class="p">,</span> <span class="n">normalize</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">color</span><span class="o">=</span><span class="s1">'red'</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s1">'SAP'</span><span class="p">)</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">xlim</span><span class="p">(</span><span class="n">xmin</span><span class="o">=</span><span class="mi">2290</span><span class="p">,</span> <span class="n">xmax</span><span class="o">=</span><span class="mi">2293</span><span class="p">)</span>
 </pre>
 <pre class="literal-block">
 (2290, 2293)
@@ -356,8 +356,8 @@ to remove the contaminating flux.</p>
 <p>To do this, we must first create the light curve of the object using the
 default mask, as shown below.</p>
 <pre class="code ipython3 literal-block">
-<span class="n">tpf_lc</span> <span class="o">=</span> <span class="n">tpf</span><span class="o">.</span><span class="n">to_lightcurve</span><span class="p">(</span><span class="n">aperture_mask</span><span class="o">=</span><span class="n">tpf</span><span class="o">.</span><span class="n">pipeline_mask</span><span class="p">)</span><span class="w">
-</span><span class="n">tpf_lc</span><span class="o">.</span><span class="n">plot</span><span class="p">()</span>
+<span class="n">tpf_lc</span> <span class="o">=</span> <span class="n">tpf</span><span class="o">.</span><span class="n">to_lightcurve</span><span class="p">(</span><span class="n">aperture_mask</span><span class="o">=</span><span class="n">tpf</span><span class="o">.</span><span class="n">pipeline_mask</span><span class="p">)</span>
+<span class="n">tpf_lc</span><span class="o">.</span><span class="n">plot</span><span class="p">()</span>
 </pre>
 <pre class="literal-block">
 &lt;matplotlib.axes._subplots.AxesSubplot at 0x7fc730838450&gt;
@@ -376,25 +376,25 @@ this case <a class="reference external" href="https://docs.lightkurve.org/tutori
 <p>The inputs required are the TPF, the aperture, and the number of
 principal componants.</p>
 <pre class="code ipython3 literal-block">
-<span class="n">pld</span> <span class="o">=</span> <span class="n">PLDCorrector</span><span class="p">(</span><span class="n">tpf</span><span class="p">,</span> <span class="n">aperture_mask</span><span class="o">=</span><span class="n">tpf</span><span class="o">.</span><span class="n">pipeline_mask</span><span class="p">)</span><span class="w">
-</span><span class="n">pld</span><span class="o">.</span><span class="n">correct</span><span class="p">(</span><span class="n">pca_components</span><span class="o">=</span><span class="mi">5</span><span class="p">)</span><span class="w">
-</span><span class="n">pltAxis</span> <span class="o">=</span> <span class="n">pld</span><span class="o">.</span><span class="n">diagnose</span><span class="p">()</span><span class="w">
-</span><span class="n">pltAxis</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span><span class="o">.</span><span class="n">set_ylim</span><span class="p">(</span><span class="n">ymin</span><span class="o">=</span><span class="mi">6000</span><span class="p">,</span> <span class="n">ymax</span><span class="o">=</span><span class="mi">8000</span><span class="p">)</span><span class="w">
-</span><span class="n">pltAxis</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span><span class="o">.</span><span class="n">set_ylim</span><span class="p">(</span><span class="n">ymin</span><span class="o">=</span><span class="mi">6000</span><span class="p">,</span> <span class="n">ymax</span><span class="o">=</span><span class="mi">8000</span><span class="p">)</span><span class="w">
-</span><span class="n">pltAxis</span><span class="p">[</span><span class="mi">2</span><span class="p">]</span><span class="o">.</span><span class="n">set_ylim</span><span class="p">(</span><span class="n">ymin</span><span class="o">=</span><span class="mi">6000</span><span class="p">,</span> <span class="n">ymax</span><span class="o">=</span><span class="mi">8000</span><span class="p">)</span><span class="w">
+<span class="n">pld</span> <span class="o">=</span> <span class="n">PLDCorrector</span><span class="p">(</span><span class="n">tpf</span><span class="p">,</span> <span class="n">aperture_mask</span><span class="o">=</span><span class="n">tpf</span><span class="o">.</span><span class="n">pipeline_mask</span><span class="p">)</span>
+<span class="n">pld</span><span class="o">.</span><span class="n">correct</span><span class="p">(</span><span class="n">pca_components</span><span class="o">=</span><span class="mi">5</span><span class="p">)</span>
+<span class="n">pltAxis</span> <span class="o">=</span> <span class="n">pld</span><span class="o">.</span><span class="n">diagnose</span><span class="p">()</span>
+<span class="n">pltAxis</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span><span class="o">.</span><span class="n">set_ylim</span><span class="p">(</span><span class="n">ymin</span><span class="o">=</span><span class="mi">6000</span><span class="p">,</span> <span class="n">ymax</span><span class="o">=</span><span class="mi">8000</span><span class="p">)</span>
+<span class="n">pltAxis</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span><span class="o">.</span><span class="n">set_ylim</span><span class="p">(</span><span class="n">ymin</span><span class="o">=</span><span class="mi">6000</span><span class="p">,</span> <span class="n">ymax</span><span class="o">=</span><span class="mi">8000</span><span class="p">)</span>
+<span class="n">pltAxis</span><span class="p">[</span><span class="mi">2</span><span class="p">]</span><span class="o">.</span><span class="n">set_ylim</span><span class="p">(</span><span class="n">ymin</span><span class="o">=</span><span class="mi">6000</span><span class="p">,</span> <span class="n">ymax</span><span class="o">=</span><span class="mi">8000</span><span class="p">)</span>
 
 
-</span><span class="n">pld</span><span class="o">.</span><span class="n">diagnose_masks</span><span class="p">();</span><span class="w">
-</span><span class="n">pld_lc</span> <span class="o">=</span> <span class="n">pld</span><span class="o">.</span><span class="n">correct</span><span class="p">(</span><span class="n">pca_components</span><span class="o">=</span><span class="mi">5</span><span class="p">,</span> <span class="n">aperture_mask</span><span class="o">=</span><span class="n">tpf</span><span class="o">.</span><span class="n">pipeline_mask</span><span class="p">)</span>
+<span class="n">pld</span><span class="o">.</span><span class="n">diagnose_masks</span><span class="p">();</span>
+<span class="n">pld_lc</span> <span class="o">=</span> <span class="n">pld</span><span class="o">.</span><span class="n">correct</span><span class="p">(</span><span class="n">pca_components</span><span class="o">=</span><span class="mi">5</span><span class="p">,</span> <span class="n">aperture_mask</span><span class="o">=</span><span class="n">tpf</span><span class="o">.</span><span class="n">pipeline_mask</span><span class="p">)</span>
 </pre>
 <img alt="" src="images/UnderstandingCrowding/output_23_1.png" />
 <img alt="" src="images/UnderstandingCrowding/output_23_2.png" />
 <p>Lets compare this corrected light curve with our previous light curves.</p>
 <pre class="code ipython3 literal-block">
-<span class="n">ax</span> <span class="o">=</span> <span class="n">lc36</span><span class="o">.</span><span class="n">scatter</span><span class="p">(</span><span class="n">normalize</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s1">'PDCSAP'</span><span class="p">)</span><span class="w">
-</span><span class="n">tpf_lc</span><span class="o">.</span><span class="n">scatter</span><span class="p">(</span><span class="n">ax</span><span class="o">=</span><span class="n">ax</span><span class="p">,</span> <span class="n">normalize</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">color</span><span class="o">=</span><span class="s1">'red'</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s1">'SAP ORIGINAL'</span><span class="p">)</span><span class="w">
-</span><span class="n">pld_lc</span><span class="o">.</span><span class="n">scatter</span><span class="p">(</span><span class="n">ax</span><span class="o">=</span><span class="n">ax</span><span class="p">,</span> <span class="n">normalize</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">color</span><span class="o">=</span><span class="s1">'green'</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s1">'PLD SAP'</span><span class="p">)</span><span class="w">
-</span><span class="n">plt</span><span class="o">.</span><span class="n">xlim</span><span class="p">(</span><span class="n">xmin</span><span class="o">=</span><span class="mi">2290</span><span class="p">,</span> <span class="n">xmax</span><span class="o">=</span><span class="mi">2293</span><span class="p">)</span>
+<span class="n">ax</span> <span class="o">=</span> <span class="n">lc36</span><span class="o">.</span><span class="n">scatter</span><span class="p">(</span><span class="n">normalize</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s1">'PDCSAP'</span><span class="p">)</span>
+<span class="n">tpf_lc</span><span class="o">.</span><span class="n">scatter</span><span class="p">(</span><span class="n">ax</span><span class="o">=</span><span class="n">ax</span><span class="p">,</span> <span class="n">normalize</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">color</span><span class="o">=</span><span class="s1">'red'</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s1">'SAP ORIGINAL'</span><span class="p">)</span>
+<span class="n">pld_lc</span><span class="o">.</span><span class="n">scatter</span><span class="p">(</span><span class="n">ax</span><span class="o">=</span><span class="n">ax</span><span class="p">,</span> <span class="n">normalize</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">color</span><span class="o">=</span><span class="s1">'green'</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s1">'PLD SAP'</span><span class="p">)</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">xlim</span><span class="p">(</span><span class="n">xmin</span><span class="o">=</span><span class="mi">2290</span><span class="p">,</span> <span class="n">xmax</span><span class="o">=</span><span class="mi">2293</span><span class="p">)</span>
 </pre>
 <pre class="literal-block">
 (2290, 2293)
@@ -461,11 +461,11 @@ FLFRCSA.</p>
 </pre>
 <p>Let’s plot and compare to our previous light curves.</p>
 <pre class="code ipython3 literal-block">
-<span class="n">ax</span> <span class="o">=</span> <span class="n">lc36</span><span class="o">.</span><span class="n">scatter</span><span class="p">(</span><span class="n">normalize</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s1">'PDCSAP'</span><span class="p">)</span><span class="w">
-</span><span class="n">tpf_lc</span><span class="o">.</span><span class="n">scatter</span><span class="p">(</span><span class="n">ax</span><span class="o">=</span><span class="n">ax</span><span class="p">,</span> <span class="n">normalize</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">color</span><span class="o">=</span><span class="s1">'red'</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s1">'SAP ORIGINAL'</span><span class="p">,</span> <span class="n">alpha</span><span class="o">=</span><span class="mf">0.5</span><span class="p">)</span><span class="w">
-</span><span class="n">pld_lc</span><span class="o">.</span><span class="n">scatter</span><span class="p">(</span><span class="n">ax</span><span class="o">=</span><span class="n">ax</span><span class="p">,</span> <span class="n">normalize</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">color</span><span class="o">=</span><span class="s1">'green'</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s1">'PLD SAP'</span><span class="p">,</span> <span class="n">alpha</span><span class="o">=</span><span class="mf">0.5</span><span class="p">)</span><span class="w">
-</span><span class="n">lc_corr</span><span class="o">.</span><span class="n">scatter</span><span class="p">(</span><span class="n">ax</span><span class="o">=</span><span class="n">ax</span><span class="p">,</span> <span class="n">normalize</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">color</span><span class="o">=</span><span class="s1">'blue'</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s1">'PLD SAP CORR'</span><span class="p">,</span> <span class="n">alpha</span><span class="o">=</span><span class="mf">0.5</span><span class="p">)</span><span class="w">
-</span><span class="n">plt</span><span class="o">.</span><span class="n">xlim</span><span class="p">(</span><span class="n">xmin</span><span class="o">=</span><span class="mi">2290</span><span class="p">,</span> <span class="n">xmax</span><span class="o">=</span><span class="mi">2293</span><span class="p">)</span>
+<span class="n">ax</span> <span class="o">=</span> <span class="n">lc36</span><span class="o">.</span><span class="n">scatter</span><span class="p">(</span><span class="n">normalize</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s1">'PDCSAP'</span><span class="p">)</span>
+<span class="n">tpf_lc</span><span class="o">.</span><span class="n">scatter</span><span class="p">(</span><span class="n">ax</span><span class="o">=</span><span class="n">ax</span><span class="p">,</span> <span class="n">normalize</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">color</span><span class="o">=</span><span class="s1">'red'</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s1">'SAP ORIGINAL'</span><span class="p">,</span> <span class="n">alpha</span><span class="o">=</span><span class="mf">0.5</span><span class="p">)</span>
+<span class="n">pld_lc</span><span class="o">.</span><span class="n">scatter</span><span class="p">(</span><span class="n">ax</span><span class="o">=</span><span class="n">ax</span><span class="p">,</span> <span class="n">normalize</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">color</span><span class="o">=</span><span class="s1">'green'</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s1">'PLD SAP'</span><span class="p">,</span> <span class="n">alpha</span><span class="o">=</span><span class="mf">0.5</span><span class="p">)</span>
+<span class="n">lc_corr</span><span class="o">.</span><span class="n">scatter</span><span class="p">(</span><span class="n">ax</span><span class="o">=</span><span class="n">ax</span><span class="p">,</span> <span class="n">normalize</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">color</span><span class="o">=</span><span class="s1">'blue'</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s1">'PLD SAP CORR'</span><span class="p">,</span> <span class="n">alpha</span><span class="o">=</span><span class="mf">0.5</span><span class="p">)</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">xlim</span><span class="p">(</span><span class="n">xmin</span><span class="o">=</span><span class="mi">2290</span><span class="p">,</span> <span class="n">xmax</span><span class="o">=</span><span class="mi">2293</span><span class="p">)</span>
 </pre>
 <pre class="literal-block">
 (2290, 2293)
@@ -487,9 +487,9 @@ improve this reduction.</p>
 <div class="section" id="cbvcorrector">
 <h3>CBVCorrector</h3>
 <pre class="code ipython3 literal-block">
-<span class="kn">from</span> <span class="nn">lightkurve.correctors</span> <span class="kn">import</span> <span class="n">CBVCorrector</span><span class="w">
-</span><span class="n">cbvCorrector</span> <span class="o">=</span> <span class="n">CBVCorrector</span><span class="p">(</span><span class="n">tpf_lc</span><span class="p">)</span><span class="w">
-</span><span class="n">cbvCorrector</span><span class="o">.</span><span class="n">cbvs</span>
+<span class="kn">from</span> <span class="nn">lightkurve.correctors</span> <span class="kn">import</span> <span class="n">CBVCorrector</span>
+<span class="n">cbvCorrector</span> <span class="o">=</span> <span class="n">CBVCorrector</span><span class="p">(</span><span class="n">tpf_lc</span><span class="p">)</span>
+<span class="n">cbvCorrector</span><span class="o">.</span><span class="n">cbvs</span>
 </pre>
 <pre class="literal-block">
 [TESS CBVs, Sector.Camera.CCD : 36.3.1, CBVType : SingleScale, nCBVS : 16,
@@ -499,53 +499,53 @@ improve this reduction.</p>
  TESS CBVs, Sector.Camera.CCD : 36.3.1, CBVType : Spike, nCBVS : 6]
 </pre>
 <pre class="code ipython3 literal-block">
-<span class="c1"># Select which CBVs to use in the correction</span><span class="w">
-</span><span class="n">cbv_type</span> <span class="o">=</span> <span class="p">[</span><span class="s1">'SingleScale'</span><span class="p">,</span> <span class="s1">'Spike'</span><span class="p">]</span><span class="w">
-</span><span class="n">cbv_indices</span> <span class="o">=</span> <span class="p">[</span><span class="n">np</span><span class="o">.</span><span class="n">arange</span><span class="p">(</span><span class="mi">1</span><span class="p">,</span><span class="mi">9</span><span class="p">),</span> <span class="s1">'ALL'</span><span class="p">]</span><span class="w">
-</span><span class="c1"># Perform the correction</span><span class="w">
-</span><span class="n">cbvCorrector</span><span class="o">.</span><span class="n">correct_gaussian_prior</span><span class="p">(</span><span class="n">cbv_type</span><span class="o">=</span><span class="n">cbv_type</span><span class="p">,</span> <span class="n">cbv_indices</span><span class="o">=</span><span class="n">cbv_indices</span><span class="p">,</span> <span class="n">alpha</span><span class="o">=</span><span class="mf">1e-4</span><span class="p">)</span><span class="w">
-</span><span class="n">cbvCorrector</span><span class="o">.</span><span class="n">diagnose</span><span class="p">();</span>
+<span class="c1"># Select which CBVs to use in the correction</span>
+<span class="n">cbv_type</span> <span class="o">=</span> <span class="p">[</span><span class="s1">'SingleScale'</span><span class="p">,</span> <span class="s1">'Spike'</span><span class="p">]</span>
+<span class="n">cbv_indices</span> <span class="o">=</span> <span class="p">[</span><span class="n">np</span><span class="o">.</span><span class="n">arange</span><span class="p">(</span><span class="mi">1</span><span class="p">,</span><span class="mi">9</span><span class="p">),</span> <span class="s1">'ALL'</span><span class="p">]</span>
+<span class="c1"># Perform the correction</span>
+<span class="n">cbvCorrector</span><span class="o">.</span><span class="n">correct_gaussian_prior</span><span class="p">(</span><span class="n">cbv_type</span><span class="o">=</span><span class="n">cbv_type</span><span class="p">,</span> <span class="n">cbv_indices</span><span class="o">=</span><span class="n">cbv_indices</span><span class="p">,</span> <span class="n">alpha</span><span class="o">=</span><span class="mf">1e-4</span><span class="p">)</span>
+<span class="n">cbvCorrector</span><span class="o">.</span><span class="n">diagnose</span><span class="p">();</span>
 </pre>
 <img alt="" src="images/UnderstandingCrowding/output_49_0.png" />
 <p>Let’s check to see if we have over or underfit the data.</p>
 <pre class="code ipython3 literal-block">
-<span class="k">with</span> <span class="n">warnings</span><span class="o">.</span><span class="n">catch_warnings</span><span class="p">():</span><span class="w">
-</span>    <span class="c1"># ignore &quot;RuntimeWarning&quot;</span><span class="w">
-</span>    <span class="n">warnings</span><span class="o">.</span><span class="n">simplefilter</span><span class="p">(</span><span class="s2">&quot;ignore&quot;</span><span class="p">,</span> <span class="ne">RuntimeWarning</span><span class="p">)</span><span class="w">
-</span>    <span class="n">cbvCorrector</span><span class="o">.</span><span class="n">goodness_metric_scan_plot</span><span class="p">(</span><span class="n">cbv_type</span><span class="o">=</span><span class="n">cbv_type</span><span class="p">,</span> <span class="n">cbv_indices</span><span class="o">=</span><span class="n">cbv_indices</span><span class="p">);</span>
+<span class="k">with</span> <span class="n">warnings</span><span class="o">.</span><span class="n">catch_warnings</span><span class="p">():</span>
+    <span class="c1"># ignore &quot;RuntimeWarning&quot;</span>
+    <span class="n">warnings</span><span class="o">.</span><span class="n">simplefilter</span><span class="p">(</span><span class="s2">&quot;ignore&quot;</span><span class="p">,</span> <span class="ne">RuntimeWarning</span><span class="p">)</span>
+    <span class="n">cbvCorrector</span><span class="o">.</span><span class="n">goodness_metric_scan_plot</span><span class="p">(</span><span class="n">cbv_type</span><span class="o">=</span><span class="n">cbv_type</span><span class="p">,</span> <span class="n">cbv_indices</span><span class="o">=</span><span class="n">cbv_indices</span><span class="p">);</span>
 </pre>
 <img alt="" src="images/UnderstandingCrowding/output_51_0.png" />
 <p>We might be slightly overfitting, so let’s adjust our alpha.</p>
 <pre class="code ipython3 literal-block">
-<span class="n">cbvCorrector</span><span class="o">.</span><span class="n">correct_gaussian_prior</span><span class="p">(</span><span class="n">cbv_type</span><span class="o">=</span><span class="n">cbv_type</span><span class="p">,</span> <span class="n">cbv_indices</span><span class="o">=</span><span class="n">cbv_indices</span><span class="p">,</span> <span class="n">alpha</span><span class="o">=</span><span class="mf">1e-1</span><span class="p">)</span><span class="w">
-</span><span class="n">cbvCorrector</span><span class="o">.</span><span class="n">diagnose</span><span class="p">();</span>
+<span class="n">cbvCorrector</span><span class="o">.</span><span class="n">correct_gaussian_prior</span><span class="p">(</span><span class="n">cbv_type</span><span class="o">=</span><span class="n">cbv_type</span><span class="p">,</span> <span class="n">cbv_indices</span><span class="o">=</span><span class="n">cbv_indices</span><span class="p">,</span> <span class="n">alpha</span><span class="o">=</span><span class="mf">1e-1</span><span class="p">)</span>
+<span class="n">cbvCorrector</span><span class="o">.</span><span class="n">diagnose</span><span class="p">();</span>
 </pre>
 <img alt="" src="images/UnderstandingCrowding/output_53_0.png" />
 <p>Now we can apply the crowding corrections.</p>
 <pre class="code ipython3 literal-block">
-<span class="c1"># Perform the FF and CM corrections</span><span class="w">
-</span><span class="n">median_flux</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">median</span><span class="p">(</span><span class="n">cbvCorrector</span><span class="o">.</span><span class="n">corrected_lc</span><span class="o">.</span><span class="n">flux</span><span class="o">.</span><span class="n">value</span><span class="p">)</span><span class="w">
-</span><span class="n">excess_flux</span> <span class="o">=</span> <span class="p">(</span><span class="mi">1</span><span class="o">-</span><span class="n">CROWDSAP</span><span class="p">)</span><span class="o">*</span><span class="n">median_flux</span><span class="w">
-</span><span class="n">flux_removed</span> <span class="o">=</span> <span class="n">cbvCorrector</span><span class="o">.</span><span class="n">corrected_lc</span><span class="o">.</span><span class="n">flux</span><span class="o">.</span><span class="n">value</span>  <span class="o">-</span> <span class="n">excess_flux</span><span class="w">
-</span><span class="n">flux_corr</span> <span class="o">=</span> <span class="n">flux_removed</span><span class="o">/</span><span class="n">FLFRCSAP</span><span class="w">
-</span><span class="n">flux_err_corr</span> <span class="o">=</span> <span class="n">cbvCorrector</span><span class="o">.</span><span class="n">corrected_lc</span><span class="o">.</span><span class="n">flux_err</span><span class="o">.</span><span class="n">value</span><span class="o">/</span><span class="n">FLFRCSAP</span><span class="w">
-</span><span class="n">lc_cbv_corr</span> <span class="o">=</span> <span class="n">lk</span><span class="o">.</span><span class="n">LightCurve</span><span class="p">(</span><span class="n">time</span><span class="o">=</span><span class="n">tpf</span><span class="o">.</span><span class="n">time</span><span class="o">.</span><span class="n">value</span><span class="p">,</span> <span class="n">flux</span><span class="o">=</span><span class="n">flux_corr</span><span class="p">,</span> <span class="n">flux_err</span><span class="o">=</span><span class="n">flux_err_corr</span><span class="p">)</span>
+<span class="c1"># Perform the FF and CM corrections</span>
+<span class="n">median_flux</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">median</span><span class="p">(</span><span class="n">cbvCorrector</span><span class="o">.</span><span class="n">corrected_lc</span><span class="o">.</span><span class="n">flux</span><span class="o">.</span><span class="n">value</span><span class="p">)</span>
+<span class="n">excess_flux</span> <span class="o">=</span> <span class="p">(</span><span class="mi">1</span><span class="o">-</span><span class="n">CROWDSAP</span><span class="p">)</span><span class="o">*</span><span class="n">median_flux</span>
+<span class="n">flux_removed</span> <span class="o">=</span> <span class="n">cbvCorrector</span><span class="o">.</span><span class="n">corrected_lc</span><span class="o">.</span><span class="n">flux</span><span class="o">.</span><span class="n">value</span>  <span class="o">-</span> <span class="n">excess_flux</span>
+<span class="n">flux_corr</span> <span class="o">=</span> <span class="n">flux_removed</span><span class="o">/</span><span class="n">FLFRCSAP</span>
+<span class="n">flux_err_corr</span> <span class="o">=</span> <span class="n">cbvCorrector</span><span class="o">.</span><span class="n">corrected_lc</span><span class="o">.</span><span class="n">flux_err</span><span class="o">.</span><span class="n">value</span><span class="o">/</span><span class="n">FLFRCSAP</span>
+<span class="n">lc_cbv_corr</span> <span class="o">=</span> <span class="n">lk</span><span class="o">.</span><span class="n">LightCurve</span><span class="p">(</span><span class="n">time</span><span class="o">=</span><span class="n">tpf</span><span class="o">.</span><span class="n">time</span><span class="o">.</span><span class="n">value</span><span class="p">,</span> <span class="n">flux</span><span class="o">=</span><span class="n">flux_corr</span><span class="p">,</span> <span class="n">flux_err</span><span class="o">=</span><span class="n">flux_err_corr</span><span class="p">)</span>
 </pre>
 <p>We can now compare to the PDCSAP and SAP light curves.</p>
 <pre class="code ipython3 literal-block">
-<span class="n">ax</span> <span class="o">=</span> <span class="n">tpf_lc</span><span class="o">.</span><span class="n">scatter</span><span class="p">(</span><span class="n">normalize</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">color</span><span class="o">=</span><span class="s1">'red'</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s1">'SAP ORIGINAL'</span><span class="p">)</span><span class="w">
-</span><span class="n">lc36</span><span class="o">.</span><span class="n">scatter</span><span class="p">(</span><span class="n">ax</span><span class="o">=</span><span class="n">ax</span><span class="p">,</span> <span class="n">normalize</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s1">'PDCSAP'</span><span class="p">)</span><span class="w">
-</span><span class="n">lc_cbv_corr</span><span class="o">.</span><span class="n">scatter</span><span class="p">(</span><span class="n">ax</span><span class="o">=</span><span class="n">ax</span><span class="p">,</span> <span class="n">normalize</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">color</span><span class="o">=</span><span class="s1">'cyan'</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s1">'CBV Corrected'</span><span class="p">,</span> <span class="n">alpha</span><span class="o">=</span><span class="mf">0.5</span><span class="p">)</span><span class="w">
-</span><span class="n">plt</span><span class="o">.</span><span class="n">xlim</span><span class="p">(</span><span class="n">xmin</span><span class="o">=</span><span class="mi">2290</span><span class="p">,</span> <span class="n">xmax</span><span class="o">=</span><span class="mi">2293</span><span class="p">);</span>
+<span class="n">ax</span> <span class="o">=</span> <span class="n">tpf_lc</span><span class="o">.</span><span class="n">scatter</span><span class="p">(</span><span class="n">normalize</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">color</span><span class="o">=</span><span class="s1">'red'</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s1">'SAP ORIGINAL'</span><span class="p">)</span>
+<span class="n">lc36</span><span class="o">.</span><span class="n">scatter</span><span class="p">(</span><span class="n">ax</span><span class="o">=</span><span class="n">ax</span><span class="p">,</span> <span class="n">normalize</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s1">'PDCSAP'</span><span class="p">)</span>
+<span class="n">lc_cbv_corr</span><span class="o">.</span><span class="n">scatter</span><span class="p">(</span><span class="n">ax</span><span class="o">=</span><span class="n">ax</span><span class="p">,</span> <span class="n">normalize</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">color</span><span class="o">=</span><span class="s1">'cyan'</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s1">'CBV Corrected'</span><span class="p">,</span> <span class="n">alpha</span><span class="o">=</span><span class="mf">0.5</span><span class="p">)</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">xlim</span><span class="p">(</span><span class="n">xmin</span><span class="o">=</span><span class="mi">2290</span><span class="p">,</span> <span class="n">xmax</span><span class="o">=</span><span class="mi">2293</span><span class="p">);</span>
 </pre>
 <img alt="" src="images/UnderstandingCrowding/output_57_0.png" />
 <p>Finally, we can compare our PLD and CBV corrected light curves.</p>
 <pre class="code ipython3 literal-block">
-<span class="n">ax</span> <span class="o">=</span> <span class="n">lc36</span><span class="o">.</span><span class="n">scatter</span><span class="p">(</span><span class="n">normalize</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s1">'PDCSAP'</span><span class="p">)</span><span class="w">
-</span><span class="n">lc_cbv_corr</span><span class="o">.</span><span class="n">scatter</span><span class="p">(</span><span class="n">ax</span><span class="o">=</span><span class="n">ax</span><span class="p">,</span> <span class="n">normalize</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">color</span><span class="o">=</span><span class="s1">'cyan'</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s1">'CBV Corrected'</span><span class="p">)</span><span class="w">
-</span><span class="n">lc_corr</span><span class="o">.</span><span class="n">scatter</span><span class="p">(</span><span class="n">ax</span><span class="o">=</span><span class="n">ax</span><span class="p">,</span> <span class="n">normalize</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">color</span><span class="o">=</span><span class="s1">'blue'</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s1">'PLD SAP CORR'</span><span class="p">,</span> <span class="n">alpha</span> <span class="o">=</span> <span class="mf">0.5</span><span class="p">)</span><span class="w">
-</span><span class="n">plt</span><span class="o">.</span><span class="n">title</span><span class="p">(</span><span class="s1">'Comparing PLD correction to CBV Correction'</span><span class="p">)</span><span class="w">
-</span><span class="n">plt</span><span class="o">.</span><span class="n">xlim</span><span class="p">(</span><span class="n">xmin</span><span class="o">=</span><span class="mi">2290</span><span class="p">,</span> <span class="n">xmax</span><span class="o">=</span><span class="mi">2293</span><span class="p">);</span>
+<span class="n">ax</span> <span class="o">=</span> <span class="n">lc36</span><span class="o">.</span><span class="n">scatter</span><span class="p">(</span><span class="n">normalize</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s1">'PDCSAP'</span><span class="p">)</span>
+<span class="n">lc_cbv_corr</span><span class="o">.</span><span class="n">scatter</span><span class="p">(</span><span class="n">ax</span><span class="o">=</span><span class="n">ax</span><span class="p">,</span> <span class="n">normalize</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">color</span><span class="o">=</span><span class="s1">'cyan'</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s1">'CBV Corrected'</span><span class="p">)</span>
+<span class="n">lc_corr</span><span class="o">.</span><span class="n">scatter</span><span class="p">(</span><span class="n">ax</span><span class="o">=</span><span class="n">ax</span><span class="p">,</span> <span class="n">normalize</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">color</span><span class="o">=</span><span class="s1">'blue'</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s1">'PLD SAP CORR'</span><span class="p">,</span> <span class="n">alpha</span> <span class="o">=</span> <span class="mf">0.5</span><span class="p">)</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">title</span><span class="p">(</span><span class="s1">'Comparing PLD correction to CBV Correction'</span><span class="p">)</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">xlim</span><span class="p">(</span><span class="n">xmin</span><span class="o">=</span><span class="mi">2290</span><span class="p">,</span> <span class="n">xmax</span><span class="o">=</span><span class="mi">2293</span><span class="p">);</span>
 </pre>
 <img alt="" src="images/UnderstandingCrowding/output_59_0.png" />
 <p>The CBV light curve might be a better match to the PDCSAP.</p>

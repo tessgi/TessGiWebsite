@@ -1,0 +1,20 @@
+# TESS Program G06112
+
+Title: TESS Photometry Of A Sample Of Sb2 Eclipsing Binaries
+
+PI: Helminiak, Krzysztof - Copernicus Astronomical Center
+
+Type: MINI
+
+Summary: We intend to obtain very high precision light curves of a sample of detached eclipsing and double-lined spectroscopic (SB2) binaries, which have a large number of new and unpublished high-resolution spectra (from our own observations). In total, there are over 380 stars in the program, ~60 of which are selected for TESS in Cycle 6. The light curves will be combined with the precise radial velocity (RV) measurements in order to obtain accurate and precise, absolute stellar parameters.
+
+
+# Sector 070 targets observed (2 min: 8, 20 s: 0)
+388815892,18.5667,4.4395,9.95,G06112
+213005535,10.2135,-0.9623,9.62,G06112
+3816260,10.1351,-6.481,10.1,G06057;G06112
+52124859,40.6513,12.7353,8.71,G06112
+246971220,35.5275,22.8736,5.82,G06112
+408627978,35.796,16.5099,10.69,G06112
+311128363,54.7953,11.0899,9.53,G06057;G06112
+445921773,57.3623,11.1441,7.01,G06057;G06112
