@@ -1,0 +1,14 @@
+# TESS Program G06096
+
+Title: Probing Accretion Disk Structures In Long-Period Algols
+
+PI: Reed, Phillip - Kutztown University Of Pennsylvania
+
+Type: SMALL
+
+Summary: Accretion disks are ubiquitous in the universe, serving as sources of energy and governing the evolution of objects of all sizes. Major questions remain regarding some fundamental physical properties, such as the mechanisms that drive viscosity, redistribute angular momentum, and allow accretion onto the central object to take place. Long-period Algols promise answers as they contain persistent accretion disks that are variable enough to observe dynamic behavior. Disk sub-structures have been identified in TESS data as series of transits across the primary star. By monitoring these transits, with coinciding ground-based support, we will characterize structures within the accretion disks, monitor their motions and morphology, and infer the disks' properties related to viscosity.
+
+
+# Sector 071 targets observed (2 min: 2, 20 s: 0)
+96785948,74.1541,32.203,9.23,G06096
+14709809,111.8508,15.6595,8.43,G06073;G06096;G06057;G06183

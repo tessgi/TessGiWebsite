@@ -1,0 +1,15 @@
+# TESS Program G06188
+
+Title: Using TESS To Search For Companions To Several New Pulsating Hot Subdwarf Stars Using Pulse-Timing Analysis
+
+PI: Lopez, Isaac - Iowa State University
+
+Type: SMALL
+
+Summary: Hot subdwarf stars are the exposed helium-fusing cores of giant stars that have experienced a significant episode of mass-loss. Recently, a new class of pulsating hot subdwarf stars has been discovered with pulsation periods around 5 minutes. The exact nature of these stars is still unknown; the main unsolved problem is whether or not these stars harbor helium fusion cores. Here we propose to use TESS 20-second cadence observations to search for binary companions around several of these stars by looking for subtle variations in the arrival times of the pulsations. Because of the short period of the pulsations, the continuous short-cadence TESS observations are particularly well-suited for this study. To confirm binary detections with TESS, we propose to obtain follow-up spectroscopic obser
+
+
+# Sector 071 targets observed (2 min: 3, 20 s: 0)
+673946269,79.9019,16.994,18.54,G06188
+155313989,102.9554,16.0574,12.02,G06188
+155457780,103.6288,17.164,11.95,G06188

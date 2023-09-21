@@ -11,3 +11,7 @@ Summary: Symbiotic stars (SySts) are a subclass of compact binaries where typica
 
 # Sector 070 targets observed (2 min: 1, 20 s: 1)
 92138849,355.9563,-15.2847,5.36,G06158;20SECONDTARGET
+
+# Sector 071 targets observed (2 min: 2, 20 s: 2)
+94748223,112.9771,24.5035,6.22,G06158;20SECONDTARGET
+60022022,106.0217,12.0311,15.06,G06158;20SECONDTARGET
