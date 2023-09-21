@@ -158,7 +158,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>Ecliptic</td>
     <td>2023&nbsp;Oct&nbsp;16</td>
     <td>2023&nbsp;Nov&nbsp;11</td>
-    <td></td>
+    <td><a href='data/target_lists/sector071_targets_lists/GI_S071.csv'>Download</a></td>
     <td style="min-width: 12em;">
     </td>
   </tr>
@@ -1005,14 +1005,22 @@ cadence for each camera and sector.
 
 
 ### Cycle 6
+
 <div class="row">
     <div class="col-md-6 text-center">
       <a href="images/sector-plots/sector-plots.070.jpeg">
         <img id="s070" src="images/sector-plots/sector-plots.070.jpeg" class="img-responsive">
         Sector 70
       </a>
+	</div>
+	<div class="col-md-6 text-center">
+      <a href="images/sector-plots/sector-plots.071.jpeg">
+        <img id="s071" src="images/sector-plots/sector-plots.071.jpeg" class="img-responsive">
+        Sector 71
+      </a>
     </div>
 </div>
+<br>
 
 ### Cycle 5
 <div class="row">

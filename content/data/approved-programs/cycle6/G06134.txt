@@ -1,0 +1,23 @@
+# TESS Program G06134
+
+Title: Flare Properties Of Anomalously Spotty Stars
+
+PI: Van Saders, Jennifer - University Of Hawaii (Manoa)
+
+Type: SMALL
+
+Summary: Cao et al. 2023 identified a striking epoch of overactivity in young K dwarf stars, where the surface covering fraction of starspots is higher than expected. This epoch coincides with the observation of stalled spin-down, leading Cao et al. 2023 to link both phenomena to a transient phase of radial differential rotation and internal angular momentum transport, which simultaneously alters the spindown and drives dynamo action. We propose here to test for the presence of enhanced dynamo action from another angle, and ask 1) whether those same overspotted stars identified in Cao et al. 2023 also show an anomaly in their flare rates, energies, or morphologies, and 2) examine a much broader field population with known spot-covering fractions, to probe a wider range of stellar types and ages.
+
+
+# Sector 071 targets observed (2 min: 11, 20 s: 11)
+7022037,126.5556,16.9182,12.26,G06120;G06134;20SECONDTARGET
+14677040,126.8775,20.2182,12.78,G06120;G06134;20SECONDTARGET
+14678605,127.0039,19.9047,11.91,G06120;G06134;20SECONDTARGET
+14705038,127.306,19.4799,10.6,G06120;G06134;20SECONDTARGET
+178245191,127.7933,21.5895,12.93,G06134;20SECONDTARGET
+195189326,129.0474,19.8778,13.78,G06120;G06134;20SECONDTARGET
+195189343,129.0182,19.9202,13.15,G06120;G06134;20SECONDTARGET
+195189408,129.066,20.1202,13.88,G06120;G06134;20SECONDTARGET
+195189437,129.0906,20.2054,14.54,G06120;G06134;20SECONDTARGET
+195191821,129.174,20.411,11.98,G06120;G06134;20SECONDTARGET
+195191891,129.1177,20.2285,11.77,G06120;G06134;20SECONDTARGET

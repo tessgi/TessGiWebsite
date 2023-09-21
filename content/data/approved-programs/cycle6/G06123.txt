@@ -8,3 +8,6 @@ Type: MINI
 
 Summary: The tidally tilted pulsators are a class of oscillating stars in close binary systems whose pulsation axis has been pulled into the orbital plane by the gravitational influence of their companion star. Their value for astrophysical study is rooted in the combination of the strengths of binary star and asteroseismic analyses; pulsational mode identifications can be achieved because the oscillations are visible over nearly 360 degrees of aspect throughout the orbital cycle. Here, we propose 24 of such objects or candidates for 20-sec or 2-min cadence, four for the first time and the remainder for continued observations for deeper study.
 
+
+# Sector 071 targets observed (2 min: 1, 20 s: 1)
+68495594,103.3512,33.0595,12.47,G06123;G06110;20SECONDTARGET
