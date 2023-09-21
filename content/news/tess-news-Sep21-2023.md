@@ -24,7 +24,7 @@ Speaking of cataclysmic variables, V844 Her is an SU UMa type dwarf nova with an
 
 ![Czavalinga2023](images/Czavalinga_2023_Fig1.png)
 
-**Fig. 1:** *Taken from Czavalinga et al. (2023). Sections of TESS photometry (blue points) of four triply-eclipsing triple stars, showcasing primary and secondary eclipses from the inner binaries, as well as additional eclipses/occultations from the tertiary stars. The red curve represents the best-fit spectrophotometric-dynamical model. *
+**Fig. 1:** *Taken from Czavalinga et al. (2023). Sections of TESS photometry (blue points) of four triply-eclipsing triple stars, showcasing primary and secondary eclipses from the inner binaries, as well as additional eclipses/occultations from the tertiary stars. The red curve represents the best-fit spectrophotometric-dynamical model.*
 
 ![Bruch2023](images/Bruch_2023_Fig2.png)
 
