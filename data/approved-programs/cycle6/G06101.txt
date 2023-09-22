@@ -1,0 +1,13 @@
+# TESS Program G06101
+
+Title: TESS Cycle 6: Proposal For Observation Of Cataclysmic Variables
+
+PI: Rucas, Tyler - University Of Texas At San Antonio
+
+Type: SMALL
+
+Summary: This TESS proposal focuses on eclipsing CVs because they provide the best laboratory for directly testing accretion behaviors in CVs of all sub-types. Using the 20-second cadence mode, this proposal argues for observations of several bright, eclipsing CVs visible to TESS during Cycle 6.
+
+
+# Sector 071 targets observed (2 min: 1, 20 s: 1)
+240122720,101.1431,33.749,13.13,G06057;G06101;G06027;20SECONDTARGET
