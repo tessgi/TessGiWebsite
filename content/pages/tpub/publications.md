@@ -12,8 +12,8 @@ the TESS mission is provided by the NASA's Science Mission Directorate.*
 
 The TESS Science Support Center curates a list of scientific publications
 pertaining to TESS.
-The database contains 1721 publications,
-of which 1536 are peer-reviewed.
+The database contains 1759 publications,
+of which 1554 are peer-reviewed.
 It demonstrates the important impact of TESS data
 on astronomical research.
 
@@ -29,7 +29,7 @@ Or seach by topic:
 If you spot an error in the database, such as a missing entry,
 please get in touch or open an issue in the <a href="https://github.com/tessgi/tpub">GitHub repository</a> of the database.
 
-Last update: 07 Sep 2023.
+Last update: 29 Sep 2023.
 
 <hr/>
 
@@ -46,9 +46,9 @@ of year.
 
 Both TESS data have been used for scientific applications
 that reach far beyond exoplanet research.
-While 689 works relate to exoplanets
+While 703 works relate to exoplanets
 (40%),
-a total of 1032
+a total of 1056
 pertain to other areas of astrophysics
 (60%).
 
@@ -60,7 +60,7 @@ pertain to other areas of astrophysics
 ## Most-cited publications
 
 TESS publications have cumulatively been cited
-23670 times.
+23679 times.
 The list below shows the most-cited publications,
 based on the citation count obtained from NASA ADS.
 
@@ -130,21 +130,21 @@ within the last 90 days.
 <!-- ## Most-active authors
 
 The entries in the publication database have been authored and co-authored
-by a total of 6456 unique author names.
+by a total of 6490 unique author names.
 Here we list the most-active authors, defined as those with six or more first-author publications in our database.
 
 
- * Southworth, J (19 publications)
+ * Southworth, J (20 publications)
 
  * Balona, L (10 publications)
 
- * Bouma, L (9 publications)
-
- * Lee, J (8 publications)
+ * Bouma, L (10 publications)
 
  * Zasche, P (8 publications)
 
- * Kunimoto, M (7 publications)
+ * Lee, J (8 publications)
+
+ * Kostov, V (8 publications)
 
  * Maciejewski, G (7 publications)
 
@@ -152,17 +152,21 @@ Here we list the most-active authors, defined as those with six or more first-au
 
  * Howard, W (7 publications)
 
+ * Kunimoto, M (7 publications)
+
+ * Sun, Q (7 publications)
+
  * Gan, T (7 publications)
-
- * Kostov, V (7 publications)
-
- * Kato, T (6 publications)
 
  * Wong, I (6 publications)
 
+ * Koen, C (6 publications)
+
  * Cloutier, R (6 publications)
+
+ * Kato, T (6 publications)
 
  * Knudstrup, E (6 publications)
 
- * Koen, C (6 publications)
+ * Naze, Y (6 publications)
 -->

@@ -76,6 +76,76 @@ Deeg, H. J., Georgieva, I. Y., Nowak, G., et al.
 2023, refereed ([2023A&A...677A..12D](http://adsabs.harvard.edu/abs/2023A&A...677A..12D))  
 <span class="badge">0 citations</span>
 
+10. [THE GAPS PROGRAMME AT TNG. XLVII. A CONUNDRUM RESOLVED: HIP 66074B/GAIA-3B CHARACTERISED AS A MASSIVE GIANT PLANET ON A QUASI-FACE-ON AND EXTREMELY ELONGATED ORBIT](http://adsabs.harvard.edu/abs/2023A&A...677L..15S)  
+Sozzetti, A., Pinamonti, M., Damasso, M., et al.    
+2023, refereed ([2023A&A...677L..15S](http://adsabs.harvard.edu/abs/2023A&A...677L..15S))  
+<span class="badge">0 citations</span>
+
+11. [STELLAR OBLIQUITY AND PLANETARY ALBEDO IN HAT-P-32. DERIVED FROM THE TESS LIGHT CURVE](http://adsabs.harvard.edu/abs/2023A&A...677L..12C)  
+Czesla, S., Schneider, P. C., Hatzes, A.    
+2023, refereed ([2023A&A...677L..12C](http://adsabs.harvard.edu/abs/2023A&A...677L..12C))  
+<span class="badge">0 citations</span>
+
+12. [COMPANY FOR THE ULTRA-HIGH DENSITY, ULTRA-SHORT PERIOD SUB-EARTH GJ 367 B: DISCOVERY OF TWO ADDITIONAL LOW-MASS PLANETS AT 11.5 AND 34 DAYS](http://adsabs.harvard.edu/abs/2023ApJ...955L...3G)  
+Goffo, Elisa, Gandolfi, Davide, Egger, Jo Ann, et al.    
+2023, refereed ([2023ApJ...955L...3G](http://adsabs.harvard.edu/abs/2023ApJ...955L...3G))  
+<span class="badge">0 citations</span>
+
+13. [TWO MINI-NEPTUNES TRANSITING THE ADOLESCENT K-STAR HIP 113103 CONFIRMED WITH TESS AND CHEOPS](http://adsabs.harvard.edu/abs/2023MNRAS.tmp.2649L)  
+Lowson, N., Zhou, G., Huang, C. X., et al.    
+2023, refereed ([2023MNRAS.tmp.2649L](http://adsabs.harvard.edu/abs/2023MNRAS.tmp.2649L))  
+<span class="badge">0 citations</span>
+
+14. [TESS SPOTS A SUPER-PUFF: THE REMARKABLY LOW DENSITY OF TOI-1420B](http://adsabs.harvard.edu/abs/2023arXiv230909945Y)  
+Yoshida, Stephanie, Vissapragada, Shreyas, Latham, David W., et al.    
+2023, not refereed ([2023arXiv230909945Y](http://adsabs.harvard.edu/abs/2023arXiv230909945Y))  
+<span class="badge">0 citations</span>
+
+15. [PROSPECTS FROM TESS AND GAIA TO CONSTRAIN THE FLATNESS OF PLANETARY SYSTEMS](http://adsabs.harvard.edu/abs/2023arXiv230908665E)  
+Espinoza-Retamal, Juan I., Zhu, Wei, Petrovich, Cristobal    
+2023, not refereed ([2023arXiv230908665E](http://adsabs.harvard.edu/abs/2023arXiv230908665E))  
+<span class="badge">0 citations</span>
+
+16. [TOI-199 B: A WELL-CHARACTERIZED 100-DAY TRANSITING WARM GIANT PLANET WITH TTVS SEEN FROM ANTARCTICA](http://adsabs.harvard.edu/abs/2023arXiv230914915H)  
+Hobson, Melissa J., Trifonov, Trifon, Henning, Thomas, et al.    
+2023, not refereed ([2023arXiv230914915H](http://adsabs.harvard.edu/abs/2023arXiv230914915H))  
+<span class="badge">0 citations</span>
+
+17. [PHOTOMETRIC FOLLOW-UP OF THE 20 MYR-OLD MULTI-PLANET HOST STAR V1298~TAU WITH CHEOPS AND GROUND-BASED TELESCOPES](http://adsabs.harvard.edu/abs/2023arXiv230914131D)  
+Damasso, M., Scandariato, G., Nascimbeni, V., et al.    
+2023, not refereed ([2023arXiv230914131D](http://adsabs.harvard.edu/abs/2023arXiv230914131D))  
+<span class="badge">0 citations</span>
+
+18. [THE ALIGNED ORBIT OF THE ECCENTRIC PROTO HOT JUPITER TOI-3362B](http://adsabs.harvard.edu/abs/2023arXiv230903306E)  
+Espinoza-Retamal, Juan I., Brahm, Rafael, Petrovich, Cristobal, et al.    
+2023, not refereed ([2023arXiv230903306E](http://adsabs.harvard.edu/abs/2023arXiv230903306E))  
+<span class="badge">0 citations</span>
+
+19. [CONFIRMATION OF AN HE I EVAPORATING ATMOSPHERE AROUND THE 650-MYR-OLD SUB-NEPTUNE HD 235088 B (TOI-1430 B) WITH CARMENES](http://adsabs.harvard.edu/abs/2023A&A...677A..56O)  
+Orell-Miquel, J., Lampón, M., López-Puertas, M., et al.    
+2023, refereed ([2023A&A...677A..56O](http://adsabs.harvard.edu/abs/2023A&A...677A..56O))  
+<span class="badge">1 citations</span>
+
+20. [CONSTRAINING THE REFLECTIVE PROPERTIES OF WASP-178B USING CHEOPS PHOTOMETRY](http://adsabs.harvard.edu/abs/2023arXiv230909037P)  
+Pagano, I., Scandariato, G., Singh, V., et al.    
+2023, not refereed ([2023arXiv230909037P](http://adsabs.harvard.edu/abs/2023arXiv230909037P))  
+<span class="badge">0 citations</span>
+
+21. [A SUPER-MASSIVE NEPTUNE-SIZED PLANET](http://adsabs.harvard.edu/abs/2023arXiv230901464N)  
+Naponiello, L., Mancini, L., Sozzetti, A., et al.    
+2023, not refereed ([2023arXiv230901464N](http://adsabs.harvard.edu/abs/2023arXiv230901464N))  
+<span class="badge">0 citations</span>
+
+22. [TOI-858 B B: A HOT JUPITER ON A POLAR ORBIT IN A LOOSE BINARY](http://adsabs.harvard.edu/abs/2023arXiv230911390H)  
+Hagelberg, J., Nielsen, L. D., Attia, O., et al.    
+2023, not refereed ([2023arXiv230911390H](http://adsabs.harvard.edu/abs/2023arXiv230911390H))  
+<span class="badge">0 citations</span>
+
+23. [ORBITAL ALIGNMENT OF THE ECCENTRIC WARM JUPITER TOI-677 B](http://adsabs.harvard.edu/abs/2023AJ....166..130S)  
+Sedaghati, Elyar, Jordán, Andrés, Brahm, Rafael, et al.    
+2023, refereed ([2023AJ....166..130S](http://adsabs.harvard.edu/abs/2023AJ....166..130S))  
+<span class="badge">3 citations</span>
+
 
 2023-08
 -------
