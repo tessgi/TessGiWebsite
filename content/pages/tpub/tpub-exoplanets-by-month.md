@@ -27,6 +27,76 @@ Maciejewski, G., Golonka, J., Łoboda, W., et al.
 2023, refereed ([2023MNRAS.525L..43M](http://adsabs.harvard.edu/abs/2023MNRAS.525L..43M))  
 <span class="badge">1 citations</span>
 
+5. [AN M DWARF ACCOMPANIED BY A CLOSE-IN GIANT ORBITER WITH SPECULOOS](http://adsabs.harvard.edu/abs/2023MNRAS.525L..98T)  
+Triaud, Amaury H. M. J., Dransfield, Georgina, Kagetani, Taiki, et al.    
+2023, refereed ([2023MNRAS.525L..98T](http://adsabs.harvard.edu/abs/2023MNRAS.525L..98T))  
+<span class="badge">1 citations</span>
+
+6. [HST/WFC3 LIGHT CURVE SUPPORTS A TERRESTRIAL COMPOSITION FOR THE CLOSEST EXOPLANET TO TRANSIT AN M DWARF](http://adsabs.harvard.edu/abs/2023AJ....166..171P)  
+Pass, Emily K., Winters, Jennifer G., Charbonneau, David, et al.    
+2023, refereed ([2023AJ....166..171P](http://adsabs.harvard.edu/abs/2023AJ....166..171P))  
+<span class="badge">0 citations</span>
+
+7. [USING PHOTOMETRICALLY DERIVED PROPERTIES OF YOUNG STARS TO REFINE TESS'S TRANSITING YOUNG PLANET SURVEY COMPLETENESS](http://adsabs.harvard.edu/abs/2023AJ....166..175F)  
+Fernandes, Rachel B., Hardegree-Ullman, Kevin K., Pascucci, Ilaria, et al.    
+2023, refereed ([2023AJ....166..175F](http://adsabs.harvard.edu/abs/2023AJ....166..175F))  
+<span class="badge">0 citations</span>
+
+8. [THE ORBIT OF WARM JUPITER WASP-106 B IS ALIGNED WITH ITS STAR](http://adsabs.harvard.edu/abs/2023AJ....166..159H)  
+Harre, Jan-Vincent, Smith, Alexis M. S., Hirano, Teruyuki, et al.    
+2023, refereed ([2023AJ....166..159H](http://adsabs.harvard.edu/abs/2023AJ....166..159H))  
+<span class="badge">0 citations</span>
+
+9. [TOI 4201 B AND TOI 5344 B: DISCOVERY OF TWO TRANSITING GIANT PLANETS AROUND M-DWARF STARS AND REVISED PARAMETERS FOR THREE OTHERS](http://adsabs.harvard.edu/abs/2023AJ....166..163H)  
+Hartman, J. D., Bakos, G. Á., Csubry, Z., et al.    
+2023, refereed ([2023AJ....166..163H](http://adsabs.harvard.edu/abs/2023AJ....166..163H))  
+<span class="badge">0 citations</span>
+
+10. [A MASSIVE HOT JUPITER ORBITING A METAL-RICH EARLY M STAR DISCOVERED IN THE TESS FULL-FRAME IMAGES](http://adsabs.harvard.edu/abs/2023AJ....166..165G)  
+Gan, Tianjun, Cadieux, Charles, Jahandar, Farbod, et al.    
+2023, refereed ([2023AJ....166..165G](http://adsabs.harvard.edu/abs/2023AJ....166..165G))  
+<span class="badge">0 citations</span>
+
+11. [THE TESS-KECK SURVEY. XVI. MASS MEASUREMENTS FOR 12 PLANETS IN EIGHT SYSTEMS](http://adsabs.harvard.edu/abs/2023AJ....166..153A)  
+Akana Murphy, Joseph M., Batalha, Natalie M., Scarsdale, Nicholas, et al.    
+2023, refereed ([2023AJ....166..153A](http://adsabs.harvard.edu/abs/2023AJ....166..153A))  
+<span class="badge">1 citations</span>
+
+12. [GJ 357 D: POTENTIALLY HABITABLE WORLD OR AGENT OF CHAOS?](http://adsabs.harvard.edu/abs/2023arXiv231002327K)  
+Kane, Stephen R., Fetherolf, Tara    
+2023, not refereed ([2023arXiv231002327K](http://adsabs.harvard.edu/abs/2023arXiv231002327K))  
+<span class="badge">0 citations</span>
+
+13. [MONITORING THE YOUNG PLANET HOST V1298 TAU WITH SPIROU: PLANETARY SYSTEM AND EVOLVING LARGE-SCALE MAGNETIC FIELD](http://adsabs.harvard.edu/abs/2023MNRAS.tmp.2885F)  
+Finociety, B., Donati, J. -F., Cristofari, P. I., et al.    
+2023, refereed ([2023MNRAS.tmp.2885F](http://adsabs.harvard.edu/abs/2023MNRAS.tmp.2885F))  
+<span class="badge">0 citations</span>
+
+14. [ASTROMETRY AND PRECISE RADIAL VELOCITIES YIELD A COMPLETE ORBITAL SOLUTION FOR THE NEARBY ECCENTRIC BROWN DWARF LHS 1610 B](http://adsabs.harvard.edu/abs/2023arXiv231007827F)  
+Fitzmaurice, Evan, Stefánsson, Gudmundur, Kavanagh, Robert D., et al.    
+2023, not refereed ([2023arXiv231007827F](http://adsabs.harvard.edu/abs/2023arXiv231007827F))  
+<span class="badge">0 citations</span>
+
+15. [CHARACTERIZING A WORLD WITHIN THE HOT-NEPTUNE DESERT: TRANSIT OBSERVATIONS OF LTT 9779 B WITH THE HUBBLE SPACE TELESCOPE/WFC3](http://adsabs.harvard.edu/abs/2023AJ....166..158E)  
+Edwards, Billy, Changeat, Quentin, Tsiaras, Angelos, et al.    
+2023, refereed ([2023AJ....166..158E](http://adsabs.harvard.edu/abs/2023AJ....166..158E))  
+<span class="badge">0 citations</span>
+
+16. [DYNAMICAL ARCHITECTURES OF S-TYPE TRANSITING PLANETS IN BINARIES I: TARGET SELECTION USING HIPPARCOS AND GAIA PROPER MOTION ANOMALIES](http://adsabs.harvard.edu/abs/2023arXiv231003299Z)  
+Zhang, Jingwen, Weiss, Lauren M., Huber, Daniel, et al.    
+2023, not refereed ([2023arXiv231003299Z](http://adsabs.harvard.edu/abs/2023arXiv231003299Z))  
+<span class="badge">0 citations</span>
+
+17. [A PLANETARY COLLISION AFTERGLOW AND TRANSIT OF THE RESULTANT DEBRIS CLOUD](http://adsabs.harvard.edu/abs/2023arXiv231008360K)  
+Kenworthy, Matthew, Lock, Simon, Kennedy, Grant, et al.    
+2023, not refereed ([2023arXiv231008360K](http://adsabs.harvard.edu/abs/2023arXiv231008360K))  
+<span class="badge">0 citations</span>
+
+18. [PLANETARY COMPANIONS ORBITING THE M DWARFS GJ 724 AND GJ 3988. A CARMENES AND IRD COLLABORATION](http://adsabs.harvard.edu/abs/2023arXiv231005599G)  
+Gorrini, P., Kemmer, J., Dreizler, S., et al.    
+2023, not refereed ([2023arXiv231005599G](http://adsabs.harvard.edu/abs/2023arXiv231005599G))  
+<span class="badge">0 citations</span>
+
 
 2023-09
 -------
