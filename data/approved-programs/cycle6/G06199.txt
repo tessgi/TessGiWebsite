@@ -11,3 +11,6 @@ Summary: In this program, we will search for periodicities in the \tess~observat
 
 # Sector 070 targets observed (2 min: 1, 20 s: 0)
 388976514,39.6622,16.6165,16.51,G06199
+
+# Sector 072 targets observed (2 min: 1, 20 s: 0)
+10005000535,133.7037,20.1085,15.25,G06199

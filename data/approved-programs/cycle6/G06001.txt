@@ -11,3 +11,6 @@ Summary: Spots and similar features on stars can contaminate efforts to measure 
 
 # Sector 070 targets observed (2 min: 1, 20 s: 1)
 434101713,353.1295,-12.2648,8.88,G06120;G06001;20SECONDTARGET
+
+# Sector 072 targets observed (2 min: 1, 20 s: 1)
+130181866,117.4793,27.3631,6.27,G06040;G06036;G06124;G06165;G06200;G06058;G06001;G06032;20SECONDTARGET
