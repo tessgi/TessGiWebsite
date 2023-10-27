@@ -11,3 +11,6 @@ Summary: The tidally tilted pulsators are a class of oscillating stars in close 
 
 # Sector 071 targets observed (2 min: 1, 20 s: 1)
 68495594,103.3512,33.0595,12.47,G06123;G06110;20SECONDTARGET
+
+# Sector 072 targets observed (2 min: 1, 20 s: 1)
+68495594,103.3512,33.0595,12.47,G06123;G06110;20SECONDTARGET

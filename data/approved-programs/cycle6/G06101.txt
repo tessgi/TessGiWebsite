@@ -11,3 +11,7 @@ Summary: This TESS proposal focuses on eclipsing CVs because they provide the be
 
 # Sector 071 targets observed (2 min: 1, 20 s: 1)
 240122720,101.1431,33.749,13.13,G06057;G06101;G06027;20SECONDTARGET
+
+# Sector 072 targets observed (2 min: 2, 20 s: 2)
+240122720,101.1431,33.749,13.13,G06057;G06101;G06027;20SECONDTARGET
+337646214,131.1129,12.8756,13.88,G06101;G06027;20SECONDTARGET
