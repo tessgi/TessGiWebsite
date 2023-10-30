@@ -164,13 +164,13 @@ KEY_INFORMATION = (
 # Defines the "important dates" box on the front page
 IMPORTANT_DATES = (
     (
-        "<b>7th January 2023</b>",
-        "AAS #241 Workshop: NASAs TESS Mission Interactive Data Workshop",
+        "<b>6th January 2024</b>",
+        "AAS #243 Workshop: NASA's TESS Mission Interactive Data Workshop",
         "",
     ),
     (
-        "<b>10th January 2023</b>",
-        "AAS #241 Splinter Session: Science from the TESS Extended Mission",
+        "<b>9th January 2024</b>",
+        "AAS #243 Splinter Session: Science from the TESS Extended Mission",
         "",
     ),
 )
@@ -178,14 +178,9 @@ IMPORTANT_DATES = (
 # Defines the "meetings" box on the front page
 MEETINGS = (
     (
-        "<b>7th - 12th January 2023</b>",
-        "AAS #241",
-        "https://aas.org/meetings/aas241",
-    ),
-    (
-        "<b>12th - 16th December 2022</b>",
-        "AGU Fall Metting",
-        "https://www.agu.org/Fall-Meeting",
+        "<b>7th - 11th January 2024</b>",
+        "AAS #243",
+        "https://aas.org/meetings/aas243",
     ),
 )
 

@@ -6,6 +6,19 @@ Save_as: conferences.html
 <table class="table table-striped table-hover" style="max-width:55em;">
 
 
+  <tr>
+    <td style="width: 9em;">Jan 2023</td>
+    <td style="width: 25em;">AAS #241: Workshop - NASAs TESS Mission Interactive Data Workshop</a></td>
+    <td><a
+     href="https://submissions.mirasmart.com/AAS241/Itinerary/EventDetail.aspx?evt=56">website</a></td>
+  </tr>
+  
+  <tr>
+    <td style="width: 9em;">Jan 2023</td>
+    <td style="width: 25em;">AAS #241: Splinter Session - Science from the TESS Extended Mission</a></td>
+    <td><a
+     href="https://submissions.mirasmart.com/AAS241/Itinerary/EventDetail.aspx?evt=125">website</a></td>
+  </tr>
 
  <tr>
     <td style="width: 9em;">June 2022</td>
