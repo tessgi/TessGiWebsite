@@ -1,4 +1,4 @@
-Title: TESS Special Bulletin Oct 30th
+Title: TESS Special Bulletin: Oct 30th
 Date: 2023-10-30 10:00
 Author: Rebekah Hounsell
 
