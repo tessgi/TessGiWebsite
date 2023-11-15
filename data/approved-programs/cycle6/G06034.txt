@@ -11,3 +11,6 @@ Summary: M-dwarfs are popular for exoplanets, owing to a short-period habitable 
 
 # Sector 070 targets observed (2 min: 1, 20 s: 1)
 278892590,346.6285,-5.0446,13.85,G06165;G06058;G06002;G06155;G06032;G06195;G06034;G06132;20SECONDTARGET
+
+# Sector 073 targets observed (2 min: 1, 20 s: 1)
+275911914,54.3116,69.1797,11.53,G06057;G06034;20SECONDTARGET
