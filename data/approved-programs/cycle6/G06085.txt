@@ -1,0 +1,13 @@
+# TESS Program G06085
+
+Title: The Study Of Kepler'S Non-Keplerian Orbits With TESS
+
+PI: Prsa, Andrej - Villanova University
+
+Type: SMALL
+
+Summary: NASA's Kepler mission provided us with an unprecedented census of eclipsing multiple stellar systems where gravitational interactions between components cause non-Keplerian orbits. These interactions cause variations in eclipse shapes, durations and timings, allowing us to pin the masses and radii of all components to the accuracy of sub-1%. We propose to extend the temporal baseline for 51 triples oroginally observed by the Kepler mission and acquire 20s cadence observations in TESS sectors 70 through 83. Short cadence is required for an accurate determination of eclipse timings and eclipse shapes. These data will allow us to determine masses and radii using a photodynamical code to better than ~0.1%.
+
+
+# Sector 073 targets observed (2 min: 1, 20 s: 1)
+299096355,289.0759,51.7571,10.94,G06058;G06165;G06085;G06148;G06032;G06022;G06023;20SECONDTARGET
