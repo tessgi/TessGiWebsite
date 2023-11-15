@@ -11,3 +11,7 @@ Summary: This proposal is to obtain ground-based photometry of magnetic cataclys
 
 # Sector 070 targets observed (2 min: 1, 20 s: 1)
 422651186,28.9312,0.4687,17.42,G06035;G06027;20SECONDTARGET
+
+# Sector 073 targets observed (2 min: 2, 20 s: 2)
+743395515,109.8105,65.9622,18.76,G06035;G06027;20SECONDTARGET
+258799357,286.7761,69.1458,17.73,G06035;G06027;20SECONDTARGET
