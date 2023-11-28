@@ -12,8 +12,8 @@ the TESS mission is provided by the NASA's Science Mission Directorate.*
 
 The TESS Science Support Center curates a list of scientific publications
 pertaining to TESS.
-The database contains 1797 publications,
-of which 1617 are peer-reviewed.
+The database contains 1843 publications,
+of which 1651 are peer-reviewed.
 It demonstrates the important impact of TESS data
 on astronomical research.
 
@@ -29,7 +29,7 @@ Or seach by topic:
 If you spot an error in the database, such as a missing entry,
 please get in touch or open an issue in the <a href="https://github.com/tessgi/tpub">GitHub repository</a> of the database.
 
-Last update: 03 Nov 2023.
+Last update: 28 Nov 2023.
 
 <hr/>
 
@@ -46,9 +46,9 @@ of year.
 
 Both TESS data have been used for scientific applications
 that reach far beyond exoplanet research.
-While 713 works relate to exoplanets
+While 734 works relate to exoplanets
 (40%),
-a total of 1084
+a total of 1109
 pertain to other areas of astrophysics
 (60%).
 
@@ -60,7 +60,7 @@ pertain to other areas of astrophysics
 ## Most-cited publications
 
 TESS publications have cumulatively been cited
-25776 times.
+26484 times.
 The list below shows the most-cited publications,
 based on the citation count obtained from NASA ADS.
 
@@ -68,12 +68,12 @@ based on the citation count obtained from NASA ADS.
 1. TRANSITING EXOPLANET SURVEY SATELLITE (TESS)  
 Ricker, George R., Winn, Joshua N., Vanderspek, Roland, et al.    
 [2015JATIS...1a4003R](http://adsabs.harvard.edu/abs/2015JATIS...1a4003R)
-<span class="badge">2463 citations</span>
+<span class="badge">2504 citations</span>
 
 2. THE REVISED TESS INPUT CATALOG AND CANDIDATE TARGET LIST  
 Stassun, Keivan G., Oelkers, Ryan J., Paegert, Martin, et al.    
 [2019AJ....158..138S](http://adsabs.harvard.edu/abs/2019AJ....158..138S)
-<span class="badge">592 citations</span>
+<span class="badge">601 citations</span>
 
 3. THE TESS INPUT CATALOG AND CANDIDATE TARGET LIST  
 Stassun, Keivan G., Oelkers, Ryan J., Pepper, Joshua, et al.    
@@ -83,12 +83,12 @@ Stassun, Keivan G., Oelkers, Ryan J., Pepper, Joshua, et al.
 4. THE TRANSITING EXOPLANET SURVEY SATELLITE: SIMULATIONS OF PLANET DETECTIONS AND ASTROPHYSICAL FALSE POSITIVES  
 Sullivan, Peter W., Winn, Joshua N., Berta-Thompson, Zachory K., et al.    
 [2015ApJ...809...77S](http://adsabs.harvard.edu/abs/2015ApJ...809...77S)
-<span class="badge">380 citations</span>
+<span class="badge">382 citations</span>
 
 5. A FRAMEWORK FOR PRIORITIZING THE TESS PLANETARY CANDIDATES MOST AMENABLE TO ATMOSPHERIC CHARACTERIZATION  
 Kempton, Eliza M. -R., Bean, Jacob L., Louie, Dana R., et al.    
 [2018PASP..130k4401K](http://adsabs.harvard.edu/abs/2018PASP..130k4401K)
-<span class="badge">319 citations</span>
+<span class="badge">322 citations</span>
 
 6. A REVISED EXOPLANET YIELD FROM THE TRANSITING EXOPLANET SURVEY SATELLITE (TESS)  
 Barclay, Thomas, Pepper, Joshua, Quintana, Elisa V.    
@@ -98,22 +98,22 @@ Barclay, Thomas, Pepper, Joshua, Quintana, Elisa V.
 7. LIMB AND GRAVITY-DARKENING COEFFICIENTS FOR THE TESS SATELLITE AT SEVERAL METALLICITIES, SURFACE GRAVITIES, AND MICROTURBULENT VELOCITIES  
 Claret, A.    
 [2017A&A...600A..30C](http://adsabs.harvard.edu/abs/2017A&A...600A..30C)
-<span class="badge">214 citations</span>
+<span class="badge">217 citations</span>
 
 8. STELLAR FLARES FROM THE FIRST TESS DATA RELEASE: EXPLORING A NEW SAMPLE OF M DWARFS  
 Günther, Maximilian N., Zhan, Zhuchang, Seager, Sara, et al.    
 [2020AJ....159...60G](http://adsabs.harvard.edu/abs/2020AJ....159...60G)
-<span class="badge">204 citations</span>
+<span class="badge">209 citations</span>
 
 9. THE TESS OBJECTS OF INTEREST CATALOG FROM THE TESS PRIME MISSION  
 Guerrero, Natalia M., Seager, S., Huang, Chelsea X., et al.    
 [2021ApJS..254...39G](http://adsabs.harvard.edu/abs/2021ApJS..254...39G)
-<span class="badge">185 citations</span>
+<span class="badge">187 citations</span>
 
 10. PHOTOMETRY OF 10 MILLION STARS FROM THE FIRST TWO YEARS OF TESS FULL FRAME IMAGES: PART I  
 Huang, Chelsea X., Vanderburg, Andrew, Pál, Andras, et al.    
 [2020RNAAS...4..204H](http://adsabs.harvard.edu/abs/2020RNAAS...4..204H)
-<span class="badge">177 citations</span>
+<span class="badge">179 citations</span>
 <hr/>
 
 <!-- 
@@ -130,7 +130,7 @@ within the last 90 days.
 <!-- ## Most-active authors
 
 The entries in the publication database have been authored and co-authored
-by a total of 6589 unique author names.
+by a total of 6687 unique author names.
 Here we list the most-active authors, defined as those with six or more first-author publications in our database.
 
 
@@ -140,31 +140,35 @@ Here we list the most-active authors, defined as those with six or more first-au
 
  * Bouma, L (10 publications)
 
+ * Kostov, V (9 publications)
+
  * Lee, J (8 publications)
 
  * Zasche, P (8 publications)
 
- * Kostov, V (8 publications)
+ * Maciejewski, G (8 publications)
 
  * Kunimoto, M (7 publications)
 
  * Sun, Q (7 publications)
 
+ * Jayasinghe, T (7 publications)
+
  * Gan, T (7 publications)
+
+ * Cloutier, R (7 publications)
 
  * Howard, W (7 publications)
 
- * Jayasinghe, T (7 publications)
-
- * Maciejewski, G (7 publications)
+ * Knudstrup, E (6 publications)
 
  * Wong, I (6 publications)
 
- * Koen, C (6 publications)
-
- * Cloutier, R (6 publications)
-
- * Knudstrup, E (6 publications)
+ * Borkovits, T (6 publications)
 
  * Kato, T (6 publications)
+
+ * Kipping, D (6 publications)
+
+ * Koen, C (6 publications)
 -->
