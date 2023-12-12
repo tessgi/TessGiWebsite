@@ -1,0 +1,20 @@
+# TESS Program G06097
+
+Title: Characterizing Ultrasat Targets With TESS
+
+PI: Gilbert, Emily - NASA/JPL
+
+Type: SMALL
+
+Summary: The Ultraviolet Transient Astronomy Satellite (ULTRASAT) mission is launching in 2026, with the aim of studying transients in the ultraviolet (UV), but one of their main science products (300 second cadence UV light curves) will be extremely valuable to the exoplanet community. Once ULTRASAT is operational, we will compare exoplanet transit depths at both visible and UV wavelengths to search for evidence of atmospheric escape. The ULTRASAT Northern high-cadence field is visible in TESS Cycle 6, and we are paving the way for these future studies by searching the Full Frame Image data to discover new planets and refine parameters for known planet candidates in this field. This program is the best way to set ULTRASAT exoplanet science up for success.
+
+
+# Sector 074 targets observed (2 min: 8, 20 s: 8)
+219015370,223.0925,70.4766,10.95,G06058;G06032;G06097;20SECONDTARGET
+219016883,223.3588,68.8594,11.64,G06165;G06097;20SECONDTARGET
+232540264,227.8664,71.8415,8.47,G06058;G06200;G06097;20SECONDTARGET
+233182695,219.0433,68.9407,9.74,G06200;G06097;20SECONDTARGET
+233188747,225.5897,70.9496,12.77,G06032;G06097;20SECONDTARGET
+257060897,227.5323,72.7103,11.26,G06062;G06058;G06165;G06165;G06032;G06097;G06142;20SECONDTARGET
+154105890,210.5134,71.3268,13.06,G06097;20SECONDTARGET
+219467837,210.0641,75.0844,12.64,G06148;G06097;20SECONDTARGET

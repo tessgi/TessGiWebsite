@@ -28,7 +28,26 @@ Cycle 6
 
 
 .. include:: approved-programs/cycle6.html
+	     
+Sector 74
+=========
+.. raw:: html
 
+    <ul class="list-group">
+        <li class="list-group-item">
+          <i class="fa fa-calendar fa-margin"></i>
+           January 03. 2024 - January 30. 2024
+        </li>
+        <li class="list-group-item">
+            <i class="fa fa-download fa-margin"></i>
+            <a href="data/target_lists/sector074_targets_lists/GI_S074.csv">2 min target list (csv)</a>, 
+            <a href="data/target_lists/sector074_targets_lists/GI_20s_S074.csv">20 s target list (csv)</a>
+        </li>
+    </ul>
+
+.. include:: approved-programs/sector074.html
+
+	     
 Sector 73
 =========
 .. raw:: html
@@ -36,7 +55,7 @@ Sector 73
     <ul class="list-group">
         <li class="list-group-item">
           <i class="fa fa-calendar fa-margin"></i>
-           December 07. 2023 - January 03. 2004
+           December 07. 2023 - January 03. 2024
         </li>
         <li class="list-group-item">
             <i class="fa fa-download fa-margin"></i>
