@@ -14,3 +14,6 @@ Summary: We request 20-second cadence data for 33 neutron stars accreting from l
 
 # Sector 073 targets observed (2 min: 1, 20 s: 1)
 468839631,93.0998,70.2114,17.04,G06156;20SECONDTARGET
+
+# Sector 074 targets observed (2 min: 1, 20 s: 1)
+139154287,295.3089,40.2354,14.03,G06156;20SECONDTARGET

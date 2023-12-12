@@ -11,3 +11,7 @@ Summary: GJ 1243 and GJ 1101 are very active M-type stars. Analysis of their opt
 
 # Sector 073 targets observed (2 min: 1, 20 s: 1)
 289972535,118.9578,83.3807,10.43,G06048;20SECONDTARGET
+
+# Sector 074 targets observed (2 min: 2, 20 s: 2)
+289972535,118.9578,83.3807,10.43,G06048;20SECONDTARGET
+273589987,297.7906,46.4852,10.25,G06171;G06120;G06048;20SECONDTARGET
