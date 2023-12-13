@@ -8,7 +8,7 @@ The TESS GI office has developed some new outreach products for the community. W
 
 
 
-[TESS Extended Mission](images/TESS-extended-mission-updated-FIN.pdf) | [All-Sky Vista](images/AllSky-FIN.pdf) |
+[TESS Extended Mission](images/TESS-extended-mission-updated-FIN.pdf) | [All-Sky Vista](images/Allsky-FIN.pdf) |
 :-------------------------|:-------------------------
 <img class="img-responsive" style="max-width:90%;"  src="images/TESS-extended-mission.png"> | <img class="img-responsive" style="max-width:100%;"  src="images/All-Sky.png"> 
 
