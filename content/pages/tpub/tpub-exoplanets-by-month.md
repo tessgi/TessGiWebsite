@@ -66,6 +66,56 @@ Mann, Christopher R., Dalba, Paul A., Lafrenière, David, et al.
 2023, refereed ([2023AJ....166..239M](http://adsabs.harvard.edu/abs/2023AJ....166..239M))  
 <span class="badge">0 citations</span>
 
+7. [THREE WARM JUPITERS AROUND SOLAR-ANALOG STARS DETECTED WITH TESS](http://adsabs.harvard.edu/abs/2023AJ....166..271E)  
+Eberhardt, Jan, Hobson, Melissa J., Henning, Thomas, et al.    
+2023, refereed ([2023AJ....166..271E](http://adsabs.harvard.edu/abs/2023AJ....166..271E))  
+<span class="badge">0 citations</span>
+
+8. [EVIDENCE FOR LOW-LEVEL DYNAMICAL EXCITATION IN NEAR-RESONANT EXOPLANET SYSTEMS](http://adsabs.harvard.edu/abs/2023AJ....166..266R)  
+Rice, Malena, Wang, Xian-Yu, Wang, Songhu, et al.    
+2023, refereed ([2023AJ....166..266R](http://adsabs.harvard.edu/abs/2023AJ....166..266R))  
+<span class="badge">0 citations</span>
+
+9. [THE TESS-KECK SURVEY XVII: PRECISE MASS MEASUREMENTS IN A YOUNG, HIGH MULTIPLICITY TRANSITING PLANET SYSTEM USING RADIAL VELOCITIES AND TRANSIT TIMING VARIATIONS](http://adsabs.harvard.edu/abs/2023arXiv231204635B)  
+Beard, Corey, Robertson, Paul, Dai, Fei, et al.    
+2023, not refereed ([2023arXiv231204635B](http://adsabs.harvard.edu/abs/2023arXiv231204635B))  
+<span class="badge">0 citations</span>
+
+10. [SEPARATED TWINS OR JUST SIBLINGS? A MULTIPLANET SYSTEM AROUND AN M DWARF INCLUDING A COOL SUB-NEPTUNE](http://adsabs.harvard.edu/abs/2023ApJ...959L...1H)  
+Harris, Mallory, Dragomir, Diana, Mireles, Ismael, et al.    
+2023, refereed ([2023ApJ...959L...1H](http://adsabs.harvard.edu/abs/2023ApJ...959L...1H))  
+<span class="badge">0 citations</span>
+
+11. [NO EVIDENCE FOR MORE EARTH-SIZED PLANETS IN THE HABITABLE ZONE OF KEPLER'S M VERSUS FGK STARS](http://adsabs.harvard.edu/abs/2023AJ....166..234B)  
+Bergsten, Galen J., Pascucci, Ilaria, Hardegree-Ullman, Kevin K., et al.    
+2023, refereed ([2023AJ....166..234B](http://adsabs.harvard.edu/abs/2023AJ....166..234B))  
+<span class="badge">0 citations</span>
+
+12. [PHOTOMETRIC FOLLOW-UP OF THE 20 MYR OLD MULTI-PLANET HOST STAR V1298 TAU WITH CHEOPS AND GROUND-BASED TELESCOPES](http://adsabs.harvard.edu/abs/2023A&A...680A...8D)  
+Damasso, M., Scandariato, G., Nascimbeni, V., et al.    
+2023, refereed ([2023A&A...680A...8D](http://adsabs.harvard.edu/abs/2023A&A...680A...8D))  
+<span class="badge">0 citations</span>
+
+13. [THE ALIGNED ORBIT OF THE ECCENTRIC PROTO HOT JUPITER TOI-3362B](http://adsabs.harvard.edu/abs/2023ApJ...958L..20E)  
+Espinoza-Retamal, Juan I., Brahm, Rafael, Petrovich, Cristobal, et al.    
+2023, refereed ([2023ApJ...958L..20E](http://adsabs.harvard.edu/abs/2023ApJ...958L..20E))  
+<span class="badge">0 citations</span>
+
+14. [TOI-4641B: AN ALIGNED WARM JUPITER ORBITING A BRIGHT (V=7.5) RAPIDLY ROTATING F-STAR](http://adsabs.harvard.edu/abs/2023arXiv231203971B)  
+Bieryla, Allyson, Zhou, George, García-Mejía, Juliana, et al.    
+2023, not refereed ([2023arXiv231203971B](http://adsabs.harvard.edu/abs/2023arXiv231203971B))  
+<span class="badge">0 citations</span>
+
+15. [TWO LONG-PERIOD GIANT PLANETS AROUND TWO GIANT STARS: HD 112570 AND HD 154391](http://adsabs.harvard.edu/abs/2023arXiv231201388X)  
+Xiao, Guang-Yao, Teng, Huan-Yu, Zhou, Jianzhao, et al.    
+2023, not refereed ([2023arXiv231201388X](http://adsabs.harvard.edu/abs/2023arXiv231201388X))  
+<span class="badge">0 citations</span>
+
+16. [KEPLER BONUS: LIGHT CURVES OF KEPLER BACKGROUND SOURCES](http://adsabs.harvard.edu/abs/2023AJ....166..265M)  
+Martínez-Palomera, Jorge, Hedges, Christina, Dotson, Jessie    
+2023, refereed ([2023AJ....166..265M](http://adsabs.harvard.edu/abs/2023AJ....166..265M))  
+<span class="badge">0 citations</span>
+
 
 2023-11
 -------
