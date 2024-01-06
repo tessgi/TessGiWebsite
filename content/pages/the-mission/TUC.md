@@ -23,13 +23,7 @@ The [TUC Charter](data/TESS_Users_Committee_Charter_2023Aug15.pdf) describes in 
 - Krista Lynne Smith, Texas A&M University
 
 
-### Agenda for the TESS Users Committee Meeting on November 8 2023.
-Questions indicate the broad direction of the topics that the TUC intends to discuss. If you have specific feedback or suggestions, please contact TUC members before the meeting.
-
-- <ins>Extended Mission Planning:</ins> How can the community get involved, provide suggestions, and help with future TESS observing strategies and senior review proposals?
-- <ins>General Investigator Program:</ins> Which existing GI opportunities provide the best support for the community? Which future GI opportunities would the community like to see?
-- <ins>TESS Software & Databases:</ins> Which software and databases are needed to best support the TESS community? How can the TESS community contribute?
-- <ins>Diversity, equity, inclusion, and accessibility (DEIA):</ins> What are the current DEIA efforts within the TESS project and how can they be improved?  
-- <ins>Science Working Groups (TFOP, ACWG, TASC, etc):</ins> Which working groups exist and how can they best be supported? Which changes would the community would like to see within these working groups?
+### Committee Reports
+- [Report from November 08, 2023 meeting](data/TESS-Users-Committee-Meeting-Report-Nov082023.pdf)
   
-*Modified October 30th 2023*
+*Modified January 5th 2024*
