@@ -19,3 +19,7 @@ Summary: While terrestrial planets around M dwarfs are superlative opportunities
 
 # Sector 072 targets observed (2 min: 1, 20 s: 1)
 7983187,157.1457,-0.0087,13.3,G06176;G06197;20SECONDTARGET
+
+# Sector 075 targets observed (2 min: 2, 20 s: 2)
+416538823,183.9327,52.5161,11.61,G06176;20SECONDTARGET
+313274579,205.2503,60.436,16.75,G06176;G06151;20SECONDTARGET

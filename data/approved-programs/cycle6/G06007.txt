@@ -1,0 +1,13 @@
+# TESS Program G06007
+
+Title: Asteroseismology Of Member Stars Of Wide Binaries With Discrepant Compositions: Key To Testing Planet Ingestion Models
+
+PI: Gonzalez, Guillermo - Tellus1 Scientific Llc
+
+Type: SMALL
+
+Summary: Recent spectroscopic studies of sun-like stars in wide binaries have revealed members in some pairs to have significantly discrepant chemical abundances. There is evidence from the relative chemical abundance patterns of binary star pairs (derived from spectroscopic fine analyses) that planet engulfment/ingestion has altered the surface composition of some of these stars. We propose to obtain TESS 20-second cadence observations of the member stars of these binaries for the purpose of determining their asteroseismic parameters. Our target list includes wide binaries with an angular separation greater than 22 arc seconds to reduce contamination of the light curve of each star from its companion (but a decontamination step in the analysis pipeline will be included).
+
+
+# Sector 075 targets observed (2 min: 1, 20 s: 1)
+55762408,182.0274,55.4639,7.32,G06200;G06007;20SECONDTARGET
