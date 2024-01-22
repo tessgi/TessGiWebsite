@@ -44,3 +44,8 @@ Summary: We intend to obtain very high precision light curves of a sample of det
 # Sector 074 targets observed (2 min: 2, 20 s: 0)
 142791832,162.2576,67.2145,9.96,G06057;G06112
 198354348,255.9706,57.3655,10.24,G06112
+
+# Sector 075 targets observed (2 min: 3, 20 s: 0)
+142791832,162.2576,67.2145,9.96,G06057;G06112
+302668828,163.2545,57.7023,8.75,G06194;G06057;G06112
+198354348,255.9706,57.3655,10.24,G06112
