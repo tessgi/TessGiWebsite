@@ -1,0 +1,209 @@
+%% LaTeX template for the Team Expertise and Background 
+%% document  to be submitted as part of a TESS
+%% proposal.
+%%
+%% TESS Proposal Cycle 7
+%% V1.0
+%% 2021-12-03
+%% V1.1
+%% 2024-01-25
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%% DOCUMENT FORMAT %%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%% The default font was chosen to be easily readable while allowing
+%% sufficient material to be included.
+
+%% There are three documentclass commands provided below. Please
+%% uncomment the version you would like to use and comment out the
+%% others.
+
+%% Please note that the proposal will be printed on US Letter size paper,
+%% 8.5 in x 11 in, and that formatting the text for other sizes will
+%% generally cause layout problems and may result in text being cut
+%% off near the edges. PLEASE DO NOT CHANGE THE 'LETTERPAPER' OPTION
+%% IN THE DOCUMENTCLASS COMMAND.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%% Default format: 12pt single column %%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%% Minimum margin size is 1 inch from top, bottom, and sides.
+%% Font size: see NASA Guidebook for Proposers 
+%%(https://www.hq.nasa.gov/office/procurement/nraguidebook/proposer2018.pdf).
+
+\documentclass[letterpaper,12pt]{article}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%% HOW TO INCLUDE FIGURES %%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%% Please see the ``Included packages'' section below.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%% Included packages %%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\usepackage{graphics,graphicx}
+\usepackage[colorlinks]{hyperref}
+\hypersetup{urlcolor=blue}
+\usepackage{cleveref}
+
+%% Feel free to modify the included packages list to use your
+%% favorite packages. 
+
+%% In the graphics and graphicx packages, Postscript and eps figures
+%% can be included using the \includegraphics command. The graphics
+%% package is part of standard LaTeX2e and provides a basic way of including a
+%% figure. The graphicx package is not standard, but extends the
+%% \includegraphics command to make it more user-friendly. If graphicx
+%% is not available on your system please remove it from the list of
+%% included packages above.  
+
+%% Syntax:
+%% In the graphics package:
+%%
+%% \begin{figure}
+%% \includegraphics[llx,lly][urx,ury]{file}
+%% \end{figure}
+%%
+%% where ll denotes 'lower left' and ur 'upper right' and the x and y
+%% values are the coordinates of the PostScript bounding box in
+%% points. There are 72 points in an inch.
+%%
+%% In the graphicx package:
+%% 
+%% \begin{figure}
+%% \includegraphics[key=val,key=val,...]{file}
+%% \end{figure}
+%%
+%% where some of the useful keys are: angle, width, height,
+%% keepaspectratio (='true' or 'false') and scale. Bounding box values
+%% can be given as [bb=llx lly urx ury].
+%%
+%% In either case you have to use LaTeX figure placement commands to
+%% position the figure on the page; \includegraphics will not do
+%% that. Both these commands also have other options that are listed
+%% in the LaTeX manual (for the graphics package) and in 'The LaTeX
+%% Graphics Companion' (for the graphicx package).
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%% Page dimensions %%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\setlength{\textwidth}{6.5in} 
+\setlength{\textheight}{9in}
+\setlength{\topmargin}{-0.0625in} 
+\setlength{\oddsidemargin}{0in}
+\setlength{\evensidemargin}{0in} 
+\setlength{\headheight}{0in}
+\setlength{\headsep}{0in} 
+\setlength{\hoffset}{0in}
+\setlength{\voffset}{0in}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%% Section heading format %%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\makeatletter
+\renewcommand{\section}{\@startsection%
+{section}{1}{0mm}{-\baselineskip}%
+{0.5\baselineskip}{\normalfont\Large\bfseries}}%
+\makeatother
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%% Some Useful Abbreviations %%%%% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newcommand{\tess}{{\it TESS}}
+\newcommand{\jwst}{{\it JWST}}
+\newcommand{\kepler}{{\it Kepler}}
+\newcommand{\ktwo}{{K2}}
+\newcommand{\hst}{{\it HST}}
+\newcommand{\swift}{{\it Swift}}
+\newcommand{\integral}{{\it INTEGRAL}}
+\newcommand{\nustar}{{\it NuSTAR}}
+\newcommand{\fermi}{{\it Fermi}}
+\newcommand{\nicer}{{\it NICER}}
+\newcommand{\ms}{$M_{\odot}$}
+\newcommand{\rs}{$R_{\odot}$}
+\newcommand{\ls}{$L_{\odot}$}
+\newcommand{\re}{$R_{\oplus}$}
+\newcommand{\me}{$M_{\oplus}$}
+\newcommand{\kms}{km~s$^{-1}$}
+\newcommand{\fluxcgs}{ergs~s$^{-1}$~cm$^{-2}$}
+\newcommand{\lumcgs}{ergs~s$^{-1}$}
+\newcommand{\rj}{$R_{\textrm{\scriptsize Jup}}$}
+\newcommand{\mj}{$M_{\textrm{\scriptsize Jup}}$}
+\newcommand{\msec}{m~s$^{-1}$}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%% Start of document %%%%% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+\pagestyle{plain}
+\pagenumbering{arabic}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%% Team Expertise and Background  Document  %%%%% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{center} 
+\bfseries\uppercase{
+%%
+Team Expertise and Background Document 
+%%
+%%
+}
+\end{center}
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%  Revise the title, investigator list, and team expertise description below as needed. %%%%% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%% Title of proposal %%%%% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\noindent{\bf Proposal Title:}\\
+Science with TESS\\
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% An alphabetized list of all investigators identifying 
+%%% their role (e.g., PI or Co-I(s))
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\noindent{\bf Alphabetized list of investigators:}\\
+Dr. Bruce Banner (PI; Institution 1) \\
+Dr. Wanda Maximoff (Co-I; Institution 2) \\
+Dr. Stephen Strange (Co-I; Institution 3) \\
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%% Descriptions of the scientific and technical expertise each investigator brings
+%%%% any specific resources (e.g., access to a laboratory or observatory) that 
+%%%% are required to perform the proposed investigation.
+
+%%%% https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=736703/solicitationId=%7B4B9CAAB3-D398-183A-B1F3-EF963DF415C7%7D/viewSolicitationDocument=1/Guidelines%20for%20Anonymous%20Proposals%20DAPR%20Doc%20Astro%20GO%20Programs.pdf 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\noindent{\bf Team expertise:}\\
+Dr. Wanda Maximoff (Institution 2) has over 25 years of experience in the project management of space-based science missions. Dr. Bruce Banner (Institution 1) is an expert in telematics and satellite communications, and previously served as the Project Scientist for NASA's Parker Solar Probe. Dr. Stephen Strange (Institution 3) brings expertise in the conceptualization and development of planetary instrumentation. Dr. Banner is an expert in X-ray emission from neutron stars, black holes, and globular clusters. Through his institutional affiliation, Dr. Banner has access to the synchrotron beamline necessary to complete the proposed work.
+  
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%% End of document %%%%% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\end{document}
