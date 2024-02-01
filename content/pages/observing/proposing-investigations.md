@@ -3,9 +3,9 @@ Save_as: proposing-investigations.html
 
 [TOC]
 
-The TESS General Investigator (GI) program is intended to enable the community to participate in science investigations using TESS. The program enables teams to propose the collection of new 2-minute and 20-second cadence targets and provides funding to selected US investigators to analyze 2-minute and 20-second cadence and full-frame image (FFI) data, which now has a cadence of 200 seconds. Details of the proposal process are given on this page. Proposals are 2-6 pages, target lists for 2-min and 20-sec postage stamp targets must be submitted along with the proposal, and target lists must follow a required format described [below](proposing-investigations.html#target-of-opportunity-observations). The GI program also provides funding for US investigators to collect ground-based data that supports TESS science. All proposals are managed by the [GI office](helpdesk.html).
+The TESS General Investigator (GI) program is intended to enable the community to participate in science investigations using TESS. The program enables teams to propose the collection of new 2-minute and 20-second cadence targets and provides funding to selected US investigators to analyze 2-minute and 20-second cadence and full-frame image (FFI) data, which now has a cadence of 200 seconds. Details of the proposal process are given on this page. Proposals should have a Science/Technical/Management (S/T/M) section that is 2-6 pages long, followed by a two page [Open Science and Data Management Plan (OSDMP)](https://science.nasa.gov/researchers/sara/faqs/osdmp/). Target lists for 2-min and 20-sec postage stamp targets must be submitted along with the proposal, and must follow a required format described [below](proposing-investigations.html#target-of-opportunity-observations). The GI program also provides funding for US investigators to collect ground-based data that supports TESS science. All proposals are managed by the [GI office](helpdesk.html).
 
-The next opportunity is TESS Cycle 7, which begins observations in October 2024 and ends in September 2025, covering observing Sectors 84 - 96. TESS Cycle 7 proposals are solicited for targets in the Northern and Southern Ecliptic Hemispheres and in
+The next opportunity is TESS Cycle 7, which begins observations in <b>October 2024</b> and ends in <b>September 2025</b>, covering observing <b>Sectors 84 - 96</b>. TESS Cycle 7 proposals are solicited for targets in the Northern and Southern Ecliptic Hemispheres and in
 fields along the ecliptic plane.
 
 There is no exclusive-use data rights to observations collected by TESS. All data is made available through the [MAST public archive](http://archive.stsci.edu/tess/summary.html) once data processing and validation is complete.
@@ -21,7 +21,7 @@ Important information and useful tools for Cycle 7 proposals are highlighted in 
 
   <tr>
     <td style="width: 15em;">
-     The Cycle 7 proposal deadline is on March 21, 2024 at 4.30pm EDT. Proposals must be submitted through the  <a href="https://heasarc.gsfc.nasa.gov/ark/rps/">ARK/RPS site</a>.</td>
+     The Cycle 7 proposal deadline is on <b>March 21, 2024 at 4.30pm EDT</b>. Proposals must be submitted through the  <a href="https://heasarc.gsfc.nasa.gov/ark/rps/">ARK/RPS site</a>.</td>
   </tr>
 
   <tr>
@@ -31,12 +31,12 @@ Important information and useful tools for Cycle 7 proposals are highlighted in 
 
   <tr>
     <td style="width: 15em;">
-     Cycle 7 proposals may include the use of archival data to support investigations using new data. At least 25% of the proposed work effort must require new data.</td>
+     <b>New in Cycle 7:</b> Cycle 7 proposals may include the use of archival data to support investigations using new data. At least <b>25%</b> of the proposed work effort must require new data.</td>
   </tr>
   
   <tr>
     <td style="width: 15em;">
-     New in Cycle 7, a 2-page <a href="https://science.nasa.gov/researchers/sara/faqs/osdmp/">Open Science and Data Management Plan</a> is required. This separate section directly follows the Science/Technical/Management (S/T/M) section but does not count towards its page limit.</td>
+     <b>New in Cycle 7:</b> A 2-page <a href="https://science.nasa.gov/researchers/sara/faqs/osdmp/"><b>Open Science and Data Management Plan (OSDMP)</b></a> is required. This separate section directly follows the Science/Technical/Management (S/T/M) section but does not count towards its page limit.</td>
   </tr>
 
   <tr>
@@ -74,6 +74,8 @@ There are three categories of TESS GI proposals for Cycle 7; investigators are f
 * Large proposals - Proposals of wide-ranging scope and science yield. Large proposals must deliver a clear benefit for the broader scientific community.
 
 Mini proposals are limited to no more than two pages for the S/T/M section. Small proposals are restricted to four pages for the S/T/M section. Large proposals should be a total of six pages long, where the additional space in the S/T/M section is used to describe the benefits that the program will provide to the scientific community. References and the OSDMP are not included in the page limits.
+
+If you are unsure of which proposal type might meet your investigations needs, please review our [flow-chart](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=918701/solicitationId=%7B574AD906-1C28-5997-FEBF-2D3B9195A548%7D/viewSolicitationDocument=1/D.10%20TESSCycle7_%20Amend75.pdf#page=6), or reach out to the [TESS Science Support Center](tesshelp@bigbang.gsfc.nasa.gov).
 
 ### Ground-based observation focused projects
 Proposals that support the acquisition and analysis of scientific data from ground-based telescopes are solicited. Ground-based observing focused proposals may support the analysis and/or interpretation of TESS scientific data collected in Cycle 7 or TESS data already collected in Cycles 1-6.
@@ -122,9 +124,12 @@ When writing a proposal the user should consider the following,
 * The scientific justification of a GI proposal should focus on a compelling investigation that requires the collection of new TESS data or new ground-based data that supports the analysis and/or interpretation of TESS data.
 * The proposed TESS General Investigation must clearly enhance the science return of the TESS mission.
 * The proposal may include limited theoretical components, software development and/or data simulation that strengthens the proposal.
-    * Proposals must clearly describe the plans to make any new software, higher level data products and/or supporting data publicly available
-    * Software developed with TESS GI funds must add value to the TESS science community, be free, and open source.
-* At least 25% of the work effort should be focused on exploiting TESS data products, except in the case of ground-based observing focused proposals.
+* The proposal must contain an OSDMP. 
+    * Proposals must clearly describe the plans to make any new software, higher level data products and/or supporting data publicly available.
+    * Software developed with TESS GI funds must add value to the TESS science community, be free, and have the source code openly accessible.
+    * Proposals that would create software must discuss in their OSDMP what practices they will follow to develop any tooling. This includes how tools will be distributed, version controlled, tested, and documented.
+    *  Guidelines on Open-Source Science can be found [online](http://science.nasa.gov/oss-guidance).
+* At least 25% of the work effort should be focused on exploiting new TESS data products, except in the case of ground-based observing focused proposals.
 * Proposals that are focused on ground-based observing programs must have a clear science driver and describe how the ground-based component is both feasible and required for analysis and/or interpretation of TESS data.
     * Ground-based data collected with TESS GI funding support must be made publicly available in a timely fashion at either the NASA Exoplanet Science  Institute (NExScI) [ExoFOP service](https://exofop.ipac.caltech.edu) or as a [MAST High-Level Science Product](http://archive.stsci.edu/hlsp/)
 * Other data products created with TESS GI funding support should be archived as a MAST High-Level Science Product (http://archive.stsci.edu/hlsp/).
