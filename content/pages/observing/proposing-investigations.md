@@ -3,7 +3,7 @@ Save_as: proposing-investigations.html
 
 [TOC]
 
-The TESS General Investigator (GI) program is intended to enable the community to participate in science investigations using TESS. The program enables teams to propose the collection of new 2-minute and 20-second cadence targets and provides funding to selected US investigators to analyze 2-minute and 20-second cadence and full-frame image (FFI) data, which now has a cadence of 200 seconds. Details of the proposal process are given on this page. Proposals should have a Science/Technical/Management (S/T/M) section that is 2-6 pages long, followed by a two page [Open Science and Data Management Plan (OSDMP)](https://science.nasa.gov/researchers/sara/faqs/osdmp/). Target lists for 2-min and 20-sec postage stamp targets must be submitted along with the proposal, and must follow a required format described [below](proposing-investigations.html#target-of-opportunity-observations). The GI program also provides funding for US investigators to collect ground-based data that supports TESS science. All proposals are managed by the [GI office](helpdesk.html).
+The TESS General Investigator (GI) program is intended to enable the community to participate in science investigations using TESS. The program enables teams to propose the collection of new 2-minute and 20-second cadence targets and provides funding to selected US investigators to analyze 2-minute and 20-second cadence and full-frame image (FFI) data, which now has a cadence of 200 seconds. Details of the proposal process are given on this page. Proposals should have a Science/Technical/Management (S/T/M) section that is 2-6 pages long (depending on the proposal type), followed by a two page [Open Science and Data Management Plan (OSDMP)](https://science.nasa.gov/researchers/sara/faqs/osdmp/). Target lists for 2-min and 20-sec postage stamp targets must be submitted along with the proposal, and must follow a required format described [below](proposing-investigations.html#target-of-opportunity-observations). The GI program also provides funding for US investigators to collect ground-based data that supports TESS science. All proposals are managed by the [GI office](helpdesk.html).
 
 The next opportunity is TESS Cycle 7, which begins observations in <b>October 2024</b> and ends in <b>September 2025</b>, covering observing <b>Sectors 84 - 96</b>. TESS Cycle 7 proposals are solicited for targets in the Northern and Southern Ecliptic Hemispheres and in
 fields along the ecliptic plane.
@@ -91,7 +91,7 @@ Proposals for joint HST observations should be submitted through the HST GO prog
 Proposals for joint Fermi observations may be submitted through the Fermi GI program, and the TESS targets will be recommended by that review. Funds for selected programs will be awarded from the Fermi project for joint investigations in this case (and no funds will be awarded from the TESS project). Alternatively, proposals that plan to make use of Fermi data may be submitted to the TESS GI program. TESS GI funding is available to successful U.S.-based investigators who submit a joint TESS-Fermi proposal. If accepted as a TESS proposal no funds will be awarded from Fermi project. 
 
 The TESS GI program can also award Swift observations through a joint program with the Swift mission. A minimum of 100 ks Swift time will be available through this program. 
-TESS has also established a joint program with the Neutron Star Interior Composition ExploreR (NICER). Up to 300 ksec of NICER time will be available in Cycle 6 through the TESS GI Program. 
+TESS has also established a joint program with the Neutron Star Interior Composition ExploreR (NICER). Up to 300 ksec of NICER time will be available in Cycle 7 through the TESS GI Program. 
 
 Proposals wishing to take advantage of the joint TESS Swift/NICER programs must adhere to the following constraints:
 
@@ -145,7 +145,7 @@ Proposers must take into account the difference between science that can be achi
 
 Example proposal templates can be found on the [template page](proposal-templates.html).
 
-Investigations focused on the analysis of archival TESS data from Cycles 1, 2, 3, 4, 5 and/or 6, are not compliant with this solicitation and should be submitted to the ROSES-2023 Astrophysics Data Analysis Program (ADAP; D.2) or the Exoplanet Research Program (XRP; E.3).
+Investigations that are focused on the analysis of only archival TESS data from Cycles 1, 2, 3, 4, 5 and/or 6 and that do not fall under the TESS ground-based focused program category, are not compliant with this solicitation and should be submitted to the ROSES-2023 Astrophysics Data Analysis Program (ADAP; D.2) or the Exoplanet Research Program (XRP; E.3).
 
 
 ## Target selection
@@ -236,7 +236,6 @@ The key requirements for preparing anonymized Phase-1 proposals are:
 * References: References should be in the [1], [2] format.
 * Work plan: Include an anonymized one-paragraph (minimum) work plan in the main body of the Phase-1 proposal.
 * Open Science and Data Management Plan: All Phase-1 proposals must have an anonymized OSDMP, directly following the S/T/M. This should be no more than two pages in length and does not count against the S/T/M page limit.  
-* Proposal length: No change.
 * Separate “Expertise and Resources - Not Anonymized” document: This document provides a list of all team members, their roles, expertise, and contributions to the work. The document should also discuss any specific resources that are key to completing the proposed work.
 
 NASA understands that dual-anonymous peer review represents a major shift in the evaluation of proposals, and as such there may be occasional slips in writing anonymized proposals. However, NASA reserves the right to return without review proposals that are particularly egregious in terms of the identification of the proposing team.
@@ -250,7 +249,7 @@ As stated above Cycle 7 will be a dual-anonymous peer review. In order to meet t
 NASA recognizes and supports the benefits of having diverse and inclusive scientific, engineering, and technology communities and fully expects that such values will be reflected in the composition of all panels and teams including peer review panels (science, engineering, and technology), proposal teams, science definition teams, and mission and instrument teams.
 
 ## Availability of funds
-The total amount of funding for Cycle 7 available to U.S.-based PIs through this solicitation is ~$3M. TESS GI funding is open to all individuals who are identified as Principal Investigators and employed at U.S. institutions. 
+The total amount of new funding for Cycle 7 available to U.S.-based PIs through this solicitation is ~$2.5M. TESS GI funding is open to all individuals who are identified as Principal Investigators and employed at U.S. institutions. 
 
 The dollar amounts assigned to each proposal category are maximum award amounts and are roughly listed below,
 
