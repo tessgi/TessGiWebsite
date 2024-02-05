@@ -79,6 +79,10 @@ Save_as: data_release_notes.html
 	<option value="sector-67">67</option>
 	<option value="sector-68">68</option>
 	<option value="sector-69">69</option>
+	<option value="sector-70">70</option>
+	<option value="sector-71">71</option>
+	<option value="sector-72">72</option>
+	<option value="sector-73">73</option>
 
       </select>
     </form>
@@ -362,6 +366,25 @@ Save_as: data_release_notes.html
     <div id="sector-69" class="drn">
       {! content/docs/data-release-notes/sector_69.html !}
     </div>
+
+    <div id="sector-70" class="drn">
+      {! content/docs/data-release-notes/sector_70.html !}
+    </div>
+
+    <div id="sector-71" class="drn">
+      {! content/docs/data-release-notes/sector_71.html !}
+    </div>
+
+    <div id="sector-72" class="drn">
+      {! content/docs/data-release-notes/sector_72.html !}
+    </div>
+
+    <div id="sector-73" class="drn">
+      {! content/docs/data-release-notes/sector_73.html !}
+    </div>
+    
+    
+    
     
   </div>
 </div>
