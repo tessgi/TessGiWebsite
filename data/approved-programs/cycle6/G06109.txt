@@ -29,3 +29,6 @@ Summary: RV searches on stars pre-selected through their anomalously low chromos
 
 # Sector 075 targets observed (2 min: 1, 20 s: 1)
 26884478,293.5828,51.2354,5.26,G06109;G06191;G06194;20SECONDTARGET
+
+# Sector 076 targets observed (2 min: 1, 20 s: 1)
+26884478,293.5828,51.2353,5.26,G06109;G06191;G06194;20SECONDTARGET
