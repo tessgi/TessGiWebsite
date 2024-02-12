@@ -23,11 +23,11 @@ HD 118203 is host to a Jovian planet with an orbital period of 6.1 days and ecce
 
 
 ![Sorabella2023](images/Sorabella_2023_Fig3.png)
-**Fig. 2:** *Taken from Sorabella et al. (2024). Photometric (left panels) and spectroscopic (right panels) observations of the self-lensing binary system KIC 12254688, along with the corresponding best-fit models. The left panels show the phase-folded data from TESS (upper panel) and Kepler (lower panel).*
+**Fig. 1:** *Taken from Sorabella et al. (2024). Photometric (left panels) and spectroscopic (right panels) observations of the self-lensing binary system KIC 12254688, along with the corresponding best-fit models. The left panels show the phase-folded data from TESS (upper panel) and Kepler (lower panel).*
 
 
 ![Zhang2023](images/Zhang_2023_Fig1.png)
-**Fig. 1:** *Taken from Zhang et al. (2023). A section of TESS data from Sector 62 for TIC 184743498 highlighting the stellar eclipses, the out-of-eclipse variations, and the pulsations of the delta Scuti primary star.*
+**Fig. 2:** *Taken from Zhang et al. (2023). A section of TESS data from Sector 62 for TIC 184743498 highlighting the stellar eclipses, the out-of-eclipse variations, and the pulsations of the delta Scuti primary star.*
 
 ![Castro2023](images/Castro_2023_Fig6.png)
 **Fig. 3:** *Taken from Castro-González et al. (2023). Periodogram analysis of TESS photometry for HD 118203. Left panels: TESS data from Sectors 15, 16, 22, and 49. Middle panels: corresponding periodograms. Right panels: Same as left panels, but phase-folded on the best-fit periods indicated in the middle panels.*
