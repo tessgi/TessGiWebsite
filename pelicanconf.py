@@ -166,7 +166,7 @@ IMPORTANT_DATES = (
     (
         "<b>21st March 2024</b>",
         "Cycle 7 proposal deadline 4:30pm EDT",
-        "",
+        "https://heasarc.gsfc.nasa.gov/docs/tess/proposing-investigations.html",
     ),
  
 )
