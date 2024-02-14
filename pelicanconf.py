@@ -164,24 +164,21 @@ KEY_INFORMATION = (
 # Defines the "important dates" box on the front page
 IMPORTANT_DATES = (
     (
-        "<b>6th January 2024</b>",
-        "AAS #243 Workshop: NASA's TESS Mission Interactive Data Workshop",
+        "<b>21st March 2024</b>",
+        "Cycle 7 proposal deadline 4:30pm EDT",
         "",
     ),
-    (
-        "<b>9th January 2024</b>",
-        "AAS #243 Splinter Session: Science from the TESS Extended Mission",
-        "",
-    ),
+ 
 )
 
 # Defines the "meetings" box on the front page
 MEETINGS = (
     (
-        "<b>7th - 11th January 2024</b>",
-        "AAS #243",
-        "https://aas.org/meetings/aas243",
+        "<b>29th July - 2nd August 2024</b>",
+        "TESS Science conference III",
+        "https://tsc.mit.edu/",
     ),
+    
 )
 
 # Defines the "related websites" listing in the footer of all pages
