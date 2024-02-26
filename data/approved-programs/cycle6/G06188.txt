@@ -46,3 +46,8 @@ Summary: Hot subdwarf stars are the exposed helium-fusing cores of giant stars t
 
 # Sector 076 targets observed (2 min: 1, 20 s: 0)
 249699428,339.2893,48.9864,11.5,G06188
+
+# Sector 077 targets observed (2 min: 3, 20 s: 0)
+1000656229,205.524,28.3178,18.39,G06188
+249699428,339.2893,48.9864,11.5,G06188
+313566148,345.1317,54.2336,12.81,G06188
