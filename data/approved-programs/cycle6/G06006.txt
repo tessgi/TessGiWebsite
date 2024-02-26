@@ -25,3 +25,6 @@ Summary: Many red giants, each observed over multiple sectors with TESS, have pr
 # Sector 076 targets observed (2 min: 2, 20 s: 2)
 257005035,224.2956,74.9415,7.84,G06006;20SECONDTARGET
 256663850,300.5549,64.6589,7.12,G06006;20SECONDTARGET
+
+# Sector 077 targets observed (2 min: 1, 20 s: 1)
+256663850,300.5549,64.6589,7.12,G06006;20SECONDTARGET
