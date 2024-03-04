@@ -94,6 +94,7 @@ MENUITEMS = (
             ("Primary mission", "primary.html"),
             ("First Extended mission", "extended.html"),
             ("Second Extended mission", "second-extended.html"),
+            ("Extended Mission Planning", "extended-mission-planning.html"),
             ("Users Committee", "TUC.html"),
             ("FAQ", "faq.html"),
             ("Citizen Science", "citizenscience.html"),
