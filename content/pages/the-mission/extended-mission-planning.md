@@ -1,10 +1,8 @@
-Title: Extended mission planning
+Title: Notice of upcoming call for community input into the TESS Extended Mission Planning
+
 Save_as: extended-mission-planning.html
 
 [TOC]
-
-
-##  Notice of upcoming call for community input into the TESS Extended Mission Planning
 
 The TESS mission will be inviting the community's input on science cases that should be prioritized in TESS's future extended missions. The purpose of this announcement is to give the community advance notice of this upcoming opportunity to provide input to the TESS extended mission planning.
 				
