@@ -6,7 +6,7 @@ The TESS mission will be inviting the community's input on science cases that sh
 				
 The format of requested input will be a short 1-2 paragraph "science pitch" submitted via a Google Form, similar to the science pitches solicited in 2023 for the [definition of the Roman Space Telescope's Core Community Surveys](https://roman.gsfc.nasa.gov/science/ccs_community_input.html). 
 				
-The draft call for community input can be found [here](docs/DRAFT_TESS_call_for_science_pitches.pdf).The official call for community input into the extended mission plan is expected to be released <b>May 1, 2024</b>. The anticipated submission deadline for science pitches is <b>June 14, 2024</b>. 
+The draft call for community input can be found [here](docs/DRAFT_TESS_call_for_science_pitches.pdf). The official call for community input into the extended mission plan is expected to be released <b>May 1, 2024</b>. The anticipated submission deadline for science pitches is <b>June 14, 2024</b>. 
 				
 TESS science spans many areas of astrophysics and solar system science. As such, researchers from around the world, across all career stages, positions, and types of institutions are encouraged to submit their ideas.
 				
