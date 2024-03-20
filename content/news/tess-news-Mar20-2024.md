@@ -19,12 +19,15 @@ Stellar rotation is one of the key ingredients in our understanding of stellar f
 
 NGC 246 is a planetary nebula with a slightly elliptical shape, at the center of which is a hierarchical triple stellar system. This unique system consists of the primary HIP 3678 A, a PG 1159 pulsating white dwarf with an estimated effective temperature of Teff ~ 150,000K and log(g) ~ 5.7, and the likely low-mass K- and M-type main sequence secondary and tertiary stars HIP 3678 B and C. Calcaferro et al. (2024) present a detailed asteroseismic analysis of HIP 3678 A based on TESS data from Sectors 3 (at 120-sec cadence) and 30 (at 120-sec and 20-sec cadence). The authors note that the two major sources of contamination are the resolved tertiary star HIP 3678 B (at angular separation of ~4 arcsec and magnitude difference of deltaT = 0.6 mag) and the nearby field star TYC 5272-1854-1 (separation of ~56 arcsec and magnitude difference of deltaT = -1.2 mag), and argue that neither these nor the nebula itself are a significant source of contamination. Calcaferro et al. (2024) computed Fourier transforms of the lightcurves, extracted 17 distinct periodicities in the range of ~1460 to ~1823 sec (associated with non-radial g-mode pulsations), and found no indications of rotational multiples. Thanks to TESS data, the authors were able to measure a constant period spacing of 12.9 sec and constrain the mass of the primary star of NGC 246 to be either 0.87 M<sub>Sun</sub> (if the period spacing is associated with l = 1 modes) or 0.57 M<sub>Sun</sub> (if the period spacing is associated with l = 2 modes), with the latter being more consistent with Gaia measurements. 
 
-![Eberhardt2024](images/Eberhardts_2024_Fig5.png)
+![Eberhardt2024](images/Eberhardt_2024_Fig5.png)
+
 **Fig. 1:** *Taken from Eberhardt et al. (2023). Upper left panel: phase-folded TESS observations and respective best-fit model for the warm Jupiter TOI-2373 b. Upper right panel: corresponding follow-up ground-based photometry from several facilities as indicated in the legend. Lower panel: measured radial velocities.* 
 
 ![Colman2024](images/Colman_2024_Fig12.png)
+
 **Fig. 2:** *Taken from Colman et al. (2024). Comparison between measured rotation periods in TESS data from Colman et al. (2024) (first and second panels from left) and previous results (as labeled on the figure). *
 
 ![Calcaferro2024](images/Calcaferro_2024_Fig4.png)
+
 **Fig. 3:** *Taken from Calcaferro et al. (2024). Fourier transform of the TESS lightcurve of NGC 246 for Sector 3 (upper panel) and Sector 30 (lower panel). The horizontal red line represents the 0.1% false alarm probability.*
 

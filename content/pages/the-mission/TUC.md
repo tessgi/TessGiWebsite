@@ -24,6 +24,15 @@ The [TUC Charter](data/TESS_Users_Committee_Charter_2023Aug15.pdf) describes in 
 
 
 ### Committee Reports
-- [Report from November 08, 2023 meeting](data/TESS-Users-Committee-Meeting-Report-Nov082023.pdf)
-  
-*Modified January 5th 2024*
+<ul>
+	<li><a href="data/TESS-Users-Committee-Meeting-Report-1-240308.pdf">Report from November 08, 2023 meeting</a>
+	<ul>
+	<li><a href="data/TUC-Community-Survey-Summary-Part-1.pdf">TUC Community Survey Summary Slides</a></li>
+	<li><a href="data/TUC-Community-Survey-Summary-Part-2.pdf">TUC Community Survey Summary Document</a></li>
+	</ul>
+
+</li>
+</ul>
+
+
+*Modified March 20th 2024*
