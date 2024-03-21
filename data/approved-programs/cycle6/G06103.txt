@@ -12,3 +12,6 @@ Summary: Missions like Kepler, K2, and TESS have provided us with unprecedented 
 # Sector 072 targets observed (2 min: 2, 20 s: 2)
 95431305,154.8976,19.8697,7.04,G06171;G06103;G06132;20SECONDTARGET
 365006789,164.0947,6.9967,9.28,G06058;G06103;20SECONDTARGET
+
+# Sector 078 targets observed (2 min: 1, 20 s: 1)
+355793860,230.4711,20.9786,8.02,G06103;20SECONDTARGET
