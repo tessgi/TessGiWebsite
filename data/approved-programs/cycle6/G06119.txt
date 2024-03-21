@@ -24,3 +24,7 @@ Summary: Our proposal is to secure funding to conduct simultaneous, ground-based
 
 # Sector 077 targets observed (2 min: 1, 20 s: 0)
 282941520,236.6089,44.313,12.6,G06119
+
+# Sector 078 targets observed (2 min: 2, 20 s: 0)
+105769104,240.5158,17.4807,10.7,G06119
+282941520,236.6089,44.313,12.6,G06119
