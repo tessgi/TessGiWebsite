@@ -3,6 +3,10 @@ Save_as: proposing-investigations.html
 
 [TOC]
 
+<div class="alert alert-warning" role="alert">
+  <b>Please note that the Cycle 7 deadline has now passed.  
+</div>
+
 The TESS General Investigator (GI) program is intended to enable the community to participate in science investigations using TESS. The program enables teams to propose the collection of new 2-minute and 20-second cadence targets and provides funding to selected US investigators to analyze 2-minute and 20-second cadence and full-frame image (FFI) data, which now has a cadence of 200 seconds. Details of the proposal process are given on this page. Proposals should have a Science/Technical/Management (S/T/M) section that is 2-6 pages long (depending on the proposal type), followed by a two page [Open Science and Data Management Plan (OSDMP)](https://science.nasa.gov/researchers/sara/faqs/osdmp/). Target lists for 2-min and 20-sec postage stamp targets must be submitted along with the proposal, and must follow a required format described [below](proposing-investigations.html#target-of-opportunity-observations). The GI program also provides funding for US investigators to collect ground-based data that supports TESS science. All proposals are managed by the [GI office](helpdesk.html).
 
 The next opportunity is TESS Cycle 7, which begins observations in <b>October 2024</b> and ends in <b>September 2025</b>, covering observing <b>Sectors 84 - 96</b>. TESS Cycle 7 proposals are solicited for targets in the Northern and Southern Ecliptic Hemispheres and in

@@ -165,9 +165,9 @@ KEY_INFORMATION = (
 # Defines the "important dates" box on the front page
 IMPORTANT_DATES = (
     (
-        "<b>21st March 2024</b>",
-        "Cycle 7 proposal deadline 4:30pm EDT",
-        "https://heasarc.gsfc.nasa.gov/docs/tess/proposing-investigations.html",
+        "<b>17th July 2024</b>",
+        "TESS Science Conference III Registration",
+        "https://web.cvent.com/event/6b111f21-f4c9-4f75-92c0-2c7826033e4d/summary",
     ),
  
 )
@@ -210,4 +210,5 @@ BOOTSTRAP_NAVBAR_INVERSE = True
 DATE_MODIFIED = datetime.datetime.now().strftime("%Y-%m-%d")
 
 PROPOSALBANNER = False
-PROPOSALMESSAGE = The <a href="https://heasarc.gsfc.nasa.gov/docs/tess/proposing-investigations.html"><b>TESS Cycle 7 Call For Proposals</b></a> is now Live! To read the Call for Proposals please <a href="https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=918701/solicitationId=%7B574AD906-1C28-5997-FEBF-2D3B9195A548%7D/viewSolicitationDocument=1/D.10%20TESSCycle7_%20Amend75.pdf">click here</a>. Cycle 7 Proposals are due <b> March 21, 2024</b>.
+PROPOSALMESSAGE = """The <a href="https://heasarc.gsfc.nasa.gov/docs/tess/proposing-investigations.html"><b>TESS Cycle 7 Call For Proposals</b></a> is now Live! To read the Call for Proposals please <a href="https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=918701/solicitationId=%7B574AD906-1C28-5997-FEBF-2D3B9195A548%7D/viewSolicitationDocument=1/D.10%20TESSCycle7_%20Amend75.pdf">click here</a>. Cycle 7 Proposals are due <b> March 21, 2024</b>."""
+
