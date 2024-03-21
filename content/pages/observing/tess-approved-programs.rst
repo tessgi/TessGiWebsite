@@ -30,6 +30,25 @@ Cycle 6
 .. include:: approved-programs/cycle6.html
 
 	     
+Sector 78
+=========
+.. raw:: html
+
+    <ul class="list-group">
+        <li class="list-group-item">
+          <i class="fa fa-calendar fa-margin"></i>
+           April 23. 2024 - May 21. 2024
+        </li>
+        <li class="list-group-item">
+            <i class="fa fa-download fa-margin"></i>
+            <a href="data/target_lists/sector078_targets_lists/GI_S078.csv">2 min target list (csv)</a>, 
+            <a href="data/target_lists/sector078_targets_lists/GI_20s_S078.csv">20 s target list (csv)</a>
+        </li>
+    </ul>
+
+.. include:: approved-programs/sector077.html
+
+
 Sector 77
 =========
 .. raw:: html

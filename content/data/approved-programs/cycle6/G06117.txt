@@ -41,3 +41,6 @@ Summary: Compact companions in edge-on, main-sequence binary systems are able to
 
 # Sector 077 targets observed (2 min: 1, 20 s: 0)
 105657834,205.0793,35.6285,14.19,G06117;G06117;G06117;G06117
+
+# Sector 078 targets observed (2 min: 1, 20 s: 0)
+135272255,244.3065,21.9219,12.59,G06117
