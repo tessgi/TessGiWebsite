@@ -4,7 +4,7 @@ Author: Veselin Kostov
 
 Welcome TESS followers to our latest news bulletin! 
 
-First things first – please note that the deadline for abstract submission for the third TESS science conference (July 29 – Aug 2, 2024) is Apr 12, 2024. You can find more information about the conference at (https://tsc.mit.edu/).
+First things first – please note that the deadline for abstract submission for the third TESS science conference (July 29 – Aug 2, 2024) is Apr 12, 2024. You can find more information about the conference **[here](https://tsc.mit.edu/)**.
 
 This week, we are looking at three recent papers from the archive. Enjoy!
 
