@@ -1,0 +1,954 @@
+<!DOCTYPE html>
+<!--
+Crafted with ♥ by Geert Barentsen, Thomas Barclay & Knicole colon at NASA Ames
+in August 2015, using pelican-bootstrap and flatly.
+-->
+<html lang="en" >
+
+<head>
+    <title>TESS Science Support Center</title>
+    <!-- Using the latest rendering mode for IE -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!--Custom meta data-->
+
+    <meta name="dc.title" content="NASA - TESS Science Support Center" />
+    <meta name="dc.format" content="text/html" />
+    <meta name="dc.date.modified" content="2024-04-12" />
+    <meta name="dc.language" content="en" />
+    <meta name="dc.description" content="Resources and Information for Users of TESS Data" />
+    <meta name="dc.identifier" content="https://heasarc.gsfc.nasa.gov/docs/tess/" />
+    <meta name="dc.audience" content="Astronomers, Astrophysicists, Scientists, Researchers" />
+    <meta name="dc.subject.discipline" content="Astrophysics, Astronomy" />
+    <meta name="orgcode" content="667">
+    <meta name="rno" content="Thomas.Barclay">
+    <meta name="content-owner" content="Thomas.Barclay">
+    <meta name="webmaster" content="Thomas.Barclay">
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:description"
+        content="Transiting Exoplanet Survey Satellite is a NASA Mission to Study Stars, Planets and Galaxies." />
+    <meta name="twitter:title" content="NASA - TESS Science Support Center" />
+    <meta name="twitter:site" content="@NASA_TESS" />
+    <meta name="twitter:creator" content="@NASA_TESS" />
+    <meta name="twitter:image" content="https://heasarc.gsfc.nasa.gov/docs/tess/images/logo-for-twitter.jpeg" />
+
+
+    <link href="./images/favicon.png" rel="icon">
+
+<link rel="canonical" href=".">
+    <meta name="author" content="Thomas Barclay" />
+
+    <!-- Open Graph tags -->
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:site_name" content="TESS" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="TESS" />
+    <meta property="og:url" content="." />
+    <meta property="og:description" content="Resources and Information for Users of TESS Data." />
+    <meta property="og:image" content="./images/logo-for-twitter.jpeg" />
+
+
+    <link href="./theme/css/drn.css" rel="stylesheet">
+
+
+    <!-- Why use Helvetica Neue when you can have Lato? -->
+    <!-- Why use Lato when you can have Nunito? -->
+    <link href="./theme/css/nunito.css" rel="stylesheet">
+
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="./theme/css/bootstrap.cosmo.min.css" type="text/css" />
+    <link href="./theme/css/font-awesome.min.css" rel="stylesheet">
+
+    <link href="./theme/css/exoplanet_archive_icons.css" rel="stylesheet">
+    <link href="./theme/css/mission_icons.css" rel="stylesheet">
+    <!--     <link href="./theme/css/photobanner.css" rel="stylesheet">
+    <link href="./theme/css/slide-container.css" rel="stylesheet">
+    <link href="./theme/css/slide-transition.css" rel="stylesheet">
+    <link href="./theme/css/slide-transition2.css" rel="stylesheet">  -->
+
+    <link href="./theme/css/pygments/native.css" rel="stylesheet">
+    <link rel="stylesheet" href="./theme/css/style.css" type="text/css" />
+
+    <link href="./feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
+        title="TESS ATOM Feed" />
+    <link href="./feeds/all.rss.xml" type="application/rss+xml" rel="alternate"
+        title="TESS RSS Feed" />
+
+</head>
+
+<body>
+
+    <!-- Print a warning message that this is not the official site -->
+    <div class="container container-wide"
+        style="background-color: #d35400; color: white; padding: 1.5em; font-weight: bold;">
+        <div class="container">
+            <i class="fa fa-warning fa-lg fa-margin"></i>
+            This is the development version of the TESS Science Support Center website.
+            For the live website, visit <a
+                href="https://heasarc.gsfc.nasa.gov/docs/tess/">https://heasarc.gsfc.nasa.gov/docs/tess</a>
+        </div>
+    </div>
+
+
+    <div class="navbar navbar-inverse navbar-fixed-top"
+        role="navigation">
+
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a href="./" class="navbar-brand">
+<img src="./images/NASA_logo_vector_lg.png" width="32" /> TESS                </a>
+            </div>
+            <div class="collapse navbar-collapse navbar-ex1-collapse">
+                <ul class="nav navbar-nav navbar-nav">
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Mission <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="./objectives.html">Objectives</a></li>
+                            <li><a href="./the-tess-space-telescope.html">Telescope</a></li>
+                            <li><a href="./primary.html">Primary mission</a></li>
+                            <li><a href="./extended.html">First Extended mission</a></li>
+                            <li><a href="./second-extended.html">Second Extended mission</a></li>
+                            <li><a href="./extended-mission-planning.html">Extended Mission Planning</a></li>
+                            <li><a href="./TUC.html">Users Committee</a></li>
+                            <li><a href="./faq.html">FAQ</a></li>
+                            <li><a href="./citizenscience.html">Citizen Science</a></li>
+                            <li><a href="./gallery.html">Outreach resources</a></li>
+                            <li><a href="./publications.html">Publications</a></li>
+                            <li><a href="./media.html">Media Request</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Data & tools <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="./data-handling.html">Data pipeline</a></li>
+                            <li><a href="./data-products.html">Data products</a></li>
+                            <li><a href="./data-access.html">Data access</a></li>
+                            <li><a href="./data-analysis-tools.html">Data analysis tools</a></li>
+                            <li><a href="./community.html">Community products</a></li>
+                            <li><a href="./community-tools.html">Community tools</a></li>
+                            <li><a href="./documentation.html">Documentation</a></li>
+                            <li><a href="./data_release_notes.html">Data release notes</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Observations <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="./observing-technical.html">Technical details</a></li>
+                            <li><a href="./sector.html">Sector dates</a></li>
+                            <li><a href="./approved-programs.html">Approved GI programs</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Proposing <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="./proposing-investigations.html">Guest Investigator Proposals</a></li>
+                            <li><a href="./proposal-tools.html">Proposal & observation tools</a></li>
+                            <li><a href="./ddt.html">Director's Discretionary Target program</a></li>
+                            <li><a href="./proposal-templates.html">Proposal templates</a></li>
+                        </ul>
+                    </li>
+                </ul>
+
+                <ul class="nav navbar-nav">
+		  <li>
+                    <a href="https://heasarc.gsfc.nasa.gov/wsgi-scripts/TESS/TESS-point_Web_Tool/TESS-point_Web_Tool/wtv_v2.0.py"><i class="fa fa-lg fa-margin exoplanet-icon-planet-confirmed-borderless"></i> TESS-point Web Tool</a>
+                  </li>
+                  <li>
+                    <a href="./helpdesk.html"><i class="fa fa-info-circle fa-lg"></i> Helpdesk</a>
+                  </li>
+		    
+		    
+                </ul>
+
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+    </div> <!-- /.navbar -->
+    <!-- Banner -->
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {box-sizing: border-box}
+body {font-family: Exo 2; margin:0}
+.mySlides {display: none;}
+/*img {vertical-align: center;}*/
+
+/* Slideshow container */
+.slideshow-container {
+    max-width: 100%;
+    max-height: 300px;
+    position: relative;
+    margin: auto;
+    overflow: hidden;
+}
+
+.object-fit-cover {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /*magic*/
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -150px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+/* Caption text */
+.text {
+  color: white;
+  font-size: 50px;
+  font-size: 4vw;
+  padding: 20px 20px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: left;
+  text-shadow: -5px 5px 5px black;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+.slidep{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    font-size: 25px;
+    font-size: 1.3vh;
+    text-align: center;
+    width: 30%;
+    height: 100%;
+    margin-top: 0%;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    color: black;
+    background: lightgray
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+/*  (min-width: 1500px)
+    text {font-size: 75px;}*/
+
+/* On smaller screens dont show classes */
+
+@media screen and (min-width: 1500px){
+    .text {font-size: 75px;}
+}
+
+@media screen and (max-width: 1000px){
+    .prev,.next,.slidep {display: none;}
+}
+
+</style>
+</head>
+<body>
+
+
+<div class="slideshow-container">
+
+  <div class="mySlides">
+    <img class="object-fit-cover" src="images/tess-banner-inverted_v2.jpg">
+    <div class="text">
+      <b>TESS</b>
+      <p>Science Support Center</p>
+    </div>
+  </div>
+
+  <div class="mySlides">
+    <img class="object-fit-cover" src="images/tess_first_light-tb.jpg" >
+    <div class="text">
+      <b>TESS</b>
+      <p>Science Support Center</p>
+    </div>
+    <div class="slidep">
+      <p><b>FIRST LIGHT</b>
+	<br></br>On Tuesday, Aug 7th 2018 NASA's Transiting Exoplanet Satellite Survey took its “first light” science image.
+	This image was of the Large Magellanic Cloud and the bright star R Doradus.
+	<br></br>For more information see <a href='https://www.nasa.gov/feature/goddard/2018/nasa-s-tess-shares-first-science-image-in-hunt-to-fin\d-new-worlds'><u>here</u></a>
+	<br></br><i>Image Credit: NASA/MIT/TESS</i></p>
+    </div>
+  </div>
+
+  <div class="mySlides">
+    <img class="object-fit-cover" src="images/tess_comet_1041_0.gif">
+    <div class="text">
+      <b>TESS</b>
+      <p>Science Support Center</p>
+    </div>
+    <div class="slidep">
+      <p><b>Comet Catching</b>
+	<br></br>Before NASA's Transiting Exoplanet Satellite Survey began science operations, the planet hunter sent back
+	a stunning sequence of serendipitous images showing the motion of a comet. This is comet C/2018 N1, mapped here over a 17 hour period by TESS on June 25th 2018.
+	<br></br>For more information see <a href='https://www.nasa.gov/feature/goddard/2018/nasa-s-planet-hunting-tess-catches-a-comet-before-starting-science'><u>here</u></a>
+	<br></br><i>Massachusetts Institute of Technology/NASA’s Goddard Space Flight Center</i></p>
+    </div>
+  </div>
+
+  <div class="mySlides">
+    <img class="object-fit-cover" src="images/Mosaic.jpg">
+    <div class="text">
+      <b>TESS</b>
+      <p>Science Support Center</p>
+    </div>
+    <div class="slidep">
+      <p><b>Northern Sky Mosaic</b>
+	<br></br> During its second year of operation TESS observed the northern hemisphere. Combining 208 images taken by TESS, this mosaic of the northern sky was created. Many celestial objects can be seen within this image, but most noticeable is the arc of the Milky Way - our home. 
+	<br></br>For more information look <a href="https://www.nasa.gov/image-feature/goddard/2020/nasa-s-tess-creates-a-cosmic-vista-of-the-northern-skyn"><u>here</u></a>
+	<br></br><i>Image Credit: NASA/MIT/TESS and Ethan Kruse (USRA).</i></p>
+    </div>
+  </div>
+
+  <div class="mySlides">
+    <img class="object-fit-cover" src="images/2246_Graveyard_ENGLISH_Web_RGB.jpg">
+    <div class="text">
+      <b>TESS</b>
+      <p>Science Support Center</p>
+    </div>
+    <div class="slidep">
+      <p><b>Galactic Graveyard</b>
+	<br></br>MACS 2129-1 is a massive 'dead' disk galaxy. It stopped making stars only a few billion years after the Big Bang! It is now a cosmic cemetery of red dying stars.
+	<br></br>For more information about this cosmic horror see <a href='https://exoplanets.nasa.gov/resources/2246/galactic-graveyard/'><u>here</u></a>
+	<br></br><i>Image Credit: NASA-JPL/Caltech.</i></p>
+    </div>
+  </div>
+
+  <div class="mySlides">
+    <img class="object-fit-cover" src="images/superearth20180412-16.jpg">
+    <div class="text">
+      <b>TESS</b>
+      <p>Science Support Center</p>
+    </div>
+    <div class="slidep">
+      <p><b>Worlds orbiting other stars</b>
+	<br></br>The worlds orbiting other stars are called “exoplanets,” and they come in a wide variety
+	of sizes, from gas giants larger than Jupiter to small, rocky planets about as big around as Earth or Mars.
+	This rocky super-Earth is an illustration of the type of planet NASA's Transiting Exoplanet Satellite Survey can find.
+	<br></br>For more information look <a href='https://www.nasa.gov/image-feature/nasas-tess-mission-hopes-to-find-exoplanets-beyond-our-solar-system'><u>here</u></a>
+	<br></br><i>Image Credit: ESO/M. Kornmesser.</i></p>
+    </div>
+  </div>
+
+  <div class="mySlides">
+    <img class="object-fit-cover" src="images/2237_FLARES_RGB_small.jpg">
+    <div class="text">
+      <b>TESS</b>
+      <p>Science Support Center</p>
+    </div>
+    <div class="slidep">
+      <p><b>AU Mic b</b>
+	<br></br>AU Microscopii is among the youngest planetary system observed by astronomers.
+	The planet is located less than 32 light-years from Earth and its host star throws vicious temper tantrums!
+	<br></br>For more information look <a href='https://www.nasa.gov/feature/goddard/2020/nasa-s-tess-spitzer-missions-discover-a-world-orbiting-a-unique-young-star'>
+	  <u>here</u></a>
+	<br></br><i>Image Credit: NASA-JPL/Caltech.</i></p>
+    </div>
+  </div>
+
+  <div class="mySlides">
+    <img class="object-fit-cover" src="images/ssc2019-14c.jpg">
+    <div class="text">
+      <b>TESS</b>
+      <p>Science Support Center</p>
+    </div>
+    <div class="slidep">
+      <p><b>LHS 3844b</b>
+	<br></br>Discovered in 2018 by NASA's Transiting Exoplanet Satellite Survey,
+	LHS 3844b is a rocky planet located 48.6 light-years away with a radius 1.3 times that of Earth.
+	The host to this planet is a cool M dwarf star, one of the most common and long-lived type stars in our galaxy.
+	<br></br>For more information look <a href='https://www.nasa.gov/image-feature/a-glimpse-of-a-rocky-exoplanets-surface'><u>here</u></a>
+	<br></br><i>Image Credit:/JPL-Caltech</i></p>
+    </div>
+  </div>
+
+</div>
+<br>
+
+<!--The dots and circles-->
+<div style="text-align:center">
+  <span class="dot" onclick="currentSlide(1)"></span> 
+  <span class="dot" onclick="currentSlide(2)"></span> 
+  <span class="dot" onclick="currentSlide(3)"></span>
+  <span class="dot" onclick="currentSlide(4)"></span> 
+  <span class="dot" onclick="currentSlide(5)"></span> 
+  <span class="dot" onclick="currentSlide(6)"></span>
+  <span class="dot" onclick="currentSlide(7)"></span> 
+  <span class="dot" onclick="currentSlide(8)"></span>
+</div>
+
+<script>
+
+  var slideIndex = 1;
+  showSlides(slideIndex);
+
+  // Thumbnail image controls
+  function currentSlide(n) {
+      showSlides(slideIndex = n);
+  }
+
+  function showSlides(n) {
+      var i;
+      var slides = document.getElementsByClassName("mySlides");
+      var dots = document.getElementsByClassName("dot");
+      if (n > slides.length) {slideIndex = 1}
+      if (n < 1) {slideIndex = slides.length}
+      for (i = 0; i < slides.length; i++) {
+	  slides[i].style.display = "none";
+      }
+      for (i = 0; i < dots.length; i++) {
+	  dots[i].className = dots[i].className.replace(" active", "");
+      }
+      slides[slideIndex-1].style.display = "block";
+      dots[slideIndex-1].className += " active";
+  }
+
+
+
+  
+/*var slideIndex = 0;
+  showSlides();
+
+  function currentSlide(n) {
+      showSlides(slide_index = n);
+      }
+
+  var timer = null;
+  
+  function showSlides(){
+      var i;
+      var slides = document.getElementsByClassName("mySlides");
+      for (i = 0; i < slides.length; i++) {
+	  slides[i].style.display = "none"; 
+      }
+
+      slideIndex++;
+      if (slideIndex > slides.length) {slideIndex = 1} 
+      slides[slideIndex-1].style.display = "block"; 
+      var timer = setInterval(showSlides, 20000); // Change image every 20 seconds
+  }
+
+  function reset_timer(time){
+      clearInterval(timer);
+      var timer = setInterval(showSlides , 20000);
+  }*/
+  
+  
+</script>
+
+</body>
+</html> 
+    <!-- End Banner -->
+
+
+
+<div class="container">
+
+  <div class="row">
+    <div class="col-md-8">
+
+      <h2 style="padding-bottom:0.3em;">News for scientists</h2>
+      <article>
+        <div><b><a href="./development-of-new-tess-website.html">Development of new TESS website</a></b>
+        </div>
+        <span class="categories-timestamp"><time datetime="2017-04-17T10:00:00-04:00">17
+            Apr 2017</time></span>
+        <div class="summary entry-content" style="padding-top: 0.5em; "><p>The Transiting Exoplanet Survey Satellite (TESS) Science Support Center team is transitioning to a new website. This is that website. Lots of content on the Guest Investigator program is coming soon.</p>
+          <a class="btn btn-default btn-xs" href="./development-of-new-tess-website.html">More &raquo;</a>
+        </div>
+      </article>
+      <hr />
+
+      <a class="btn btn-primary" href="archives.html">News archive &raquo;</a>
+      <!--         <ul class="pagination">
+                <li class="prev"><a href="./index41.html">&laquo;</a>
+                </li>
+                    <li class=""><a
+                            href="./index.html">1</a></li>
+                    <li class=""><a
+                            href="./index2.html">2</a></li>
+                    <li class=""><a
+                            href="./index3.html">3</a></li>
+                    <li class=""><a
+                            href="./index4.html">4</a></li>
+                    <li class=""><a
+                            href="./index5.html">5</a></li>
+                    <li class=""><a
+                            href="./index6.html">6</a></li>
+                    <li class=""><a
+                            href="./index7.html">7</a></li>
+                    <li class=""><a
+                            href="./index8.html">8</a></li>
+                    <li class=""><a
+                            href="./index9.html">9</a></li>
+                    <li class=""><a
+                            href="./index10.html">10</a></li>
+                    <li class=""><a
+                            href="./index11.html">11</a></li>
+                    <li class=""><a
+                            href="./index12.html">12</a></li>
+                    <li class=""><a
+                            href="./index13.html">13</a></li>
+                    <li class=""><a
+                            href="./index14.html">14</a></li>
+                    <li class=""><a
+                            href="./index15.html">15</a></li>
+                    <li class=""><a
+                            href="./index16.html">16</a></li>
+                    <li class=""><a
+                            href="./index17.html">17</a></li>
+                    <li class=""><a
+                            href="./index18.html">18</a></li>
+                    <li class=""><a
+                            href="./index19.html">19</a></li>
+                    <li class=""><a
+                            href="./index20.html">20</a></li>
+                    <li class=""><a
+                            href="./index21.html">21</a></li>
+                    <li class=""><a
+                            href="./index22.html">22</a></li>
+                    <li class=""><a
+                            href="./index23.html">23</a></li>
+                    <li class=""><a
+                            href="./index24.html">24</a></li>
+                    <li class=""><a
+                            href="./index25.html">25</a></li>
+                    <li class=""><a
+                            href="./index26.html">26</a></li>
+                    <li class=""><a
+                            href="./index27.html">27</a></li>
+                    <li class=""><a
+                            href="./index28.html">28</a></li>
+                    <li class=""><a
+                            href="./index29.html">29</a></li>
+                    <li class=""><a
+                            href="./index30.html">30</a></li>
+                    <li class=""><a
+                            href="./index31.html">31</a></li>
+                    <li class=""><a
+                            href="./index32.html">32</a></li>
+                    <li class=""><a
+                            href="./index33.html">33</a></li>
+                    <li class=""><a
+                            href="./index34.html">34</a></li>
+                    <li class=""><a
+                            href="./index35.html">35</a></li>
+                    <li class=""><a
+                            href="./index36.html">36</a></li>
+                    <li class=""><a
+                            href="./index37.html">37</a></li>
+                    <li class=""><a
+                            href="./index38.html">38</a></li>
+                    <li class=""><a
+                            href="./index39.html">39</a></li>
+                    <li class=""><a
+                            href="./index40.html">40</a></li>
+                    <li class=""><a
+                            href="./index41.html">41</a></li>
+                    <li class="active"><a
+                            href="./index42.html">42</a></li>
+                <li class="next disabled"><a href="#">&raquo;</a></li>
+        </ul>
+ -->
+    </div>
+
+
+    <!-- SIDEBAR starts here -->
+
+    <div class="col-md-4" style="padding-top:1.5em;">
+
+      <!-- We are hiring! -->
+      <!-- <div class="panel panel-default">
+  <div class="panel-body" style="padding:0;">
+    <a href='we-are-hiring-job-opportunities-available-at-the-keplerk2-science-center.html'>
+    <img src="images/we-are-hiring-banner.jpg" class='img-responsive'/></a>
+  </div>
+</div> -->
+
+      <!-- Kepler/K2 SciCon 2017 -->
+      <!-- <div class="panel panel-default">
+  <div class="panel-body" style="padding:0;">
+    <a href='/scicon4'>
+    <img src="images/scicon2017-banner.jpg" class='img-responsive'/></a>
+  </div>
+</div> -->
+
+      <!-- submit proposal -->
+      <!-- <a href="https://heasarc.gsfc.nasa.gov/docs/tess/proposing-investigations.html">
+        <div class="panel panel-primary">
+          <div class="panel-heading">
+            <h4 class="panel-title"><i class="fa fa-magic fa-lg"></i><span class="icon-label">Cycle 7 Proposal
+                Information</span></h4>
+          </div>
+        </div>
+      </a> 
+
+       <a href="https://heasarc.gsfc.nasa.gov/ark/tess/">
+        <div class="panel panel-primary">
+          <div class="panel-heading" style="background-color: #4caf50; color: white;">
+            <h4 class="panel-title"><i class="fa fa-lg fa-margin exoplanet-icon-book-borderless"></i><span class="icon-label">Submit a TESS
+                Proposal</span></h4>
+          </div>
+        </div>
+      </a> -->
+      
+
+      <!-- key information panel -->
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title"><i class="fa fa-search fa-lg"></i><span class="icon-label"><strong>Key
+                Information</strong></span></h4>
+        </div>
+        <div>
+          <h4>
+            &nbsp;&nbsp;
+            <i class="fa fa-lg fa-margin exoplanet-icon-transit-borderless"></i>
+            <a href="extended.html">The TESS extended mission</a>
+            <p></p>
+
+            &nbsp;&nbsp;
+            <i class="fa fa-lg fa-margin exoplanet-icon-observatory-borderless"></i>
+            <a href="the-tess-space-telescope.html">Telescope information</a>
+            <p></p>
+
+            &nbsp;&nbsp;
+            <i class="fa fa-lg fa-margin exoplanet-icon-download-borderless"></i>
+            <a href="data-access.html">How to access the data</a>
+            <p></p>
+
+            &nbsp;&nbsp;
+            <i class="fa fa-lg fa-margin exoplanet-icon-planet-confirmed-borderless"></i>
+            <a href="https://heasarc.gsfc.nasa.gov/wsgi-scripts/TESS/TESS-point_Web_Tool/TESS-point_Web_Tool/wtv_v2.0.py/">New! TESS-point Web Tool</a>
+            <p></p>
+
+	    &nbsp;&nbsp;
+            <i class="fa fa-lg fa-margin exoplanet-icon-question-borderless"></i>
+            <a href="data-analysis-tools.html">Tutorials</a>
+            <p></p>
+
+            &nbsp;&nbsp;
+            <i class="fa fa-lg fa-margin exoplanet-icon-calendar-borderless"></i>
+            <a href="sector.html">Observing dates</a>
+            <p></p>
+
+            &nbsp;&nbsp;
+            <i class="fa fa-lg fa-margin exoplanet-icon-book-borderless"></i>
+            <a href="proposing-investigations.html">Proposing science</a>
+            <p></p>
+
+            &nbsp;&nbsp;
+            <i class="fa fa-lg fa-margin exoplanet-icon-light-curve-borderless"></i>
+            <a href="citizenscience.html">Citizen Science</a>
+            <p></p>
+
+            &nbsp;&nbsp;
+            <i class="fa fa-lg fa-margin exoplanet-icon-discussion-borderless"></i>
+            <a href="https://goo.gl/forms/p4ZqiTQSEHjbM6nz2">Volunteer to serve on a review</a>
+            <p></p>
+
+            &nbsp;&nbsp;
+            <i class="fa fa-lg fa-margin exoplanet-icon-plot-borderless"></i>
+            <a href="media.html">Do you a have news-worthy TESS &nbsp;&nbsp;&nbsp;result?</a>
+            <p></p>
+
+            &nbsp;&nbsp;
+            <i class="fa fa-lg fa-margin exoplanet-icon-video-borderless"></i>
+            <a href="gallery.html">Outreach resources</p>
+              <p>
+            </a>
+
+            &nbsp;&nbsp;
+            <i class="fa fa-lg fa-margin exoplanet-icon-planet-multi-borderless"></i>
+            <a href="publications.html">Publications</a>
+            <p></p>
+
+
+          </h4>
+        </div>
+      </div>
+
+      <!-- Mailing list subscribe -->
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title"><i class="fa fa-envelope-o fa-lg"></i><span class="icon-label"><strong>Subscribe to
+                our mailing list</strong></span></h4>
+        </div>
+        <div class="panel-body entry-content">
+          <!-- Begin MailChimp Signup Form -->
+          <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+          <div id="mc_embed_signup">
+            <form action="//nasa.us15.list-manage.com/subscribe/post?u=157ce755ac3a9b51b8ab7373b&amp;id=c62f997f18"
+              method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscri\
+be-form" class="validate" target="_blank" novalidate>
+              <div id="mc_embed_signup_scroll">
+                <div class="mc-field-group">
+                  <label for="mce-EMAIL">Email address </label>
+                  <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+                </div>
+                <div id="mce-responses" class="clear">
+                  <div class="response" id="mce-error-response" style="display:none"></div>
+                  <div class="response" id="mce-success-response" style="display:none"></div>
+                </div>
+                <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text"
+                    name="b_157ce755ac3a9b51b8ab7373b_c62f997f18" tabindex="-1" value=""></div>
+                <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe"
+                    class="button"></div>
+              </div>
+            </form>
+          </div>
+          <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
+          <script type='text/javascript'>(function ($) {
+              window.fnames = new Arr\
+              ay(); window.ftypes = new Array(); fnames[0] = 'EMAIL'; ftypes[0] = 'email'; fnames[1] = 'FNAME'; ftypes[1] = 'text'; fnames[2] = 'LNAME'; ftypes[2] = 'text';
+            }(jQuery)); var $mcj = jQuery.noConflict\
+            (true);</script>
+          <!--End mc_embed_signup-->
+        </div>
+      </div>
+
+
+      <!-- Important dates panel -->
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title"><i class="fa fa-calendar fa-lg"></i><span class="icon-label"><strong>Important
+                dates</strong></span></h4>
+        </div>
+        <div class="panel-body">
+          <ul class="list-group">
+            <li class="list-group-item">
+              <b>17th July 2024</b><br>
+              <a href="https://web.cvent.com/event/6b111f21-f4c9-4f75-92c0-2c7826033e4d/summary">
+                TESS Science Conference III Registration
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- Upcoming Meetings panel -->
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title"><i class="fa fa-group fa-lg"></i><span class="icon-label"><strong>Upcoming
+                meetings</strong></span></h4>
+        </div>
+        <div class="panel-body">
+          <ul class="list-group">
+            <li class="list-group-item">
+              <b>29th July - 2nd August 2024</b><br>
+              <a href="https://tsc.mit.edu/">
+                TESS Science conference III
+              </a>
+            </li>
+
+            <li class="list-group-item">
+              <a href="conferences.html">View past meetings &raquo;</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+
+
+      <!-- Twitter panel -->
+      <div>
+        <!-- Code provided by Twitter: -->
+        <a class="twitter-timeline" data-width="360" data-height="400" href="https://twitter.com/tesshelp">Tweets by
+          us</a>
+        <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+      </div>
+
+      <!-- Dashboard -->
+      <!-- <div class="panel panel-default">
+  <div class="panel-heading">
+    <h4 class="panel-title"><i class="fa fa-dashboard fa-lg"></i><span class="icon-label">Science dashboard</span></h4>
+  </div>
+  <div class="panel-body entry-content">
+    <ul class="list-group">
+      <li class="list-group-item">
+          Candidate planets: <span id="kepler_candidates_count"></span><br>
+          Confirmed planets: <span id="kepler_confirmed_count"></span><br>
+          Papers: <span id="kepler_count"></span>
+      </li> -->
+      <!--
+      <li class="list-group-item">
+        <a href="/dashboard">View more stats &raquo;</a>
+      </li> -->
+      <!--
+    </ul>
+  </div>
+</div> -->
+
+
+      <!-- Special-purpose panel -->
+      <!--
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h4 class="panel-title"><i class="fa fa-group fa-lg"></i><span class="icon-label">Upcoming conference</span></h4>
+  </div>
+  <div class="panel-body" style="padding:0;">
+    <a href='/save-the-date-for-kepler-k2-scicon-iv-june-19-23-2017.html'>
+    <img src="images/scicon2017-slide.jpg" class='img-responsive'/></a>
+  </div>
+</div>
+-->
+
+
+    </div>
+
+  </div>
+
+
+</div>
+
+<div class="container container-wide" style="margin-top: 1.5em;">
+  <footer>
+
+     <div class="container">
+
+      <!-- Partner logos -->  
+      <div class="row">
+        <div class="col-md-10"> 
+          <a href="http://tess.mit.edu/"><img src="./images/partners/mit-logo.png" width="80" alt="MIT Logo"></a> &nbsp;&nbsp;&nbsp;
+         <a href="http://www.nasa.gov/"><img src="./images/NASA_logo_vector_lg.png" width="60" alt="NASA Logo"></a> &nbsp;&nbsp;&nbsp;
+         <a href="https://www.cfa.harvard.edu/"><img src="./images/partners/CfA_Horizontal_CMYK.png" width="176" alt="CfA Logo"></a> &nbsp;&nbsp;&nbsp;
+<!--          <a href="https://www.ll.mit.edu/"><img src="./images/partners/lincoln-laboratory.png" width="50" alt="Lincoln Labs Logo"></a> &nbsp;&nbsp;&nbsp; -->
+         <a href="https://http://www.northropgrumman.com/"><img src="./images/partners/Northrop_Grumman.png" width="176" alt="Orbital ATK Logo"></a> &nbsp;&nbsp;&nbsp;
+         <a href="http://www.stsci.edu/"><img src="./images/partners/stsci_logo2.png" width="110" alt="STScI Logo"></a> 
+        </div>
+      </div>
+
+      
+      <!-- Related websites -->  
+      <div class="row">
+        <div class="col-xs-12">
+          <h5><i class="fa fa-external-link"></i><span class="icon-label">Related websites:</span></h5>
+          <a href="https://nasa.gov/tess" target="_blank">
+                  News, Media, and Education Resources
+              </a>
+          <br/>
+          <a href="http://tess.mit.edu/" target="_blank">
+                  TESS @ MIT
+              </a>
+          <br/>
+          <a href="http://archive.stsci.edu/tess" target="_blank">
+                  TESS @ MAST
+              </a>
+          <br/>
+          <a href="https://heasarc.gsfc.nasa.gov/" target="_blank">
+                  High Energy Astrophysics Science Archive Research Center
+              </a>
+          <br/>
+          <a href="http://exoplanetarchive.ipac.caltech.edu" target="_blank">
+                  NASA Exoplanet Archive @ IPAC
+              </a>
+          <br/>
+        </div>
+      </div>
+
+      <!-- NASA logo and notices -->
+      <div class="row" style="margin-top:2em;">
+         <div class="col-md-10"> <a href="http://www.nasa.gov/"><img src="./images/NASA_logo_vector_lg.png" width="30" alt="NASA Logo"></a> 
+         Last modified: Thu 11 April 2024
+            &middot; Editor: Thomas Barclay &middot; NASA Official: Patricia T Boyd 
+            &middot; <a href="http://www.nasa.gov/about/highlights/HP_Privacy.html">Privacy Policy and Important Notices</a><p></p>         </div>
+         <div class="col-md-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
+      </div>
+    </div>
+
+  </footer>
+</div>
+
+        <script src="./theme/js/jquery.min.js"></script>
+
+        <!-- Include all compiled plugins (below), or include individual files as needed -->
+        <script src="./theme/js/bootstrap.min.js"></script>
+
+        <!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
+        <script src="./theme/js/respond.min.js"></script>
+
+        <script src="./theme/js/bodypadding.js"></script>
+<!-- Analytics scripts -->
+
+        <script src="./theme/js/drn.js"></script>
+
+    <script>
+    var url = "https://cdn.rawgit.com/barentsen/kepler-dashboard/master/kepler-dashboard.json";
+    $.ajax({
+        type: 'GET',
+        dataType: 'json',
+        crossDomain: true,
+        url: url,
+        success: function (resp, textStatus, jqXHR) {
+           $('#kepler_candidates_count').text(resp.planets.kepler_candidates_count.toLocaleString('en-US'));
+           $('#kepler_confirmed_count').text(resp.planets.kepler_confirmed_count.toLocaleString('en-US'));
+           $('#k2_candidates_count').text(resp.planets.k2_candidates_count.toLocaleString('en-US'));
+           $('#k2_confirmed_count').text(resp.planets.k2_confirmed_count.toLocaleString('en-US'));
+           $('#kepler_count').text(resp.publications.kepler_count.toLocaleString('en-US'));
+           $('#k2_count').text(resp.publications.k2_count.toLocaleString('en-US'));
+        }
+    });
+    </script>
+</body>
+
+</html>
