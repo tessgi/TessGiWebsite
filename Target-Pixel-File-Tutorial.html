@@ -16,7 +16,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - TESS Science Support Center" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2024-04-12" />
+    <meta name="dc.date.modified" content="2024-04-14" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Users of TESS Data" />
     <meta name="dc.identifier" content="https://heasarc.gsfc.nasa.gov/docs/tess/" />
@@ -222,8 +222,8 @@ to work with TPF files. - <a class="reference external" href="https://matplotlib
 plotting.</p>
 <pre class="code ipython3 literal-block">
 <span class="o">%</span><span class="k">matplotlib</span> inline
-<span class="kn">import</span> <span class="nn">lightkurve</span> <span class="k">as</span> <span class="nn">lk</span>
-<span class="kn">import</span> <span class="nn">matplotlib.pyplot</span> <span class="k">as</span> <span class="nn">plt</span>
+<span class="kn">import</span> <span class="nn">lightkurve</span> <span class="k">as</span> <span class="nn">lk</span><span class="w">
+</span><span class="kn">import</span> <span class="nn">matplotlib.pyplot</span> <span class="k">as</span> <span class="nn">plt</span>
 </pre>
 </div>
 <div class="section" id="defining-terms">
@@ -265,8 +265,8 @@ which refers to <a class="reference external" href="https://arxiv.org/pdf/1903.0
 bright M dwarf star at a distance of 10.6 pc. This star is host to three
 terrestrial-sized planets.</p>
 <pre class="code ipython3 literal-block">
-<span class="n">search_result</span> <span class="o">=</span> <span class="n">lk</span><span class="o">.</span><span class="n">search_targetpixelfile</span><span class="p">(</span><span class="s1">'TIC 307210830'</span><span class="p">)</span>
-<span class="n">search_result</span>
+<span class="n">search_result</span> <span class="o">=</span> <span class="n">lk</span><span class="o">.</span><span class="n">search_targetpixelfile</span><span class="p">(</span><span class="s1">'TIC 307210830'</span><span class="p">)</span><span class="w">
+</span><span class="n">search_result</span>
 </pre>
 SearchResult containing 7 data products.
 
@@ -306,8 +306,8 @@ this data via the <tt class="docutils literal">download()</tt> method. Note that
 the quality of the data that we are obtaining, and as such use
 quality_bitmask=‘default’</p>
 <pre class="code ipython3 literal-block">
-<span class="n">tpf_file</span> <span class="o">=</span> <span class="n">search_result</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span><span class="o">.</span><span class="n">download</span><span class="p">(</span><span class="n">quality_bitmask</span><span class="o">=</span><span class="s1">'default'</span><span class="p">)</span>
-<span class="n">tpf_file</span>
+<span class="n">tpf_file</span> <span class="o">=</span> <span class="n">search_result</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span><span class="o">.</span><span class="n">download</span><span class="p">(</span><span class="n">quality_bitmask</span><span class="o">=</span><span class="s1">'default'</span><span class="p">)</span><span class="w">
+</span><span class="n">tpf_file</span>
 </pre>
 <pre class="literal-block">
 TessTargetPixelFile(TICID: 307210830)
@@ -867,15 +867,15 @@ first axis is the time axis, and the images themselves are 11 pixels by
 11 pixels. As shown previously you can use the <tt class="docutils literal">plot</tt> method on the
 <tt class="docutils literal">TessTargetPixelFile</tt> object to view the data. Let’s look at the flux.</p>
 <pre class="code ipython3 literal-block">
-<span class="n">tpf_file</span><span class="o">.</span><span class="n">flux</span>
-<span class="n">tpf_file</span><span class="o">.</span><span class="n">cadenceno</span>
+<span class="n">tpf_file</span><span class="o">.</span><span class="n">flux</span><span class="w">
+</span><span class="n">tpf_file</span><span class="o">.</span><span class="n">cadenceno</span>
 </pre>
 <pre class="literal-block">
 array([151586, 151587, 151588, ..., 170517, 170518, 170519], dtype=int32)
 </pre>
 <pre class="code ipython3 literal-block">
-<span class="n">tpf_file</span><span class="o">.</span><span class="n">hdu</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span><span class="o">.</span><span class="n">data</span><span class="p">[</span><span class="s1">'FLUX'</span><span class="p">]</span>
-<span class="n">tpf_file</span><span class="o">.</span><span class="n">hdu</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span><span class="o">.</span><span class="n">data</span><span class="p">[</span><span class="s1">'cadenceno'</span><span class="p">]</span>
+<span class="n">tpf_file</span><span class="o">.</span><span class="n">hdu</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span><span class="o">.</span><span class="n">data</span><span class="p">[</span><span class="s1">'FLUX'</span><span class="p">]</span><span class="w">
+</span><span class="n">tpf_file</span><span class="o">.</span><span class="n">hdu</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span><span class="o">.</span><span class="n">data</span><span class="p">[</span><span class="s1">'cadenceno'</span><span class="p">]</span>
 </pre>
 <pre class="literal-block">
 array([151576, 151577, 151578, ..., 170517, 170518, 170519], dtype=int32)
@@ -898,11 +898,11 @@ background is estimated for the CCD as a whole, before being extracted
 from each TPF in that CCD.</p>
 <pre class="code ipython3 literal-block">
 <span class="o">%</span><span class="k">matplotlib</span> inline
-<span class="n">fig</span><span class="p">,</span> <span class="n">axes</span> <span class="o">=</span> <span class="n">plt</span><span class="o">.</span><span class="n">subplots</span><span class="p">(</span><span class="mi">2</span><span class="p">,</span><span class="mi">2</span><span class="p">,</span> <span class="n">figsize</span><span class="o">=</span><span class="p">(</span><span class="mi">16</span><span class="p">,</span><span class="mi">16</span><span class="p">))</span>
-<span class="n">tpf_file</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">ax</span> <span class="o">=</span> <span class="n">axes</span><span class="p">[</span><span class="mi">0</span><span class="p">,</span><span class="mi">0</span><span class="p">],</span> <span class="n">column</span> <span class="o">=</span> <span class="s1">'FLUX'</span><span class="p">)</span>
-<span class="n">tpf_file</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">ax</span> <span class="o">=</span> <span class="n">axes</span><span class="p">[</span><span class="mi">0</span><span class="p">,</span><span class="mi">1</span><span class="p">],</span> <span class="n">column</span> <span class="o">=</span> <span class="s1">'FLUX_BKG'</span><span class="p">)</span>
-<span class="n">tpf_file</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">ax</span> <span class="o">=</span> <span class="n">axes</span><span class="p">[</span><span class="mi">1</span><span class="p">,</span><span class="mi">0</span><span class="p">],</span> <span class="n">column</span> <span class="o">=</span> <span class="s1">'FLUX_ERR'</span><span class="p">)</span>
-<span class="n">tpf_file</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">ax</span> <span class="o">=</span> <span class="n">axes</span><span class="p">[</span><span class="mi">1</span><span class="p">,</span><span class="mi">1</span><span class="p">],</span> <span class="n">column</span> <span class="o">=</span> <span class="s1">'FLUX_BKG_ERR'</span><span class="p">);</span>
+<span class="n">fig</span><span class="p">,</span> <span class="n">axes</span> <span class="o">=</span> <span class="n">plt</span><span class="o">.</span><span class="n">subplots</span><span class="p">(</span><span class="mi">2</span><span class="p">,</span><span class="mi">2</span><span class="p">,</span> <span class="n">figsize</span><span class="o">=</span><span class="p">(</span><span class="mi">16</span><span class="p">,</span><span class="mi">16</span><span class="p">))</span><span class="w">
+</span><span class="n">tpf_file</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">ax</span> <span class="o">=</span> <span class="n">axes</span><span class="p">[</span><span class="mi">0</span><span class="p">,</span><span class="mi">0</span><span class="p">],</span> <span class="n">column</span> <span class="o">=</span> <span class="s1">'FLUX'</span><span class="p">)</span><span class="w">
+</span><span class="n">tpf_file</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">ax</span> <span class="o">=</span> <span class="n">axes</span><span class="p">[</span><span class="mi">0</span><span class="p">,</span><span class="mi">1</span><span class="p">],</span> <span class="n">column</span> <span class="o">=</span> <span class="s1">'FLUX_BKG'</span><span class="p">)</span><span class="w">
+</span><span class="n">tpf_file</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">ax</span> <span class="o">=</span> <span class="n">axes</span><span class="p">[</span><span class="mi">1</span><span class="p">,</span><span class="mi">0</span><span class="p">],</span> <span class="n">column</span> <span class="o">=</span> <span class="s1">'FLUX_ERR'</span><span class="p">)</span><span class="w">
+</span><span class="n">tpf_file</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">ax</span> <span class="o">=</span> <span class="n">axes</span><span class="p">[</span><span class="mi">1</span><span class="p">,</span><span class="mi">1</span><span class="p">],</span> <span class="n">column</span> <span class="o">=</span> <span class="s1">'FLUX_BKG_ERR'</span><span class="p">);</span>
 </pre>
 <img alt="" src="images/Target-Pixel-Files_files/Target-Pixel-Files_52_0.png" />
 <p>From looking at the color scale on both plots, you may see that the
