@@ -4,6 +4,115 @@ Save_as: tpub-exoplanets-by-month.html
 [TOC]
 
 
+2024-04
+-------
+
+1. [THE PFS VIEW OF TOI-677 B: A SPIN–ORBIT ALIGNED WARM JUPITER IN A DYNAMICALLY HOT SYSTEM](http://adsabs.harvard.edu/abs/2024AJ....167..175H)  
+Hu, Qingru, Rice, Malena, Wang, Xian-Yu, et al.    
+2024, refereed ([2024AJ....167..175H](http://adsabs.harvard.edu/abs/2024AJ....167..175H))  
+<span class="badge">1 citations</span>
+
+2. [A LARGE AND VARIABLE LEADING TAIL OF HELIUM IN A HOT SATURN UNDERGOING RUNAWAY INFLATION](http://adsabs.harvard.edu/abs/2024AJ....167..142G)  
+Gully-Santiago, Michael, Morley, Caroline V., Luna, Jessica, et al.    
+2024, refereed ([2024AJ....167..142G](http://adsabs.harvard.edu/abs/2024AJ....167..142G))  
+<span class="badge">0 citations</span>
+
+3. [CONFIRMING THE WARM AND DENSE SUB-SATURN TIC 139270665 B WITH THE AUTOMATED PLANET FINDER AND UNISTELLAR CITIZEN SCIENCE NETWORK](http://adsabs.harvard.edu/abs/2024AJ....167..170P)  
+Peluso, Daniel O'Conner, Dalba, Paul A., Wright, Duncan, et al.    
+2024, refereed ([2024AJ....167..170P](http://adsabs.harvard.edu/abs/2024AJ....167..170P))  
+<span class="badge">0 citations</span>
+
+4. [CHARACTERIZATION OF K2-167 B AND CALM, A NEW STELLAR ACTIVITY MITIGATION METHOD](http://adsabs.harvard.edu/abs/2024MNRAS.529.1047D)  
+de Beurs, Zoë L., Vanderburg, Andrew, Thygesen, Erica, et al.    
+2024, refereed ([2024MNRAS.529.1047D](http://adsabs.harvard.edu/abs/2024MNRAS.529.1047D))  
+<span class="badge">0 citations</span>
+
+5. [METALLICITIES AND REFINED STELLAR PARAMETERS FOR 52 COOL DWARFS WITH TRANSITING PLANETS AND PLANET CANDIDATES](http://adsabs.harvard.edu/abs/2024ApJS..271...48G)  
+Gore, Rebecca, Giacalone, Steven, Dressing, Courtney D., et al.    
+2024, refereed ([2024ApJS..271...48G](http://adsabs.harvard.edu/abs/2024ApJS..271...48G))  
+<span class="badge">0 citations</span>
+
+6. [THE TESS–KECK SURVEY. XIX. A WARM TRANSITING SUB-SATURN-MASS PLANET AND A NONTRANSITING SATURN-MASS PLANET ORBITING A SOLAR ANALOG](http://adsabs.harvard.edu/abs/2024AJ....167..151H)  
+Hill, Michelle L., Kane, Stephen R., Dalba, Paul A., et al.    
+2024, refereed ([2024AJ....167..151H](http://adsabs.harvard.edu/abs/2024AJ....167..151H))  
+<span class="badge">0 citations</span>
+
+7. [THE TESS-KECK SURVEY. XII. A DENSE 1.8 R <SUB>⊕</SUB> ULTRA-SHORT-PERIOD PLANET POSSIBLY CLINGING TO A HIGH-MEAN-MOLECULAR-WEIGHT ATMOSPHERE AFTER THE FIRST GIGAYEAR](http://adsabs.harvard.edu/abs/2024AJ....167..153R)  
+Rubenzahl, Ryan A., Dai, Fei, Howard, Andrew W., et al.    
+2024, refereed ([2024AJ....167..153R](http://adsabs.harvard.edu/abs/2024AJ....167..153R))  
+<span class="badge">0 citations</span>
+
+8. [TOI-1199 B AND TOI-1273 B: TWO NEW TRANSITING HOT SATURNS DETECTED AND CHARACTERIZED WITH SOPHIE AND TESS](http://adsabs.harvard.edu/abs/2024A&A...684A...6S)  
+Serrano Bell, J., Díaz, R. F., Hébrard, G., et al.    
+2024, refereed ([2024A&A...684A...6S](http://adsabs.harvard.edu/abs/2024A&A...684A...6S))  
+<span class="badge">0 citations</span>
+
+9. [CONFRONTING COMPOSITIONAL CONFUSION THROUGH THE CHARACTERIZATION OF THE SUB-NEPTUNE ORBITING HD 77946](http://adsabs.harvard.edu/abs/2024MNRAS.529.3323P)  
+Palethorpe, L., John, A. Anna, Mortier, A., et al.    
+2024, refereed ([2024MNRAS.529.3323P](http://adsabs.harvard.edu/abs/2024MNRAS.529.3323P))  
+<span class="badge">0 citations</span>
+
+10. [THE GAPS PROGRAMME AT TNG. XXX: CHARACTERIZATION OF THE LOW-DENSITY GAS GIANT HAT-P-67 B WITH GIARPS](http://adsabs.harvard.edu/abs/2024arXiv240403317S)  
+Sicilia, D., Scandariato, G., Guilluy, G., et al.    
+2024, not refereed ([2024arXiv240403317S](http://adsabs.harvard.edu/abs/2024arXiv240403317S))  
+<span class="badge">0 citations</span>
+
+11. [NGTS-30 B/TOI-4862 B: AN 1 GYR OLD 98-DAY TRANSITING WARM JUPITER](http://adsabs.harvard.edu/abs/2024arXiv240402974B)  
+Battley, M. P., Collins, K. A., Ulmer-Moll, S., et al.    
+2024, not refereed ([2024arXiv240402974B](http://adsabs.harvard.edu/abs/2024arXiv240402974B))  
+<span class="badge">0 citations</span>
+
+12. [THE ASTRALUX-TESS HIGH-SPATIAL RESOLUTION IMAGING SURVEY. SEARCH FOR STELLAR COMPANIONS OF 215 PLANET CANDIDATES FROM TESS](http://adsabs.harvard.edu/abs/2024arXiv240406316L)  
+Lillo-Box, J., Morales-Calderón, M., Barrado, D., et al.    
+2024, not refereed ([2024arXiv240406316L](http://adsabs.harvard.edu/abs/2024arXiv240406316L))  
+<span class="badge">0 citations</span>
+
+13. [SINGULAR SPECTRUM ANALYSIS OF EXOPLANETARY TRANSITS](http://adsabs.harvard.edu/abs/2024arXiv240405323F)  
+Fatheddin, Hossein, Sajadian, Sedighe    
+2024, not refereed ([2024arXiv240405323F](http://adsabs.harvard.edu/abs/2024arXiv240405323F))  
+<span class="badge">0 citations</span>
+
+14. [A NEW METHOD FOR INSTRUMENTAL PROFILE RECONSTRUCTION OF HIGH-RESOLUTION SPECTROGRAPHS](http://adsabs.harvard.edu/abs/2024A&A...684A..38M)  
+Passegger, V. M., Suárez Mascareño, A., Allart, R., et al.    
+2024, refereed ([2024A&A...684A..38M](http://adsabs.harvard.edu/abs/2024A&A...684A..38M))  
+<span class="badge">1 citations</span>
+
+15. [SEARCHING FOR GIANT EXOPLANETS AROUND M-DWARF STARS (GEMS) I: SURVEY MOTIVATION](http://adsabs.harvard.edu/abs/2024AJ....167..161K)  
+Kanodia, Shubham, Cañas, Caleb I., Mahadevan, Suvrath, et al.    
+2024, refereed ([2024AJ....167..161K](http://adsabs.harvard.edu/abs/2024AJ....167..161K))  
+<span class="badge">0 citations</span>
+
+16. [REVISED ARCHITECTURE AND TWO NEW SUPER-EARTHS IN THE HD 134606 PLANETARY SYSTEM](http://adsabs.harvard.edu/abs/2024AJ....167..155L)  
+Li, Zhexing, Kane, Stephen R., Brandt, Timothy D., et al.    
+2024, refereed ([2024AJ....167..155L](http://adsabs.harvard.edu/abs/2024AJ....167..155L))  
+<span class="badge">0 citations</span>
+
+17. [IDENTIFYING EXOPLANET CANDIDATES USING WAVECEPTIONNET](http://adsabs.harvard.edu/abs/2024AJ....167..180L)  
+Liao, Huiping, Ren, Guangyue, Chen, Xinghao, et al.    
+2024, refereed ([2024AJ....167..180L](http://adsabs.harvard.edu/abs/2024AJ....167..180L))  
+<span class="badge">0 citations</span>
+
+18. [RELATIVE OCCURRENCE RATE BETWEEN HOT AND COLD JUPITERS AS AN INDICATOR TO PROBE PLANET MIGRATION](http://adsabs.harvard.edu/abs/2024arXiv240407033G)  
+Gan, Tianjun, Guo, Kangrou, Liu, Beibei, et al.    
+2024, not refereed ([2024arXiv240407033G](http://adsabs.harvard.edu/abs/2024arXiv240407033G))  
+<span class="badge">0 citations</span>
+
+19. [PLANETS OBSERVED WITH CHEOPS. TWO SUPER-EARTHS ORBITING THE RED DWARF STAR TOI-776](http://adsabs.harvard.edu/abs/2024A&A...684A..12F)  
+Fridlund, M., Georgieva, I. Y., Bonfanti, A., et al.    
+2024, refereed ([2024A&A...684A..12F](http://adsabs.harvard.edu/abs/2024A&A...684A..12F))  
+<span class="badge">0 citations</span>
+
+20. [EVIDENCE FOR PRIMORDIAL ALIGNMENT: INSIGHTS FROM STELLAR OBLIQUITY MEASUREMENTS FOR COMPACT SUB-SATURN SYSTEMS](http://adsabs.harvard.edu/abs/2024arXiv240406504R)  
+Radzom, Brandon T., Dong, Jiayin, Rice, Malena, et al.    
+2024, not refereed ([2024arXiv240406504R](http://adsabs.harvard.edu/abs/2024arXiv240406504R))  
+<span class="badge">0 citations</span>
+
+21. [QUENCHING-DRIVEN EQUATORIAL DEPLETION AND LIMB ASYMMETRIES IN HOT JUPITER ATMOSPHERES: WASP-96B EXAMPLE](http://adsabs.harvard.edu/abs/2024MNRAS.529.1776Z)  
+Zamyatina, Maria, Christie, Duncan A., Hébrard, Eric, et al.    
+2024, refereed ([2024MNRAS.529.1776Z](http://adsabs.harvard.edu/abs/2024MNRAS.529.1776Z))  
+<span class="badge">0 citations</span>
+
+
 2024-03
 -------
 
