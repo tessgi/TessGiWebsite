@@ -1,10 +1,9 @@
-Approved Guest Investigator programs
+Selected Targets from General Investigator programs
 ####################################
 :save_as: approved-programs.html
 
 .. contents::
-
-This page details the `Guest Investigator programs <proposing-investigations.html>`_ that will be executed by TESS during the second extension of its mission (September 2022-September 2025).
+This page details the targets selected from the `General Investigator programs <proposing-investigations.html>`_ that were observed by TESS during the second extension of its mission (September 2022-September 2025).
 
 The target lists are posted on this page
 as soon as the team has prepared the final target list

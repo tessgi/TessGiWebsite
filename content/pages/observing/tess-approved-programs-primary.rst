@@ -1,10 +1,10 @@
-Approved Guest Investigator programs from the primary mission
+Selected Targets from General Investigator programs from the primary mission
 #############################################################
 :save_as: approved-programs-primary.html
 
 .. contents::
 
-This page details the `Guest Investigator programs <proposing-investigations.html>`_ that were executed by TESS during its primary mission (July 2018-July 2020).
+This page details the targets selected from the `General Investigator programs <proposing-investigations.html>`_ that were observed by TESS during its primary mission (July 2018-July 2020).
 
 The target lists are posted on this page
 as soon as the team has prepared the final target list
