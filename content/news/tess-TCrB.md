@@ -1,5 +1,5 @@
 Title: TESS Special Bulletin: April 23rd
-Date: 2024-04-25 10:00
+Date: 2024-04-23 10:00
 Author: Rebekah Hounsell
 
 Welcome TESS followers to this special news bulletin high-lighting an extra extraordinary object that may be observed by TESS in the coming months, T CrB!
@@ -8,7 +8,7 @@ T Coronae Borealis (T CrB for short) is a recurrent novae (RNe) located 3,000 li
 
 Like all novae, T CrB is a binary system consisting of a White Dwarf (WD, ~1.2 - 1.37 M<sub>Sun</sub>) pulling hydrogen rich material from the surface of a secondary star via an accretion disc. The secondary star in this case is red giant which dominates the optical and infrared light of the system. The nova outburst observed is caused by a thermonuclear runaway in the collected material on the surface of the WD, and in the case of T CrB the outburst is spectacular!
 
-In pervious outburst events the T CrB was seen to increase from a quiescence magnitude of ~10 mags in V, to a shocking naked eye brightness of 2 mags, this is comparable to Polaris!
+In previous outburst events the T CrB was seen to increase from a quiescence magnitude of ~10 mags in V, to a shocking naked eye brightness of 2 mags - this is comparable to Polaris!
 
 T CrB is also interesting in that it has a pre-outburst tell, alerting the community that it will soon go nova. This tell comes in the form of an approximate 2 mag dip in the light curve about a year before eruption. This dip was observed by Louisiana State scientists in March/April of last year, meaning that T CrB should go nova any day now.
 
