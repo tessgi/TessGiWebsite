@@ -3,7 +3,7 @@ Save_as: extended-mission-planning.html
 
 [TOC]
 
-The call for community input into the extended mission plan has now been announced. See the April 30th 2024 news item below.
+The call for community input into the extended mission has now been announced. See the April 30th 2024 news item below.
 
 ## News Items
 
