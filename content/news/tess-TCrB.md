@@ -10,7 +10,7 @@ Like all novae, T CrB is a binary system consisting of a White Dwarf (WD, ~1.2 -
 
 In previous outburst events the T CrB was seen to increase from a quiescence magnitude of ~10 mags in V, to a shocking naked eye brightness of 2 mags - this is comparable to Polaris!
 
-T CrB is also interesting in that it has a pre-outburst tell, alerting the community that it will soon go nova. This tell comes in the form of an approximate 2 mag dip in the light curve about a year before eruption. This dip was observed by Louisiana State scientists in March/April of last year, meaning that T CrB should go nova any day now.
+T CrB is also interesting in that it has a pre-outburst tell, alerting the community that it will soon go nova. This tell comes in the form of a dip in the light curve about a year before eruption. This dip was observed by Louisiana State scientists in March/April of last year, meaning that T CrB should go nova any day now.
 
 If the event happens between April 23rd and May 21st it will also be observed serendipitously by TESS in Sector 78.
 TESS has already observed the system in quiescence during Sectors 24, 25, and 51 (see Fig 1), but if the nova has an outburst in S78, TESS will obtain a wonderful light curve of its rise and decline.
