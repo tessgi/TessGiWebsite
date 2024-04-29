@@ -122,7 +122,7 @@ MENUITEMS = (
             #  ('TESS at a glance', 'quicklook-mission.html'),
             ("Technical details", "observing-technical.html"),
             ("Sector dates", "sector.html"),
-            ("GI programs", "approved-programs.html"),
+            ("GI program targets", "approved-programs.html"),
         ),
     ),
     (

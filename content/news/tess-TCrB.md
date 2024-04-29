@@ -1,5 +1,5 @@
-Title: TESS Special Bulletin: April 23rd
-Date: 2024-04-23 10:00
+Title: TESS Special Bulletin: May 1st
+Date: 2024-05-01 10:00
 Author: Rebekah Hounsell
 
 Welcome TESS followers to this special news bulletin high-lighting an extra extraordinary object that may be observed by TESS in the coming months, T CrB!
