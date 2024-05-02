@@ -17,3 +17,6 @@ Summary: Tidally excited oscillations (TEOs) are stellar pulsations that are exc
 # Sector 078 targets observed (2 min: 2, 20 s: 0)
 376499580,339.5099,67.4662,11.35,G06135;G06057
 272822330,356.5747,62.0259,9.74,G06135;G06057
+
+# Sector 079 targets observed (2 min: 1, 20 s: 0)
+298541138,261.7472,24.6966,11.34,G06135;G06057

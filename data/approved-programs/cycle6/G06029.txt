@@ -33,3 +33,6 @@ Summary: We propose an acid test of two "gold standard" methods for deriving age
 
 # Sector 076 targets observed (2 min: 1, 20 s: 1)
 329759640,332.9561,56.8402,4.76,G06029;G06194;G06024;20SECONDTARGET
+
+# Sector 079 targets observed (2 min: 1, 20 s: 1)
+180762527,272.3397,29.9521,6.23,G06029;G06200;G06024;20SECONDTARGET

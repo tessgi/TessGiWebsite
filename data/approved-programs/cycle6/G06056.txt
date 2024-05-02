@@ -28,3 +28,7 @@ Summary: Ground-based surveys were key drivers of early exoplanet discoveries. H
 
 # Sector 078 targets observed (2 min: 1, 20 s: 0)
 162576878,243.942,50.4862,11.2,G06056
+
+# Sector 079 targets observed (2 min: 2, 20 s: 0)
+158656337,269.2059,26.0686,12.11,G06056
+162576878,243.942,50.4862,11.2,G06056
