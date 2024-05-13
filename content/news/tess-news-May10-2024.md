@@ -23,7 +23,7 @@ Detached eclipsing binary stars enable direct measurements of stellar masses and
 ![Abt2024](images/Abt_2023_Fig9.png)
 **Fig. 1:** *Taken from Abt et al. (2023). 2-min TESS photometry of Deneb from Sectors 41, 55, and 56, highlighting the prominent pulsations as well as the beginning of a new pulsation cycle in Sector 55.*
 
-![Kishore2024](images/Kishore_2024_Fig2.png.png)
+![Kishore2024](images/Kishore_2024_Fig2.png)
 **Fig. 2:** *Taken from Kishore et al. (2024). TESS photometry of the TeV blazar 1ES 0229+200 exhibiting a prominent flare in Sector 42. Upper panel: 2-min cadence data (blue) along with the best-fit flare model (red). Lower panel: Same as the upper panel but comparing the 2-min cadence data to the 30-min cadence data (yellow symbols).*
 
 ![Southworth2024](images/Southworth_2024_Fig2.png)
