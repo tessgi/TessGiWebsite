@@ -1,0 +1,17 @@
+# TESS Program G06103
+
+Title: Every Wavelength, Every Flare, All At Once: Simultaneous Flare Observations With TESS And Swift
+
+PI: Gilbert, Emily - NASA/JPL
+
+Type: SMALL
+
+Summary: Missions like Kepler, K2, and TESS have provided us with unprecedented access to high-cadence light curves of active stars. With these light curves, we can study stellar flares in great detail; we can analyze flare morphologies, determine precise flare energies, and resolve small and complex flares that go undetected in longer cadence data. However, such studies have largely focused on optical light curves. We propose to observe six active stars in TESS short cadence (20-s) simultaneously with Swift ultraviolet (UV) in order to study the UV properties of flares. We will construct a UV flare template for M dwarf stars, construct flare frequency distributions for these targets, and determine optical/UV flare relationships.
+
+
+# Sector 072 targets observed (2 min: 2, 20 s: 2)
+95431305,154.8976,19.8697,7.04,G06171;G06103;G06132;20SECONDTARGET
+365006789,164.0947,6.9967,9.28,G06058;G06103;20SECONDTARGET
+
+# Sector 078 targets observed (2 min: 1, 20 s: 1)
+355793860,230.4711,20.9786,8.02,G06103;20SECONDTARGET

@@ -1,0 +1,30 @@
+# TESS Program G06119
+
+Title: Probing Cycle-To-Cycle Pulsation Variations In Rrc Stars Using Simultaneous Spectroscopy And TESS Observations
+
+PI: Wilhelm, Ronald - University Of Kentucky
+
+Type: SMALL
+
+Summary: Our proposal is to secure funding to conduct simultaneous, ground-based, high-resolution spectroscopic observations and TESS Cycle 6 observations of our target RR Lyrae variable stars. Our variable star targets show multi-mode pulsations that are thought to include non-radial pulsation modes. We will compare variations in the stars turbulent and pulsation velocities and velocity gradient to the multi-mode frequencies from a Fourier analysis of the TESS data. This will allow us to test correlations between kinematic and light variations and probe the possible non-radial nature of the multi-mode frequencies. We will also use funds to analyze our current sample of simultaneous observations that were obtained from earlier TESS cycles.
+
+
+# Sector 070 targets observed (2 min: 1, 20 s: 0)
+422752878,358.5339,0.9635,10.26,G06119
+
+# Sector 072 targets observed (2 min: 1, 20 s: 0)
+275254541,148.3682,2.0572,9.76,G06119
+
+# Sector 074 targets observed (2 min: 2, 20 s: 0)
+417837450,146.736,63.6954,10.68,G06119
+229536143,195.8793,71.1122,9.98,G06119
+
+# Sector 075 targets observed (2 min: 1, 20 s: 0)
+229536143,195.8793,71.1122,9.98,G06119
+
+# Sector 077 targets observed (2 min: 1, 20 s: 0)
+282941520,236.6089,44.313,12.6,G06119
+
+# Sector 078 targets observed (2 min: 2, 20 s: 0)
+105769104,240.5158,17.4807,10.7,G06119
+282941520,236.6089,44.313,12.6,G06119
