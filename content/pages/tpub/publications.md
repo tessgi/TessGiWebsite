@@ -12,8 +12,8 @@ the TESS mission is provided by the NASA's Science Mission Directorate.*
 
 The TESS Science Support Center curates a list of scientific publications
 pertaining to TESS.
-The database contains 2059 publications,
-of which 1808 are peer-reviewed.
+The database contains 707 publications,
+of which 661 are peer-reviewed.
 It demonstrates the important impact of TESS data
 on astronomical research.
 
@@ -29,7 +29,7 @@ Or seach by topic:
 If you spot an error in the database, such as a missing entry,
 please get in touch or open an issue in the <a href="https://github.com/tessgi/tpub">GitHub repository</a> of the database.
 
-Last update: 29 Apr 2024.
+Last update: 17 May 2024.
 
 <hr/>
 
@@ -46,11 +46,11 @@ of year.
 
 Both TESS data have been used for scientific applications
 that reach far beyond exoplanet research.
-While 831 works relate to exoplanets
-(40%),
-a total of 1228
+While 317 works relate to exoplanets
+(45%),
+a total of 390
 pertain to other areas of astrophysics
-(60%).
+(55%).
 
 
 ![Publications by subject](images/tpub/tpub-piechart.png)
@@ -60,7 +60,7 @@ pertain to other areas of astrophysics
 ## Most-cited publications
 
 TESS publications have cumulatively been cited
-27425 times.
+23384 times.
 The list below shows the most-cited publications,
 based on the citation count obtained from NASA ADS.
 
@@ -68,52 +68,52 @@ based on the citation count obtained from NASA ADS.
 1. TRANSITING EXOPLANET SURVEY SATELLITE (TESS)  
 Ricker, George R., Winn, Joshua N., Vanderspek, Roland, et al.    
 [2015JATIS...1a4003R](http://adsabs.harvard.edu/abs/2015JATIS...1a4003R)
-<span class="badge">2566 citations</span>
+<span class="badge">2785 citations</span>
 
 2. THE REVISED TESS INPUT CATALOG AND CANDIDATE TARGET LIST  
 Stassun, Keivan G., Oelkers, Ryan J., Paegert, Martin, et al.    
 [2019AJ....158..138S](http://adsabs.harvard.edu/abs/2019AJ....158..138S)
-<span class="badge">624 citations</span>
+<span class="badge">688 citations</span>
 
 3. THE TESS INPUT CATALOG AND CANDIDATE TARGET LIST  
 Stassun, Keivan G., Oelkers, Ryan J., Pepper, Joshua, et al.    
 [2018AJ....156..102S](http://adsabs.harvard.edu/abs/2018AJ....156..102S)
-<span class="badge">479 citations</span>
+<span class="badge">510 citations</span>
 
 4. THE TRANSITING EXOPLANET SURVEY SATELLITE: SIMULATIONS OF PLANET DETECTIONS AND ASTROPHYSICAL FALSE POSITIVES  
 Sullivan, Peter W., Winn, Joshua N., Berta-Thompson, Zachory K., et al.    
 [2015ApJ...809...77S](http://adsabs.harvard.edu/abs/2015ApJ...809...77S)
-<span class="badge">385 citations</span>
+<span class="badge">395 citations</span>
 
 5. A FRAMEWORK FOR PRIORITIZING THE TESS PLANETARY CANDIDATES MOST AMENABLE TO ATMOSPHERIC CHARACTERIZATION  
 Kempton, Eliza M. -R., Bean, Jacob L., Louie, Dana R., et al.    
 [2018PASP..130k4401K](http://adsabs.harvard.edu/abs/2018PASP..130k4401K)
-<span class="badge">326 citations</span>
+<span class="badge">366 citations</span>
 
 6. A REVISED EXOPLANET YIELD FROM THE TRANSITING EXOPLANET SURVEY SATELLITE (TESS)  
 Barclay, Thomas, Pepper, Joshua, Quintana, Elisa V.    
 [2018ApJS..239....2B](http://adsabs.harvard.edu/abs/2018ApJS..239....2B)
-<span class="badge">237 citations</span>
+<span class="badge">245 citations</span>
 
-7. LIMB AND GRAVITY-DARKENING COEFFICIENTS FOR THE TESS SATELLITE AT SEVERAL METALLICITIES, SURFACE GRAVITIES, AND MICROTURBULENT VELOCITIES  
-Claret, A.    
-[2017A&A...600A..30C](http://adsabs.harvard.edu/abs/2017A&A...600A..30C)
-<span class="badge">220 citations</span>
-
-8. STELLAR FLARES FROM THE FIRST TESS DATA RELEASE: EXPLORING A NEW SAMPLE OF M DWARFS  
+7. STELLAR FLARES FROM THE FIRST TESS DATA RELEASE: EXPLORING A NEW SAMPLE OF M DWARFS  
 Günther, Maximilian N., Zhan, Zhuchang, Seager, Sara, et al.    
 [2020AJ....159...60G](http://adsabs.harvard.edu/abs/2020AJ....159...60G)
-<span class="badge">216 citations</span>
+<span class="badge">238 citations</span>
+
+8. LIMB AND GRAVITY-DARKENING COEFFICIENTS FOR THE TESS SATELLITE AT SEVERAL METALLICITIES, SURFACE GRAVITIES, AND MICROTURBULENT VELOCITIES  
+Claret, A.    
+[2017A&A...600A..30C](http://adsabs.harvard.edu/abs/2017A&A...600A..30C)
+<span class="badge">234 citations</span>
 
 9. THE TESS OBJECTS OF INTEREST CATALOG FROM THE TESS PRIME MISSION  
 Guerrero, Natalia M., Seager, S., Huang, Chelsea X., et al.    
 [2021ApJS..254...39G](http://adsabs.harvard.edu/abs/2021ApJS..254...39G)
-<span class="badge">192 citations</span>
+<span class="badge">232 citations</span>
 
 10. PHOTOMETRY OF 10 MILLION STARS FROM THE FIRST TWO YEARS OF TESS FULL FRAME IMAGES: PART I  
 Huang, Chelsea X., Vanderburg, Andrew, Pál, Andras, et al.    
 [2020RNAAS...4..204H](http://adsabs.harvard.edu/abs/2020RNAAS...4..204H)
-<span class="badge">184 citations</span>
+<span class="badge">212 citations</span>
 <hr/>
 
 <!-- 
@@ -130,61 +130,13 @@ within the last 90 days.
 <!-- ## Most-active authors
 
 The entries in the publication database have been authored and co-authored
-by a total of 7137 unique author names.
+by a total of 3590 unique author names.
 Here we list the most-active authors, defined as those with six or more first-author publications in our database.
 
 
- * Southworth, J (22 publications)
+ * Bouma, L (7 publications)
 
- * Bouma, L (10 publications)
+ * Cloutier, R (6 publications)
 
- * Balona, L (10 publications)
-
- * Lee, J (9 publications)
-
- * Sun, Q (8 publications)
-
- * Gan, T (8 publications)
-
- * Zasche, P (8 publications)
-
- * Kunimoto, M (8 publications)
-
- * Maciejewski, G (8 publications)
-
- * Kostov, V (8 publications)
-
- * Howard, W (8 publications)
-
- * Jayasinghe, T (7 publications)
-
- * Cloutier, R (7 publications)
-
- * Bognar, Z (7 publications)
-
- * Koen, C (7 publications)
-
- * Kato, T (6 publications)
-
- * Kanodia, S (6 publications)
-
- * Wong, I (6 publications)
-
- * Borkovits, T (6 publications)
-
- * Shi, X (6 publications)
-
- * Kahraman Alicavus, F (6 publications)
-
- * Schaefer, B (6 publications)
-
- * Lillo-Box, J (6 publications)
-
- * Uzundag, M (6 publications)
-
- * Doyle, L (6 publications)
-
- * Littlefield, C (6 publications)
-
- * Knudstrup, E (6 publications)
+ * Balona, L (6 publications)
 -->
