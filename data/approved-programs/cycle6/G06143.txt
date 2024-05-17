@@ -1,0 +1,10 @@
+# TESS Program G06143
+
+Title: TESS Search For Ultrafast Classical Novae
+
+PI: Sokolovsky, Kirill - University Of Illinois At Urbana-Champaign
+
+Type: SMALL
+
+Summary: We propose a search for ultrafast novae using full-frame images collected during TESS Cycle 6. Although theoretically predicted and observationally confirmed in nearby galaxies, no such rapidly evolving novae have been identified so far in the Galaxy. Finding local analogs of these extragalactic transients will enable a detailed study of their host binary systems and accurate determination of the total Galactic nova rate, constraining the contribution of novae to the chemical evolution of the galaxy and improving our knowledge of binary evolution pathways leading to Type Ia supernovae.
+

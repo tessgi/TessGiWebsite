@@ -1,0 +1,10 @@
+# TESS Program G06177
+
+Title: Wrinkles In Time: Tracing The Galaxy'S Dynamical History With Gyrochronologic Ages
+
+PI: Rampalli, Rayna - Dartmouth College
+
+Type: SMALL
+
+Summary: Combined with precise kinematics, TESS's high-cadence light curves allow for powerful new insights into the Milky Way's dynamical history. One open problem in Galactic dynamics is empirically characterizing the timescale of transient spiral arm passages. Simulations have shown that spiral arm interactions can shepherd young stars from near-circular to eccentric orbits. These leave post-resonance "wrinkles" in kinematic-space, which have now been observed with the Gaia mission. With photometry from TESS and gyrochronology, we will measure rotation periods and infer ages for young, low-mass stars in wrinkles. This, for the first time, will place upper-limit timestamps on the most recent spiral arm passages in the Milky Way and improve our understanding of dynamical evolution in the disk.
+

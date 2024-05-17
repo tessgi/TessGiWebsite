@@ -1,0 +1,38 @@
+# TESS Program G06006
+
+Title: Asteroseismology Of Main Sequence Secondaries Of Wide Binaries With A Bright Red Giant Primary
+
+PI: Gonzalez, Guillermo - Tellus1 Scientific Llc
+
+Type: SMALL
+
+Summary: Many red giants, each observed over multiple sectors with TESS, have precise asteroseismic parameters determined. Some of these red giants are in astrometric wide binaries. We propose to obtain TESS 20-second cadence observations of main sequence F and G spectral type secondaries of these binaries for the purpose of determining their asteroseismic parameters. This will help to better constrain the derived properties (age and mass) of both members of each binary and provide tests of stellar evolution models. It may also be possible to measure the rotation periods of the secondaries, in which case it will help to improve gyrochronology calibrations.
+
+
+# Sector 073 targets observed (2 min: 2, 20 s: 2)
+264053096,307.5941,81.141,8.13,G06006;20SECONDTARGET
+256663850,300.5549,64.6589,7.12,G06006;20SECONDTARGET
+
+# Sector 074 targets observed (2 min: 3, 20 s: 3)
+257005035,224.2956,74.9415,7.84,G06006;20SECONDTARGET
+264053096,307.5941,81.141,8.13,G06006;20SECONDTARGET
+256663850,300.5549,64.6589,7.12,G06006;20SECONDTARGET
+
+# Sector 075 targets observed (2 min: 2, 20 s: 2)
+257005035,224.2956,74.9415,7.84,G06006;20SECONDTARGET
+256663850,300.5549,64.6589,7.12,G06006;20SECONDTARGET
+
+# Sector 076 targets observed (2 min: 2, 20 s: 2)
+257005035,224.2956,74.9415,7.84,G06006;20SECONDTARGET
+256663850,300.5549,64.6589,7.12,G06006;20SECONDTARGET
+
+# Sector 077 targets observed (2 min: 1, 20 s: 1)
+256663850,300.5549,64.6589,7.12,G06006;20SECONDTARGET
+
+# Sector 078 targets observed (2 min: 2, 20 s: 2)
+256663850,300.5549,64.6589,7.12,G06006;20SECONDTARGET
+264053096,307.5942,81.141,8.13,G06006;20SECONDTARGET
+
+# Sector 079 targets observed (2 min: 2, 20 s: 2)
+256663850,300.5549,64.6589,7.12,G06006;20SECONDTARGET
+264053096,307.5942,81.141,8.13,G06006;20SECONDTARGET

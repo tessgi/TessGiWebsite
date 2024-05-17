@@ -1,0 +1,35 @@
+# TESS Program G06096
+
+Title: Probing Accretion Disk Structures In Long-Period Algols
+
+PI: Reed, Phillip - Kutztown University Of Pennsylvania
+
+Type: SMALL
+
+Summary: Accretion disks are ubiquitous in the universe, serving as sources of energy and governing the evolution of objects of all sizes. Major questions remain regarding some fundamental physical properties, such as the mechanisms that drive viscosity, redistribute angular momentum, and allow accretion onto the central object to take place. Long-period Algols promise answers as they contain persistent accretion disks that are variable enough to observe dynamic behavior. Disk sub-structures have been identified in TESS data as series of transits across the primary star. By monitoring these transits, with coinciding ground-based support, we will characterize structures within the accretion disks, monitor their motions and morphology, and infer the disks' properties related to viscosity.
+
+
+# Sector 071 targets observed (2 min: 2, 20 s: 0)
+96785948,74.1541,32.203,9.23,G06096
+14709809,111.8508,15.6595,8.43,G06073;G06096;G06057;G06183
+
+# Sector 072 targets observed (2 min: 2, 20 s: 0)
+184895526,130.9838,19.0342,8.1,G06096
+14709809,111.8508,15.6595,8.43,G06073;G06096;G06057;G06183
+
+# Sector 073 targets observed (2 min: 2, 20 s: 0)
+96785948,74.1541,32.203,9.23,G06096
+142046514,76.5132,80.2479,9.89,G06096
+
+# Sector 075 targets observed (2 min: 2, 20 s: 0)
+186137970,303.188,47.3948,10.28,G06096;G06057
+381009148,303.8012,34.5134,9.91,G06096;G06057
+
+# Sector 076 targets observed (2 min: 1, 20 s: 0)
+186137970,303.188,47.3948,10.28,G06096;G06057
+
+# Sector 078 targets observed (2 min: 1, 20 s: 0)
+326896552,2.6753,54.8915,8.2,G06096
+
+# Sector 079 targets observed (2 min: 1, 20 s: 0)
+142046514,76.5132,80.2479,9.89,G06096

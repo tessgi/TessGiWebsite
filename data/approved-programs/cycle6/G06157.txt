@@ -1,0 +1,10 @@
+# TESS Program G06157
+
+Title: Stellar Rotation Periods And Activity Cycles With TESS
+
+PI: Fetherolf, Tara - University Of California (Riverside)
+
+Type: SMALL
+
+Summary: We propose to measure rotation periods, starspot flux amplitudes, and flare rates from the TESS FFIs for stars that will be observed within the northern continuous viewing zone during Cycle 6. Changes in rotation periods, flux amplitudes, and flare rates over the Sectors 73-83 will be used to measure short activity cycles, which are expected for stars with short rotation periods (<20 days). FGKM dwarfs are expected to have rotation periods longer than 0.5 days, such that the cadence of the TESS FFIs are sufficient for measuring changes in timing and flux amplitudes of each stellar rotation. Characterizing stellar activity cycles for a large sample of stars will help reveal their impact on exoplanet atmospheres, uncertainties in stellar properties, and stellar interior processes.
+

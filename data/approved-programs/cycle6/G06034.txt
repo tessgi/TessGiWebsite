@@ -1,0 +1,28 @@
+# TESS Program G06034
+
+Title: A Unique Test Of M-Dwarf Flares With Eclipsing Binaries
+
+PI: Martin, David - Ohio State University
+
+Type: SMALL
+
+Summary: M-dwarfs are popular for exoplanets, owing to a short-period habitable zone and abundance of rocky planets. The promise of M-dwarfs has led to a huge time and money commitment, including from TESS. The sometimes overlooked challenge is that low-mass stars flare frequently and at high amplitude. This not only hinders the detection and characterization of planets and stars, but it endangers any potential life. We propose a unique test of M-dwarf flares by constraining their size and location using short-period eclipsing binaries. With 20 second cadence we will be able to, for the first time, resolve the occultation of a flare with optical light. We can test if flares are equatorial, like on the Sun, or perhaps near the poles. This has implications for habitability and stellar physics.
+
+
+# Sector 070 targets observed (2 min: 1, 20 s: 1)
+278892590,346.6285,-5.0446,13.85,G06165;G06058;G06002;G06155;G06032;G06195;G06034;G06132;20SECONDTARGET
+
+# Sector 073 targets observed (2 min: 1, 20 s: 1)
+275911914,54.3116,69.1797,11.53,G06057;G06034;20SECONDTARGET
+
+# Sector 076 targets observed (2 min: 1, 20 s: 1)
+199574208,248.5709,57.1703,10.16,G06057;G06034;20SECONDTARGET
+
+# Sector 077 targets observed (2 min: 1, 20 s: 1)
+199574208,248.5708,57.1703,10.16,G06057;G06034;20SECONDTARGET
+
+# Sector 078 targets observed (2 min: 1, 20 s: 1)
+199574208,248.5708,57.1703,10.16,G06057;G06034;20SECONDTARGET
+
+# Sector 079 targets observed (2 min: 1, 20 s: 1)
+199574208,248.5708,57.1703,10.16,G06057;G06034;20SECONDTARGET

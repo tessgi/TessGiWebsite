@@ -1,0 +1,10 @@
+# TESS Program G06164
+
+Title: Repairing Empirical Clocks With TESS, Ztf, And Spectra For Star Clusters
+
+PI: Curtis, Jason - Columbia University
+
+Type: SMALL
+
+Summary: The calibration of empirical ages based on rotation, chromospheric emission, and lithium requires data from benchmark star clusters. The large gap in age between the 120-Myr Pleiades and 700-Myr Praesepe can be filled by previously unappreciated clusters that now have enhanced memberships from Gaia. We propose to measure periods with ZTF, complementing those from TESS by reaching longer periods and fainter stars. We also collected large samples of high-resolution spectra for each of ten clusters. We will (1) establish each as new benchmarks for stellar astrophysics using newly derived [Fe/H] and reddening, (2) produce extensive kinematic, rotation, activity, lithium, and other abundance data for a large number of their members, and (3) retune rotation, activity, and Li clocks.
+
