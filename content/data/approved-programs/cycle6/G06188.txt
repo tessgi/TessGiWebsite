@@ -1,0 +1,58 @@
+# TESS Program G06188
+
+Title: Using TESS To Search For Companions To Several New Pulsating Hot Subdwarf Stars Using Pulse-Timing Analysis
+
+PI: Lopez, Isaac - Iowa State University
+
+Type: SMALL
+
+Summary: Hot subdwarf stars are the exposed helium-fusing cores of giant stars that have experienced a significant episode of mass-loss. Recently, a new class of pulsating hot subdwarf stars has been discovered with pulsation periods around 5 minutes. The exact nature of these stars is still unknown; the main unsolved problem is whether or not these stars harbor helium fusion cores. Here we propose to use TESS 20-second cadence observations to search for binary companions around several of these stars by looking for subtle variations in the arrival times of the pulsations. Because of the short period of the pulsations, the continuous short-cadence TESS observations are particularly well-suited for this study. To confirm binary detections with TESS, we propose to obtain follow-up spectroscopic obser
+
+
+# Sector 071 targets observed (2 min: 3, 20 s: 0)
+673946269,79.9019,16.994,18.54,G06188
+155313989,102.9554,16.0574,12.02,G06188
+155457780,103.6288,17.164,11.95,G06188
+
+# Sector 072 targets observed (2 min: 3, 20 s: 0)
+155313989,102.9554,16.0574,12.02,G06188
+155457780,103.6288,17.164,11.95,G06188
+333801260,130.7663,16.2982,11.62,G06188
+
+# Sector 073 targets observed (2 min: 5, 20 s: 0)
+367083346,100.735,45.9715,16.11,G06188
+368835265,80.2808,45.8322,9.45,G06188
+238975905,79.0137,37.9159,9.78,G06188
+743755468,110.1667,85.4955,16.64,G06188
+1271391576,251.8986,81.8242,18.62,G06188
+
+# Sector 074 targets observed (2 min: 8, 20 s: 0)
+1271391576,251.8986,81.8242,18.62,G06188
+743755468,110.1667,85.4955,16.64,G06188
+23174151,274.6722,34.8957,16.09,G06188
+169733765,297.6846,37.4,11.05,G06188
+1866624401,296.6008,30.2145,17.11,G06188
+30789906,289.7398,32.0013,16.76,G06188
+395202217,291.9136,30.9803,10.25,G06188
+395204823,291.8208,30.4976,17.24,G06188
+
+# Sector 075 targets observed (2 min: 6, 20 s: 1)
+341650611,171.0006,54.0918,11.8,G06188
+1271391576,251.8986,81.8242,18.62,G06188
+169733765,297.6846,37.4,11.05,G06188
+1866624401,296.6008,30.2145,17.11,G06188
+1958242853,319.7546,35.2077,16.68,G06188
+236108710,313.2538,34.7567,15.83,G06188;20SECONDTARGET
+
+# Sector 076 targets observed (2 min: 1, 20 s: 0)
+249699428,339.2893,48.9864,11.5,G06188
+
+# Sector 077 targets observed (2 min: 3, 20 s: 0)
+1000656229,205.524,28.3178,18.39,G06188
+249699428,339.2893,48.9864,11.5,G06188
+313566148,345.1317,54.2336,12.81,G06188
+
+# Sector 079 targets observed (2 min: 3, 20 s: 0)
+1309031655,251.6309,19.0534,18.46,G06188
+1271391576,251.8986,81.8242,18.62,G06188
+743755468,110.1667,85.4955,16.64,G06188
