@@ -1,0 +1,56 @@
+# TESS Program G06158
+
+Title: TESS Survey For Magnetic White Dwarfs In Symbiotic Binaries
+
+PI: Pichardo Marcano, Manuel - American Museum Of Natural History
+
+Type: SMALL
+
+Summary: Symbiotic stars (SySts) are a subclass of compact binaries where typically a white dwarf (WD), accretes material from an evolved giant. Short-time-scale variability in these systems is related to the accretion process, which is crucial for understanding the evolution of these systems. The detection of periodic modulations in the optical light curves of SySts provides evidence for the presence of magnetic WD, which plays an important role in the accretion process by truncating the accretion disk and regulating the accretion flow. Finding evidence of magnetic WDs has been hard to do due to the needed cadence and accuracy of millimag. We will exploit the capabilities of TESS to do a complete survey of SySts to find evidence of magnetic WDs in all the confirmed Galactic symbiotic binaries.
+
+
+# Sector 070 targets observed (2 min: 1, 20 s: 1)
+92138849,355.9563,-15.2847,5.36,G06158;20SECONDTARGET
+
+# Sector 071 targets observed (2 min: 2, 20 s: 2)
+94748223,112.9771,24.5035,6.22,G06158;20SECONDTARGET
+60022022,106.0217,12.0311,15.06,G06158;20SECONDTARGET
+
+# Sector 072 targets observed (2 min: 2, 20 s: 2)
+60022022,106.0217,12.0311,15.06,G06158;20SECONDTARGET
+94748223,112.9771,24.5035,6.22,G06158;20SECONDTARGET
+
+# Sector 074 targets observed (2 min: 5, 20 s: 5)
+237100139,240.4208,66.8028,8.38,G06158;20SECONDTARGET
+273589469,297.8689,46.3885,13.9,G06158;20SECONDTARGET
+350739215,291.1377,50.2413,3.73,G06158;20SECONDTARGET
+109842119,290.981,29.6769,12.85,G06158;20SECONDTARGET
+83299618,297.5493,35.6841,7.94,G06158;20SECONDTARGET
+
+# Sector 075 targets observed (2 min: 8, 20 s: 8)
+237100139,240.4208,66.8028,8.38,G06158;20SECONDTARGET
+273589469,297.8689,46.3885,13.9,G06158;20SECONDTARGET
+350739215,291.1377,50.2413,3.73,G06158;20SECONDTARGET
+171876171,299.2709,39.8266,11.21,G06158;G06027;20SECONDTARGET
+83299618,297.5493,35.6841,7.94,G06158;20SECONDTARGET
+1959505516,310.3278,34.7477,16.18,G06158;20SECONDTARGET
+1973994359,315.5579,45.7762,14.43,G06158;20SECONDTARGET
+230861869,312.7551,35.5817,10.96,G06158;G06027;20SECONDTARGET
+
+# Sector 076 targets observed (2 min: 3, 20 s: 3)
+389852937,191.1752,36.764,8.74,G06158;20SECONDTARGET
+237100139,240.4208,66.8028,8.38,G06158;20SECONDTARGET
+1973994359,315.5579,45.7762,14.43,G06158;20SECONDTARGET
+
+# Sector 077 targets observed (2 min: 2, 20 s: 2)
+237100139,240.4208,66.8028,8.38,G06158;20SECONDTARGET
+371739868,344.4295,58.8229,13.93,G06158;20SECONDTARGET
+
+# Sector 078 targets observed (2 min: 2, 20 s: 2)
+462607643,239.8756,25.9203,7.73,G06158;G06027;20SECONDTARGET
+237100139,240.4208,66.8028,8.38,G06158;20SECONDTARGET
+
+# Sector 079 targets observed (2 min: 3, 20 s: 3)
+257212213,256.6437,23.9718,5.75,G06158;20SECONDTARGET
+310723683,264.1934,23.3028,14.22,G06158;20SECONDTARGET
+237100139,240.4208,66.8028,8.38,G06158;20SECONDTARGET

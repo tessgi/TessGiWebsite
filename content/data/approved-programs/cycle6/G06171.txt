@@ -1,0 +1,26 @@
+# TESS Program G06171
+
+Title: High-Time Resolution Multi-Color Properties Of Stellar Flares
+
+PI: Notsu, Yuta - University Of Colorado
+
+Type: SMALL
+
+Summary: We propose conducting multi-color photometry of highly active bright M and G-dwarf flare stars. We perform simultaneous high-time cadence observations (~20 seconds) with both TESS and ground-based telescopes. Our approach involves the utilization of custom narrow-band filters attached to the Apache Point Observatory's 3.5m and 0.5m telescopes. Our aim is to create an unprecedented catalog of Balmer jump ratios and multi-color emission properties of TESS flares. We plan to investigate how these properties evolve during the flare time, and discuss the physical mechanisms that determine flare heating rates. Our study will enable us to more accurately estimate flare energy and provide a critical constraint for the flare activity emission effects of the host star on the surrounding exoplanets.
+
+
+# Sector 072 targets observed (2 min: 1, 20 s: 1)
+95431305,154.8976,19.8697,7.04,G06171;G06103;G06132;20SECONDTARGET
+
+# Sector 074 targets observed (2 min: 1, 20 s: 1)
+273589987,297.7906,46.4852,10.25,G06171;G06120;G06048;20SECONDTARGET
+
+# Sector 075 targets observed (2 min: 2, 20 s: 2)
+159613900,219.7488,64.2914,7.04,G06171;G06200;20SECONDTARGET
+273589987,297.7906,46.4852,10.25,G06171;G06120;G06048;20SECONDTARGET
+
+# Sector 076 targets observed (2 min: 1, 20 s: 1)
+159613900,219.7488,64.2914,7.04,G06171;G06200;20SECONDTARGET
+
+# Sector 077 targets observed (2 min: 1, 20 s: 1)
+159613900,219.7488,64.2914,7.04,G06171;G06200;20SECONDTARGET
