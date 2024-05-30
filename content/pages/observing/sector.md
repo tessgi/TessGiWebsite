@@ -12,6 +12,160 @@ Information on how to download the data can be found [here](data-access.html). T
 
 The data from each sector are required to be available at the MAST no later than 2 months after the observations for a given sector are completed. However, the data are routinely downloaded, processed through the pipeline, and released at MAST on shorter timescales than this. The data for each sector is typically available within 1 month of the end date for a given sector. <b>Users are encouraged to check the [MAST status page](https://outerspace.stsci.edu/display/TESS/TESS+Holdings+Available+by+MAST+Service) to check on the data availability for particular sectors</b>.
 
+###Cycle 7
+<div class="panel panel-primary">
+  <div class="panel-heading">
+    <h3 class="panel-title">Sector dates</h3>
+  </div>
+  <div class="panel-body">
+
+  <table class="table table-striped table-hover" style="font-size: 0.77em;">
+  <thead>
+    <tr>
+      <th style="vertical-align: middle;">Sector</th>
+      <th style="vertical-align: middle;">Pointing</th>
+      <th style="vertical-align: middle;">Start</th>
+      <th style="vertical-align: middle;">Stop</th>
+      <th style="vertical-align: middle;">GI target list</th>
+      <!-- <th style="vertical-align: middle;" class="text-center">Release<br>notes</th> -->
+      <th style="vertical-align: middle;">Comments</th>
+    </tr>
+  </thead>
+ </tr>
+
+ <tr>
+    <td><a href="#s096">s096</a></td>
+    <td>Southern hemisphere</td>
+    <td>2025&nbsp;Aug&nbsp;20</td>
+    <td>2025&nbsp;Sep&nbsp;15</td>
+    <td></td>
+    <td style="min-width: 12em;">
+    </td>
+  </tr>
+
+ <tr>
+    <td><a href="#s095">s095</a></td>
+    <td>Southern hemisphere</td>
+    <td>2025&nbsp;Jul&nbsp;25</td>
+    <td>2025&nbsp;Aug&nbsp;20</td>
+    <td></td>
+    <td style="min-width: 12em;">
+    </td>
+  </tr>
+
+ <tr>
+    <td><a href="#s094">s094</a></td>
+    <td>Southern hemisphere</td>
+    <td>2025&nbsp;Jun&nbsp;29</td>
+    <td>2025&nbsp;Jul&nbsp;25</td>
+    <td></td>
+    <td style="min-width: 12em;">
+    </td>
+  </tr>
+
+ <tr>
+    <td><a href="#s093">s093</a></td>
+    <td>Southern hemisphere</td>
+    <td>2025&nbsp;Jun&nbsp;03</td>
+    <td>2025&nbsp;Jun&nbsp;29</td>
+    <td></td>
+    <td style="min-width: 12em;">
+    </td>
+  </tr>
+
+ <tr>
+    <td><a href="#s092">s092</a></td>
+    <td>Ecliptic</td>
+    <td>2025&nbsp;May&nbsp;07</td>
+    <td>2025&nbsp;Jun&nbsp;03</td>
+    <td></td>
+    <td style="min-width: 12em;">
+    </td>
+  </tr>
+ <tr>
+    <td><a href="#s091">s091</a></td>
+    <td>Ecliptic</td>
+    <td>2025&nbsp;Apr&nbsp;09</td>
+    <td>2025&nbsp;May&nbsp;07</td>
+    <td></td>
+    <td style="min-width: 12em;">
+    </td>
+  </tr>
+
+ <tr>
+    <td><a href="#s090">s090</a></td>
+    <td>Southern hemisphere</td>
+    <td>2025&nbsp;Mar&nbsp;12</td>
+    <td>2025&nbsp;Apr&nbsp;09</td>
+    <td></td>
+    <td style="min-width: 12em;">
+    </td>
+  </tr>
+
+ <tr>
+    <td><a href="#s089">s089</a></td>
+    <td>Southern hemisphere</td>
+    <td>2025&nbsp;Feb&nbsp;11</td>
+    <td>2025&nbsp;Mar&nbsp;12</td>
+    <td></td>
+    <td style="min-width: 12em;">
+    </td>
+  </tr>
+
+ <tr>
+    <td><a href="#s088">s088</a></td>
+    <td>Southern hemisphere</td>
+    <td>2025&nbsp;Jan&nbsp;14</td>
+    <td>2025&nbsp;Feb&nbsp;11</td>
+    <td></td>
+    <td style="min-width: 12em;">
+    </td>
+  </tr>
+
+ <tr>
+    <td><a href="#s087">s087</a></td>
+    <td>Southern hemisphere</td>
+    <td>2024&nbsp;Dec&nbsp;18</td>
+    <td>2025&nbsp;Jan&nbsp;14</td>
+    <td></td>
+    <td style="min-width: 12em;">
+    </td>
+  </tr>
+
+ <tr>
+    <td><a href="#s086">s086</a></td>
+    <td>Northern hemisphere</td>
+    <td>2024&nbsp;Nov&nbsp;21</td>
+    <td>2024&nbsp;Dec&nbsp;18</td>
+    <td></td>
+    <td style="min-width: 12em;">
+    </td>
+  </tr>
+
+ <tr>
+    <td><a href="#s085">s085</a></td>
+    <td>Northern hemisphere</td>
+    <td>2024&nbsp;Oct&nbsp;26</td>
+    <td>2024&nbsp;Nov&nbsp;21</td>
+    <td></td>
+    <td style="min-width: 12em;">
+    </td>
+  </tr>
+
+ <tr>
+    <td><a href="#s084">s084</a></td>
+    <td>Northern hemisphere</td>
+    <td>2024&nbsp;Oct&nbsp;01</td>
+    <td>2024&nbsp;Oct&nbsp;26</td>
+    <td></td>
+    <td style="min-width: 12em;">
+    </td>
+  </tr>
+
+  </table>
+</div>
+</div>
+
 ###Cycle 6
 <div class="panel panel-primary">
   <div class="panel-heading">
