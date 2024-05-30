@@ -23,10 +23,13 @@ Warm Jupiters are giant planets with masses greater than 0.25 M<sub>Jup</sub> an
 
 
 ![Stassun2024](images/Stassun_2024_Fig1.png)
-**Fig. 1:** *Taken from Stassun & Kounkel (2024). TESS-measured rotation period as a function of the eROSITA-measured X-ray luminosity and the Gaia stellar color for a sample of 8267 F5V-M5V stars. The expected “horseshoe shape” is readily seen. *
+
+**Fig. 1:** *Taken from Stassun & Kounkel (2024). TESS-measured rotation period as a function of the eROSITA-measured X-ray luminosity and the Gaia stellar color for a sample of 8267 F5V-M5V stars. The expected “horseshoe shape” is readily seen.*
 
 ![Sulis2024](images/Sulis_2024_Fig1.png)
+
 **Fig. 2:** *Taken from Sulis et al. (2024). Lightcurves of HD 73344 from K2 (upper panel) and TESS (lower) panel, highlighting the stellar activity and indicating the transits of the sub-Neptune plane (vertical dotted lines).*
 
 ![Sgro2024](images/Sgro_2024_Fig2.png)
+
 **Fig. 3:** *Taken from Sgro et al. (2024). Photometry of the warm Jupiter TIC 393818343 b from TESS and ground-based follow-up observations obtained by citizen scientists.*
