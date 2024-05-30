@@ -1,0 +1,13 @@
+# TESS Program G06187
+
+Title: Reconstructing The Portrait Of The Infant Sun: V889 Her Vs Ds Tuca
+
+PI: Vega, Laura - University Of Maryland (College Park)
+
+Type: SMALL
+
+Summary: The ionizing radiation of young solar-like stars can play crucial role in shaping the atmospheres of rocky exoplanets in the habitable zones around them and affect their habitability. In this program we will obtain new TESS and Swift (XRT/UVOT) observations of a young (30-50 Myr) solar analogue, V889 Her complemented with approved the ground-based SEIMEI H-alpha and spectropolarimetric observations. Most importantly, the near-simultaneity of our optical TESS, X-ray and UV observations and ground-based H-alpha observations will provide a physically consistent picture of the energy partition and other properties of frequent superflare drivers from this magnetically active start and will provide means to perform comparative analysis with another 44 Myr solar analog and a planet host, DS TucA.
+
+
+# Sector 080 targets observed (2 min: 1, 20 s: 1)
+471000657,278.5836,18.6897,6.9,G06200;G06187;20SECONDTARGET
