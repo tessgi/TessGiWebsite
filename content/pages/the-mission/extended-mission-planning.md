@@ -13,8 +13,13 @@ The call for community input into the extended mission has now been announced. S
     <td>March 14th 2024</td>
     <td><a href= "notice-of-upcoming-call-for-community-input-into-the-tess-extended-mission-planning.html">Notice of upcoming call for community input into the TESS Extended Mission Planning</a></td>
 </tr>
+<tr>
     <td>April 30th 2024</td>
     <td><a href= "notice-of-call-for-community-input-into-the-tess-extended-mission-planning.html">Notice of call for community input into the TESS Extended Mission Planning</a></td>
+</tr>
+<tr>
+    <td>June 13th 2024</td>
+    <td><a href= "deadline-extended-for-the-call-for-community-input-into-the-tess-extended-mission-planning.html">Deadline extended for the call for community input into the TESS Extended Mission Planning</a></td>
 </tr>
 </table>
  
