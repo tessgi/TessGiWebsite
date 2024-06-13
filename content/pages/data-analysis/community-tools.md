@@ -13,6 +13,21 @@ Many tools are under development, and some are more robust than others. The TESS
 
 <table class="table table-striped table-hover" style="max-width:55em;">
 
+ <tr>
+    <td style="width: 15em;"><a
+    href='https://wotan.readthedocs.io/en/latest/Installation.html'>woton</a></td>
+    <td>Offers free and open source algorithms to automagically remove trends from time-series data. <a href='https://github.com/hippke/wotan/tree/master/tutorials'>Tutorials can
+    be found here.</a>
+</td>
+</tr>
+
+ <tr>
+    <td style="width: 15em;"><a
+    href='https://juliet.readthedocs.io/en/latest/index.html'>Juliet</a></td>
+    <td>A versatile modelling tool for transiting and non-transiting exoplanetary systems that allows users to perform quick-and-easy fits to data coming from transit photometry, radial velocity or both using bayesian inference and, in particular, using Nested Sampling in order to allow both efficient fitting and proper model comparison.<a href='https://juliet.readthedocs.io/en/latest/tutorials/transitfits.html'>Tutorials can
+    be found here.</a>
+</td>
+</tr>
 
  <tr>
     <td style="width: 15em;"><a
@@ -21,7 +36,7 @@ Many tools are under development, and some are more robust than others. The TESS
     variance), simple detrending (fit high order polynomials),
     light-curve math (phase-folding, binning). Also, a server for
     vetting. <a href='github.com/waqasbhatti/astrobase-notebooks'>A tutorial can
-    be found here</a>.
+    be found here.</a>
 </td>
 </tr>
 
@@ -141,6 +156,13 @@ Many tools are under development, and some are more robust than others. The TESS
 ### Positional tools
 
 <table class="table table-striped table-hover" style="max-width:55em;">
+
+  <tr>
+    <td style="width: 15em;"><a
+    href='https://pypi.org/project/tesswcs/'>tesswcs</a></td>
+    <td> Will enable you to create an astropy World Coordinate System for any pointing of the TESS telescope. You can access both the true WCS from archival data, and predict the WCS for a given RA, Dec, and spacecraft roll.
+</td>
+</tr>
 
   <tr>
     <td style="width: 15em;"><a
