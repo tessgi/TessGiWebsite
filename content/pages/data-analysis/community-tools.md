@@ -24,7 +24,7 @@ Many tools are under development, and some are more robust than others. The TESS
  <tr>
     <td style="width: 15em;"><a
     href='https://juliet.readthedocs.io/en/latest/index.html'>Juliet</a></td>
-    <td>A versatile modelling tool for transiting and non-transiting exoplanetary systems that allows users to perform quick-and-easy fits to data coming from transit photometry, radial velocity or both using bayesian inference and, in particular, using Nested Sampling in order to allow both efficient fitting and proper model comparison.<a href='https://juliet.readthedocs.io/en/latest/tutorials/transitfits.html'>Tutorials can
+    <td>A versatile modelling tool for transiting and non-transiting exoplanetary systems that allows users to perform quick-and-easy fits to data coming from transit photometry, radial velocity or both using bayesian inference and, in particular, using Nested Sampling in order to allow both efficient fitting and proper model comparison. <a href='https://juliet.readthedocs.io/en/latest/tutorials/transitfits.html'>Tutorials can
     be found here.</a>
 </td>
 </tr>
