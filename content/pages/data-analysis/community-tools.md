@@ -15,7 +15,7 @@ Many tools are under development, and some are more robust than others. The TESS
 
  <tr>
     <td style="width: 15em;"><a
-    href='https://wotan.readthedocs.io/en/latest/Installation.html'>woton</a></td>
+    href='https://wotan.readthedocs.io/en/latest/Installation.html'>wotan</a></td>
     <td>Offers free and open source algorithms to automagically remove trends from time-series data. <a href='https://github.com/hippke/wotan/tree/master/tutorials'>Tutorials can
     be found here.</a>
 </td>
