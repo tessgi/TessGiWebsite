@@ -24,3 +24,6 @@ Summary: We propose conducting multi-color photometry of highly active bright M 
 
 # Sector 077 targets observed (2 min: 1, 20 s: 1)
 159613900,219.7488,64.2914,7.04,G06171;G06200;20SECONDTARGET
+
+# Sector 081 targets observed (2 min: 1, 20 s: 1)
+273589987,297.7907,46.4852,10.25,G06171;G06120;G06048;20SECONDTARGET
