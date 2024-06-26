@@ -33,3 +33,6 @@ Summary: Accretion disks are ubiquitous in the universe, serving as sources of e
 
 # Sector 079 targets observed (2 min: 1, 20 s: 0)
 142046514,76.5132,80.2479,9.89,G06096
+
+# Sector 081 targets observed (2 min: 1, 20 s: 0)
+381009148,303.8012,34.5134,9.91,G06096;G06057
