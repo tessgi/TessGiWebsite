@@ -202,7 +202,7 @@ The data from each sector are required to be available at the MAST no later than
     <td>Northern hemisphere</td>
     <td>2024&nbsp;Aug&nbsp;10</td>
     <td>2024&nbsp;Sep&nbsp;05</td>
-    <td></td>
+    <td><a href='data/target_lists/sector082_targets_lists/GI_S082.csv'>Download</a></td>
     <td style="min-width: 12em;">
     </td>
   </tr>
@@ -1160,9 +1160,26 @@ cadence for each camera and sector.
 
 ###Cycle 6
 
+
 <div class="row">
      <div class="col-md-6 text-center">
-       <a href="images/sector-plots/.jpeg">
+       <a href="images/sector-plots/">
+          <img id="s083" src="images/sector-plots/sector-plots.083.jpeg" class="img-responsive">
+          Sector 83
+       </a>
+         </div>
+    	 <div class="col-md-6 text-center">
+       <a href="images/sector-plots/sector-plots.082.jpeg">
+          <img id="s082" src="images/sector-plots/sector-plots.082.jpeg" class="img-responsive">
+          Sector 82
+       </a>
+     </div>
+</div>
+<br>
+
+<div class="row">
+     <div class="col-md-6 text-center">
+       <a href="images/sector-plots/sector-plots.081.jpeg">
           <img id="s081" src="images/sector-plots/sector-plots.081.jpeg" class="img-responsive">
           Sector 81
        </a>
@@ -1178,7 +1195,7 @@ cadence for each camera and sector.
 
 <div class="row">
      <div class="col-md-6 text-center">
-       <a href="images/sector-plots/.jpeg">
+       <a href="images/sector-plots/sector-plots.079.jpeg">
           <img id="s079" src="images/sector-plots/sector-plots.079.jpeg" class="img-responsive">
           Sector 79
        </a>
