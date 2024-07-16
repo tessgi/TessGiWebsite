@@ -4,6 +4,110 @@ Save_as: tpub-exoplanets-by-month.html
 [TOC]
 
 
+2024-07
+-------
+
+1. [USING ASTEROSEISMOLOGY TO CALIBRATE THE PHYSICAL PARAMETERS OF CONFIRMED EXOPLANETS AND THEIR EVOLVED HOST STARS](http://adsabs.harvard.edu/abs/2024AJ....168...27L)  
+Lin, Wen-Xu, Qian, Sheng-Bang, Zhu, Li-Ying, et al.    
+2024, refereed ([2024AJ....168...27L](http://adsabs.harvard.edu/abs/2024AJ....168...27L))  
+<span class="badge">0 citations</span>
+
+2. [TESS GIANTS TRANSITING GIANTS. IV. A LOW-DENSITY HOT NEPTUNE ORBITING A RED GIANT STAR](http://adsabs.harvard.edu/abs/2024AJ....168....1G)  
+Grunblatt, Samuel K., Saunders, Nicholas, Huber, Daniel, et al.    
+2024, refereed ([2024AJ....168....1G](http://adsabs.harvard.edu/abs/2024AJ....168....1G))  
+<span class="badge">3 citations</span>
+
+3. [HIP 65426 IS A HIGH-FREQUENCY DELTA SCUTI PULSATOR IN PLAUSIBLE SPIN–ORBIT ALIGNMENT WITH ITS DIRECTLY IMAGED EXOPLANET](http://adsabs.harvard.edu/abs/2024AJ....168...13S)  
+Sepulveda, Aldo G., Huber, Daniel, Bedding, Timothy R., et al.    
+2024, refereed ([2024AJ....168...13S](http://adsabs.harvard.edu/abs/2024AJ....168...13S))  
+<span class="badge">0 citations</span>
+
+4. [MIGRATION AND EVOLUTION OF GIANT EXOPLANETS (MEEP). I. NINE NEWLY CONFIRMED HOT JUPITERS FROM THE TESS MISSION](http://adsabs.harvard.edu/abs/2024AJ....168...32S)  
+Schulte, Jack, Rodriguez, Joseph E., Bieryla, Allyson, et al.    
+2024, refereed ([2024AJ....168...32S](http://adsabs.harvard.edu/abs/2024AJ....168...32S))  
+<span class="badge">0 citations</span>
+
+5. [NINE NEW M DWARF PLANET CANDIDATES FROM TESS INCLUDING FIVE GAS GIANTS](http://adsabs.harvard.edu/abs/2024MNRAS.531.5053E)  
+Eschen, Yoshi Nike Emilia, Kunimoto, Michelle    
+2024, refereed ([2024MNRAS.531.5053E](http://adsabs.harvard.edu/abs/2024MNRAS.531.5053E))  
+<span class="badge">0 citations</span>
+
+6. [CONFIRMATION AND CHARACTERIZATION OF THE ECCENTRIC, WARM JUPITER TIC 393818343 B WITH A NETWORK OF CITIZEN SCIENTISTS](http://adsabs.harvard.edu/abs/2024AJ....168...26S)  
+Sgro, Lauren A., Dalba, Paul A., Esposito, Thomas M., et al.    
+2024, refereed ([2024AJ....168...26S](http://adsabs.harvard.edu/abs/2024AJ....168...26S))  
+<span class="badge">0 citations</span>
+
+7. [TOI-837 B IS A YOUNG SATURN-SIZED EXOPLANET WITH A MASSIVE 70 M<SUB>⊕</SUB> CORE](http://adsabs.harvard.edu/abs/2024MNRAS.531.4275B)  
+Barragán, Oscar, Yu, Haochuan, Freckelton, Alix Violet, et al.    
+2024, refereed ([2024MNRAS.531.4275B](http://adsabs.harvard.edu/abs/2024MNRAS.531.4275B))  
+<span class="badge">1 citations</span>
+
+8. [PHOTO-DYNAMICAL ANALYSIS OF CIRCUMBINARY MULTI-PLANET SYSTEM TOI-1338: A FULLY COPLANAR CONFIGURATION WITH A PUFFY PLANET](http://adsabs.harvard.edu/abs/2024AJ....168...31W)  
+Wang, Mu-Tian, Liu, Hui-Gen    
+2024, refereed ([2024AJ....168...31W](http://adsabs.harvard.edu/abs/2024AJ....168...31W))  
+<span class="badge">0 citations</span>
+
+9. [TESS HUNT FOR YOUNG AND MATURING EXOPLANETS (THYME). X. A TWO-PLANET SYSTEM IN THE 210 MYR MELANGE-5 ASSOCIATION](http://adsabs.harvard.edu/abs/2024AJ....168...41T)  
+Thao, Pa Chia, Mann, Andrew W., Barber, Madyson G., et al.    
+2024, refereed ([2024AJ....168...41T](http://adsabs.harvard.edu/abs/2024AJ....168...41T))  
+<span class="badge">0 citations</span>
+
+10. [THE GAPS PROGRAMME AT TNG. LVI. CHARACTERISATION OF THE LOW-DENSITY GAS GIANT HAT-P-67 B WITH GIARPS](http://adsabs.harvard.edu/abs/2024A&A...687A.143S)  
+Sicilia, D., Scandariato, G., Guilluy, G., et al.    
+2024, refereed ([2024A&A...687A.143S](http://adsabs.harvard.edu/abs/2024A&A...687A.143S))  
+<span class="badge">0 citations</span>
+
+11. [RESONANT SUB-NEPTUNES ARE PUFFIER](http://adsabs.harvard.edu/abs/2024A&A...687L...1L)  
+Leleu, Adrien, Delisle, Jean-Baptiste, Burn, Remo, et al.    
+2024, refereed ([2024A&A...687L...1L](http://adsabs.harvard.edu/abs/2024A&A...687L...1L))  
+<span class="badge">0 citations</span>
+
+12. [ALIGNING PLANET-HOSTING BINARIES VIA DISSIPATIVE PRECESSION IN CIRCUMSTELLAR DISKS](http://adsabs.harvard.edu/abs/2024arXiv240703284G)  
+Gerbig, Konstantin, Rice, Malena, Zanazzi, J. J., et al.    
+2024, not refereed ([2024arXiv240703284G](http://adsabs.harvard.edu/abs/2024arXiv240703284G))  
+<span class="badge">0 citations</span>
+
+13. [SURVIVING IN THE HOT NEPTUNE DESERT: THE DISCOVERY OF THE ULTRA-HOT NEPTUNE TOI-3261B](http://adsabs.harvard.edu/abs/2024arXiv240704225N)  
+Nabbie, Emma, Huang, Chelsea X., Burt, Jennifer A., et al.    
+2024, not refereed ([2024arXiv240704225N](http://adsabs.harvard.edu/abs/2024arXiv240704225N))  
+<span class="badge">0 citations</span>
+
+14. [TOI-4336 A B: A TEMPERATE SUB-NEPTUNE RIPE FOR ATMOSPHERIC CHARACTERIZATION IN A NEARBY TRIPLE M-DWARF SYSTEM](http://adsabs.harvard.edu/abs/2024A&A...687A..48T)  
+Timmermans, M., Dransfield, G., Gillon, M., et al.    
+2024, refereed ([2024A&A...687A..48T](http://adsabs.harvard.edu/abs/2024A&A...687A..48T))  
+<span class="badge">0 citations</span>
+
+15. [THE ALIGNED ORBIT OF A HOT JUPITER AROUND THE M DWARF TOI-4201](http://adsabs.harvard.edu/abs/2024ApJ...969L..24G)  
+Gan, Tianjun, Wang, Sharon X., Dai, Fei, et al.    
+2024, refereed ([2024ApJ...969L..24G](http://adsabs.harvard.edu/abs/2024ApJ...969L..24G))  
+<span class="badge">0 citations</span>
+
+16. [THE PHASE CURVE OF THE ULTRA-HOT JUPITER WASP-167B AS SEEN BY TESS](http://adsabs.harvard.edu/abs/2024A&A...687A.144K)  
+Kálmán, Sz., Derekas, A., Csizmadia, Sz., et al.    
+2024, refereed ([2024A&A...687A.144K](http://adsabs.harvard.edu/abs/2024A&A...687A.144K))  
+<span class="badge">0 citations</span>
+
+17. [TOI 762 A B AND TIC 46432937 B: TWO GIANT PLANETS TRANSITING M DWARF STARS](http://adsabs.harvard.edu/abs/2024arXiv240707187H)  
+Hartman, Joel D., Bayliss, Daniel, Brahm, Rafael, et al.    
+2024, not refereed ([2024arXiv240707187H](http://adsabs.harvard.edu/abs/2024arXiv240707187H))  
+<span class="badge">0 citations</span>
+
+18. [ASSESSING EXOPLANETARY SYSTEM ARCHITECTURES WITH DYNAMITE INCLUDING OBSERVATIONAL UPPER LIMITS](http://adsabs.harvard.edu/abs/2024arXiv240706300D)  
+Dietrich, Jamie    
+2024, not refereed ([2024arXiv240706300D](http://adsabs.harvard.edu/abs/2024arXiv240706300D))  
+<span class="badge">0 citations</span>
+
+19. [INHOMOGENEOUS TERMINATORS ON THE EXOPLANET WASP-39 B](http://adsabs.harvard.edu/abs/2024arXiv240710294E)  
+Espinoza, Néstor, Steinrueck, Maria E., Kirk, James, et al.    
+2024, not refereed ([2024arXiv240710294E](http://adsabs.harvard.edu/abs/2024arXiv240710294E))  
+<span class="badge">0 citations</span>
+
+20. [PEPSI INVESTIGATION, RETRIEVAL, AND ATLAS OF NUMEROUS GIANT ATMOSPHERES (PIRANGA). I. THE UBIQUITY OF FE I EMISSION AND INVERSIONS IN ULTRA HOT JUPITER ATMOSPHERES](http://adsabs.harvard.edu/abs/2024arXiv240709643P)  
+Petz, Sydney, Johnson, Marshall C., Pai Asnodkar, Anusha, et al.    
+2024, not refereed ([2024arXiv240709643P](http://adsabs.harvard.edu/abs/2024arXiv240709643P))  
+<span class="badge">0 citations</span>
+
+
 2024-06
 -------
 

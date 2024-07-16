@@ -4,6 +4,110 @@ Save_as: tpub-astrophysics-by-month.html
 [TOC]
 
 
+2024-07
+-------
+
+1. [SIGNATURE OF HIGH-AMPLITUDE PULSATIONS IN SEVEN Δ SCT STARS VIA TESS OBSERVATIONS](http://adsabs.harvard.edu/abs/2024ApJ...969...19V)  
+Vasigh, Fatemeh, Ziaali, Elham, Safari, Hossein    
+2024, refereed ([2024ApJ...969...19V](http://adsabs.harvard.edu/abs/2024ApJ...969...19V))  
+<span class="badge">0 citations</span>
+
+2. [EIGHT NEW 2+2 DOUBLY ECLIPSING QUADRUPLE SYSTEMS DETECTED](http://adsabs.harvard.edu/abs/2024A&A...687A...6Z)  
+Zasche, P., Henzl, Z., Merc, J., et al.    
+2024, refereed ([2024A&A...687A...6Z](http://adsabs.harvard.edu/abs/2024A&A...687A...6Z))  
+<span class="badge">0 citations</span>
+
+3. [TESS LIGHT-CURVE MODELLING AND PERIOD STUDY OF FOUR ECLIPSING BINARIES](http://adsabs.harvard.edu/abs/2024MNRAS.531.3823Y)  
+Yang, Yuangui, Wang, Shuang    
+2024, refereed ([2024MNRAS.531.3823Y](http://adsabs.harvard.edu/abs/2024MNRAS.531.3823Y))  
+<span class="badge">0 citations</span>
+
+4. [TESS LIGHT CURVES OF CATACLYSMIC VARIABLES. IV. A SYNOPTIC VIEW OF ECLIPSING OLD NOVAE AND NOVALIKE VARIABLES](http://adsabs.harvard.edu/abs/2024ApJS..273....6B)  
+Bruch, Albert    
+2024, refereed ([2024ApJS..273....6B](http://adsabs.harvard.edu/abs/2024ApJS..273....6B))  
+<span class="badge">0 citations</span>
+
+5. [FUNDAMENTAL EFFECTIVE TEMPERATURE MEASUREMENTS FOR ECLIPSING BINARY STARS - V. THE CIRCUMBINARY PLANET SYSTEM EBLM J0608-59](http://adsabs.harvard.edu/abs/2024MNRAS.531.4577M)  
+Maxted, P. F. L., Miller, N. J., Sebastian, D., et al.    
+2024, refereed ([2024MNRAS.531.4577M](http://adsabs.harvard.edu/abs/2024MNRAS.531.4577M))  
+<span class="badge">0 citations</span>
+
+6. [PHOTOMETRIC STUDY OF THE OVERCONTACT BINARY NSVS2910034](http://adsabs.harvard.edu/abs/2024NewA..10902210T)  
+Tobin, R. Wes, Berrington, Robert C.    
+2024, refereed ([2024NewA..10902210T](http://adsabs.harvard.edu/abs/2024NewA..10902210T))  
+<span class="badge">0 citations</span>
+
+7. [OPTICAL SPECTROSCOPIC AND PHOTOMETRIC CLASSIFICATION OF THE X-RAY TRANSIENT EP240309A (EP J115415.8-501810) AS AN INTERMEDIATE POLAR](http://adsabs.harvard.edu/abs/2024MNRAS.532L..21P)  
+Potter, Stephen B., Buckley, David A. H., Scaringi, S., et al.    
+2024, refereed ([2024MNRAS.532L..21P](http://adsabs.harvard.edu/abs/2024MNRAS.532L..21P))  
+<span class="badge">0 citations</span>
+
+8. [ASTEROSEISMOLOGY OF THE FAST-ROTATING HIGH-AMPLITUDE Δ SCUTI STAR V2367 CYGNI](http://adsabs.harvard.edu/abs/2024MNRAS.532.1140D)  
+Daszyńska-Daszkiewicz, J., Szewczuk, W., Walczak, P.    
+2024, refereed ([2024MNRAS.532.1140D](http://adsabs.harvard.edu/abs/2024MNRAS.532.1140D))  
+<span class="badge">0 citations</span>
+
+9. [THE CORONA OF A FULLY CONVECTIVE STAR WITH A NEAR-POLAR FLARE](http://adsabs.harvard.edu/abs/2024A&A...687A.138I)  
+Ilin, E., Poppenhäger, K., Stelzer, B., et al.    
+2024, refereed ([2024A&A...687A.138I](http://adsabs.harvard.edu/abs/2024A&A...687A.138I))  
+<span class="badge">0 citations</span>
+
+10. [TRANSITIONS IN MAGNETIC BEHAVIOR AT THE SUBSTELLAR BOUNDARY](http://adsabs.harvard.edu/abs/2024A&A...687A..95M)  
+Magaudda, E., Stelzer, B., Osten, R. A., et al.    
+2024, refereed ([2024A&A...687A..95M](http://adsabs.harvard.edu/abs/2024A&A...687A..95M))  
+<span class="badge">0 citations</span>
+
+11. [ABSOLUTE DIMENSIONS OF SOLAR-TYPE ECLIPSING BINARIES. NY HYA: A TEST FOR MAGNETIC STELLAR EVOLUTION MODELS](http://adsabs.harvard.edu/abs/2024A&A...687A.116H)  
+Hinse, T. C., Baştürk, Ö., Southworth, J., et al.    
+2024, refereed ([2024A&A...687A.116H](http://adsabs.harvard.edu/abs/2024A&A...687A.116H))  
+<span class="badge">0 citations</span>
+
+12. [TESS OBSERVATIONS OF NON-BE FAST ROTATORS](http://adsabs.harvard.edu/abs/2024arXiv240708305N)  
+Naze, Yael, Britavskiy, Nikolay, Labadie-Bartz, Jonathan    
+2024, not refereed ([2024arXiv240708305N](http://adsabs.harvard.edu/abs/2024arXiv240708305N))  
+<span class="badge">0 citations</span>
+
+13. [SEARCHING FOR STELLAR CYCLES ON LOW MASS STARS USING TESS DATA](http://adsabs.harvard.edu/abs/2024arXiv240707607R)  
+Ramsay, Gavin, Hakala, Pasi, Doyle, J. Gerry    
+2024, not refereed ([2024arXiv240707607R](http://adsabs.harvard.edu/abs/2024arXiv240707607R))  
+<span class="badge">0 citations</span>
+
+14. [LONG-TERM STELLAR ACTIVITY OF M DWARFS. A COMBINED K2 AND TESS STUDY OF TWO EARLY M-TYPE STARS](http://adsabs.harvard.edu/abs/2024A&A...687A.180R)  
+Raetz, St., Stelzer, B.    
+2024, refereed ([2024A&A...687A.180R](http://adsabs.harvard.edu/abs/2024A&A...687A.180R))  
+<span class="badge">0 citations</span>
+
+15. [THIRTY TWO NEW BRIGHT ZZ CETI STARS FROM TESS: ADDING CYCLES 4 AND 5](http://adsabs.harvard.edu/abs/2024arXiv240707260R)  
+Romero, Alejandra D., Kepler, S. O., Oliveira da Rosa, Gabriela, et al.    
+2024, not refereed ([2024arXiv240707260R](http://adsabs.harvard.edu/abs/2024arXiv240707260R))  
+<span class="badge">0 citations</span>
+
+16. [AN INFRARED CENSUS OF R CORONAE BOREALIS STARS II -- SPECTROSCOPIC CLASSIFICATIONS AND IMPLICATIONS FOR THE RATE OF LOW-MASS WHITE DWARF MERGERS](http://adsabs.harvard.edu/abs/2024arXiv240708653K)  
+Karambelkar, Viraj R., Kasliwal, Mansi M., Tisserand, Patrick, et al.    
+2024, not refereed ([2024arXiv240708653K](http://adsabs.harvard.edu/abs/2024arXiv240708653K))  
+<span class="badge">0 citations</span>
+
+17. [THE WHITE-LIGHT SUPERFLARES FROM COOL STARS IN GWAC TRIGGERS](http://adsabs.harvard.edu/abs/2024arXiv240708183L)  
+Li, Guang-Wei, Wang, Liang, Yuan, Hai-Long, et al.    
+2024, not refereed ([2024arXiv240708183L](http://adsabs.harvard.edu/abs/2024arXiv240708183L))  
+<span class="badge">0 citations</span>
+
+18. [PHOTOMETRIC AND SPECTROSCOPIC STUDY OF TEN LOW MASS RATIO CONTACT BINARY SYSTEMS: ORBITAL STABILITY, O'CONNELL EFFECT AND INFRA-RED CALCIUM LINE FILLING](http://adsabs.harvard.edu/abs/2024arXiv240708365W)  
+Wadhwa, Surjit S., Popowicz, Adam, Michel, Raul, et al.    
+2024, not refereed ([2024arXiv240708365W](http://adsabs.harvard.edu/abs/2024arXiv240708365W))  
+<span class="badge">0 citations</span>
+
+19. [LIGHT-CURVE STRUCTURE AND HΑ LINE FORMATION IN THE TIDAL DISRUPTION EVENT AT 2019AZH](http://adsabs.harvard.edu/abs/2024ApJ...969..104F)  
+Faris, Sara, Arcavi, Iair, Makrygianni, Lydia, et al.    
+2024, refereed ([2024ApJ...969..104F](http://adsabs.harvard.edu/abs/2024ApJ...969..104F))  
+<span class="badge">2 citations</span>
+
+20. [UNVEILING THE NATURE OF TWO DWARF NOVAE: CRTS J080846.2+313106 AND V416 DRA](http://adsabs.harvard.edu/abs/2024arXiv240707387J)  
+Joshi, Arti, Catelan, Márcio, Scaringi, Simone, et al.    
+2024, not refereed ([2024arXiv240707387J](http://adsabs.harvard.edu/abs/2024arXiv240707387J))  
+<span class="badge">0 citations</span>
+
+
 2024-06
 -------
 
