@@ -1,5 +1,5 @@
-Title: TESS Weekly Bulletin: June 25th
-Date: 2024-06-25 00:00
+Title: TESS Weekly Bulletin: July 16th
+Date: 2024-07-16 00:00
 Author: Veselin Kostov
 
 Welcome TESS followers to our latest news bulletin!
@@ -9,12 +9,6 @@ This week, we are looking at three recent papers from the archive. Enjoy!
 **[Searching for stellar cycles on low mass stars using TESS data](https://arxiv.org/abs/2407.07607)** *(Ramsay et al. 2024)* **:**
 
 Low mass stars represent the majority of the stellar population in the Galaxy. Thus, they are important both in terms of stellar astrophysics and of the search for exoplanets. Many of these stars are active, some are fully convective, and their relatively small size makes it easier to detect transiting planets. Ramsay et al. (2024) present a pilot study of the dominant periods in TESS lightcurves of low mass stars, and a search for long-term stellar activity cycles. The authors examined a sample of 1950 M dwarfs (stellar type later than M0V) on or near the main sequence, residing in the north and south continuous viewing zone of TESS, and located within 100 pc from the Sun. For comparison, Ramsay et al. (2024) also studied a sample of 1432 Sun-like stars (stellar type F5V to K2V) fulfilling the same constraints. The targets were observed by TESS in full-frame image cadence in Sectors 1-61, and the authors required that each star is observed in at least 6 Sectors. Utilizing the TESS-SPOC data, Ramsay et al. (2024) performed a Generalized Lomb Scargle Periodogram analysis to search for evidence of periodic lightcurve variability and, if present, for variations in the corresponding amplitude. The authors found that 245 of the 1950 M dwarfs (~12.6%) exhibit strong evidence of stable photometric variability, which they attribute to stellar rotation. The variability fraction among the sample of 1432 Sun-like stars is comparable, i.e. 194 of the 1432 targets (~13.5%) show clear lightcurve modulations. In contrast, Ramsay et al. (2024) found that many more low mass stars produce stable long-term variability compared to Sun-like stars for periods shorter than about 4 days. Additionally, the authors detected evidence of variability of the photometric amplitude in 26 of the 245 variable M dwarfs, where some show a monotonic trend over the course of 3-4 years or even longer, while others exhibit variations on much shorter timescales. Of the 194 variable Sun-like stars, only one exhibits evidence for significant changes in the corresponding photometric amplitude. Thanks to TESS data, Ramsay et al. (2024) were able to notably expand the number of low mass stars exhibiting rapid rotation and potential activity cycles. 
-
-
-
-
-
-
 
 
 **[TESS observations of non-Be fast rotators](https://arxiv.org/abs/2407.08305)** *(Naze et al. 2024)* **:**
@@ -29,9 +23,8 @@ Large planets around small stars are important tracers of planet formation and e
 
 
 ![Naze2024](images/Naze_2024_Fig5.png)
-**Fig. 1:** *Taken from Naze et al. (2024). Single-sector frequency spectra for three non-Be stars observed by TESS. Upper panel: HD 56876 exhibits isolated signals both low and high frequencies (LF and HF, respectively), long-term variability and red noise. Middle panel: HD 67536 exhibits several frequency groups (G labels). Lower panel: HD 193794 exhibits only red noise.
 
-Phase-fold TESS lightcurves for 9 new transiting planet candidates detected in Full-Frame-Image data from Sectors 1-63. Black symbols represent the TESS photometry while orange lines and symbols represent the respective best-fit transit models. *
+**Fig. 1:** *Taken from Naze et al. (2024). Single-sector frequency spectra for three non-Be stars observed by TESS. Upper panel: HD 56876 exhibits isolated signals both low and high frequencies (LF and HF, respectively), long-term variability and red noise. Middle panel: HD 67536 exhibits several frequency groups (G labels). Lower panel: HD 193794 exhibits only red noise. Phase-fold TESS lightcurves for 9 new transiting planet candidates detected in Full-Frame-Image data from Sectors 1-63. Black symbols represent the TESS photometry while orange lines and symbols represent the respective best-fit transit models.*
 
 ![Ramsay2024](images/Ramsay_2024_Fig5.png)
 **Fig. 2:** *Taken from Ramsay et al. (2024). Phase-folded and binned TESS data from a single sector for six M-dwarfs identified as variable among a sample of 1950.*

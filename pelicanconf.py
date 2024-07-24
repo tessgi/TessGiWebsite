@@ -96,6 +96,7 @@ MENUITEMS = (
             ("Second Extended mission", "second-extended.html"),
             ("Extended Mission Planning", "extended-mission-planning.html"),
             ("Users Committee", "TUC.html"),
+            ("IDEA Working GroupUsers Committee", "idea_wg.html"),
             ("FAQ", "faq.html"),
             ("Citizen Science", "citizenscience.html"),
             ("Outreach resources", "gallery.html"),
