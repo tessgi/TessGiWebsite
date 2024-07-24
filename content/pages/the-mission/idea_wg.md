@@ -7,19 +7,10 @@ Save_as: idea_wg.html
 
 ## IDEA Chairs and Members
 
-- Allison Youngblood (chair, email: <allison.a.youngblood@nasa.gov>), NASA GSFC
-- Knicole Colón (deputy, email: <knicole.colon@nasa.gov>, NASA GSFC
-- Karen Collins, Center for Astrophysics, Harvard & Smithsonian
-- Michael Fausnaugh, Texas Tech University
-- Scott Fleming, Space Telescope Science Institute
-- Katharine Hesse, Massachusetts Institute of Technology
-- Rebekah Hounsell, UMBC
-- Hannah Jang-Condell, NASA HQ
-- Alexander Rudat, Massachusetts Institute of Technology
-- Robert Stone, Rutgers 
-- Eric Ting, NASA Ames
-- Andrew Vanderburg, Massachusetts Institute of Technology
-- Reese Wynn, Northrop Grumman
+Allison Youngblood of NASA GSFC is the chair of the IDEA working group (email: <allison.a.youngblood@nasa.gov>).
+
+Membership is open to those on the TESS mission team or the TESS Users’ Committee. Please email the chair to join the IDEA mailing list.
+
 
 ## News Items
 
