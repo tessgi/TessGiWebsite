@@ -18,7 +18,7 @@ Membership is open to those on the TESS mission team or the TESS Users’ Commit
 
 <tr>
     <td>July 23th 2024</td>
-    <td><a href= "TESS-IDEA-Survey.html">TESS IDEA Survey</a></td>
+    <td><a href= "tess-idea-survey.html" >TESS IDEA Survey</a></td>
 </tr>
 
 </table>
