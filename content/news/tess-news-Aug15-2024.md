@@ -1,4 +1,4 @@
-Title: TESS Weekly Bulletin: Aug 15th
+Title: TESS Weekly Bulletin: Aug 15th 2024
 Date: 2024-08-15 00:00
 Author: Veselin Kostov
 
