@@ -34,3 +34,6 @@ Summary: The large majority of AGN are "radio-quiet," and the origin of their ap
 
 # Sector 080 targets observed (2 min: 1, 20 s: 0)
 10000729045,259.8102,48.9805,13.6,G06042
+
+# Sector 083 targets observed (2 min: 1, 20 s: 0)
+10002240952,340.0712,8.0537,13.52,G06042
