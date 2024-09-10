@@ -1,0 +1,15 @@
+# TESS Program G07170
+
+Title: The Search Additional Stellar Members And Young Transiting Worlds In The Ursa Major Moving Group
+
+PI: Sheffler, Julia - University Of Wisconsin-Madison
+
+Type: SMALL
+
+Summary: The Ursa Major moving group (UMa) is the nearest (20pc), young stellar group (400Myr) and as a result is a critical test bed for planetary and stellar evolution at early timescales. Three planets, including a recently-discovered Earth-sized world, have already been confirmed in this moving group, adding to the small population (N=70) of known planets with ages younger than 500 Myr (age precision < 50%). Our team will identify and characterize additional UMa planets for which it is necessary to (a) build a complete catalog of UMa members, (b) precisely characterize their properties, and (c) perform continual exoplanet searches. TESS data will play a crucial role in this endeavor, significantly advancing our understanding of both the young stellar ensemble and its planetary systems.
+
+
+# Sector 084 targets observed (2 min: 3, 20 s: 1)
+235682463,287.2927,76.5597,4.82,G07036;G07066;G07170;20SECONDTARGET
+219787770,264.521,65.1568,12.25,G07036;G07170
+198381449,257.5448,54.4936,7.77,G07036;G07096;G07170

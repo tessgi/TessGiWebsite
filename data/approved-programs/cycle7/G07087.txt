@@ -1,0 +1,13 @@
+# TESS Program G07087
+
+Title: Coordinated TESS 20-Second Optical And Noema Mm Radio Monitoring Of Very Active M Dwarf, Ev Lacertae
+
+PI: Mohan, Atul - Catholic University Of America
+
+Type: MINI
+
+Summary: M-dwarfs host the most number of Earth-like exoplanets in their habitable zones. But, their high flaring rates can potentially destabilize nearby planets. So, it is essential to monitor dMs for flares and study their evolution and space-weather impacts. To explore the space weather relevance of the flaring events, it is hence important to understand the cross-atmospheric evolution of these photospheric flares into the upper chromospheric layers. This requires simultaneous wideband monitoring studies. In this proposal, we request high cadence TESS 20-second data for EV Lacertae, for Sectors 84 at the start of Cycle 7, in October 2024. We will submit a separate DDT for Cycle 6, Sector 83 data if we obtain radio time.
+
+
+# Sector 084 targets observed (2 min: 1, 20 s: 1)
+154101678,341.7004,44.3308,7.73,G07087;G07095;G07056;G07179;20SECONDTARGET

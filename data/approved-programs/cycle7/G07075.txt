@@ -1,0 +1,13 @@
+# TESS Program G07075
+
+Title: Exploring Massive Star Evolution Through Extreme Heartbeats
+
+PI: Pablo, Herbert - Aavso
+
+Type: SMALL
+
+Summary: Heartbeats are eccentric binary systems with periastron variability, as well as oscillations, due to tidal distortion. This variability is a key touchstone to understanding massive stars where both eclipses and pulsations are not common. While similar, the supergiant MACHO 80.7443.1718 is not a typical heartbeat as its extreme amplitude cannot be explained by tidal distortion alone. The lack of similar systems has led to two possible models. To test these models, we have found 8 other systems showing similar variability. Using TESS data in addition to ground based spectroscopy and photometry we will characterize these supergiant binaries with the goal of understanding their orbital variability, opening a new pathway for determining fundamental parameters for these evolved stars.
+
+
+# Sector 084 targets observed (2 min: 1, 20 s: 0)
+65457985,358.8909,57.4122,5.81,G07037;G07075

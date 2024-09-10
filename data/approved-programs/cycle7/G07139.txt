@@ -1,0 +1,10 @@
+# TESS Program G07139
+
+Title: Fingerprints Of Engulfment: Searching For Lithium Enhancement In Evolved Exoplanet Hosts
+
+PI: Nine, Andrew - University Of Wisconsin-Whitewater
+
+Type: SMALL
+
+Summary: The discovery of closely-orbiting, eccentric planets by TESS has indicated that dynamical processes have a strong influence on the evolution of planetary system architectures. Such dynamical processes can lead to the engulfment of planets by their host stars, which is thought to be a mechanism by which lithium (Li) may be enhanced in these stars. Such engulfment-induced Li enhancement signatures have the strength and longevity to be detectable. We propose to conduct a comprehensive Li abundance survey of subgiant and early red-giant-branch stars which are known to host closely-orbiting, eccentric planets using high-resolution ground-based spectroscopy. Our survey will serve to constrain the link between dynamical interactions in planetary systems and engulfment events.
+

@@ -1,0 +1,25 @@
+# TESS Program G07188
+
+Title: A Search For Asymptotic Pulsations In Close Eclipsing Binaries With Delta Scuti Components
+
+PI: Turner, Garrison - University Of Louisville
+
+Type: SMALL
+
+Summary: Eclipsing Binary systems with delta Scuti pulsating components allow for tests of stellar models as, if the binary system and components parameters can be solved, the masses of the components may be determined. Combining this with the other information from the binary fit, which includes the radius and temperature of each component, these parameters can then be used to build stellar models. If one or both of these components shows evidence of pulsation, asteroseismology can be used as a probe of the stellar interior which allows for evaluating the validity and accuracy of stellar models. If a pulsating component shows pulsations in the asymptotic regime, the large and small frequency spacings are easily estimated which aids in mode identification. This project seeks to search for pulsators
+
+
+# Sector 084 targets observed (2 min: 13, 20 s: 13)
+407335769,0.8264,32.8458,9.3,G07188;20SECONDTARGET
+18281010,23.7051,29.5891,10.02,G07188;20SECONDTARGET
+346602586,359.7049,53.6721,8.16,G07188;20SECONDTARGET
+252697796,347.2536,49.6143,11.97,G07188;20SECONDTARGET
+430751415,333.8211,48.7213,11.7,G07188;20SECONDTARGET
+305832152,13.1792,50.4695,10.25,G07188;20SECONDTARGET
+440003271,2.5134,46.3902,7.68,G07188;20SECONDTARGET
+197757000,337.2079,53.7711,10.42,G07188;20SECONDTARGET
+326374705,331.8016,52.6356,8.6,G07188;20SECONDTARGET
+63972440,337.6094,54.6184,11.18,G07188;20SECONDTARGET
+338071673,337.8159,63.5227,8.51,G07188;20SECONDTARGET
+378053927,352.1188,60.5655,11.06,G07188;20SECONDTARGET
+322262620,325.34,69.6928,7.8,G07188;20SECONDTARGET

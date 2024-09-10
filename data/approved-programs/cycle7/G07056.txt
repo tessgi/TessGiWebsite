@@ -1,0 +1,15 @@
+# TESS Program G07056
+
+Title: TESS 20-Second Cadence Data Of Jwst Exoplanet Host Stars
+
+PI: Huber, Daniel - University Of Hawaii (Manoa)
+
+Type: SMALL
+
+Summary: The successful launch of JWST has ushered in a new era in exoplanet science. However, JWST data alone provide an incomplete picture of exoplanets and their host stars. Here we propose TESS 20-second cadence data, which provides light curves with the highest possible precision and cadence, for all exoplanet host stars that will be observed by JWST. The data will provide a legacy TESS-JWST dataset for exoplanet science and stellar astrophysics, including constraints on the fundamental parameters and variability JWST exoplanet host stars and tests of stellar convection models by measuring granulation at optical and infrared wavelengths.
+
+
+# Sector 084 targets observed (2 min: 3, 20 s: 3)
+154101678,341.7004,44.3308,7.73,G07087;G07095;G07056;G07179;20SECONDTARGET
+200532605,339.1028,47.8616,11.13,G07056;20SECONDTARGET
+176945734,355.1029,44.3338,4.22,G07056;G07178;20SECONDTARGET

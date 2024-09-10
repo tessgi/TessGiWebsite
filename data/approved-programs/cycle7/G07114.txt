@@ -1,0 +1,14 @@
+# TESS Program G07114
+
+Title: Exploring The Excitation Mechanisms Of Roap Stars: K-Mechanism Vs Turbulent Pressure
+
+PI: Holdsworth, Daniel - York University
+
+Type: SMALL
+
+Summary: The rapidly oscillating Ap (roAp) stars provide the ideal test beds to investigate the interaction of fundamental stellar processes such as convection, atomic diffusion and pulsation, through the study of their pulsation spectra. Comparisons of observational results to those of state-of-the-art models rises significant questions to the driving mechanism of pulsations in these stars. Two distinct mechanisms are required to explain the full pulsation properties of the roAp stars: the opacity mechanism and turbulent pressure. The observational distinction between these proposed explanations is in the pulsation frequency range, which extends beyond the 2-min cadence Nyquist frequency. Here we will investigate the full range of roAp pulsation frequencies solve the driving mechanism conundrum.
+
+
+# Sector 084 targets observed (2 min: 2, 20 s: 2)
+435263600,346.7915,60.8324,7.59,G07114;20SECONDTARGET
+229960986,289.1744,63.1057,10.38,G07114;20SECONDTARGET

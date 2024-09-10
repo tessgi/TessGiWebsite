@@ -1,0 +1,10 @@
+# TESS Program G07140
+
+Title: The TESS Sco-Cen Legacy Survey
+
+PI: Boyle, Andrew - University Of North Carolina
+
+Type: LARGE
+
+Summary: The Scorpius-Centaurus association (Sco-Cen) contains 90% of young, pre-main sequence stars near the Sun. The Upper Scorpius region of Sco-Cen is <20 Myr old and will be observed by TESS for the first time in Cycle 7. The goal of this proposal is to maximize the TESS science return from analyses of Sco-Cen. We will do this by combining new Cycle 7 observations with archival data to create new light curves. Our interest is in finding young transiting exoplanets, so we will proceed by developing methods for detecting transiting planets in spot-dominated light curves, producing the highest quality light curves possible, and searching those light curves for real planets. Our light curves, planet-search software, and planet catalog will all be made available to the community.
+

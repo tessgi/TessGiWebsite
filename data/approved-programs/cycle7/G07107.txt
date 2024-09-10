@@ -1,0 +1,15 @@
+# TESS Program G07107
+
+Title: Using Simultaneous Spectroscopy And TESS Observations To Probe The Multi-Mode Behavior Of Bright, Rr Lyrae Variables
+
+PI: Wilhelm, Ronald - University Of Kentucky
+
+Type: SMALL
+
+Summary: This proposal is to conduct simultaneous, ground-based, high-resolution (R ~ 60,000) spectroscopic observations concurrent with TESS observations of bright, first-overtone, RR Lyrae pulsating stars. Our sample of 11 stars have been found to exhibit multi-mode behavior from analysis of previous TESS observations. These non-radial modes exhibit temporal variations in both amplitude and phase. Our spectroscopic observations will provide pulsation and turbulent velocities, and velocity gradient information which will be directly correlated to changes in the TESS light curves. Correlating light variations to physical motions in the stellar atmosphere will better constrain the physical mechanisms at work in these stars, and ultimately constrain the effects on distance determinations.
+
+
+# Sector 084 targets observed (2 min: 3, 20 s: 0)
+456857185,20.2182,21.7287,10.65,G07107
+80514329,18.6092,24.4154,9.86,G07107
+455896112,339.8064,64.8598,8.91,G07107

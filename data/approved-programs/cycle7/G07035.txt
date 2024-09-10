@@ -1,0 +1,10 @@
+# TESS Program G07035
+
+Title: Modeling TESS Full Frame Image Background With Neural Networks
+
+PI: Martinez-Palomera, Jorge - NASA/GSFC & Umbc
+
+Type: SMALL
+
+Summary: The background signal in TESS FFIs combines multiple effects, including Earth and Moon s scattered light, lens and CCD reflections. These effects combine to create a composite background signal that is strong and varies in time. The TESS data reduction pipeline does not correct the background in FFIs and current extraction pipelines focus mainly on creating light curves. These pipelines rely mostly on local estimations of the background or do not account for all its components. This leads to losing 10-30% of light curves due to suboptimal background modeling. In this proposed work we will use a neural network model to predict the FFI background. This model will be able to provide background values for the entire CCD image or small cutouts, enabling users to work with FFIs at different lev
+

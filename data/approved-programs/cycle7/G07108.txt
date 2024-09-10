@@ -1,0 +1,15 @@
+# TESS Program G07108
+
+Title: Searching For Type I (Thermonuclear) X-Ray Bursts With TESS
+
+PI: Kashyap, Unnati - Texas Tech University
+
+Type: SMALL
+
+Summary: We request 20-second cadence data for 92 neutron stars accreting from low mass binary companions to search for thermonuclear bursts. These bursts start as X-ray flares of durations typically of about 10-100 seconds, and the X-rays then heat the outer parts of the accretion disks, and part of the X-ray emission is reprocessed into the optical band. The recurrence time of the bursts is set by the time it takes to accrete a pile that heats up enough to trigger CNO burning, and understanding the recurrence time as a function of accretion rate yields key information about nuclear physics. TESS's continuous coverage and wide field are necessary to estimate the recurrence times, which have been hard-to-impossible to measure over the 50 years in which these bursts have been observed to date.
+
+
+# Sector 084 targets observed (2 min: 3, 20 s: 3)
+600215786,11.2074,33.0299,18.2,G07108;20SECONDTARGET
+316957286,336.2235,54.3598,16.58,G07108;20SECONDTARGET
+10001815162,350.1419,62.2926,15.85,G07108;20SECONDTARGET

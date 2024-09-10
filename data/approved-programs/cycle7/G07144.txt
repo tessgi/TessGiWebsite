@@ -1,0 +1,10 @@
+# TESS Program G07144
+
+Title: Eclipsing Binaries As Stringent Tests Of Stellar Models
+
+PI: Stevens, Daniel - University Of Minnesota-Duluth
+
+Type: SMALL
+
+Summary: Stellar models and isochrones are calibrated to match the properties of Sun-like stars, but often struggle in other regimes (e.g. low-mass stars and evolved stars). Bright eclipsing binary (EB) systems are excellent test beds for stellar models, which must reproduce both stars' precisely measured physical properties at the same age and composition. We request TESS FFIs for 13 such EBs whose components are in different evolutionary stages (e.g. a dwarf and a giant) and thus provide stringent, HR-diagram-spanning tests. We will extract light curves from the FFIs; measure their masses, radii, and temperatures to high precision the eclipses, radial velocities, and spectral energy distributions; and compare to predicted values from several stellar models.
+
