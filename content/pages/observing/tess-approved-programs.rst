@@ -18,6 +18,37 @@ For GI programs executed as part of the primary mission (July 2018-July 2020) pl
 
 For GI programs executed as part of the first extension of the mission (July 2020-September 2022) please see our `first extension proposals page <approved-programs-em1.html>`_ .
 
+Cycle 7
+=======
+.. raw:: html
+
+    <p>
+    Cycle 7 contains all targets proposed through the General Investigator program for the seventh year of the TESS mission. Programs observe sources in the Northern ecliptic hemisphere (Sectors 84-86), followed by a four sectors in the Southern ecliptic hemisphere.  Sectors 91 and 92 will be used to take first observations of the 120° section of the ecliptic that has not been observed to date. Year 7 observations will finish with four Southern pointings.
+    </p>
+
+
+.. include:: approved-programs/cycle7.html
+
+Sector 84
+=========
+.. raw:: html
+
+    <ul class="list-group">
+        <li class="list-group-item">
+          <i class="fa fa-calendar fa-margin"></i>
+           October 01. 2024 - October 26. 2024
+        </li>
+        <li class="list-group-item">
+            <i class="fa fa-download fa-margin"></i>
+            <a href="data/target_lists/sector084_targets_lists/GI_S084.csv">2 min target list (csv)</a>, 
+            <a href="data/target_lists/sector084_targets_lists/GI_20s_S084.csv">20 s target list (csv)</a>
+        </li>
+    </ul>
+
+.. include:: approved-programs/sector084.html
+
+
+	     
 Cycle 6
 =======
 .. raw:: html
@@ -36,7 +67,7 @@ Sector 83
     <ul class="list-group">
         <li class="list-group-item">
           <i class="fa fa-calendar fa-margin"></i>
-           September 05. 2024 - October 10. 2024
+           September 05. 2024 - October 01. 2024
         </li>
         <li class="list-group-item">
             <i class="fa fa-download fa-margin"></i>

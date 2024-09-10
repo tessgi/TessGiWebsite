@@ -157,8 +157,8 @@ The data from each sector are required to be available at the MAST no later than
     <td>Northern hemisphere</td>
     <td>2024&nbsp;Oct&nbsp;01</td>
     <td>2024&nbsp;Oct&nbsp;26</td>
-    <td></td>
-    <td style="min-width: 12em;">
+    <td><a href='data/target_lists/sector084_targets_lists/GI_S084.csv'>Download</a></td>
+    <td style="min-width: 12em;">Fifth TESS extended mission field, Cycle 7 begins
     </td>
   </tr>
 
@@ -1156,6 +1156,25 @@ The data from each sector are required to be available at the MAST no later than
 ## Distribution of targets 
 Illustrations showing all targets (in red) observed at 2-minute
 cadence for each camera and sector.
+
+
+
+###Cycle 7
+
+<div class="row">
+     <div class="col-md-6 text-center">
+       <a href="images/sector-plots/sector-plots.084.jpeg">
+          <img id="s084" src="images/sector-plots/sector-plots.084.jpeg" class="img-responsive">
+          Sector 84
+       </a>
+         </div>
+    	 <div class="col-md-6 text-center">
+       <a href="images/sector-plots/sector-plots.085.jpeg">
+          <img id="s085" src="images/sector-plots/sector-plots.085.jpeg" class="img-responsive">
+          Sector 85
+       </a>
+     </div>
+</div>
 
 
 ###Cycle 6
