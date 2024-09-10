@@ -1,0 +1,13 @@
+# TESS Program G07112
+
+Title: Granulation In M-Dwarfs -- A Potential For Stellar Parameters
+
+PI: Lundkvist, Mia - Aarhus Universitet
+
+Type: MINI
+
+Summary: This proposal seeks to detect the surface signature of convection, so-called granulation, in M-dwarf stars. A detection of granulation could enable the direct determination of stellar surface gravity, and potentially other global parameters, without relying on isochrone fitting or spectral matching techniques. As M-dwarfs are the most common type of star to host terrestrial-sized (here, smaller than 1.6 Earth radii) exoplanets orbiting within the habitable zone, it is crucial to place reliable constraints on their stellar parameters to further our understanding of, not only the stars, but also the exoplanets they harbor.
+
+
+# Sector 084 targets observed (2 min: 1, 20 s: 1)
+365670764,313.3325,62.1491,6.74,G07013;G07179;G07112;20SECONDTARGET

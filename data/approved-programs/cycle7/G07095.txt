@@ -1,0 +1,13 @@
+# TESS Program G07095
+
+Title: High-Time Resolution Multi-Color Properties Of Stellar Flares On G - M Dwarfs
+
+PI: Notsu, Yuta - University Of Colorado
+
+Type: SMALL
+
+Summary: We propose conducting multi-color photometry of highly active bright G-M dwarf flare stars. We perform simultaneous high-time cadence observations (~20 sec) with both TESS and ground-based telescopes. Our approach involves the utilization of custom narrow-band filters attached to the Apache Point Observatory's 3.5m and 0.5m telescopes, and simultaneous Swift & NICER observations. Our aim is to create an unprecedented catalog of Balmer jump ratios and multi-color emission properties of TESS flares. We plan to investigate how these properties evolve during the flare time, and discuss the physical mechanisms that determine flare heating rates. Our study will enable us to more accurately estimate flare energy and provide a critical constraint for the flare emission effects on exoplanets.
+
+
+# Sector 084 targets observed (2 min: 1, 20 s: 1)
+154101678,341.7004,44.3308,7.73,G07087;G07095;G07056;G07179;20SECONDTARGET

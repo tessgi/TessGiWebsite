@@ -1,0 +1,10 @@
+# TESS Program G07156
+
+Title: Asteroseismic Probes Of Convective Boundary Mixing With 200-Second TESS Ffis
+
+PI: Ong, Joel - University Of Hawaii (Manoa)
+
+Type: SMALL
+
+Summary: Convective boundary mixing (CBM) has far-reaching astrophysical consequences: it determines the lifetimes, final fates, physical properties, and population statistics of massive stars and compact objects, and governs the properties of standard candles like red clump stars. Despite this importance, it remains a major source of uncertainty in stellar modelling. Asteroseismology is our only means of probing its effects on stellar structure. Whereas existing asteroseismic investigations into CBM examine it above convective cores, we propose to use 200-second TESS full-frame images (FFIs) to probe CBM under convective envelopes, in late subgiants: a hitherto observationally inaccessible phase of evolution, and a physical regime in which it has so far been largely overlooked.
+

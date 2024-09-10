@@ -1,0 +1,17 @@
+# TESS Program G07113
+
+Title: TESS Photometry Of A Sample Of Sb2 Eclipsing Binaries
+
+PI: Helminiak, Krzysztof - Copernicus Astronomical Center
+
+Type: MINI
+
+Summary: We intend to obtain very high precision light curves of a sample of detached eclipsing and double-lined spectroscopic (SB2) binaries, which have a large number of new and unpublished high-resolution spectra (from our own observations). In total, there are over 380 stars in the program, >170 of which are available for TESS in Cycle 7. The light curves will be combined with the precise radial velocity (RV) measurements in order to obtain accurate and precise, absolute stellar parameters.
+
+
+# Sector 084 targets observed (2 min: 5, 20 s: 0)
+150862582,3.9118,18.9014,8.71,G07113
+65628544,359.285,55.7056,5.12,G07113
+191463077,11.0476,46.2354,7.42,G07113
+279605117,346.6736,70.7497,8.81,G07113
+198354348,255.9706,57.3655,10.24,G07036;G07113

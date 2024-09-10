@@ -1,0 +1,25 @@
+# TESS Program G07165
+
+Title: Exploring Subdwarf B Star Binary Evolution Through Observational Studies
+
+PI: Otani, Tomomi - Embry-Riddle Aeronautical University
+
+Type: SMALL
+
+Summary: The most promising formation scenarios for sdB stars involve binary evolutions through three different channels: 1) the Common Envelope channel, which produces short orbital period (P = 0.1-10 d) sdB binary systems; 2) the Roche Lobe Overflow channel, which results in long orbital period (450 < P < 1400 d) sdB binary systems; and 3) the white-dwarf merger channel, which produces single sdB stars. Observational studies of the orbital parameters of binaries with P > 100 d and the existence of single sdB stars are incomplete using the conventional methods, however, the pulsation timing method is suitable for research in these areas. Our group, which includes undergraduate students, will use this method to search for long-period subdwarf B (sdB) star binaries and single sdB stars.
+
+
+# Sector 084 targets observed (2 min: 13, 20 s: 13)
+336766344,7.2177,13.9129,16.06,G07165;G07167;20SECONDTARGET
+197651594,336.6439,52.4439,15.42,G07165;G07167;20SECONDTARGET
+2014259853,335.7464,51.6896,15.43,G07165;G07167;20SECONDTARGET
+1981534143,303.5127,71.9773,16.66,G07165;G07167;20SECONDTARGET
+279373920,324.5734,72.1857,11.63,G07165;G07167;G07160;20SECONDTARGET
+364966239,298.212,58.1436,14.88,G07165;G07167;20SECONDTARGET
+230008973,290.9915,60.8919,16.3,G07165;G07167;20SECONDTARGET
+1271317081,259.2769,72.7659,16.63,G07165;G07167;20SECONDTARGET
+229643707,279.7826,74.0234,16.52,G07165;G07167;20SECONDTARGET
+236765572,273.5365,68.8101,16.02,G07165;G07167;20SECONDTARGET
+356788459,268.9967,72.9623,16.36,G07165;G07167;20SECONDTARGET
+199711557,253.7255,54.3411,15.52,G07165;G07167;20SECONDTARGET
+199715319,254.4649,55.1924,16.0,G07165;G07167;20SECONDTARGET

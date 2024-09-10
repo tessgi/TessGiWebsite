@@ -1,0 +1,27 @@
+# TESS Program G07128
+
+Title: Tidally Tilted Pulsators: The Next Level
+
+PI: Handler, Gerald - Copernicus Astronomical Center
+
+Type: MINI
+
+Summary: The tidally tilted pulsators are a class of oscillating stars in close binary systems whose pulsation axis has been pulled into the orbital plane by the gravitational influence of their companion star. Their value for astrophysical study is rooted in the combination of the strengths of binary star and asteroseismic analyses; pulsational mode identifications can be achieved because the oscillations are visible over nearly 360 degrees of aspect throughout the orbital cycle. Here, we propose 44 of such objects or candidates for 20-sec or 2-min cadence for deeper study.
+
+
+# Sector 084 targets observed (2 min: 15, 20 s: 0)
+456905229,26.2231,19.8568,8.09,G07128
+24718545,349.9744,52.8372,11.42,G07128
+26282002,354.103,51.6419,10.91,G07128
+197755658,337.0072,53.6833,11.32,G07128
+271529113,354.5845,64.334,8.94,G07128
+378042585,352.075,63.3908,7.93,G07128
+232637376,281.2214,57.0881,7.78,G07036;G07128
+298734307,278.6094,57.8018,7.21,G07036;G07128;G07071
+229771231,282.2711,68.1591,11.47,G07128;G07071
+258351350,296.5109,69.9193,7.93,G07036;G07128;G07071
+420114772,290.4298,74.7626,10.05,G07036;G07128;G07071
+287079662,243.4183,65.1441,11.55,G07128
+188771372,261.3726,51.4929,9.18,G07128
+199688409,253.0515,57.7254,12.05,G07036;G07128;G07071
+356896561,273.1708,54.7685,9.15,G07036;G07128;G07071

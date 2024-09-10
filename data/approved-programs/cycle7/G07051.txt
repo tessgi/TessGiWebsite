@@ -1,0 +1,24 @@
+# TESS Program G07051
+
+Title: Asteroseismology With TESS And Song
+
+PI: Jackiewicz, Jason - New Mexico State University
+
+Type: SMALL
+
+Summary: Asteroseismology of pulsating stars has been highly successful thanks to TESS data. However, there are fundamental gaps in our knowledge of pulsators, limiting our ability to exploit these data further. One of these gaps is how oscillations are driven and damped. Fortunately, studying the connection between simultaneously observed intensity variations (from TESS data) and radial-velocity (RV) variations (from ground-based SONG data) will give critical insight into the physics of oscillations. Additionally, it will allow for mitigating stellar noise that limits our ability to detect Earth-like exoplanets with the RV method. This proposal aims to point the TESS and SONG telescopes at the same set of stars at the same time to deepen our understanding of stellar oscillations.
+
+
+# Sector 084 targets observed (2 min: 12, 20 s: 2)
+329759640,332.9562,56.8402,4.76,G07031;G07051;G07009
+372682437,311.3236,61.8444,2.58,G07051
+233121747,273.4799,64.3975,4.56,G07036;G07051;20SECONDTARGET
+233623612,284.1069,65.2579,4.81,G07036;G07051
+243279536,288.4795,57.7046,4.01,G07036;G07051
+279979429,297.0448,70.2682,3.08,G07036;G07051;20SECONDTARGET
+341873045,275.2766,72.7304,3.1,G07036;G07051
+394130313,288.8843,73.3562,3.4,G07036;G07051
+441813918,267.3638,76.9646,4.55,G07036;G07051;G07031
+459978312,255.5653,64.601,5.29,G07036;G07051
+353988778,272.6331,54.2883,5.16,G07036;G07051;G07066
+424731682,255.3199,60.649,5.32,G07036;G07051

@@ -1,0 +1,10 @@
+# TESS Program G07147
+
+Title: Tess'S Promised Breakthrough: Solving Stellar Obliquity
+
+PI: Wang, Songhu - Indiana University
+
+Type: LARGE
+
+Summary: Leveraging TESS's ability to monitor low-occurrence planets around bright stars, we propose a comprehensive study of stellar obliquity across 35 warm giants, with a special focus on the less explored warm Jupiters near hot stars and warm Sub-Saturns. Our aim is to unravel the origins of their spin-orbit misalignments: whether they arise through high-e migration or broader universal processes and to analyze how these patterns evolve with stellar temperature. By comparing the spin-orbit alignments of warm Jupiters and Sub-Saturns, we seek to uncover the specific dynamical processes shaping their orbits. This endeavor is set to provide significant insights into the formation, evolution, and dynamic history of short-period gas giants, contributing to the broader question of our Solar System.
+

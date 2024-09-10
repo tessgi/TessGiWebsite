@@ -1,0 +1,16 @@
+# TESS Program G07154
+
+Title: Mares Survey: Magnetic Remnants In Symbiotics Survey
+
+PI: Pichardo Marcano, Manuel - Fisk University
+
+Type: SMALL
+
+Summary: Symbiotic stars (SySts) are a subclass of compact binaries where typically a white dwarf (WD), accretes material from an evolved giant. Short-time-scale variability in these systems is related to the accretion process, which is crucial for understanding the evolution of these systems. The detection of periodic modulations in the optical light curves of SySts provides evidence for the presence of magnetic WD, which plays an important role in the accretion process by truncating the accretion disk and regulating the accretion flow. Finding evidence of magnetic WDs has been hard to do due to the needed cadence and accuracy of millimag. We will exploit the capabilities of TESS to do a complete survey of SySts to find evidence of magnetic WDs in all the confirmed Galactic symbiotic binaries.
+
+
+# Sector 084 targets observed (2 min: 4, 20 s: 0)
+315074928,347.3312,54.7379,15.33,G07154
+115780639,11.155,40.6793,5.3,G07154
+371739868,344.4295,58.8229,13.93,G07154
+237100139,240.4208,66.8028,8.38,G07154

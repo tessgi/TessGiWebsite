@@ -1,0 +1,10 @@
+# TESS Program G07158
+
+Title: An Accessible And Flexible Pipeline For Extracting Deblended Photometry From TESS Ffis
+
+PI: Wilson, Robert - NASA/GSFC & Usra
+
+Type: SMALL
+
+Summary: Despite large-scale efforts by the community, access to time-series photometry from the FFIs remains severely limited for stars with Tmag>13-14. To remedy this, we developed a user-friendly pipeline for extracting deblended PRF and optimized aperture photometry from FFIs. The proposed work will publish v1.0 of our pipeline after minor development, and improve the current pipeline further with an implementation of a dynamic, fully analytical PRF model (v2.0). The hyper-parameters for the PRF model will be computed and made available within 2 weeks of each sector's data release in Cycle 7. By reducing the barrier to light curve extraction, this work will allow users to access systematics-corrected and deblended light curves as soon as seconds after calibrated FFI data becomes available.
+

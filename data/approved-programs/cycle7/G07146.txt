@@ -1,0 +1,19 @@
+# TESS Program G07146
+
+Title: Ultrafast Monitoring Of White Dwarfs In TESS Cycle 7
+
+PI: Hermes, James - Boston University
+
+Type: SMALL
+
+Summary: We propose ultrafast, 20-second-cadence observations of several hundred white dwarfs visible in Cycle 7 of the TESS mission. Our proposed 20-second observations are necessary to adequately sample the short-period photometric changes of known variable white dwarfs; the variability arises from surface spots rapidly rotating in and out of view, as well as pulsations, eclipses and transits. Our proposed science case requires the fastest cadence available from TESS, and will expand the largest catalog of rapid variability in white dwarfs ever created.
+
+
+# Sector 084 targets observed (2 min: 7, 20 s: 7)
+2043754844,341.775,50.8612,16.8,G07146;20SECONDTARGET
+352444061,351.8165,40.0233,15.08,G07146;G07020;20SECONDTARGET
+191443340,10.636,41.9009,17.08,G07146;20SECONDTARGET
+288296302,5.4852,37.9437,16.91,G07146;20SECONDTARGET
+388138373,339.5983,54.4373,16.36,G07146;20SECONDTARGET
+1201274414,241.9952,66.1157,17.32,G07146;20SECONDTARGET
+219868627,259.2868,67.9535,13.48,G07146;20SECONDTARGET

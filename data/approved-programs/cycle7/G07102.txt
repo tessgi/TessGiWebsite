@@ -1,0 +1,14 @@
+# TESS Program G07102
+
+Title: Probing Cycle-To-Cycle Variations In The Rise Times Of Rrab Stars
+
+PI: Carrell, Kenneth - Angelo State University
+
+Type: MINI
+
+Summary: TESS observations have provided new and exciting results for pulsating variable stars. In particular, transient changes have been seen in the light curves of RR Lyrae stars. We are proposing to look at a faster cadence at the rise times of RRab stars to look for transient behavior in this interesting and important phase.
+
+
+# Sector 084 targets observed (2 min: 2, 20 s: 2)
+186452465,19.3647,38.9503,10.32,G07102;20SECONDTARGET
+437761208,5.9295,29.4009,9.43,G07102;20SECONDTARGET

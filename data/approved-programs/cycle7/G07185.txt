@@ -1,0 +1,16 @@
+# TESS Program G07185
+
+Title: Filling In The Spots: Multi-Color Analysis Of M Dwarf Photospheres
+
+PI: Waalkes, William - Dartmouth College
+
+Type: SMALL
+
+Summary: Starspots and faculae are challenging to study due to observational degeneracies between spectral temperature and fractional coverage of the stellar surface, and the presence of these active regions is a hindrance to studies of transiting exoplanets as they affect the host star's spectrum and introduce false positive signatures of atmospheric absorption. To address this and help mitigate spot contamination in exoplanet transmission, we propose a study of rapidly rotating M Dwarfs observable both by TESS and ground-based facilities which we will use to understand the multi-color character of stellar rotation. The proposed study will yield measurements of spot temperature for a sample of stars which is representative of many of TESS' L1 transit hosts.
+
+
+# Sector 084 targets observed (2 min: 4, 20 s: 0)
+13960751,13.703,27.5178,12.1,G07185
+155113423,345.7174,43.6376,11.05,G07185
+233068870,270.5723,64.2596,10.34,G07185;G07036
+230120143,250.0811,67.6038,11.98,G07185;G07036

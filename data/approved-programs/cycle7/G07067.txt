@@ -1,0 +1,10 @@
+# TESS Program G07067
+
+Title: Beaming In The Reflected Light Of Two Edge-On Protoplanetary Disks
+
+PI: Stapelfeldt, Karl - NASA/JPL
+
+Type: MINI
+
+Summary: TESS will obtain its first coverage of the nearby Ophiuchus star-forming region in April 2025. We target two young stars in the region which HST images have shown to be edge-on protoplanetary disks: bipolar reflection nebulae separated by a dark lane (the disk), and with diameters of 2-3 arcsec. Both have approved imaging observations with JWST. K2 data for the first target shows a factor of two variation in brightness with an ~8 day period, while the second target has never been monitored before. We reguest 2 min cadence of observations of both targets during Sector 91. The results will test the hypothesis that stellar accretion hotspots are the source of the observed beaming in the disk reflected light, by observing one edge-on disk with strong accretion sigantures and one without.
+

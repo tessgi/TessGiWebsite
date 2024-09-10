@@ -1,0 +1,13 @@
+# TESS Program G07103
+
+Title: A Census Of Complex Periodic Variables
+
+PI: Bouma, Luke - California Institute Of Technology
+
+Type: SMALL
+
+Summary: Complex periodic variables (CPVs) are a type of variable star that are probably explained by transient corotating clumps of circumstellar material. Possible sources of the material include the star itself, an undetected disk, or undetected rocky bodies. We propose to make FFI light curves for all T<16 K and M dwarfs within 100pc from Cycles 7 and 5. By searching these light curves for new CPVs, we expect to double the sample of known CPVs within 100pc. We will also release the light curves to MAST. Independently, we propose continued 2-minute observations for all previously known CPVs, and a new sample of candidates. These efforts will advance our understanding of M dwarf evolution, including perhaps the evolution of debris disks and young rocky planets.
+
+
+# Sector 084 targets observed (2 min: 1, 20 s: 0)
+230395228,286.6733,63.7545,12.35,G07036;G07103
