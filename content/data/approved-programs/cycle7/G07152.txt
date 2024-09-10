@@ -1,0 +1,10 @@
+# TESS Program G07152
+
+Title: A Survey Of Comets In TESS Observations From Years 6 And 7
+
+PI: Farnham, Tony - University Of Maryland (College Park)
+
+Type: LARGE
+
+Summary: The work proposed here will use full-frame images (FFI) to investigate both temporal and spatial phenomena in comets that serendipitously pass through the TESS fields of view during years 6 and 7 of the mission. Temporal phenomena include long term secular changes in a comet s activity as it approaches or recedes from the Sun, periodic brightness variations that reflect the nucleus rotation, and rapid, sometimes massive, brightness increases produced by explosive outbursts that are seen in many comets. Spatial studies will focus on coma morphology and the search for dust trails comprised of large dust grains that contain most of the mass lost by the comet.
+

@@ -1,0 +1,10 @@
+# TESS Program G07182
+
+Title: Planetary Architectures Of Evolved Stars: Extending Demographics Beyond Hot Jupiters
+
+PI: Grunblatt, Samuel - Johns Hopkins University
+
+Type: SMALL
+
+Summary: In contrast to main sequence systems, planet populations of evolved stars remain poorly understood. TESS has changed this by tripling the number of planets known transiting evolved stars. However, the vast majority of new discoveries have been high-SNR hot Jupiter systems, due to the relatively short TESS light curves available at first. Now, TESS Extended Mission data is making it possible to confirm longer-period and smaller-radius planets around evolved stars. Here, we propose to use the TESS Cycle 7 data to find additional transiting planet candidates around evolved stars that would otherwise be overlooked. We predict the detection of 5-10 new planet candidates, which will help resolve decades-old debates about planet inflation and migration at late evolutionary states.
+

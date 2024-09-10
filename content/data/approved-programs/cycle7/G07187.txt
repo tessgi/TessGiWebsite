@@ -1,0 +1,10 @@
+# TESS Program G07187
+
+Title: Post-Novae In Common-Envelope Systems
+
+PI: Walter, Frederick - State University Of New York At Stony Brook
+
+Type: SMALL
+
+Summary: Most novae fade back to quiescence over weeks to decades. But there are exceptions, and it is these exception that provide us with important insights into the interactions of these close binary systems. The post novae V1280 Sco and V5856 Sgr are stuck some 7-9~mag brighter than their pre-outburst magnitudes. In this extended plateau the light curves feature dips during which the optical brightness drops by up to 1 mag. During these dips the spectra change from one dominated by cool lines to a hot spectrum with strong He II 4686 and Bowen N III lines, and forbidden [O III] and [Fe VII]. This suggests that the drop in continuum opacity is revealing the central ionizing source. We propose to use TESS and Swift, along with ground-based photometry and spectroscopy, to investigate these systems
+

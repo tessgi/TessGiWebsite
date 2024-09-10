@@ -1,0 +1,30 @@
+# TESS Program G07166
+
+Title: Rotation And Non-Radial Pulsation Of Be Stars In Binary Systems
+
+PI: Da Rocha, Danilo - Observatorio Nacional
+
+Type: MINI
+
+Summary: This project aims to investigate Be stars within binary systems using a multi-technique approach, taking advantage of the TESS photometric light curve together with terrestrial spectroscopic observations, which will allow the construction of the radial velocity curve of our targets. In particular, high-cadence light curves are essential, as they will allow us to isolate signals from rotation and pulsation binaries. Thus, we will be able to determine the fundamental physics and orbital parameters of these systems. With the rotation frequencies obtained by Fourier analysis, mass and radius of Be stars provided by modeling, we can deduce their equatorial and critical rotation speeds. Furthermore, we will be able to study the rarely explored evolutionary state of the Be star.
+
+
+# Sector 084 targets observed (2 min: 18, 20 s: 3)
+444325059,358.4022,56.8199,8.14,G07037;G07166
+153880067,340.7387,44.7217,8.57,G07141;G07166
+154355871,342.5908,41.9534,5.79,G07037;G07141;G07166
+155030422,345.4804,42.326,3.75,G07141;G07166;20SECONDTARGET
+252500679,344.2689,48.684,5.22,G07141;G07166;20SECONDTARGET
+252670277,346.7759,50.1924,6.47,G07141;G07166
+25692574,352.403,48.3809,8.01,G07166
+177638673,359.6937,46.4132,6.52,G07141;G07166
+240757326,11.1816,48.2843,4.42,G07141;G07166;20SECONDTARGET
+324820890,330.4092,50.168,9.15,G07037;G07141;G07166
+326247844,331.5348,49.9024,9.61,G07037;G07141;G07166
+429843636,323.0863,59.5725,7.58,G07037;G07166
+431116093,335.0947,51.861,7.12,G07037;G07141;G07166
+377900979,348.8663,62.079,8.89,G07037;G07141;G07166
+411577031,328.8793,65.3208,6.16,G07037;G07141;G07166
+434893323,346.0093,63.3969,7.23,G07037;G07141;G07166
+322060937,324.2377,68.1853,8.17,G07037;G07166
+387813185,315.404,68.1633,6.77,G07180;G07037;G07141;G07166

@@ -1,0 +1,16 @@
+# TESS Program G07076
+
+Title: Establishing TESS Long-Period Candidate Follow-Up Using A Global Network Of Observers
+
+PI: Pablo, Herbert - Aavso
+
+Type: SMALL
+
+Summary: Long period ( P > 50 d) exoplanets are difficult to detect and even more difficult to confirm due to timing constraints. For this reason there are only 83 confirmed long period planets with well determined mass and radii. We aim to increase this number by providing photometric follow up on 39 candidates which are easily accessible by small ground based telescopes. These candidates are also uniquely positioned in the period-radius diagram to provide crucial data points for understanding planetary formation and migration. A partnership between Exoplanet watch and AAVSO has assembled a global network of more than 2500 citizen scientists to observe and reduce these targets. This network has already taken data on over 300 planets from 143 unique sites.
+
+
+# Sector 084 targets observed (2 min: 4, 20 s: 0)
+252490659,344.3598,53.1408,10.38,G07076
+229742722,279.8319,69.5228,9.94,G07036;G07076;G07157;G07109
+232608943,258.4504,64.5662,11.88,G07036;G07076;G07157;G07109
+458481611,233.4796,64.6474,12.95,G07076;G07109

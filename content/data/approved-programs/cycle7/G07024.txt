@@ -1,0 +1,20 @@
+# TESS Program G07024
+
+Title: The Photometric Variability Of Short-Period Wolf-Rayet Binaries
+
+PI: Richardson, Noel - Embry-Riddle Aeronautical University
+
+Type: SMALL
+
+Summary: Massive stars are the largest source of heavy elements and ionizing radiation in the Universe. They are usually found in binary systems and the interaction of the stars dominate the evolution of massive stars. The stripped cores of a mass donor in an interacting binary can exhibit the Wolf-Rayet phenomenon, where a hot stellar core exhibits a strong wind at high velocity. This same effect can be seen in the most massive stars where an optically thick wind enshrouds a very massive star. This proposal aims to measure masses and photometric properties of binary WR stars, both the classical H-free stars and the very massive young stars. We intend to find as many eclipsing WR binaries as observable with TESS - four additional ones have already been discovered! We will model the eclipsing binari
+
+
+# Sector 084 targets observed (2 min: 8, 20 s: 8)
+329136425,332.3893,57.7418,11.05,G07024;20SECONDTARGET
+330741403,334.1001,55.6269,11.23,G07024;20SECONDTARGET
+384095917,327.5232,50.7068,11.84,G07024;20SECONDTARGET
+414018497,336.8242,56.2533,10.26,G07024;20SECONDTARGET
+416028609,339.2248,56.9058,8.36,G07024;20SECONDTARGET
+421782795,334.69,56.1261,8.52,G07024;20SECONDTARGET
+2048315325,348.8016,60.4505,9.78,G07024;20SECONDTARGET
+434333256,345.0422,60.9273,9.45,G07024;20SECONDTARGET

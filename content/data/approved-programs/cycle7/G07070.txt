@@ -1,0 +1,14 @@
+# TESS Program G07070
+
+Title: Characterizing The Most Promising Astrobiological Targets For The Habitable Worlds Observatory
+
+PI: Gilbert, Emily - NASA/JPL
+
+Type: SMALL
+
+Summary: One of the main recommendations in the 2020 Astro Decadal Survey is the development of a UV/O/IR facility capable of directly imaging small exoplanets in the habitable zones of their host stars in order to search for biosignatures. To that end, the Exoplanet Exploration Program office has compiled a list of likely targets for this telescope. We propose to observe the targets from this list visible in Cycle 7 in order to determine their ages, measure fundamental stellar properties via asterosiesmology, measure flare rates, and search for planets. It is imperative that we study these stars to the best of our ability now so that we can prioritize the most promising targets for the Habitable Worlds Observatory.
+
+
+# Sector 084 targets observed (2 min: 2, 20 s: 2)
+238432056,1.6563,29.0203,5.4,G07013;G07070;G07179;20SECONDTARGET
+113710966,25.6218,20.2639,4.49,G07013;G07070;G07179;20SECONDTARGET

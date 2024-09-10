@@ -1,0 +1,18 @@
+# TESS Program G07111
+
+Title: Exploring Outbursts In Be Stars With TESS And Ground-Based Spectroscopy
+
+PI: Emilio, Marcelo - Universidade Estadual De Ponta Grossa
+
+Type: MINI
+
+Summary: We propose to continue the search for and characterization of discrete mass-loss events (outbursts) in Be stars located in TESS observation fields as well as in those observed during the Kepler/K2 mission. Rapid rotation alone cannot explain the ejection episodes of Be stars, and non-radial pulsations (NRP) have been proposed as an explanation. Our goal is to verify the correlation between the NRP regime and the feeding of the envelope by combining ground-based spectroscopy data with the identification of outbursts and the measurement of small changes in pulsation frequencies with TESS 20-second cadence observations. Fourier analysis of photometric data is performed using a methodology developed for CoRoT and K2 Be stars.
+
+
+# Sector 084 targets observed (2 min: 6, 20 s: 0)
+267767305,312.1365,53.9061,7.63,G07037;G07141;G07111
+268109716,312.7916,55.4887,7.47,G07037;G07141;G07111
+275415829,319.7806,61.8584,6.19,G07037;G07141;G07111
+352556540,306.3867,54.6842,7.12,G07037;G07141;G07111
+233613741,283.4363,60.0179,7.15,G07037;G07036;G07141;G07111;G07111
+236785664,283.0091,59.6671,6.98,G07037;G07036;G07111;G07111

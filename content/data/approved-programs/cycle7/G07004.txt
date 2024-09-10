@@ -1,0 +1,10 @@
+# TESS Program G07004
+
+Title: A Next Generation Circumbinary Planet Search With TESS
+
+PI: Martin, David - Tufts University
+
+Type: SMALL
+
+Summary: The discovery of circumbinary planets (CBPs) was a breakthrough over a decade ago. They are a unique comparison sample to single-star planets, testing the limits of planet formation. Slightly more than a dozen planets have been found, but the field has plateaued, limited by rudimentary by-eye detection methods and Kepler's limited sky coverage. Only with TESS and the latest automated Stanley detection algorithm can we more than double the number of CBPs. The addition of cycle 7 is more essential for a CBP study than for a study of planets around single stars, owing to the typically long-period orbits of CBPs. In addition to individually interesting new systems, our TESS sample will enable a broad study of the occurrence rate, habitability and formation of CBPs. Brighter stars will also ass
+

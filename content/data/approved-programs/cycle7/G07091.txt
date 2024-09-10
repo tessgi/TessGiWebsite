@@ -1,0 +1,10 @@
+# TESS Program G07091
+
+Title: Refining Exoplanet Dynamics With Enhanced Ttv Analyses
+
+PI: Becker, Juliette - University Of Wisconsin-Madison
+
+Type: SMALL
+
+Summary: The formation mechanisms invoked to explain the existence of the multi-planet systems so ubiquitous in the exoplanet sample often involve disk migration, a mechanism which frequently results in capture into mean motion resonance (MMR). However, since we cannot observe the processes of disk migration directly, we are left studying its byproducts, which includes the orbital architectures of systems where planets are found near or in resonance. To make further progress towards understanding these fundamental formation questions, we propose to study transit timing variations (TTVs) of planets in multi-planet systems near or in resonance using TESS Cycle 7 observations. These new measurements of TTVs will extend existing baselines on our targets, resulting in more precise orbital solutions and
+

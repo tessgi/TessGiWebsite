@@ -1,0 +1,25 @@
+# TESS Program G07119
+
+Title: Measuring Fundamental Stellar Parameters Of Low-Metallicity Eclipsing Binaries
+
+PI: Rowan, Dominick - Ohio State University
+
+Type: SMALL
+
+Summary: We propose to combine TESS photometry and ground-based spectroscopy to measure the fundamental parameters of 30 low-metallicity main sequence eclipsing binaries (EBs). Detached EBs are the most effective tool to measure precise masses and radii of stars. Less than half of main sequence binaries with dynamical masses and radii have metallicity estimates, and there are even fewer metal poor targets. We identified 42 metal poor EB candidates by combining the ASAS-SN EB catalog with spectroscopic surveys and Gaia astrometry. We propose to use TESS light curves and ground-based radial velocities to dynamically measure the masses and radii of 30 systems. By doing so we can improve models for metal poor stars and empirical relations between stellar properties.
+
+
+# Sector 084 targets observed (2 min: 13, 20 s: 0)
+267806749,10.9807,35.0947,12.42,G07119
+238282623,0.3067,21.9366,12.23,G07119
+56230057,355.9513,27.1084,12.84,G07119
+242799385,8.9295,23.444,12.9,G07119
+24466755,349.1691,53.761,13.23,G07119
+431609165,358.089,53.2498,12.83,G07119
+83909864,4.0139,61.5976,12.33,G07119
+291728538,358.6529,37.6882,11.85,G07119
+258950766,9.6948,40.7962,12.39,G07119
+324341009,329.8151,48.1458,13.33,G07119
+314623613,346.5561,59.2424,12.82,G07119
+469425528,307.4026,54.4436,11.94,G07119
+230392332,286.3736,62.5543,11.5,G07119
