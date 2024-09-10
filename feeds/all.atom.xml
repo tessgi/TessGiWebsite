@@ -1,5 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>TESS</title><link href="https://heasarc.gsfc.nasa.gov/docs/tess/" rel="alternate"></link><link href="https://heasarc.gsfc.nasa.gov/docs/tess/feeds/all.atom.xml" rel="self"></link><id>https://heasarc.gsfc.nasa.gov/docs/tess/</id><updated>2024-09-09T00:00:00-04:00</updated><entry><title>TESS Weekly Bulletin: Sep 9th</title><link href="https://heasarc.gsfc.nasa.gov/docs/tess/tess-weekly-bulletin-sep-9th.html" rel="alternate"></link><published>2024-09-09T00:00:00-04:00</published><updated>2024-09-09T00:00:00-04:00</updated><author><name>Veselin Kostov</name></author><id>tag:heasarc.gsfc.nasa.gov,2024-09-09:/docs/tess/tess-weekly-bulletin-sep-9th.html</id><summary type="html">&lt;p&gt;Welcome TESS followers to our latest news bulletin!&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>TESS</title><link href="https://heasarc.gsfc.nasa.gov/docs/tess/" rel="alternate"></link><link href="https://heasarc.gsfc.nasa.gov/docs/tess/feeds/all.atom.xml" rel="self"></link><id>https://heasarc.gsfc.nasa.gov/docs/tess/</id><updated>2024-09-10T10:00:00-04:00</updated><entry><title>TESS Cycle 7 selections</title><link href="https://heasarc.gsfc.nasa.gov/docs/tess/tess-cycle-7-selections.html" rel="alternate"></link><published>2024-09-10T10:00:00-04:00</published><updated>2024-09-10T10:00:00-04:00</updated><author><name>Rebekah Hounsell</name></author><id>tag:heasarc.gsfc.nasa.gov,2024-09-10:/docs/tess/tess-cycle-7-selections.html</id><summary type="html">&lt;p&gt;Hello and welcome TESS followers to this special news bulletin! Here we will discuss the results of the Cycle 7 proposal season.&lt;/p&gt;
+&lt;p&gt;The Cycle 7 review was held earlier this year in late May, with over 120 proposals submitted, seven of which being joint proposals. Of these proposals 14 were …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Hello and welcome TESS followers to this special news bulletin! Here we will discuss the results of the Cycle 7 proposal season.&lt;/p&gt;
+&lt;p&gt;The Cycle 7 review was held earlier this year in late May, with over 120 proposals submitted, seven of which being joint proposals. Of these proposals 14 were large, 96 small, and 13 mini. These proposals were split into one of five fields: Exoplanet (33), Stellar Astrophysics (77), Accretion and Extragalactic (5), Solar System (3), and Other (5). The proposals were then assessed by one of six panels.&lt;/p&gt;
+&lt;p&gt;In total 38 proposals were accepted, three of which were joint programs with Swift and/or NICER. The scientific breakdown of these proposals were as follows:&lt;/p&gt;
+&lt;div class="panel panel-primary"&gt;
+  &lt;div class="panel-heading"&gt;
+    &lt;h3 class="panel-title"&gt;Accepted Proposals&lt;/h3&gt;
+  &lt;/div&gt;
+
+&lt;table class="table table-striped table-hover" style="font-size: 0.77em;"&gt;
+       &lt;col style="width:20%"&gt;
+       &lt;col style="width:20%"&gt;
+       &lt;col style="width:20%"&gt;
+       &lt;col style="width:20%"&gt;
+
+       &lt;thead&gt;
+       &lt;tr&gt;
+       &lt;th style="vertical-align: middle;"&gt;Category&lt;/th&gt;
+       &lt;th style="vertical-align: middle;"&gt;Exoplanet&lt;/th&gt;
+       &lt;th style="vertical-align: middle;"&gt;Stellar Astrophysics&lt;/th&gt;
+       &lt;th style="vertical-align: middle;"&gt;&lt;/p&gt;Accretion and Extragalactic&lt;/th&gt;
+       &lt;th style="vertical-align: middle;"&gt;Solar System&lt;/th&gt;
+       &lt;th style="vertical-align: middle;"&gt;Other&lt;/th&gt;
+       &lt;/tr&gt;
+       &lt;/thead&gt;
+
+
+       &lt;tr&gt;  
+       &lt;td&gt;Large&lt;/td&gt;
+       &lt;td&gt;2&lt;/td&gt; 
+       &lt;td&gt;0&lt;/td&gt;
+       &lt;td&gt;0&lt;/td&gt;
+       &lt;td&gt;1&lt;/td&gt;
+       &lt;td&gt;0&lt;/td&gt;
+       &lt;/tr&gt;
+
+        &lt;tr&gt;  
+       &lt;td&gt;Small&lt;/td&gt;
+       &lt;td&gt;9&lt;/td&gt; 
+       &lt;td&gt;17&lt;/td&gt;
+       &lt;td&gt;1&lt;/td&gt;
+       &lt;td&gt;0&lt;/td&gt;
+       &lt;td&gt;3&lt;/td&gt;
+       &lt;/tr&gt;
+
+        &lt;tr&gt;  
+       &lt;td&gt;Mini&lt;/td&gt;
+       &lt;td&gt;0&lt;/td&gt; 
+       &lt;td&gt;5&lt;/td&gt;
+       &lt;td&gt;0&lt;/td&gt;
+       &lt;td&gt;0&lt;/td&gt;
+       &lt;td&gt;0&lt;/td&gt;
+       &lt;/tr&gt;
+
+        &lt;tr&gt;  
+       &lt;td&gt;&lt;b&gt;Total:&lt;/b&gt;&lt;/td&gt;
+       &lt;td&gt;&lt;b&gt;11&lt;/b&gt;&lt;/td&gt; 
+       &lt;td&gt;&lt;b&gt;22&lt;/b&gt;&lt;/td&gt;
+       &lt;td&gt;&lt;b&gt;1&lt;/b&gt;&lt;/td&gt;
+       &lt;td&gt;&lt;b&gt;1&lt;/b&gt;&lt;/td&gt;
+       &lt;td&gt;&lt;b&gt;3&lt;/b&gt;&lt;/td&gt;
+       &lt;/tr&gt;
+
+     &lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;img src="images/Cycle7_selected.png", style="max-width:70%;"&gt;&lt;/p&gt;
+&lt;p&gt;Our &lt;a href="approved-programs.html#cycle-7"&gt;approved programs page&lt;/a&gt; provides the full list of accepted Cycle 7 proposals. &lt;/p&gt;
+&lt;p&gt;Congratulations to all successful PI's and Co-I's!
+To those of you who did not receive acceptance letters this time round, we strongly encourage you to apply again in the future. 
+Thank you all for the wonderful science proposed, it is through your hard work that the TESS mission is a success. &lt;/p&gt;</content><category term="news"></category></entry><entry><title>TESS Weekly Bulletin: Sep 9th</title><link href="https://heasarc.gsfc.nasa.gov/docs/tess/tess-weekly-bulletin-sep-9th.html" rel="alternate"></link><published>2024-09-09T00:00:00-04:00</published><updated>2024-09-09T00:00:00-04:00</updated><author><name>Veselin Kostov</name></author><id>tag:heasarc.gsfc.nasa.gov,2024-09-09:/docs/tess/tess-weekly-bulletin-sep-9th.html</id><summary type="html">&lt;p&gt;Welcome TESS followers to our latest news bulletin!&lt;/p&gt;
 &lt;p&gt;First things first – if you are interested in citizen science with TESS, you can check out the latest project called &lt;strong&gt;&lt;a href="https://www.zooniverse.org/projects/vbkostov/eclipsing-binary-patrol"&gt;Eclipsing Binary Patrol&lt;/a&gt;&lt;/strong&gt;. Launched on Sep 3, 2024, Eclipsing Binary Patrol aims at confirming that a particular object observed by TESS is …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Welcome TESS followers to our latest news bulletin!&lt;/p&gt;
 &lt;p&gt;First things first – if you are interested in citizen science with TESS, you can check out the latest project called &lt;strong&gt;&lt;a href="https://www.zooniverse.org/projects/vbkostov/eclipsing-binary-patrol"&gt;Eclipsing Binary Patrol&lt;/a&gt;&lt;/strong&gt;. Launched on Sep 3, 2024, Eclipsing Binary Patrol aims at confirming that a particular object observed by TESS is indeed an eclipsing binary, ensuring the orbital period is correct, and verifying that the target star is the source of the detected eclipses.&lt;/p&gt;
 &lt;p&gt;This week, we are looking at three recent papers from the archive. Enjoy!&lt;/p&gt;
@@ -1912,32 +1982,4 @@ Using TESS full frame images from Sector 1 - 5 the authors have examined 33,054 
 &lt;p&gt;&lt;img alt="Borkovits" src="images/Borkovits.png" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Fig. 2:&lt;/strong&gt; &lt;em&gt;Taken from Borkovits, et al., (2021). Folded, binned, and averaged TESS light curves of the two binaries of the quadruple system BG Ind. Upper panel: Sector 1 light curve of binary A (blue circles), together with the folded, binned, and averaged combined spectro-photodynamical model light curve (red curve). Middle and lower panels: Year 1 (Sector 1) and Year 3 (Sector 27 and 28) light curves of binary B, respectively. The red solution curve exhibits some small extra fluctuations that are probably due to the chromospheric/photospheric activities of the stars. These were modelled mathematically with Fourier-harmonics simultaneously with the two-binary model, while the thin grey curves represent the pure two-binary part of the same solution. The fold of the residuals to the models are also shown below the folded light curves.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img alt="Ilkiewicz" src="images/Ilkiewicz.png" /&gt;
-&lt;strong&gt;Fig. 3:&lt;/strong&gt; &lt;em&gt;Taken from Ilkiewicz et. al., (2021). Representative samples of the TESS light-curve of AQ Men (black points) with corresponding errors (grey lines) at different timescales. The data is from TESS sector 11.&lt;/em&gt;&lt;/p&gt;</content><category term="news"></category></entry><entry><title>A “Beta” Trial of Quick-Look TESS Orbit Data: Early Release of Sector 35 Orbit 1 Calibrated Full Frame Images</title><link href="https://heasarc.gsfc.nasa.gov/docs/tess/a-beta-trial-of-quick-look-tess-orbit-data-early-release-of-sector-35-orbit-1-calibrated-full-frame-images.html" rel="alternate"></link><published>2021-03-04T10:00:00-05:00</published><updated>2021-03-04T10:00:00-05:00</updated><author><name>Rebekah Hounsell</name></author><id>tag:heasarc.gsfc.nasa.gov,2021-03-04:/docs/tess/a-beta-trial-of-quick-look-tess-orbit-data-early-release-of-sector-35-orbit-1-calibrated-full-frame-images.html</id><summary type="html">&lt;p&gt;Hello TESS followers! We would like to take this opportunity to inform you, the community, of a new High Level Science Product (HLSP) being released at  &lt;a href="https://archive.stsci.edu"&gt;MAST&lt;/a&gt; called &lt;a href="https://archive.stsci.edu/hlsp/tica"&gt;TICA&lt;/a&gt; &lt;a href="https://iopscience.iop.org/article/10.3847/2515-5172/abd63a"&gt;(Fausnaugh et al. 2020)&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;TICA provides a calibrated version of TESS full frame images (FFIs). These FFIs are the same products …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Hello TESS followers! We would like to take this opportunity to inform you, the community, of a new High Level Science Product (HLSP) being released at  &lt;a href="https://archive.stsci.edu"&gt;MAST&lt;/a&gt; called &lt;a href="https://archive.stsci.edu/hlsp/tica"&gt;TICA&lt;/a&gt; &lt;a href="https://iopscience.iop.org/article/10.3847/2515-5172/abd63a"&gt;(Fausnaugh et al. 2020)&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;TICA provides a calibrated version of TESS full frame images (FFIs). These FFIs are the same products used by the TESS Science Office at MIT to create the &lt;a href="https://www.google.com/url?q=https://archive.stsci.edu/hlsp/qlp&amp;amp;sa=D&amp;amp;source=editors&amp;amp;ust=1614893557574000&amp;amp;usg=AOvVaw10KvxqkSyHfpCT95L4I8VV"&gt;QLP&lt;/a&gt;-extracted light curves, also provided as an HLSP at MAST.  TICA is able to process a full ~13.7-day orbit of FFIs within ~1 day of the data being downloaded to the ground.  In principle, this allows for “quick-look” calibrated versions of the FFIs for an orbit to be made public to the TESS community up to several weeks earlier than the full ~27-day Sector’s worth of standard mission products.&lt;/p&gt;
-&lt;p&gt;To trial rapid release of TESS data, the calibrated TICA FFIs from the first orbit of Sector 35 will be released early to the community as an HLSP on &lt;strong&gt;Monday, March 8th&lt;/strong&gt;. These data will be made public earlier than the standard mission products, and thus &lt;strong&gt;will be the first release of calibrated pixel data for this Sector&lt;/strong&gt;. The standard mission products for this and all following sectors will still be delivered to the community on the nominal timeline. This activity is being conducted as a “beta” trial, to test a process through which “quick-look” calibrated images could be expeditiously released to the community on an orbit-by-orbit basis, instead of waiting for a full Sector (two orbits) to be completed and processed.  This will allow our TESS community to more rapidly begin analysis, plan follow-up observations, or search for transients and moving targets.  It will also reduce the impact associated with the delay between TESS observations being completed and the data being made public, such as the decay of exoplanet orbital ephemerides or the seasonal availability of telescope time to conduct follow-up in that Sector’s region of the sky.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;What Will Be Provided As Part Of This Beta Trial?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The TICA-calibrated FFIs from the first orbit of Sector 35 will be made available for download from the &lt;a href="https://archive.stsci.edu/hlsp/tica"&gt;TICA HLSP&lt;/a&gt; webpage.  The files will be made available to download using &lt;a href="https://curl.se"&gt;curl&lt;/a&gt; scripts, which will allow users to download the full set of FITS images, or select a subset of FITS images to retrieve.  These curl scripts will function in a similar way to those provided as bulk downloads for the mission-produced products.  Many users will find curl already installed on their machines, if not, the software is open source and freely available to install.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Contents Of This Beta Trial&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;The astrometric solutions from the TICA-calibrated images typically differ from those provided by the standard TESS mission products by less than 2 arc seconds. Similarly, the TESS magnitudes of individual objects typically differ by less than 1 millimagnitude.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Only the calibrated TICA FFis will be made available, thus serving as a quick-look version of the data.  The raw data will not be included as part of this activity, and the release does not include light curves.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;The TICA FFis will only be available for download using the bulk scripts on the HLSP page at MAST.  The TICA files will not be available through the MAST Portal, through the MAST API or astroquery.mast, and will not be available for use in TESSCut.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;These are quick-look products, thus the same level of documentation and support will not be available as for the standard mission products.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Only Sector 35, Orbit 1 will be released as part of this beta trial.  Similar quick-look, single orbit early-releases beyond Sector 35 Orbit 1 will be re-assessed by the mission at a later date, based in part on feedback from the community.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;What Will Change With The Standard Sector 35 Release?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Nothing will change in terms of the release of the standard Sector 35 products.  When the full Sector of data is processed, it will be released in its entirety at MAST following the normal process, including being made available through the MAST Portal, the MAST APIs, bulk scripts, and TESSCut.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Questions or Feedback?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;If you have any problems accessing these data at MAST, please email the archive help desk at archive@stsci.edu.
-If you have feedback on this early release of quick-look versions of FFI data, including if this will enable new science or greatly enhance your existing science goals, please email the &lt;a href="mailto:tesshelp@bigbang.gsfc.nasa.gov"&gt;TESS Guest Investigator Office&lt;/a&gt;.&lt;/p&gt;</content><category term="news"></category></entry></feed>
+&lt;strong&gt;Fig. 3:&lt;/strong&gt; &lt;em&gt;Taken from Ilkiewicz et. al., (2021). Representative samples of the TESS light-curve of AQ Men (black points) with corresponding errors (grey lines) at different timescales. The data is from TESS sector 11.&lt;/em&gt;&lt;/p&gt;</content><category term="news"></category></entry></feed>
