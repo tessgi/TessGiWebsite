@@ -29,6 +29,8 @@ The [TUC Charter](data/TESS_Users_Committee_Charter_2023Aug15.pdf) describes in 
 	<ul>
 	<li><a href="data/TUC-Community-Survey-Summary-Part-1.pdf">TUC Community Survey Summary Slides</a></li>
 	<li><a href="data/TUC-Community-Survey-Summary-Part-2.pdf">TUC Community Survey Summary Document</a></li>
+	<li><a href="data/TSC3-TUC-Session-Combined.pdf">TSC3 TUC Session Combined Slides</a></li>
+	<li><a href="data/TSC3_TUC_Session_Summary_240829.pdf">TSC3 TUC Session Summary Document</a></li>
 	</ul>
 
 </li>
