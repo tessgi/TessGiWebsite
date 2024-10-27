@@ -48,6 +48,46 @@ Sector 84
 .. include:: approved-programs/sector084.html
 
 
+Sector 85
+=========
+.. raw:: html
+
+    <ul class="list-group">
+        <li class="list-group-item">
+          <i class="fa fa-calendar fa-margin"></i>
+           October 26. 2024 - November 21. 2024
+        </li>
+        <li class="list-group-item">
+            <i class="fa fa-download fa-margin"></i>
+            <a href="data/target_lists/sector085_targets_lists/GI_S085.csv">2 min target list (csv)</a>, 
+            <a href="data/target_lists/sector085_targets_lists/GI_20s_S085.csv">20 s target list (csv)</a>
+        </li>
+    </ul>
+
+.. include:: approved-programs/sector085.html
+
+
+	     
+Sector 86
+=========
+.. raw:: html
+
+    <ul class="list-group">
+        <li class="list-group-item">
+          <i class="fa fa-calendar fa-margin"></i>
+           November 21. 2024 - December 18. 2024
+        </li>
+        <li class="list-group-item">
+            <i class="fa fa-download fa-margin"></i>
+            <a href="data/target_lists/sector086_targets_lists/GI_S086.csv">2 min target list (csv)</a>, 
+            <a href="data/target_lists/sector086_targets_lists/GI_20s_S086.csv">20 s target list (csv)</a>
+        </li>
+    </ul>
+
+.. include:: approved-programs/sector086.html
+
+
+	     
 	     
 Cycle 6
 =======
