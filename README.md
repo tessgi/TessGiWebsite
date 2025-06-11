@@ -5,8 +5,6 @@
 
 Live URL: https://heasarc.gsfc.nasa.gov/docs/tess/
 
-Test URL: http://tessgi.github.io/TessGiWebsite/
-
 
 ## Quickstart
 
